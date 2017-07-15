@@ -65,7 +65,9 @@ ordertests:
 tests: exttests
 
 exttests:
-	@echo "123*kg15" | ./cdu > /dev/null && echo "." || echo "FAILED!";
+	@echo "123*kg15"     | ./cdu > /dev/null && echo "." || echo "FAILED!";
+	@echo "123.123*kg15" | ./cdu > /dev/null && echo "." || echo "FAILED!";
+	@echo "123.456*kg15" | ./cdu > /dev/null && echo "." || echo "FAILED!";
 fails:
 	@echo ".1" | ./cdu 2> /dev/null && echo "FAILED!" || echo ".";
 	@echo ".2" | ./cdu 2> /dev/null && echo "FAILED!" || echo ".";

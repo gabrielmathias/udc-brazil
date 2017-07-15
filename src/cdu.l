@@ -13,7 +13,7 @@
 
 [ \t]	; // ignore all whitespace
 [0-9]+	{return T_CDU;}
-\.[0-9]+(\.[0-9]+)?(\*[\w\d])?	{return T_CDU_PARTIAL;}
+(\.[0-9]+(\.[0-9]+)?)?(\*.+)?	{return T_CDU_PARTIAL;}
 \n			{return T_NEWLINE;}
 [a-zA-Z `'"!?.-]+	{return T_TEXT;}
 "::"		{return T_DOUBLE_COLON;}
