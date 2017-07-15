@@ -20,10 +20,12 @@ void yyerror(const char* s);
 }
 
 %token<ival> T_INT
-%token T_CDU_3
+%token T_CDU_PARTIAL
+%token T_CDU_CORDINATION
 %token T_CDU
-%token T_PLUS T_MINUS T_MULTIPLY T_DIVIDE T_LEFT T_RIGHT
+%token T_ARROW T_PLUS T_MINUS T_MULTIPLY T_DIVIDE T_LEFT T_RIGHT T_COLON T_DOUBLE_COLON
 %token T_NEWLINE T_QUIT
+%token T_TEXT
 %left T_PLUS T_MINUS
 %left T_MULTIPLY T_DIVIDE
 
@@ -39,13 +41,24 @@ calculation:
 ;
 
 line: T_NEWLINE
+    | cdu_expression T_NEWLINE 			{ printf("\tCDU!!\n"); }
+    | cdu_expression T_TEXT T_NEWLINE 		{ printf("\tCDU and TEXT\n"); }
     | mixed_expression T_NEWLINE { printf("\tResult: %f\n", $1);}
     | expression T_NEWLINE { printf("\tResult: %i\n", $1); } 
     | T_QUIT T_NEWLINE { printf("bye!\n"); exit(0); }
 ;
 
-mixed_expression: T_CDU					 {  }
-	  | mixed_expression T_PLUS mixed_expression	 { $$ = $1 + $3; }
+cdu_expression: T_CDU						{ printf("CDU\n"); }
+        | T_CDU T_CDU_PARTIAL					{ printf("CDU WITH PARTIAL\n"); }
+	| T_CDU T_CDU_PARTIAL T_DIVIDE T_CDU T_CDU_PARTIAL	{ printf("consecutive extension with full cdu\n"); }
+	| T_CDU T_CDU_PARTIAL T_DIVIDE T_CDU_PARTIAL		{ printf("consecutive extension with partial \n"); }
+	| T_CDU T_DOUBLE_COLON cdu_expression			{ printf("order fixing with cdu \n"); }
+	| T_CDU T_CDU_PARTIAL T_DOUBLE_COLON cdu_expression	{ printf("order fixing with full cdu \n"); }
+	| T_CDU T_COLON cdu_expression				{ printf("simple relation with cdu \n"); }
+	| T_CDU T_CDU_PARTIAL T_COLON cdu_expression		{ printf("simple relation with full cdu \n"); }
+	| cdu_expression T_PLUS cdu_expression			{ printf("coordination \n"); }
+
+mixed_expression: mixed_expression T_PLUS mixed_expression	 { $$ = $1 + $3; }
 	  | mixed_expression T_MINUS mixed_expression	 { $$ = $1 - $3; }
 	  | mixed_expression T_MULTIPLY mixed_expression { $$ = $1 * $3; }
 	  | mixed_expression T_DIVIDE mixed_expression	 { $$ = $1 / $3; }
