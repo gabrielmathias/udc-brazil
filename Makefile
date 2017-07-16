@@ -1,6 +1,8 @@
 FILES = $(wildcard data/*txt)
+GOOD_TESTS = $(wildcard good_tests/*txt)
+BAD_TESTS = $(wildcard bad_tests/*txt)
 
-all: cdu alltests fails
+all: cdu tests
 
 build/cdu.tab.c build/cdu.tab.h:	src/cdu.y
 	cd build ; bison -d ../src/cdu.y ; cd -
@@ -17,61 +19,12 @@ clean:
 convert: $(FILES)
 	ls -al $(FILES)
 
-alltests: cdutests coordinationtests consecutivetests relationtests tests
+tests: goodtests badtests
 
-cdutests:
-	@echo "1" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "2" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "3" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "11" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "22" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "33" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123." | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123.4" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123.45" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123.456" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123.456." | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123.456.7" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123.456.78" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123.456.789" | ./cdu > /dev/null && echo "." || echo "FAILED!";
+goodtests:
+	@echo "Good Tests"
+	@echo $(foreach GOOD, $(GOOD_TESTS), $(shell sh -c "./testgood.sh $(GOOD) " ))
 
-coordinationtests:
-	@echo "123+456" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123.123+456" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123+456.456" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123+456" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-
-consecutivetests:
-	@echo "123.456/123.456" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123.456/.457" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-
-relationtests:
-	@echo "123:456" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123.123:456" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123:456.456" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123.123:456.456" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123.123:456.456/.777" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123::456" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-
-
-ordertests:
-	@echo "123::456" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123.123::456.456" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123::456 comtexto" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123::456 e com texto" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123::456 e com texto ! ! ! !" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-
-tests: exttests
-
-exttests:
-	@echo "123*kg15"     | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123.123*kg15" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-	@echo "123.456*kg15" | ./cdu > /dev/null && echo "." || echo "FAILED!";
-fails:
-	@echo ".1" | ./cdu 2> /dev/null && echo "FAILED!" || echo ".";
-	@echo ".2" | ./cdu 2> /dev/null && echo "FAILED!" || echo ".";
-	@echo ".3" | ./cdu 2> /dev/null && echo "FAILED!" || echo ".";
-	@echo ".12" | ./cdu 2> /dev/null && echo "FAILED!" || echo ".";
-	@echo ".23" | ./cdu 2> /dev/null && echo "FAILED!" || echo ".";
-	@echo ".123" | ./cdu 2> /dev/null && echo "FAILED!" || echo ".";
+badtests:
+	@echo "Bad Tests"
+	@echo $(foreach BAD, $(BAD_TESTS), $(shell sh -c "./testbad.sh  $(BAD) " ))

@@ -1,0 +1,1 @@
+123.123*{tudo-junto-sem-espaco}
