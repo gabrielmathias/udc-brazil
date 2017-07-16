@@ -43,14 +43,17 @@ void yyerror(const char* s);
 %%
 
 lines:
-  line lines	 															{ printf("#\t newline1\n");}
-	| T_QUIT 																	{ printf("bye!\n"); exit(0); }
+  line lines	 																	{ printf("#\t newline1\n"); }
+  | T_OTHER_TEXT 																{ printf("#\t other text\n"); }
+	| T_QUIT 																			{ printf("bye!\n"); exit(0); }
 ;
 
 line:
 	cdu_expression 											  				{ printf("#\tCDU_EXPRESSION %s\n", $1); }
 	| cdu_expression T_SLASH partial_expression		{ printf("#\tCDU_EXPRESSION SLASH PARTIAL EXPRESSION \n"); }
   | cdu_expression T_SPACE T_OTHER_TEXT 			  { printf("#\tCDU_EXPRESSION WITH TEXT EXPRESSION \n"); }
+  | cdu_expression T_COLON cdu_expression 		  { printf("#\tCDU_EXPRESSION WITH COLON \n"); }
+  | cdu_expression T_DOUBLE_COLON cdu_expression 		  { printf("#\tCDU_EXPRESSION WITH COLON \n"); }
 ;
 
 cdu_expression:
@@ -75,6 +78,5 @@ int main() {
 }
 
 void yyerror(const char* s) {
-	fprintf(stderr, "Parse error: %s\n", s);
-	exit(1);
+	fprintf(stderr, "#Parse error: %s\n", s);
 }
