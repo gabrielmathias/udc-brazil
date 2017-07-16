@@ -416,7 +416,7 @@ union yyalloc
 /* YYNRULES -- Number of rules.  */
 #define YYNRULES  8
 /* YYNSTATES -- Number of states.  */
-#define YYNSTATES  12
+#define YYNSTATES  13
 
 /* YYTRANSLATE[YYX] -- Symbol number corresponding to YYX as returned
    by yylex, with out-of-bounds checking.  */
@@ -493,10 +493,10 @@ static const yytype_uint16 yytoknum[] =
 };
 # endif
 
-#define YYPACT_NINF -20
+#define YYPACT_NINF -19
 
 #define yypact_value_is_default(Yystate) \
-  (!!((Yystate) == (-20)))
+  (!!((Yystate) == (-19)))
 
 #define YYTABLE_NINF -1
 
@@ -507,8 +507,8 @@ static const yytype_uint16 yytoknum[] =
      STATE-NUM.  */
 static const yytype_int8 yypact[] =
 {
-      -8,   -20,   -20,     3,    -8,   -19,   -20,   -20,     0,   -20,
-     -20,   -20
+      -8,   -19,   -19,     3,    -8,   -18,   -19,   -19,   -17,     1,
+     -19,   -19,   -19
 };
 
   /* YYDEFACT[STATE-NUM] -- Default reduction number in state STATE-NUM.
@@ -516,20 +516,20 @@ static const yytype_int8 yypact[] =
      means the default is an error.  */
 static const yytype_uint8 yydefact[] =
 {
-       0,     7,     3,     0,     0,     4,     1,     2,     0,     6,
-       8,     5
+       0,     7,     3,     0,     0,     4,     1,     2,     0,     0,
+       6,     8,     5
 };
 
   /* YYPGOTO[NTERM-NUM].  */
 static const yytype_int8 yypgoto[] =
 {
-     -20,     1,   -20,   -20,   -20
+     -19,     2,   -19,   -19,   -19
 };
 
   /* YYDEFGOTO[NTERM-NUM].  */
 static const yytype_int8 yydefgoto[] =
 {
-      -1,     3,     4,     5,    11
+      -1,     3,     4,     5,    12
 };
 
   /* YYTABLE[YYPACT[STATE-NUM]] -- What to do in state STATE-NUM.  If
@@ -537,13 +537,13 @@ static const yytype_int8 yydefgoto[] =
      number is the opposite.  If YYTABLE_NINF, syntax error.  */
 static const yytype_uint8 yytable[] =
 {
-       1,     8,     9,     6,    10,     7,     0,     0,     0,     0,
+       1,     8,     9,     6,    10,    11,     7,     0,     0,     0,
        2
 };
 
 static const yytype_int8 yycheck[] =
 {
-       8,    20,    21,     0,     4,     4,    -1,    -1,    -1,    -1,
+       8,    19,    20,     0,    21,     4,     4,    -1,    -1,    -1,
       18
 };
 
@@ -551,8 +551,8 @@ static const yytype_int8 yycheck[] =
      symbol of state STATE-NUM.  */
 static const yytype_uint8 yystos[] =
 {
-       0,     8,    18,    24,    25,    26,     0,    24,    20,    21,
-       4,    27
+       0,     8,    18,    24,    25,    26,     0,    24,    19,    20,
+      21,     4,    27
 };
 
   /* YYR1[YYN] -- Symbol number of symbol that rule YYN derives.  */
@@ -564,7 +564,7 @@ static const yytype_uint8 yyr1[] =
   /* YYR2[YYN] -- Number of symbols on the right hand side of rule YYN.  */
 static const yytype_uint8 yyr2[] =
 {
-       0,     2,     2,     1,     1,     3,     2,     1,     1
+       0,     2,     2,     1,     1,     3,     3,     1,     1
 };
 
 
@@ -1242,7 +1242,7 @@ yyreduce:
     {
         case 2:
 #line 46 "../src/cdu.y" /* yacc.c:1661  */
-    { printf("\t newline1\n");}
+    { printf("#\t newline1\n");}
 #line 1247 "cdu.tab.c" /* yacc.c:1661  */
     break;
 
@@ -1254,25 +1254,25 @@ yyreduce:
 
   case 4:
 #line 51 "../src/cdu.y" /* yacc.c:1661  */
-    { printf("\tCDU_EXPRESSION %s\n", (yyvsp[0].cdu)); }
+    { printf("#\tCDU_EXPRESSION %s\n", (yyvsp[0].cdu)); }
 #line 1259 "cdu.tab.c" /* yacc.c:1661  */
     break;
 
   case 5:
 #line 52 "../src/cdu.y" /* yacc.c:1661  */
-    { printf("\tCDU_EXPRESSION SLASH PARTIAL EXPRESSION \n"); }
+    { printf("#\tCDU_EXPRESSION SLASH PARTIAL EXPRESSION \n"); }
 #line 1265 "cdu.tab.c" /* yacc.c:1661  */
     break;
 
   case 6:
 #line 53 "../src/cdu.y" /* yacc.c:1661  */
-    { printf("\tCDU_EXPRESSION WITH TEXT EXPRESSION \n"); }
+    { printf("#\tCDU_EXPRESSION WITH TEXT EXPRESSION \n"); }
 #line 1271 "cdu.tab.c" /* yacc.c:1661  */
     break;
 
   case 7:
 #line 57 "../src/cdu.y" /* yacc.c:1661  */
-    { printf("\tCDU_CORE %s\n",(yyvsp[0].cdu)); }
+    { printf("<001>%s\n",(yyvsp[0].cdu)); }
 #line 1277 "cdu.tab.c" /* yacc.c:1661  */
     break;
 

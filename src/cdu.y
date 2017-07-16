@@ -30,11 +30,11 @@ void yyerror(const char* s);
 %token T_ARROW T_PLUS T_MINUS T_MULTIPLY T_PLEFT T_PRIGHT T_COLON T_DOUBLE_COLON
 %token T_NEWLINE T_QUIT T_SPACE T_SLASH
 %token<txt> T_OTHER_TEXT
-%left T_PLUS T_MINUS
-%left T_MULTIPLY T_DIVIDE
+%left T_PLUS T_MINUS T_SLASH T_CDU_CORE
+%left T_MULTIPLY T_DIVIDE T_COLON T_DOUBLE_COLON
 
 %type<line> line
-%type<line> 	lines
+%type<line> lines
 %type<cdu> 	cdu_expression
 %type<partial> partial_expression
 
@@ -43,18 +43,18 @@ void yyerror(const char* s);
 %%
 
 lines:
-  line lines	 															{ printf("\t newline1\n");}
+  line lines	 															{ printf("#\t newline1\n");}
 	| T_QUIT 																	{ printf("bye!\n"); exit(0); }
 ;
 
 line:
-	cdu_expression 											  				{ printf("\tCDU_EXPRESSION %s\n", $1); }
-	| cdu_expression T_SLASH partial_expression		{ printf("\tCDU_EXPRESSION SLASH PARTIAL EXPRESSION \n"); }
-  | cdu_expression T_OTHER_TEXT 								{ printf("\tCDU_EXPRESSION WITH TEXT EXPRESSION \n"); }
+	cdu_expression 											  				{ printf("#\tCDU_EXPRESSION %s\n", $1); }
+	| cdu_expression T_SLASH partial_expression		{ printf("#\tCDU_EXPRESSION SLASH PARTIAL EXPRESSION \n"); }
+  | cdu_expression T_SPACE T_OTHER_TEXT 			  { printf("#\tCDU_EXPRESSION WITH TEXT EXPRESSION \n"); }
 ;
 
 cdu_expression:
-	 T_CDU_CORE																{ printf("\tCDU_CORE %s\n",$1); }
+	 T_CDU_CORE																{ printf("<001>%s\n",$1); }
 ;
 
 partial_expression:
