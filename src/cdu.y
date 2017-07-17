@@ -37,6 +37,7 @@ void yyerror(const char* s);
 %type<line> lines
 %type<cdu> 	cdu_expression
 %type<partial> partial_expression
+%type<txt> text_expression
 
 %start lines
 
@@ -44,18 +45,25 @@ void yyerror(const char* s);
 
 lines:
   line lines	 																	{ printf("#\t newline1\n"); }
-  | T_OTHER_TEXT 																{ printf("#\t other text\n"); }
 	| T_QUIT 																			{ printf("bye!\n"); exit(0); }
 ;
 
 line:
 	cdu_expression 											  				{ printf("#\tCDU_EXPRESSION %s\n", $1); }
-	| cdu_expression T_SLASH partial_expression		{ printf("#\tCDU_EXPRESSION SLASH PARTIAL EXPRESSION \n"); }
-  | cdu_expression T_SPACE T_OTHER_TEXT 			  { printf("#\tCDU_EXPRESSION WITH TEXT EXPRESSION \n"); }
-  | cdu_expression T_COLON cdu_expression 		  { printf("#\tCDU_EXPRESSION WITH COLON \n"); }
+	| cdu_expression T_SLASH partial_expression			 { printf("#\tCDU_EXPRESSION SLASH PARTIAL EXPRESSION \n"); }
+  | cdu_expression T_SPACE text_expression 			 	 { printf("#\tCDU_EXPRESSION WITH TEXT EXPRESSION \n"); }
+  | cdu_expression T_ARROW refs_expression 		  		 { printf("#\tCDU_EXPRESSION WITH COLON \n"); }
   | cdu_expression T_DOUBLE_COLON cdu_expression 		  { printf("#\tCDU_EXPRESSION WITH COLON \n"); }
 ;
 
+refs_expression:
+	cdu_expression			{ printf ("#\tREF_EXPRESSION <REF>%s\n",$1); }
+	| cdu_expression refs_expression 	{ printf ("#\tREF_EXPRESSION2 <REF>%s\n",$1); }
+;
+
+text_expression:
+   T_OTHER_TEXT															{ printf(" <> %s\n", $1); }
+;
 cdu_expression:
 	 T_CDU_CORE																{ printf("<001>%s\n",$1); }
 ;

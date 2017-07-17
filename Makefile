@@ -28,3 +28,4 @@ goodtests:
 badtests:
 	@echo "Bad Tests"
 	@echo $(foreach BAD, $(BAD_TESTS), $(shell sh -c "./testbad.sh  $(BAD) " ))
+

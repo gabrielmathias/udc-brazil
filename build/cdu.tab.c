@@ -405,18 +405,18 @@ union yyalloc
 #endif /* !YYCOPY_NEEDED */
 
 /* YYFINAL -- State number of the termination state.  */
-#define YYFINAL  7
+#define YYFINAL  6
 /* YYLAST -- Last index in YYTABLE.  */
-#define YYLAST   13
+#define YYLAST   15
 
 /* YYNTOKENS -- Number of terminals.  */
 #define YYNTOKENS  23
 /* YYNNTS -- Number of nonterminals.  */
-#define YYNNTS  5
+#define YYNNTS  7
 /* YYNRULES -- Number of rules.  */
-#define YYNRULES  11
+#define YYNRULES  13
 /* YYNSTATES -- Number of states.  */
-#define YYNSTATES  18
+#define YYNSTATES  20
 
 /* YYTRANSLATE[YYX] -- Symbol number corresponding to YYX as returned
    by yylex, with out-of-bounds checking.  */
@@ -464,8 +464,8 @@ static const yytype_uint8 yytranslate[] =
   /* YYRLINE[YYN] -- Source line where rule number YYN was defined.  */
 static const yytype_uint8 yyrline[] =
 {
-       0,    46,    46,    47,    48,    52,    53,    54,    55,    56,
-      60,    64
+       0,    47,    47,    48,    52,    53,    54,    55,    56,    60,
+      61,    65,    68,    72
 };
 #endif
 
@@ -478,7 +478,8 @@ static const char *const yytname[] =
   "T_CDU_CORDINATION", "T_CDU_DAS", "T_CDU_EXT", "T_CDU_CORE", "T_ARROW",
   "T_PLUS", "T_MINUS", "T_MULTIPLY", "T_PLEFT", "T_PRIGHT", "T_COLON",
   "T_DOUBLE_COLON", "T_NEWLINE", "T_QUIT", "T_SPACE", "T_SLASH",
-  "T_OTHER_TEXT", "T_DIVIDE", "$accept", "lines", "line", "cdu_expression",
+  "T_OTHER_TEXT", "T_DIVIDE", "$accept", "lines", "line",
+  "refs_expression", "text_expression", "cdu_expression",
   "partial_expression", YY_NULLPTR
 };
 #endif
@@ -494,10 +495,10 @@ static const yytype_uint16 yytoknum[] =
 };
 # endif
 
-#define YYPACT_NINF -15
+#define YYPACT_NINF -16
 
 #define yypact_value_is_default(Yystate) \
-  (!!((Yystate) == (-15)))
+  (!!((Yystate) == (-16)))
 
 #define YYTABLE_NINF -1
 
@@ -508,8 +509,8 @@ static const yytype_uint16 yytoknum[] =
      STATE-NUM.  */
 static const yytype_int8 yypact[] =
 {
-      -8,   -15,   -15,   -15,     7,    -8,   -14,   -15,   -15,     0,
-       0,   -12,     8,   -15,   -15,   -15,   -15,   -15
+      -6,   -16,   -16,     1,    -6,    -9,   -16,   -16,    -3,    -3,
+     -15,     5,   -16,    -3,   -16,   -16,   -16,   -16,   -16,   -16
 };
 
   /* YYDEFACT[STATE-NUM] -- Default reduction number in state STATE-NUM.
@@ -517,20 +518,20 @@ static const yytype_int8 yypact[] =
      means the default is an error.  */
 static const yytype_uint8 yydefact[] =
 {
-       0,    10,     4,     3,     0,     0,     5,     1,     2,     0,
-       0,     0,     0,     8,     9,     7,    11,     6
+       0,    12,     3,     0,     0,     4,     1,     2,     0,     0,
+       0,     0,     7,     9,     8,    11,     6,    13,     5,    10
 };
 
   /* YYPGOTO[NTERM-NUM].  */
 static const yytype_int8 yypgoto[] =
 {
-     -15,     6,   -15,    -6,   -15
+     -16,     9,   -16,     2,   -16,    -5,   -16
 };
 
   /* YYDEFGOTO[NTERM-NUM].  */
 static const yytype_int8 yydefgoto[] =
 {
-      -1,     4,     5,     6,    17
+      -1,     3,     4,    12,    16,     5,    18
 };
 
   /* YYTABLE[YYPACT[STATE-NUM]] -- What to do in state STATE-NUM.  If
@@ -538,36 +539,36 @@ static const yytype_int8 yydefgoto[] =
      number is the opposite.  If YYTABLE_NINF, syntax error.  */
 static const yytype_uint8 yytable[] =
 {
-       1,     9,    10,    13,    14,    11,    12,     7,     1,    15,
-       2,     8,    16,     3
+       8,     6,     1,    13,    14,     1,    15,     9,    13,    17,
+      10,    11,     2,     7,     0,    19
 };
 
-static const yytype_uint8 yycheck[] =
+static const yytype_int8 yycheck[] =
 {
-       8,    15,    16,     9,    10,    19,    20,     0,     8,    21,
-      18,     5,     4,    21
+       9,     0,     8,     8,     9,     8,    21,    16,    13,     4,
+      19,    20,    18,     4,    -1,    13
 };
 
   /* YYSTOS[STATE-NUM] -- The (internal number of the) accessing
      symbol of state STATE-NUM.  */
 static const yytype_uint8 yystos[] =
 {
-       0,     8,    18,    21,    24,    25,    26,     0,    24,    15,
-      16,    19,    20,    26,    26,    21,     4,    27
+       0,     8,    18,    24,    25,    28,     0,    24,     9,    16,
+      19,    20,    26,    28,    28,    21,    27,     4,    29,    26
 };
 
   /* YYR1[YYN] -- Symbol number of symbol that rule YYN derives.  */
 static const yytype_uint8 yyr1[] =
 {
-       0,    23,    24,    24,    24,    25,    25,    25,    25,    25,
-      26,    27
+       0,    23,    24,    24,    25,    25,    25,    25,    25,    26,
+      26,    27,    28,    29
 };
 
   /* YYR2[YYN] -- Number of symbols on the right hand side of rule YYN.  */
 static const yytype_uint8 yyr2[] =
 {
-       0,     2,     2,     1,     1,     1,     3,     3,     3,     3,
-       1,     1
+       0,     2,     2,     1,     1,     3,     3,     3,     3,     1,
+       2,     1,     1,     1
 };
 
 
@@ -1244,67 +1245,79 @@ yyreduce:
   switch (yyn)
     {
         case 2:
-#line 46 "../src/cdu.y" /* yacc.c:1661  */
+#line 47 "../src/cdu.y" /* yacc.c:1661  */
     { printf("#\t newline1\n"); }
-#line 1250 "cdu.tab.c" /* yacc.c:1661  */
+#line 1251 "cdu.tab.c" /* yacc.c:1661  */
     break;
 
   case 3:
-#line 47 "../src/cdu.y" /* yacc.c:1661  */
-    { printf("#\t other text\n"); }
-#line 1256 "cdu.tab.c" /* yacc.c:1661  */
+#line 48 "../src/cdu.y" /* yacc.c:1661  */
+    { printf("bye!\n"); exit(0); }
+#line 1257 "cdu.tab.c" /* yacc.c:1661  */
     break;
 
   case 4:
-#line 48 "../src/cdu.y" /* yacc.c:1661  */
-    { printf("bye!\n"); exit(0); }
-#line 1262 "cdu.tab.c" /* yacc.c:1661  */
+#line 52 "../src/cdu.y" /* yacc.c:1661  */
+    { printf("#\tCDU_EXPRESSION %s\n", (yyvsp[0].cdu)); }
+#line 1263 "cdu.tab.c" /* yacc.c:1661  */
     break;
 
   case 5:
-#line 52 "../src/cdu.y" /* yacc.c:1661  */
-    { printf("#\tCDU_EXPRESSION %s\n", (yyvsp[0].cdu)); }
-#line 1268 "cdu.tab.c" /* yacc.c:1661  */
+#line 53 "../src/cdu.y" /* yacc.c:1661  */
+    { printf("#\tCDU_EXPRESSION SLASH PARTIAL EXPRESSION \n"); }
+#line 1269 "cdu.tab.c" /* yacc.c:1661  */
     break;
 
   case 6:
-#line 53 "../src/cdu.y" /* yacc.c:1661  */
-    { printf("#\tCDU_EXPRESSION SLASH PARTIAL EXPRESSION \n"); }
-#line 1274 "cdu.tab.c" /* yacc.c:1661  */
+#line 54 "../src/cdu.y" /* yacc.c:1661  */
+    { printf("#\tCDU_EXPRESSION WITH TEXT EXPRESSION \n"); }
+#line 1275 "cdu.tab.c" /* yacc.c:1661  */
     break;
 
   case 7:
-#line 54 "../src/cdu.y" /* yacc.c:1661  */
-    { printf("#\tCDU_EXPRESSION WITH TEXT EXPRESSION \n"); }
-#line 1280 "cdu.tab.c" /* yacc.c:1661  */
+#line 55 "../src/cdu.y" /* yacc.c:1661  */
+    { printf("#\tCDU_EXPRESSION WITH COLON \n"); }
+#line 1281 "cdu.tab.c" /* yacc.c:1661  */
     break;
 
   case 8:
-#line 55 "../src/cdu.y" /* yacc.c:1661  */
+#line 56 "../src/cdu.y" /* yacc.c:1661  */
     { printf("#\tCDU_EXPRESSION WITH COLON \n"); }
-#line 1286 "cdu.tab.c" /* yacc.c:1661  */
+#line 1287 "cdu.tab.c" /* yacc.c:1661  */
     break;
 
   case 9:
-#line 56 "../src/cdu.y" /* yacc.c:1661  */
-    { printf("#\tCDU_EXPRESSION WITH COLON \n"); }
-#line 1292 "cdu.tab.c" /* yacc.c:1661  */
+#line 60 "../src/cdu.y" /* yacc.c:1661  */
+    { printf ("#\tREF_EXPRESSION <REF>%s\n",(yyvsp[0].cdu)); }
+#line 1293 "cdu.tab.c" /* yacc.c:1661  */
     break;
 
   case 10:
-#line 60 "../src/cdu.y" /* yacc.c:1661  */
-    { printf("<001>%s\n",(yyvsp[0].cdu)); }
-#line 1298 "cdu.tab.c" /* yacc.c:1661  */
+#line 61 "../src/cdu.y" /* yacc.c:1661  */
+    { printf ("#\tREF_EXPRESSION2 <REF>%s\n",(yyvsp[-1].cdu)); }
+#line 1299 "cdu.tab.c" /* yacc.c:1661  */
     break;
 
   case 11:
-#line 64 "../src/cdu.y" /* yacc.c:1661  */
+#line 65 "../src/cdu.y" /* yacc.c:1661  */
+    { printf(" <> %s\n", (yyvsp[0].txt)); }
+#line 1305 "cdu.tab.c" /* yacc.c:1661  */
+    break;
+
+  case 12:
+#line 68 "../src/cdu.y" /* yacc.c:1661  */
+    { printf("<001>%s\n",(yyvsp[0].cdu)); }
+#line 1311 "cdu.tab.c" /* yacc.c:1661  */
+    break;
+
+  case 13:
+#line 72 "../src/cdu.y" /* yacc.c:1661  */
     { printf("\tCDU_PARTIAL %s\n",(yyvsp[0].partial)); }
-#line 1304 "cdu.tab.c" /* yacc.c:1661  */
+#line 1317 "cdu.tab.c" /* yacc.c:1661  */
     break;
 
 
-#line 1308 "cdu.tab.c" /* yacc.c:1661  */
+#line 1321 "cdu.tab.c" /* yacc.c:1661  */
       default: break;
     }
   /* User semantic actions sometimes alter yychar, and that requires
@@ -1532,7 +1545,7 @@ yyreturn:
 #endif
   return yyresult;
 }
-#line 66 "../src/cdu.y" /* yacc.c:1906  */
+#line 74 "../src/cdu.y" /* yacc.c:1906  */
 
 
 int main() {
