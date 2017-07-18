@@ -1,13 +1,14 @@
-/* A Bison parser, made by GNU Bison 3.0.4.  */
+/* A Bison parser, made by GNU Bison 2.3.  */
 
-/* Bison interface for Yacc-like parsers in C
+/* Skeleton interface for Bison's Yacc-like parsers in C
 
-   Copyright (C) 1984, 1989-1990, 2000-2015 Free Software Foundation, Inc.
+   Copyright (C) 1984, 1989, 1990, 2000, 2001, 2002, 2003, 2004, 2005, 2006
+   Free Software Foundation, Inc.
 
-   This program is free software: you can redistribute it and/or modify
+   This program is free software; you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
-   the Free Software Foundation, either version 3 of the License, or
-   (at your option) any later version.
+   the Free Software Foundation; either version 2, or (at your option)
+   any later version.
 
    This program is distributed in the hope that it will be useful,
    but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -15,7 +16,9 @@
    GNU General Public License for more details.
 
    You should have received a copy of the GNU General Public License
-   along with this program.  If not, see <http://www.gnu.org/licenses/>.  */
+   along with this program; if not, write to the Free Software
+   Foundation, Inc., 51 Franklin Street, Fifth Floor,
+   Boston, MA 02110-1301, USA.  */
 
 /* As a special exception, you may create a larger work that contains
    part or all of the Bison parser skeleton and distribute that work
@@ -30,51 +33,61 @@
    This special exception was added by the Free Software Foundation in
    version 2.2 of Bison.  */
 
-#ifndef YY_YY_CDU_TAB_H_INCLUDED
-# define YY_YY_CDU_TAB_H_INCLUDED
-/* Debug traces.  */
-#ifndef YYDEBUG
-# define YYDEBUG 0
-#endif
-#if YYDEBUG
-extern int yydebug;
-#endif
-
-/* Token type.  */
+/* Tokens.  */
 #ifndef YYTOKENTYPE
 # define YYTOKENTYPE
-  enum yytokentype
-  {
-    T_INT = 258,
-    T_CDU_PARTIAL = 259,
-    T_CDU_CORDINATION = 260,
-    T_CDU_DAS = 261,
-    T_CDU_EXT = 262,
-    T_CDU_CORE = 263,
-    T_ARROW = 264,
-    T_PLUS = 265,
-    T_MINUS = 266,
-    T_MULTIPLY = 267,
-    T_PLEFT = 268,
-    T_PRIGHT = 269,
-    T_COLON = 270,
-    T_DOUBLE_COLON = 271,
-    T_NEWLINE = 272,
-    T_QUIT = 273,
-    T_SPACE = 274,
-    T_SLASH = 275,
-    T_OTHER_TEXT = 276,
-    T_DIVIDE = 277
-  };
+   /* Put the tokens into the symbol table, so that GDB and other debuggers
+      know about them.  */
+   enum yytokentype {
+     T_INT = 258,
+     T_CDU_PARTIAL = 259,
+     T_CDU_CORDINATION = 260,
+     T_CDU_DAS = 261,
+     T_CDU_EXT = 262,
+     T_CDU_CORE = 263,
+     T_ARROW = 264,
+     T_PLUS = 265,
+     T_MINUS = 266,
+     T_MULTIPLY = 267,
+     T_PLEFT = 268,
+     T_PRIGHT = 269,
+     T_COLON = 270,
+     T_DOUBLE_COLON = 271,
+     T_NEWLINE = 272,
+     T_QUIT = 273,
+     T_SPACE = 274,
+     T_SLASH = 275,
+     T_OTHER_TEXT = 276
+   };
 #endif
+/* Tokens.  */
+#define T_INT 258
+#define T_CDU_PARTIAL 259
+#define T_CDU_CORDINATION 260
+#define T_CDU_DAS 261
+#define T_CDU_EXT 262
+#define T_CDU_CORE 263
+#define T_ARROW 264
+#define T_PLUS 265
+#define T_MINUS 266
+#define T_MULTIPLY 267
+#define T_PLEFT 268
+#define T_PRIGHT 269
+#define T_COLON 270
+#define T_DOUBLE_COLON 271
+#define T_NEWLINE 272
+#define T_QUIT 273
+#define T_SPACE 274
+#define T_SLASH 275
+#define T_OTHER_TEXT 276
 
-/* Value type.  */
+
+
+
 #if ! defined YYSTYPE && ! defined YYSTYPE_IS_DECLARED
-
-union YYSTYPE
+typedef union YYSTYPE
+#line 13 "../src/cdu.y"
 {
-#line 13 "../src/cdu.y" /* yacc.c:1915  */
-
 	int ival;
 	float fval;
   char * cdu;
@@ -83,18 +96,14 @@ union YYSTYPE
   char * ext;
   char * txt;
   char * line;
-
-#line 88 "cdu.tab.h" /* yacc.c:1915  */
-};
-
-typedef union YYSTYPE YYSTYPE;
-# define YYSTYPE_IS_TRIVIAL 1
+}
+/* Line 1529 of yacc.c.  */
+#line 102 "cdu.tab.h"
+	YYSTYPE;
+# define yystype YYSTYPE /* obsolescent; will be withdrawn */
 # define YYSTYPE_IS_DECLARED 1
+# define YYSTYPE_IS_TRIVIAL 1
 #endif
-
 
 extern YYSTYPE yylval;
 
-int yyparse (void);
-
-#endif /* !YY_YY_CDU_TAB_H_INCLUDED  */
