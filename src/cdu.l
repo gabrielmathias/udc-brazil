@@ -21,12 +21,12 @@ char * trim(char * s) {
 %}
 
 %%
-^([0-9]+([A-Z0-9\.]+))        { yylval.cdu = strdup(yytext); return T_CDU_CORE;}
 
+[\n\t] ;
 "→"                     {return T_ARROW; }
 
+([0-9]+([A-Z0-9\.]+))        { yylval.cdu = strdup(yytext); return T_CDU_CORE;}
 
-
-[. \t\na-zA-Z0-9]{0,5000}[\n]                {  yylval.txt = strdup (yytext) ; return T_OTHER_TEXT; }
+["][a-zA-Z0-9!@#$%^&*()_\-+=.,/?]+            {  yylval.txt = strdup (yytext) ; return T_OTHER_TEXT; }
 
 %%

@@ -1,14 +1,18 @@
-	Propriedades biológicas de revestimentos (e suas pesquisas)Exemplo(s) de combinação(ões):>:1:> 
 
 <01>667.613.5
-<02>.
+<02>Propriedades biológicas de revestimentos (e suas pesquisas).Exemplo(s) de combinação(ões):
+#LINE_01
 
+#	CDU_LINE
 
-#	CDU_LINE 667.613.5
-:620.193.8 Comportamento com relação à ação biológica. Resistência a ataque bioló
-<001>667.613.5
-<02>gico
+<01>667.613.5
+<02>:
+#LINE_01
 
+#	CDU_LINE
 
+<01>620.193.8
+<02> Comportamento com relação à ação biológica. Resistência a ataque biológico
+#LINE_01
 
-#	CDU_LINE 667.613.5
+#	CDU_LINE
