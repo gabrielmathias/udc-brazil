@@ -1,0 +1,3834 @@
+
+666.942.4	Cimentos Portland ricos em óxido de ferro,
+Cimentos Portland ricos em óxido de manganês,
+Exemplos
+A,
+B,
+C,
+D,
+E
+</EXEMPLO>
+666.942.5	Cimento Portland rico em argila, rico em
+ alumina
+-> 666.948 Cimentos com alto teor de alumina
+666.942.6	Cimento Portland rico em sílica.
+666.942.7	Cimento Portland rico em argila. Outros
+cimentos Portland ricos em cal. Cimento
+Portland rico em magnésia.
+666.942.8	Cimentos Portland brancos e coloridos.
+666.943	Cimentos que contêm escórias. Cimentos de
+altos-fornos e sulfatados.
+666.943.l	Cimento Portland de alto-forno (até 20%).
+666.943.2	Cimento de alto-fomo (com 20-80%).
+666.943.3	Cimento de escória de clínquer (mais de 85%).
+666.943.4	Cimento sulfatado. Cimento supersulfatado.
+666.944	Cimentos pozolânicos. Cimentos de Trass.
+-> 691.54 Cimentos . Materiais pozolânicos
+666.944.2	Cimentos pozolânicos artificiais.
+666.945	Cimentos fabricados simultaneamente com
+outros materiais. Inclusive Cimento de Basset. Cimento à base de anidrita.
+666.946	Cimentos com propriedades especiais.
+666.946.1	Cimentos de endurecimento rápido. Cimentos
+de pega rápida.
+666.946.2	Cimentos com propriedade de se expandirem.
+Cimentos que não encolhem.
+666.946.3	Cimentos resistentes a influências diversas.
+666.946.4	Cimento de areia. Outros cimentos magros.
+666.946.5	Cimento de alvenaria.
+666.946.6	Cimento refratário.
+-> 666.76 Copos e produtos refratários
+-> 666.948.4 Cimentos refratários com alto teor de alumina
+666.946.7	Cimento injetável. Cimento para pasta de
+reforço.
+      -> 666.97.033.12
+666.947	Cimentos fundidos.
+-> 666.948.3 Cimentos fundidos com alto teor de alumina
+666.948	Cimentos com alto teor de alumina.
+666.948.2	Cimentos sinterizados com alto teor de alumina.
+666.948.3	Cimentos fundidos com alto teor de alumina.
+666.948.4	Cimentos refratários com alto teor de alumina.
+666.948.5	Cimento sulfoaluminoso.
+666.95	Pozolanas. Substâncias com efeito
+semelhante.
+-> 691.54 Cimentos. Materiais pozolânicos
+666.951	Pozolanas naturais. Trass. Terras
+diatomáceas (Diatomita. Kieselguhr).
+-> 553.53 Depósitos de rochas efusivas, vulcânicas. Depósitos de lava. Depósitos de pórfiro
+666.952	Substâncias artificiais. Pozolanas artificiais. Inclusive Escória de alto-forno. Cinzas de forno. Cinzas voláteis. Pó de tijolo.
+666.953	Pozolanas calcárias.
+666.96	Composições de cimento de pega (de assentamento duro), aglomerados e
+produtos de pedra artificial (para primeira mão de emboço, revestimento final,
+camadas de suporte, enchimento, ligação, etc.). 
+	Indicar os agregados por meio de .022.32 (listado sob 66) e dos auxiliares comuns de materiais (Tabela 1k -03)
+Exemplo(s) de combinacao(oes):
+	      666.96 .022.32 Agregados para composições de assentamento duro
+      666.96.022.32-032 Agregados minerais
+      666.96 022.32-032.7 Agregados betuminosos
+      666.96.022.32-035 Agregados de origem orgânica (vegetal, animal)
+      666.96.022.32035.3 Agregados de madeira, cortiça, serragem, etc.
+      -> 666.914.5 Composições para primeira mão de emboço, revestimento final
+      -> 691.3/.5
+      -> 692.53 Assoalhos. Acabamentos de assoalhos (superfícies de desgaste), inclusive os rodapés e molduras 
+      do
+      mesmo material.
+      -> 693.7 Ladrilhamento de assoalhos. Ladrilhamento de paredes. Pavimentação. Ofício de calceteiro. 
+      Trabalho com asfalto
+666.961	Cimento-amianto. Composições e produtos
+similares de cimento fibroso ou feltrado.
+666.962	Composições à base de magnésio e similares
+(para pisos sem encaixe etc.).
+666.963	Mármore artificial (terrazzo). Aglomerados
+similares à base de cimento inorgânico
+(para pisos, etc.).
+666.964	Mástique. Aglomerados que contêm
+agregados finos ou grossos com aglutinantes
+betuminosos.
+666.965	Produtos de arenito calcário (produtos de
+silicato de cálcio). Arenito de imitação.
+Outros produtos de imitação de pedra. Inclusive Concreto calcário leve. Pedras de imitação de escória, clinquer, etc.
+666.966	Composições e massas à base de grafita.
+Compostos de plumbagina.
+666.968	Compostos ou cimentos para bases, ligações
+e junções (para materiais específicos).
+666.97	Indústria de argamassa e concreto.
+Elementos do concreto. Produção de
+concreto em usinas.
+-> 627.012.3/.4
+-> 666.94 Indústria do cimento
+-> 691.3 Pedra artificial. Concreto. Aglomerados diversos
+-> 693.5 Trabalho de construção com concreto. Concretagem. Concreto feito no canteiro da obra
+Subdivisões auxiliares especiais
+666.97.03	Preparo da mistura. Processamento e tratamento
+na obra ou na usina.
+666.97.031	Preparo da mistura (cimento, argamassa. mistura
+de concreto). Dosagem e mistura na fábrica ou
+usina central.
+666.97.031.2	Mistura manual. Equipamento para mistura
+manual.
+666.97.031.3	Mistura a máquina. Misturadores, betoneiras,
+de cimento e de concreto (para mistura da
+massa). Misturadores de massa.
+666.97.031.4	Mistura contínua. Misturadores contínuos de
+cimento e concreto.
+666.97.031.5	Mistura coloidal. Misturadores coloidais.
+Outros misturadores de argamassa.
+666.97.031.6	Retêmpera, remistura após o começo do
+endurecimento.
+666.97.031.9	Consistência, rigidez do concreto, etc.
+666.97.033	Processamento da mistura. Inclusive Compactação. Moldagem
+666.97.033.l	Compactação da mistura de concreto.
+666.97.033.11	Sova, socagem, apiloamento. Sovadores.
+Secadores. Soquetes. Concreto sovado, pilado.
+666.97.033.12	Despejo. Flutuação. Concreto despejado,
+derramado, em suspensão.
+666.97.033.13	Bombeamento. Concreado bombeado.
+666.97.033.14         Injeção. Nebulização. Concreto injetado, aspergido ou em pasta de reforço.
+-> 666.946.7 Cimento injetável. Cimento para pasta de reforço
+666.97.033.16	Vibração. Vibradores. Concreto vibrado.
+666.97.033.17	Centrifugação, rotação. Concreto centrifugado.
+666.97.033.3	Processamento especial, compactação, etc., para
+uso subaquático, para obras hidráulicas.
+Concreto subaquático. Concreto hidráulico.
+666.97.033.4	Colocação e fixação de armação, de reforço para concreto.
+      Para usar com 666.98
+666.97.035	Medidas durante a pega e o endurecimento do concreto.
+666.97.035.4	Tratamento a vácuo para extração de água. Concreto a vácuo.
+666.97.035.5	Cura do concreto. Endurecimento artificial do concreto.
+666.97.037	Remoção de formas de trabalho. Remoção de objetos de concreto dos moldes. Período
+                                 adequado para a remoção.
+666.97.038	Tratamento de proteção do concreto depois do endurecimento.
+666.97.05	Manipulação e transporte da massa. Fabricação
+e acabamento de produtos moldados.
+666.97.052	Manipulação da massa. Entrega de concreto
+pronto (no local da obra).
+666.97.052.2	Concreto misturado em fábrica. Entrega em
+recipientes especiais ou caminhões sem
+betoneiras.
+666.97.052.3	Concreto misturado em caminhão-betoneira.
+Mistura em trânsito. Caminhões-betoneiras.
+666.97.053	Entrega contínua de concreto pronto (no local da obra). Inclusive Entrega de concreto por meio de tubos, por tromba, com ar comprimido. Colocadores pneumáticos de concreto.
+666.97.055	Fabricação, ligação, etc., do concreto.
+666.97.056	Usinagem. Corte. Martelagem, etc.
+666.97.058	Revestimento, tingimento, impregnação,  etc. Pintura e outros acabamentos na superfície do concreto. 
+Divisões principais
+666.971	Argamassas.
+666.971.3	Argamassa de cal (argamassa não-hidráulica).
+666.971.4	Argamassa de cimento (argamassa hidráulica).
+666.972	 Concreto. Concreto de cimento.
+666.972.l	 Concreto segundo a composição do agregado e
+da mistura.
+666.972.11	Proporção agregado/cimento.
+666.972.112	Concreto magro (alto teor de agregado, baixo
+teor de cimento).
+666.972.114	Concreto gordo (baixo teor de agregado, alto teor
+de cimento).
+666.972.12	Agregados para concreto. Inclusive Forma (tamanho, formato), peso do agregado.
+666.972.122	Agregados no total (agregado de lastro).
+Agregado não- classificado.
+666.972.123	Agregado graúdo.
+666.972.124	Agregado miúdo.
+666.972.125	Agregado leve.
+-> 666.973 Concreto leve. Concreto com baixo peso unitário
+666.972.126	Agregados de classificação especial. Inclusive Agregado classificado segundo o intervalo.
+666.972.127	Agregados para construção de reatores
+nucleares.
+666.972.16	Misturas de concreto. Agentes diversos.
+666.972.162	Agentes impermeabilizantes, repelentes de água.
+666.972.163	Agentes endurecedores da superfície.
+666.972.167	Agentes de proteção contra congelamento.
+666.972.168	Agentes de arejamento.
+666.972.17	Mistura de água no concreto. Proporção de água
+para cimento.
+-> 666.9.022.7 Água como matéria-prima no preparo de misturas
+666.972.2	Concreto sem recalque (consistência de terra
+úmida).
+666.972.3	Concreto de baixo recalque (consistência
+plástica).
+666.972.4	Concreto de alto recalque (consistência fluida,
+derramável).
+666.972.5	Concreto com propriedades especiais.
+666.972.52	Concreto resistente à água. Inclusive Concreto à prova d 'água.
+666.972.53	Concreto resistente ao congelamento. Inclusive Concreto arejado.
+666.972.54	Concreto de baixo calor.
+666.972.55	Concreto resistente ao uso. Concreto duro.
+666.972.7              Concreto pesado (concreto com agregado
+pesado).
+666.973	Concreto leve. Concreto com baixo peso
+unitário.
+666.973.2	Concreto leve com agregado mineral especial e/ou não-mineral. Inclusive Concreto com serragem. Concreto com cortiça. Concreto em que se podem cravar pregos. Concreto de cinzas.
+666.973.3	Concreto leve apenas com agregados graúdos.
+Concreto grosso.
+666.973.4	Concreto com agregados leves de tamanho
+único, com intervalos graduados.
+666.973.6	Concreto arejado. Concreto celular. Concreto
+isolante.
+666.974	Concretos especiais.
+666.974.2	Concreto refratário. Concreto resistente ao fogo.
+666.974.4	Concreto colorido.
+666.974.6	Concretos que contêm cimentos especiais. Inclusive Concreto que contém cimento com alto teor de alumina.
+666.98	Cimento e concreto armado. Concreto pretendido.
+Indicar o lugar e o suporte do reforço por meio de .033.4 (de 666.97.033.4)
+666.981	Produtos de cimento armado.
+666.982	Concreto armado. Inclusive Produtos, vigas, etc., de concreto protendido.
+                                      -> 624.012.45/.46
+                                  -> 691.328 Concreto armado. Concreto protendido. Elemento do concreto armado
+                                  -> 693.55/.56
+666.982.2	Concreto armado.
+666.982.24             Armaduras do concreto. Inclusive Barras de aço, vergalhões., telas de aço.
+666.982.3	Concreto protendido, pré-tensionado.
+666.982.4	Concreto protendido.
+666.982.7	Concreto de madeira, concreto de bambu, etc.
+
+667 Indústrias de pigmentos. Inclusive Manufatura e uso de pigmentos, tintas, etc.
+-> 535.6 Cores e suas propriedades. Teoria da cor
+-> 547.97 Pigmentos
+-> 621.795.3 Coloração de superfícies
+-> 676.024.72 Coloração. Tingimento (nas matérias-primas). Alvejamento óptico
+-> 676.026.72 Melhoria da superfície e outros tratamentos de proteção
+-> 677.027 Tingimento, estampagem e acabamento têxtil
+-> 678.029.8 Decoração. Alvejamento. Tingimento. Coloramento
+ 
+Subdivisões auxiliares especiais
+667-12	Cores. Matizes.
+667-12 dividido como 535-2
+	Grupo da cor vermelha.
+Divisões principais
+667.2	Indústria de pigmentos. Fabricação e uso de pigmentos.
+-> Determinação do tipo de corante
+-> 677.027.4 Tingimento
+-> 677.047.4 Materiais complementares para tingimento
+667.21	Materiais complementares.
+667.214	Mordentes.
+667.215	Agentes reveladores.
+667.216	Agentes de brilho.
+667.217	Agentes fixadores.
+667.22	Tratamento prévio do material a ser
+tingido.
+667.24	Processos de tingimento.
+667.26	Pigmentos inorgânicos.
+667.27	Pigmentos orgânicos naturais.
+667.271	Pigmentos de origem animal.
+		      -> 547.975 Cochonilha
+      -> 638.3 Cochinilhas
+667.272/.276         Pigmentos de origem vegetal. Pigmentos vegetais. 
+      -> 633.86 Plantas corantes. Plantas que produzem pigmentos
+667.272	Pigmentos extraídos da planta inteira (p.
+e\., tornassol).
+667.273	Pigmentos extraídos de madeiras. Inclusive De tatajuba, de catechu, de pau-campeche.
+667.274	Pigmentos extraídos de cascas ou raízes (p.
+ex., de garança, de cúrcuma).
+667.275	Pigmentos extraídos de folhas, flores, frutos
+(p. ex., de índigo, de ísatis, de pastel-dos-
+tintureiros).
+-> 667.286.2 Pigmentos de índigo
+667.276	Pigmentos extraídos de galhos (p. ex., de
+gambir ou catechu).
+667.28	Pigmentos orgânicos sintéticos. Inclusive Pigmentos de anilina.
+667.281	Pigmentos azo, azóxi e hidrazo.
+667.281.1	Pigmentos monoazo.
+667.281.2	Pigmentos diazo.
+667.281.5	Pigmentos poliazo.
+667.281.6	Pigmentos poliazo de aminas diazotizadas por auto-acoplamento. Inclusive Marrom-da-prússia. Pigmentos
+crisóides.
+667.281.74	Pigmentos de estilbeno.
+667.281.8	Pigmentos hidrazo.
+667.282	Pigmentos de antraceno e antraquinona.
+667.282.1	Pigmentos simples de antraceno.
+667.282.4	Pigmentos de antraceno com sistemas de anel
+carbocíclico.
+667.282.5	Pigmentos de antraceno com sistemas de anel
+heterocíclico condensado.
+667.282.7	Pigmentos de antraceno que contêm enxofre.
+667.283	Acridinas. Pigmentos de diarilmetano,
+Pigmentos de triarilmetano. Ftaleínas.
+Pironinas. Pigmentos de hidroxicetano.
+667.283.1	Pigmentos de acridina.
+667.283.3	Auraminas. Pigmentos de diarilmetano.
+667.283.4	Pigmentos de triarilmetano.
+667.283.6	Pigmentos de hidroxicetona.
+667.283.7	Ftaleína.
+667.283.8	Pironinas. Xantenas.
+667.284	Azinas. Oxazinas. Tiazinas. Indulinas.
+Indofenóis. Indaminas.
+667.284.6	Indofenóis.
+667.285	Pigmentos que contêm enxofre.
+-> 667.282.7 Pigmentos de antraceno que contêm enxofre
+667.286	Pigmentos de tina.
+667.286.2	Pigmentos de índigo.
+-> 667.275 Pigmentos extraídos de folhas, flores, frutos (p. ex., de índigo, de ísatis, de pastel-dos-tintureiros)
+667.287	Pigmentos de quinolina, cianina,
+ftalocianina, nitro e nitroso.
+667.287.4	Pigmentos de quinolina. Cianinas.
+667.287.6	Pigmentos nitro e nitroso.
+667.289	Outros pigmentos orgânicos sintéticos.
+      Especificar por meio de :547...
+667.4/.5	Tintas de escrever. Materiais de
+escrever.
+667.4	Tintas. Tintas de escrever.
+-> 003.57 Material para escrita
+667.41	Tintas de escrever comuns.
+667.42	Tintas pretas de cópia.
+667.43	Tintas de cópia. Tintas de anilina.
+667.44	Tintas coloridas.
+667.45	Tintas permanentes (tintas indeléveis).
+667.46	Tintas simpáticas (tintas invisíveis).
+667.47	Tintas metálicas.Inclusive Tinta dourada. Tinta prateada.
+667.488	Tintas para canetas esferográficas.
+667.49	Outros tipos de tinta. Inclusive Tintas em pó. Tabletes de tinta.
+667.5	Tintas de impressão (pretas ou
+coloridas). Tintas litográficas. Lápis
+de escrever e desenhar. Lápis de
+cor. Creions coloridos.
+Subdivisões auxiliares especiais
+667.5.03	Matéria corante. Aglutinantes. Aditivos.
+667.5.032	Matéria corante (corantes, pigmentos) para tintas de impressão. Tintas coloridas de impressão segundo o pigmento.
+667.5.033	Agentes aglutinantes para tintas de impressão. Tintas de impressão segundo os aglutinantes e os veículos.
+667.5.034	Aditivos para tintas de impressão.
+667.5.036                Agentes de umedecimento e lavagem para uso gráfico.
+Divisões principais
+667.52	Tintas de impressão (pretas ou coloridas).
+-> 665.3 Operações e técnicas de impressão. Impressão
+667.521	Tintas de impressão pretas.
+667.521.l	Tintas de impressão pretas comuns. Negro-de-carbono (negro-de-fumo).
+                                   -> 661.666.4 Carbono técnico. Negro de carbono
+667.521.2	Tintas de impressão pretas finas.
+	Tintas de impressão para impressoras rotativas
+667.521.4	Tintas de carbono.
+667.522	Tintas de impressão coloridas.
+667.523	Tintas de impressão de anilina.
+667.524	Tintas de impressão planográfica. Inclusive Tintas litográficas. Tintas de impressão offset.
+	      -> 667.55 Tintas litográficas
+667.525	Tintas para impressão a entalhe. Inclusive Tintas para gravura a água-forte, gravura.
+667.526	Tintas de impressão para outras finalidades
+Tintas de impressão especiais. Inclusive Tintas para mimeógrafo. Tintas para serigrafia. Tintas de impressão em 
+tecidos. Tintas para impressão de segurança (para impressão de certificados de ações, etc.). Tintas de impressão luminescentes.
+-> 628.9.03 Fontes de luz luminescente
+-> 677.027.5 Impressão têxtil
+-> 677.047.5 Materiais complementares para estampagem têxtil
+667.528	Vernizes e laças para impressos.
+667.53	Tintas para almofadas de carimbos. Tintas
+para carimbo (p. ex., para carimbo de borracha). Tintas de duplicação (p. ex., tintas hectográficas). Tintas em fita (p. ex. pigmentos para fitas de máquinas de escrever).
+667.55	Tintas litográficas.
+-> 667.524 Tintas de impressão planográfica
+667.56	Lápis. Lápis de cera.
+-> 686.862.2 Lápis em geral
+-> 75.023 Materiais para pintura
+667.562	Lápis. Lápis de grafita.
+667.564	Lápis-tinta. Gizes e lápis com pigmentos de
+anilina.
+667.565	Lápis coloridos.
+667.6	Revestimentos e técnicas de
+revestimento. Tintas. Vernizes. Laças. 
+      As subdivisões de 667.6 podem ser combinadas por meio do apóstrofo para substituir os dígitos 667.6 no segundo 
+       elemento e nos elementos subseqüentes no composto; os elementos são citados em ordem numérica decrescente 
+Exemplo(s) de combinacao(oes):
+667.629.6'215.3 Agentes contra formação de nata para óleo em repouso 
+667.661.23'443'332.4 Pistolas para pintar com tinta a óleo
+667.61	Assuntos gerais. Inclusive Propriedades. Testes. Defeitos.
+667.612	Propriedades e teste de materiais de
+revestimento, antes ou durante a aplicação.
+667.612.2	Tamanho da partícula em revestimentos.
+Espessura do grão.
+-> 539.215 Pulverulência. Pulveribilidade. Superfície específica. Friabilidade. Distribuição coloidal. Regularidade, homogeneidade. Fineza, precisão granular
+667.612.3	Comportamento de materiais de revestimento em armazenamento. Inclusive Separação e sedimentação. Espessamento. Geliflicação. Redispersibilidade (reação à agitação),
+667.612.6	Comportamento de materiais de revestimento durante a aplicação. Propriedades de formação
+de película. Inclusive Aplicabilidade. Facilidade de uso do pincel. Dispersibilidade. Descamação.
+667.612.8	Comportamento de materiais de revestimento
+durante a secagem. Tempo de secagem.
+667.613	Propriedades e testes de revestimentos após
+a aplicação e secagem. Propriedades dos
+revestimentos aplicados (inclusive das
+primeiras demãos, das demãos de base).
+Exemplo(s) de combinacao(oes):
+667.613:535.685 Resistência dos revestimentos à água
+667.613.2	Desgaste de revestimentos por ação de
+intempéries. Comportamento sob várias
+condições climáticas.
+Exemplo(s) de combinacao(oes):
+667.613.2:620.199 Desgaste artificialmente acelerado dos revestimentos. Testes a curto prazo dos revestimentos
+-> 535.686 Firmeza das cores em relação às influências mecânicas e climáticas
+667.613.3	Comportamento de revestimentos em relação a líquidos.
+Exemplo(s) de combinacao(oes):
+667.613.3:547.294 Comportamento em relação a ácidos butíricos
+667.613.4	Comportamento de revestimentos em relação a
+gases e vapores.
+Exemplo(s) de combinacao(oes):
+667.613.4:546.171.l Comportamento em relação à amônia
+667.613.5	Propriedades biológicas de revestimentos (e suas pesquisas).
+Exemplo(s) de combinacao(oes):
+667.613.5:620.193.8 Comportamento com relação à ação biológica. Resistência a ataque biológico
+667.613.7	Defeitos de revestimentos.
+667.62                 Componentes de revestimentos.
+667.621                 Veículos e aglutinantes. Aglutinantes como
+revestimentos, sem pigmento.
+667.621.2	Aglutinantes aquosos, à base de água.
+667.621.22	Aglutinantes aquosos inorgânicos. Inclusive Cal. Vidro solúvel.
+667.621.26	Aglutinantes aquosos orgânicos. Inclusive Proteínas, p. ex., albumina. Carboidratos. Gomas.
+667.621.3	Asfalto. Betume. Alcatrão.
+667.621.4	Óleos graxos e ceras como aglutinantes.
+667.621.42	Óleos animais e vegetais como aglutinantes. Produtos especiais extraídos de óleos.
+667.621.44	Ceras como aglutinantes.
+667.621.5	Óleos graxos, com composição modificada, como aglutinantes. Inclusive óleos fervidos. Óleos oxidados. 
+Óleos levemente sulfurizados. Factício (substância semelhante à borracha obtida pela vulcanização de óleos vegetais
+insaturados).
+667.621.53	Óleos polimerizados. Inclusive Óleo de linhaça refinado.
+667.621.6	Aglutinantes macromoleculares. Inclusive Resinas naturais e sintéticas como aglutinantes.
+667.621.7	Outros componentes essenciais do sistema de aglutinação. Inclusive Plastificadores
+-> 66.063.72 Emolientes, plastificadores e seu emprego
+-> 667.629 Auxiliares, aditivos para revestimentos
+667.622	Pigmentos, corantes em revestimentos.
+Indicar as cores por meio de -12...
+-> 66.022.33 Aditivos que afetam a cor. Estabilizadores de cor
+-> 666.291.3 Cores do esmalte. Agentes corantes, tinturas
+667.622.1	Pigmentos inorgânicos (exceto metais) em revestimentos.
+667.622.11	Pigmentos minerais.
+Especificar por meio de :661.8...
+Exemplo(s) de combinacao(oes): 
+      667.622.11:661.847 Pigmentos de compostos de zinco (p. ex., branco-de-zinco) 
+      667.622.11:661.852 Pigmentos de compostos de chumbo (p. ex., chumbo-vermelho, mínio, zarcão) 
+      667.622.11:661.872 Pigmentos de compostos de ferro (p. ex., óxidos de ferro)
+667.622.2	Pigmentos metálicos.
+Especificar por meio de :669...
+ Exemplo(s) de combinacao(oes):
+667.622.2:669.35 Ligas de cobre como pigmentos
+667.622.3	Pigmentos orgânicos.
+667.622.31	Pigmentos orgânicos naturais.
+667.622.32	Pigmentos orgânicos sintéticos.
+667.622.33	Pigmentos para formação de laca.
+667.622.4	Pigmentos solúveis no aglutinante.
+667.622.4 dividido como 667.622.3
+667.622.5	Enchimentos. Dilatadores. Bases de pigmentos.
+667.629                  Auxiliares, aditivos para revestimentos.
+-> 667.621.7 Outros componentes essenciais do sistema de aglutinação
+667.629.2	Solventes. Redutores (thinners). Diluentes.
+Exemplo(s) de combinacao(oes):
+667.629.2.061.18 Solventes 
+667.629.2.063.93 Redutores (thinners). Diluentes
+667.629.3	Secantes.
+-> 66.047.8 Secagem por processos químicos ou químico-coloidais
+667.629.38	Retardadores de secagem.
+667.629.4	Estabilizadores (p. ex., agentes para impedir a fixação).
+-> 66.022.36 Aditivos favoráveis à preservação do estado agregado. Estabilizadores do estado agregado (de suspensões, emulsões, espumas, etc.)
+667.629.5	Emulsificantes. Agentes umidificadores.
+	      -> 66.022.34 Aditivos que afetam a higroscopicidade
+	      -> 66.063.5 Umedecimento. Umidificação
+	      -> 66.063.61 Emulsificação
+	      -> 661.185 Agentes ativos na superfície. Surfatantes
+667.629.6	Agentes contra formação de nata.
+667.629.8	Agentes que afetam o acabamento da superfície.
+Agentes que produzem efeitos especiais nas
+superfícies, texturas.
+667.629.82	Agentes para efeitos especiais de brilho. Inclusive Para brilho intenso, acabamento acetinado, acabamento fosco.
+667.629.83	Agentes para produzir superfícies desiguais, irregulares. Inclusive Para efeito enrugado. Para efeito fosco.
+667.629.84	Agentes para produzir superfícies gretadas, rachadas (efeitos de fissura, craquelê).
+667.629.88	Agentes para reduzir a decomposição da tinta.
+667.629.9	Outras substâncias complementares.
+	      -> 667.637. Revestimentos para fins especiais. 
+667.63	Revestimentos: produção e uso.
+667.632	Execução de revestimentos. Inclusive Processos e instalações. 
+                                         Especificar por meio de: 02/. 09 (de 66.02/. 09) 
+                                    Exemplo(s) de combinacao(oes):
+667.632.022 Preparo de matérias-primas para revestimentos 
+667.632.022.5 Tratamento mecânico. Cominuição etc. 
+667.632.046 Tratamento térmico. Aquecimento, fervura. Cozimento do verniz
+667.633	Revestimentos segundo a composição.
+Indicar a cor por meio de -12...
+667.633.2	Revestimentos segundo o tipo de aglutinante.
+667.633.2 dividido como 667.621
+667.633.22	Revestimentos à base de água. Inclusive Tintas à base de água. Caiações.
+667.633.24	Revestimentos à base de óleo e cera. Tintas a óleo.
+667.633.26	Revestimentos à base de resina. Inclusive Lacas. Vernizes.
+667.633.4	Revestimentos segundo o pigmento, o corante.
+667.633.41	Revestimentos com pigmentos inorgânicos
+(exceto metais).
+Especificar por meio de .661.8...
+667.633.42	Revestimentos com pigmentos metálicos. Especificar por meio de :669...
+667.633.6	Revestimentos segundo os complementos, aditivos.
+Especificar por meio de :667. 629...
+667.634	Revestimentos segundo o método de aplicação.
+667.634.2	Revestimentos para aplicação com trinchas.
+pincéis. Tintas e vernizes para aplicar com pincel.
+667.634.3	Revestimentos para pulverizar. Tintas e
+vernizes de aplicar por meio de pulverização.
+667.634.4	Revestimentos para aplicação por imersão.
+Tintas e vernizes para mergulho, imersão.
+667.634.5	Revestimentos para aplicação com esponjas,
+pontilhamentos, chapisco, etc. Tintas para
+chapisco.
+667.634.6	Revestimentos para aplicação com rolos. Tintas
+e vernizes de aplicar com rolo.
+667.634.7	Revestimentos para aplicação com espátula. Inclusive Massa corrida. Massa de vidraceiro. Lixadeira de superfície.
+667.634.8	Revestimentos para aplicação por
+derramamento, viragem.
+667.635	Revestimentos segundo o método de secagem.
+667.635.3	Revestimentos para secagem a temperatura
+normal. Revestimentos de secagem rápida.
+667.635.5	Revestimentos para secagem a alta temperatura.
+667.636	Revestimentos segundo o substrato
+(material a ser pintado).
+667.636.2	Revestimentos para materiais inorgânicos. Inclusive Para metais e outros minerais.
+	      -> 669.056.9 Acabamento da superfície, revestimentos, colorimentos, etc., sobre metais em geral. Metais 
+	      com acabamento de superfície
+667.636.4	Revestimentos para materiais orgânicos. Inclusive Para madeira e outros materiais fibrosos. Para borrachas e 
+	plásticos.
+667.636.8	Revestimentos para cobrir revestimentos já existentes.
+667.637	Revestimentos segundo as propriedades e o uso.
+667.637.2	Revestimentos resistentes a determinadas
+influências. Revestimentos de proteção.
+667.637.22	Revestimentos resistentes a influências mecânicas. Inclusive Revestimentos resistentes ao desgaste.
+667.637.23	Revestimentos resistentes a outras influências
+físicas e químicas.
+667.637.232	Revestimentos resistentes ao calor e ao frio.
+Exemplo(s) de combinacao(oes):
+667.637.232:621.565 Revestimentos para instalações de refrigeração
+667.637.233	Revestimentos resistentes à água, à umidade.
+667.637.234	Revestimentos resistentes à fumaça, a gases de
+exaustão.
+667.637.236	Revestimentos resistentes a substâncias com
+ação dissolvente e/ou dilatante. Revestimentos resistentes a hidrocarbonetos, álcoois, óleos.
+667.637.237	Revestimentos resistentes a ácidos ou álcalis.
+667.637.25	Revestimentos resistentes a influências
+atmosféricas.
+667.637.27	Revestimentos resistentes à ferrugem, corrosão.
+667.637.4	Revestimentos para fins especiais.
+Exemplo(s) de combinacao(oes):
+667.637.4:536.522.3 Tintas que indicam a temperatura
+667.637.4:620.193.8 Revestimentos com ação biológica. Tintas bactericidas, fungicidas  -> 667.629
+667.637.4:621.315.617 Lacas isolantes
+667.637.4:628.9.03 Tintas luminescentes (luminosas) 
+667.637.4:699.812 Revestimentos á prova de fogo
+667.637.8	Revestimentos para produção de determinados
+efeitos na superfície.
+      667.637.8 dividido como 667.629.8
+667.638	Revestimentos segundo a função no sistema de revestimento.
+667.638.2	Tintas de base (primers).
+667.638.4	Tintas para primeira demão. Camadas
+intermediárias. Niveladores. Massa corrida.
+667.638.6	Camadas finais. Tintas de acabamento.
+667.64	Técnica, processos de revestimento.
+-> 698.12 Pinturas de construções. Pintura decorativa. Pintura à têmpera. Ofício de pintor de casas
+667.644	Técnica de aplicação de revestimento. 667.644 dividido como 667.634
+667.644.3	Aplicação por pulverização. Inclusive Pintura por pulverização, a pistola, spray, aerossol. 
+667.645	Secagem do revestimento. 667.645 dividido como 667.635
+667.645.3	Secagem a temperatura normal. Métodos de secagem rápida.
+667.646	Técnica de revestimento segundo o
+substrato (material a ser pintado).
+      667.646 dividido como 667.636
+667.647	Técnica de revestimento segundo as propriedades do revestimento.
+667.647.2	Revestimento segundo o aglutinante.
+667.647.2 dividido como 667.621
+667.647.22	Revestimento com tintas á base de água, etc.
+667.647.4	Revestimento segundo o pigmento, o corante.
+Especificar por meio de -661.8...
+667.648	Execução das demãos.
+667.648.1	Trabalho preliminar. Inclusive Remoção de pinturas anteriores (remoção da tinta antiga). Lixamento. Emassamento.
+667.648.2	Aplicação de base antiferruginosa.
+667.648.3	Aplicação do primer, da tinta de base.
+667.648.4	Aplicação da primeira demão, das demãos
+intermediárias.
+667.648.6	Aplicação da demão final.
+667.648.8	Trabalho de acabamento. Inclusive Lixamento. Polimento. Secagem em estufa.
+667.649.2	Aplicação de ouropel (folhas de metal).
+Aplicação de decalcomanias.
+		      -> 669.058 Metais aplicados como acabamento (sobre metal ou qualquer outro material)
+      -> 669.216 Fabricação e acabamento de ouro
+      -> 676.263.4 Papel de transferência, decalque
+667.649.4	Pintura decorativa, ornamental. Produção de desenhos, de padrões, na superfície. Inclusive Por estêncil. Por 
+	impressão a rolo.
+	      -> 744.34 Instrumentos de desenho
+667.649.6		Letras na pintura. Letreiros. Pintura de letreiros.
+-> 744.9 letras ornamentais, heráldicas e para exposições. Desenho de avisos, letreiros (p. ex., para cartazes, letreiros, placas de lojas).
+667.653		Revestimento final. Camada final.
+667.653.2	Camada final segundo o aglutinante.
+667.653.2 dividido como 667.621
+667.653.24	Camada final à base de óleo.
+667.653.2
+667.653.4	Camadas finais segundo os componentes
+pigmentos.
+Especificar por meio de :661.8...
+667.657	Função da camada final.
+667.657.1	Efeito de coloração.
+667.657.2	Efeito protetor.
+667.657.3	Imitação de outros materiais.
+Especificar por meio de :... 
+Exemplo(s) de combinacao(oes):
+667.657.3:674.031.949.1 Imitação de teca
+667.657.4	Camadas finais para fins especiais.
+Especificar o objetivo por meio de :...
+667.657.8	Camadas finais com efeito especial de
+superfície.
+      667.65 7.8 dividido como 667.629.8
+667.658	Camadas, revestimentos específicos.
+667.658 dividido como 667.638
+667.658.4	Primeiras demãos. Camadas intermediárias.
+667.658
+667.661	Ferramentas, equipamento para operações
+de revestimento.
+667.661.l	Equipamento para preparo e armazenagem de
+materiais de revestimento.
+667.661.13	Dispositivos de trituração, moagem. Moinhos
+de tintas. Dispositivos para misturar tintas, etc.
+667.661.17	Recipientes para materiais de revestimento.
+Recipientes, etc. ,para tintas e vernizes. 
+Exemplo(s) de combinacao(oes):
+667.661.17:621.642.17 Garrafas para materiais de revestimento
+667.661.2	Equipamento para aplicar o revestimento. Inclusive Brochas, pincéis de tinta. Pistolas de borrifamento. Sprays.
+                                           667.661.2 dividido como 667.634
+                                       -> 687.978 Pincéis de pintura. Pincéis para artistas
+                                  -> 75.022.2 Para aplicação de pigmento
+667.661.23	Pistolas de borrifamento. Aerossóis de pintura.
+667.661.2
+667.661.3	Dispositivos para produção de efeitos especiais, texturas, na superfície.
+667.661.3 dividido como 667.629.8
+667.661.34	Dispositivos para produção de efeitos de ranhura, craquelê , etc. 
+	       667.661.3
+667.661.4	Equipamento para produção de padrões, desenhos, letreiros. Inclusive Estênceis. Rolos.
+667.661.5	Equipamento para aplicação de ouropel (folha) e transferências (decalcomania).
+-> 669.058 Metais aplicados como acabamento (sobre metal ou qualquer outro material)
+-> 669.216 Fabricação e acabamento de ouro
+-> 676.263.4 Papel de transferência, decalque
+667.661.6	Equipamento especial. Inclusive Cabinas de pulverização. Mesas giratórias.
+667.691	Agentes e métodos para remoção de
+revestimentos. Agentes de descamamento. Removedores de tinta. Descamadores de tinta.
+667.7	Coloração, tingimento, etc. de materiais diversos (exceto impressão e pintura).
+-> 677.027.4 Tingimento
+667.74	Coloração de madeira. Tingimento de madeira.
+667.741	Por gravura a cor.
+667.742	Gravação química da madeira. Reforço do grão. Realce da cor do grão. Inclusive Envelhecimento com ácidos. Envelhecimento com vapores de amônia.
+667.743	Coloração por impregnação (infiltração).
+667.75	Coloração, tingimento de pedras naturais e artificiais, cimento, etc.
+667.76	Coloração, tingimento de metal.
+-> 621.785.7 Têmpera e envelhecimento
+-> 669.056.9 Acabamento da superfície, revestimentos, colorimentos, etc., sobre metais em geral. Metais com acabamento de superfície
+667.761	Por meios elétricos.
+-> 621.357.8 Banho brilhante. Eleropolimento. Decapagem
+667.762	Por meios químicos.
+-> 621.794.5 Tratamento químico de decoração
+667.763	Por meios térmicos.
+-> 535.662.1 Cores de difração. Cores de interferência
+667.767	Coloração por eloxidação (do alumínio).
+667.77	Coloração de outros materiais.
+667.772	Coloração, tingimento de couro.
+-> 675.026.1 Coloração. Tingimento
+-> 675.046.1 Colorantes. Pigmentos. Tinturas. Agentes alvejantes
+667.773	Coloração, tingimento de borracha e
+plásticos.
+667.777	Coloração de alimentos.
+-> 637.238.2 Coloração de manteiga
+-> 637.338.2 Coloração do queijo
+-> 663.052 Aditivos para melhorar o sabor. Suplementos aromáticos
+667.78	Coloração, tingimento de materiais transparentes.
+667.781	Coloração de líquidos.
+667.783	Execução de filtros de luz. Inclusive Uso de filmes de gelatina, lâminas, chapas
+      -> 666.1.058.1 Pigmentos para tingimento do vidro. Cores do vidro. Tingimento preto
+	      -> 666.24 Vidros coloridos transparentes. Vidros coloridos na massa (completamente coloridos). Vidro 
+                                  tingido. Vidros com absorção
+
+669 Metalurgia
+      -> 539.4 Força. Resistência à tensão
+      -> 539.5 Propriedades dos materiais que afetam a deformabilidade
+      -> 620.18 Investigação sobre a estrutura dos materiais. Metalografia. Estudo análogo dos metalóides
+      -> 622 Mineração
+      -> 661.8 Compostos metálicos em geral. Sais. Compostos minerais
+Subdivisões auxiliares especiais
+669-1	Estado do metal ou liga, segundo o tratamento.
+                                          Os auxiliares de 62-1... não são aplicáveis em 669 e suas subdivisões. Para o estado, a condição ou a forma dos
+      produtos metalúrgicos ou dos materiais semiacabados, usar -4... (de 62-4...)
+669-11	Metais em estado natural.
+669-122	Metais laminados.
+      -> 669-177 Metais enrijecidos por trabalho. Metais enrijecidos por tensão
+669-124	Metais trefilados.
+669-126	Metais extrudados.
+669-13	Metais trabalhados, forjados ou batidos.
+Metais moldados a quente.
+669-131	Metais trabalhados, forjados ou batidos em
+geral.
+669-132	Metais batidos.
+669-133	Metais martelados.
+669-134	Metais forjados.
+669-135	Metais prensados.
+-> 669-126 Metais extrudados
+669-136	Metais estampados, esmagados com
+estampa.
+669-138	Metais preparados pela metalurgia do pó. Inclusive Compactos de limalha. Compactos sinterizados.
+                                         -> 621.762 Metalurgia do pó
+669-14	Metais fundidos.
+-> 621.74 Fundição. Instalações e equipamento de fundição. Moldagem e fundição
+669-141	Metais fundidos a areia, em moldes de arenito.
+669-142	Metais fundidos por centrifugação.
+669-143	Metais fundidos em matrizes, moldados por injeção.
+669-144	Metais fundidos por resfriamento.
+669-145	Metais de fundição precisa. Inclusive Metais moldados com moldes próprios (de cera, p. ex.,que se derretem depois de 
+                                 copiados).
+669-146	Metais de fundição composta.
+669-147	Metais de fundição contínua.
+669-15	Metais tratados a calor.
+Especificar por meio de :621.785...
+                                    -> 669.97 Metais tratados a calor
+669-151	Metais aquecidos em geral.
+669-151.6	Velocidade de aquecimento.
+669-151.7	Metais submetidos a banho.
+669-151.8	Mal aquecidos. Aquecidos defeituosamente.
+669-151.82	Queimados.
+669-151.83	Superaquecidos.
+669-151.84	Descarburizados.
+669-151.86	Modificados na composição da superfície. Inclusive Deszincados.
+669-153	Metais temperados.
+669-153.3	De têmpera negra (preto recozido).
+669-153.4	De têmpera brilhante, vermelho brilhante.
+669-153.6	Temperados por processos que envolvem
+transformação de fase.
+669-153.7	Temperados sem transformação de fase.
+669-154	Metais derretidos.
+669-155	Metais de cementação carburante. Metais de
+superfície enrijecida.
+669-155.l	Metais de cementação carburante sem
+enrijecimento.
+669-155.2	Com cementação enrijecida
+669-155.3	Nitridados. Carbo-nitridados. Metais
+cianidados.
+669-155.4	De superfície enrijecida por aquecimento
+localizado. Enrijecimento a chama
+-> 621.785.54 Têmpera superficial por aquecimento localizado
+669-156	Metais enrijecidos, temperados.
+669-156.2	Endurecido por jato de ar.
+669-156.3	Enrijecido em água ou solução aquosa.
+669-156.4	Enrijecido em ar líquido ou meio similar.
+669-156.5	Enrijecido em óleo.
+669-156.6	Enrijecido em metais derretidos ou sais.
+669-156.7	Enrijecidos em meios sólidos. Inclusive em areia
+669-157	Metais temperados e envelhecidos.
+669-157.2	Metais temperados.
+669-157.8	Metais envelhecidos. Metais endurecidos pelo
+tempo. Metais endurecidos por precipitação.
+669-157.9	Metais tratados por processos combinados.
+669-158	Metais resfriados.
+669-158.8	Velocidade de resfriamento.
+669-159.2	Metais tratados a baixa-temperatura.
+669-17	Metais estruturalmente modificados
+(principalmente a estrutura cristalina) por
+outros meios que não apenas o calor.
+669-172	Metais de cristal único, monocristalinos.
+669-174	Metais recristalizados.
+669-175	Metais com tamanho anormal de grão.
+669-176	Metais com orientação definida.
+669-177	Metais enrijecidos por trabalho. Metais
+enrijecidos por tensão.
+-> 669-122 Metais laminados
+669-178	Metais eletromagneticamente modificados,
+enrijecidos, etc..
+669-19	Metais caracterizados por outras
+características especiais.
+Desenvolvido em 669.15-19... e 669 35-19...
+669-2/-9	Detalhes de maquinaria, instalações e produtos.
+      Os auxiliares -2/-9 (de 62-1/-8 e 66-9) são aplicáveis por todo o 669 
+Exemplo(s) de combinacao(oes):
+      669-2 Componentes de máquinas, aparelhos, equipamento 
+      669-4 Estado, condição, forma dos produtos metalúrgicos (e dos materiais semiacabados)
+      669-1 
+      669-403 Estado gasoso 
+      669-404 Estado líquido. Estado fundido. Derretido 
+      669-405 Estado sólido. Estado solidificado 
+      669-408 Condição da superfície dos objetos de metal 
+      669-41 Objetos metálicos planos (p.ex. barras, placa folha, tira) 
+      669-42 Seções de metal. Objetos metálicos perfilados
+                                          669-462 Seções ocas fechadas de metal (p.ex. tubos, canos, mangueiras de metal)
+                                          669-492.2A3 Pós, grãos, granalha de metal 
+                                         669-5 Operação e controle das máquinas e processos 
+                                      669-6 Combustível e outras características da fonte de calor da maquinaria e das instalações 
+                                         669-8 Características da força motriz das máquinas e aparelhos
+                                       669-97 Dados térmicos característicos. Temperatura.  mbito da temperatura
+                                        669-15 
+                                        669-98 Pressão.  mbito da pressão.
+669.01/.09 	Propriedades, processos e equipamento metalúrgicos
+	      Para as subdivisões, ver 66.01/.09; o .05 é mais desenvolvido aqui
+	      669.01/.09 dividido como 66.01/.09
+669.01	Metalurgia em geral. Inclusive Produção e importância dos metais
+-> 620.18 Investigação sobre a estrutura dos materiais. Metalografia. Estudo análogo dos metalóides
+669.013	Instalações e trabalhos metalúrgicos.
+Subdividir como em 66.013...
+669.014	Reações que envolvem metais.
+669.014.6	Comportamento dos elementos específicos.
+669.014.7	Reações segundo o lugar onde se realizam.
+669.014.72	Reações na zona de combustão.
+669.014.74	Reações entre os gases desprendidos e os
+minérios e fundentes.
+669.014.76	Reações na zona de formação do metal.
+669.014.8	Irregularidades nas reações. Inclusive Operação irregular do forno: muito quente, muito frio. Excesso ou falta
+                                     de minérios. Explosões. Erupções.
+669.015	Tipos de produto.
+Classificar os produtos específicos em 669.1/.8
+669.015.2	Produtos intermediários.
+669.015.3	Produtos de metal bruto.
+669.015.4	Produtos de metal puro.
+669.015.5	Produtos de metal superpuro, super-refinado.
+669.015.7	Gases. Gases de alto-forno.
+669.015.8	Subprodutos sólidos.
+-> 66.046.58/.59
+669.015.9	Perdas.
+669.017	Metalurgia física de metais específicos.
+669.017.l	Sistemas de liga.
+-> 669.055 Ligas
+669.017.11	Diagramas de fase.
+Para o diagrama da fase ferro-carvão,  usar 669.112.2. 
+Usar  669.055.017.1 para diagramas de fase de outros sistemas
+669.017.12	Ligas binárias.
+669.017.13	Ligas ternárias.
+669.017.14	Ligas quaternárias.
+669.017.15	Ligas de maior complexidade.
+669.017.16	Estruturas de ligas.
+-> 539.2 Propriedades e estrutura de sistemas moleculares
+-> 548.7 Estrutura fina dos cristais. Teoria da descontinuidade dos cristais
+669.017.3	Transformações de fase.
+669.018	Matérias metálicos do ponto de vista de suas propriedades gerais. Ligas em geral.
+669.018.2	Metais e ligas com propriedades mecânicas especiais.
+669.018.23	Facilmente usináveis. Metais e ligas de usinagem
+livre.
+-> 669.018.26 Metais e ligas facilmente deformáveis. Ligas de estiramento profundo. Ligas moles (p. ex., aço mole)
+669.018.24	Metais e ligas de suporte.
+669.018.25	Metais e ligas excepcionalmente duros ou
+resistentes ao desgaste (inclusive metais duros).
+      -> 661.665.2 Carbonetos de metais pesados
+      -> 669.018.9 Pseudo-ligas e combinações metálicas similares
+669.018.252	Metais e ligas para processamento com formação de limalhas.
+-> 621.9.025 Ferro de corte (a ferramenta propriamente dita). Tipos. Ferramentas com pontas de aço, pontas duras, etc.
+669.018.253	Metais e ligas para cizalhamento. Inclusive Para perfuração, estampagem.
+669.018.254	Metais e ligas para ferramentas de prensagem, de fazer cabeças de pregos, parafusos, etc., a frio.
+-> 621.7073 Matrizes
+669.018.255	Metais e ligas para moldes de perfilagem, laminadores a frio, etc.
+669.018.256	Metais e ligas resistentes ao desgaste.Inclusive Para perfuração de rochas, ferramentas para esmagamento, para 
+	desintegração.
+669.018.258	Metais e ligas para usinagem a quente e fundição sob pressão.
+669.018.26	Metais e ligas facilmente deformáveis. Ligas de estiramento profundo. Ligas moles (p.ex. aço mole).
+-> 669.018.23 Facilmente usináveis. Metais e ligas de usinagem livre
+-> 669.127.5 Ferro macio. Outros graus tecnicamente puros de ferro
+669.018.27	Metais com alta elasticidade (p.ex. metais para molas).
+669.018.28	Ligas fundentes (usadas principalmente no estado fundido).
+669.018.29	Metais e ligas estruturais, de construção.
+-> 691.7 Materiais metálicos de construção
+669.018.291	Metais e ligas comuns (pesados) estruturais e de construção.
+669.018.292	Metais e ligas estruturais e de construção de alta resistência.
+669.018.298               Metais e ligas para endurecimento por tratamento térmico.
+669.018.4	Metais e ligas com propriedades térmicas especiais.
+669.018.41	Metais e ligas de baixa temperatura.
+669.018.42	Metais e ligas com baixo ponto de fusão.
+669.018.44	Metais e ligas resistentes à corrugação.
+669.018.45	Metais e ligas com alto ponto de fusão.
+-> 669.018.9 Pseudo-ligas e combinações metálicas similares
+669.018.47	Metais e ligas com propriedades especiais de expansão. Inclusive Metais e ligas com baixa expansão, p.ex., invar (liga de aço e 
+níquel).
+669.018.48	Metais e ligas de envelhecimento sem tensão.
+669.018.5	Metais e ligas com propriedades elétricas e magnéticas especiais.
+669.018.52	Metais e ligas com baixa resistência elétrica.
+Exemplo(s) de combinacao(oes):
+669.018.52:621.315.1 Metais e ligas para cabos elétricos, linhas elétricas suspensas
+669.018.54	Metais e ligas com alta resistência elétrica.
+669.018.55	Metais e ligas com resistência elétrica constante.
+669.018.57	Metais e ligas para elementos termo-acoplados.
+669.018.58	Metais e ligas com propriedades magnéticas especiais.
+669.018.582	Metais e ligas para ímãs permanentes.
+669.018.583	Metais e ligas para o circuito magnético em máquinas elétricas.
+669.018.584	Metais e ligas não-magnéticos.
+669.018.6	Metais e ligas com outras propriedades físicas especiais. Inclusive Com propriedades ópticas ou acústicas especiais
+669.018.62	Metais e ligas fungíveis.
+669.018.672	Metais e ligas de baixa densidade.
+669.018.674	Metais e ligas de alta densidade.
+669.018.7	Metais e ligas com propriedades químicas especiais.
+669.018.72	Metais e ligas pirofóricos.
+669.018.73	Metais e ligas com propriedades redutoras
+(p.ex., para produção do hidrogênio).
+669.018.74	Metais e ligas que não produzem faíscas.
+669.018.8	Metais e ligas resistentes á corrosão.
+      669.018.8 dividido como 620.193
+669.018.821	Metais e ligas resistentes a efeitos climáticos em geral.
+669.018.822	Metais e ligas resistentes aos efeitos do ar, do oxigênio.
+669.018.841	Metais e ligas resistentes a ácidos inorgânicos.
+669.018.842	Metais e ligas resistentes a álcalis inorgânicos.
+669.018.85	Metais e ligas resistentes a gases e vapores quentes.
+669.018.891	Metais e ligas resistentes ao envelhecimento.
+669.018.9	Pseudo-ligas e combinações metálicas similares. Inclusive Cermets.
+-> 666.789.2 Misturas cerâmico-metálicas. Cermets. Metal-cerâmica
+-> 669.018.25 Metais e ligas excepcionalmente duros ou resistentes ao desgaste (inclusive metais duros)
+-> 669.018.45 Metais e ligas com alto ponto de fusão
+669.019	Defeitos materiais e sua prevenção.
+Especificar por meio de : 620.19...
+	Processos e equipamento metalúrgico.
+Subdividir como em 66.02/.09
+669.04	Processos e instalações de aquecimento,
+fusão e refinação.
+Subdividir como em 66.04... 
+Exemplo(s) de combinacao(oes):
+                                        669.046 Processos e instalações térmicas na metalurgia. Processos de aquecimento e fusão 
+                                        669.049.4 Separação das fases metálicas sólida e líquida por fusão parcial
+669.05	Processos metalúrgicos gerais e fundamentais. 
+      Apesar da aparência da notação, as subdivisões .051/. 054 só são aplicáveis como números principais, e não 
+      podem ser separadas e aplicadas às divisões diretas de 669
+Divisões principais
+669.051	Generalidades sobre minérios e metalurgia.
+-> 622.34 Metais e metalóides. Minérios (minerais metalíferos)
+669.052	Generalidades sobre o tratamento de
+misturas de minério.
+-> 622.7 Tratamento, processamento de minerais. Apuro do mineral. Preparação do minério
+669.053		Extração de minérios. Metalurgia de extração
+                                     Para as subdivisões, ver os metais individuais em 669.2/.8
+Exemplo(s) de combinacao(oes):
+                      669.3.053 Metalurgia de extração do cobre. Extração do cobre
+669.053.2	Extração de metais a seco. Pirometalurgia.
+669.053.4	Extração de metais por via úmida.
+Hidrometalurgia.
+669.054	Purificação. Refinação. Recuperação
+	      -> 669.04 Processos e instalações de aquecimento, fusão e refinação
+669.054.l	Refinação de metais por meios químicos e
+similares.
+669.054.2	Refinação de metais por meios físicos.
+Especificar por meio de . 06/.08 (de 66.06/. 08)
+669.054.3		Processos especiais de refinação para determinados metais
+                                             Para as subdivisões, ver os metais específicos em 669.2/.8
+                                             669.054. dividido como 669.2/.8
+669.054.7		Refinação de metais por meios químicos e similares.
+669.054.72	Em banhos de sais fundidos.
+669.054.76	Em soluções aquosas.
+669.054.8		Utilização de sucata, de produtos do refugo.
+                                       Generalidades sobre a recuperação de metais a 
+                                       partir da sucata. Inclusive Separação dos componentes de ligas
+Subdivisões auxiliares especiais
+669.055		Ligas
+                                            1. Para indicar ligas segundo as propriedades, acrescentar .018 e suas subdivisões ao número para a liga ou grupo de ligas,
+                                            p. ex.: 
+                                           669.14.018.841 Aços resistentes a ácidos
+                                           [669.21/.23].055.018 Ligas de metais nobres segundo as propriedades.
+                                           669.3.055.018.24 Ligas de cobre como metais suportes
+                                           [669.85/.86].055.018 Ligas de metais raros segundo as propriedades.
+                                          2. para indicar ligas segundo a composição, classificar no número do elemento principal, seguido de .055; indicar novos 
+		    componentes 
+                                          por meio da combinação de dois pontos com as subdivisões de 669.2/.8, em ordem decrescente de quantidade (ou na ordem da 
+		  CDU,  se for a preferida, ou se não se conhecer a razão dos componentes)
+                                  Exemplo(s) de combinacao(oes):
+                                         [669.21/.23].055 Ligas de metais nobres
+                                        [669.21.055:669.22 Ligas de ouro e prata
+		  669.21.055 Ligas de ouro
+		 669.3.055:669.5:669.6 Ligas de cobre, zinco e estanho
+		 669.3.055 Ligas de cobre
+		-> 669.017.1 Sistemas de ligas
+		-> 669.018 Metais e ligas segundo suas propriedades gerais
+669.056	Fabricação e acabamento de metais e ligas. 
+                                         Indicar os detalhes por meio de :...
+                            Exemplo(s) de combinacao(oes):
+                                  669.3.056:621.771.2 Laminação do cobre
+	      669.3.056 Acabamento do cobre
+669.056.9	Acabamento da superfície, colorimentos, etc. sobre metais em geral. Metais com acabamento de superfície.
+                                  -> 667.6 Revestimentos e técnicas de revestimento. Tintas. Vernizes. Lacas
+                                  -> 667.636.2 Revestimentos para materiais inorgânicos
+                                  -> 667.76 Coloração, tingimento de metal
+669.056.91	Acabamento oxidado. Acabamento anodizado
+669.056.92	Acabamento tingido.
+669.056.93	Acabamento em cerâmica. Em vidro esmaltado.
+	      -> 666.29 Esmaltes. Vernizes. Cores de silicato. Engobos
+669.056.95	Acabamento em borracha ou plástico colados.
+	      -> 678.066 Produtos de látex. Composições e misturas
+669.056.96	Acabamento com pintura. Acabamento com laca.
+669.056.99	Acabamento com metal (metais ou ligas). Inclusive Revestimento, blindagem com metal.
+	      -> 669.058 Metais aplicados como acabamento (sobre metal ou qualquer outro material)
+669.057	Usos, aplicações de metais e ligas específicos.
+	      Indicar detalhes por meio de :...
+	Exemplo(s) de combinacao(oes):
+	      669.3.057:663.4 Aplicações de cobre no fabrico de cerveja
+	      669.3.057 Aplicações do cobre
+669.058	Metais aplicados como acabamento (sobre metal ou qualquer outro material). Inclusive Revestimentos, 
+	blindagens com metal.
+	      Para materiais como recipientes do revestimento ou da blindagem, ver 669.056.99
+	      -> 621.357 Eletroquímica industrial. Eletrólise. Eletrodeposição
+	      -> 621.793 Revestimento, banho de metal, galvanização. Produção de revestimentos e películas 
+	      condutoras, semicondutoras, resistentes, dielétricas, magnéticas. Metalização
+	      -> 66.087 Processos eletroquímicos
+	      -> 667.649.2 Aplicação de ouropel (folhas de metal). Aplicação de decalcomania
+	      -> 667.661.5 Equipamento para aplicação de ouropel (folha) e transferências (decalcomania)
+	      -> 669.216 Fabricação e acabamento de ouro
+	      -> 686.4 Metalização. Envernizamento metálico
+669.058.4	Revestimento do metal e/ou suas ligas em materiais não-metálicos.
+	Exemplo(s) de combinacao(oes):
+	      669.71.058.4:676 Revestimento de alumínio em papel e papelão
+	      669.71.058.4 Revestimento de alumínio em não-metais
+669.058.5	Revestimento do metal e/ou ligas no mesmo metal ou suas ligas.
+669.058.6	Revestimento do metal e/ou ligas em outros metais ou suas ligas.
+669.058.61	De vapores.
+669.058.65	Método de imersão. Em um banho metálico.
+669.058.66	Com pó metálico.
+669.058.67	Pulverização.
+669.058.68	Blindagem por revestimento, recobertura.
+669.058.7	Depósitos eletrolíticos do metal e/ou suas ligas em outros metais ou suas ligas
+669.09	Outros processos metalúrgicos.
+Subdividir como em 66.09... 
+Exemplo(s) de combinacao(oes):
+669.094. l Redução de metais em geral. Hidrogenação
+669.094.22	Redução com uso de carvão, coque e outras substâncias com alto teor de carbono
+669.094.23	Redução usando metais em geral (p.ex.,com alumínio. Aluminotermia, processo de termite)
+Divisões principais
+669.1	Metalurgia ferrosa. Ferro e aço.
+Exemplo(s) de combinacao(oes):
+669.1.017 Metalurgia física de metais ferrosos
+669.11	Ferro e suas ligas apenas com o carbono.
+-> 669.15 Ligas de ferro com outros elementos, exceto carbono. Aço-liga. Ferro fundido com liga. Ferro-ligas
+669.111	Condição do carbono no ferro e aço.
+Exemplo(s) de combinacao(oes):
+669.111:669.15 Efeito de outros elementos de liga
+669.111.2	Como carbono elementar (grafite).
+669.111.3	Como carboneto. Carbonetos de ferro. Inclusive Cementita.
+669.111.4	Como carbono dissolvido.
+669.112	Forma do ferro e do carbono em vários tipos de ferro e aço.
+669.112.2	Sistema ferro-carbono (diagrama de fase ferro-carbono).
+-> 669.017.11 Diagramas de fase
+Exemplo(s) de combinacao(oes): 
+      669.112.2:669.15 Efeito de outros elementos de liga
+669.112.21	Acima de líquido.
+669.112.22	Região ferro-cementita (sistema metaestável).
+669.112.221	Início de solidificação (líquido).
+669.112.222	Domínio delta.
+669.112.223	Final da solidificação (sólido).
+669.112.224	Eutético (ledeburita).
+669.112.227	Domínio gama.
+669.112.227.1          Austenita.
+669.112.227.3	Transformação da austenita.
+669.112.227.31	Transformação pré-eutectóide.
+669.112.227.32	Formação perlita.
+669.112.227.33	Formação bainita
+669.112.227.34	Formação martensita
+669.112.228	Domínio alfa. Inclusive Ferrita. Cementita terciária.
+669.112.24	Região ferro-grafita (sistema estável).
+669.112.241	Início de precipitação da grafita.
+669.112.243	Eutética grafita-austenita.
+669.112.245	Precipitação de grafita a partir de solução sólida gama
+669.112.247	Transformação da cementita para grafita.
+669.12	Ferro puro.
+	      -> 546.72 Ferro Fe
+                                   -> 669.17 Produção de ferro puro 
+669.127	Formas de ferro puro.
+669.127.3	Ferro eletrolítico.
+669.127.4	Ferro quimicamente produzido. Inclusive Carbonila de ferro. Ferro reduzido.
+669.127.5	Ferro macio. Outros graus tecnicamente puros de ferro.
+-> 669.018.26 Metais e ligas facilmente deformáveis. Ligas de estiramento profundo. Ligas 
+moles (p. ex., aço mole)
+669.127.8	Formas especiais de ferro puro. Inclusive Ferropirofórico. Ferro coloidal. Ferro em películas finas.
+669.13	Ferro fundido.
+Indicar os ferros fundidos segundo suas propriedades por meio de .018...
+-> 669.15-196 Ligas ferrosas de alto carbono. Ferro fundido com liga
+-> 669.162.275.1 Ferro-gusa. Ferro fundido na primeira fundição
+669.131	Tipos de ferro fundido.
+669.131.2                  Ferro fundido branco.
+669.131.4                   Ferro fundido multicolorido.
+669.131.6	Ferro fundido cinzento.
+669.131.7	Ferro fundido de grafita esferoidal.
+669.131.8	Ferro fundido maleável.
+669.132	Influência de outros não metais além do
+carbono.
+669.136	Fabricação e acabamento de ferro fundido.
+669.136.9	Revestimentos de ferro fundido.
+-> 666.293 Esmaltagem de metais (principalmente metais ferrosos)
+669.138	Ferro fundido aplicado como revestimento.
+669.14	Ligas de ferro com carbono (exceto ferro
+fundido). Aço em geral.
+Indicar os aços segundo suas propriedades por meio de .018... 
+Exemplo(s) de combinacao(oes):
+669.14.018.291 Aços estruturais. Aços concretos 
+669.14.018.298 Aços de revestimento endurecido, aços tratáveis a calor 
+669.14.018.41 Aços de baixa temperatura 
+669.14.018.44 Aços resistentes à deformação 
+669.14.018.48 Aços de envelhecimento sem tensão
+669.14.018.582	Aços de ímã permanente
+669.14.018.583	Aços de dínamo. Aços de transformador
+669.14.018.584	Aços não-magnéticos
+669.14.018.62 Aços soldáveis
+669.14.018.8 Aços resistentes à corrosão. Aços inoxidáveis
+669.14.018.891 Aços que não envelhecem
+669.141	Aços segundo o método de produção.
+669.141.1	Aços produzidos por processos diretos.
+669.141.2	Ferro forjado produzido pela descarburização
+do ferro-gusa. Aço produzido pela
+descarburização do ferro-gusa ou pela
+refundição de sucata.
+669.141.22	Ferro forjado, batido.
+669.141.23	Aço adamascado.
+669.141.24	Aço doce.
+669.141.243	Aço de fornalha aberta (aço Siemens-Martin).
+669.141.243.3	Aço ácido de fornalha aberta.
+669.141.243.4	Aço básico de fornalha aberta.
+669.141.243.6           Aço de fornalha em tandem.
+669.141.244	Aço Bessemer.
+669.141.244.1	Aço Bessemer ácido.
+669.141.244.2	Aço Bessemer básico.
+669.141.245	Aço produzido segundo vários processos
+pneumáticos. Inclusive Processo rotor. Processo Kaldo.
+669.141.246	Aço ao cadinho.
+669.141.247	Aço elétrico (aço de forno elétrico).
+669.141.25	Aço para fundições.
+669.141.25 dividido como 669.141.24
+669.141.3	Aço carburado. Aço cementado. Aço de cisalha.
+669.146	Fabricação e acabamento do aço.
+669.148	Aço (e aço-liga) aplicado como revestimento.
+669.15	Ligas de ferro com outros elementos,
+exceto carbono. Aço-liga. Ferro fundido com liga. Ferro-ligas.
+                                Indicar os componentes das ligas pela combinação com apóstrofo, conforme as instruções em 669.5
+Subdivisões auxiliares especiais
+669.15-192	Ligas de ferro sem carbono.
+Exemplo(s) de combinacao(oes):
+669.15´24´25-192 Ligas de ferro-níquel-cobalto sem carbono
+669.15-194	Ligas de ferro com baixo teor de carbono. Aços-liga
+Exemplo(s) de combinacao(oes):
+669.15´24´26-194 Ligas de aço. Níquel e cromo com baixo teor de carbono. Aço cromo-niquel.
+669.15´28-194 Aço de molibdênio
+669.15-194.2            Aços de baixa liga.
+669.15-194.3	Aços de alta liga.
+669.15-194.5            Aços segundo a estrutura. 
+669.15-194.52          Hipoeutectóide. Hipoperlítica. 
+669.15-194.53          Eutectóide. Perlítica. 
+669.15-194.54           Hipereutectóide. Hiperperlítica. 
+669.15-194.55           Martensílica. 
+669.15-194.56           Austenítica. 
+669.15-194.57           Ferrítica. 
+669.15-194.58           Ledeburítica. 
+669.15-194.591         Bainítica
+669.15-196	 Ligas ferrosas de alto carbono. Ferro fundido com liga.
+                                  Exemplo(s) de combinacao(oes);
+669.15´24´25-196 Ferro-fundido com níquel-cobalto
+-> 669.13 Ferro fundido
+669.15-198	Ferroligas.
+Exemplo(s) de Combinação(ões):
+669.15'74-198 Ferromanganês
+Divisões principais
+669.16	Produção de ferro-gusa e ferroligas.
+Exemplo(s) de combinacao(oes):
+669.16.013 Usina de ferro-gusa
+-> 622.79 Tratamento posterior de minérios e minerais. Pós-tratamento. Armazenamento. Destino final
+669.162	Produção de ferro-gusa. Primeira fusão.
+669.162.1	Matérias-primas e aditivos. Seu preparo para uso em altos-fornos. Carga. 
+	      Classificar aqui apenas as questões gerais
+                                   -> 622.78 Tratamento térmico dos minérios e minerais
+669.162.12	Minérios de ferro.
+669.162.14	Aditivos.
+669.162.16	Carvão e coque para produção de ferro-gusa.
+669.162.2	Altos-fornos. Operação de alto-fornos.
+-> 66.041.44 Fornalhas de cuba ou de manga
+669.162.21	Generalidades sobre altos-fornos.
+669.162.211	Dimensões de altos-fornos. Perfis.
+669.162.212	Materiais de revestimento de altos-fornos.
+669.162.212.2	Revestimento de chaminés.
+669.162.212.3	Pedra de reservatório. Pedra de timpa. Pedra de defletor.
+669.162.212.4	Revestimento do bojo.
+669.162.212.6            Revestimento da seleira.
+669.162.213	Blindagem de altos-fornos. Anel do manto.
+                                   Estrutura de apoio.
+669.162.214	Resfriamento de alto-fomo.
+669.162.215	Partes superiores de fornos.Conduto de
+                              escape de gás.
+669.162.215.2          Partes superiores de fornos. 
+669.162.215.4           Condutos de escape de gás.
+669.162.216	Armações para orifícios de sangria. Misturas
+para vedar o orifício de sangria. Orifício de saída
+da escória.
+669.162.216.2          Armações de orifícios de sangria.
+669.162.216.4          Misturas para vedar orifício de sangria.
+669.162.216.6            Orifício de saída da escória.
+669.162.218	Dispositivos de segurança da parede e da soleira
+contra rupturas.
+669.162.22	Suprimento de jato de ar para o alto-forno.
+669.162.221	Alcaravizes. Conexões de alcaraviz.
+669.162.222	Conduto principal do jato de ar. Conduto
+principal do gás de alto-forno. Válvulas de
+explosão.
+669.162.223	Insufladores.
+-> 621.61 Ventiladores e máquinas de ventilação em geral. Ventiladores simples, alternativos, rotativos e a jato
+669.162.224	Secagem do jato de ar. Enriquecimento com
+oxigênio do jato de ar.
+669.162.225	Regulagem da umidade no jato de ar. Injeção de
+vapor.
+669.162.227	Trabalho a alta ou máxima pressão.
+669.162.228	Volume, pressão e consumo do jato de ar. Seção
+transversa total à qual é aplicado o jato de ar.
+Número de alcaravizes e de alcaravizes de
+emergência
+669.162.23	Aquecimento do jato de ar. Fornos de jato de ar
+quente.
+669.162.23l	             Fornos de tijolo com aquecimento intermitente.
+669.162.232	Fornos de ferro fundido de jato de ar quente.
+669.162.233	Fornos de tubos contínuos.
+669.162.236	Equalizadores.
+669.162.238	Operação de fornos de jato de ar quente.
+Equilíbrio de calor.
+669.162.24	Carga de altos-fornos. Guindastes de fornalhas.
+669.162.242	Carga por meio de guindastes inclinados,
+pontes, elevadores de caçamba.
+669.162.244	Guindastes de fornalhas.
+669.162.25	Limpeza e utilização do gás dos altos-fornos.
+      -> 669.162.275.3 Gás de alto-forno
+669.162.251	Utilização do gás de alto-forno em
+recuperadores.
+669.162.252	Limpeza do gás. Limpadores de gás.
+      -> 621.928.9 Separação, extração e coleta de poeira. Extratores de poeira
+      -> 66.074 Purificação de gases. Secagem de gases
+669.162.26	Operação de alto-fornos.
+669.162.261	Início da operação.
+669.162.261.2	Secagem do revestimento.
+669.162.261.3	Alimentação. Iluminação. Insuflação.
+669.162.262	Cálculo de carga e capacidade.
+669.162.262.3	Carregamento.
+669.162.262.5	Cálculo da capacidade. Inclusive Teores de escória.
+669.162.262.6	Cálculo de aditivos.
+669.162.263	Reações e processos no alto-forno.
+669.162.263.2           Andamento das reações.
+669.162.263.4	Reações no alto-forno.
+-> 669.014 Reações que envolvem metais
+669.162.264	Irregularidades na operação do alto-forno e sua
+prevenção.
+669.162.265	Fusão de ácido no alto-forno.
+669.162.266	Sangria do alto-fomo.
+669.162.266.2            Sangria do ferro-gusa
+669.162.266.4           Sangria de escória. Transporte de escória.
+669.162.267.2	Mudança para outras qualidades de ferro-gusa.
+669.162.267.3	Redução da produção. Abafamento.
+Apagamento.
+669.162.267.4	Operação com diversos combustíveis. Injeção de
+combustíveis sólidos, líquidos ou gasosos.
+669.162.267.6	Dessulfurização de ferro-gusa.
+669.162.267.7	Dessilicização do ferro-gusa.
+669.162.267.8	Eliminação ou recuperação de outros elementos,
+exceto enxofre ou silício de ferro-gusa.
+Especificar os elementos por meio de :669... 
+Exemplo(s) de combinacao(oes):
+669.162.267.8:669.292 Recuperação de vanádio
+669.162.27	Economia e produção de altos-fornos.
+Especificar por meio de .012...
+669.162.275	Composição de produtos de alto-forno.
+669.162.275.1	Ferro-gusa. Ferro fundido na primeira fundição.
+-> 669.13 Ferro fundido
+669.162.275.2	Escórias de alto-fomo.
+669.162.275.3	Gás de alto-fomo.
+-> 669.162.25 Limpeza e utilização do gás dos altos-fornos
+669.162.275.4	Poeira de chaminé.
+669.162.275.8            Subprodutos de alto-forno. Recuperação de zinco.
+669.162.28	Estudos dos processos do alto-forno.
+669.162.281	Teorias sobre o alto-fomo.
+669.162.282	Experiências de redução.
+669.162.283	Estudo das reações de alto-forno.
+669.162.3	Alto-fornos a carvão vegetal.
+      669.162. 3 dividido como 669.162.2
+669.162.4	Altos-fomos elétricos.
+      669.162.4 dividido como 669.162.2
+669.162.6	Produção de ferro-gusa sintético.
+669.162.8	Outros métodos de produção de ferro-gusa.
+669.163	Produção e utilização de ferro fundido na primeira fundição. Inclusive Fundições de alto-forno. Lingotes.
+                                 Barras. Tubos.
+669.168	Produção de ferroligas. Inclusive Produção em alto-forno, em forno elétrico, por aluminotermia.
+	      -> 669.719 Aluminotermia. Produção de metais com altos pontos de fusão. Produção de altas temperaturas 
+	pela oxidação do alumínio
+669.17	Produção de ferro puro.
+-> 546.72 Ferro Fe
+                                  -> 669.12 Ferro puro
+669.173	Produção de ferro puro por meios químicos. Inclusive Por redução do óxido de ferro ou de carbonila de ferro.
+669.177	Produção eletrolítica de ferro puro.
+Subdivisões auxiliares especiais
+669.177.035	Componentes da usina de produção eletrolítica.
+669.777.035 dividido como 621.3.035.
+669.177.035.4            Eletrólitos, banhos para produção eletrolítica.
+669.177.035.45         Fundições.
+Divisões principais
+669.179	Outros métodos de produção de ferro de alta pureza.
+669.18	Produção de aço.
+Exemplo(s) de combinacao(oes):
+                                            669.18.013 Usinas de produção de aço. Usinas siderúrgicas
+669.181	Processos diretos para produção de ferro
+forjado, ferro esponjoso e aço.
+669.181.2	Processos diretos para produção de ferro forjado e aço. Inclusive Processo catalão.
+669.181.22	Processos diretos em poços.
+669.181.23	Processos diretos em soleiras.
+669.181.24	Processos diretos em fornos de cuba.
+669.181.25	Processos diretos em fornos rotativos, de
+cadinhos, muflas, retortas.
+669.181.26	Métodos diretos em fornos reverberatórios.
+669.181.27	Métodos diretos em fomos elétricos.
+669.181.28	Escórias derivadas de processos diretos.
+669.181.4	Produção de ferro esponjoso.
+669.181.42	Tratamento de minérios com agentes redutores
+mas sem fundente.
+669.181.44	Tratamento de minérios com agentes redutores e fundentes.
+669.181.46	Tratamento de minérios com sais e fundentes.
+669.182	Produção de aço por cementação. Processos
+indiretos para produção de ferro fundido.
+669.182.3	Produção de aço cementado, aço de cisalha, aço
+enfeixado, aço adamascado.
+669.182.7	Produção indireta de ferro fundido.
+669.182.71	Refinação.
+669.182.73	Pudlagem.
+669.183	Aço produzido em fornos reverberatórios.
+Aço de soleira aberta (aço Siemens-Martin),
+669.183.2	Processos de soleira aberta.
+669.183.21	Fornos de soleira aberta.
+669.183.211	Generalidades. Detalhes estruturais.
+Indicar os combustíveis, fontes de calor, por meio de -6... (de 62-6...)
+669.183.211.1	Fornos de soleira aberta. Fornos de soleira
+aberta modificados.
+669.183.211.2	Soleiras.
+669.183-211.3            Paredes de fornos. Coroa. Teto.
+669.183.211.4	Orifícios de carga. Portas de fornos.
+669.183.211.5	Orifício de sangria. Calha de sangria. Orifício de descarga.
+669.183.212	Blocos. Queimadores. Tomadas de gás e ar.
+669.183.212.2	Blocos para combustão de gás.
+669.183-212.3            Queimadores para óleo combustível.
+669.183.212.4	Tomadas de gás.
+669.183.212.5	Tomadas de ar.
+669.183.212.6	Lancetas de teto para injeção de oxigênio, para
+descarburização, etc.
+669.183.213	Regeneradores.
+669.183.213.l             Projeto, arranjo de regeneradores.
+669.183-213.2            Controladores. Grades de controladores. Tijolos de controladores.
+669.183.213.3	Tamanhos de câmaras de gás e câmaras de ar.
+Proporção entre os tamanhos.
+669.183.213.4	Acumulação de escórias nos controladores.
+Câmaras de escória. Sacos de escória.
+669.183.213.8            Reação em regeneradores. Limpeza de regeneradores.
+669.183.214	Canais de gás. Canais de ar. Válvulas.
+669.183.214.2	Canais de gás.
+669.183.214.3	Canais de ar.
+669.183.214.6             Válvulas (válvulas de reversão). 
+669.183.214.62          Válvulas de gás. 
+669.183.214.64           Válvulas de ar.
+669.183.215	Escoramento de fornos. Escoramento de câmara,
+669.183.217	Combustão regenerativa, combustão
+recuperativa em fomos de soleira aberta.
+669.183.217.2            Combustão regenerativa.
+669.183.217.4	Combustão recuperativa.
+669.183.218	Operação de fornos de soleira aberta. Processo
+de fusão.
+669.183.218.5	Processo de fusão (comportamento dos elementos). 
+669.183.218.22	Refinação com minério.
+669.183.218.23	Processo de sucata.
+669.183.218.24	Processos combinados.
+669.183.28	Escórias de soleira aberta.
+669.183.3	Processo ácido de soleira aberta.
+      669.183.3 dividido como 669.183.2
+669.183.4	Processo básico de soleira aberta.
+      669.183.4 dividido como 669.183.2
+669.183.5	Processos múltiplex. Processos dúplex.
+669.183.52	Conversão como processo primário.
+669.183.54	Soleira aberta como processo primário.
+669.183.57	Outros processos dúplex.
+669.183.58	Processos triplex. Fornalha de conversor/soleira
+aberta/elétrica.
+669.184	Processo de conversão. Princípios de conversão.
+-> 66.041.498 Conversores
+669.184.1	Processos ácidos de Bessemer.
+669.184.12	Conversores ácidos.
+669.184.121	Dimensões. Volume. Forma.
+669.184.122	Partes dos conversores. Inclusive Armação, nariz, corpo, fundo. Anéis do munhão do conversor. Caixas de
+                                 jatos de ar. Blocos de alcaraviz.
+669.184.123	Suspensão de conversores. Dispositivos de
+báscula.
+669.184.124	Assoalho de conversor. Materiais de assoalho.
+669.184.125	Revestimento das paredes do conversor.
+669.184.126	Disposição de instalações do conversor.
+Chaminés de conversor.
+669.184.13	Método de operação. Reações no conversor
+ácido.
+669.184.132	Método de operação.
+669.184.132.l           Fusão normal, quente demais e superventilada.
+669.184.132.3           Resfriamento por adição de sucata ou minério.
+669.184.135	Reações no conversor ácido.
+669.184.136	Controle do processo pelo estudo das chamas.
+669.184.14	Suprimento de jato de ar aos conversores.
+669.184.141	Consumo de jato de ar. Pressão do jato de ar.
+669.184.142	Seção transversa do jato de ar. Diâmetro do
+bocal do alcaraviz. Número de alcaravizes.
+669.184.143	Secagem do jato de ar. Aquecimento do jato de ar.
+669.184.144	Composição do jato (jato de ar, de outros gases, etc). Direção do jato.
+669.184.15	Gases e fumos de escape dos processos do
+conversor (e processos similares).
+669.184.16	Perdas no processo do conversor. Inclusive Perda por oxidação. Ejeção.
+                                 Poeira do conversor (poeira da chaminé, poeira do teto).
+669.184.18	Escórias ácidas de Bessemer.
+669.184.2	Processo básico de Bessemer (processo Thomas).
+669.184.2/.26 dividido como 669.184.1/.16
+669.184.28	Escórias básicas de Bessemer (escórias de
+Thomas).
+-> 631.853 Escória básica
+669.184.288	Recuperação de componentes diversos.
+Exemplo(s) de combinacao(oes):
+669.184.288:669.292.48 Recuperação de vanádio
+669.184.4		Misturadores. Misturadores de ferro-gusa.
+669.186	Produção de aço de cadinho (aço fundido).
+669.186.2	Cadinhos. Materiais de cadinho.
+Exemplo(s) de combinacao(oes):
+669.186.2:666.762 Fabricação de cadinho (segundo a composição)
+669.186.2:666.762.l Cadinhos de alumina ou argila refratária
+669.186.3	Fornos de cadinho.
+669.186.4	Cargas para produção de aço de cadinho.
+669.186.5	Métodos de trabalho. Operação. Reação.
+669.186.52	Equipamento de forno. Alimentação.
+669.186.55	Reações no cadinho.
+-> 66.046.5 Fusão. Amálgama
+669.186.58	Escórias de cadinho.
+669.187	Produção de aço elétrico (aço de forno elétrico).
+669.187.2	Eletrofornos siderúrgicos. Eletrossiderurgia.
+Processo elétrico.
+-> 621.363 Geração de calor pela eletricidade. Aquecimento elétrico
+Subdivisões auxiliares especiais 
+669.187.2.036	Partes dos eletrofornos siderúrgicos.
+669.187.2.036´621.3.036 
+Divisões principais
+669.187.23	Assoalhos e revestimento de eletrofornos.
+669.187.24	Tetos e revestimentos de forno. Lancetas para
+injeção de oxigênio.
+669.187.25	Processos de fusão.
+-> 669.046Processos e instalações térmicas na metalurgia. Processos de aquecimento e 
+                                  fusão
+669.187.28	Escórias da eletrossiderurgia.
+669.187.3	eletrofornos de aço ácido. Processo elétrico
+ácido.
+669.187.3 dividido como 669.187.2
+669.187.4	Eletrofornos de aço básico. Processo elétrico
+básico.
+669.187.4 dividido como 2669.187.2
+669.187.5	Processos e fomos de refusão elétrica.
+669.187.52	Processos de refusão a vácuo.
+669.187.56	Eletrorrefinação de escórias.
+669.187.58	Refusão de plasma.
+669.2/.8	Metalurgia não-ferrosa. Metais não-ferrosos.
+669.2	Metais não-ferrosos em geral.
+669.21/.23	Metais nobres.
+-> 671 Artigos feitos de metais preciosos, gemas e pedras preciosas
+-> 739.1 Arte de ourives. Ourivesaria
+669.21	Ouro.
+669.213	Extração de ouro.
+669.213.1	Extração de areias e minérios auríferos por
+cominuição e lavagem.
+669.213.2	Extração de ouro com mercúrio. Inclusive Amálgama. Destilação.
+669.213.3	Extração úmida de sulfetos auríferos. Fusão de
+ustulação. Segunda ustulação. Fusão em
+presença de chumbo. Cupelação.
+669.213.4	Extração de ouro por cloração. Inclusive Instalações de cloração. Telas. Filtros. Torres de cloração.
+669.213.5	Extração de ouro por bromina.
+669.213.6	Extração do ouro por lixívia com cianeto.
+669.213.7	Eletrólise de solução de cianeto.
+669.214	Separação do ouro de metais que o
+acompanham. Refinação de ouro.
+669.215	Ligas de ouro.
+Exemplo(s) de combinacao(oes): 
+669.215'3 Ligas de ouro e cobre
+      -> 669.791.5 Ligas de mercúrio. Amálgamas
+669.216	Fabricação e acabamento de ouro. Inclusive Produção de ouro em folhas. Produção de lâminas de ouro.
+	      -> 667.649.2 Aplicação de ouropel (folhas de metal). Aplicação de decalcomanias
+	      -> 667.661.5 Equipamento para aplicação de ouropel (folhas) e transferências (decalcomania)
+669.217	Aplicações do ouro.
+      -> 671.11 Artigos de ouro e prata. Artigos cinzelados, gravados e em relevo
+669.218	Ouro aplicado como revestimento ou banho.
+Douração. Banho de ouro.
+669.22	Prata.
+669.223	Extração de prata.
+669.223.l	Extração de prata pelo chumbo.
+-> 669.443.4 Remoção de ouro e prata do chumbo
+669.223.3	Extração de prata com mercúrio. Inclusive Amálgama. Destilação.
+                                        -> 669.791.5 Ligas de mercúrio. Amálgamas
+669.223.4	Extração da prata por solução e precipitação.
+669.224	Refinação de prata.
+669.225	Ligas de prata.
+669.226	Fabricação de prata.
+-> 739.1 Arte de ourives. Ourivesaria
+669.227	Aplicações da prata.
+      -> 671.11 Artigos de ouro e prata. Artigos cinzelados, gravados em relevo
+      -> 737.1 Moedas
+669.228	Prata aplicada como revestimento ou em
+banhos. Prateamento. Banhos de prata.
+-> 666.1.056 Revestimento de vidro com outras substâncias. Metalização do vidro. Produção de películas protetoras no vidro
+669.23	Metais do grupo da platina.
+669.231	Platina.
+669.231.6	Fabricação e acabamento da platina. Inclusive Esponja de platina. Negro-de-platina.
+669.231.7	Aplicações da platina.
+669.232	Irídio.
+669.233	Ósmio.
+669.234	Paládio.
+669.235	Ródio.
+669.236	Rutênio.
+669.24/.29	Metais diversos do 4o, 5o,6o e 8o grupos da tabela periódica.
+669.24	Níquel.
+669.243	Extração de níquel.
+669.243.l	Fusão de enriquecimento do níquel em geral.
+669.243.2	Tratamento da pirita sulfurosa.
+669.243.3	Tratamento dos minérios de níquel e cobalto
+suecos.
+-> 669.253.2 Extração de cobalto durante a produção de níquel
+669.243.4	Tratamento de minérios de arsênio.
+669.243.5	Tratamento de minérios da Nova Caledônia.
+Processo Garnier.
+669.243.6	Tratamentos de minérios canadenses, minérios
+de Sudbury, outros.
+669.243.7	Extração de níquel como carbonila de níquel. Inclusive Processo de Langer. Processo de Mond.
+669.243.82	Métodos úmidos em geral. Inclusive Lixívia. Precipitação.
+669.243.87	Eletrólise de níquel bruto.
+669.243.88	Produção eletrotérmica de níquel. Produção de
+ferroníquel.
+669.244	Refinação de níquel. Produção de níquel de
+alta pureza.
+669.245	Ligas de níquel.
+669.248	Níquel aplicado como revestimento, etc.
+Banhos de níquel. Niquelagem.
+669.25	Cobalto.
+669.253	Extração de cobalto.
+669.253.1	Produção direta.
+669.253.2	Extração de cobalto durante a produção de
+níquel.
+-> 669.243.3 Tratamento dos minérios de níquel e cobalto suecos
+669.255	Ligas de cobalto.
+669.26	Cromo.
+669.264	Refinação de cromo. Produção de cromo de
+alta pureza.
+669.265	Ligas de cromo.
+669.268	Cromo aplicado como revestimento, etc.
+Banho de cromo. Cromagem.
+669.27	Tungstênio.
+669.274	Refinação de tungstênio. Produção de
+tungstênio de alta pureza.
+669.275	Ligas de tungstênio.
+-> 661.665.2 Carbonetos de metais pesados
+669.28	Molibdênio.
+669.284	Refinação de molibdênio. Produção de
+molibdênio de alta pureza.
+669.29	Outros metais do 4o, 5 o  e  6 o grupos da
+tabela periódica.
+669.292	Vanádio.
+669.292.5	Ligas de vanádio.
+669.293	Nióbio.
+669.294	Tântalo.
+669.295	Titânio.
+669.296	Zircônio.
+669.297	Háfnio.
+669.298	Tório.
+669.3	Cobre.
+669.33	Extração de cobre.
+669.331	Extração de cobre a seco. Ustulação.
+Tratamento prévio.
+669.332	Produção de mistura de sulfetos de cobre.
+669.332.1	Em alto-forno de coque.
+669.332.2	Em fomos reverberatórios.
+669.332.3	Fusão pirítica.
+669.332.4	Fusão semipirítica. Fusão pirítica parcial.
+669.332.5	Processo de Orkla.
+669.332.8	Fusão em eletroforno.
+669333	Produção de cobre bruto.
+669.333.l	Redução de óxido em forno de poço.
+669.333.2	Redução de óxido em forno reverberatório.
+669.333.3	Fusão em conversores.
+669.333.4	Tratamento de resíduo bruto de cobre.
+669.333.5	Refinação de cobre preto. Cobre puro.
+669.333.6	Refinação a fogo de cobre vesiculado. Produção
+de cobre maleável.
+669.333.7	Tratamento de minérios que contêm cobre metálico.
+669.334	Extração de cobre por via úmida. Inclusive  Cloretação, Sulfatização. Cementação. Refinação.
+669337	Processos eletrolíticos.
+669.34	Refinação de cobre. Produção de cobre de alta pureza.
+669.343	Processos especiais. Inclusive  Refinação a fogo. Fusão de refinação.
+669.347	Refinação eletrolítica.
+669.35	Ligas de cobre.
+Exemplo(s) de combinacao(oes):
+669.3524 Ligas de cobre e níquel Cuproníquel
+669.355	Ligas de cobre e zinco. Latão. Pechisbeque
+669.3556 Ligas de cobre, zinco e estanho. Bronze de canhão
+669.356	Ligas de cobre e estanho. Bronzes
+Subdivisões auxiliares especiais
+669.35-191	Estrutura alfa.
+Exemplo(s) de combinacao(oes):
+669.35´6-191 Bronze alfa
+669.35-192	Estrutura beta.
+Exemplo(s) de combinacao(oes):
+669.35´6-l 92 Bronze beta
+669.35-193	Estrutura gama.
+Exemplo(s) de combinacao(oes):
+669.35´5-193 Latão gama 
+Divisões principais
+669.369	Acabamento, revestimento, coloração da
+superfície do cobre.
+669.37	Aplicações do cobre.
+Exemplo(s) de combinacao(oes):
+669.37:621.315.55 Condutores de cobre
+669.38	Cobre e/ou suas ligas aplicadas como
+revestimento, etc. Cobreação. Banho de
+cobre.
+669.384	Revestimento com cobre de materiais não-
+metálicos.
+669.386	Revestimento e banho não-eletrolítico de
+cobre (de outros metais, exceto o próprio
+cobre).
+669.387	Revestimento e banho eletrolítico de cobre.
+-> 621.357 Eletroquímica industrial. Eletrólise. Eletrodeposição
+-> 621.793 Revestimento, banho de metal, galvanização. Produção de revestimentos e películas condutoras, semicondutoras, resistentes, dielétricas, magnéticas. Metalização
+669.4	Chumbo.
+669.43	Extração de chumbo.
+669.431	Extração de chumbo a seco. Processo a seco
+de galena (sulfeto de chumbo).
+669.431.l	Tratamento preliminar de galena.
+669.431.2	Redução de compostos de oxigênio.
+669.431.3	Fusão com ferro.
+669.431.4	Outros métodos diretos. Inclusive  Ustulação e reação.
+669.431.6	Tratamento de resíduos, escória, poeira.
+669.432	Processamento de outros minérios de
+chumbo.
+669.436	Processamento por via úmida (exceto
+eletrólise) de minérios de chumbo.
+669.44	Refinação de chumbo.
+669.443.l	Remoção de cobre do chumbo bruto.
+669.443.2	Remoção de estanho, arsênico, antimõnio do
+chumbo. Amaciamento, melhoramento do
+chumbo.
+669.443.3	Remoção de zinco e cádmio do chumbo.
+669.443.4	Remoção de ouro e prata do chumbo.
+-> 669.223.1 Extração de prata pelo chumbo
+669.443.6	Remoção de bismuto do chumbo.
+Desbismutização.
+669.447	Refinamento eletrolítico do chumbo.
+669.48	Chumbo e/ou suas ligas aplicadas como
+revestimento, etc..
+669.5	Zinco.
+669.53	Extração de zinco.
+669.531	Extração de zinco a seco.
+669.531.2	Processos de mufla em geral. Processos de
+retorta horizontal.
+669.531.4	Processos de forno de poço. Processos de
+retorta vertical.
+669.531.5	Processos com fornos de tubo rotativo.
+Processo de forno rotativo (processo Waelz).
+669.531.6	Extração de óxido de zinco.
+669.531.7	Tratamento de minério de zinco em alto-forno.
+669.531.8	Métodos eletrotérmicos. Inclusive  Processos Snyder e De Laval.
+669.536	Extração de zinco por via úmida.
+669.537	Extração eletrolítica de zinco.
+669.537.2	Eletrólise de cloreto de zinco derretido.
+669.537.3	Eletrólise com anodos solúveis.
+669.537.4	Eletrólise de solução de sulfato de zinco, de
+solução do oxalato de zinco.
+669.537.5	Eletrólise de solução de cloreto de zinco.
+669.537.6	Eletrólise de soluções amoniacais ou de zinco
+alcalino.
+669.54	Refinação de zinco. Produção de zinco puro
+669.55	Ligas de zinco.
+669.58	Zinco aplicado como revestimento ou blindagem. Galvanização.
+669.586	Galvanização (não-eletrolítica).
+669.586.5	Galvanização por mergulho quente.
+669.587	Eletrogalvanização.
+669.6	Estanho.
+669.63	Extração de estanho.
+669.631                  Extração de estanho bruto.
+669.64	Refinação de estanho. Produção de estanho
+puro.
+669.647	Refinação eletrolítica.
+669.648	Recuperação de estanho, especialmente de
+revestimento de estanho.
+669.65	Ligas de estanho.
+Exemplo(s) de combinacao(oes).
+669.65.018.24 Metal branco de mancal (metal de Babbit)  
+669.65´4 Ligas de estanho e chumbo. Soldas macias (do ponto de vista metalúrgico)
+-> 621.791.3 Soldagem. Soldagem com latão, soldagem forte. Soldagem com bronze
+669.68		Estanho aplicado como revestimento, etc. Estanhagem.
+669.684	Revestimento ou banho de estanho de materiais não-metálicos.
+669.686	Estanhagem não-eletrolítica, banho de estanho.
+669.686.5	Método de imersão da galvanização de estanho.
+Mergulho. Produção de metal branco.
+669.687	Banhos eletrolíticos de estanho.
+669.7	Metais leves em geral.
+Exemplo(s) de combinacao(oes):
+                                           669.7.018 Metais leves segundo suas propriedades gerais. Ligas de metais leves em geral
+669.71	Alumínio.
+669.711	Generalidades. Estudos sobre a indústria de
+alumínio.
+669.712	Preparo de produtos intermediários a partir
+de matérias-primas. Produção de alumina.
+669.712.l	Tratamento alcalino. Processos para produção
+de aluminatos (exceto a produção de aluminato em eletrofornos).
+669.712.2	Tratamento ácido. Produção de alumina a partir
+de sais de alumínio.
+669.712.3	Processos eletrotérmicos. Processos que
+envolvem outros compostos, exceto os
+aluminatos ou os sais de alumínio como
+produtos intermediários (p. ex., nitretos,
+carburetos, sulfetos).
+      -> 621.365 Geração de calor pela eletricidade. Aquecimento elétrico
+      -> 661.862 Compostos de alumínio
+669.712.4	Outros processos. Inclusive  Decomposição do silicato de alumínio por vapor superaquecido.
+669.712.5	Pós-tratamento da alumina e do hidróxido de alumínio. Purificação da alumina.
+669.713	Extração de alumínio e de ligas de alumínio dos compostos de alumínio.
+669.713.1	Produção por métodos puramente químicos,
+não-eletrolíticos.
+669.713.6	Produção eletrotérmica.
+669.713.7	Produção eletrolítica.
+669.713.72	Eletrólise de banho de sais fundidos.
+669.713.76	Eletrólise de soluções aquosas.
+669.714	Refinação de alumínio e ligas de alumínio.
+669.714.l	Refinação por meios químicos. Inclusive  Uso de fundentes, de gases.
+669.714.2	Refinação por meios físicos.
+Especificar por meio de .04... 
+Exemplo(s) de combinacao(oes):
+669.714.2.048 Por destilação
+669.714.7	Refinação eletrolítica (o metal a ser refinado
+serve como anodo).
+669.714.7=669.713.7
+669.715	Ligas de alumínio.
+Exemplo(s) de combinacao(oes):
+669.715.018.8 Ligas de alumínio resistentes à corrosão
+669.716	Fabricação e acabamento de alumínio.
+669.716.9	Acabamento da superfície, revestimento,
+coloração da superfície do alumínio.
+669.717	Aplicações do alumínio e suas ligas. 
+Exemplo(s) de combinacao(oes):
+669.717:629.7 Alumínio para veículos aéreos e espaciais
+-> 624.014.7 Estruturas de metal leve (e de ligas de metal leve)
+-> 691.77 Metais leves
+669.718	Alumínio aplicado como revestimento,
+acabamento, galvanoplastia.
+669.718.7	Revestimento ou banhos eletrolíticos de outros
+metais com alumínio.
+669.719	Aluminotermia. Produção de metais com
+altos pontos de fusão. Produção de altas
+temperaturas pela oxidação do alumínio.
+-> 621.791.6 Soldagem por molde. Soldagem por térmite (processo aluminotérmico de 
+não-pressão de Goldschmidt)
+                                   -> 669.17 Produção de ferro puro
+669.721	Magnésio.
+669.721.3	Extração de magnésio.
+669.721.31	Por meios químicos.
+669.721.36	Por meios eletrotérmicos.
+669.721.37	Por meios eletrolíticos.
+669.721.4	Refinação de magnésio.
+669.721.41	Refinação por meios químicos.
+669.721.42	Refinação por meios físicos.
+669.721.47	Refinação eletrolítica
+669.721.5	Ligas de magnésio.
+669.721.9	Produção de metais com altos pontos de fusão.
+Produção de altas temperaturas por oxidação do
+magnésio.
+669.725	Berílio.
+669.73	Cádmio.
+669.733	Extração do cádmio dos minérios de zinco.
+669.733.l	Por processos a seco. Destilação de resíduos
+com carbono.
+669.733.2	Por processos de via úmida.
+669.74	Manganês.
+669.743	Extração de manganês.
+669.743.1	Por fusão.
+669.743.2	Produção do manganês puro sem carbono.
+669.75	Antimônio.
+669.753	Extração de antimônio.
+669.753.1	A partir de minérios de sulfeto.
+669.753.3	Por fusão em alto-fomo. Processo húngaro.
+669.753.7	Por processos eletrolíticos.
+669.754	Refinação de antimônio.
+669.76	Bismuto.
+669.763	Extração de bismuto.
+669.763.l	Processos a seco.
+669.763.2	Processos por via úmida.
+669.763.3	Extração de bismuto a partir de minérios mistos,
+produtos intermediários e resíduos.
+669.77/.78	Vários componentes não-metálicos de ligas. Metalóides. 
+Somente do ponto de vista de sua influência sobre os metais e ligas. Classificar a produção de melalóides como tais em 661
+669.774	Polônio.
+669.775	Enxofre.
+669.776	Selênio.
+669.777	Telúrio.
+669.778	Arsênico.
+669.779	Fósforo.
+669.781	Boro.
+669.782	Silício. Silicotermia.
+669.783	Germânio. 
+669.784	Carbono.
+669.785	Gases nos metais em geral.
+669.786	Nitrogênio.
+669.787	Oxigênio.
+669.788	Hidrogênio.
+669.791	Mercúrio.
+669.791.5	Ligas de mercúrio. Amálgamas.
+-> 669.215 Ligas de ouro
+		-> 669.223.3 Extração de prata com mercúrio
+669.793	Escândio.
+669.794	Ítrio.
+669.82	 Série do urânio.
+669.822	Urânio.
+669.823	Netúnio.
+669.824	Plutônio.
+669.848	Tecnécio.
+669.849	Rênio.
+669.85/.86	Metais de terras raras.
+669.85/.86 dividido como 546.65/66
+669.871	Gálio.
+669.872	Índio.
+669.873	Tálio.
+669.88	Metais alcalinos.
+-> 661.3Produção de solda e potassa, de álcalis
+669.882	Potássio.
+669.883	Sódio.
+669.884	Lítio.
+669.885	Rubídio.
+669.886	Césio.
+669.89	Metais de terras alcalinas.
+669.891	Cálcio.
+669.892	Estrôncio.
+669.893	Bário.
+669.894	Rádio.
+
+67 Indústrias, artes industriais e ofícios diversos 
+
+Subdivisões auxiliares especiais
+67.01	Generalidades sobre as indústrias
+específicas.
+67.014	Constituição e propriedades químicas dos
+materiais.
+67.017	Propriedades físicas e mecânicas,
+operacionalidade e aplicabilidade de
+materiais.
+-> 620.17 Medição das propriedades mecânicas dos materiais. Ensaios de solidez
+67.019	Falhas, defeitos, danos de materiais.
+-> 620.19 Defeitos dos materiais e sua verificação
+67.02	Processos de fabricação.
+67.03	Matérias-primas.
+67.04	Materiais complementares.
+67.05	Máquinas. Instalações. Ferramentas.
+-> 621.7 Tecnologia mecânica em geral: processos, ferramentas, máquinas, equipamento
+-> 621.9Trabalho ou usinagem com formação de cavacos, aparas. Usinagem com abrasivos. Martelos e prensas
+67.06	Produtos.
+67.08	Subprodutos. Refugos, resíduos.
+ 
+Divisões principais
+671		Artigos feitos de metais preciosos, gemas e pedras preciosas
+ 
+-> 669.21/.23 Metais nobres
+-> 679.87 Pedras preciosas e semi-preciosas
+671.l	Artigos de ouro e prata. Artigos de outros metais preciosos. Joalheria. Ourivesaria.
+-> 391.7 Adornos. Ornamentos. Jóias
+-> 681.11 Horologia. Fabricação de relógios
+-> 739.1 Arte de ourives. Ourivesaria
+-> 739.2 Joalheria (aspectos do trabalho em metal)
+671.11	Artigos de ouro e prata. Artigos
+cinzelados, gravados e em relevo.
+671.12	Joalheria. Ourivesaria.
+671.121	Broches. Braceletes. Anéis, etc.
+671.121.2	Broches. Alfinetes, fechos decorativos.
+671.121.3	Braceletes. Fechos, fivelas, etc., para braceletes. Inclusive  Pulseiras de relógio.
+671.121.4	Joalheria para orelhas. Furadores de orelha. Inclusive Brincos. Brincos de pressão, tarracha.
+671.121.5	Anéis (anéis de dedos). Inclusive  Anéis de casamento. Alianças. Anéis de sinete.
+671.121.6	Chaveiros. Dispositivos de segurança para relógios, braceletes, etc.
+671.121.9	Outros objetos decorativos. Inclusive  Artigos de guilhochê. Pendentes. Medalhões.
+671.123	Jóias para a cabeça. Inclusive  Tiaras. Diademas.
+671.125	Insígnias reais, insígnias diversas. Inclusive  Cetros, Coroas. Punhos, bainhas de espada ou adaga. Bastões 	indicativos e posto ou cargo.
+671.128	Distintivos e condecorações semelhantes.
+-> 355.134.2 Insígnias. Distintivos de honra. Honras militares
+-> 671.42 Medalhas. Medalhões. Placas. Plaquetas
+-> 929.71 Ordens de cavalaria. Condecorações
+671.13	Outros artigos feitos de metais preciosos. Inclusive Correntes, estojos, caixas (p. ex., caixas de rapé). Canetas e penas 
+                                    de  escrever feitas de metais preciosos.
+671.14	Artigos folheados com ouro ou prata. Inclusive  Artigos folheados a ouro ou prata. Artigos laminados com ouro ou
+                                    prata.
+671.15	Trabalho com pedras preciosas, gemas, pérolas.
+      -> 679.8.02 Processos e operações do trabalho com pedras
+      -> 679.87 Pedras preciosas e semi-preciosas
+671.152	Corte, lapidação de diamante.
+671.153	Corte, lapidação de outras pedras preciosas.
+671.157	Trabalho com pérolas.
+671.16	Artigos de pedras não-preciosas. Artigos de pedras falsas, de imitação.
+                                    -> 666.23 Strass. Pedras preciosas artificiais. Pedras de massa vítrea. Gemas de imitação feitas de vidro
+                                    -> 679.86 Terras e minerais não-preciosos diversos
+671.18	Montagens de jóias.
+671.2	Pequenos artigos de metais e ligas
+diversas.
+671.21	Jóias de fantasia. Bijuteria. Inclusive  Ouro e prata de imitação. Aço polido. Azeviche.
+671.22	Diversos outros objetos metálicos, exceto jóias.
+Subdivisões auxiliares especiais
+671.4	Fabricação de moedas e medalhas. Cunhagem.
+-> 737 Numismática
+671.4.02	Processos de fabricação de moedas e medalhas.
+671.4.024	Produção de discos metálicos para cunhagem.
+671.4.025	Teste. Ajustamento ao peso. Pesagem automática.
+671.4.026	Polimento da borda.
+671.4.027	Têmpera macia.
+671.4.028	Martelagem. Estampagem da borda. Correção da impressão.
+Divisões principais
+671.41	Moedas.
+671.411/.418              Moedas de metal.
+671.41l/.4l8 dividido como 669.l/.8
+671.412.1	Moedas de ouro.
+671.419	Moedas não-metálicas.
+671.42	Medalhas. Medalhões. Placas.
+Plaquetas.
+67l.42 dividido como 67l.4
+-> 355.134.2 Insígnias. Distintivos de honra. Honras militares
+-> 671.128 Distintivos e condecorações semelhantes
+
+672 Artigos de ferro e aço em geral
+ 
+
+672.1	Artigos de ferro fundido e aço.
+-> 621.74 Fundição. Instalações e equipamento de forja. Forjamento aberto e com matriz
+672.11	Componentes e acessórios de trabalho de ferro fundido e aço.
+-> 682.6 Ferraria para construção
+-> 691.7 Materiais metálicos de construção
+672.13	Trabalho artístico e ornamental com ferro fundido.
+-> 673.3 Fundições artísticas de metais não-ferrosos
+-> 682.64 Ferraria ornamental. Placas, letreiros, etc.
+-> 739.4 Trabalho artístico de ferro. Trabalho artístico de serralheiro. Objetos de metal ferroso, decorativamente trabalhados: forjados, batidos ou fundidos
+672.3	Artigos de aço e de ferro lavrado ou forjado.
+-> 682 Ferraria. Trabalho de ferrador. Trabalho com ferro forjado a mão
+-> 683 Ferragens. Utensílios de ferro. Serralheria. Fabricação de garrafas. Lâmpadas. Utensílios para aquecimento
+672.31	Artigos soldados ou rebitados de aço. Inclusive  Recipientes. Cubas. Tanques.
+672.32	Artigos de aço trefilado.
+-> 621.983/.984
+672.33	Artigos de aço revestidos de zinco (galvanizados). Artigos de aço revestidos de estanho.
+      -> 621.357 Eletroquímica industrial. Eletrólise. eletrodeposição
+      -> 621.793 Revestimento, banho de metal, galvanização. Produção de revestimentos e películas 
+      semicondutoras, resistentes, dielétricas, magnéticas. Metalização
+672.4	Utensílios de estanho. Artigos de placas e chapas de estanho.
+672.41	Artigos de chapas de estanho e zinco. Inclusive Baldes. Bacias.
+672.42	Artigos de chapas de aço não-revestidas.
+672.43	Artigos de chapas de aço esmaltadas.
+-> 666.293 Esmaltagem de metais (principalmente metais ferrosos)
+672.46	Latas de conservas. Latas para alimentos.
+-> 664.8/.9 Técnica de conservação de alimentos
+-> 664.l8.036.5 Aquecimento do alimento em latas. Latas de conserva. Alimento enlatado
+672.462	Fechamento de latas. Métodos de vedação. 
+672.464	Abertura de latas. Inclusive  Dispositivos anexados. Tiras removíveis. Tampas destacáveis com anel
+                                  de puxar.
+672.466	Abridores de lata. Dispositivos manuais e mecânicos para abrir latas.
+-> 641.516 Abertura de recipientes. Remoção de fechos, tampas. Rolhas, etc. Abertura de latas. Abertura 
+   de garrafas
+      -> 683.564 Dispositivos para abrir garrafas e outros recipientes. Abridores de garrafas
+672.47	Diversos artigos pequenos. Inclusive  Mangas, tubos, estojos, cápsulas de chapa de metal.
+672.49	Telas e peneiras feitas de chapa de metal.
+-> 672.85 Artigos de fios e tiras de metal
+672.6	Correntes.  ncoras.
+-> 62-235 Transmissões e propulsões flexíveis
+-> 621.85.055 Correntes (e acessórios de correntes)
+-> 627.371 Uso de correntes, amarras
+-> 629.5.028.7 âncoras e mecanismos de atracamento
+672.61	Correntes em geral. Correntes soldadas. Inclusive  Componentes da corrente: elos, juntas.
+672.62	Correntes sem solda.
+672.63	Forma dos elos de correntes.
+672.64	Tipos especiais de corrente.
+672.641	Correntes de Vaucanson. Correntes em escada.
+672.642	Correntes de Galle. Correntes de roletes.
+672.643	Correntes desmontáveis.
+672.65	Correntes para fins especiais. Inclusive  Correntes para reboque. Correntes de transmissão. Correntes de
+                                  bicicleta.
+672.66	Dispositivos de ancoramento.  ncoras. Inclusive  Hastes, braço, patas, unhas de correntes.
+672.67	Croques e polias para firmar correntes.
+672.7	Cutelaria. Instrumentos e armas de cortar e furar.
+672.71	Instrumentos e armas de cortar e furar. Inclusive Facas em geral
+-> 621.93 Esmerilhamento, retífica, polimento e processos afins (e equipamento relacionado)
+-> 621.96 Corte sem formação de cavacos, aparas
+-> 631.342 Ferramentas de corte
+-> 635-1/-2 Equipamento, trabalhos, etc. de jardinagem e horticultura. Danos e doenças das plantas
+-> 682.3 Ferraria de ferramentas. Forja de ferramentas cortantes
+672.711	Armas para cortar, furar, cravar. Inclusive  Adagas, facas de combate. 
+                                         672.711 dividido como 623.444
+672.712	Facas de bolso. Inclusive  Canivetes. Canivetes de mola. Canivetes grandes.
+672.713	Facas de mesa. Facas de cozinha. Facas para raspar.
+-> 642.732 Faqueiro. Prataria da mesa
+672.714		Tesouras. Tesouras de jardim. Segadeiras
+ 
+672.715	Navalhas.
+-> 646.72 Cuidados com o cabelo e a barba
+-> 687.53.052 Equipamento de corte de cabelo. Equipamento de barbear
+672.715.1	Navalhas simples. Inclusive  Navalhas de barbeiro. Máquinas de aparar cabelo com lâmina embutida.
+672.715.3	Navalhas de segurança. Lâminas de barbear.
+672.716	Instrumentos cirúrgicos.
+-> 615.472.3/.4
+672.718	Máquinas de tosquiar, tosquiadoras. Tosquiadoras de cabelo.
+-> 687.53.052 Equipamento de corte de cabelo. Equipamento de barbear
+672.719	Outros instrumentos de corte. Inclusive  Machadinhas. Cutelos. Machados
+-> 621.968 Máquinas e utensílios para fender, rachar e separar
+-> 631.342 Ferramentas de corte
+-> 674.053 Ferramentas, máquinas para entalhar, escavar
+672.73	Dispositivos para amolar e afiar. Inclusive Amoladores de faca. Fitas de amolar.
+672.76	Garfos. Colheres.
+-> 642.732 Faqueiro. Prataria da mesa
+672.8	Pequenos artigos de metal.
+672.81		Alfinetes. Inclusive  Alfinetes de aço (para costura. etc.). Alfinetes de chapéu. Alfinetes de gravata e echarpe. Alfinetes 	de  segurança.
+                                      -> 671.121.2 Broches. Alfinetes, fechos decorativos
+                                   -> 687.53.053.5 Escovas de cabelo. Grampos. Pinças de cabelo. Presilhas. Objetos decorativos para 
+	      sustentar o penteado já acabado
+672.82	Agulhas. Inclusive  Agulhas de coser. Agulhas de remendar. Agulhas de enfardar. Agulhas de seleiro. Sovelas. 
+                               Furadores. Agulhas de tricô. Agulhas de crochê.
+                                     -> 687.053.2 Ferros quentes para ondulação
+672.83	Fechos.
+-> 687.078 Fechos de vestuário
+672.831	Ganchos simples. Colchetes.
+672.834	Anéis de mola.
+672.835	Ilhoses.
+672.836	Fivelas.
+672.837	Outros fechos, exceto fivelas, colchetes e ilhoses. Inclusive  Fechos ecleres. Zíperes.
+672.85	Artigos de fios e tiras de metal. Inclusive  Peneiras de arame. Rede de arame. Mola de arame. Barbatanas de
+carpete.
+      -> 621.778 Trefilação e usinagem de barras, arames e materiais perfilados semelhantes
+      -> 672.49 Telas e peneiras feitas de chapa de metal
+672.86	Penas de aço para caneta.
+      -> 686.762.1 Canetas. Penas de escrever. Suportes para penas
+672.87	Botões de metal.
+-> 868.2 Botões. Fabricação de botões
+672.88	Dispositivos metálicos de fixação. Inclusive
+Parafusos, pinos etc. Pregos. Tachas, percevejos. 6"2.88 = 621.88
+672.9	Artigos diversos de metal.
+672.92	Armações de guarda-chuva.
+672.93	Caixas, arcas, caixotes de metal.
+-> 683.34 Recipientes e locais para salvaguarda de valores
+672.94	Móveis de metal.
+-> 645.4 Móveis e acessórios
+-> 682.5 Ferraria para móveis
+-> 684.4 Móveis. Projeto e fabricação de móveis 
+673.1	Artigos de cobre e de ligas de
+cobre em geral.
+673.2	Artigos de cobre e de latão
+lavrados.
+673.3	Fundições artísticas de metais não-
+ferrosos. Inclusive  Trabalho artístico de bronze.
+      -> 669.35´6 Ligas de cobre e estanho. Bronzes
+	      -> 672.13 Trabalho artístico e ornamental com ferro fundido
+      -> 739.4 Trabalho artístico de ferro.  Trabalho artístico de serralheiro. Objetos de metal ferroso 
+      decorativamente trabalhados: forjados, batidos ou fundidos
+673.4	Artigos produzidos por eletroformação (galvanoplastia).
+-> 621.357.6 Eletroformação (galvanoplastia). Formação por eletrodeposição
+673.5	Sinos. Fundição de sinos. Inclusive  Carrílhões.
+                                       -> 681.819.5 Instrumentos de percussão com placas ou tubos de som. Sinos, carrilhões. Sinos tubulares.
+	     Sistros
+                             Marimbas. Vibrafones. Gongos. Pavilhões chineses (conjunto de sinos)
+673.6	Acessórios para canos e tubos.
+Torneiras, registros. Válvulas.
+673.6 dividido como 621.646
+673.7	Outras partes de tubulações, de
+sistemas de tubulação.
+673.7 dividido como 621-647
+673.8	Artigos de estanho, chumbo, zinco, metais leves, etc.Inclusive Tubos flexíveis.
+ 
+
+674 Indústria da madeira e de trabalhos com madeira
+
+Indicar o estado e forma dos produtos d emadeira por meio de -4... de 62- 4...
+Exemplo( s) de combinação(ões):
+674-412 Madeira cilíndrica. Troncos, toras, etc.
+674-413 Chapas grossas. Tábuas, pranchas, etc.
+674-414 Chapas médias. Pranchas, tábuas finas, etc.
+674-415 Chapas finas, p. ex., chapas para trabalho ornamentado
+674-416 Chapas muito finas. Folheados
+674-419 Tábuas e placas compostas. Tábua laminada
+674-419.3 Madeira compensada
+674-422 Perfis convexos. Seções sólidas. Toros. Ripas. Tarugos. Varas. Molduras. Cornijas, etc.
+         674-423 Perfis côncavos. Moldes ocos. Seções angulares, etc.
+                            -> 630*83 Indústrias madeireiras e seus produtos. Usos da madeira. Fabricação de objetos de madeira
+       -> 684 Indústria do mobiliário e indústrias afins. Fabricação de móveis. Estofamento
+                                    ->  694 Construções de madeira. Carpintaria. Marcenaria
+Subdivisões auxiliares especiais
+674.02	Processos de trabalho em madeira.
+674.021	Marcação. Medição.
+674.022	Fixação. Grampeamento.
+674.023	Apara. Serra. Corte. Descascamento.
+674.024	Cinzelamento.
+674.025	Perfuração. Furacão.
+674.026	Aplaina mento.
+674.028	Montagem. Dobragem, Juntas de madeira,
+674.028.l	Junção de partes de madeira sem recursos adicionais. Inclusive  Juntas escarvadas. Juntas de espiga e mecha, macho-e-
+	fêmea. Sambladura. Junta a meia esquadria.
+674.028.2	Juntas cavilhadas. Juntas com pino.
+674.028.3	Juntas com conectores de anel ou ângulos
+de estrutura.
+674.028.4	Juntas aparafusadas.
+674.028.5	Juntas pregadas.
+674.028.6	Dobragem a frio da madeira.
+674.028.7	Dobragem a quente da madeira.
+674.028.9                   Outras juntas de madeira. Inclusive Juntas coladas.
+674.03	Espécies de madeira.
+-> 582 Botânica sistemática
+-> 630 Silvicultura
+674.031	Madeiras duras. Madeira de árvores
+decíduas, latifoliadas.
+674.031.1/.3	Segundo a dureza.
+674.031.1	Madeiras duras. Madeira de lei.
+674.031.19	Madeiras muito duras.
+674.031.2	Madeiras semiduras.
+674.031.3	Madeiras brancas. Madeira macia de árvores latifoliadas.
+                                        Madeiras não-macias, para as quais, ver 674.032
+674.031.5/.9	Madeiras duras segundo as famílias botânicas.
+                                         674.031.5/.9  dividido como 582.5/.9,  mas aqui ocorrem especificações adicionais
+674.031.628.2       Jungladáceas. Inclusive  Nogueira norte-americana (Carya).
+674.031.5/.9
+674.031.632.1	Betuláceas. Inclusive  Bétula (Betula)
+                                             674.031.5/.9
+674.031.632.2	Fagáceas. Inclusive Faia (Fagus). Castanheiro (Castanea). Carvalho (Quercus). 674.Q31.5/.9
+674.031.635.1	Ulmáceas. Inclusive Olmo (Ulmus). Celtis.
+674.031.638.26	Platanáceas. Inclusive Plátano (Platanus).
+674.31.681.81	Salgueiro (Salix)
+674.031.682.2	Buxáceas. Inclusive Buxo (Buxus).
+674.031.685.3	Bombáceas. Inclusive pau-de-balsa (Ochroma).
+674.031.685.4	Tiliáceas. Inclusive Tília (Tilia)
+674.031.687.46	Ebenáceas. Inclusive Ébano (Diospyros)
+674.031.728.2	Santaláceas.Inclusive  Sândalo (Santalum).
+674.031.746.11	Zigofiláceas. Inclusive Guaiaco. Pau-santo.
+674.031.746.41	Meliáceas. Inclusive Pau-cetim.
+674.031.746.413	Swietenioídeas. Inclusive Mogno.
+674.031.746.51	Aceráceas. Inclusive Bordo (Acer).
+674.031.751	Geraniíneas.
+674.031.776.2	Mirtáceas. Inclusive Eucalipto (Eucalyptus).
+674.031.916.165	Freixo (Fraxinus).
+674.031.929.3	Verbenáceas. Inclusive Teca (Tectona).
+674.032	Madeiras macias. Madeiras de coníferas.
+-> 674.031.3 Madeiras brancas. Madeira macia de árvores latifoliadas
+674.032.3/.4	Madeiras macias, segundo as famílias botânicas.
+      674.032.3/.4 dividido como 582.3/.4,  mas aqui ocorrem especificações adicionais
+674.032.471	Taxáceas. Inclusive Teixo (Taxus).
+674.032.475.2	Abeto(Abies).
+674.032.475.3	Lariço (Larix).
+674.032.475.4	Pinheiro (Pinus).
+674.032.475.5	Abeto vermelho (Picea).
+674.032.475.6	Madeira da cicuta(Tsuga).
+674.032.475.7	Pinheiro-de-douglas (Pseudotsuga).
+674.032.475.8	Cedro (Cedrus).
+674.032.476	Taxodiáceas. Inclusive Sequóia.
+674.037	Madeiras artificialmente coloridas. Madeiras tingidas. Inclusive Imitação de mogno, pau-rosa, ébano. Madeira 
+                                   com grão realçado.
+674.038	Madeiras do ponto de vista do uso ao qual se destinam.
+674.038.l	Madeiras com diversas características, segundo a condição das diversas partes da árvore.
+674.038.15	Características e defeitos ligados ao crescimento. Inclusive Madeira comprimida. Madeira enrascada. Madeira de 
+grão em espiral.
+674.038.16	Madeira de várias partes da árvore. Inclusive Madeira da raiz.
+674.038.17	Textura da madeira. Composição em relação à formação do cerne. Inclusive Madeira do cerne. Madeira madura. Madeira de textura cerrada. Alburno, samo.
+674.038.18	Madeira organicamente alterada. Inclusive Madeira podre. Madeira apodrecida.
+674.038.19	Características em relação à ecologia da madeira.
+674.038.3	Madeira segundo o tipo de preparação. Inclusive Madeira rachada: toras divididas. Madeira serrada, pranchas.
+674.038.4	Madeira flutuada. Madeira seca. Madeira impregnada.
+674.038.5	Madeiras para diversos fins. Inclusive Madeira para construção, estruturas. Madeira para marcenaria. 
+                                         Indicar o objetivo por meio de :... 
+	Exemplo(s) de combinacao(oes): 
+                                          674.038.5:681.81 Madeira para instrumentos musicais
+674.038.6	Madeiras segundo o processamento, o trabalho. Inclusive Madeira serrada, aplainada, torneada, vergada.
+674.038.7	Madeiras segundo a textura.
+674.038.71	Distância entre anéis da madeira. Inclusive Madeira de anéis compactos, finos. Madeiras de anéis 
+	largos.
+674.038.74	Madeira extraída em vários períodos de crescimento. Inclusive Madeira de árvore jovem. Madeira de árvore madura.
+674.038.75	Finura da estrutura. Finura do grão.
+674.038.77	Madeira com pouco encolhimento.
+674.038.78	Texturas de madeira que produzem efeitos de valor estético, decorativo. Inclusive feito irisado. Efeito floral. Halos. Nós. Padrão de olho de pássaro.
+674.04	Amadurecimento, impregnação e outros tratamentos da madeira.
+674.045	Umedecimento.
+674.046	Escaldamento. Tratamento a vapor contra ataque biológico.
+674.047	Amadurecimento, cura da madeira.
+674.047.l	Secagem ao ar. Amadurecimento, cura natural.
+674.047.3	Secagem artificial. Secagem em estufa.
+674.048	Impregnação da madeira.
+674.048.2	Dispositivos e máquinas para impregnação.
+674.048.3	Impregnação contra ataque vegetal
+(plantas daninhas).
+674.048.4	Impregnação contra ataque animal.
+674.048.5	Processos de vedação.
+674.049.2	Endurecimento. Equipamento de
+endurecimento.
+674.049.3	Tratamento antiinflamável. Redução da
+combustibilidade. Tratamento para retardar
+a combustão.
+674.05	Ferramentas para trabalhar a madeira.
+Máquinas para trabalho em madeira. 
+      Indicar maiores detalhes nas subdivisões por meio de :621.9...
+674.053	Ferramentas, máquinas para aparar, cortar, descascar. Inclusive Serrotes. Machados.
+                        	      -> 621.93 Serras, serração e técnicas semelhantes de corte
+                                       -> 621.968 Máquinas e utensílios para fender, rachar e separar
+                                       -> 621.342 Ferramentas de corte
+                                       -> 672.719Outros instrumentos de corte
+674.054	Ferramentas, máquinas para entalhar, escavar. Inclusive Cinzéis. Goivas.
+      -> 621.911.7 Cinzéis para trabalhar madeira. Formões. Goivas
+674.055	Ferramentas, máquinas para raspar, limar, perfurar. Inclusive Limas, grosas, . Brocas. Braçadeiras,
+      -> 621.918 Limadura e raspagem. Técnica, ferramentas, máquinas e equipamento
+	      -> 621.95 Brocas. Furação, perfuração, escareamento de furos, etc.
+674.056	Ferramentas, máquinas para aplainar. Inclusive Plainas. Raspadeiras.
+                                           -> 621.911/.912
+674.057	Ferramentas, máquinas para tornear e cortar fibras. Inclusive  Tornos. Cortadores de fibras.
+      -> 621.941 Tornos. Trabalho em torno. Torneamento, faceamento, perfuração
+      -> 621.99 Formação de rosca de parafuso. Abertura de rosca por corte. Afilamento de roscas, parafusos
+674.058	Ferramentas, máquinas para bater,
+pregar, vergar, unir.
+      674.058 dividido como  674.028
+674.058.5	Dispositivos para pregar. Martelos. Máquinas de pregar. 
+                                          -> 621.972 Martelos manuais. Marretas. malhos
+                                          -> 621.974 Martelos mecânicos. Martelos mecanizados
+674.06	Produtos da indústria de madeira. Madeira,
+674.061	Espécimes de madeira. Inclusive Espécime pequeno, claro (sem nós, sem defeitos). Grandes peças estruturais.
+674.07	Tratamento da superfície da madeira.
+674.076/.077 dividido como 667.6/.7
+674.078.2 dividido como 665.92
+-> 667.74 Coloração de madeira. Tingimento de madeira
+674.09	Processamento de troncos de madeira em
+madeira trabalhável.
+674.092	Processamento manual de troncos de madeira, especialmente com serras.
+674.093	Serrarias. Indústria de serraria.
+674.093.2	Classificação das serrarias segundo o objetivo
+especial. Oficinas auxiliares de serraria.
+674.093.24	Oficina de aplainamento.
+674.093.26	Oficina de aplicação de folheado.
+674.093.3	Depósitos de madeira em troncos.
+674.093.4	Depósitos de madeira processada.
+Pilhas. Camadas.
+674.093.6	Serragem na serraria. Corte. Oficinas
+de serraria. 
+Divisões principais
+674.1	Carpintaria.
+674.11	Carpintaria estrutural, de construção. Inclusive Vigas de telhado. Soalhos. Estruturas de porta.
+674.12	Carpintaria de navios.
+674.2	Marcenaria.
+Exemplo(s) de combinacao(oes):
+674.2-419.3 Marcenaria com madeira compensada
+674.21	Marcenaria de construção. Inclusive  Marcenaria para instalações de edifícios, divisórias, portas, janelas.
+                                          -> 694.6 Carpintaria
+674.23	Fabricação de móveis.
+      -> 645.4 Móveis e acessórios
+      -> 684.4 Construções de madeira. Carpintaria. Marcenaria 
+674.24	Marchetaria. Trabalho de incrustação em madeira. Inclusive  Preparo dos folheados.
+-> 684.6  Folheado. Marchetaria. Incrustação, etc.
+674.25	Marcenaria de veículos. Marcenaria de construção de carruagens.
+-> 692.02 Estrutura, princípios de construção, disposição geral e partes dos veículos
+674.26	Trabalhos de retículas. Grades. Paliçada.
+Treliças. Reticulados para teto e telhado.
+674.3	Construção de carroças.
+Construção de rodas.
+674.31	Rodas de madeira. Inclusive  Cubos. Raios de rodas. Cambas e aros de rodas. Espigas de roda.
+                                        -> 629.3.027.4 Rodas
+674.32	Trabalho do corpo. Armação do veículo.
+-> 629.3.023.2 Corpo e componentes de construção do corpo
+674.4	Tanoaria. Tonelaria. Fabricação de
+tonéis, barris.
+-> 621.798.13 Recipientes específicos para transporte de fluidos e de material a granel
+674.41	Partes dos tonéis, barris e outros vasilhames de madeira. Inclusive Aduelas. Arcos. Fundos.
+674.42	Tipos de vasilhames de madeira. Inclusive Tonéis, barris. Tinas, bacias de madeira. Baldes, noras de madeira.
+674.5	Artigos de madeira e sua fabricação. Inclusive  Artigos domésticos de madeira. Brinquedos de madeira.
+-> 688.7 Brinquedos. Artigos para divertimento, para brincadeiras. Decorações
+674.6	Fabricação de caixas. Embalagens de madeira.
+-> 621.798.12  Recipientes exteriores resistentes para mercadorias ou objetos sólidos
+674.61	Caixas, caixotes, caixas de madeira para
+embalagem. Arcas de madeira (como
+embalagens).
+674.62	Baús de madeira. Arcas de madeira
+(caixas-fortes).
+-> 685.511 Malas e baús em geral
+674.63	Recipientes de vime. Móveis de vime. Inclusive Caixas, cestas de vime.
+674.64	Coberturas, revestimentos de vime (p. ex., para garrafas).
+-> 677.54 Materiais vegetais para trançar,  preguear
+674.7	Fabricação de artigos torneados de
+madeira. Tornearia.
+674.71	Mastros. Postes. Postes redondos. Inclusive Postes para fios. Postes telegráficos.
+674.72	Aduelas. Varas. Bastões. Inclusive  Varas de pesca.
+674.73	Bengalas e bastões para andar. Cabos. Inclusive coronhas.
+-> 685.577 Bordões. Bengalas
+674.75	Cabos de ferramentas.
+674.76	Madeira vergada. Inclusive  Para partes de cadeiras e móveis. Para polias.
+674.77	Artigos de madeira torneada. Tornearia propriamente dita. Inclusive Cabos de ferramentas, eixos, partes de móveis torneados.
+674.8	Produção e processamento de
+aparas, cavacos, resíduos de
+madeira. Composições de madeira.
+Processamento de cortiça e turfa.
+674.81	Madeira aglomerada. Resíduos prensados
+de madeira.
+674.812	Madeira prensada. Madeira densificada.
+Exemplo(s) de combinacao(oes):
+674.812-419.3 Madeira compensada prensada
+674.815	Materiais de aparas de madeira prensada em forma de tábuas, pranchas, armações, etc..
+674.816	Composições de resíduos da madeira, serragem. Inclusive Xilólito (mistura de serragem e cimento de Sorel). Madeira 
+plástica.
+-> 691.334 Concretos e aglomerados com aglutinantes baseados em magnésio xilólito.
+674.817	Produtos da polpa prensada de madeira.
+Materiais de fibra de madeira.
+Exemplo(s) de combinacao(oes):
+674.817-415 Chapa de fibra de madeira
+674.82	Lã de madeira. Aparas de madeira. Serragem.
+-> 621.798.22 Acolchoado. Almofadas. Recheios, serragem, aparas de cortiça, palha, papel, etc.,  como materiais absorventes de impacto
+-> 677.195 Fibras obtidas sob forma de aparas, lascas. Fibras de agulhas de coníferas
+674.83	Processamento de cortiça. Inclusive Rolhas de cortiça. 
+Exemplo(s) de combinacao(oes):
+674.83-41 Cortiça em chapas, blocos, etc. 
+674.83-493 Flocos de cortiça
+674.84		Cortiça sintética. Substituto de cortiça.
+674.87	Processamento de agulhas de coníferas (p. ex., em lã de agulhas de coníferas).
+-> 577.195 Fibras obtidas sob forma de aparas, lascas. Fibras de agulhas de coníferas
+674.88	Processamento de turfa (exceto como combustível e para a indústria têxtil). Inclusive Terra de turfa (turfa para horticultura). Lixo de turfa. Fardos de turfa. Para turfa como combustível ou para material de fiação, usar 662.64 e 677.194
+	      -> 631.831 Cinzas de madeira. Cinzas de vegetais. Cinzas de turfa
+	      -> 631.878 Turfa, linhito, carvão como fertilizantes
+ 
+
+675 Indústria do couro (inclusive da pele e do couro de imitação)
+      -> 637.61 Peles. Couros. Conchas
+      -> 685 Selaria. Calçados. Luvas. Equipamento para viagem, esportes, jogos e outros
+      -> 686.1 Encadernação de livros
+      -> 687 Indústria do vestuário. Confecção de artigos de vestuário. Cosmetologia
+      -> 745.53 Trabalho artístico. Artesanato em couro
+Os auxiliares relacionados em 675.0... não são aplicáveis em 675.92 e suas subdivisões
+ 
+Subdivisões auxiliares especiais
+675.01	Teoria da produção de couros e peles.
+Propriedades. Defeitos. Testes.
+675.011/.013	Projeto do processo. Controle do processo.
+Instalações. Serviços.
+675.011/.013 dividido como 66.011/.013
+675.014	Composição, propriedades e análise
+química (de couros e peles).
+675.014.2	Substâncias da pele.
+Exemplo(s) de combinacao(oes):
+      675.014.2:547.96 Determinação de proteínas (colágeno, etc.)
+675.014.4	Substâncias tanificadoras. Tanino.
+675.014.6	Base, propriedades e determinação da fibra.
+675.015	Estrutura das peles, couros e suas fibras
+constituídas de colágeno (proteína).
+675.015.2	Macroestrutura das peles, couros.
+675.015.22	Epiderme.
+675.015.23	Derme.
+675.015.24	Carne.
+675.015.26	Cabelo, pêlo.
+675.015.4	Estrutura, propriedades, composição química
+das fibras de colágeno (proteína).
+675.015.6	Propriedades moleculares e microestruturais
+das fibras de colágeno (proteína).
+675.016	Propriedades e estudo dos acabamentos e
+                                materiais complementarei em couros e
+                               peles.
+675.017	Propriedades físicas e mecânicas do couro,
+                                sua determinação e teste.
+675.017.1	Topografia do couro.
+675.017.12	Lado.
+675.017.13	Traseiro. Lombo. Dorso.
+675.017.14	Barriga. Ombro.
+675.017.15	Frente do cavalo. Traseira do cavalo. Casco.
+675.017.16	Cabeça. Bochecha. Canela.
+675.017.17	Couro de sobras (de baixa qualidade).
+675.017.2	Propriedades dimensionais e classificação não
+determinada pela produção. Tamanho. Massa.
+675.017.3	Parâmetros determinados durante o processo
+de produção. Amostragem. Métodos de teste.
+675.017.4	Resistência do couro. Resistência a influências
+mecânicas.
+Especificar por meio de :620.17...
+675.017.5	Propriedades ópticas, térmicas, elétricas
+e outras.
+675.017.55	Propriedades ópticas.
+Especificar por meio de :535... 
+Exemplo(s) de combinacao(oes):
+675.017.55:535.361.2 Brilho
+675.017.56	Propriedades térmicas.
+Especificar por meio de :536... 
+Exemplo(s) de combinacao(oes):
+675.017.56:536.495 Resistência ao calor
+675.017.57	Propriedades elétricas e magnéticas.
+      Especificar por meio de .537...
+675.017.6	Propriedades com relação aos fluidos (líquidos, vapores, gases). Inclusive Resistência aos fluidos. Permeabilidade.
+675.017.62	Propriedades (inclusive impermeabilidade) em relação a gases, ar, vapor de água e outros
+vapores.
+->  620.193.29 Permeabilidade ou impermeabilidade ao ar. Impermeabilidade de gases
+675.017.63	Propriedades (inclusive impermeabilidade) em
+relação à água e outros líquidos.
+->  620.193.19  Erosão, etc. afetada pela permeabilidade, absorvência de líquidos
+675.017.8	Aplicabilidade. Propriedades que afetam o uso.
+adequabilidade.
+675.017.82	Grossura do couro, da pele.
+675.017.83	Cobertura de cabelo, pêlo. Altura do pêlo.
+675.017.84	Elasticidade. Maleabilidade.
+675.017.85	Estabilidade de forma. Propriedades de
+amassadura.
+675.017.86	Propriedades de textura. Feltragem ,etc.
+675.017.87	Propriedades de acabamento, de superfície.
+Sujeira.
+675.017.88	Resistência ao uso em geral.
+675.019	Defeitos, falhas, danos (no couro e no pêlo
+cru e acabado), sua detecção e conserto.
+675.019.l	Defeitos visíveis (defeitos na superfície).
+      675.019.1 dividido como 620.191
+675.019.2	Defeitos internos. Inclusive Consistência. Encolhimento.
+ 675.019.2 dividido como 620.192
+675.019.3	Defeitos, falhas, danos devidos a influências
+ambientais.
+65.019.3 dividido como 620.193
+675.019.5	Identificação de defeitos, falhas, danos.
+675.019.7	Remoção de defeitos, etc.
+675.02	Métodos de produção e de trabalho,
+processos e tratamento do couro e da pele.
+675.023	Tratamento de peles e couros crus (antes do
+curtimento).
+675.023.1	Tratamento preliminar. Inclusive Esfolamento. Cura. Esterilização Classificação.
+675.023.2	Lavagem. Maceração. Desengorduramento. Remoção de óleo.
+675.023.3	Banho de cal, depilação, descarnagem.
+675.023.32	Banho de cal.
+675.023.33	Remoção de pêlo (depilação). Extração de pêlo. Afrouxamento químico do pêlo. Inclusive Tratamento a vapor. Escaldamento.
+675.023.34	Descarnamento.
+675.023.36	Raspagem.
+675.023.37	Retirada de cerdas.
+675.023.4	Corte ou desbaste do pêlo na pele crua, no couro cru.
+675.023.5	Remoção de cal.
+Exemplo(s) de combinacao(oes):
+675.023.5:54-32 Remoção de cal com ácidos 
+675.023.5:54-38 Remoção de cal com sais
+675.023.6	Maceração.
+675.023.7	Banho de salmoura. Salga. Ensopamento.
+675.024	Curtume e processos de curtimento.
+675.024.3	Curtimento vegetal.
+675.024.4	Curtimento mineral. Curtimento com
+substâncias orgânicas e sintéticas.
+Curtimento a óleo.
+675.024.43	Curtimento a cromo.
+675.024.44	Curtimento a ferro.
+675.024.46	Curtimento com alumes, silício, zircônio,
+compostos de titânio.
+675.024.47	Curtimento com substâncias orgânicas e sintéticas. Inclusive Curtimento com formaldeído.
+675.024.48	Curtimento com óleo.
+675.024.49	Curtimento com misturas, p. ex., tanino e
+misturas químicas adicionadas.
+675.024.5	Curtimento elétrico.
+675.024.6	Curtimento parcial. Curtimento de lados
+diferentes por processos diferentes.
+675.024.7	Métodos mistos, combinados, de curtimento.
+675.024.9             Recurtimento.
+675.025	Tratamento e processamento mecânico de
+peles, de couro (especialmente após o
+curtimento).
+      675.025 dividido como 675.055
+675.026	Acabamento de peles, de couro.
+675.026.l	Coloração. Tingimento. Inclusive Preparação para tingimento.
+	      -> 667.772 Coloração. Tingimento de couro
+675.026.2	Impregnação. Obturação. Sova. Estofamento.
+Lubrificação. Secagem. Condicionamento.
+675.026.22	Obturação, enchimento.
+675.026.23	Sova, Estofamento. Lubrificação.
+Espessamento.
+675.026.24	Separação.
+675.026.26	Secagem. Arejamento.
+675.026.27	Condicionamento.
+675.026.3	Revestimento. Enceramento. Acabamento do
+grão. Acabamento da cor. Acabamento final.
+675.026.4	Corte.
+675.026.6	Empilhamento.
+675.028	Processos ou tratamentos especiais (além  dos acima mencionados). Inclusive  Lustre. Acabamento da face felpuda. 
+                                Acabamento de forros.
+675.03	Peles e couros crus segundo a origem.
+      -> 636/639
+      -> 675.06 Couros e peles trabalhados (segundo sua origem) e suas aplicações
+675.031	Peles de animais domésticos (e de espécies silvestres afins).
+675.031.1	Peles de boi. Peles de bovinos.
+675.031.11	Couro de vaca.
+675.031.113	Pele de bezerro.
+675.031.2	Couros de ovelhas. Pele de carneiro.
+675.031.3	Couros de cabra. Pele de caprinos.
+675.031.4	Couros de suínos. Peles de porcos.
+675.031.5	Couros de eqüinos. Inclusive Couro de cavalo. Couro de jumento ou burro.
+675.031.6	Couros de camelos.
+675.031.8	Peles de pequenos animais domésticos (e espécies silvestres afins). Inclusive eles de lebre. Peles de coelho.
+                                Peles de gato. Peles de cães. de dingo, etc.
+675.032	Peles de grandes mamíferos terrestres
+selvagens.
+Peles de tigre. Peles de urso. Peles de veado. Peles de elefante.
+675.033	Peles de pequenos mamíferos terrestres silvestres. Inclusive Peles de marta. Peles de raposa. Peles de arminho.
+675.034	Peles de répteis. Inclusive Peles de crocodilo. Peles de serpentes.
+675.035	Peles de peixes. Peles de mamíferos marinhos. Inclusive Pele de tubarão. Peles de baleias, golfinhos, etc. Pele de foca.
+675.036	Peles de pássaros. Peles de aves domésticas.
+675.039	Peles lisas, sem pêlo.
+675.04	Curtimento e materiais auxiliares usados
+na produção de couro e de pele.
+675.041	Agentes taníferos vegetais naturais. Inclusive Folhas. Casca. Madeira. Raízes
+      -> 633.87 Plantas tanantes. Plantas que produzem tanino
+      -> 675.0I4.4 Substâncias tanificadoras. Tanino
+675.042	Agentes taníferos minerais e sintéticos.
+Especificar os agentes minerais (inorgânicos) por meio de  :546... , e os agentes sintéticos orgânicos por meio de :547...
+675.043	Auxiliares químicos.
+675.043.2	Água.
+675.043.3	Ácidos. Óxidos. Bases. Sais.
+675.043.4	Agentes surfactantes. Plastificantes.
+675.043.6	Substâncias protéicas.
+-> 547.96 Proteínas
+675.043.7	Carboidratos.
+      -> 547.455 Açúcares simples (monossacarídeos)
+      -> 547.458 Polissacarídeos 
+675.043.8	Materiais macromoleculares (polímeros).
+Outras substâncias químicas
+(independentemente da função).
+675.044	Gorduras animais e vegetais processadas. Inclusive  Gorduras oxidadas. Dégras, Gorduras e óleos sulfonados, 
+                              saponificados e polimerizados. Ácidos graxos.
+-> 665.228 Gordura de carcaça. Gordura de ossos. Gordura de peles. Dégras. (Gordura de resíduos)
+-> 665.382/.
+675.045	Óleos. Gorduras. Graxas. Óleos de couro
+(misturas de gorduras e óleos).
+675.045.2	Óleos minerais.
+-> 665.7 Produtos da indústria de óleos minerais. Fabricação do vidro. 
+675.045.3	Gorduras e óleos animais e vegetais.
+-> 665.2/.3
+675.045.4	Óleos e graxas sintéticos.
+-> 665.381 Óleos sintéticos
+675.046	Materiais de acabamento.
+675.046.l	Colorantes. Pigmentos. Tinturas. Agentes
+alvejantes.
+-> 667.772 Coloração. Tingimento de couro
+675.046.3	Ceras.
+675.046.8	Esmalte e outros revestimentos. Verniz,
+laca, etc.
+675.05	Equipamento, máquinas para
+processamento de couro e pele crus, para produção de couro e pele curtidos.
+675.052	Equipamento, máquinas para produção de
+agentes taníferos.
+675.053	Equipamento, máquinas para tratamento
+das peles e couro crus (antes da
+tanifícação).
+675.053.l	Equipamento, máquinas para tratamento e
+processamento preliminar. Inclusive Equipamento de esfolamento. Equipamento de cura. Equipamento de esterilização. Equipamento de classificação.
+675.053.2	Equipamento de lavagem. Equipamento de
+impregnação. Equipamento de infusão e
+maceração. Inclusive Cubas. Pás. Tambores.
+675.053.3	Equipamento, máquinas para remoção de pêlo
+(depilação). Máquinas para depilação.
+Equipamento para descarnagem. Equipamento
+de raspagem.
+675.053.4	Equipamento, máquinas para cortar pêlos em
+couros e peles crus.
+675.054	Equipamento, máquinas para curtimento.
+675.054.3	Fossas de curtimento. Assentadores,
+Manipuladores.
+675.054.5	Equipamento elétrico de curtimento.
+675.055	Equipamento, máquinas para tratamento
+mecânico de peles, de couro (especialmente
+após o curtimento).
+675.055.l	Equipamento, máquinas para tratamento geral e
+preliminar. Inclusive Máquinas para igualar. Máquinas para escanhoar.
+675.055.2	Equipamento, máquinas para melhorar a textura
+do corpo.
+675.055.22	Máquinas para realçar.
+675.055.24	Máquinas para empalar. Empaladoras.
+675.055.26	Bobinas, rolos.
+675.055.27	Equipamento para sovar. Máquinas para bater.
+675.055.3	Equipamento, máquinas para melhorar a superfície.
+675.055.34	Máquinas de amaciamento para peles.
+Equipamento para alisar. Equipamento para
+impressão em relevo.
+675.055.35	Máquinas de polir.
+675.055.36	Máquinas de lustrar. Máquinas de escovar.
+675.055.5	Equipamento, máquinas para dividir.
+Equipamento, máquinas para medir e marcar.
+675.055.6	Equipamento, máquinas para cortar. Máquinas
+de perfuração. Perfuradores.
+675.056	Equipamento, máquinas para acabamento
+de peles, de couro.
+675.056.1	Equipamento para tingirnento. Inclusive Tinas. Tambores. Pás Escovas. Estênceis.
+675.056.2	Equipamento de impregnação. Equipamento de
+obturação. Equipamento de sova. Equipamento
+de untação. Equipamento de secagem.
+Equipamento de condicionamento.
+675.056.2 dividido como675.026.2
+675.056.3	Equipamento de revestimento. Equipamento
+de enceramento. Equipamento para
+acabamento final.
+675.056.4	Ferramentas para corte, aparas. Alicates.
+Tesouras.
+675.056.5	Assentadores de pêlo.
+675.058	Equipamento, máquinas para processos ou
+tratamentos especiais (além dos acima citados).
+Inclusive Equipamento de lustração. Equipamento de acabamento para o lado felpitdo, para o lado do jorro.
+675.059	Equipamento de embalagem. Máquinas
+para embalar o couro em peças.
+-> 621.798 Equipamento de acondicionamento e embalagem. Invólucros, recipientes, materiais, máquinas, etc.
+675.06	Couros e peles trabalhados (segundo sua origem) e suas aplicações.
+675.06 dividido com o675.03
+675.07	Peles e couros com características
+especiais.
+675.072	Couro macio, maleável.
+675.073	Couro duro, rígido.
+675.074	Couro forte, resistente ao uso.
+675.075	Couros com propriedades físicas especiais. Inclusive Propriedades ópticas, térmicas. elétricas.
+      675.075 dividido como 675.017.55
+675.076	Couros com propriedades de proteção
+especiais contra fluidos.
+675.076 dividido como 675.017.6
+675.076.3	Couro à prova d'água.
+675.08	Refugos da produção de couros e peles
+(inclusive refugos de matadouros e
+curtumes).
+-> 675.8 Indústrias baseadas no processamento de refugos da produção de couro e pele. Indústrias baseadas no processamento de subprodutos do abate (Subprodutos da carcaça)
+675.081	Lã. Pêlo. Flocos. Cerdas. Carne.
+675.082	Gorduras. Dégras. Sebo da carne. Gordura dela.
+675.083	Refugos de couro e pele.
+675.084	Chifres. Cascos. Ossos, etc.
+675.085	Vísceras. Intestinos.
+675.086	Aparas. Cortes. Sobras. Tiras. Restos de couro.
+675.087	Penas de aves.
+675.088	Resíduos de curtume. Resíduos de banho de cal. Outros resíduos e refugos de processamento. Inclusive  Cascas. Extratos. 
+                                    Solução tanífera servida. Restos de cal e sal. 
+Divisões principais
+675.1	Couro e artigos de couro em geral.
+Couros para fins especiais.
+675.11	Couros para uso técnico e de engenharia em geral. Inclusive Couro para correame. Couro para embalagem. Couro para 
+componentes de máquinas.
+675.12	Couro de sela. Couro de arreios. Couros para vestuário. Inclusive Couro para cintos e suspensórios. Couro ortopédico. Couro 
+para vestes de proteção.
+	      -> 614.89 Riscos para partes específicas do corpo. Equipamento pessoal de proteção. Vestuário de proteção, etc.
+	      -> 615.477.1 Calçados ortopédicos
+	      -> 685.1/.2
+	      -> 685.348.4 Calçados higiênicos e ortopédicos
+	      -> 687.1/.4
+675.14	Couro para calçados. Couro para botas e sapatos.
+-> 685.3 Calçados. Outras peças que ajudam na locomoção
+675.15	Couro para peças de roupa. Couro para
+luvas. Couro para chapéus, artigos de
+chapelaria. Couro para forro de roupas.
+Couro para pequenos artigos de vestuário.
+->  675.18 Couros para enfeites, ornamento, decoração. Pequenos artigos artísticos de couro
+->  685.4 Fabricação de luvas. Luvas
+->  687.1/.4
+675.16	Couro para equipamento de viagem e
+esporte. Couro para coberturas de chão e
+de parede. Couro para estofamento de
+móveis e usos domésticos.
+-> 685.5/.8
+675.162	Couro de sacola. Couro de mala. Couro de baú.
+Especificar por meio de :685.51...
+675.164	Couro para equipamentos esportivos e de ginásios.
+Especificar por meio de :685.6...
+675.166	Couro para forração de soalho e parede.
+Especificar por meio de :645.1/.2
+-> 691.18 Materiais de origem animal
+675.167	Couro de estofamento de móveis.
+Especificar por meio de :684. 7...
+675.168	Couros para usos domésticos. Inclusive Couros para limpeza, polimento.
+675.18	Couros para enfeites,ornamentos,
+decoração. Pequenos artigos artísticos de couro.
+-> 675.18 Couros para enfeites, ornamentos, decoração. Pequenos artigos artísticos de couro
+675.2	Couro segundo o método de
+produção, de processamento ou
+acabamento especial.
+675.22	Couro fendido.
+675.23	Couro cru.
+675.24	Couros curtidos por processos especiais. Inclusive Couros curtidos a óleo (p. ex.. camurça). Couros curtidos a minerais: 
+                                   curtido a cromo, curtido a alume.
+675.25	Couros mecanicamente tratados. Inclusive  Couro com relevo. Couro de búfalo. Couro perfurado.
+675.26	Couro com acabamento especial.
+675.261	Couro tingido, pigmentado.
+675.262	Couro marroquino.
+675.263	Couro de grão natural.
+675.264	Couro de grão corrigido. Couro de grão
+artificial.
+675.265	Camurcina. Couro não-polido, nobuque.
+675.266	Pergaminbo.
+675.267	Couro acetinado. Couro polido.
+675.268	Couro revestido. Couro esmaltado. Couro
+envernizado.
+675.27	Couro da Rússia. Couro de sandália.
+Couros similares.
+675.28	Couro colado, laminado. Couro
+multilaminado.
+675.6	Produção e produtos de peles. 
+                                  Indicar os detalhes da produção de peles por meio dos auxiliares .0... em 675.0...
+675.61	Peles para soalhos. Peles para paredes.
+Peles para carpetes e tapetes. Peles de
+pendurar. Peles para cobertas. Peles para
+estofamento.
+      -> 645.1/.2 
+      -> 684.73 Estofagem
+675.62	Peles para peças de vestuário. Peles para
+vestuário. Peles para forros e enfeites.
+      -> 685.3/.4
+      -> 687 Indústria do vestuário. Confecção de artigos de vestuário. Cosmetologia
+675.68	Pele para uso decorativo e outros artigos menores.
+Exemplo(s) de combinacao(oes):
+ 675.68:688.42 Pele para flores artificiais 
+ 675.68:688.72 Pele para brinquedos, bonecas 
+ 675.68:745.5 Pele para artesanato 
+675.8	Indústrias baseadas no
+processamento de refugos da produção de couro e pele. Indústrias baseadas no processamento de subprodutos do abate (subprodutos da carcaça). Coleta, reprocessamento, utilização de refugos
+      -> 637.6 Produtos animais, exceto alimentos
+      -> 675.08 Refugos da produção de couros e peles (inclusive refugos de matadouros e curtumes)
+                                       Usar os auxiliares .0.. de 675.0... , quando apropriado 
+Exemplo(s) de combinação(ões}:
+675.862.026.1 Tingimento, branqueamento do marfim
+675.862.08 Refugos da indústria do marfim
+675.81	Indústria de processamento de refugos de couro. Inclusive Refugos da carne, . p. ex. cola.  )Aparas, cortes, restos do couro.
+675.82	Indústrias que processam os resíduos de cabelo, pêlos e cerdas.	
+      -> 687.9 Indústria de escovas e pincéis. Vassouras, etc.
+      -> 688.47 Artigos feitos de pelo
+675.83	Indústria de processamento dos
+refugos de lã,
+-> 637.62 Cabelo. Pêlo. Cerdas de lã
+-> 677.3 Fibras animais 
+675.84	Indústria de processamento dos refugos de penas.
+      -> 637.63 Penas. Lanugem. Peles de pássaros
+      -> 677.3Fibras animais
+675.85	Indústrias baseadas no processamento dos
+refugos de tecidos moles (vísceras, etc.). Inclusive Processamento de sangue, intestinos, gordura.
+      -> 637.661/.663
+675.86	Indústrias baseadas no processa mento dos
+refugos de tecidos duros (refugos
+esqueléticos).
+-> 637.61`848 Casco de tartaruga (i.e., de tartarugas marinhas)
+-> 637.64/.65
+675.861	Indústrias que processam ossos.
+675.862	Indústrias que processam dentes, presas,
+etc. Indústria do marfim.
+-> 688.1 Trabalho em marfim
+675.863	Indústrias que processam chifres.
+675.864	Indústrias que processam barbatanas de
+baleia.
+675.866	Indústrias que processam conchas de ostras, cascos de tartaruga.
+-> 679.92 Conchas (de animais)
+675.868	Indústrias que processam escamas de peixe. Inclusive Fabricação de pérolas de imitação.
+675.87	Outras indústrias baseadas no
+processamento de resíduos da produção de couro e pele. Inclusive Peças de pele. Resíduos do curtimento. Cal servida. Bloco de cal. Águas servidas. Soluções servidas.
+675.92	Indústria de couro artificial, de imitação.
+Os auxiliares relacionados em 675.0... não são aplicáveis em 675.92 e suas subdivisões
+Subdivisões auxiliares especiais
+675.92.01	Questões gerais de planejamento e controle do
+                                     processo. Propriedades, falhas, etc.
+675.92.02	Processos e operações de fabricação.
+675.92.022	Preparo do material ou matéria-prima.
+                                    Cominuição, dilaceração, moagem. Seleção.
+                                        Medição, Plastificação.
+675.92.023	Mistura, Preparo dos compostos (bases) de
+                                   impregnação, cementação e de reforço de
+                                    superfície ,etc.
+675.92.023.2	Mistura.
+675.92.023.4	Preparo de compostos de impregnação e
+cementação. Preparo das bases (reforçadores de
+superfície), etc.
+675.92.023.5	Preparo da base.
+675.92.024	Aquecimento. Secagem. Umedecimento.
+675.92.024.2	Aquecimento. Secagem.
+675.92.024.3	Umedecimento.
+675.92.026	Impregnação,.Cementação. Reforço da
+superfície. Revestimento e deposição de
+películas, etc., baseadas em compostos
+macromoleculares.
+->  678.026 Impregnação, revestimento e cobertura com composto macromolecular. Reforço. Impermeabilização. Ligação. Decoração, etc.
+675.92.026.2	Impregnação.
+675.92.026.3	Cementação.
+675.92.026.4	Mistura, diluição e cementação.
+675.92.026.5	Sedimentação (reforço da superfície).
+675.92.026.7	Revestimento. Deposição de películas.
+675.92.026.8	Gelação.
+675.92.027	Processos de moldagem e formação.
+675.92.027.2	Calandragem.
+675.92.027.3	Afundamento. Extrusão.
+675.92.027.4	Estiramento. Fiação.
+675.92.027.6	Moldagem por fundição e compressão.
+675.92.027.7	Corte e impressão de formas virgens.
+675.92.027.8	Concentração, ajustamento, desidratação
+da matéria- prima. Coleta de material fibroso e aglutinante.
+675.92.028	Cura, vulcanização, recuperação. Outros processos químicos.
+675.92.028.2	Vulcanização.
+675.92.028.3	Velocidade e estado da vulcanização (relações
+de calor, critérios, etc.).
+675.92.028.4	Falhas e dificuldades na vulcanização ou cura. Inclusive Aparecimento de gás. Manchas de encolhimento. Queima. 
+                              subvulcanização. Supervulcalnização.
+675.92.028.5	Desvulcanização.
+675.92.028.6	Processos de recuperação.
+675.92.028.7	Secagem e vulcanização.
+675.92.029	Processos de acabamento.
+675.92.029 dividido como 678.029
+675.92.03	Matérias-primas e produtos semi-acabados
+(produtos iniciais e intermediários).
+675.92.031	Látex cru.
+675.92.032	Coagulados. Inclusive  Borracha natural crua. Borracha em bloco. Crepe. Borracha em folhas.
+                                      675.92.032 dividido como 678.032
+675.92.033	Matérias-primas da borracha. Compostos de
+moldagem.
+675.92.035	Têxteis. Fibras. Produtos não-tecidos. Papel.
+Celulose. Resíduos. Inclusive Rejeitos da indústria do couro. Rejeitos da fabricação de calçados.
+675.92.04	Aditivos. Materiais complementares.
+      675.92.05 dividido como 678.04
+675.92.049.9	Outros aditivos menos importantes. Inclusive Agentes de reforço. Inihidores de envelhecimento. Agentes de 
+                                desenvolvimento.
+675.92.05	Máquinas e equipamento para a produção de
+couro artificial, de imitação.
+675.92.052	Equipamento para preparo de materiais.
+                                  Equipamento de cominuição. Equipamento de
+                                    seleção e agrupamento, etc.
+675.92.053	Equipamento para preparar e impregnar as
+matérias-primas. Inclusive Misturadores. Agitadores, sovadores do cemento, do aglutinante.
+675.92.054	Instalação para aquecimento e secagem.
+Dispositivos de umedecimento.
+675.92.056	Equipamento para aplicação de compostos de
+impregnação e cementação, dos materiais de
+base (reforçadores de superfície), etc.Inclusive Tanques de imersão. Espalhadores. Tanques de mistura.
+675.92.057	Equipamento, prensas para moldagem e extrusão, etc.
+675.92.058	Instalações de cura e vulcanização. Instalações
+de recuperação, reativação.
+675.92.06	Produtos acabados de couro sintético.
+675.92.06 dividido como 678.06 
+Divisões principais
+675.922	Couro sintético do tipo borracha.
+675.923	Couro sintético do tipo papelão.
+675.924	Couro plástico.
+675.925	Couro sintético com forro não-tecido.
+675.926	Couro sintético com forro tecido.
+675.927	Couro sintético com forro de papel.
+675.928	Couro sintético do tipo plástico (para sapatos, vestuário, armarinho)
+
+676 Indústria de pasta de papel, de papel e papelão
+
+Os auxiliares relacionados em 676.0... não são aplicáveis em 676.8 e suas subdivisões
+Subdivisões auxiliares especiais
+676.01	Generalidades sobre a produção de pasta
+de papel e papel. Propriedades e ensaios.
+676.011	Projeto de processo. Desenvolvimento de
+processos. Inclusive Fluxogramas. Teoria.
+676.012	Supervisão do processo. Consumo.
+Produtividade. Rendimento.
+676.012.2	Consumo de matérias-primas e materiais
+complementares.
+676.012.3	Consumo de calor. Consumo de energia.
+676.012.4	Capacidade. Produtividade.
+676.012.5	Rendimento.
+676.013	Fábrica, instalações (em geral). Inclusive Projeto, construção, fonte de energia de fábricas.
+676.014	Constituição, composição química (de
+pastas, do papel, etc.).
+676.014.2	Componentes inorgânicos (não aditivos).
+Especificar por meio de :543. ..e :546... 
+Exemplo(s) de combinacao(oes):
+      676.014.2:543.613.2 Teor de umidade ou água 
+      676.014.2:543.632.22 Cinzas. Análise das cinzas 
+      676.014.2:546.17 Teor de nitrogênio 
+      676.014.2:546.22 Teor de enxofre 
+676.014.3	Componentes orgânicos. 
+676.014.32	Grupos funcionais. Inclusive Teor de carboxila. Teor de carbonila.
+676.014.33              Monossacarídeos. Polissacarídeos.
+Especificar por meio de :547.45...
+676.014.34	Outros componentes orgânicos. Inclusive Substâncias encrustantes (não aditivas). Componentes acessórios de
+                                   madeira de baixa densidade molecular.
+Especificar por meio de :547... 
+Exemplo(s) de combinacao(oes):
+676.014.34:547.914 Bálsamos. Resinas
+676.014.36	Reação. Solubilidade. Constantes químicas. Odor. Sabor.
+-> 643.92 Reaçõs sensoriais. Teste organoléptico
+-> 66-915 Valor do pH
+676.014.361	Alvejabilidade. Grau de deslignifícação. Inclusive Número Roe de cloro. Número de permanganato. Número 
+	kapa.
+676.014.362	Reação. Acidez. Alcalinidade.
+676.014.363	Solubilidade.
+676.014.364	Odor. Sabor.
+676.014.365	Número de cobre, etc.
+676.014.4                 Aditivos, etc..Inclusive Cargas. Pigmentos. Revestimentos. Tamanho. Agentes amaciantes. 
+	Agentes impregnadores.
+676.014.8	Propriedades moleculares, estruturais e
+morfológicas.
+676.014.82	Peso molecular. Comprimento da cadeia. Grau
+de polimerização. Viscosidade.
+676.014.84	Estrutura molecular. Forças moleculares.
+Estrutura micelar e intermicelar. Cristalinidade. 
+Estrutura reticulada.
+676.017	Propriedades físicas e mecânicas e seus
+testes. Propriedades de processamento.
+Aplicabilidade, etc.
+676.017.2	Propriedades gerais físicas e mecânicas e suas
+constantes.
+676.017.22	Dimensões. Inclusive  Área. Volume.
+676.017.25	Peso. Substância (gramatura). Gravidade
+específica. Volume.
+676.017.27	Estrutura da folha. Inclusive Orientação da fibra. Estrutura capilar.
+676.017.28	Propriedades da superfície. Inclusive Maciez. Bilateralidade (duas faces).
+676.017.3	Propriedades de drenagem. Fracionamemo da
+fibra. Conteúdo de lascas. Conteúdo de fibras
+zero. Número de Schopper-Riegler. Valor livre.
+676.017.4	Propriedades de resistência.
+676.017.42	Propriedades de resistência do material como
+um todo. Inclusive Resistência à tensão, flexão, cisalhamento, dobragem, enrolamento. Resistência ao rompimento.
+                                      Especificar por meio de :539...
+676.017.43	Propriedades de resistência de regiões
+específicas.
+676.017.432	Resistência à adesão.
+676.017.435	Resistência ao desfiamento e descamação.
+676.017.44	Propriedades de resistência sob várias
+condições. Inclusive Resistência à umidade.
+676.017.5	Propriedades acústicas, ópticas, térmicas,
+elétricas e magnéticas.
+676.017.54	Propriedades acústicas.
+676.017.55	Propriedades ópticas.
+Especificar por meio de  :535... 
+Exemplo(s) de combinacao(oes):
+676.017.55:535.31 Refletância
+676.017.55:535.34 Transparência. Opacidade
+676.017.55:535.68 Perda de cor, p. ex., amarelamento
+676.017.56	Propriedades térmicas.
+Especificar por meio de :536... 
+Exemplo(s) de combinacao(oes):
+676.017.56:536.468 Combustibilidade
+676.017.57	Propriedades elétricas.
+      Especificar por meio de :537... 
+Exemplo(s) de combinacao(oes):
+      676.017.57:537.226 Propriedades dielétricas
+676.017.58	Propriedades magnéticas.
+676.017.6	Comportamento físico diante de gases e líquidos.
+676.017.62	Porosidade. Permeabilidade ao ar, gás, vapor.
+676.017.63	Propriedades de colagem em geral.
+Permeabilidade à água. Resistência à água.
+676.017.64	Permeabilidade a tintas.
+676.017.65	Permeabilidade a gorduras, óleos, terebintina,
+querosene.
+676.017.66	Absorção de água. Adsorção. Dilatação na água.
+Teste de Cobb, teste de Bendtsen, etc.
+676.017.67	Absorção de outros líquidos. Dilatação em
+líquidos, exceto água.
+676.017.68	Estabilidade dimensional. Inclusive Encolhimento. Expansão.
+676.017.7	Propriedades físicas e mecânicas de
+processamento. Aplicabilidade física.
+676.017.72	Imprimibilidade.
+676.017.73	Capacidade de fluir, escorrer.
+676.017.74	Propriedade de ser dobrado, de servir de
+embalagem, de ser moldado.
+676.017.75	Rasurabilidade. Autenticabilidade.
+676.017.76	Envemizabilidade.
+676.017.77	Lavabilidade. Filtrabilidade.
+676.017.8	Propriedades de processamento químico. Aplicabilidade química. Inclusive Capacidade de acetilação.
+                        	Capacidade de nitração. Agressividade química. Toxicidade,
+676.019	Falhas. Defeitos. Degradação.
+676.019.1	Defeitos de superfície. Falhas visíveis.
+      676.019.1 dividido como 620.191
+676.019.2	Defeitos internos. Falhas internas.
+676.019.3	Danos causados por agentes diversos.
+Resistência a ataques.
+      676.019.3 dividido como 620.193
+676.02	Processos de fabricação.
+676.021	Manipulação, tratamento prévio,
+conservação de matérias-primas fibrosas.
+      Aplicável apenas em 676. l e suas subdivisões
+676.021.2	Recepção na fábrica. Manipulação e
+armazenamento na área da fábrica.
+676.021.3	Tratamentos preparatórios.
+676.021.32	Redução a dimensões de processamento. Inclusive Cort,, serragem da madeira.
+676.021.33	Umedecimento, imersão, tratamento preliminar
+a vapor.
+676.021.34	Classificação. Limpeza. Remoção de partes
+indesejáveis. Descorticação da madeira.
+676.021.36	Cominuição. Redução a lascas. Fragmentação.
+Esmagamento.
+676.021.38	Último tratamento de lascas, fragmentos, etc.. Inclusive Limpeza. Secagem.
+676.021.8	Manipulação de materiais. Transporte para o
+local de pré-processamento, estocagem, uso. Armazenamento.
+676.022	Processos de fabricação da pasta de papel.
+Aplicáveis apenas em 676.l e suas subdivisões
+Especificar os processos por meio de -9... (de 66-9...)
+676.022.2	Tratamento preliminar (antes do moedor, do
+digestor, etc.).
+676.022.3	Alimentação, carga do equipamento de fabricar pasta. Inclusive Alimentação. Embalagem.
+676.022.4	Fabricação mecânica da pasta (em moedores,
+desfibradores, etc.).
+676.022.43	Moagem de toras.
+676.022.44	Desfibração de lascas.
+676.022.48	Processos mecânicos diversos de fabricação da pasta. Inclusive Fabricação de pasta por explosão, por escovas rotativas, 
+	por ultra-som. Moagem por martelo.
+676.022.6	Fabricação química de pasta. Outros métodos
+de fabricação de pasta.
+676.022.61	Tratamento prévio no digestor. Pré-hidrólise.
+Impregnação. Difusão. Evacuação.
+676.022.62	Digestão e cozimento. Fatores que influem na digestão. Inclusive Circulação da solução, do vapor. Volume da solução. Proporção de lascas na solução. Temperatura. Tempo.
+676.023.l		Alvejamento. Processo de alvejamento. Inclusive Temperatura, tempo de alvejantento.
+676.024	Pós-tratamento mecânico. Manipulação de
+pastas fluidas. Preparação da matéria-prima de papel e papelão.
+676.024.l		Manipulação da matéria-prima fluida. Sistemas
+de fluxo.
+676.024.13	Bombeamento e transporte.
+676.024.14	Espessamento. Eliminação da água. Diluição.
+676.024.15	Divisão proporcional. Medição.
+676.024.16	Armazenamento durante o processo.
+676.024.17	Mistura. Agitação.
+676.024.2	Lavagem. Lavagem no digestor.
+676.024.3	Dispersão da fibra (antes de lavar, filtrar, etc.)
+Dispersão do papel de refugo.
+676.024.4	Separação da sujeira. Filtração e limpeza.
+Retirada de manchas. Fracionamento.
+676.024.5	Desintegração das lâminas de polpa, do papel
+de refugo, de quebras e aparas, etc.Inclusive Imersão. Desfibração.
+676.024.6	Sova e refinação.
+676.024.7	Tratamento químico da matéria-prima.
+Acréscimo de aditivos e componentes não-
+fibrosos.
+676.024.72	Coloração. Tingimento (nas matérias-primas).
+Alvejamento óptico.
+-> 667.2 Indústria de pigmentos. Fabricação e uso de pigmentos
+676.024.73	Carga. Enchimento.
+676.024.74	Colagem (nas matérias-primas e no estado
+úmido).
+676.024.76	Acréscimo de aditivos para melhorar as propriedades do papel. Inclusive Para melhorar as propriedades de absorção, 
+                                    maciez, opacidade, brancura, preservação (durabilidade).
+676.024.78	Acéscimo de aditivos para combater problemas
+de fabricação. Inclusive
+ Para melhorar a eliminação de água, a drenagem. Para evitar a formação de lodo, de espuma.
+676.024.82	Desarejamento.
+676.026	Produção de pasta, papel e papelão.
+676.026.1	Fluxo e sistemas de fluxo no fluxo de
+abordagem e na extremidade molhada. Inclusive Dispersão, distribuição, concentração do fluxo. Fluxo na caixa de
+material, no depósito da máquina.
+676.026.2	Formação e drenagem de água na tela de arame.
+676.026.21	Teoria da formação. Fatores que influem na formação. Inclusive Drenagem na tela de arame. Orientação da fibra. Influência do movimento de sacudida. Adesão da fibra, Influência da sucção.
+676.026.22	Fabricação de papel à mão.Inclusive Marca d´água
+-> 676.026.4 Prensagem e remoção de águas nas prensas. Marca d´água Molette
+-> 676.026.74 Modelagem
+676.026.23	Fabricação de papel em máquinas de
+Fourdrinier.
+676.026.24	Fabricação de papel em máquinas de cilindros
+(máquinas de tambores).
+676.026.25	Fabricação de papel em máquinas combinadas. Inclusive Combinada Yankee MG. Combinada de cilindro.
+676.026.26	Fabricação de papel em outras máquinas para processos úmidos. Inclusive Em máquinas que não funcionam pelo processo úmido.
+676.026.27	Fabricação de papel por processos secos
+(feltragem por ar).
+676.026.3	Transferência e tração da folha.
+676.026.4	Prensagem e remoção de água nas prensas.
+Marca d'água Molette.
+->  676.026.22 Fabricação de papel à mão
+->  676.026.74 Modelagem
+676.026.5	Secagem. Remoção de vapor e condensados. Resfriamento.
+676.026.52	Transferência de água da folha para o ar.
+676.026.53	Remoção da umidade dos feltros. Sistema de
+secagem do feltro inferior.
+676.026.54	Remoção de condensado dos cilindros.
+Remoção do ar úmido da sala de máquinas.
+Aquecimento e ventilação. Resfriamento.
+676.026.7	Tratamento da folha, na máquina e
+fora da máquina.
+676.026.71	Amaciamento. Calandragem.
+676.026.72	Melhoria da superfície e outros tratamentos de
+proteção.
+-> 667.6/.7 Melhoria da superfície e outros tratamentos de proteção
+676.026.721	Tingimento da superfície.
+676.026.722	Colagem.
+676.026.723	Revestimento. Proteção da superfície. Inclusive Revestimento por imersão. Revestimento por escovamento. 
+	Revestimento por lâmina. Revestimento por pulverização. Revestimento por bobinagem. Revestimento eletrostático. Betuminação. Enceramento. 
+Revestimento com solvente.
+676.026.724	Proteção interna. Inclusive Impregnação. Saturação. Apergaminhação. Vulcanização.
+676.026.73	Laminação de papel e camadas de papelão.
+Laminação de papel e papelão com películas,
+filmes metálicos.
+Métodos adesivos. Métodos de fusão quente. Adesão por calor e pressão.
+676.026.74	Modelagem. Inclusive Relevo. Marca s d 'água de imitação. Granulação. Marmoração. Aplicação de superfície abrasiva. 
+                                    Aplicação de flocos, de veludo.
+676.026.75	Elastificação do papel. Processos para tornar o papel esticável. Inclusive Papel-crepom.
+676.026.76	Compressão. Consolidação (p. ex.,
+consolidação da fibra de papelão).
+676.026.77	Condicionamento e umedecimento. Maturação.
+676.028	Acabamento. Tratamento posterior.
+676.028.2	Desenrolamento e reenrolamento. Divisão e
+ligação da bobina.
+676.028.3	Recorte do rolo (reenrolamento).
+676.028.4	Manipulação de folhas. Inclusive Corte. Apara. Contagem. Seleção. Dobragem.
+676.028.6	Embalagem de rolos, folhas, etc.
+-> 621.798  Equipamento de acondicionamento  e embalagem
+676.028.8	Empilhamento, armazenamento e manipulação
+antes do despacho.
+676.03	Matérias-primas fibrosas.
+676.031	Madeira dura. Madeira de árvores decíduas,
+latifoliadas.
+676.031 dividido  como  674.031
+676.032	Madeira mole. Madeira de coníferas.
+676.032 dividido como 674.032
+676.034	Outras fibras vegetais além da madeira.
+676.034.2	Gramíneas, palha ,etc..
+676.034.22	Palha de cereais.
+676.034.23	Esparto. Alfa.
+676.034.24	Linho. Cânhamo. Juta. Rami.
+676.034.25	Cana-de-açúcar (bagaço).
+676.034.26	Bambu.
+676.034.27	Caniços.
+676.034.4	Fibras do floema e da casca. Inclusive Kozo. Mitsumata. Gumpi.
+676.034.5	Fibras de folhas. Inclusive Sisal. Cânhamo-de-manilha. Linho-da-nava-zelândia. Tabaco.
+676.034.6	Fibras de sementes. Inclusive Línteres.
+676.034.8	Outras fibras vegetais. Inclusive Outros resíduos agrícolas, além da palha. Algas marinhas. Turfa. Fibras meio-
+                                    fossilizadas. Fibras fossilizadas.
+676.035	Fibras orgânicas sintéticas e regeneradas.
+676.036	Fibras inorgânicas.
+676.038	Resíduos e fibras secundárias.
+676.038.2	Papel-velho. Papelão usado. Quebras e aparas.
+676.038.3	Trapos e resíduos têxteis (inclusive de lã e seda).
+676.038.4	Resíduos da madeira. Inclusive Serragem. Aparas. Lascas de cascas de árvore.
+676.04	Matérias-primas e aditivos não-fibrosos.
+Agentes de processamento.
+      Especificar os materiais por meio de :54..., :55.,., :66..., :67... 
+Exemplo(s) de combinacao(oes):
+676.04:663.63 Água de processamento
+676.041		Materiais complementares e aditivos para
+pré-tratamento de matéria-prima fibrosa.
+676.042	Produtos químicos e aditivos para
+fabricação de pasta de papel. Inclusive Hidróxido de sódio. Sulfito de sódio. Bissulfito de cálcio. Calcário.
+676.043	Agentes de alvejamento. Inclusive Compostos de cloro. Hipoclorito de cálcio.
+676.044	Aditivos usados no pós-tratamento
+mecânico, no preparo da massa, etc. Agentes
+para lavar, secar, encorpar, colar (p. ex.,
+caulim para encorpamento). Agentes para
+melhorar as propriedades do papel. Para
+evitar a formação de espuma.
+676.046	Aditivos para aprimorar a eliminação da
+água, drenagem na tela de arame. Agentes para melhorar a superfície do papel. Para colagem da superfície. Para revestimento, enceramento, envernizamento, laqueamento. Para impregnação. Para laminação (p. ex., goma para laminação de papelão).
+676.05	Equipamento, máquinas para produção de polpa, papel e papelão.
+676.05 se subdivide, em geral, como 676.02,  do qual se podem derivar as subdivisões adicionais
+676.051	Equipamento, máquinas para manipulação,
+tratamento prévio e armazenamento de
+matérias-primas (pasta de madeira, fibras
+vegetais, etc.).
+676.051.2	Equipamento, máquinas para recepção na
+fábrica, para manipulação e armazenamento
+na fábrica.
+676.051.3	Equipamento, máquinas para tratamento
+preparatório.
+676.051.32	Equipamento, máquinas para redução ao
+tamanho de processamento. Inclusive Rachadores. Serrotes.
+676.051.33	Equipamento, máquinas para umedecimento.
+impregnação, tratamento a vapor.
+676.051.34	Equipamento, máquinas para selecionar,
+limpar, descorticar. Inclusive Tambores de lavagem para madeira. Agitadores de tropos.
+676.051.36	Equipamento, máquinas para cominuição. Inclusive Lascadores. Cortadores em tiras. Esmagadores.
+676.051.38	Equipamento, máquinas para seleção, limpeza,
+secagem de lascas, trapos,. palha cortada, etc. Telas de lascas. Limpadores. Espanadores. Secadores. Prensas.
+676.051.8	Equipamento, máquinas, para manipulação de
+materiais, para transporte ao lugar de armazenamento, de uso, etc..Inclusive Transportadores. Elevadores.
+Vasilhames de armazenamento, Silos.
+676.052	Equipamento, máquinas para processos de
+fabricação de pasta.
+676.052.l	Equipamento, máquinas para preparo da
+solução, do cozimento, etc..
+Exemplo(s) de combinacao(oes):
+676.052.l:66.023.23 Torres de absorção 
+676.052.l:66.045.lTrocadorcs de calor 
+676.052.1:66.067.3 Filtros
+676.052.2	Equipamento, máquinas para tratamento
+preliminar (antes da moagem. Digestão, etc.). Inclusive Vasilhames para tratamento a vapor. Câmaras de pressão.
+676.052.3	Equipamento, máquinas para alimentação de
+moinhos, digestores, etc. Inclusive Embaladores de lascas. Distribuidores de lascas.
+676.052.4	Equipamento, máquinas para fabricação mecânica de pasta. Inclusive Moedores. Desfibradores.
+Moinhos a martelo.
+676.052.6	Digestores.
+676.053.1	Equipamento, máquinas para alvejamcnto da pasta. Inclusive Holandesas de alvejamento.
+Torres de alvejamento
+676.054.l	Equipamento, máquinas para pós-tratamcnto
+mecânico. Equipamento, máquinas para manipulação da pasta fluida, de suspensões do material usinado. Espessadores.
+676.54.2	Equipamento, máquinas para lavagem de pasta. Inclusive Tambores de lavagem. Filtros de lavagem. Difusores. Filtros a 
+	vácuo.
+676.054.3	Equipamento, máquinas para dispersão de fibra
+(antes da lavagem, filtração, etc.).
+676.054.4	Equipamento, máquinas para separação da
+sujeira, para seleção e limpeza, para Racionamento. Inclusive Atadeiras. Armadilhas de areia.
+676.054.5	Desintegradores e tacionadores para folhas de
+polpa, papel-velho, quebras e aparas, etc. Inclusive Máquinas de maceração. Maceradores hidráulicos. Kollergangs. Desfibradores.
+676.054.6	Batedores. Refinadores.
+676.054.65	Batedores. Inclusive Holandesas. Moinhos axiais. Batedores de Jordan.
+676.054.66	Refinadores. Encrespadores.
+676.054.7	Equipamento, máquinas para tratamento
+químico do material, para adição de
+encorpadores e aditivos, para tingimento,
+encorpamento, colagem.
+676.054.72	Equipamento, máquinas para preparo e adição
+de soluções corantes.
+676.054.73	Equipamento, máquinas para preparo e adição
+de cargas, encorpadores.
+676.054.74	Equipamento, máquinas para preparo e adição
+de cola (na massa).
+676.054.82	Desarejadores.
+676.056	Equipamento, máquinas para fabricação das
+folhas. Maquinas de papel. Máquinas de papelão.
+676.056.l	Equipamento, máquinas para fluxo de acesso. Inclusive Caixas de retenção. Depósitos de máquinas.
+676.056.22	Equipamento para fabricação manual de papel. Inclusive Moldes. Formas.
+676.056.23	Máquinas de Fourdrinier.
+676.056.24	Máquinas de cilindro (máquinas de tonel).
+676.056.25	Máquinas combinadas.
+676.056.26	Outras máquinas para processos úmidos.
+676.056.27	Máquinas para processos secos, para feltragem a ar.
+676.056.3	Máquinas, equipamento para formação de
+folha, para a base, para transferência
+e tiragem da folha.
+676.056.31	Para formação de papelão. Caixas de sucção.
+Equipamento de agitação, para orientação da
+fibra
+676.056.32	Rolos de base. Rolos de base por sucção. Rolos
+de filigranagem. Rolos de marca d 'água. Rolos
+de transferência.
+676.056.34	Captadores.
+676.056.38	Equipamento, máquinas para laminação de
+folhas, dobras.
+676.056.4	Equipamento, máquinas para prensagem e
+remoção de água nas prensas, para marca
+d'água Molette.
+676.056.42	Rolos extratores. Prensas de base. Prensa de
+placa. Prensas de sucção. Prensas de amaciamento, Rolete. Manchones. Prensas de
+reversão.
+676.056.45	Telas de arame para máquinas de papel e
+máquinas de papelão. Equipamento para telas.
+676.056.46	Feltros para máquinas de papel e máquinas de
+papelão. Equipamento para feltros.
+676.056.47	Equipamento para guiar, dirigir a bobina de
+papel. Inclusive Rolos bailarinos.
+676.056.48	Equipamento complementar. Inclusive Tiras de molde. Pranchas de molde. Defletores. Doutores (ferramentas). 
+	Transportadores  corda. Indicadores de quebra. Dispositivos de alarme. Aparelho para evitar eletricidade estática.
+676.056.49	Maquinismo para circulação da água represada,
+água branca. Recipiente para recolher líquidos
+derramados etc..
+676.056.5	Equipamento, máquinas para secar. Secadores.
+676.056.7	Equipamento, máquinas para tratamento de
+folha.
+676.056.71	Equipamento, máquinas para amaciamento.
+Calandras, cilindros, prensas para acabamento.
+676.056.72	Equipamento, máquinas para aprimoramento
+da superfície e tratamento protetor com
+produtos químicos. Inclusive P ara coloração, colagem, revestimento da superfície.
+676.056.73	Laminadores. Prensas quentes, etc.
+676.056.74	Equipamento, máquinas para padronagem. Inclusive Dispositivos para relevo, para
+marmorização.
+676.056.752	Máquinas para fazer papel-crepom, etc..
+676.056.77	Condicionadores para pasta, para foi hás de
+papel e papelão.
+676.058	Equipamento, máquinas para acabamento,
+corte, apara, embalagem etc. do rolo.
+676.058.l	Desenroladores. Reenroladores. Cortadores.
+Dispositivos para mudar o rolo.
+676.058.2	Fendedores.
+676.058.3	Cortadores. Aparadores. Dispositivos de
+contagem. Classificadores. Dispositivos
+para dobrar.
+676.058.6	Equipamento, máquinas para embalagem de
+rolos, folhas , etc.. Inclusive Enfardadores.
+676.058.8	Equipamento, máquinas para empilhamento,
+estocagem,etc..
+676.06	Produtos segundo características e
+propriedades especificas.
+676.062	Produtos segundo a estabilidade e
+durabilidade total. Papel permanente durável, etc.
+Exemplo(s) de combinacao(oes):
+      676.062.014.362 pH de produtos permanentes/duráveis 
+      676.062.017.42:539.416 Resistência à dobragem de produtos permanentes duráveis
+676.64	Produtos segundo as principais características físicas e químicas. Produtos segundo a composição.
+      676.064. l e 676.064.2 devem ser usados apenas quando o número principal não fizer distinção entre papel e papelão 
+                                  Exemplo(s) de combinacao(oes):
+676.237.064.2 Papelão de desenhar
+676.064.1	Papel.
+676.064.2	Papelão.
+676.064.4	Produtos isentos de madeira.
+676.064.5	Produtos que contêm madeira.
+676.064.7	Produtos de camada única.
+676.064.8	Produtos de camada dupla. Produtos de
+camadas múltiplas.
+-> 676.264 Papel e cartolina laminados. Papéis com duas ou mais camadas. Papel e cartolina laqueados
+676.065	Produtos segundo as propriedades de
+alvejamento e cor.
+676.065.l	Produtos não-alvejados.
+676.065.2	Produtos alvejados.
+676.065.5	Produtos não-coloridos (de superfície sem
+tintura ou cor).
+676.065.6	Produtos coloridos (tingidos, etc,).
+676.067	Produtos segundo as características de
+tratamento dado à folha.
+676.067.l	Segundo o acabamento.
+676.067.11	Produtos não-calandrados.
+676.067.13	Produtos de acabamento à máquina.
+676.067.14	Produtos com brilho de máquina.
+676.067.15	Produtos supercalandrados.
+676.067.16	Produtos com acabamento brilhante (sem
+revestimento).
+676.067.2	Segundo o aperfeiçoamento, a proteção da
+superfície.
+676.067.21	Produtos sem colagem.
+676.067.22	Produtos com colagem.
+676.067.23	Produtos não-revestidos.
+676.067.24	Produtos revestidos (sem calandragem de
+brilho).
+      -> 676.226 Papéis revestidos para impressão
+      -> 676.26 Papel revestido. Papel laminado. Papel resistente à umidade. Papel impregnado. Papel decorativo
+676.067.25	Produtos revestidos com acabamento de
+supercalandragem ou alto brilho.
+676.067.4	Segundo a pautação (p. ex., pautado,
+milimetrado). Segundo a marca d'água.
+676.08	Recuperação de solução servida.
+Regeneração de produtos químicos.
+Eliminação de refugos. Subprodutos.
+Tratamento de efluentes.
+676.082	Soluções servidas (sem tratamento) e sua
+utilização. Recuperação dos produtos
+químicos empregados no preparo da pasta e
+no alvejamento. Regeneração. Composição. Inclusive Solução verde. Solução branca.
+676.083	Subprodutos da fabricação de pasta obtidos
+pelos processos de fermentação. Inclusive Álcoois. Ácidos orgânicos.
+676.084	Ácidos lignossulfônicos. Lignossulfonatos. Produtos de degradação de ácidos
+                                    lignossulfônicos,
+676.085	Óleo tall. Escuma de óleo tal). Produtos do escape de gases do digestor.
+-> 665.947.3 Resinas de polpas de celulose. Resina líquida. Óleo alto (tall oil, subaproduto resinoso da polpa de papel)
+676.087	Recuperação de calor e vapor.
+676.088	Tratamento e eliminação de efluentes.
+Recuperação de fibras, encorpadores, cola, etc. Tratamento e eliminação de gases residuais.
+Especificar por meio de : 628.5... 
+Divisões principais
+676.1	Pastas de papel.
+676.15	Pastas mecânicas. Pastas de madeira.
+676.153	Pastas de madeira moída.
+676.154	Pasta mecânica de lascas.
+676.157	Pasta mecânica de outros processos.
+676.16	Pastas químicas. Pastas semiquímicas.
+Outras pastas que não são exclusivamente
+mecânicas.
+-> 661.728 Celulose e seus derivados
+676.163	Pastas de sulfito. Inclusive Pasta de bissulfito. Pasta ácida.
+676.164	Pastas preparadas por processos alcalinos. Inclusive Pastas de sulfato. Pastas kraft. Pastas de soda, cal e outros álcalis.
+676.166	Outras pastas químicas. Inclusive Pasta preparada por outros métodos ácidos, pelo uso de cloro, pelo uso
+                                   de solventes orgânicos, por fabricação hidrotrópica.
+676.168	Outros tipos de pasta.
+676.2	Papel, cartolina e papelão.
+676.22	Papel e papelão para impressão.
+Exemplo(s) de combinacao(oes):
+676.22:655.32 Papel para impressão tipográfica 
+676.22:655.344 Papel para impressão litográfíca offset 
+676.22:655.35 Papel para impressão de gravuras
+      -> 686.8 Equipamento de escritório. Artigos de papelaria. Acessórios para escrever, para desenhar e para artistas
+676.222	Papel de jornal.
+676.223	Papéis para livros e revistas.
+676.224	Papéis para impressão especial.
+676.224.l	Papel muito leve. Papel-da-china. Papel-bíblia.
+676.224.2	Papel de cheque (papel de segurança).
+Papel para cédulas, notas de dinheiro.
+Papel para selo.
+676.224.3	Papel para mapas.
+676.224.4	Papel para impressão de partituras musicais.
+676.224.5	Papel para impressão de rótulos, de etiquetas.
+676.224.9	Outros papéis para impressão especial. Inclusive Papel para impressão de luxo.
+676.226	Papéis revestidos para impressão.
+-> 676.26 Papel revestido. Papel laminado. Papel resistente à umidade. Papel impregnado. Papel decorativo
+676.227	Cartolina, papelão para impressão. Inclusive Cartolina, cartão-marfim. Cartão brístol. Cartolina para desenho. 
+	Cartolina para cartão de visitas.
+676.23	Papel de escrever. Papel e cartolina para desenhar, etc.
+-> 686.8 Equipamento de escritório. Artigos de papelaria. Acessórios para escrever, para desenhar e para artistas
+676.232	Papel de escrever. Papel de rascunho. Papel
+de cópia. Papel para anotações. Papel-bond, etc.
+676.233	Papel para livros de contabilidade, etc.
+676.234	Papel de datilografia. Papel para cartas
+aéreas, etc.
+676.236	Papel esta m pilhado.
+676.237	Papel e cartolina para desenho. Papel para
+aquarela. Papel para lápis de cera.
+-> 744.36 Materiais de desenho
+676.24	Papel à prova de gordura para embalar e
+embrulhar.
+-> 621.798.15 Recipientes e envoltórios flexíveis
+676.242	Papel-celofane. Papel à prova de gordura.
+-> 676.266.2 Pergaminho vegetal. Papel vegetal
+676.242.2	Papel-celofane. Papel transparente. Papel de
+decalque.
+676.242.3	Papel impermeável à gordura. Pergaminho.
+Papel-manteiga.
+676.244	Papel pardo, para ensacar. Papel para saco.
+Papel de embrulho.
+676.248	Tipos especiais de papel para embalagem e
+embrulho.
+676.25	Papel higiênico. Papéis para diversos usos
+industriais e outros usos.
+676.252	Papel higiênico. Papel absorvente.
+676.252.2	Papel-toalha. Papel para lavatórios. Papel de
+guardanapo. Papéis para limpeza facial.
+Chumaços de celulose.
+-> 676.267.6 Papel-crepe. Papel-crepom
+676.252.3	Papel de mata-borrão. Papel-filtro.
+676.252.32	Papel e cartolina mata-borrão.
+-> 686.851 Mata-borrões
+676.252.33	Papel e cartolina para filtro. Inclusive Papel para cromatografia. Papel para eletroforese. Papel para ftltração de
+                                ar e gás.
+676.254	Papel para finalidades elétricas.
+676.254.2	Papel com propriedades de isolante elétrico.
+676.254.22            Papel de isolamento elétrico.
+676.254.24	Papel de condensador. Papel de capacitor.
+676.254.26	Papel para fios.
+676.254.4	Papel condutor de eletricidade.
+676.255	Papel de cigarro. Outros papéis para a
+indústria do fumo.
+676.256	Papel de base para vários fins. Inclusive Papel fotossensivel, com sensibilidade à luz. Papel de base para papel-
+                               carbono. 
+	Exemplo(s) de combinacao(oes):
+      676.256:691.145 Papel de base para papel de parede
+676.258	Papéis para outros usos industriais. Inclusive Papéis indicadores para reações químicas (p. ex., papel de tornassol). 
+	Substitutos têxteis. Papéis tecidos, Não-tecidos.
+676.26	Papel revestido. Papel laminado. Papel
+resistente à umidade. Papel impregnado.
+Papel decorativo.
+-> 676.226 Papéis revestidos para impressão
+676.262	Papel e papelão revestidos (em geral). Inclusive Papel-cromo. Papel artístico. Papel fotográfico (sensível à luz, papel 
+                                 fotossensivel). Papel heliográfico.
+676.263	Papel revestido para cópia e transferência.
+Papel e papelão adesivos, encerados e
+redutores de adesão.
+676.263.2	Papel revestido para cópia. Papel de
+computador.
+676.263.3	Papel-carbono e outros papéis de cópia. Inclusive Papel-carbono (com revestimento de pigmento). Papel 
+	impregnado de carbono ( papel de cópia 'sem carbono').
+676.263.4	Papel de transferência, decalque. Inclusive Papel de decalcomania.
+676.263.5	Papel adesivo e outros papéis colantes. Inclusive Papéis para rótulos, etiquetas e cartazes. Papel gomado. Papel 
+	auto-adesivo.
+676.263.6	Papel com redução de adesão. Papel para soltar
+superfícies aderidas.
+676.263.8	Papel e papelão encerados e parafinados.
+676.264	Papel e cartolina laminados. Papéis com
+duas ou mais camadas. Papel e cartolina
+laqueados.
+Exemplo(s) de combinação(ões}:
+676.264:669 Papel com lâmina metalizada
+-> 676.064.8 Produtos de camada dupla. Produtos de camadas múltiplas
+-> 686.126 Colagem de papel e outros materiais em papel, papelão, etc.. Plastificação (com película transparente; com película metalizada), etc.
+676.265	Papéis revestidos com pó, flocos , etc. Inclusive Papéis abrasivos (Papel de carborundo. Lixa. Papel de esmeril. 
+	Papel de vidro). Papel com flocos. Papel aveludado.
+676.266	Papel resistente à umidade. Papel
+impregnado, etc.
+676.266.2	Pergaminho vegetal. Papel vegetal.
+676.266.3	Papel resistente à umidade.
+676.266.4	Papel oleado, etc.
+676.266.7	Papel alcatroado. Papel betumado, etc.
+676.267	Papéis decorativos (tratados por
+meios mecânicos).
+676.267.2	Papel de fantasia. Inclusive Papel marmorizado.
+676.267.6	Papel-crepe. Papel-crepom.
+-> 676.252.2 Papel-toalha. Papel para lavatórios. Papel de guardanapo. Papéis para limpeza facial. Chumaços de celulose
+676.267.7	Papel em relevo, papel gofrado.
+676.27	Papelão.
+-> 676.227 Cartolina, papelão para impressão
+-> 676.262 Papel e papelão revestidos (em geral)
+-> 676.264 Papel e cartolina laminados. Papéis com duas ou mais camadas. Papel e cartolina laqueados
+676.272	Papelão para caixas. Papelão dobrável
+para caixas.
+676.273	Papelão de fibras sólidas para recipientes.
+Papelão ondulado.
+676.274	Meio de corrugação. Caneluras. Papelão
+para forro. Papelão kraft para forro.
+676.275	Papelão encorpado para encadernação.
+676.277	Papelão prensado. Papelão polido.
+Presspahn. Produtos moldados.
+676.278	Outros papelões.
+676.28	Papelão fibroso para construção. Papelão
+duro. Papelão de parede. Papelão-feltro
+para telhado e assoalho.
+->  691.14 Papel. Produtos de polpa de papel
+676.282	Papelão duro (prensado) para construção.
+676.283	Papelão mole (não-prensado) para
+construção.
+676.284	Papelão isolante.
+676.285	Papelão acústico.
+676.287	Papelão feltrado para telhado. Papelão
+feltrado para assoalho.
+676.8	Artigos de papel. Indústria de
+papelão. Objetos feitos de papel ou papelão.
+  Os auxiliares relacionados em 676.0... não são aplicáveis em 676.8 e suas subdivisões
+676.81	Objetos feitos de papel cortado ou
+cartolina fina.
+Subdivisões auxiliares especiais
+676.81.02	Métodos de produção.
+676.81.02 dividido como 676.81.05
+676.81.05	Equipamento e máquinas.
+676.81.052	Equipamento e máquinas para estampar papel.
+Moldes para estampagem. Cortadores
+longitudinais e transversais.
+676.81.053	Equipamento e máquinas para perfurar. Inclusive Perfuradores. Dispositivos para furar.
+676.81.054	Equipamento e máquinas para vergar, dobrar,
+                                encrespar. Dispositivos para emendas por
+                              encrespação, recorte, perfuração.
+676.81.055	Máquinas para gofrar. Máquinas para preguear
+                               (p. ex., para produção de abajures e guirlandas
+                               de papel).
+676.81.056	Equipamento e máquinas para enformar,
+                                 prensar, gofrar.
+676.81.057	Equipamento e máquinas para corte de franjas e
+                                 para aparar extremidades e bordas.
+676.81.058	Equipamento e máquinas para aplicação de
+                                adesivos. Máquinas para aplicar goma ou cola.
+Divisões principais
+676.811	Etiquetas adesivas. Etiquetas de amarrar.
+676.812	Bandeirolas de papel. Flocos de papel.
+Confete.
+-> 688.756  Acessórios para festas, festividades públicas, etc.
+676.813	Tipos comuns de cartão cortado, cartões de
+visitas, etc. Cartões postais. Cartões postais
+com pinturas.
+676.814	Cartas de jogar.
+676.815	Cartões para perfuração. Cartões
+perfurados.
+676.815.2	Cartões perfurados para recuperação manual da
+informação. Cartões perfurados nas margens, com fendas, etc. Cartões de coincidência óptica.
+      -> 686.846 Equipamento para fichários, índices manuais que empregam cartões perfurados
+676.815.4	Cartões perfurados para controle de máquinas
+(p. ex., de máquinas de contabilidade, máquinas
+têxteis).
+-> 677.054.87 Equipamento, máquinas para impressão de cartões
+-> 681.327.45 Equipamento de cartões perfurados ou gravados em relevo
+676.816	Fitas de papel. Rolos de papel.
+676.816.2	Fitas de papel adesivo. Fitas para lacrar.
+676.816.3	Rotos de papel para telegrafia (fita para
+teleimpressoras, aparelhos de telex).
+676.816.5	Rolos de papel para perfuração. Rolos para
+máquinas de fitas perfuradas (p. ex.. máquinas
+dalilográficas de fita de papel, máquinas de contabilidade),
+-> 681.327.44 Equipamento de fitas perfuradas ou gravadas (em relevo)
+676.816.6	Rolos de papel para fiação de fichas de papel, etc..
+-> 677.5 Fibras minerais e metálicas. Matérias para trançar. Fios de borracha. Fios de papel
+676.816.8	Serpentinas de papel.
+-> 688.756 Acessórios para festa, festividades públicas, etc.
+676.817	Papel rendado. Renda de imitação. Papel
+perfurado.
+676.818	Papel e papelão para formulários, bilhetes,
+tíquetes, selos postais, recibos, etc.
+676.82	Objetos de papel ou cartolina dobrados e
+colados.
+676.82.05	Equipamento e máquinas.
+676.821	Sacos de papel. Sacolas de papel. Bolsas de
+papel.
+-> 621.798.15 Recipiente e envoltórios flexíveis
+676.822	Envelopes. Cartões para correspondência,
+etc.
+676.823	Caixas para documentos.
+676.824	Recipientes de papel dobrado ou prensado.
+Pastas de arquivo.
+676.825	Abajures de papel dobrado.
+676.826	Envoltórios.
+676.828	Copos de papel dobrado.
+676.83	Objetos de papel ou cartolina, em rolos e colados. Inclusive Tubos. Carretéis. Bobinas. Cones
+de papel. Abajures cônicos.
+Subdivisões auxiliares especiais
+676.83.05	Máquinas.
+676.83.052	Máquinas de bobinagem de tubos. Dispositivos de corte.
+Divisões principais
+676.84	Objetos montados de papel ou papelão em geral. Inclusive Caixas de papelão.
+Subdivisões auxiliares especiais
+676.84.02	Métodos de produção.
+676.84.02 dividido como 676.84.05
+676.84.05	Maquinaria e equipamento.
+676.84.051	Equipamento, máquinas para processos
+preparatórios.
+676.84.051.1	Equipamento, máquinas para traçar, vincar sem
+vergar, dentear, fazer ranhuras e entalhes (sem
+aparas), cisalhar, dividir (sem aparas), cortar
+bordas, pautar, arquear, vergar, perfilar.
+Dispositivos combinados.
+676.84.051.2	Equipamento, máquinas para vergar papelão
+para produzir ranhuras e sulcos. Equipamento,
+máquinas para prensar, para encrespar.
+676.84.051.3	Equipamento, máquinas para estampar, furar,
+perfurar. Equipamento, máquinas para cortar,
+fazer formas, fazer ranhuras (com aparas), etc.
+676.84.051.5	Equipamento, máquinas para produzir recortes
+completos para caixas. Máquinas de prensagem e estampagem automáticas.
+676.84.052	Equipamento, máquinas para montagem de
+caixas de papelão, etc.
+676.84.052.1	Máquinas de caixas de papelão em geral.
+Máquinas para dobrar, dar forma. Dispositivos
+para colar (com a montagem).
+676.84.052.2	Equipamento, máquinas para produzir caixas
+com gavetas, prateleiras. Inclusive Máquinas para caixas de fósforos.
+676.84.052.3           Prensas de gofragem e estampagem para caixas.
+676.84.053	Equipamento, maquinas para montagem com fechos de metal (com rebites, grampos, etc.).
+676.84.054	Equipamento, máquinas para aplicação de cola. Inclusive Para peças de cobertura, forro, bordas e cantos.
+676.84.059	Equipamento, máquinas para acabamento.
+Divisões principais
+676.85	Objetos feitos de papel e papelão em
+folhas, estampadas e moldadas.
+Tampas estampadas de garrafa.
+Caixas, estojos estampados.
+676.86	Objetos moldados de pasta de papel.
+676.861	Objetos de papelão laqueado.
+Caixas, escrínios, móveis de papelão laqueado.
+676.863	Imagens, estuque, ornamentos, de pasta de
+papel.
+676.865	Objetos sólidos de pasta de papel.
+676.866	Objetos planos de pasta de papel.
+676.867	Objetos em disco, côncavos, de pasta de papel. Inclusive Pratos. Travessas.
+676.868	Objetos ocos diversos de pasta de papel. Inclusive Recipientes, canecas, garrafas.
+                                   	Baldes, bacias. Objetos tubulares de pasta de papel: bobinas, carretéis, piteiras, etc.
+676.87	Objetos diversos impregnados ou
+quimicamente tratados.
+676.872	Artigos de fibra vulcanizada.
+676.874	Recipientes de papel à prova d'água, à prova
+de gordura, passíveis de ir a fervura.
+ 
+
+677 Indústria têxtil
+
+      -> Indústria do vestuário. Confecção de artigos de vestuário. Cosmetologia
+      Especificar as máquinas e processos têxteis por meio de  -1/-9 (de 62-1/-8 e 66-9). As subdivisões de -48
+      estão indicadas aqui.
+Subdivisões auxiliares especiais
+677-48	Formas e moldes de materiais têxteis.
+677-485	Solução para fiação.
+677-486	Formas e tipos das fibras e filamentos.
+677-486.l	Fibras curtas naturais ou fibras têxteis
+cortadas.
+677-486.2	Filamentos contínuos.
+677-486.3	Materiais fibrosos perfilados e ocos.
+677-486.31	Perfilados.
+677-486.32	Ocos.
+677-486.4	Formas de material fibroso.
+677-486.411         Reto. Esticado.
+677-486.412	Enrugado. Enrolado.
+677-486.5	Material fibroso em forma de flocos.
+677-486.6	Materiais fibrosos em forma de velo. Trama.
+677-486.7	Materiais Fibrosos em forma de fibras soltas.
+677-486.8	Fios preliminares. Fiação preliminar.
+677-487	Formas e tipos dos fios.
+677-487.1	Monofilamento.
+677-487.2	Multifilamento.
+677-487.5	Formas de embalagem dos fios.
+677-487.51	Soltos.
+677-487.511	Em rolos.
+677-487.512	Novelos.
+677-487.513	Tortas.
+677-487.52	Embalagens formadas em tubos, cilindros do
+tear, etc.
+677-488	Formas do tecido, inclusive película.
+677-488.2	Tecido simples.
+677-488.3	Tecido felpudo.
+677-489	Misturas de fibras.
+677.01	Generalidades sobre a indústria têxtil.
+Propriedades, defeitos e testes de
+materiais têxteis. Exame de corantes, de
+materiais têxteis complementares e de
+acabamento.
+677.011	Planejamento das operações e do
+processamento e outras questões gerais. Inclusive  Métodos estatísticos nos testes. Especificações. Normas, padrões.
+677.014	Composição química de materiais fibrosos.
+Propriedades químicas e seus testes (inclusive análise da fibra). Propriedades moleculares e estruturais e seus testes, ensaios.
+677.014.2/.3	Composição e propriedades químicas.
+677.014.2	Composição e propriedades químicas
+determinadas por métodos de ensaios químicos . Inclusive Peso molecular. Conteúdo de cinzas. Conteúdo de materiais 
+inorgânicos. Resistência a produtos químicos.
+677.014.3	Composição e propriedades químicas
+determinadas por métodos de ensaios físicos. Teor de líquido, teor de umidade.
+677.014.5	Identificação e diferenciação de materiais
+fibrosos. Análise qualitativa da fibra.
+677.014.6	Análise quantitativa da fibra.
+677.014.7	Determinação das propriedades especiais da fibra. Maturidade (do algodão).
+677.014.8	Propriedades moleculares e estruturais de
+materiais fibrosos e seus testes.
+677.016	Exame dos têxteis jà acabados em relação
+aos resultados do tratamento. Exame de corantes e materiais têxteis complementares.
+677.016.1	Exame dos processos de acabamento têxtil em
+geral.
+677.016.2	Exame dos tratamentos preparatórios (seus efeitos). Inclusive Efeitos de limpeza, de alvejamento.
+677.016.4	Exame do tingimento e dos processos de
+estampagem (seus efeitos).
+677.016.41	Determinação e medição da cor.
+677.016.42	Determinação do tipo de corante.
+-> 667.2 Indústria de pigmentos. Fabricação e uso de pigmentos
+677.016.43	Determinação da quantidade de corante a ser
+aplicada.
+677.016.47	Firmeza da cor e sua determinação.
+677.016.6	Exame dos efeitos de acabamento.
+677.016.62	Análise qualitativa do tipo de agentes de
+acabamento aplicados.
+677.016.64	Análise quantitativa do tipo de agentes de
+acabamento aplicados.
+677.016.65	Determinação da distribuição de agentes de
+acabamento.
+677.016.67	Determinação dos efeitos de acabamento.
+677.016.8	Exame de corantes e materiais têxteis
+complementares.
+-> 677.027.42 Métodos de tingimento segundo o tipo de corante
+-> 677.04 Materiais têxteis complementares
+677.017	Propriedades físicas, químicas e mecânicas
+de processamento. Aplicabilidade dos
+materiais têxteis. Testes dessas
+propriedades.
+677.017.2	Dimensões. Peso. Inclusive Relações entre dimensões e peso. 
+677.017.3	Arranjo e número de fibras ou filamentos simples em fios soltos, meadas, maçarocas, etc.
+                                 Arranjo e número das fibras ou fios em lâminas têxteis. Inclusive Distribuição da fibra. Maciez. Torção. Estrutura do 
+	tecido. Urdidura e trama. Estrutura de artigos de malharia, redes, feltros, etc.
+677.017.4	Comportamento em relação a tensões
+mecânicas. Resistência. Alongamento.
+Elasticidade.
+Especificar as propriedades por meio de :539.3/. 6, e os testes por meio de : 620.17...
+677.017.5	Propriedades acústicas, ópticas, térmicas,
+elétricas.
+677.017.54	Propriedades acústicas. Inclusive Isolamento de som.
+677.017.55	Propriedades ópticas.
+Especificar por meio de :535...
+-> 677.019.1 Falhas, defeitos visíveis
+677.017.56	Propriedades térmicas.
+Especificar por meio de :536...
+677.017.57	Propriedades elétricas.
+Especificar por meio de :537...
+677.017.6	Comportamento físico com relação a gases,
+líquidos, sólidos. Comportamento para com
+outras radiações, exceto a luz.
+677.017.62	Comportamento com relação a gases. Inclusive Permeabilidade ao ar, ao vapor, a outros gases.
+677.017.63	Comportamento em relação a líquidos.
+677.017.632	Umidificabilidade. Sorção.
+-> 532.63 Capilaridade
+677.017.633	Propriedades repelentes.
+677.017.635	Mudanças de dimensões (devido a líquidos).
+Estabilidade dimensional. Encolhimento.
+677.017.636	Permeabilidade a líquidos.
+677.017.65	Comportamento em relação a sólidos. Inclusive Permeabilidade à poeira.
+677.017.67	Comportamento em relação à radiação.
+677.017.7	Propriedades de processamento e seus testes. Processabilidade.
+677.017.8	Aplicabilidade e seus testes.
+677.017.82	Resistência à abrasão. Embolotamento.
+677.017.83	Recuperação de vincos. Retenção de vincagem.
+Retenção de pregueados.
+677.017.84	Resistência à luz e a influências atmosféricas.
+Resistência ao armazenamento, a climas
+tropicais.
+-> 677.016.4 Exame do tingimento e dos processos de estampagem (seus efeitos)
+677.017.85	Sujeira. Contaminação. Grau de sujidadc.
+Comportamento diante da lavagem úmida e a
+seco.
+677.017.86	Resistência a influências biológicas (bactérias,
+fungos, insetos, etc.).
+677.017.87	Propriedades fisiológicas. Conforto.
+677.017.88	Propriedades relativas ao uso.
+677.019	Defeitos, falhas, danos nos matérias têxteis.
+Sua detecção e correção.
+677.019.1	Falhas, defeitos visíveis. Inclusive Felpas. emaranhados, irregularidades. Desbotamentos. impurezas. 
+                                           677.019.1 dividido como 620.191
+677.019.2	Defeitos internos. Defeitos organolépticos: odor. 
+                                       677.019.2 dividido como 620.192
+677.019.3	Defeitos, falhas, avarias segundo a causa.
+      677.019.3 dividido como 620.193
+677.019.5	Detecção de defeitos, falhas, danos.
+677.019.7	Correção ou saneamento de defeitos, falhas,
+danos. Marcação de falhas.
+677.02	Processos da indústria têxtil.
+      Classificar os trabalhos abrangentes sobre as diversas indústrias de processamento em 677.02... 
+Exemplo(s) de combinacao(oes):
+677.024 	Tecelagem, indústria da tecelagem
+677.021.1	Fabricação de filamentos e fibras artificiais. Métodos para produção e extração de fibras naturais e de preparo de 
+	fibras para fiação.
+677.021.12	Fabricação de filamentos e fibras artificiais.
+677.021.122	Tratamento de matérias-primas antes da dissolução ou fusão.
+677.021.122.2	Tratamento de materiais de ocorrência natural (p. ex., derivados de celulose, proteínas). Inclusive Imersão. 
+                                   Prensagem.Bombeamento de álcalis. Sulfetização. Tratamento mecânico.
+677.21.122.4	Tratamento de matérias-primas líquidas. Inclusive Mistura. Filtração.
+677.021.122.6       Tratamento de polímeros sintéticos sólidos. Inclusive Trituração. Extração.
+677.021.123	Formação de solução ou fusão de fiação. Seu
+tratamento anterior à extrusão.
+677.021.123.1	Dissolução. Fusão.
+677.021.123.2	Amadurecimento da solução de fiação. Pós-
+polimerização.
+677.021.123.3	Purificação da solução de fiação. Filtração.
+677.021.123.4	Homogeneização e desarejamento da solução de fiação.
+677.021.123.6	Inclusão de aditivos na solução de fiação (para
+influir nas propriedades de fiação,
+propriedades do fio). Modificadores. Agentes
+estimulantes.
+677.021.123.8       Armazenamento e transporte da solução de fiação. 
+677.021.125         Extrusão. Tratamento subseqüente de fibras extrudadas.
+677.021.125.1	Admissão da solução de fiação, líquido ou
+lascas na máquina de fiação.
+677.021.125.2	Fiação.
+Indicar a fiação contínua por -932.2
+-> 678.027.3/.4 
+677.021.125.26	Fiação por solução.
+Exemplo(s) de combinacao(oes):
+                                       677.021.125.26-913.1 Fiação a seco 
+                                       677.021.125.26-913.3 Fiação úmida 
+677.021.125.261    Formação do fio. Interação do banho como líquido de fiação.
+677.021.125.264   Tratamento no banho de fiação. Permanência na câmara de vapor.
+677.021.125.27	Fiação por fusão. Inclusive Fiação em grade. Fiação em banda. Fiação direta. Fiação por extrusão.
+677.021.125.28	Fiação por reação.
+677.021.125.3	Estiramento do fio. Torção do fio estirado.
+677.021.125.4	Torção posterior.
+677.021.125.5	Tratamento posterior.
+677.021.125.52     Tratamento posterior com líquidos. Inclusive Alvejamento. Lavagem. Lubrificação.
+ 677.021.125.54     Engomação. Marcação.
+-> 677.023.7 Urdidura, engomação, disposição de fios nos cilindros de teares, etc.
+677.021.125.56     Tratamento da superfície por meios mecânicos ou físicos. Inclusive Encrespação
+-> 677.022.78 Fabricação de fios texturizados
+677.021.125.7	Secagem.
+677.021.125.8	Corte.
+677.021.127	Fabricação de fibras artificiais a partir de película. Inclusive Método de fibra dividida.
+677.021.128	Coleta de filamentos e fibras.
+677.021.15/.18      Métodos para a produção e extração de fibras naturais e para preparo de fibras para fiação.
+677.021.15	Produção e extração de fibras naturais.
+677.021.151	Produção de fibras a partir de talos, folhas e
+frutas.
+677.021.151.2	Produção de fibras de talos.
+677.021.151.22	Descaroçamento. Enfeixamento.
+677.021.151.23	Maceração (infusão, amaciamento).
+677.021.151.25	Descorticação. Fragmentação. Inclusive Espadelagem.
+677.021.151.27	Recuperação de fibras a partir de resíduos, refugo.
+677.021.151.28	Cotonificação.
+677.021.151.5         Produção de fibras a partir de folhas. 
+677.021.151.7         Produção de fibras a partir de frutos.
+677.021.152	Produção de fibras a partir de sementes.
+Descaroçamento de algodão.
+677.021.153	Produção de lãs, pelos e sedas. Inclusive Imersão, fervura, bobinagem de casulos.
+-> 637.62 Cabelo. Pêlo. Cerdas. Lã
+-> 638.27 Casulos para a indústria da seda
+677.021.154	Produção e extração de fibras minerais.
+677.021.155	Separação, seleção de fibras.
+677.021.156	Esfregação, lavagem, limpeza química das
+fibras.
+677.021.157	Carbonização de fibras.
+-> 677.027.232 Carbonização de têxteis 
+677.021.158         Lubrificação, abrilhantamento de fibras.
+677.021.16	Corte. Fragmentação. Abertura. Limpeza.
+Mistura.
+677.021.162	Corte.
+Para fibras artificiais de corte, usar 677.021.125.8
+677.021.163	Fragmentação. Inclusive Recuperação de fibra. Fabricação de fios encorpados a partir de fios de lã e
+                               algodão (da estopa para cima).
+677.021.164	Abertura. Limpeza mecânica.
+677.021.166	Mistura.
+677.021.17	Cardação.
+677.021.18	Gramação(do linho). Cardação. Lavagem em
+água corrente. Estiramento.
+677.021.182	Espalhamento.
+677.021.183	Gramação(do linho).
+677.021.185	Cardação. Recardação.
+677.021.187	Lavagem em água corrente.
+677.021.188	Estiramento.
+677.022	Métodos de fiação, torção, trançamento.
+Texturamento.
+677.022.2	Fiação preparatória. Maçaroqueira (fabricação
+de fios preliminares).
+677.022.3/.5	Fiação.
+677.022.3	Fiação em anel.
+677.022.32	Fiação de lã. Fiação no condensador.
+677.022.33	Fiação de algodão e lã penteada.
+677.022.35	Fiação de fibra de entrecasca (floema).
+677.022.36	Fiação direta de fibras artificiais (estopa para o
+fio). Fiação de conversor.
+677.022.4	Métodos diversos de fiação.
+677.022.43	Fiação em lata. Fiação em cadinho. Fiação
+centrífuga.
+677.022.45	Fiação em volantes. Fiação em fuso de
+cabeçote.
+677.022.47	Fiação em aletas.
+677.022.48	Fiação contínua
+677.022.481	Preparo do material de alimentação. Método de
+alimentação.
+677.022.482	Separação da fibra. Limpeza da fibra. Extração
+do material de refugo.
+677.022.483	Transferência da fibra. Transporte da fibra.
+677.022.484         Formação de fio.
+677.022.485	Tomada e descarte do fio.
+677.022.5	Fiação em mula (descontínua).
+677.022.6	Torção. Trançado.
+677.022.62/.65      Torção.
+677.022.62	Torção em fiadeiras volantes.
+677.022.63	Torção em anel.
+677.022.64	Torção para cima.

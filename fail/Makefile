@@ -14,7 +14,7 @@ cdu: build/lex.yy.c build/cdu.tab.c build/cdu.tab.h
 	gcc -o cdu build/cdu.tab.c build/lex.yy.c
 
 clean:
-	rm cdu build/cdu.tab.c build/lex.yy.c build/cdu.tab.h
+	rm cdu build/cdu.tab.c build/lex.yy.c build/cdu.tab.h good_tests/*done
 
 convert: $(FILES)
 	ls -al $(FILES)

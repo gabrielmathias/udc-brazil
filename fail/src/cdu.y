@@ -27,6 +27,7 @@ void yyerror(const char* s);
 %token<ext> T_CDU_EXT
 %token<cdu> T_CDU_CORE
 %token T_ARROW 
+%token T_EXAMPLE T_END_EXAMPLE
 %token T_NEWLINE T_QUIT T_SPACE T_SLASH
 %token<txt> T_OTHER_TEXT
 %left T_CDU_CORE T_ARROW
@@ -37,6 +38,8 @@ void yyerror(const char* s);
 %type<cdu> line_09
 %type<cdu> cdu_01
 %type<cdu> cdu_09
+%type<txt> example
+%type<txt> description
 %type<cdu> refs_expression
 
 %start lines
@@ -49,18 +52,22 @@ lines:
 ;
 
 line:
-	line_01 							  			{ printf("\n#\tCDU_LINE\n"); }
-  	| T_ARROW refs_expression 		 				{ printf("\n#\tREF_EXPRESSION \n"); }
+	line_01 							  			{ /* printf("\n#\tCDU_LINE\n") */; }
+  	| T_ARROW T_ARROW refs_expression 		 				{ printf("\n#\tREF_EXPRESSION \n"); }
 ;
 
 
 line_01:
-	 cdu_01										{ printf("\n#LINE_01\n");}
-	 | cdu_01 more_text							{ printf("\n#LINE_01\n");}
+	 
+	 cdu_01 description								{  /* printf("\n#LINE_01\n") */;}
 ;
 
 cdu_01:
-	T_CDU_CORE 										{ printf("\n<01>%s\n<02>",$1); free($1);}
+	T_CDU_CORE 										{ printf("\n<01>%s",$1); printf("</01>"); }
+;
+
+description:
+	T_OTHER_TEXT										{ printf ("\n<02>%s",$1); }
 ;
 
 refs_expression:
@@ -69,16 +76,21 @@ refs_expression:
 ;
 
 line_09:
-	cdu_09 more_text								{ printf("\n<09>%s\n",$1); free($1); }
+	cdu_09 more_text								{ printf("\n<09>%s\n",$1);  }
 ;
 
 cdu_09:
-	T_CDU_CORE 										{ printf("\n<09>%s\n",$1); free($1);}
+	T_CDU_CORE 										{ printf("\n<09>%s\n",$1); }
 ;
 
 more_text:
-	T_OTHER_TEXT									{ printf(">:1:> %s",$1); free ($1); }
-	| T_OTHER_TEXT	more_text 						{ printf(">:2:> %s",$1); free ($1); }
+	example											{ printf("EXAMPLE");}
+	| T_OTHER_TEXT									{ printf("s");  }
+	| T_OTHER_TEXT more_text 						{ printf("s");  }
+;
+
+example:
+	T_EXAMPLE more_text T_END_EXAMPLE               { printf("<06>");  }
 ;
 
 %%
