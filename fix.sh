@@ -21,7 +21,7 @@ sed -E $"s/^([0-9\.]+[^a-zA-Z 	]*)+(.*)/\\$CRLF\<01\>\1\\$CRLF\<02\>\2/g" | \
 #sed -E "s/(.*)[	]+(.*)/\1 \2/g"  | \
 
 # Tudo que comecar por tab + seta eh exemplo <09>
-sed -E "s/->[ ](.+)$/\<09\> \1/" | \
+sed -E "s/->[ ](.+)$/\<09\>\1/" | \
 
 # Retirando espaços em branco apos e antes do lancamento da TAG
 sed -E "s/[ $TAB]+(\<[0-9][0-9]\>.*)$/\1/g"  | \
@@ -30,11 +30,15 @@ sed -E "s/(\<[0-9][0-9]\>)[ $TAB]+(.*)$/\1\2/g"  | \
 
 #sed -E $"s/^[ ]+(.*)/\1/"  | \
 #sed -E "s/>[ ]+/>/g"  | \
-#sed -E "s/(<02>l.*)$/#ERRO \1/" | \
+
 #sed -E "/^\b*$/d"  | \
 #tr -d '\n\r' | \
 #sed -e :a -e N -e 's/\n\r/ /' -e ta | \
 #sed -E "s/(<[^<]+)/\1\\$CRLF/g" | \
+
+#encontrando possiveis problemas:
+sed -E "s/(<02>l.*)$/#ERRO \1/" | \
+sed -E "s/(.*[0-9][A-Z][a-z])(.*)$/#ERRO \1\2/" | \
 
 tee $saida | \
 
