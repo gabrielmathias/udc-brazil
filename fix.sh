@@ -1,33 +1,44 @@
 #!/bin/bash
 
-ENTER=`echo -e '\n\r'`
+CRLF=`echo -e '\n\r'`
+TAB=`echo -e '\t'`
 
 arquivo=$1
 saida=$2
 erros="erros.txt"
 
-echo "Inserindo os <01> $arquivo"
+# Remove as entradas de EXEMPLOS
+cat "$arquivo" | \
+grep -v "Exemplo(" | \
 
 # Inclui as tags<06> e necessario ter TAB antes do CDU
-sed -E $"s/^([	 ]+[0-9][^a-zA-Z 	]+)/\<06\>\1/" < "$arquivo" | \
+sed -E $"s/^([	 ]+[0-9][^a-zA-Z]+)/\<06\>\1/" | \
 
-# Remove as entradas de EXEMPLOS
-grep -v "Exemplo(" | \
-sed -E "s/(.*)[	]+(.*)/\1 \2/g"  | \
+
+sed -e "s/auxilia rés/auxiliares/g" | \
+
+sed -E $"s/^([0-9\.]+[^a-zA-Z 	]*)+(.*)/\\$CRLF\<01\>\1\\$CRLF\<02\>\2/g" | \
+#sed -E "s/(.*)[	]+(.*)/\1 \2/g"  | \
 
 # Tudo que comecar por tab + seta eh exemplo <09>
 sed -E "s/->[ ](.+)$/\<09\> \1/" | \
 
-sed -E $"s/^([0-9][^a-zA-Z 	]+)[ 	]*(.*)/\\$ENTER\<01\>\1\\$ENTER\<02\>\2/g" | \
-sed -E $"s/(\<[0-9][0-9]\>)[]?[	]?[ ]?(.*)$/\1\2/g"  | \
-#sed -E "s// /g"  | \
-sed -E $"s/^[ ]+(.*)/\1/"  | \
-sed -E "s/>[ ]+/>/g"  | \
-sed -E "s/(<02>l.*)$/#ERRO \1/" | \
+# Retirando espaços em branco apos e antes do lancamento da TAG
+sed -E "s/[ $TAB]+(\<[0-9][0-9]\>.*)$/\1/g"  | \
+sed -E "s/(\<[0-9][0-9]\>)[ $TAB]+(.*)$/\1\2/g"  | \
+
+
+#sed -E $"s/^[ ]+(.*)/\1/"  | \
+#sed -E "s/>[ ]+/>/g"  | \
+#sed -E "s/(<02>l.*)$/#ERRO \1/" | \
+#sed -E "/^\b*$/d"  | \
+#tr -d '\n\r' | \
+#sed -e :a -e N -e 's/\n\r/ /' -e ta | \
+#sed -E "s/(<[^<]+)/\1\\$CRLF/g" | \
 
 tee $saida | \
 
-grep -i "<02>l " | \
+egrep -i "<02>l " | \
 
 tee $erros 2> /dev/null
 
