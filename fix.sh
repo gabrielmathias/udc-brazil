@@ -23,6 +23,9 @@ sed -E $"s/^([0-9\.]+[^a-zA-Z 	]*)+(.*)/\\$CRLF\<01\>\1\\$CRLF\<02\>\2/g" | \
 # Tudo que comecar por tab + seta eh exemplo <09>
 sed -E "s/->[ ](.+)$/\<09\>\1/" | \
 
+# linhas orfas, comecando sentenca avulsa serao consideradas <09>
+sed -E "s/^([A-Z]+.+)$/\<09\>\1/" | \
+
 # Retirando espaços em branco apos e antes do lancamento da TAG
 sed -E "s/[ $TAB]+(\<[0-9][0-9]\>.*)$/\1/g"  | \
 sed -E "s/(\<[0-9][0-9]\>)[ $TAB]+(.*)$/\1\2/g"  | \
@@ -37,8 +40,11 @@ sed -E "s/(\<[0-9][0-9]\>)[ $TAB]+(.*)$/\1\2/g"  | \
 #sed -E "s/(<[^<]+)/\1\\$CRLF/g" | \
 
 #encontrando possiveis problemas:
-sed -E "s/(<02>l.*)$/#ERRO \1/" | \
-sed -E "s/(.*[0-9][A-Z][a-z])(.*)$/#ERRO \1\2/" | \
+sed -E "s/(<02>l.*)$/#ERRO1( l usado no lugar do 1 ?) \1/" | \
+sed -E "s/(.*[0-9][A-Z][a-z])(.*)$/#ERRO2(Texto orfao sem tag ?)  \1\2/" | \
+
+#Consertando os finalizadores de linha
+tr -d '\r' | \
 
 tee $saida | \
 
