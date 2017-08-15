@@ -1,0 +1,3860 @@
+﻿Língua. Lingüística. Literatura
+
+
+<01>80
+<02>Questões gerais relativas à lingüística e à literatura. Filologia
+
+<09>Escopo: Classificar aqui os trabalhos sobre filologia no sentido amplo, inclusive o estudo de textos literários como matéria de história cultural geral. Para filologia em sentido estrito (lingüística, especialmente histórica), ver 81.
+
+<01>801
+<02>Prosódia. Ciências auxiliares e fontes da filologia.
+
+<01>801.6
+<02>Prosódia: metro, ritmo, rima e padrão de verso.
+<09>A prosódia de línguas específicas pode ser classificada usando-se 811...:801.6 para os estudos lingüísticos ou 821..:801.6 para os estudos literários
+<09>Outras características podem ser indicadas por meio dos auxiliares comuns de forma 
+<06>801.66(03) Dicionários de rimas 
+<06>811.111:801.66(03) Dicionários de rimas inglesas
+<09>81.342 Fonética
+
+<01>801.61
+<02>Generalidades.
+<09>81`342.8 Coesão das palavras. Eufonia. Acento da palavra. Tom da palavra. Inclusive Ênclise e Próclise
+<09>81`342.9 Modulação da oração e da frase. Ritmo e entonação da fala
+
+<01>801.611
+<02>Quantidade.
+
+<01>801.612
+<02>Acentuação, acento (palavra e frase).
+
+<01>801.613
+<02>Ritmo.
+<09>81`367.2 Frases em geral: ritmo, acentuação, entonação, modulação.
+
+<01>801.614
+<02>Melodia do verso.
+
+<01>801.615
+<02>Harmonia do verso.
+
+<01>801.63
+<02>Metro. Medidas métricas, pés.
+
+<01>801.631
+<02>Medidas métricas em geral.
+
+<01>801.631.1
+<02>Ársis e tese. Elevação e queda. Inclusive Anacrase.
+
+<01>801.631.2
+<02>Pausa. Cesura. Pausa central e terminal.
+
+<01>801.631.3
+<02>Enjambement.
+
+<01>801.631.4
+<02>Hiato.
+
+<01>801.631.5
+<02>Licença prosódica.
+<09>81.342.62 Mudanças fonéticas sem fatores de articulação modificada
+
+<01>801.631.51
+<02>Contração. Inclusive Elisão. Sinalefa. Crase. Apócope. Síncope. Aférese. Sinérese.
+
+<01>801.631.52
+<02>Prolongamento. Inclusive Diérese.
+
+<01>801.631.6
+<02>Remates de versos.
+
+<01>801.631.61
+<02>Catalexe.
+
+<01>801.631.62
+<02>Quantidades de rima. Terminações gramaticais (do ponto de vista prosódico).
+
+<01>801.632
+<02>Aliteração. Assonância.
+<09>801.66 Rima
+
+<01>801.633
+<02>Pés dissilábicos. Inclusive Iambos. Troqueus. Espondeus. Pirríquios.
+
+<01>801.634
+<02>Pés trissilábicos. Inclusive Anapestos. Dáctilos. Tríbracos. Molossos. Créticos. Báquios
+
+<01>801.635
+<02>Pés polissilábicos. Inclusive Coriâmbicos. Sônicos. Docmíacos.
+
+<01>801.65
+<02>Modelos de versos (segundo as características numéricas de linhas e
+sílabas).
+
+<01>801.651
+<02>Medidas ou unidades rítmicas. Inclusive Monopódio, dipódio, tripódio, etc.
+
+<01>801.653
+<02>Acentuação. Ársis. Verso rítmico. Inclusive Diarsis, triarsis, etc.
+
+<01>801.654
+<02>Quantidade métrica. Verso clássico ou quantitativo. Inclusive Pentâmetros, hexâmetros, trimétricos iâmbicos, etc.
+
+<01>801.655
+<02>Versos segundo o número de sílabas. Verso silábico.
+
+<01>801.655.1
+<02>Versos de menos de dez sílabas.
+
+<01>801.655.2
+<02>Decassílabos.
+
+<01>801.655.3
+<02>Dodecassílabos. Alexandrinos.
+
+<01>801.655.5
+<02>Verso branco, verso livre.
+
+<01>801.655.6
+<02>Verso amorfo. Ritmos livres.
+
+<01>801.655.7
+<02>Verso livre.
+
+<01>801.656
+<02>Modelos alternados, combinados.
+
+<01>801.66
+<02>Rima.
+<09>801.632 Aliteração. Assonância
+<09>82-1 Poesia. Poemas. Versos
+
+<01>801.661
+<02>Conceito geral. Inclusive Pureza. Consonância. Simbolismo
+
+<01>801.662
+<02>Grau, extensão da rima (número de sílabas das rimas). Inclusive Rima Monossilábica, dissilábica, trissilábica. 
+
+<01>801.663
+<02>Classificação lingüístico-gramatical das rimas. Inclusive Rima verdadeira, rima quebrada, rima partida
+
+<01>801.664
+<02>Posição da rima no verso (final, meio, começo).
+
+<01>801.665
+<02>Plano ou esquema da rima. Modelo de rima (na estrofe (.
+
+<01>801.67
+<02>Estâncias, estrofes, dístico, versos (de um poema).
+
+<01>801.671
+<02>Generalidades sobre estâncias. Estrofe, antístrofe, etc.
+
+<01>801.671.1
+<02>Agrupamento rítmico.
+
+<01>801.671.2
+<02>Períodos (frases).
+
+<01>801.671.4
+<02>Estâncias segundo a paridade. Inclusive Isométricas. Metabólicas.
+
+<01>801.671.5
+<02>Interconexão, elos entre estâncias.
+
+<01>801.671.51
+<02>Refrãos.
+
+<01>801.671.6
+<02>Correspondências entre estâncias.
+
+<01>801.672
+<02>Estrofes clássicas. Inclusive Sáficas. Asclepiádicas. Alcaicas.
+
+<01>801.673
+<02>Formas de verso germânicas.
+
+<01>801.673.1
+<02>Formas de verso nórdicas. Inclusive Estâncias Edda.
+
+<01>801.673.2
+<02>Formas de verso inglesas.
+
+<01>801.673.3
+<02>Formas de verso germânicas. Inclusive Estâncias Nibelungen, Minnesänger.
+
+<01>801.675
+<02>Formas de verso românicas.
+
+<01>801.675.l
+<02>Formas de verso francesas. Inclusive Quadra. Rondó. Rondel. Vilanela.
+
+<01>801.675.2
+<02>Formas de verso italianas. Inclusive Rima na oitava, ottava rima. Rima na terceira, terza rima. Madrigal. Canção. 
+	Soneto.Triolé.
+
+<01>801.675.3
+<02>Formas de verso espanholas. Inclusive Décima. Glosse. Canción.
+
+<01>801.676
+<02>Formas de verso eslavas. Outras formas ocidentais de verso.
+
+<01>801.677
+<02>Formas de verso orientais (das literaturas indo- européias e semíticas).
+
+<01>801.677.1
+<02>Formas de verso índicas.
+
+<01>801.677.3
+<02>Formas de verso persas.
+
+<01>801.677.6
+<02>Formas de verso árabes.
+
+<01>801.678
+<02>Outras formas de verso asiáticas. Formas de verso africanas.
+
+<01>801.7
+<02>Ciências auxiliares e estudos de filologia.
+<06>801.7:81`22 Semiótica como ciência filológica auxiliar. Estudo da filologia por meio de escritos, etc.
+
+<01>801.73
+<02>Hermenêutica. Crítica, interpretação, explicação textual. Recensão. Exegese.
+<09>27-271.5 Versões anotadas
+<09>27-273 Comentários bíblicos
+<09>27-275 Crítica textual
+<09>27-277.2 Exegese bíblica. Hermenêutica bíblica
+
+<01>801.8
+<02>Fontes da lingüística e da filologia. Coleções de textos.
+
+<01>801.81
+<02>Fontes orais, sobretudo populares.
+
+<01>801.81`398.21
+<02>Contos populares, etc. como fonte de material filológico
+
+<01>801.82
+<02>Fontes escritas. Textos literários.
+<06>801.82:821.112.2-2 Schiller Obras dramáticas de Schiller como fonte filológica
+
+<01>801.83
+<02>Fontes mistas.
+
+<01>808
+<02>Retórica. O uso eficaz da linguagem.
+
+<01>808.1
+<02>Autoria. Atividade e técnica literária. Inclusive Escrita criativa. Escrita em forma publicável.
+<09>Classificar aqui os trabalhos gerais sobre preparo e apresentação de originais
+<09>070.4 Administração editorial
+<09>655.251(035) Manuais de estilo
+<09>655.254.22 Editoração
+<09>655.51 Seleção de originais. Ofertas para publicação. Apresentação para exame, pedidos, aceitação de originais
+<09>808.2 Editoração. Adaptação e organização do original para publicação
+
+<01>808.2
+<02>Editoração. Adaptação e organização do
+original para publicação.
+<09>070.4 Administração editorial
+<09>655.254.22 Editoração
+
+<01>808.25
+<02>Escritos em nome de outrem (Ghost-writing, ghosting).
+		Produzir texto para publicação em nome de outra pessoa, geralmente na forma de edição ou adaptação de matéria 
+		oral.
+
+<01>808.5
+<02>Retórica do discurso. Arte ou técnica da
+expressão oral.
+      Classificar aqui a voz,  expressão, gestos.
+<09>Indicar os detalhes pela combinação de dois pontos, caso seja necessário
+<06>808.5:159.925 Mímica. Expressividade. Inclusive gesto, linguagem corporal
+<06>808.5:372.461 Treinamento, exercício. Inclusive impostação de voz, exercícios fonéticos
+<06>808.5:612.2 Controle da respiração
+<06>808.5:612.761 Velocidade da fala
+<06>808.5:612.78 Voz e dicção, inclusive inflexão, tom, timbre
+<06>808.5:612.789 Articulação, etc.
+<06>808.5:616.89-008.434 Distúrbios da fala. Inclusive gagueira, língua presa
+<06>808.5:81`342.9 Modulação da fala. Acentuação, ritmo, entonação
+<09>159.946.3 Expressão vocal
+<09>347.781.8 Obras faladas
+<09>37.016:81-028.31 Rudimentos da linguagem e da expressão
+<09>612.78 Voz. Fala. Fonação
+<09>792.028.3 Técnica de representação
+<09>81`342.2 Fonética articulatória. Fonação, articulação, emissão de sons (vogais)
+<09>81`355 Pronúncia
+
+<01>808.51
+<02>Discurso, fala em público. Oratória. Inclusive Discursos após o jantar. Discursos cerimoniais. Discursos,
+saudações, brindes para ocasiões especiais.
+<09>27-475.2 Homilética
+<09>808.53 Debates e discussões públicas
+
+<01>808.53
+<02>Debates e discussões públicas.
+
+<01>808.54
+<02>Recitação. Arte de declamar.
+<09>Classificar aqui a interpretação oral.  Para a recitação em coro, usar 808.55
+
+<01>808.543
+<02>Arte de contar histórias.
+
+<01>808.545
+<02>Leitura em voz alta.
+
+<01>808.55
+<02>Oratória e efeitos teatrais. Recitação, declamação em coro.
+
+<01>808.56
+<02>Conversação.
+
+
+<01>81
+<02>Lingüística e línguas
+
+ 		      Classificar aqui os trabalhos sobre filologia no sentido de lingüística (histórica especialmente). Classificar as
+                                       descrições históricas de línguas ou grupos de línguas
+no número para a língua ou grupo, acrescentando-se –112 (de 81-112).
+<09>Os auxiliares especiais -11/-26 e `1/’443 podem ser usados com o próprio 81 para
+indicar o assunto da lingüística em geral, e também em combinação com as subdivisões de 811 para os aspectos lingüísticos de determinadas línguas ou grupos de línguas
+<09>Indicar os vários aspectos, p. ex. a relação com outras disciplinas, pela combinação de
+dois pontos
+<06>81:005 Classificações das línguas (como assunto), p. ex. por área. Tipológica, genética, funcional
+<06>81:1 Filosofia da lingüística
+          8l:39 Etnolingüística
+<06>81:572 Línguas e antropologia
+<06>811.11-112 Filologia das línguas germânicas
+<09>Subdivisões auxiliares especiais
+
+<01>81
+<02>-11	Escolas e tendências em lingüística.
+-11e suas subdivisões podem ser acrescentadas a 81`1/’443
+<09>81`32 Lingüística matemática
+<09>81`33 Lingüística aplicada
+
+<01>81
+<02>-112	Lingüística diacrônica (lingüística histórica).
+
+<01>81
+<02>-114	Lingüística sincrônica (lingüística estática).
+
+<01>81
+<02>-115	Evolucionismo. Lingüística comparada.
+<09>81`362 Gramática comparada
+
+<01>81
+<02>-116	Estruturalismo. Lingüística estrutural.
+
+<01>81
+<02>-116.2	Escola de Genebra (F. de Saussure).
+
+<01>81
+<02>-116.3	Escola de Praga.
+
+<01>81
+<02>-116.4	Escola de Copenhague (L. Hjelmslev). Glossemática.
+
+<01>81
+<02>-116.5	Estruturalismo norte-americano (Z.S. Harris).
+
+<01>81
+<02>-116.6	Lingüística gerativa (N.A. Chomsky).
+<09>81`344.1 Fonologia gerativa
+<09>81`364 Gramática gerativa. Gramática transformacional
+<09>81`372 Semântica gerativa. Estrutura profunda e superficial
+
+<01>81
+<02>-116.7	Tagmêmica. Gramática tagmêmica (K.L. Pike)
+
+<01>81
+<02>-117	Escola de Londres (J. R. Firth, gramática sistemática de M.A.K. Halliday).
+
+<01>81
+<02>-119	Outras escolas e tendências lingüísticas.
+
+<01>81
+<02>-13	Metodologia da lingüística. Métodos e meios.
+                                       Para métodos identificados com escolas e tendências, usar 81-11, p. ex:
+<09>Método comparativo (geral) 81-115
+<09>Método diacrônico 81-112
+<09>Método distributivo 81-116
+<09>Método formal 81-116.4
+<09>Método funcional 81-116.3
+<09>Método glossemático 81-116.4
+<09>Método histórico 81-112
+<09>Método histórico-comparativo (causal) 81-115
+<09>Método de confrontação 81-116
+<09>Método de componentes imediatos 81-116.6
+<09>Para o método psicolingüístico, ver 81`23
+                                      Para o método psicolingüístico ver 81`23
+
+<01>81
+<02>-132	Método de análise de seqüências.
+
+<01>81
+<02>-133	Método descritivo.
+
+<01>81
+<02>-139	Outros métodos.
+
+<01>81
+<02>-2	 Traços característicos das línguas.
+
+<01>81
+<02>-21	 Línguas dos chamados povos primitivos.
+
+<01>81
+<02>-22	 Línguas dos chamados povos desenvolvidos e civilizados.
+
+<01>81
+<02>-23	 Línguas vivas.
+
+<01>81
+<02>-24	 Línguas mortas, extintas.
+
+<01>81
+<02>-25	 Línguas faladas. Línguas sem literatura.
+
+<01>81
+<02>-26	 Línguas escritas. Línguas literárias.
+
+<01>81`0
+<02>Origens e períodos das línguas. Fases de desenvolvimento.
+<09>Usar apenas em combinação com as subdivisões de 811
+
+<01>`03
+<02>, ’05, ’07 e ’09 não são aplicáveis de modo geral: são reservados para aplicações específicas (p. ex. no latim, grego, hebraico, egípcio).
+
+<01>81`01
+<02>Período antigo. Período arcaico.
+
+<01>81`02
+<02>Período clássico.
+
+<01>81`04
+<02>Período médio.
+
+<01>81`06
+<02>Período moderno.
+
+<01>81`08
+<02>Língua revivida.
+
+<01>81`l
+<02>Lingüística geral.
+	      Classificar aqui as introduções, monografias, etc. sobre a lingüística (em geral),  assim como os documentos que
+                                     abrangem trabalhos sobre vários assuntos da lingüística.
+
+<01>81`16
+<02>Metateoria da lingüística.
+
+<01>81`2/
+<02>’44	Áreas temáticas e facetas da
+
+<01>l
+<02>ingüística.
+
+<01>81`22
+<02>Teoria geral dos signos em relação à
+
+<01>l
+<02>ingüística. Semiologia. Semiótica.
+
+<01>81`221
+<02>Comunicação não-verbal.
+<09>811.93 Línguas artificiais usadas para programar máquinas. Linguagens de programação. Linguagens de 
+                                     computador
+
+<01>81`221.2
+<02>Mímica, expressão facial e linguagens gestuais.
+
+<01>81`221.22
+<02>Mímica natural, expressão facial e linguagens gestuais.
+
+<01>81`221.24
+<02>Mímica convencionada e linguagens gestuais. Inclusive Linguagens de gestos dos surdos, dos surdos-mudos.
+
+<01>81`221.4
+<02>Linguagens de signos de códigos visuais.
+
+<01>81`221.5
+<02>Linguagens de signos acústicos, aurais. Linguagens de códigos acústicos.
+
+<01>81`221.7
+<02>Linguagens de signos táteis (toque ou pressão).
+<09>003.24 Sistemas de escrita para cegos
+
+<01>81`23
+<02>Psicolingüística. Psicologia da
+
+<01>l
+<02>inguagem.
+<09>159.946.3 Expressão vocal
+
+<01>81`232
+<02>Aquisição da linguagem. Lingüística do desenvolvimento.
+
+<01>81`233
+<02>Desenvolvimento da capacidade de falar do indivíduo.
+
+<01>81`234
+<02>Patologia da fala. Neurolingüística.
+
+<01>81`234.2
+<02>Afasia.
+
+<01>81`24
+<02>Conhecimento prático de línguas.
+
+<01>81`242
+<02>Língua materna. Falantes nativos.
+
+<01>81`243
+<02>Língua estrangeira. Língua adquirida.
+<09>Segunda língua. Falantes não-nativos.
+
+<01>81`244
+<02>Línguas oficiais. Línguas reconhecidas pelo
+<09>Estado.
+
+<01>81`246
+<02>Mono e multilingüismo. Mono e
+poliglotismo.
+
+<01>81`246.1
+<02>Monolingüismo, monoglotismo.
+
+<01>81`246.2
+<02>Bilingüismo,
+
+<01>81`246.3
+<02>Multilingüismo (plurilingüismo), poliglotismo em geral. Trilingüismo em particular.
+
+<01>81`25
+<02>Teoria da tradução.
+<09>=030 Documentos traduzidos. Traduções
+<09>347.78.034 Tradução
+<09>519.768 Matemática da tradução mecânica
+<09>655.525 Intermediários entre autor e editor
+<09>81`253 Interpretação (tradução oral)
+<09>81`322 Lingüística computacional
+<09>81`322.4 Tradução mecânica
+
+<01>81`253
+<02>Interpretação (tradução oral). Inclusive Tradução simultânea..
+
+<01>81`255
+<02>Tradução escrita.
+
+<01>81`255.2
+<02>Tradução literal. Inclusive Chaves.
+<06>81`255.2:6 Tradução técnica
+
+<01>81`255.4
+<02>Tradução estilística, literária.
+
+<01>81`26
+<02>Planejamento da língua. Controle da
+
+<01>l
+<02>íngua. Padronização da língua.
+<09>81`272 Sociolingüística aplicada. Política da língua
+
+<01>81`27
+<02>Sociolingüística. Uso da língua.
+
+<01>81`271
+<02>Uso e pureza da língua.
+
+<01>81`271.1
+<02>Uso correto e incorreto das formas faladas e escritas da língua.
+
+<01>81`271.12
+<02>Uso correto.
+
+<01>81`271.14
+<02>Desvios (incorreções). Solecismos. Lapsos (inadvertências).
+
+<01>81`271.16
+<02>Aceitabilidade de formas faladas e escritas. Expressões aceitáveis (segundo avaliação dos
+nativos da língua).
+
+<01>81`271.2
+<02>Pureza da língua.
+
+<01>81`272
+<02>Sociolingüística aplicada. Política da língua. 
+<09>81`26 Planejamento da língua. Controle da língua. Padronização da língua
+
+<01>81`276
+<02>Dialetos sociais. Jargões, gírias de grupos profissionais. Formas vernáculas especiais, expressões 
+                               idiomáticas, jargões, etc. associados com determinadas camadas sociais ou grupos de usuários.
+<09>Indicar maiores detalhes nas subdivisões por meio de :... e -05...
+      Classificar os dialetos sociais, jargões, etc. em línguas especificas acrescentando`276  ou suas subdivisões aos números da 
+	     língua em 811... 
+<06>811.133.1`276.6:34 Língua dos advogados franceses 
+<06>811.162.1 `276.3–053.5 Língua dos escolares poloneses
+
+<01>81`276.1
+<02>Língua ou idioma de determinadas classes sociais. Socialetos.
+
+<01>81`276.11
+<02>Língua ou idioma das camadas superiores. Modo de falar culto, educado.
+
+<01>81`276.12
+<02>Língua ou idioma das camadas inferiores. Modo de falar comum, popular, familiar.
+
+<01>81`276.16
+<02>Língua polida, refinada, de castas, tribunais ou outras hierarquias.
+
+<01>81`276.2
+<02>Modo de falar vulgar, chulo. Gíria em geral,
+<09>81-25 Línguas (apenas) faladas. Línguas sem literatura
+
+<01>8l`276.3
+<02>Língua ou idioma de determinado grupo etário ou sexo.
+<09>Especificar por meio de -053... e -055... 
+
+<01>81`276.3
+<02>-053.2 Fala de bebê ou criança. Fala, conversa infantil da mãe ou da babá
+
+<01>8l`276.3
+<02>-053.5 Fala de crianças escolares 
+
+<01>81`276.3
+<02>-053.6 Língua, idioma ou gíria de adolescentes 
+
+<01>81`276.3
+<02>-055.1 Língua ou modo de falar de homens 
+
+<01>8l`276.3
+<02>-055.2 Língua ou modo de falar de mulheres
+
+<01>8l`276.4
+<02>Língua secreta, jargão ou gíria.
+
+<01>81`276.45
+<02>Língua ou jargão de ladrões. Argot. Rotwelsch, etc.
+
+<01>81`276.5
+<02>Gírias de grupos profissionais.
+ Exemplo (s) de combinação(ões):
+
+<01>81`276.5
+<02>:355.11 Gíria de militares 
+
+<01>81`276.5
+<02>:378.18 Gíria de estudantes
+
+<01>81`276.6
+<02>Língua ou modo de falar profissional e técnico. Tecnoletos.
+
+<01>81`276.6
+<02>:34 Língua jurídica 
+
+<01>81`276.6
+<02>:355 Língua militar 
+
+<01>81`276.6
+<02>:62 Língua tecnológica e de engenharia
+
+<01>81`28
+<02>Dialetologia. Lingüística geográfica. Lingüística de área.
+
+<01>81`282
+<02>Dialetos. Línguas locais e regionais. Variantes. Vernáculos.
+                                         Classificar os dialetos de línguas específicas acrescentando '282 (ou suas subdivisões) e os auxiliares apropriados de  
+                                         (1/9) que indicam as localidades ou regiões aos números de línguas em 811...
+
+<01>81`282.2
+<02>Dialetos locais ou distritais.
+<06>811.161.2`282.2(477.87) Russo subcarpatiano (dialeto dos ucranianos)
+
+<01>81`282.3
+<02>Dialetos regionais, provinciais.
+<06>811.134.2`282.3(468.1) Dialeto andaluz do espanhol
+
+<01>81`282.4
+<02>Variantes nacionais ou dialetos de uma língua fora de seu país de origem.
+
+<01>81`282.8
+<02>Línguas de contato entre povos. Pidgins e crioulos.
+      Classificar aqui informações comuns sobre pidgins e crioulos. Para pidgins e crioulos isoladamente, ver as 
+      subdivisões de =1/=8 (Tabela 1c -Auxiliares comuns de língua) ou as subdivisões de 811 que podem ser derivadas
+      delas substituindo o sinal de igual por 811 e um ponto . 
+<06>811.111.8 Pidgins e crioulos baseados no inglês derivado de = 111.8
+
+<01>8l`286
+<02>Lingüística geográfica. Geografia dos dialetos. Distribuição em áreas de línguas
+específicas.
+<06>81`286(084.42) Atlas vocabulares e lingüísticos
+
+<01>81`32
+<02>Lingüística matemática.
+<09>519.76 Semiótica. Teoria matemática dos sistemas de símbolos. Lingüística matemática
+
+<01>81`322
+<02>Lingüística computacional.
+
+<01>81`322.2
+<02>Processamento da linguagem natural.
+
+<01>81`322.3
+<02>Análise.
+
+<01>81`322.4
+<02>Tradução mecânica.
+
+<01>81`322.5
+<02>Análise do discurso.
+
+<01>81`322.6
+<02>Síntese do discurso.
+
+<01>81`324
+<02>Lingüística estatística.
+
+<01>81`33
+<02>Lingüística aplicada.
+
+<01>81`34
+<02>Fonética. Fonologia.
+
+<01>81`342
+<02>Fonética.
+<09>801.6 Prosódia: metro, ritmo, rima e padrão de verso
+<09>81`35 Grafemia. Ortografia
+
+<01>81`342.1
+<02>Fonética acústica. Análise e propriedades do som (vocal). Inclusive Inflexão. Intensidade. Quantidade. Timbre.
+<09>534 Vibrações. Acústica
+
+<01>81`342.2
+<02>Fonética articulatória. Fonação, articulação, emissão de sons (vocais).
+                                          ->159.946.3 Expressão vocal
+<09>612.78 Voz. Fala. Fonação
+
+<01>81`342.21
+<02>Voz. Órgãos vocais ou laringe.
+
+<01>81`342.22
+<02>Análise da fonação: respiração, duração, articulação.
+
+<01>81`342.3
+<02>Fonética auditiva.
+
+<01>81`342.4
+<02>Sons da fala: vogais, consoantes.
+<09>003.28 Pedografias
+
+<01>81`342.41
+<02>Vogais (soantes).
+
+<01>81`342.415
+<02>Ditongos.
+
+<01>81`342.42
+<02>Consoantes.
+
+<01>81`342.5
+<02>Sons segundo a posição de articulação (língua, lábios, etc.).
+
+<01>81`342.51
+<02>Guturais. Velares.
+
+<01>81`342.52
+<02>Velopalatais.
+
+<01>81`342.53
+<02>Palatais.
+
+<01>81`342.54
+<02>Dentais.
+
+<01>81`342.55
+<02>Labiais.
+
+<01>81`342.56
+<02>Cerebrais.
+
+<01>81`342.57
+<02>Nasais.
+
+<01>81`342.6
+<02>Alterações (de som), mutações e leis fonéticas.
+
+<01>81`342.61
+<02>Leis fonéticas (mudanças devidas a fatores de articulação modificada). Inclusive Lei de Grimm. Lei de Verner.
+
+<01>8l`342.62
+<02>Mudanças fonéticas sem fatores de articulação modificada.
+<09>801.631.5 Licença prosódica
+
+<01>81`342.621
+<02>Mudanças gerais. Inclusive Analogia. Assimilação. Aférese. Apócope. Síncope. Metátese.
+
+<01>81`342.622
+<02>Mudanças vocálicas. Inclusive Alongamento. Trema. Crase. Monotongação e ditongação. 
+                                  Sândi e elisão da vogal. Harmonia das vogais
+
+<01>81`342.623
+<02>Mudanças consonantais. Inclusive Assimilação. Dissimilação. Desdobramento. Intercâmbio. 
+                                Sândi e elisão consonantal.
+
+<01>81`342.7
+<02>Sílabas e silabação.
+
+<01>81`342.8
+<02>Coesão da palavra. Eufonia. Acento da palavra. Tom da palavra. Inclusive Ênclise. Próclise.
+#ERRO2(Texto orfao sem tag ?)  <09>801.61Generalidades
+
+<01>81`342.9
+<02>Modulação da oração e da frase. Ritmo e entonação da fala.
+<09>801.61 Generalidades
+<09>808.5 Retórica do discurso. Arte ou técnica da expressão oral
+<09>81`367.2 Frases em geral: ritmo, acentuação, entonação, modulação
+
+<01>81`344
+<02>Fonologia. Fonêmica.
+                                     Para os tipos de línguas segundo a classificação fonológica, usar 81 '442
+
+<01>81`344.1
+<02>Fonologia gerativa.
+<09>81-116.6 Lingüística gerativa (N.A.Chomsky)
+<09>81`364 Gramática gerativa. Gramática transformacional
+<09>81`372 Semântica gerativa. Estrutura profunda e superficial
+
+<01>81`344.2
+<02>Fonemas.
+<09>81`342.4 Sons da fala: vogais, consoantes
+
+<01>81`344.22
+<02>Arquifonemas.
+
+<01>81`344.24
+<02>Cenemas.
+
+<01>81`344.3
+<02>Sistema fonológico.
+
+<01>81`344.32
+<02>Oposição distinta (fonológica).
+
+<01>81`344.34
+<02>Evolução de um sistema fonológico. Fonemização.
+
+<01>81`344.4
+<02>Características fonológicas.
+<09>81`342.4 Sons da fala: vogais, consoantes
+
+<01>81`344.6
+<02>Fonologia da função representativa.
+
+<01>81`344.62
+<02>Funções fonêmicas. Inclusive Função delimitativa. Função culminativa.
+
+<01>81`35
+<02>Grafemia. Ortografia.
+<09>003.03 Expressão gráfica da linguagem
+<09>003.08 Características da escrita
+<09>003.2/.3
+<09>81`342 Fonética
+
+<01>81`35l
+<02>Alfabeto (em geral).
+<09>003.23 Sistemas alfabéticos de escrita
+<09>003.33/.34 Escritas alfabéticas
+
+<01>81`352
+<02>Representação de vogais e ditongos.
+
+<01>81`353
+<02>Representação de consoantes.
+
+<01>81`354
+<02>Sistemas ortográficos. Ortografia fonética.
+<09>Reforma ortográfica.
+
+<01>81`355
+<02>Pronúncia.
+<09>808.5 Retórica do discurso. Arte ou técnica da expressão oral
+
+<01>81`36
+<02>Gramática.
+
+<01>81`36
+<02>-112 Gramática histórica
+<09>37.016:81... 
+<09>81-116.7 Tagmênica.Gramática tagmênica (K.L.Pike)
+<09>81-117 Escola de Londres (J.R.Firth), gramática sistemática de M.A.K. Halliday
+
+<01>81`362
+<02>Gramática comparada.
+
+<01>81`364
+<02>Gramática gerativa. Gramática transformacional. Inclusive Gramática de estado finito.
+                                 Gramática de estrutura de fase.
+<09>81-116.6 Lingüística gerativa (N.A.Chomsky)
+<09>81`344.1 Fonologia gerativa
+<09>81`372 Semântica gerativa. Estrutura profunda e superficial
+
+<01>81`366
+<02>Morfologia. Flexões (inflexões). 
+                                   Para tipos de línguas segundo a classificação morfológica, usar 81`443
+
+<01>81`366.2
+<02>Declinação, Tipos de declinação. Sistemas de
+declinação.
+
+<01>81`366.3
+<02>Conjugação. Tipos de conjugação. Inclusive Conjugação objetiva. Conjugação subjetiva.
+
+<01>81`366.5
+<02>Classes gramaticais.
+<09>81`367.7 Função sintática e emprego de diferentes categorias de palavras e classes gramaticais
+
+<01>81`366.52
+<02>Gênero.
+
+<01>81`366.521
+<02>Masculino.
+
+<01>81`366.522
+<02>Feminino.
+
+<01>81`366.523
+<02>Neutro.
+
+<01>81`366.53
+<02>Número.
+
+<01>81`366.531
+<02>Singular.
+
+<01>81`366.532
+<02>Dual.
+
+<01>81`366.533
+<02>Plural.
+
+<01>81`366.54
+<02>Caso.
+
+<01>81`366.541
+<02>Nominativo.
+
+<01>81`366.542
+<02>Vocativo.
+
+<01>81`366.543
+<02>Genitivo.
+
+<01>81`366.544
+<02>Acusativo.
+
+<01>81`366.545
+<02>Dativo.
+
+<01>81`366.546
+<02>Ablativo.
+
+<01>81`366.547
+<02>Locativo.
+
+<01>81`366.548
+<02>Instrumental.
+
+<01>81`366.549
+<02>Outros casos p. ex. nas línguas caucasianas). Inclusive Adessivo. Ilativo. Caritivo.
+
+<01>81`366.55
+<02>Comparação. Inclusive Comparativos. Superlativos.
+
+<01>81`366.56
+<02>Pessoa. Inclusive Primeira, segunda, terceira pessoa.
+
+<01>81`366.57
+<02>Voz.
+
+<01>81`366.571
+<02>Voz ativa.
+
+<01>81`366.573
+<02>Voz passiva.
+
+<01>81`366.574
+<02>Voz reflexiva. Voz média.
+
+<01>81`366.58
+<02>Tempo e aspecto.
+
+<01>81`366.581
+<02>Presente.
+
+<01>81`366.582
+<02>Passado.
+
+<01>81`366.582.2
+<02>Imperfeito.
+
+<01>81`366.582.3
+<02>Passado histórico. Pretérito. Passé défini. 
+
+<01>81`366.582.4
+<02>Aoristo. 
+
+<01>81`366.582.5
+<02>Perfeito. Perfeito do presente. Primeiro perfeito.
+
+<01>81`366.582.6
+<02>Mais-que-perfeito. Perfeito do passado. 
+
+<01>81`366.582.7
+<02>Passado anterior. Segundo perfeito do passado. Mais-que-perfeito duplo.
+
+<01>81`366.584
+<02>Futuro.
+
+<01>81`366.584.2
+<02>Futuro do presente. Primeiro futuro.
+
+<01>81`366.584.3
+<02>Perfeito do futuro. Segundo futuro.
+
+<01>81`366.587
+<02>Tipos de ação. Inclusive Perfectiva. Cursiva, durativa, imperfectiva. Iterativa. Terminativa.
+
+<01>81`366.59
+<02>Modo.
+
+<01>81`366.591
+<02>Indicativo.
+
+<01>81`366.592
+<02>Optativo.
+
+<01>81`366.593
+<02>Imperativo.
+
+<01>81`366.594
+<02>Conjuntivo. Subjuntivo.
+
+<01>81`366.596
+<02>Condicional.
+
+<01>81`367
+<02>Sintaxe.
+<09>81`366.54 Caso
+
+<01>81`367.2
+<02>Frases em geral: ritmo, acentuação, entonação,
+modulação.
+<09>81`342.9 Modulação da oração e da frase. Ritmo e entonação da fala
+
+<01>81`367.3
+<02>Tipos de oração ou frase.
+
+<01>81`367.32
+<02>Segundo a atitude do falante para com o conteúdo expresso.
+
+<01>81`367.321
+<02>Frases afirmativas.
+
+<01>81`367.322
+<02>Frases interrogativas.
+
+<01>81`367.323
+<02>Frases optativas.
+
+<01>81`367.33
+<02>Segundo o grau de sua complexidade. Complementos da oração.
+
+<01>81`367.332
+<02>Orações simples e suas partes.
+
+<01>81`367.332.2
+<02>Orações nominais.
+
+<01>81`367.332.3
+<02>Orações verbais.
+
+<01>81`367.332.6
+<02>Sujeito.
+
+<01>81`367.332.7
+<02>Predicado.
+
+<01>81`367.332.8
+<02>Cópula.
+
+<01>81`367.333
+<02>Complementos de oração: objeto, atributos (substantivo, adjetivo).
+
+<01>81`367.334
+<02>Orações incompletas. Equivalentes de oração.
+
+<01>81`367.335
+<02>Orações compostas. Frases (com orações coordenadas e subordinadas).
+
+<01>81`367.335.l
+<02>Parataxe. Coordenação.
+
+<01>81`367.335.2
+<02>Hipotaxe. Subordinação.
+
+<01>81`367.335.3
+<02>Elipse.
+
+<01>81`367.4
+<02>Frases do ponto de vista sintático. Inclusive Agrupamentos e grupos de palavras. Tipos e elementos de frases.
+                               Frase nominal. Frase verbal. Sintagmas.
+<09>81`373.74 Frases do ponto de vista léxico
+
+<01>81`367.5
+<02>Construção de frases e orações.
+
+<01>81`367.51
+<02>Organização da oração. Posicionamento das 
+orações principais e subordinadas nas frases compostas. Inclusive Ordem lógica, ordem invertida das orações.
+
+<01>81`367.52
+<02>Ordem das palavras. Posicionamento das partes do discurso dentro da oração. Inclusive Ordem lógica, ordem 
+	invertida das palavras.
+
+<01>81`367.6
+<02>Partes do discurso.
+<09>81`373.614 Etimologia de partes do discurso
+
+<01>81`367.62
+<02>Palavras léxicas. Palavras auto-semânticas.
+
+<01>81`367.622
+<02>Substantivos.
+
+<01>81`367.622.11
+<02>Substantivos comuns. 
+
+<01>81`367.622.12
+<02>Substantivos próprios. 
+
+<01>81`367.622.13
+<02>Substantivos concretos.
+
+<01>81`367.622.14
+<02>Substantivos abstratos.
+
+<01>81`367.622.15
+<02>Substantivos de agentes. Nomina agentis.
+
+<01>81`367.622.16
+<02>Substantivos de ação. Nomina actionis.
+
+<01>81`367.622.17
+<02>Nomina instrumenti.
+
+<01>81`367.622.18
+<02>Nomina loci.
+
+<01>81`367.622.19
+<02>Nomina temporis.
+
+<01>81`367.622.21
+<02>Substantivos coletivos.
+
+<01>81`367.622.22
+<02>Diminutivos. Hipocorísticos.
+
+<01>8l`367.622.23
+<02>Aumentativos.
+
+<01>81`367.623
+<02>Adjetivos.
+
+<01>81`367.623.1
+<02>Adjetivos concretos.
+
+<01>81`367.623.2
+<02>Adjetivos abstratos.
+
+<01>81`367.623.3
+<02>Adjetivos denominativos.
+
+<01>81`367.623.4
+<02>Adjetivos numerais.
+
+<01>81`367.623.6
+<02>Adjetivos possessivos.
+
+<01>81`367.623.7
+<02>Adjetivos demonstrativos.
+
+<01>81`367.623.8
+<02>Adjetivos interrogativos.
+
+<01>81`367.623.91
+<02>Adjetivos indefinidos.
+
+<01>81`367.623.92
+<02>Adjetivos relativos.
+
+<01>81`367.624
+<02>Advérbios. Inclusive Advérbios relativos. Partículas adverbiais.
+
+<01>81`367.625
+<02>Verbos e formas verbais.
+
+<01>81`367.625.1
+<02>Verbos transitivos.
+
+<01>81`367.625.2
+<02>Verbos intransitivos. 
+
+<01>81`367.625.3
+<02>Verbos finitos. 
+
+<01>81`367.625.4
+<02>Infinitivo, particípios, gerúndios, etc. 
+
+<01>81`367.625.41
+<02>Infinitivo. 
+
+<01>81`367.625.42
+<02>Supino. 
+
+<01>81`367.625.43
+<02>Particípios. Inclusive Particípio presente, passado, futuro.
+
+<01>81`367.625.44
+<02>Adjetivos verbais. Gerundivos.
+
+<01>81`367.625.45
+<02>Substantivos verbais. Gerúndios.
+
+<01>81`367.625.5
+<02>Verbos auxiliares.
+
+<01>81`367.626
+<02>Pronomes.
+
+<01>81`367.626.l
+<02>Pronomes pessoais.
+
+<01>81`367.626.2
+<02>Pronomes possessivos.
+
+<01>81`367.626.3
+<02>Pronomes demonstrativos.
+
+<01>81`367.626.4
+<02>Pronomes relativos.
+
+<01>81`367.626.5
+<02>Pronomes interrogativos.
+
+<01>81`367.626.6
+<02>Pronomes indefinidos.
+
+<01>81`367.626.7
+<02>Pronomes recíprocos.
+
+<01>81`367.626.8
+<02>Pronomes reflexivos.
+
+<01>81`367.627
+<02>Numerais. Inclusive Cardinais. Ordinais.
+
+<01>81`367.628
+<02>Interjeições.
+<09>81`373.47 Palavras exclamatórias. Pragas. Palavrões
+
+<01>81`367.63
+<02>Palavras gramaticais (palavras de função. palavras sinsemânticas).
+
+<01>81`367.632
+<02>Artigos. Inclusive Artigos definidos, indefinidos.
+
+<01>811`367.633
+<02>Preposições.
+
+<01>81`367.634
+<02>Conjunções.
+
+<01>81`367.635
+<02>Partículas.
+
+<01>81`367.7
+<02>Função sintática e emprego de diferentes categorias de palavras e classes gramaticais.
+<09>81`366.5 Classes gramaticais
+<09>81`373 Lexicologia 
+
+<01>81`3
+<02>Semântica.
+
+<01>81`37l
+<02>Tipos de significado. Inclusive Denotação (significado referencial). Conotação (significado emotivo. Significado 
+                           contextual).
+
+<01>81`372
+<02>Semântica gerativa. Estrutura profunda e
+                             superficial.
+<09>81-116.6 Lingüística gerativa (N.A.Chomsky)
+<09>81`344.1 Fonologia gerativa
+<09>81`364 Gramática gerativa. Gramática transformacional
+
+<01>81`373
+<02>Lexicologia.
+<09>81`367.7 Função sintática e emprego de diferentes categorias de palavras e classes gramaticais
+
+<01>81`373.2
+<02>Nomes segundo os tipos de objeto que denotam. Onomástica.
+
+<01>81`373.21
+<02>Nomes de lugares. Nomes geográficos e topográficos. Geônimos e topônimos. Toponímia.
+
+<01>81`373.22
+<02>Nomes na natureza (exceto geográficos ou topográficos).
+                                Especificar por meio de :... 
+<06>81`373.22:524.3 Nomes de estrelas
+
+<01>81`373.23
+<02>Nomes de pessoas, grupos de pessoas, povos,
+etc. Antroponímia.
+
+<01>81`373.231
+<02>Nomes próprios (pessoais). Prenomes, nomes
+de batismo, etc.
+
+<01>81`373.232
+<02>Nomes de família.
+
+<01>81`373.232.1
+<02>Sobrenomes. Sobrenomes pessoais.
+
+<01>81`373.232.2
+<02>Patronímicos. Matronímicos. 
+
+<01>81`373.232.3
+<02>Nomes de casas, de famílias: reais, nobres, etc. 
+
+<01>81`373.232.4
+<02>Nomes de grupos de parentesco (derivados de ancestrais comuns). 
+<06>81`373.232.4(411) Nomes de clãs escoceses ou
+<06>811.152.2`373.232.4 Nomes de clãs escoceses
+
+<01>81`373.233
+<02>Nomes de grupos com elo, status ou posição social comum. Inclusive Nomes de castas.
+
+<01>81`373.234
+<02>Nomes de povos ou raças com características
+étnicas e lingüísticas distintas.
+      Especificar por meio de (=.. ) (Tabela 1f) 
+<06>81`373.234(=81) Nomes de tribos indígenas norte-americanas
+
+<01>81`373.235
+<02>Nomes de habitantes de países, regiões, localidades, etc.
+<09>Especificar por (1/9) (Tabela 1e)
+
+<01>81`373.237
+<02>Nomes de profissões.
+
+<01>81`373.4
+<02>Categorias diversas de palavras.
+<09>81`373.72 Expressões idiomáticas
+
+<01>81`373.42
+<02>Palavras relacionadas na forma, sentido, raiz e som.
+
+<01>81`373.421
+<02>Sinônimos.
+
+<01>81`373.422
+<02>Antônimos.
+
+<01>81`373.423
+<02>Homônimos. Inclusive Homógrafos. Homófonos. Homônimos completos.
+
+<01>81`373.424
+<02>Palavras relacionadas pela raiz. Palavras etimologicamente afins e cognatas.
+<09>81`373.6 Etimologia
+<09>81`374.2-29:81`373.6 Dicionários etimológicos
+
+<01>81`373.43
+<02>Neologismos.
+
+<01>81`373.44
+<02>Arcaísmos.
+
+<01>81`373.45
+<02>Palavras estrangeiras. Palavras emprestadas. Estrangeirismos (traduções emprestadas). Semitraduções (empréstimos 
+                               misturados).
+<09>81`373.613 Empréstimo
+
+<01>81`373.46
+<02>Palavras de assuntos especializados. Inclusive Palavras técnicas.
+<09>81`276.6 Língua ou modo de falar profissional e técnico. Tecnoletos
+
+<01>81`373.47
+<02>Palavras exclamatórias. Pragas. Palavrões.
+<09>179.5 Blasfêmias. Imprecações, pragas. Profanidade de palavras
+<09>81`367.628 Interjeições
+
+<01>81`373.48
+<02>Palavras da moda. Modismos. Clichês. Chavões. Slogans, etc.
+
+<01>81`373.49
+<02>Eufemismos.
+
+<01>81`373.6
+<02>Etimologia.
+<09>81`374.2-029:81`373.6 Dicionários etimológicos
+
+<01>81`373.61
+<02>Leis gerais da etimologia.
+
+<01>81`373.611
+<02>Formação de palavras: raízes, afixos, reduplicação. Derivação. Palavras básicas e
+                                derivadas.
+
+<01>81`373.612
+<02>Significados das palavras e suas mudanças (leis semânticas). 
+
+<01>81`373.612.2
+<02>Uso metafórico das palavras. Metáfora (no sentido estrito). Metonímia. Sinédoque.
+
+<01>81`373.612.4
+<02>Pleonasmo.
+
+<01>81`373.613
+<02>Empréstimo.
+<09>81`373.45 Palavras estrangeiras. Palavras emprestadas. Estrangeirismo (traduções 
+                                    emprestadas)
+
+<01>81`373.614
+<02>Etimologia de partes do discurso.
+<09>Especificar por meio de `367.6...
+
+<01>81`373.7
+<02>Fraseologia.
+
+<01>81`373.72
+<02>Expressões idiomáticas.
+
+<01>81`373.74
+<02>Frases do ponto de vista léxico.
+<09>81`367.4 Frases do ponto de vista sintático
+
+<01>81`374
+<02>Lexicografia. Dicionários: sua compilação e conteúdo.
+   Classificar os próprios dicionários com o assunto, acrescentando o auxiliar de forma (038); ver os exemplos em
+      (038),  na Tabela 1d
+
+<01>81`374.2
+<02>Dicionários segundo o vocabulário que contêm.
+<06>81`374.2:81’374.421 Dicionários de sinônimos (como assunto)
+<06>81`374.2:54 Dicionários de química (como assunto) 
+<06>81`374.2-029:81`373.6 Dicionários etimológicos (como assunto)
+
+<01>81`374.7
+<02>Dicionários segundo sua ordenação (arranjo).
+
+<01>81`374.72
+<02>Ordem formal.
+
+<01>81`374.72l
+<02>Ordem alfabética.
+
+<01>81`374.722
+<02>Ordem pela raiz das palavras.
+
+<01>81`374.73
+<02>Ordem conceitual (semântica).
+
+<01>81`374.74
+<02>Ordem segundo a estrutura gráfica dos caracteres.
+
+<01>81`374.8
+<02>Lexicografia segundo o número das línguas.
+<06>81`374.8-022.214 Lexicografia monolíngüe (de uma língua)
+<06>81`374.8-022.215 Lexicografia bilíngüe
+<06>81`374.8-022.218 Lexicografia multilíngüe
+
+<01>81`38
+<02>Estilística geral.
+
+<01>81`42
+<02>Lingüística do texto. Análise do discurso.
+
+<01>81`44
+<02>Lingüística típológica.
+                                     Para famílias e grupos lingüísticos, ver 811...
+
+<01>81`442
+<02>Tipos de línguas segundo a classificação fonológica (tipologia).
+
+<01>81`442.2
+<02>Línguas vocálicas (línguas que têm menos de 70 por cento de fonemas consonantais).
+
+<01>81`442.3
+<02>Línguas consonantais (línguas que têm mais de 70 por cento de fonemas consonantais).
+
+<01>81`443
+<02>Tipos de língua segundo a classificação morfológica.
+
+<01>8l`443.2
+<02>Línguas isolantes.
+
+<01>81`443.3
+<02>Línguas aglutinantes.
+
+<01>81`443.4
+<02>Línguas flexionadas.
+
+<01>81`443.5
+<02>Línguas polissintéticas.
+<09>Divisões principais
+
+<01>811
+<02>Línguas.
+       A s subdivisões de 811 podem ser derivadas de =1/=9 (Tabela 1c Línguas), substituindo o sinal de igualdade por um 
+       ponto. Aqui são enumerados apenas alguns exemplos de línguas e grupos lingüísticos. Para maior especificação das
+       diversas línguas ou grupos de línguas, acrescentar '0/'44 e/ou –2/-26 
+
+<01>811.111
+<02>-26 Inglês como língua literária 
+
+<01>811.124`02
+<02>’36 Gramática do latim clássico 
+
+<01>811.134.2`24
+<02>Conhecimento prático de espanhol
+
+<01>811.163.
+#ERRO1( l usado no lugar do 1 ?) <02>l`366.53 Número (singular, dual. plural) no antigo eslavo eclesiástico
+
+<01>811.1/.9
+<02>dividido como =1/=9 (Tabela 1c)
+
+<01>811.1/.2
+<02>Línguas indo-européias.
+
+<01>811.1
+<02>Línguas indo-européias em geral.
+
+<01>811.11
+<02>Línguas germânicas.
+
+<01>811.111
+<02>Inglês.
+<09>Indicar as fases por meio de `0... 
+
+<01>811.111`01
+<02>Anglo-saxão (inglês antigo) 
+
+<01>811.111`04
+<02>Inglês médio
+
+<01>811.112.2
+<02>Alemão (alto-alemão, alemão-padrão escrito).
+      Indicar as fases por '0... 
+<06>811.112.2`04 Médio alto-alemão (c.séculos X-XIV)
+
+<01>811.112.5
+<02>Holandês (flamengo na Bélgica e no nordeste da França). 
+
+<01>811.12
+<02>Línguas itálicas.
+
+<01>811.124
+<02>Latim.
+      Indicar as fases por '0... 
+<06>811.124` 0 l Latim antigo 
+<06>811.124`02 Latim clássico 
+<06>811.124`03 Latim vulgar 
+<06>811.124`04 Latim medieval 
+<06>811.124`06 Latim moderno (p. ex. para nomenclatura científica)
+
+<01>811.13
+<02>Línguas românicas.
+
+<01>811.131.1
+<02>Italiano.
+
+<01>811.133.1
+<02>Francês.
+       Indicar as fases por meio de  `0... 
+<06>811.133.1`01 Francês antigo 
+<06>811.133.1`03 Anglo-normando
+
+<01>811.134.2
+<02>Espanhol.
+<06>811.134.2`282.3(468.1) Dialeto andaluz do espanhol
+
+<01>811.134.3
+<02>Português.
+
+<01>811.14
+<02>Grego (helênico).
+       Indicar as fases por meio de '0... 
+<06>811.14`02 Grego clássico 
+<06>811.14`03 Coiné (grego do Novo Testamento)
+
+<01>811.14`04
+<02>Grego bizantino 
+
+<01>811.14`06
+<02>Grego moderno
+
+<01>811.15
+<02>Línguas célticas.
+
+<01>811.16
+<02>Línguas eslavas.
+
+<01>811.161.1
+<02>Russo.
+
+<01>811.17
+<02>Línguas bálticas.
+
+<01>811.21/.22
+<02>Línguas indo-iranianas.
+
+<01>811.214.21/.22
+<02>Hindustani (complexo hindi-urdu)
+
+<01>811.214.21
+<02>Hindi.
+
+<01>811.214.22
+<02>Urdu.
+
+<01>811.29
+<02>Línguas mortas indo-européias (não relacionadas em outros lugares).
+
+<01>811.34
+<02>Línguas mortas de filiação desconhecida, faladas no Mediterrâneo e no Oriente Próximo (exceto semíticas).
+
+<01>811
+<02>35	Línguas caucásias.
+
+<01>811.361
+<02>Basco (euskera, euskara).
+
+<01>811.41
+<02>Línguas afro-asiáticas (hamito-semíticas).
+
+<01>811.411.16
+<02>Hebraico.
+                                           Indicar as fases por meio de `0... 
+<06>811.411.16`02 Hebraico bíblico 
+<06>811.411.l6`03 Mishnaico 
+<06>811.411.16`04 Hebraico medieval. Hebraico rabínico
+<06>811.411.16`08 Hebraico moderno
+                                            
+
+<01>811.411.21
+<02>Árabe.
+       Indicar as fases por meio de `0.... 
+<06>811.411.21`02 Árabe clássico 
+<06>811.411.21`06 Árabe moderno ('padrão')
+
+<01>811.42
+<02>Línguas nilo-saarianas.
+
+<01>811.43
+<02>Línguas congo-kordofanianas (nígero-kordofanianas).
+
+<01>811.432.875
+<02>Grupo suaíli.
+
+<01>811.45
+<02>Línguas khoisan.
+
+<01>811.51
+<02>Línguas uralo-altaicas.
+
+<01>811.511.141
+<02>Húngaro.
+
+<01>811.521
+<02>Japonês.
+
+<01>811.531
+<02>Coreano.
+
+<01>811.541
+<02>Ainu.
+
+<01>811.55
+<02>Línguas paleossiberianas.
+
+<01>811.56
+<02>Línguas esquimó-aleútes.
+
+<01>811.57
+<02>Línguas dravídicas.
+
+<01>811.58
+<02>Línguas sino-tibetanas.
+
+<01>811.581
+<02>Línguas chinesas.
+
+<01>811.61
+<02>Línguas austro-asiáticas.
+
+<01>811.621
+<02>Línguas malaio-polinésias.
+
+<01>811.622
+<02>Línguas oceânicas.
+
+<01>811.71
+<02>Línguas indo-pacíficas (não-austronésias).
+
+<01>811.72
+<02>Línguas australianas.
+
+<01>811.8
+<02>Línguas ameríndias.
+
+<01>811.81/.82
+<02>Línguas norte-ameríndias.
+
+<01>811.87
+<02>Línguas centro e sul-ameríndias.
+
+<01>811.9
+<02>Línguas artificiais.
+
+<01>811.92
+<02>Línguas artificiais para uso entre seres humanos. Línguas auxiliares internacionais (interlínguas).
+
+<01>811.93
+<02>Línguas artificiais usadas para programar máquinas. Linguagens de programação. Linguagens de computador.
+                                     Usar apenas para o estudo de tais línguas do ponto de vista lingüístico
+                                   Especificar pela extensão alfabética (Tabela 1h)
+
+
+<01>82
+<02>Literatura
+
+<09>Os aspectos fitológicos da literatura podem ser indicados pela combinação de dois
+pontos com 801 e suas subdivisões 801.6/.83
+<09>Os aspectos lingüísticos da literatura podem ser indicados pela combinação de dois pontos com 81...
+<09>Maiores detalhes podem ser indicados pelos auxiliares comuns, combinação de
+dois pontos, etc.
+<06>82:001.8 Sistemática da literatura
+<06>82:1 Filosofia da literatura
+<06>82:111.852 Estética da literatura. Gosto literário
+<06>82:176.8 Ética literária, inclusive plágio
+<06>82:7.079 Festivais de literatura
+<06>82(091) História literária em geral
+<09>Subdivisões auxiliares especiais
+
+
+<01>82
+<02>-1/-9		Formas literárias. Gêneros.
+
+<01>82
+<02>-1		Poesia. Poemas. Verso.
+
+<01>82
+<02>-12	Verso dramático.
+<09>82-2 Teatro. Peças
+
+<01>82
+<02>-13	Poemas épicos.
+
+<01>82
+<02>-132	Epopéia jocosa. Poemas heróicos cômicos.
+
+<01>82
+<02>-133	Poemas bucólicos. Poemas pastorais.
+<09>Idílios. Éclogas.
+
+<01>82
+<02>-14	Poemas líricos.
+
+<01>82
+<02>-141	Odes religiosas. Hinos. Canções laudatórias. Verso ritual. Odes báquicas, 
+                                  ditirambos. Poemas metafísicos, místicos.
+
+<01>82
+<02>-142	Odes heróicas. Panegíricos.
+
+<01>82
+<02>-143	Elegias. Lamentos. Monodias. Trenodias.
+
+<01>82
+<02>-144	Baladas.
+<09>398.8 Cantos populares. Cantos folclóricos. Cantos tradicionais. Baladas
+<09>82-146.2 Baladas sentimentais. Canções de amor
+
+<01>82
+<02>-145	Poemas morais, filosóficos.
+
+<01>82
+<02>-146	Canções sentimentais, cômicas, etc.
+
+<01>82
+<02>-146.1	Cantos báquicos. Cantos eróticos.
+
+<01>82
+<02>-146.2	Baladas sentimentais. Canções de amor.
+
+<01>82
+<02>-146.3	Canções cômicas.
+
+<01>82
+<02>-147	Cantatas. Poemas destinados a serem musicados.
+
+<01>82
+<02>-15	Poemas didáticos.
+
+<01>82
+<02>-16	Poemas descritivos.
+
+<01>82
+<02>-17	Poemas satíricos e humorísticos.
+
+<01>82
+<02>-191	Poemas alegóricos. Fábulas, parábolas em verso, etc.
+
+<01>82
+<02>-192	Verso melódico. Verso com música.
+->82-147 Cantatas. Poemas destinados a serem cantados.
+
+<01>82
+<02>-193	               Formas poéticas mais curtas.
+
+<01>82
+<02>-193.1	Enigmas, adivinhações.
+<09>398.6 Adivinhações. Enigmas. Rébus. Piadas tradicionais. Lemas, divisas, heráldica popular.
+
+<01>82
+<02>-193.2	Epigramas. Madrigais (no sentido literário).
+<09>784.15 Madrigais
+<09>801.675.2 Formas italianas de verso
+
+<01>82
+<02>-193.3	Sonetos.
+<09>801.675.2 Formas italianas de verso
+
+<01>82
+<02>-193.4	Rondéis, rondós. Triolés.
+<09>801.675.1 Formas francesas de verso
+
+<01>82
+<02>-193.5	Poemas nupciais. Inclusive Epitalâmios. Protalâmios.
+
+<01>82
+<02>-193.6	Epitáfios. Inscrições tumulares.
+
+<01>82
+<02>-194	Almanaques poéticos.
+
+<01>82
+<02>-2	Teatro. Peças.
+<09>792 Teatro. Arte teatral. Representações teatrais
+<09>81-12 Verso dramático
+
+<01>82
+<02>-21	Tragédias.
+
+<01>82
+<02>-22	Comédias.
+
+<01>82
+<02>-221	Comédia no sentido estrito. Inclusive Drama com um final feliz, mas que não é discrepante da seriedade.
+
+<01>82
+<02>-222	Comédias, i.e., peças para divertir. Comédias leves. Vaudevilles. Lustspiele. Inclusive Alta comédia. Comédia 
+                               aristocrática. Baixa comédia, comédia da vida de classe baixa. Comédia de intriga.
+
+<01>82
+<02>-223	Farsa. Comédia popular. Comédia de situação.
+
+<01>82
+<02>-224	Série de cenas independentes. Esquetes.
+<09>Revistas.
+
+<01>82
+<02>-225	Paródia. Sátira.
+->82-17 Poemas satíricos e humorísticos
+<09>82-7 Sátira em prosa. Humor, epigrama, paródia, etc.
+
+<01>82
+<02>-23	Melodramas. Peças de suspense.
+<09>Mistérios, Teatro popular.
+
+<01>82
+<02>-24	Peças históricas.
+
+<01>82
+<02>-25	Tipos diversos de peças.
+
+<01>82
+<02>-251		Teatro religioso
+<09>82-97 Literatura religiosa em geral
+
+<01>82
+<02>-252	Peças de fantasias, de histórias de fadas.
+
+<01>82
+<02>-254	Peças para apresentação em ocasiões festivas. Peças ocasionais.
+
+<01>82
+<02>-27	Monólogos. Recitações, declamações. Peças para um único ator.
+
+<01>82
+<02>-28	Peças tendenciosas, didáticas, propagandísticas.
+
+<01>82
+<02>-291	Teatro medieval e renascentista.
+
+<01>82
+<02>-291.1		Teatro litúrgico. Inclusive Peças religiosas, bíblicas. Peças de milagres, de mistérios. Peças da Natividade, da Paixão.
+<09>82-251 Teatro religioso
+<09>82-97 Literatura religiosa em geral
+
+<01>82
+<02>-291.2	Teatro secular. Inclusive Moralidades. Peças morais com exemplos edificantes. Farsas satíricas.
+                                Peças de tolos.
+
+<01>82
+<02>-292	Teatro popular. Peças folclóricas, populares.
+<09>398.54 Peças populares
+
+<01>82
+<02>-293	Teatro musical. Libretos.
+<09>78.089.1 Libretos. Legendas. Comentários
+<09>782 Música dramática. Ópera
+
+<01>82
+<02>-293.1	Ópera.
+
+<01>82
+<02>-293.2	Óperas cômicas. Operetas.
+
+<01>82
+<02>-293.4	Teatro musicado. Teatro declamado com
+acompanhamento musical. Melodrama (no sentido estrito).
+<09>82-23 Melodramas. Peças de suspense. Mistérios. Teatro popular
+
+<01>82
+<02>-3	Ficção. Narrativa em prosa.
+
+<01>82
+<02>-31	Romances.
+
+<01>82
+<02>-311.1	Romances psicológicos. Romances introspectivos, na primeira pessoa.
+
+<01>82
+<02>-311.2	Romances de costumes e caracteres. Descrição da vida quotidiana. Romances realísticos,
+romances da vida como ela é.
+
+<01>82
+<02>-311.3	Romances que dependem do enredo. Romances de aventura.
+
+<01>82
+<02>-311.4	Romances sociais. Romances picarescos.
+
+<01>82
+<02>-311.5	Romances frívolos, cômicos.
+
+<01>82
+<02>-311.6	Romances históricos. Romances políticos. Romances de guerra.
+
+<01>82
+<02>-311.7	Romances tendenciosos, didáticos, propagandísticos.
+
+<01>82
+<02>-311.8	Romances de viagem. Romances exóticos.
+
+<01>82
+<02>-311.9	Romances científicos. Ficção científica.
+
+<01>82
+<02>-312.1	Romances filosóficos. Inclusive Romances existenciais.
+
+<01>82
+<02>-312.2	Romances religiosos. Romances com temas
+místicos ou morais.
+
+<01>82
+<02>-312.3	Romances bucólicos. Histórias da vida no campo.
+
+<01>82
+<02>-312.4	Romances de crime. Romances de detetive. Romances policiais. Romances de mistério.
+suspense.
+
+<01>82
+<02>-312.5	Ficção popular, barata, sensacionalista.
+
+<01>82
+<02>-312.6	Romances autobiográficos. Biografia em estilo de ficção, romances semibiográficos.
+
+<01>82
+<02>-312.7	Romances epistolares. Romances de diálogo.
+
+<01>82
+<02>-312.8	Romances simbólicos, cabalísticos.
+
+<01>82
+<02>-312.9	 Romances fantásticos, de fantasia.
+
+<01>82
+<02>-313.1	 Romances satíricos.
+
+<01>82
+<02>-313.2	 Romances utópicos.
+
+<01>82
+<02>-32	 Histórias curtas. Narrativas curtas. Novelas.
+<06>82-32 dividido como  82-31
+
+<01>82
+<02>-34	 Contos.
+<09>398.2 Contos populares. Narrativas. Humor popular
+
+<01>82
+<02>-341	 Contos cômicos.
+<09>82-311.5 Romances frívolos, cômicos
+
+<01>82
+<02>-342	Contos com moral teórica ou prática. Fábulas.
+
+<01>82
+<02>-343	Mitos. Lendas. Histórias de fadas.
+
+<01>82
+<02>-344	Contos sobre o fantástico, o sobrenatural, o macabro.
+
+<01>82
+<02>-36	Historietas. Contos breves. Anedotas.
+<09>398.23 Anedotas. Humor popular
+
+<01>82
+<02>-39	Romances antigos (p. ex. medievais).
+
+<01>82
+<02>-4	Ensaios.
+
+<01>82
+<02>-5	Oratória. Discursos. Inclusive Sermões. Discursos. Palestras. Saudações.
+
+<01>82
+<02>-6	Cartas. Arte de escrever cartas.
+<09>Correspondência. Cartas genuínas. Outras obras em forma epistolar.
+
+<01>82
+<02>-7	Sátira em prosa. Humor, epigrama, paródia, etc.
+
+<01>82
+<02>-82	Poligrafias. Seleções, extratos. Antologias. Coletâneas de curiosidades.
+<09>08 Poligrafias. Obras de autoria coletiva
+
+<01>82
+<02>-83	Diálogos filosóficos ou discursivos. Conversações sobre vários assuntos.
+
+<01>82
+<02>-84	Máximas. Sentenças. Aforismos. Ditos profundos. Adágios. Provérbios.
+                               Pensamentos. Conversa de mesa. Obiter dicta.
+
+<01>82
+<02>-845	               Chistes. Trocadilhos. Jogos de palavras.
+
+<01>82
+<02>-9	Outros gêneros diversos.
+
+<01>82
+<02>-91	Literatura popular. Inclusive Edições populares. Versões simplificadas.
+<09>087.6 Literatura popular. Literatura, folhetos de cordel
+<09>398.5 Literatura popular. Teatro tradicional
+
+<01>82
+<02>-92	Literatura periódica. Textos impressos em
+publicações seriadas, jornais, revistas. Jornalismo. Literatura ocasional. Escritos polêmicos, políticos. Panfletos.
+<09>050 Publicações seriadas
+<09>070 Periódicos
+
+<01>82
+<02>-93	Literatura para crianças. Literatura
+juvenil.
+<09>087.5 Publicações para jovens
+
+<01>82
+<02>-94	História como gênero literário. Escritos históricos. Historiografia. Crônicas. Anais. Memórias. Diários. 
+                             Biografia. Autobiografia.
+<09>82(091) História da literatura em geral
+<09>929 Estudos biográficos e afins
+
+<01>82
+<02>-95	Crítica como gênero literário. Recensões. Histórias literárias.
+<09>82.09 Crítica literária. Estudos literários
+
+<01>82
+<02>-96	Obras de ciência e filosofia como literatura.
+
+<01>82
+<02>-97	Literatura religiosa em geral.
+<09>27-29 Literatura cristã
+<09>82-251 Teatro religioso
+<09>82-291.1 Teatro litúrgico
+
+<01>82
+<02>-98	Motes, slogans, lemas. Máximas pessoais. Inscrições. Rébus, cartas enigmáticas.
+<09>Charadas. Anagramas.
+
+<01>82
+<02>-991	Dissertações.
+
+<01>82
+<02>-992	Descrições de viagens.
+
+<01>82
+<02>-993	Literatura licenciosa, lasciva. Literatura erótica. Pornografia.
+
+<01>82
+<02>-994	Literatura excêntrica. Literatura de loucos, visionários, iluminados.
+
+<01>82
+<02>-995	Contrafações literárias. Pastiches. Obras imaginárias, atribuídas a alguém.
+<09>098.3 Obras perdidas. Obras imaginárias, hipotéticas, projetadas. Obras anunciadas, mas nunca publicadas
+
+<01>82`0
+<02>Origens e períodos das línguas. Fases de desenvolvimento.
+
+<01>82`0
+<02>dividido como 81’0
+
+<01>82`01
+<02>Períodos antigos ou primitivos. Formas iniciais.
+
+<01>82`04
+<02>Período médio. Medieval 
+
+<01>82`06
+<02>Período moderno.
+
+<01>82`282
+<02>Literatura em línguas locais e regionais, dialetos, variantes e vernáculos.
+
+<01>82`282
+<02>dividido como 81'282
+
+<01>82...
+<02>A/Z	Obras de autores individuais.
+<09>O número para a literatura na língua pertinente é selecionado de 821... e os autores são indicados pelo nome,       abreviado,  se convier 
+<06>821.111SHAK Obras de Shakespeare 
+<06>821.133.1-2MOL Obras teatrais de Molière
+
+<01>82...
+<02>A/Z1/7         Tipos de edição.
+
+<01>82...
+<02>A/Z1/7].01      Na língua original. 
+
+<01>82...
+<02>A/Z1/7].02       Em edição bilíngüe ou comentada. 
+
+<01>82...
+<02>A/Z1/7].03      Texto traduzido. Texto transliterado (p.ex. latinizado).
+
+<01>82...
+<02>A/Z1/7].05      Condensações. Paráfrases. 
+
+<01>82...
+<02>A/Z1/7].07        Interpretações. Recensões. 
+
+<01>82...
+<02>A/Z1/7].08       Língua e estilo (do autor ou obra).  Inclusive Vocabulário. Gramática. Características estilísticas. 
+
+<01>82...
+<02>A/Z1/7].091     Fontes da obra. Material de fonte do autor (obras imitadas, adaptadas, etc.). 
+
+<01>82...
+<02>A/ZI/7].092      Continuações, seqüências (com título diferente ou por outros autores).
+
+<01>82...
+<02>A/ZI/7].093    Defesas. Apologias.
+
+<01>82...
+<02>A/Zl	              Obras ou coleções completas.
+
+<01>82...
+<02>A/Z2		Coleções incompletas.
+
+<01>82...
+<02>A/Z3	Seleções. Antologias.
+
+<01>82...
+<02>A/Z4	Contribuições às obras de outros autores. Obras em colaboração.
+
+<01>82...
+<02>A/Z411	Introduções. Prefácios. Prólogos. Apresentações. Epígrafes. Dedicatórias.
+
+<01>82...
+<02>A/Z412	Obras coletivas, em colaboração (organizadas pelo autor ou com contribuições do autor).
+
+<01>82...
+<02>A/Z5	Obras anônimas atribuídas a um autor. Obras sob pseudônimos, criptônimos.
+
+<01>82...
+<02>A/Z6	Obras no nome do autor mas atribuídas a outros. Obras espúrias.
+
+<01>82...
+<02>A/Z7	Obras individuais.
+       Acrescentar o titulo, abreviado se for o caso 
+
+<01>821.111
+<02>SHAK7ROM Romeu e Julieta de Shakespeare
+
+<01>821.111
+<02>SHAK7ROM.03= 112.2 Romeu e Julieta, traduzido para o alemão
+
+<01>82.0
+<02>Teoria, estudo e técnica da literatura.
+<09>Estes auxiliares especiais podem ser usados com os números para a literatura das diversas línguas ou para as formas            
+
+<01>l
+<02>iterárias ou ambas 
+<06>82-2.09 Crítica de obras teatrais 
+<06>821.112.2-2.09 Crítica de obras teatrais alemãs
+
+<01>82.02
+<02>Escolas, tendências e movimentos literários.
+<09>Especificar por “...” (Tabela 1g), (1/9) (Tabela 1e) ou pela extensão alfabética (Tabela 1h)
+<09>Para as escolas e tendências em lingüística, ver 81-11...
+
+<01>82.09
+<02>Crítica literária. Estudos literários.
+
+<01>82.091
+<02>Estudos literários comparados. Literatura comparada. 
+<09>Divisões principais
+
+<01>821
+<02>Literaturas das diversas línguas.
+<09>As subdivisões de 821 podem ser derivadas de =1/=9 (Tabela 1c Línguas), substituindo-se o sinal de igualdade por um   ponto. Aqui são enumerados apenas alguns exemplos.
+                                        Indicar a literatura em dialeto por `282 e subdivisões. Usar (4/9) para classificar as literaturas regionais ou nacionais,  
+                                         seja no próprio 821, seja na literatura de uma língua particular.
+<06>821.1/.9 dividido como =l/=9 (Tabela 1c) 
+<06>821(494) Literatura suíça em geral 
+<06>821.133.1(494) Literatura suíça na língua francesa 
+<06>821.133.1*282.4(494)Literatura no dialeto suíço do francês
+
+<01>821.111
+<02>Literatura inglesa.
+
+<01>821.111
+<02>(73) Literatura norte-americana, i.e., literatura dos EUA na língua inglesa 
+
+<01>821.111
+<02>(411) Literatura escocesa na língua inglesa
+<06>821.111`282.3(414) Literatura escocesa em lallans (dialeto inglês das Lowlands escocesas)
+
+<01>821.112.2
+<02>Literatura alemã.
+<06>821.112.2(436) Literatura austríaca em alemão
+
+<01>821.133.1
+<02>Literatura francesa.
+<06>821.13 3. l (71) Literatura canadense em francês
+<06>821.134.2 Literatura espanhola.
+<06>821.134.2(7/8) Literatura hispano-americana 
+<06>821.134.2( 8) Literatura sul-americana em espanhol
+<06>821.134.2(82) Literatura argentina
+
+<01>821.134.3
+<02>Literatura portuguesa.
+<06>821.134.3(81) Literatura brasileira
+
+<01>821.14
+<02>Literatura grega (helênica).
+<06>821.14`02 Literatura do grego clássico 
+<06>821.14`06 Literatura do grego moderno
+
+<01>821.161.1
+<02>Literatura russa.
+
+<01>821.521
+<02>Literatura japonesa.
+
+<01>821.922
+<02>Literatura em esperanto.
+
+
+<01>9
+<02>Geografia. Biografia. História
+       A Tabela 1e (Auxiliares comuns de lugar) e a Tabela 1g  (Auxiliares comuns de tempo) serão continuamente 
+       utilizadas nesta classe. Além disso, a Tabela 1k-05 pode ser necessária para exprimir características pessoais, 
+       a Tabela 1k-03 para materiais usados na fabricação de artefatos em arqueologia, e a Tabela 1f (Agrupamento 
+      étnico) para tópicos em história. A Tabela 1c (Auxiliares comuns de forma) será necessária constantemente, e 
+      em geografia as subdivisões de (084.3) podem ser úteis para exprimir a forma e a escala dos mapas.
+
+<01>9
+<02>-05 Pessoas e características pessoais em geografia, biografia e história
+
+
+<01>902
+<02>Arqueologia.
+<09>Métodos e técnicas para o estudo das antigas civilizações e culturas com base no descobrimento e interpretação  de ruínas e vestígios materiais. 
+
+<09>Subdivisões auxiliares especiais
+
+<01>902.01
+<02>Tipologia. Estudo comparado da forma. Estratigrafia. Estudo comparado de locais.
+     Associações. Achados. Seriação.
+
+<01>902.03
+<02>Arqueologia segundo as condições, localização, etc. do sítio e das escavações. 
+                                        Estas subdivisões auxiliares especiais podem ser usadas para ampliar as subdivisões principais abaixo. Elas 
+                                          pressupõem a ordem de citação: técnica -ramo especial da arqueologia. No caso de ser necessário inverter a 
+                                          ordem, deve-se usar os dois pontos 
+<06>902.4.034 Técnicas de registro em arqueologia subaquática 
+<06>902.34:902.4 Arqueologia subaquática -técnicas de registro
+<06>902.03 dividido como 69.03
+
+<01>902.034
+<02>Arqueologia subaquática.
+
+<01>902.4.034
+<02>Técnicas de registro em arqueologia subaquática
+
+<01>902.034.4
+<02>Arqueologia de restos parcialmente submersos.
+
+<01>902.035
+<02>Arqueologia de sítios subterrâneos profundos, sítios em encostas de montanhas, cavernas e
+abrigos rochosos.
+<06>906.66.035 Técnicas de datação geocronológica na arqueologia de cavernas 
+<09>Divisões principais
+
+<01>902.2
+<02>Trabalho de campo e sítios arqueológicos em geral.
+<09>351.853 Supervisão de monumentos, sítios históricos e arqueológicos, edificações históricas. Proteção de características da natureza
+<09>502 O meio ambiente e sua proteção
+
+<01>902.3
+<02>Métodos e técnicas de arqueologia de campo. Inclusive Técnicas de escavação, de preservação.
+
+<01>902.4
+<02>Técnicas de registro em arqueologia.
+
+<01>902.6
+<02>Técnicas de datação em arqueologia.
+
+<01>902.62
+<02>Datação por estratigrafia.
+
+<01>902.63
+<02>Datação por seqüência. Datação por seriação.
+
+<01>902.64
+<02>Datação por tipologia.
+
+<01>902.65
+<02>Técnicas físico-químicas de datação. Datação por radiocarbono. Datação
+paleomagnética. Datação por análise química. Datação pela pátina, hidratação de obsidiana.
+termoluminescência.
+
+<01>902.66
+<02>Técnicas geocronológicas de datação.
+ Seqüência de varvito glacial, taxa de
+sedimentação.
+
+<01>902.67
+<02>Técnicas paleontológicas (paleobotânicas e paleozoológicas) de datação. Inclusive Palinologia (análise do pólen). 
+                               Dendrocronologia (datação pelos anéis de crescimento)
+<09>630`55 Determinação da idade das árvores
+
+<01>903
+<02>Pré-história. Restos, artefatos e relíquias pré-históricas.
+       Interpretação e síntese dos restos materiais do homem primitivo, suas formas culturais e suas civilizações.
+        Três diferentes tabelas auxiliares especiais podem ser usadas com 903 e suas subdivisões. Esses conceitos são
+        introduzidos por -4. para exprimir a forma e o tipo dos restos, .0 para expressar os materiais dos quais são feitos 
+       os objetos e o `(apóstrofo) para expressar o tipo de cultura e nível de civilização. Todas três podem ser usadas em
+       combinação ou independentemente, de acordo com a necessidade. Usar preferencialmente as subdivisões de .01/.08
+       quando for possível, p. ex. 903.01, e não 903-494.2 Objetos lascados. A ordem de citação (o inverso da ordem de 
+      arquivamento) é: 1. Tipo de cultura e nível de civilização. 2. Materiais e técnicas. 3. Tipo e forma dos restos 
+
+<01>903
+<02>“63” Períodos e idades arqueológicas, pré-históricas, proto-históricas 
+
+<01>903
+<02>-03 Materiais dos restos e artefatos . NOTA:ver –03... (Tabela 1k) para a enumeração dos materiais
+
+<01>903
+<02>-032.42 Restos de ouro 
+
+<01>903
+<02>-033.64 Restos de barro 
+
+<01>903
+<02>-034.4 Restos de cobre
+
+<01>903.21`12.05
+<02>Ferramentas de metal fundido de povos caçadores
+
+<01>903.23`15.02
+<02>Cerâmica feita em torno de povos nômades
+
+<01>903.25
+<02>-032.42 Ornamentos de ouro
+
+<01>903.26`14.08
+<02>-035.3 Objetos de culto feitos de madeira talhada de povos pastoris
+
+<01>903.5`16
+<02>Restos funerários de culturas adiantadas no trabalho em fazendas
+<09>7.031 Arte pré-histórica. Arte primitiva (antiga e moderna)
+<09>Subdivisões auxiliares especiais
+
+<01>903
+<02>-4	Tipo e forma dos restos.
+
+<01>903
+<02>-4 dividido como 62-4
+
+<01>903
+<02>-422.11	Objetos redondos.
+
+<01>903
+<02>-462	Tubos.
+
+<01>903.01
+<02>Objetos de pedra e osso segundo o método
+de modelar utilizado. Inclusive Objetos lascados, desbastados, polidos.
+
+<01>903.02
+<02>Cerâmica segundo o método de manufatura. Inclusive Cerâmica modelada, feita com anéis, feita no torno.
+
+<01>903.03
+<02>Vidro segundo o método de manufatura.
+
+<01>903.04
+<02>Têxteis segundo o método de manufatura. Inclusive Têxteis trançados, tricotados, tecidos.
+
+<01>903.05
+<02>Artefatos de metal segundo o método de manufatura. Inclusive Metal fundido e forjado.
+
+<01>903.07
+<02>Artefatos segundo a qualidade da execução.
+
+<01>903.08
+<02>Ornamentação. Decoração. Inclusive Objetos pintados, talhados, esculpidos. 
+
+<01>903`1
+<02>Formas de culturas pré-históricas.
+
+<01>903`12
+<02>Culturas de caça e pesca.
+
+<01>903`13
+<02>Culturas de agricultura primitiva.
+
+<01>903`14
+<02>Culturas pastoris.
+
+<01>903`15
+<02>Culturas nômades.
+
+<01>903`16
+<02>Culturas de agricultura avançada.
+
+<01>903`18
+<02>Culturas urbanas (civilizações).
+<09>Divisões principais
+
+<01>903.2
+<02>Artefatos.
+
+<01>903.21
+<02>Ferramentas.
+
+<01>903.22
+<02>Armas.
+
+<01>903.23
+<02>Vasos. Jarros. Urnas. Tigelas.
+
+<01>903.24
+<02>Vestuário.
+
+<01>903.25
+<02>Ornamentos pessoais.
+
+<01>903.26
+<02>Objetos de culto. Objetos religiosos.
+
+<01>903.27
+<02>Restos artísticos. Inclusive Pinturas em cavernas.
+<09>7.031.1 Arte pré-histórica
+
+<01>903.28
+<02>Restos de alimentos. Restos de cozinha. Sambaquis.
+
+<01>903.3
+<02>Habitações pré-históricas.
+
+<01>903.4
+<02>Assentamentos pré-históricos.
+
+<01>903.5
+<02>Restos funerários. Inclusive Sepulcros pré-históricos, túmulos.
+
+<01>903.6
+<02>Monumentos pré-históricos de pedra.
+
+<01>903.7
+<02>Lugares de culto. Inclusive Templos, altares.
+
+<01>903.8
+<02>Depósitos intencionais (exceto túmulos). Inclusive Provisões. Depósitos votivos. Achados cm pântanos.
+
+<01>904
+<02>Restos culturais dos tempos históricos.
+<09>Antiguidades, artefatos dos tempos antigos, medievais e modernos. 
+      Indicar o assunto ou campo de interesse pela combinação de dois pontos com 0/9 
+      Especificar a localização por (1/9). a data por "... " e os materiais por -03 da Tabela 1k 
+<06>904:6 Antiguidades industriais 
+<06>904:621 Máquinas e ferramentas antigas 
+<06>904:624.21 Pontes históricas e seus restos 
+<06>904:72 Arquitetura histórica e restos 
+<06>904:725.826 Restos de estádios, anfiteatros, etc.
+<09>7.031 Arte pré-histórica. Arte primitiva (antiga e moderna)
+
+<01>908
+<02>Estudos de área. Estudo de uma localidade.
+       Classificar aqui estudos abrangentes de história, geografia, costumes, cultura, economia, etc. de uma área. 
+       Especificar a localidade pela Tabela 1e (3/9) 
+
+<01>908
+<02>(411) Estudos gerais sobre a Escócia 
+
+<01>908
+<02>(414.45) Estudos gerais sobre Midlothian
+
+<01>908
+<02>(436.5) Estudos sobre Kärnten (Caríntia), inclusive: Kärtner Heimatbuch91 Geografia. Exploração da Terra e dos diversos países. Viagens. Geografia regional
+                		       Informações sobre um assunto específico em relação a determinado lugar são
+                                          classificadas no assunto, com o emprego de (1/9) Tabela 1e
+<06>331.2(450) Salários na Itália
+<09>308 Sociografia. Estudos descritivos da sociedade (tanto qualitativos quanto quantitativos)
+<09>528 Geodésia. Agrimensura. Levantamento topográfico. Fotogrametria. Sensoreamento remoto. 
+		      Cartografia
+<09>55 Geociências. Ciências da Terra. Ciências geológicas
+
+
+<01>910
+<02>Questões gerais. Geografia como ciência. Exploração. Viagens.
+
+
+<01>910.1
+<02>Ciência da geografia. Metodologia (teoria, sistemas, métodos).
+
+<01>910.2
+<02>Tipos e técnicas de exploração geográfica. Inclusive Trabalho de campo. Exploração e viagens.
+
+<01>910.21
+<02>Preparação. Planejamento.
+
+<01>910.22
+<02>Equipamento. Instrumentos. Bagagem. Vestuário
+
+<01>910.26
+<02>Avaliação ou interpretação da literatura, mapas e outros documentos do ponto de
+vista geográfico.
+<06>910.26:528.77 Interpretação geográfica de fotogramas aéreos
+
+<01>910.27
+<02>Mapeamento geográfico. Mapeamento temático no campo.
+
+<01>910.3
+<02>Exploração de determinadas características geográficas.
+<06>910.3:551.324 Exploração de geleiras
+
+<01>910.4
+<02>Viagens de descobrimento. Inclusive Viagens. Expedições. Excursões.
+<06>910.4:796.5 Excursões em forma de marcha, montanhismo, alpinismo, acampamento 
+
+<01>910.4
+<02>(091) Relatos históricos de viagens, etc. 
+
+<01>910.4
+<02>(100) Viagens internacionais e mundiais 
+<06>910.4(430:450) Viagens entre a Alemanha e a Itália
+
+<01>911
+<02>Geografia geral. Ciência dos fatores geográficos (geografia sistemática). Geografia teórica. 
+
+<01>911.2
+<02>Geografia física.
+<06>911.2:556 Hidrogeografia 
+<06>911.2:581.9 Geografia de plantas (fitogeografia) como ramo da geografia física
+<09>574.9 Biogeografia em geral. Distribuição geográfica dos
+                          	organismos
+<09>581.9 Botânica geográfica. Geografia dos vegetais (fitogeografia). 
+                          	Floras. Distribuição geográfica dos vegetais
+<09>591.9 Zoologia geográfica. Zoogeografia. Fauna. Distribuição 
+                          	geográfica dos animais
+
+<01>911.3
+<02>Geografia humana (geografia cultural). Geografia dos fatores culturais. 
+<06>911.3:30 Geografia social 
+<06>911.3:314 Geografia demográfica 
+<06>911.3:32 Geografia política 
+<06>911.3:33 Geografia econômica
+
+<01>911.37
+<02>Assentamentos humanos. Geografia dos assentamentos.
+<09>658.21 Escolha do local. Situação. Localização. Relocalização. Remoção 
+<09>71 Planejamento territorial, físico. Planejamento regional, urbano e rural. Paisagens, parques, jardins.
+
+<01>911.372
+<02>Locais, tipos, função, formas de assentamento.
+<09>Assentamentos abandonados, desertos.
+
+<01>911.372.2
+<02>Assentamentos humanos segundo sua
+distribuição e situação espacial.
+
+<01>911.372.2
+<02>(23.07-04) Limites de altitude dos assentamentos
+
+<01>911.372.3
+<02>Tipos de assentamentos humanos. 
+	       Especificar o tipo pela combinação de dois pontos.
+<06>911.372.3:316.324.22 Assentamentos de caçadores e colhedores
+
+<01>911.372.31
+<02>Assentamentos isolados.
+
+<01>911.372.32
+<02>Assentamentos agrupados.
+
+<01>911.372.4
+<02>Assentamentos segundo sua função.
+<06>911.372.4:27-788 Assentamentos monásticos 
+<06>911.372.4:35 Centros administrativos como assentamentos 
+<06>911.372.4:796.9 Estações de esportes de inverno como assentamentos
+<09>711.45 Cidades, localidades, assentamentos, segundo a função, a indústria principal, etc. Centros de indústrias diversas
+<09>711.451 Centros administrativos. Capitais regionais (sedes municipais, etc.)
+<09>711.455 Estações de água, estâncias de veraneio, férias, diversões
+<09>711.55 Unidades segundo a função
+<09>711.56 Localidades com finalidade religiosa. Localidades que têm como centro uma igreja ou catedral
+<09>911.375.4 Cidades segundo a função
+
+<01>911.372.5
+<02>Modelo, plano (perspectiva), elevação dos
+assentamentos.
+
+<01>911.372.7
+<02>Serviços públicos nos assentamentos. Infra-estrutura dos assentamentos.
+
+<01>911.372.9
+<02>Assentamentos abandonados. Abandono, despovoamento de assentamentos.
+
+<01>911.373
+<02>Assentamentos humanos no meio rural (seu estudo e geografia).
+
+<01>911.374
+<02>Tipos especiais de assentamentos.
+
+<01>911.374.1
+<02>Assentamentos suburbanos pequenos.
+
+<01>911.374.2
+<02>Assentamentos rurais que funcionam como centros.
+
+<01>911.374.3
+<02>Centros comerciais não-integrados. Fora de áreas construídas.
+
+<01>911.374.4
+<02>Centros industriais e manufatureiros (fora de áreas construídas).
+
+<01>911.374.5
+<02>Assentamentos de locais de tráfego. Assentamentos de entroncamentos ferroviários.
+
+<01>911.374.6
+<02>Assentamentos residenciais do tipo urbano (em campo aberto).
+
+<01>911.374.7
+<02>Assentamentos escolares e eclesiásticos (em campo aberto).
+
+<01>911.374.8
+<02>Assentamentos fortificados e propriedades de nobres (em campo aberto).
+
+<01>911
+<02>.375	Assentamentos urbanos (seu estudo e geografia). Cidades.
+
+<01>911.375.1
+<02>Crescimento urbano. Urbanização.
+
+<01>911.375.12
+<02>Crescimento de novos distritos. Expansão desordenada
+
+<01>911.375.3
+<02>Tipos de cidade.
+		     Especificar o tamanho por meio de (188), da Tabela 1e, e a data por meio de "...”, da Tabela 1g
+<09>711.417 Cidades-jardim. Cidades novas. Cidades-satélites
+<09>711.42 Tipos de cidade, localização, assentamento
+
+<01>911.375.4
+<02>Cidades segundo a função.
+<06>911.375.4:378.4 Cidades universitárias
+<09>711.45 Cidades, localidades, assentamentos, segundo a função, a indústria principal, etc. Centros de indústrias diversas
+<09>711.47 Centros de saber. Cidades onde as atividades universitárias são dominantes
+<09>711.55 Unidades segundo a função
+<09>711.57 Localidades intelectuais, educacionais. Centros de saber. Localidades centradas em bibliotecas, museus, galerias, escolas, universidades. Distritos de exposições
+<09>911.372.4 Assentamentos segundo sua função
+
+<01>911.375.5
+<02>Urbanismo. Inclusive Planta, leiaute, planta alta, perfil, silhueta da cidade.
+
+<01>911.375.6
+<02>Divisão interna e usos do solo urbano. Setores, bairros, quarteirões, distritos da
+cidade.
+
+<01>911.375.62
+<02>Divisões funcionais, usos do solo urbano.
+<06>911.375.62:656 Área ocupada pelos serviços de trânsito e transporte
+
+<01>911.375.63
+<02>Divisões da cidade relativamente ao centro.
+
+<01>911.375.631
+<02>Centro urbano. Centro da cidade.
+
+<01>911.375.632
+<02>Subúrbios. Áreas suburbanas.
+
+<01>911.375.635
+<02>Arredores da cidade. Área periférica. Entorno.
+
+<01>911.375.64
+<02>Distritos, zonas, bairros da cidade.
+<09>Especificar a função pela combinação de dois pontos e caracterizar os moradores com o emprego da Tabela 1k -05
+<06>911.375.64:725.1:354  Distritos governamentais, de ministérios 
+<06>911.375.64:725.1:656.21 Distritos de estação ferroviária 
+<06>911.375.64:725.1:78/79 Distritos de recreação e divertimento
+<06>911.375.64:728 Distritos residenciais 
+<06>911.375.64:728-054 Segundo as características predominantes étnicas, de nacionalidade, cidadania etc.
+<06>911.375.64:728-058 Segundo a classe social, o status civil predominante dos habitantes 
+<06>911.375.64:728-058.34 Bairros pobres. Distritos de grupos de baixa renda
+<09>711.5 Unidades, áreas, dentro da cidade ou assentamento
+
+<01>911.375.67
+<02>Divisão administrativa da cidade
+
+<01>911.5/.9
+<02>Geografia teórica.
+
+<01>911.5
+<02>Geografia tipológica.
+<09>Estudo de tipos de paisagens geográficas e das divisões nelas baseadas.
+
+<01>911.52
+<02>Paisagem natural.
+
+<01>911.53
+<02>Paisagem cultural.
+
+<01>911.6
+<02>Divisões espaciais e unidades regionais.
+
+<01>911.7
+<02>Geografia comparada. Inclusive Pesquisa regional comparada.
+
+<01>911.8
+<02>Geografia normativa. Inclusive Normas e leis da forma, ecologia,
+desenvolvimento, etc.
+
+<01>911.9
+<02>Geografia prática, aplicada.
+<06>911.9:502 Aplicação da geografia à conservação e proteção da vida selvagem
+
+<01>912
+<02>Representações não-literárias, não-textuais de uma região. Inclusive Fotografias. Gráficos.
+                                  Diagramas, Perfis. Cartogramas. Mapas. Atlas. Globos (como expressões do conhecimento 
+                                  geográfico)
+<06>912 dividido como (08)
+<06>912(6)“17” Representações não-textuais da África no século XVIII
+<06>912 dividido como (08)
+<09>528 Geodésia. Agrimensura. Levantamento topográfico. Fotogrametria. Sensoreamento 
+                                        remoto. Cartografia
+<09>778.35 Fotografia aéreas
+
+<01>912.43
+<02>Imagens cartográficas, mapas, etc. (como expressões de conhecimento geográfico).
+
+<01>912.643
+<02>Globos.
+
+<01>913
+<02>Geografia regional em geral. Geografia do mundo antigo.
+
+<01>913
+<02>(100) Geografia regional do mundo 
+
+<01>913
+<02>(21) Geografia das áreas terrestres como um todo 
+
+<01>913
+<02>(26) Geografia dos oceanos e mares como um todo
+
+<01>913
+<02>(3) Geografia do mundo antigo 
+
+<01>913
+<02>(315) Geografia da antiga China
+
+<01>913
+<02>(32/39) Geografia de outros países do mundo antigo
+
+<01>913
+<02>(38) Geografia da Grécia antiga 
+
+<01>913
+<02>(399.7) Geografia da América pré-colombiana 
+
+<01>913
+<02>(4/9) Descrições das diversas regiões e países do mundo moderno (do ponto de vista ou não dos especialistas, da
+geografia como ciência)
+
+<01>913
+<02>(4) Geografia da Europa 
+
+<01>913
+<02>(41) Geografia das Ilhas Britânicas 
+
+<01>913
+<02>(410) Geografia da Grã-Bretanha e do Reino Unido
+
+<01>913
+<02>(430) Geografia da Alemanha
+
+<01>913
+<02>(436) Geografia da Áustria 
+
+<01>913
+<02>(5) Geografia da Ásia 
+
+<01>913
+<02>(7) Geografia da América do Norte e América Central
+
+<01>913
+<02>(73) Geografia dos Estados Unidos 
+
+<01>913
+<02>(9) Geografia da Oceania, das regiões polares. Australásia, etc.
+
+
+<01>929
+<02>Estudos biográficos e afins
+
+       Indicar o assunto ou especialidade pela combinação de dois pontos com 0/9. A ordem de citação pode ser Biografia -
+      assunto, ou Assunto - biografia, trocando-se a posição dos números em qualquer dos lados dos dois pontos, à vontade. 
+      Para manter a coerência, deve-se adotar sempre apenas uma dessas alternativas 
+     Especificar o país por (1/9), o período por “...”, as pessoas por A/Z (Tabela 1h)
+<06>929:27-36 Vidas de santos. Hagiografia. NOTA: usar 27-36:929, se for preferível um arranjo Assunto – biografia.
+<06>929:272-732.2 Biografia de papas
+<06>929:75 Biografias de pintores
+#ERRO2(Texto orfao sem tag ?)  <06>929Grotius Biografias de Hugo Grotius (Huig de Groot)
+#ERRO2(Texto orfao sem tag ?)  <06>929Charles(44)5 Biografias do rei Carlos V da França
+<09>(092) Apresentação em forma biográfica
+<09>012 Bibliografias de autores, de escritores. Bibliografias individuais
+<09>82-94 História como gênero literário. Escritos de natureza histórica. Crônicas. Anais. Memórias. Diários. Biografia.
+<09>Autobiografia. Historiografia
+
+<01>929.5
+<02>Genealogia.
+
+<01>929.51
+<02>Genealogia teórica.
+<09>575.1 Hereditariedade
+
+<01>929.511
+<02>Teoria da descendência, das tabelas de
+descendência.
+
+<01>929.512
+<02>Teoria da ascendência, das tabelas de
+ascendência.
+
+<01>929.513
+<02>Teoria do parentesco colateral, da
+consangüinidade.
+
+<01>929.52
+<02>Genealogia especial. Histórias de famílias.
+      Especificar por meio dos auxiliares comuns, aqui e nas subdivisões
+
+<01>929.52
+<02>VAR História da família Vargas 
+<06>929.52:81`373.232 Nomes de família e suas origens 
+<06>929.522(815.6) Tabelas de ascendência de famílias paulistas 
+<06>929.522  “17” Tabelas de ascendência para o século XV1I
+
+<01>929.521
+<02>Tabelas de descendentes. Tabelas de descendência. Tabelas de linhagem. Árvores
+genealógicas.
+
+<01>929.522
+<02>Tabela de ancestrais. Tabelas de ascendência. Linhagem. Linhagem ancestral.
+
+<01>929.523
+<02>Prova de relação sangüínea. Tabelas de consangüinidade.
+
+<01>929.53
+<02>Fontes da genealogia. Inclusive Registros de nascimentos, óbitos e casamentos. Registros batismais. Registros de enterro.
+                                   Registros de estado civil. Registros civis.
+<09>27-735 Gerenciamento e administração na Igreja Católica
+<09>27-774-735 Gerência e administração em paróquias
+<09>347.183 Registro civil: uso, manutenção, supervisão. Coleta e centralização, no lugar de nascimento, dos 
+	documentos sobre determinada pessoa. Notas marginais.
+<09>351.755 Fiscalização e registro de moradores, de residentes
+
+<01>929.532
+<02>Registros eclesiásticos. Registros paroquiais.
+<06>929.532:27-725 Listas do clero (como fonte genealógica)
+
+<01>929.535
+<02>Registros de autoridades seculares, civis.
+<06>929.535:351.755 Registro civil (da polícia, etc.) como fonte genealógica
+
+<01>929.55
+<02>Inscrições funerárias. Epitáfios.
+<09>726.82 Monumentos fúnebres
+<09>82-193.6 Epitáfios. Inscrições  tumulares
+
+<01>929.6
+<02>Heráldica. Inclusive Estudo de brasões. Armas. Escudos de armas. Panóplias.
+<09>736.3 Sigilografia. Esfragística 
+
+<01>929.62
+<02>Teoria e princípios.
+
+<01>929.621
+<02>O escudo e suas várias formas.
+
+<01>929.622
+<02>Pintura heráldica. Cores armoriais.
+
+<01>929.623
+<02>As divisões do campo heráldico.
+
+<01>929.624
+<02>Divisas. Motes. Timbres. Figuras.
+
+<01>929.624.1
+<02>Divisas ordinárias e comuns. Inclusive Asnas, losangos.
+
+<01>929.624.2
+<02>Divisas naturais. Figuras humanas, animais, plantas.
+
+<01>929.624.3
+<02>Objetos feitos pelo homem, artefatos, como divisas. Inclusive Castelos, armas.
+
+<01>929.624.5
+<02>Formas fantásticas como divisas. Inclusive Dragões.
+
+<01>929.624.8
+<02>Marcas, monogramas de família.
+
+<01>929.628
+<02>Acessórios. Inclusive Acessórios de cabeça (elmos, coroas, diademas). Marcas de hierarquia. Insígnias, emblemas. 
+<09>Subdivisões auxiliares especiais
+
+<01>929.64
+<02>Armoriais segundo o conteúdo.
+
+<01>929.64`2
+<02>Natureza dos armoriais.
+
+<01>929.64`4
+<02>Forma dos armoriais.
+<09>Divisões principais
+
+<01>929.642
+<02>Famílias.
+
+<01>929.643
+<02>Famílias, troncos civis e eclesiásticos.
+
+<01>929.644
+<02>Famílias e troncos civis.
+
+<01>929.645
+<02>Famílias e troncos eclesiásticos.
+
+<01>929.646
+<02>Troncos civis e eclesiásticos.
+
+<01>929.647
+<02>Pessoas jurídicas civis.
+
+<01>929.648
+<02>Pessoas jurídicas eclesiásticas.
+
+<01>929.65
+<02>Fontes heráldicas.
+
+<01>929.651/.653
+<02>Objetos oficiais.
+
+<01>929.651
+<02>Selos.
+
+<01>929.652
+<02>Moedas e medalhas.
+<09>737 Numismática
+
+<01>929.653
+<02>Cartas. Documentos. Diplomas.
+
+<01>929.655
+<02>Construções públicas e privadas.
+
+<01>929.657
+<02>Obras de arte.
+                                 Especificar por meio de :73/76
+
+<01>929.7
+<02>Nobreza. Títulos. Nobiliarquia.
+<09>Subdivisões auxiliares especiais
+
+<01>929.7.031
+<02>Natureza, características, estabelecimento e estrutura da nobreza.
+
+<01>929.7.032
+<02>Criação, investidura. Aquisição de nobreza. Nobreza de meio sangue.
+
+<01>929.7.034
+<02>Prova, verificação de nobreza.
+
+<01>929.7.035
+<02>Direitos, prerrogativas, privilégios da nobreza.
+
+<01>929.7.036
+<02>Direitos, obrigações da nobreza.
+
+<01>929.7.037
+<02>Renúncia a títulos. Títulos sem uso. Extinção de títulos.
+
+<01>929.7.038
+<02>Marcas de nobreza. Insígnias. Trajes.
+<09>Divisões principais
+
+<01>929.71
+<02>Ordens de cavalaria. Condecorações.
+<09>671.128 Distintivos e condecorações semelhantes
+
+<01>929.73
+<02>Graus de nobreza. Hierarquia. Precedência.
+
+<01>929.731
+<02>Realeza. Monarcas. Reis. Príncipes. Arquiduques. Grão-duques.
+
+<01>929.732
+<02>Nobreza hereditária. Duques. Marqueses. Condes. Viscondes. Barões. Baronetes.
+<09>Margraves.
+
+<01>929.733
+<02>Nobreza pessoal (não-hereditária). Pares nomeados, vitalícios. Cavaleiros.
+
+<01>929.735
+<02>Nobreza da terra. Senhores rurais.
+
+<01>929.737
+<02>Nobreza cívica. Famílias respeitadas, acatadas (não-estritamente nobres).
+
+<01>929.9
+<02>Bandeiras. Estandartes. Pavilhões.
+
+<01>929.921
+<02>Bandeiras nacionais. Cores nacionais.
+
+<01>929.922
+<02>Bandeiras locais e regionais. Bandeiras estaduais. Inclusive Bandeiras municipais, de cidades.
+
+<01>929.923
+<02>Bandeiras e estandartes oficiais de personalidades. Inclusive De chefes de Estado.
+
+<01>929.924
+<02>Bandeiras e estandartes de forças armadas nacionais. Inclusive Exército. Marinha. Força aérea.
+
+<01>929.925
+<02>Bandeiras de marinha mercante.
+
+<01>929.927
+<02>Bandeiras de organizações, de sociedades.
+
+<01>929.929
+<02>Outras bandeiras. Inclusive Bandeiras internacionais (das Nações Unidas). Bandeiras, flâmulas de iates. Bandeiras 
+	de sinalização. Bandeiras de código.
+
+<01>929.93
+<02>Bandeiras da nobreza e ordens de cavalaria.
+<06>929.93 dividido como 929.7
+
+<01>93/94
+<02>História
+
+<09>(091) Apresentação histórica em sentido estrito
+<09>(093) Fontes históricas
+
+<01>930
+<02>Ciência da história. Ciências auxiliares da história.
+       Classificar aqui os trabalhos sobre historiografia e a situação dos estudos históricos em determinados lugares e 
+       períodos 
+
+<01>930
+<02>(485)“18” Situação dos estudos históricos na Suécia no século XIX
+
+<01>930.1
+<02>História como ciência. Inclusive Teoria e filosofia da história. Estrutura e forma da história.
+
+<01>930.2
+<02>Metodologia da história. Estudos baseados em fontes escritas, registros, inscrições.
+<06>930.2:003.071 Epigrafia (como ciência auxiliar da história). Estudo de inscrições
+<06>930.2:003.072 Paleografia (como ciência auxiliar da história). Estudo de escrita antiga
+<06>930.2:003.074 Diplomática (como ciência auxiliar da história). Estudo crítico de características internas, estudo e forma dos 
+       documentos 
+<06>930.2:81`22 Semiótica (como ciência auxiliar da história).
+
+<01>930.23
+<02>Crítica histórica.
+
+<01>930.24
+<02>Cronologia histórica.
+<09>006.92 Horologia. Determinação e normalização do tempo
+
+<01>930.25
+<02>Arquivologia. Arquivística. Arquivos (inclusive arquivos públicos e outros).
+<09>005.92 Administração de registros
+
+<01>930.251
+<02>Técnicas e organização de arquivos. Inclusive Estabelecimento e administração dos acervos, fundos 
+                               arquivísticos.
+
+<01>930.253
+<02>Acervos arquivísticos e seus conteúdos. Inclusive História, abrangência, organização e descrição dos 
+                              conteúdos de arquivos. 
+<06>930.253:352 Arquivos de governos locais. Arquivos municipais
+
+<01>930.255
+<02>Listas, inventários e catálogos de arquivos.
+
+<01>930.85
+<02>História da civilização. História cultural.
+<09>008 Civilização. Cultura. Progresso
+<09>130.2 Filosofia da cultura. Sistemas culturais. Teoria dos complexos culturais
+<09>17.023.36 Perfeição. Progresso. Cultura, civilização
+
+
+<01>94
+<02>História geral
+
+<09>A história de países e povos é expressa pelo emprego da Tabela 1e (Auxiliares comuns de lugar), da Tabela 1g (Auxiliares comuns de tempo),  e. quando apropriado, da Tabela 1f(Auxiliares comuns de grupos étnicos e nacionalidade),  para povos que possuem uma história comum,  mas que não podem ser geograficamente limitados;  p. ex,. hititas, judeus, ciganos. Quando houver um número nos auxiliares comuns de lugar, p. ex. Região dos eslavos, esse número deve ser preferido
+<09>Para alguns países existem subdivisões auxiliares especiais, se houver necessidade de uma   notação mais sucinta, mas elas não são recomendadas. 
+<06>94(100) História mundial (resumo cronológico dos fatos)
+<06>94(100)“...05” História antiga em geral .História dos povos antigos
+<06>94(100)“05/...” História medieval e moderna em geral
+<06>94(100)“1914/1919” Primeira Guerra Mundial, 1914-19
+<06>94(100)“1939/1945” Segunda Guerra Mundial, 1939-45
+<06>94(3) História do Mundo antigo
+<06>94(315) História da China antiga (até ca. 600 DC)
+<06>94(32) História do antigo Egito (até 640 DC)
+<06>94(34) História da Índia antiga (até 647 DC)
+<06>94(35) História da Medo-Pérsia Antiga
+<06>94(36) História dos povos da Europa setentrional, ocidental e oriental até 476 DC
+<06>94(363) Historia das tribos germânicas
+<06>94(364) História dos celtas
+<06>94(366) História dos bretões
+<06>94(367) História dos eslavos
+<06>94(37) História da Roma antiga (até 476 DC)
+<06>94(38) História da Grécia antiga (até 323 DC)
+<06>94(397) História da África antiga
+<06>94(398) História do sudeste da Europa
+<06>94(4+7) História do Ocidente
+<06>94(4) História da Europa
+<06>94(4)“0375/1492” Idade Média européia (no sentido lato) ca. 375-1492
+<06>94(4)“1492/1914” História moderna da Europa, ca. 1492-1914
+<06>94(4)“192/199” História da Europa a partir de 1919. História européia do século XX em geral
+<06>94(4)“1945/...” História da Europa a partir de 1945. Europa do pós-guerra 
+<06>94(=214.58) História dos povos rotnanis, ciganos. 
+<06>94(=411.16) História do povo judeu.
+<06>94(=822.21) História dos astecas
+<06>94(=873.122) História dos Incas
+
+
+<01>94
+<02>(41/99) História dos países
+
+    Se se desejar, a história antiga de determinado país, p. ex. China, Grécia, pode ser também 
+         classificada aqui, ao invés de dispersá-la, devido ao emprego de (3) (Áreas do mundo antigo) 
+ 
+
+<01>94
+<02>(41)	História das Ilhas Britânicas.
+      Classificar aqui a história das divisões administrativas atuais do Reino Unido 
+
+<01>94
+<02>(410.111) História da Grande Londres
+
+<01>94
+<02>(411)	História da Escócia.
+<06>94(411)“.../1057” Período gaélico, até 1057 
+<06>94(411)“1057/1314” Esforços da Inglaterra para controlar: 1057-1314. Batalha de Bannockburn: 1314
+<06>94(411)“1314/1424” Reino independente: 1314-1424
+<06>94(411)“1424/1542” De Jaime I a Jaime V: 1424-1542
+<06>94(411)“1542/1603” Reforma: 1542-1603
+<06>94(411)“1603/1707” União pessoal com a Inglaterra: 1603-1707
+<06>94(411)“1707/1837” Ato da União. Casa de Hanover: 1707-1837
+<06>94(411)“1837/2000” Era Vitoriana e século XX: 1837-2000
+<06>94(411)“2001/...” Século XXI, 2001-...
+
+<01>94
+<02>(415)	História da Irlanda.
+                                      Alternativamente usar 94(416) e 94(417) para arquivar informação sobre as duas áreas separadamente. 
+<06>94(415)“".../1086” História primitiva: até 1806
+<06>94(415)“1806/1171” Reinos separados: 1806-1171
+<06>94(415)“1171/1399” Casa dos Plantagenetas: 1171-1399
+<06>94(415)“1399/1485” Casas de Lancaster e York: 1399-1485
+<06>94(415)“1485/1603” Casa de Tudor: 1485-1603
+<06>94(415)“103/1691” Casa de Stuart, até o Tratado de Limerick: 1603-1691
+<06>94(415)“1691/1800” Do Tratado de Limerick ao Act of Union: 1691/1800. Inclusive A Casa de Hanover
+<06>94(415)“1801/1900” O século XIX: 1801-1900
+<06>94(415)“1901/1920” Até o Ato do Governo da Irlanda (Government of Ireland Act) : 1920
+<06>94(415)“1920/...” A partir de 1920. NOTA sobre a Irlanda do Norte e o Estado Livre Irlandês (posteriormente 
+                                      República da Irlanda): usar alternativamente 94(416) e 94(417) para arquivar informação sobre as duas áreas 
+                                      separadamente
+
+<01>94
+<02>(416)	História da Irlanda do Norte.
+
+<01>94
+<02>(417)	Historia do Estado Livre da Irlanda e República
+da Irlanda.
+
+<01>94
+<02>(420)	História da Inglaterra e da Grã-Bretanha.
+<09>Classificar aqui a história do Reino Unido como um todo. Para a história dos países do Reino Unido separadamente, ver 94(411), 94(415) e 94(429), assim como 94(420). Ver também 94(41) e a respectiva nota.
+<06>94(420)“.../1066” Pré-história, períodos romano e anglo-saxão
+
+<01>94
+<02>(420)“1066/1154” Reis normandos: 1066-1154
+
+<01>94
+<02>(420)“1154/1399” Casa Plantagenetas: 1154-1399
+
+<01>94
+<02>(420)“1399/1485” Casas de Lancaster e York: 1399-1485. Guerras das Rosas: 1455-1485
+
+<01>94
+<02>(420)“1485/1603” Casa de Tudor: 1485-1603. Períodos dos Tudor e Elizabetano
+
+<01>94
+<02>(420)“1603/1714” Casa de Stuart: 1603-1714. Interregno: 1649-1660. A Comunidade (Commonwealth). Cromwell. A Restauração.
+
+<01>94
+<02>(420)“1714/1837” Casa de Hanover: 1714-1837. Períodos Georgiano e da Regência 
+
+<01>94
+<02>(420)“1837/...” Vitória e a Casa de Windsor: 1837-
+
+<01>94
+<02>(420)“1837/1901” Vitória: 1837-1901
+
+<01>94
+<02>(420)“1901/1910” Eduardo VII: 1901-1910
+
+<01>94
+<02>(420)“1910/1936” Eduardo VIII: 1936
+
+<01>94
+<02>(420)“1936/1952” Jorge VI: 1936-1952
+
+<01>94
+<02>(420)“1952/...” Elizabeth II: 1952-
+
+<01>94
+<02>(429)	História do País de Gales.
+
+<01>94
+<02>(430)	História da Alemanha.
+
+<01>94
+<02>(450)	História da Itália.
+
+<01>94
+<02>(460)	História da Espanha.
+
+<01>94
+<02>(469)	História de Portugal.
+
+<01>94
+<02>(44)	História da França.
+
+<01>94
+<02>(5)	História do Oriente. História da Ásia.
+
+<01>94
+<02>(54)	História do subcontinente indiano.
+<06>94(54)“0647/1774” Dinastias asiáticas e penetração européia: 647-1774. Conquistas muçulmanas. Período mogul
+<06>94(54)“1765/1947” A Índia britânica: 1765-1947. Inclusive Companhia da Índia Oriental (East India Company). 
+                                      Amotinação de Sepoy, o controle por parte da Coroa Britânica
+<06>94(54)“1947/...” A Independência e a divisão: 1947- . Inclusive Estados da Índia, do Paquistão, de Bangladesh.
+	      NOTA: alternativamente usar 94(540), 94.(549.1) e 94(549.3) para classificar informação sobre esses países 
+	      separadamente.
+
+<01>94
+<02>(540)	História da Índia.
+<09>94(54)“1747/...” 
+
+<01>94
+<02>(549.1)	História do Paquistão.
+<09>94(54)“1947/...”
+
+<01>94
+<02>(549.3)	História de Bangladesh
+<09>94(54)“1947/...” 
+
+<01>94
+<02>(569.4)	História da Palestina e de Israel
+<06>94(569.4)“.../0070” História primitiva até 70 DC
+<06>94(569.4)“0070/0638” Período pré-islâmico: 70-638
+<06>94(569.4)“0638/1917” Palestina medieval e moderna: 638-1917
+<06>94(569.4)“1917/1948” A Palestina sob o controle britânico e o mandato: 1917-1948
+<06>94(569.4)“1948/...” Independência: 1948- . NOTA sobre o Estado de Israel: alternativamente usar 94(569.4) para 
+                                      classificar a história de Israel
+<09>(=411.16) Hebreus. Judeus. Israelitas
+
+<01>94
+<02>(591)		História da Birmânia
+<06>94(591)“.../1826” História primitiva até 1826
+<06>94(591)“1826/1885” Período da conquista britânica: 1826-1885
+<06>94(591)“1885/1948” Domínio britânico: 1885-1948
+<06>94(591)“1948/...” Independência: 1948-
+
+<01>94
+<02>(595)		História da Malásia, de Malaia, dos assentamentos humanos dos estreitos e de Cingapura
+
+<01>94
+<02>(6)	História da África.
+
+<01>94
+<02>(62)	História do Egito e Sudão
+
+<01>94
+<02>(620)	História do Egito.
+<06>94(620)“0640/1517” Período do domínio árabe: 640-1517
+<06>94(620)“1517/1882” Período do domínio otomano: 1517-1882
+<06>94(620)“1882/1922” Ocupação britânica e protetorado: 1882-1922
+<06>94(620)“1922/...” Independência: 1922-
+
+<01>94
+<02>(624)	História do Sudão
+<06>94(624)“.../1820” Da invasão árabe, no século VII, até 1820
+<06>94(624)“1820/1956” Período do domínio egípcio e britânico: 1820-1956. Sudão Anglo-Egípcio
+<06>94(624)“1956/...” Independência, 1956
+
+<01>94
+<02>(664)	História de Serra Leoa
+<06>94(664)“.../1787” História primitiva até 1787
+<06>94(664)“1787/1896” Colônia britânica: 1787-1896
+<06>94(664)“1896/1961” Colônia e protetorado: 1896-1961
+<06>94(664)“1961/...” Independência: 1961-
+
+<01>94
+<02>(665.1)	História de Gâmbia
+<06>94(665.1)“.../1807” História primitiva até 1807
+<06>94(665.1)“1807/1965” Colônia britânica: 1807-1965
+<06>94(665.1)“1965/...” Independência: 1965
+
+<01>94
+<02>(667)	História de Gana
+<06>94(667)“.../1874” História primitiva até 1874
+<06>94(667)“1874/1957” Colônia britânica: 1874-1957. Costa do Ouro
+<06>94(667)“1957/...” Independência: 1957-
+
+<01>94
+<02>(668.1)	História de Togo. Togolândia
+<06>94(668.1)“.../1894” História primitiva até 1894
+<06>94(668.1)“1894/1914” Período alemão: 1894-1914
+<06>94(668.1)“1914.../1960” Período anglo-francês: 1914-1960
+<06>94(668.1)“1960/..."  Independência: 1960-
+
+<01>94
+<02>(669.1)	História da Nigéria
+<06>94(669.1)“.../1886”História primitiva até 1886
+<06>94(669.1)“1886/1960” Colônia britânica e protetorado: 1886-1960
+<06>94(669.1)“1960/...” Independência: 1960-
+
+<01>94
+<02>(671.1)	História de Camarões
+<06>94(671.1)“.../1884” História primitiva até 1884
+<06>94(671.1)“1884/1916” Período alemão: 1884-1916
+<06>94(671.1)“1916/1959” Período anglo-francês: 1916-1959
+<06>94(671.1)“1960/...” Independência: 1960-
+
+<01>94
+<02>(673)	História de Angola.
+
+<01>94
+<02>(676)	História dos países africanos orientais (e da África Ocidental Britânica)
+
+<01>94
+<02>(676.1)	História de Uganda
+<06>94(676.1)“.../1894” História primitiva até 1894
+<06>94(676.1)“1894/1962” Período britânico: 1894-1962
+<06>94(676.1)“1962/...” Independência: 1962-
+
+<01>94
+<02>(676.2)	História do Quênia
+<06>94(676.2)“.../1895” História primitiva até 1895
+<06>94(676.2)“1895/1963” Período britânico: 1895-1963
+<06>94(676.2)“1963/...” Independência: 1963-
+
+<01>94
+<02>(678)	História da Tanzânia (Tanganica e Zanzibar)
+<06>94(678)“1964... ”República Unida: 1964-
+
+<01>94
+<02>(678.1)	História de Zanzibar
+<06>94(678.1)“.../1700” História primitiva até 1700
+<06>94(678.1)“1700/1890” Domínio árabe: 1700-1890
+<06>94(678.1)“1890/1963” Protetorado britânico: 1890-1963
+<06>94(678.1)“1963/...” Independência: 1963-
+
+<01>94
+<02>(678.2)	História de Tanganica
+<06>94(678.2)“.../1884” História primitiva até 1884
+<06>94(678.2)“1884/1916” Período alemão: 1884-1916
+<06>94(678.2)“1916/1961” Período britânico: 1816-1961
+<06>94(678.2)“1961/...” Independência: 1961-
+
+<01>94
+<02>(679)	História de Moçambique.
+
+<01>94
+<02>(680)	História da África do Sul
+<06>94(680)“.../1488” História primitiva até 1488
+<06>94(680)“1488/1814” Período de exploração e de assentamentos humanos: 1488-1814
+<06>94(680) “1814/1909" Século XIX e início do século XX: 1814-1909
+<06>94(680)“1909/1961” União da África do Sul: 1909-1961
+<06>94(680)“1961/...” República da África do Sul: 1961-
+
+<01>94
+<02>(688.1)	História da Namíbia
+
+<01>94
+<02>(688.3)	História de Botsuana (Botswana)
+
+<01>94
+<02>(688.5)	História do Lesoto (Lesotho)
+
+<01>94
+<02>(688.7)	História de Suazilândia (Swaziland)
+
+<01>94
+<02>(689)	História da Rodésia e da Niassalândia (Rhodesia and Nyasaland)
+<06>94(689)“.../1888” História primitiva até 1888
+<06>94(689)“1888/1953” Controle britânico: 1888-1953
+<06>94(689)“1953/1963” Federação da Rodésia e Niassalândia (Federação Centro-Africana): 1953-1963
+<06>94(689)“1964/...” Pós-Federação: 1964-
+
+<01>94
+<02>(689.1)	História de Zimbábue.
+
+<01>94
+<02>(689.4)	História de Zâmbia.
+
+<01>94
+<02>(689.7)	História de Malavi (Malawi).
+
+<01>94
+<02>(7)	História da América do Norte e da América Central.
+
+<01>94
+<02>(71)	História do Canadá.
+<06>94(71)“.../1760” História primitiva e domínio francês até 1760
+<06>94(71)“1760/1791” Domínio britânico: 1760-1791
+<06>94(71)“1791/1841” Governo constitucional e representativo: 1791-1841
+<06>94(71)“1841/1867” A União: 1841-1867
+<06>94(71)“1867/1931” A Federação: 1867-1931
+<06>94(71)“1931/...” Canadá auto-governado: 1931- . Domínio do Canadá
+
+<01>94
+<02>(72)	História do México.
+
+<01>94
+<02>(728)	História da América Central.
+
+<01>94
+<02>(728.1)	Historia da Guatemala.
+
+<01>94
+<02>(728.2)	História de Honduras Britânica (Belize).
+<06>94(728.2)“1502/1535” Descoberta, exploração e conquista: 1502-1535
+<06>94(728.2)“1535/1821” Período colonial: 1535-1821
+<06>94(728.2)“1821/1900” Século XIX: 1821-1900
+<06>94(728.2)“19” Século XX: 1901-2000
+<06>94(728.2)“20” Século XXI: 2001-
+
+<01>94
+<02>(728.3)	História de Honduras.
+
+<01>94
+<02>(729)	História dos territórios caribenhos.
+<06>94(729)“1492/1608” Descobrimento, exploração, conquista: 1492-1608
+<06>94(729)“1608/1800” Séculos XVII e XVIII: 1608-1800
+<06>94(729)“1801/1902” Século XIX: 1801-1902
+<06>94(729)“1902/...” Século XX: 1902-
+
+<01>94
+<02>(729.1)	História de Cuba.
+
+<01>94
+<02>(73)	História dos Estados Unidos da América .
+<06>94(73)“.../1607” Do descobrimento a 1607. Inclusive Período pré-colombiano, descoberta (por Nosemen, 
+	      Colombo, etc.), explorações
+<06>94(73)“1607/1775” Período colonial: 1607-1775
+<06>94(73)“1775/1789” Guerra da Independência. Fundação da União: 1775-1789
+<06>94(73)“1789/1809” Período constitucional: 1789-1809. Inclusive administrações de Washington, Adams,
+	      Jefferson
+<06>94(73)“18091845” Início do século XIX: 1809-1845. Inclusive administrações de Madison, Monroe, Adams, 
+                                     Jackson, van Buren, Harrison, Tyler.
+<06>94(73)“1845/1861” Meados do século XIX: 1845-1861. Inclusive administrações de Polk, Taylor, Fillmore, 
+	      Pierce, Buchanan 
+<06>94(73)“1861/1865” Administração de Abraham Lincoln: 1861-1865. Guerra Civil americana
+<06>94(73)“1865/1901” Final do século XIX: 1865-1901. Inclusive administrações de Andrew Johnson, Grant, 
+                                     Hayes, Garfield, Cleveland, B. Harrison, McKinley
+<06>94(73)“1901/...” História dos Estados Unidos a partir de 1901
+<06>94(73)“1901/1953” Início do século XX: 1901-1953. NOTA: para expressar as administrações de presidentes 
+                                     individuais, usar as datas de suas gestões
+<06>94(73)“1953/...” Final do século XX: 1953- . NOTA: para expressar as administrações de presidentes 
+	      individuais, usar as datas de suas gestões                                                                        
+
+<01>94
+<02>(734/739) 	História de cada estado dos Estados Unidos
+
+<01>94
+<02>(8)	História da América do Sul.
+
+<01>94
+<02>(81)	História do Brasil.
+
+<01>94
+<02>(81)“.../1548”     A expansão marítima portuguesa. Tratado de Tordesilhas, 1492. Período pré-colonial e início da colonização até 1548. 94(81)“1548/1808” 	O governo-geral. 
+
+<01>94
+<02>(81)“1808/1822”	Transmigração da corte portuguesa para o Brasil até a Independência.
+
+<01>94
+<02>(81)“1822/1840” Proclamação da Independência. Guerra da Independência. Primeiro Reinado. Período regencial.
+
+<01>94
+<02>(81)“1840/1889” Segundo Reinado. 
+
+<01>94
+<02>(81)“1889/1945” Primeiro período republicano. Primeira República.
+
+<01>94
+<02>(81)“1945/1964” Segundo período republicano. Segunda República.
+
+<01>94
+<02>(81)“1964/1985” Regime militar.
+
+<01>94
+<02>(81)“1985/...”    Redemocratização. Constituição de 1988.
+
+<01>94
+<02>(81).01	A expansão marítima portuguesa. Tratado de Tordesilhas, 1492. Período pré-colonial e inicio
+da colonização, até 1548.
+                                    As subdivisões auxiliares especiais aqui relacionadas não são recomendadas, mas podem ser usadas se houver
+                                   necessidade de uma notação mais sucinta
+
+<01>94
+<02>(81).013	Pedro Álvares Cabral. 1500. Descobrimento do Brasil. As primeiras cartas sobre o Brasil.
+
+<01>94
+<02>(81).014/.016	Ação colonizadora: expedições, conquista do litoral.
+
+<01>94
+<02>(81).017	Divisão do Brasil em capitanias hereditárias. 1534.
+
+<01>94
+<02>(81).019	Atividade econômica: o açúcar.
+
+<01>94
+<02>(81).02	Período colonial (lª fase. 1548-1715).
+
+<01>94
+<02>(8l).02l	Criação do governo-geral, 1548. Primeiros governadores. Estado do Maranhão e Estado
+do Brasil.
+
+<01>94
+<02>(81).023	Implantação da pecuária. Expansão e unidade territorial.
+
+<01>94
+<02>(81).024	A Igreja no Brasil: sua atividade colonizadora.
+
+<01>94
+<02>(81).025	União das Coroas Ibéricas. Conquista do Norte e do Nordeste. Entradas.
+
+<01>94
+<02>(81).026	Holandeses, franceses, ingleses no Brasil: ataques e invasões. Insurreição pernambucana:
+expulsão dos holandeses (tratado de 1661).
+
+<01>94
+<02>(81).027	Economia dos séculos XVI e XVII. Produtos. Comércio (contratos, companhias de comércio,
+                                    rebelião de Beckman). Mão-de-obra escrava. Quilombos. Palmares.
+
+<01>94
+<02>(81).028                Expansão para o centro-sul. Bandeiras. Guerra dos Emboabas, 1706-1709.
+
+<01>94
+<02>(81).029	Colônia do Sacramento, 1681. Invasões francesas (Duclerc e Duguay-Trouin) 1710,
+
+<01>1711.
+<02>Tratados de Utrecht, 1713-1715.
+
+<01>94
+<02>(81).03	Período colonial (2ªfase, 1715-1820).
+
+<01>94
+<02>(81).031	Administração colonial no século XVIII. Extinção das capitanias. Pombal: extinção do
+                                  Estado do Maranhão, mudança da capital, expulsão dos Jesuítas.
+
+<01>94
+<02>(81).033	Mineração no século XVII: cobrança dos quintos, legislação das minas.
+
+<01>94
+<02>(81).034	Movimentos sediciosos no século XVIII: Mascates, 1710-1714; Rebelião Baiana
+                                   (Maneta). 1711; Vila Rica, 1720; Conjuração Mineira, 1789; Conjuração Baiana, 1798.
+
+<01>94
+<02>(81).036	Transmigração da Corte Portuguesa para o Brasil. Abertura dos portos, 1808.
+
+<01>94
+<02>(81).037	Revolução de 1817.
+
+<01>94
+<02>(81).038	Brasil-Reino. Política interna (revolução constitucionalista, 1820). Política externa
+(guerras da Banda Oriental; contra França).
+
+<01>94
+<02>(81).04	Regência e independência. Primeiro Reinado, 1820-1831.
+
+<01>94
+<02>(81).041	Regência de D. Pedro I, 1820-1822. Implicações políticas internas (o Fico) e
+externas (o Brasil nas cortes portuguesas).
+
+<01>94
+<02>(81).043	Proclamação da Independência, 1822. Aclamação e coroação de D. Pedro I. A ação de
+<09>José Bonifácio. 
+
+<01>94
+<02>(81).044/.046        Política interna do Primeiro Reinado, 1822-1831. Constituinte de 1823 e a Constituição de
+<06>1824. Guerra da Independência (Bahia, Maranhão, Piauí, Cisplatina). Confederação do
+                                    Equador, 1824. Política externa: guerras cisplatinas, 1825.
+
+<01>94
+<02>(81).047		Questões dinásticas: sucessão do trono
+português. 
+
+<01>94
+<02>(81).048/.049        Impopularidade de D. Pedro I. Noite das Garrafadas. Abdicação, 1831.
+
+<01>94
+<02>(81).051	Regências, 1831-1840. Ato adicional, 1834.
+
+<01>94
+<02>(81).052	Movimentos políticos. 1831-1840. Revoltas: Cabanagem, 1832; Farrapos, 1835-1845;
+<09>Sabinada, 1837; Balaiada, 1838.
+
+<01>94
+<02>(81).053	Maioridade de D. Pedro II. Política interna do Segundo Reinado (lª fase). Parlamentarismo.
+<09>Revoluções de 1842; Praieira, 1848-1849.
+
+<01>94
+<02>(81).055	Tráfico africano. Posição da Inglaterra. Leis de extinção da escravidão.
+
+<01>94
+<02>(8l).056	Política econômico-financeira, 1831-1844: tratados de comércio, atividade cafeeira. Mão-de-obra escrava.
+
+<01>94
+<02>(81).057	Propaganda abolicionista.
+
+<01>94
+<02>(81).059	Política externa: questões com a Santa Sé, com Cuba, com Rosas, fronteiriças.
+
+<01>94
+<02>(8l).06	Segundo Reinado (2ªfase. 1854-1889).
+
+<01>94
+<02>(81).061	Afirmação da política de conciliação.
+
+<01>94
+<02>(81).062	Transportes. Viação: caminhos, estradas. navegação.
+
+<01>94
+<02>(81).063	Leis abolicionistas. A Abolição (1888).
+
+<01>94
+<02>(81).064	Questões internas: a questão religiosa, e a questão militar.
+
+<01>94
+<02>(81).066	Problemas diplomáticos: fronteiras (Amapá): questão Christie (Inglaterra).
+
+<01>94
+<02>(81).067	Brasil no Prata. Questão com Aguirre. Guerra do Paraguai.
+
+<01>94
+<02>(81).069	Propaganda republicana.
+
+<01>94
+<02>(81).07	Primeiro período republicano, 1889-1930. Primeira República.
+
+<01>94
+<02>(81).071	Proclamação da República, 1889. Convenção de Itu.
+
+<01>94
+<02>(81).072	Governo provisório. Constituição de 1891.
+
+<01>94
+<02>(81).073	Governos Deodoro da Fonseca e Floriano Peixoto, 1889-1894.
+
+<01>94
+<02>(81).074	Governos de 1894 a 1902: Prudente de Morais, 1894-1898. Campanha de Canudos. Campos
+<09>Sales, 1898-1902.
+
+<01>94
+<02>(81).075	Governos de 1902-1910. Rodrigues Alves, 1902-1906. Política sanitarista: Osvaldo Cruz.
+                               Afonso Pena, 1906-1909. Nilo Peçanha, 1909-1910.
+
+<01>94
+<02>(81).076	Governos de 1910-1919. Hermes da Fonseca, 1910-1914. Venceslau Brás. 1914-1918.
+<09>Campanha do Contestado.
+
+<01>94
+<02>(81).077	Questão sucessória (Delfim Moreira). 1918-1919. Epitácio Pessoa, 1919-1922. Artur
+<09>Bernardes, 1922-1926. Revolta de 1924.
+
+<01>94
+<02>(81).078	Washington Luis, 1926-1930. Crise econômica de 1929. Crise política: a sucessão.
+
+<01>94
+<02>(81).079	Política externa da Primeira República.
+<09>Questões de limites (Barão do Rio Branco e Joaquim Nabuco). Primeira Guerra Mundial
+(1914-1918).
+
+<01>94
+<02>(81).08	A República depois de 1930. Segunda República. Governos militares. Nova República.
+
+<01>94
+<02>(81).081	Revolução de 1930. Governo provisório.
+
+<01>94
+<02>(81).082/.083      Governo Getúlio Vargas ) 1930- 1945. Revolução federalista, 1932. Constituição de 1934. Golpe de Estado, 1937 
+		(Estado Novo). Transformações socioeconômicas. Leis trabalhistas. Industrialização. (O Brasil na Segunda 
+		Guerra Mundial, na ONU e outros órgãos internacionais.
+
+<01>94
+<02>(81).084	Golpe de Estado. 1945. Governos de José Linhares, 1945-1946: Eurico Gaspar Dutra,
+
+<01>1946
+<02>-1951. Constituição de 1946.
+
+<01>94
+<02>(81).085	Governo Getúlio Vargas. 1951 -1954. Governos Café Filho, Carlos Luz, Nereu Ramos, 1954-
+
+<01>1956.
+<02>
+
+<01>94
+<02>(81).086	Governo Juscelino Kubitschek de Oliveira, 1956-1961. Mudança da capital. 1960. A
+grande industrialização.
+
+<01>94
+<02>(81).087	Governos Jânio da Silva Quadros, 1961; João
+<09>Goulart, 1961-1964.
+
+<01>94
+<02>(81).088	Movimento militar de 1964. Governos de
+<09>Humberto de Alencar Castelo Branco, 1964-1967; Artur da Costa e Silva, 1968-1969; Constituição de 1967; Emílio Garrastazu Medici, 1969-1974; Ernesto Geisel, 1974-1980; João Batista de Oliveira Figueiredo, 1980-1985. Abertura democrática.
+
+<01>94
+<02>(81).089	Nova República, 1985-. Tancredo Neves, 1985; José Sarney, 1985-1990; Fernando Collor de Mello, 1990-1992;
+	Itamar Franco, 1992-1994; Fernando Henrique Cardoso, 1995-2002; Luis Inácio (Lula) da Silva, 2003-2006.
+
+<01>94
+<02>(82)                    	História da Argentina.
+
+<01>94
+<02>(83)                    	História do Chile.
+
+<01>94
+<02>(84)                    	História da Bolívia.
+
+<01>94
+<02>(85)		História do Peru.
+
+<01>94
+<02>(86)		História da Colômbia.
+
+<01>94
+<02>(866)		História do Equador.
+
+<01>94
+<02>(87)		História da Venezuela.
+
+<01>94
+<02>(88.1)		História da Guiana.
+
+<01>94
+<02>(88.2)		História da Guiana Francesa.
+
+<01>94
+<02>(88.3)		História do Suriname.
+
+<01>94
+<02>(89.2)		História do Paraguai.
+
+<01>94
+<02>(89.9)		História do Uruguai.
+
+<01>94
+<02>(9)		História da Oceania, das regiões polares, da Australásia, etc.
+
+<01>94
+<02>(931)		História da Nova Zelândia.
+<06>94(931)“.../1840” Período Maori. História primitiva até 1840
+<06>94(931)“1840/1907" Período colonial: 1840-1907
+<06>94(931)“1907-..." Status de Domínio: 1907-
+
+<01>94
+<02>(94)	História da Austrália.
+<06>94(94)“.../1788” História primitiva até 1788
+<06>94(94)“1788/1851” Assentamentos humanos e crescimento inicial: 1788-1851
+<06>94(94)“1851/1901” Administração colonial: 1851-1901"
+<06>94(94)“1901/1945” Comunidade (Commonwealth) (até o fim da Segunda Guerra Mundial): 1901-1945
+<06>94(94)“1945/...” Final do século XX: 1945.
+
+<01>1
+<02>
+
+
+
+<01>37
+<02>
+
+
