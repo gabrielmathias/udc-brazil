@@ -1,0 +1,2118 @@
+﻿TABELAS AUXILIARES. SEÇÃO I: SINAIS E SUBDIVISÕES AUXILIARES COMUNS
+
++, / Tabela 1a. COORDENAÇÃO. EXTENSÃO
+
+
+Ordem de arquivamento. Os símbolos da Tabela 1a ampliam, ao invés de limitar, o significado de um número e os números que os compõem devem ser ordenados antes do próprio número simples. Em primeiro lugar, na ordem de arquivamento, vem o número seguido por +..., em segundo lugar, o número seguido por /...; em terceiro lugar, o número simples.
+Usar com auxiliares biterminais.  Quando o sinal + e a barra inclinada  forem empregados para unir números auxiliares com sinais biterminais (isto é, parênteses ou aspas), o número composto resultante ficará dentro de um único conjunto de sinais, p. ex.:
+		(470)+(571) Rússia. Federação Russa – não (470)+(571).
+		“19/20” Os séculos XX e XXI – não “ 19”+“20”.
+		(410)(051) Grã-Bretanha – periódicos (lugar  –  forma).
+(410)(051) “20” Grã-Bretanha – periódicos – século XXI (lugar – forma – tempo).
+
+SEÇÃO 1. COORDENAÇÃO. ADIÇÃO
+
+O sinal de coordenação + (adição) liga dois ou mais números separados (não-consecutivos) da CDU para indicar um assunto composto para o qual não exista um número simples, p. ex.: (44+460) França e Espanha 
+622+669 Mineração e metalurgia
+
+SEÇÃO 2. EXTENSÃO CONSECUTIVA
+
+O sinal de extensão / (barra oblíqua) liga o primeiro e o último de uma série de números consecutivos da CDU para indicar um assunto amplo ou uma série de conceitos, por exemplo
+(7/8) América do Norte e Central e América do Sul. As Américas
+592/599) Zoologia sistemática (equivalente a 592+593...+599)
+629.734/735) Aeronaves mais pesadas do que o ar. Aeroplanos
+643/645 Os equipamentos domésticos (equivalente a 643+644+645)
+Se o número que se segue à barra oblíqua tiver mais de três dígitos e começar com um grupo de dígitos em comum com o número precedente, ele poderá ser abreviado pela omissão dos dígitos comuns a ambos, desde que o primeiro item após a barra seja um ponto decimal. Assim, no terceiro exemplo acima referido, composto por 629.734 e 629.735, o grupo 629 é comum a ambos e não é repetido; o grupo .735 que se segue à barra é coordenado com o grupo .734, que o precede. O uso da barra desta maneira, para formar um número em série, subentende todos os números componentes, com exceção do primeiro, e a informação classificada dessa forma será arquivada em um único lugar em uma lista classificada. É, portanto, inadequado quando há necessidade de se recuperar a informação relativa a todos os números componentes, p. ex. :
+546.32/.35 Metais alcalinos mais importantes
+pode exigir entradas de classificação separadas, como as seguintes
+546.32	Potássio
+546.33	Sódio
+546.34	Lítio
+546.35	Rubídio
+:,[],:: Tabela 1b. RELAÇÃO. SUBAGRUPAMENTO. ORDENAÇÃO
+SEÇÃO 1. RELAÇÃO SIMPLES
+O sinal de relação : (dois pontos) indica uma relação entre dois ou mais assuntos por meio da conexão de seus números da CDU, Ao contrário do sinal de adição e da barra obliqua (Tabela 1a), o sinal de dois pontos limita, ao invés de ampliar, os assuntos que liga. P. ex.:
+17:7 Ética em relação com a arte
+341.63(44:450) Arbitragem de disputas entre a França e a Itália
+628.463:692.758 Sistemas de coleta de lixo que utilizam escoadores de lixo
+Quando os dois pontos forem empregados para unir números auxiliares com sinais biterminais (i. e.,  parênteses ou aspas),  o número composto resultante ficará dentro de um único conjunto de sinais,  como no exemplo (44:450) acima.
+
+SEÇÃO 2. SUBAGRUPAMENTO
+
+Os colchetes [ ] podem ser usados como um dispositivo de subagrupamento dentro de uma combinação complexa de números da CDU. A fim de esclarecer a relação entre seus componentes. O subagrupamento pode ser necessário quando um assunto indicado por dois ou mais números da CDU ligados por um sinal de adição, barra oblíqua ou dois pontos relaciona-se como um todo a outro número por meio de dois pontos, ou é modificado por um auxiliar comum ou especial, p. ex.:
+061.2(100):[54+66] UIQPA União Internacional de Química Pura e aplicada [622+669](485) Mineração e metalurgia na Suécia
+004:384:[621.771.016.3:669.14] Computadores em fábricas de laminadores a frio para aço.
+783:[274/278] Música da Igreja protestante 
+
+ 
+
+SEÇÃO 3. ORDENAÇÃO
+
+Os dois pontos duplos :: podem ser empregados para fixar a ordem dos números componentes em um número composto, principalmente quando a CDU é usada em um sistema de informação informatizado
+061.1(100)::[54+66] UIQPA União Internacional de Química Pura e Aplicada
+575::576.3 Citogenética
+77.044::355 Fotografia de guerra
+ 
+
+ 
+
+= Tabela 1c. Auxiliares comuns de língua
+
+Os auxiliares comuns de língua indicam a língua ou a forma lingüística de um documento cujo assunto é representado por um número principal da CDU. A tabela 1c é o lugar principal, nas tabelas da CDU, para enumeração de línguas,  e serve como fonte para a subdivisão da classe 811 Línguas (como objetos de estudo), classe 821 Literaturas de línguas especificas, e (= ...) Tabela 1f - Auxiliares comuns de raça,  grupos étnicos e nacionalidades.
+Embora, em teoria, se possa indicar a língua de qualquer documento ou item de informação, na prática isto só será útil quando houver necessidade de se distinguir diferentes línguas, p. ex., para permitir recuperação segundo a língua do documento, ou para permitir uma ordem de arquivamento satisfatória.
+ORDEM DE CITAÇÃO. Na ordem de citação, o auxiliar de língua vem, em geral, por último. Ele pode, entretanto, ser citado no meio ou mesmo no inicio de um número composto, se houver necessidade de arquivar os documentos por ordem de língua, de preferência ao assunto. Se for preciso. ele será  separado do número seguinte por dois pontos  (como no segundo exemplo abaixo), p. ex.:
+663.4(493)(075)=112.5 Indústria de cerveja na Bélgica - manual - em flamengo
+       (02.053.2)=111 Livros infantis - em inglês - arranjo por assunto
+=111(02.053.2) Trabalhos em língua inglesa - livros infantis - arranjo por assunto 
+DOCUMENTOS MULTILÍNGÜES. Os documentos multilingües podem ser indicados por =00 ou pelos auxiliares das línguas específicas em ordem numérica crescente, p. ex. :
+53(035)= 00 Manual multilíngüe de física
+53(035)=111=112.2=133.1 Manual de física em inglês, francês e alemão
+
+Tabela sistemática
+
+Subdivisões auxiliares especiais 
+
+
+=...’0 Origens e períodos da língua. Fases de desenvolvimento
+
+
+		’03, ’05, ’07 e ’09 não se aplicam geralmente.  São reservados a determinadas aplicações  (p. ex.:
+                latim,  grego, hebraico, egípcio.
+=...’01		Período antigo. Período arcaico.
+=...’02		Período clássico.
+=...’04		Período médio.
+=...’06		Período moderno.
+=...’08		Língua ressuscitada.
+=...’282		Dialetos. Língua local e regional.Variantes e vernáculos.
+=...’282=81 ’282
+ 
+Subdivisões auxiliares comuns
+
+=00	Multilíngüe. Poliglota
+      → 81’246.3 Multilingüismo. Plurilingüismo) em geral. Trilingüismo (em particular)
+      → 81’374.8-022.218  Dicionários segundo o número de línguas
+=02	Originais ou suas adaptações
+(não traduzidos)
+=021		Versões originais (não adaptadas, sem alterações)
+=025	Versões adaptadas, alteradas, corrigidas
+      → (0.046) Edições revistas.  Novas  edições
+      → (0.074)  Emendas.  Adendos.  Pós-escritos
+
+=030		Documentos traduzidos. Traduções
+                →  81’25 Teoria da tradução
+		        →  81’322 Lingüística computacional
+  Indicar a língua fonte por .030.1 /.9 e a língua-alvo diretamente por =1/=9, p. ex.:
+  61=030.161.1 Documentos médicos traduzidos do russo.
+  61=030.161.1= 133.1 Documentos médicos traduzidos do russo para o francês (arquivados junto com outras traduções médicas do russo)
+  61= 133.1=030.161.1 Documentos médicos traduzidos do russo para o francês (arquivados
+  junto com outros documentos médicos em francês)
+
+=1/=9  Linguagens  (naturais e artificiais).
+
+=l/=8	Línguas naturais.
+=l/=2	Línguas indo-européias.
+=1	Línguas indo-européias em geral.
+=11	Línguas germânicas.
+=111	Inglês.
+      Exemplo(s) de combinação(ões):
+=111’01 Anglo-saxão (inglês antigo)
+=111’04 Inglês médio
+=111.8	Línguas pidgin e crioulas, línguas de contacto baseadas no inglês.
+Especificar por (4/9) para região geográfica e/ou por nome (extensão
+alfabética - Tabela 1h)
+=112	Outras línguas germânicas ocidentais.
+=112.2	Alemão (alto-alemão, alemão-padrão
+escrito). 
+Exemplo(s) de combinação(ões) :
+=112.2’04 Médio alto-alemão (séc. X a XIV)
+=112.22	Alemão superior
+=112.24	Médio-alemão.
+Não confundir com =122.2’04 Médio alto-alemão.
+=112.28	Ydiche (alemão judaico)
+=112.3/.4	Baixo-alemão.
+=112.3	Plattdeutsch ('Baixo-alemão' em sentido estrito).
+=112.4	Frísio (frisão).
+=112.5	Holandês (flamengo na Bélgica e no nordeste da França).
+=112.58	Línguas pidgin e crioulas, línguas de contacto baseadas no holandês.
+                      Especificar por (4/9) para região geográfica e/ou por nome (extensão alfabética - Tabela 1h)
+=112.6		Africâner.
+=113	Línguas germânicas setentrionais (nórdicas).
+=113.1	Antigo nórdico.
+                                       Se se preferir, o antigo nórdico pode ser classificado em =113 '01
+=113.2		Feróico.
+=113.3		Islandês.
+=113.4		Dinamarquês.
+=113.5		Norueguês.
+=113.52		Bokmål. Riksmål. 
+=113.53		Landsmål. Nynorsk (neo-norueguês).
+=113.55		Samnorsk.
+=113.6		Sueco.
+=114		Línguas germânicas orientais.
+=114.1		Burgúndio.
+=114.2		Ostrogodo.
+=114.3		Visigodo.
+=12		Línguas itálicas.
+=122                      	Línguas umbro-sabélias(osco-úmbrias).
+=122.1                    	Osco.
+=122.2                  	Sabélico.
+=122.3                  	Úmbrio.
+=122.4                  	Volsco.
+=122.9                  	Outras línguas umbro-sabélias.
+=123                    	Falisco.
+=124                    	Latim.
+                                     	Exemplo(s) de combinação(ões):
+                                            =124’01 Latim antigo 
+                                        =124’02 Latim clássico 
+                                        =124’03 Latim vulgar
+                                   =124’04 Latim medieval 
+                                                   =124’06 Latim moderno (p.ex. para nomenclatura científica)
+=13	              Línguas românicas.
+=131                     Línguas ítalo-românicas.
+=131.1                      Italiano.
+=131.6                  Sardo.
+=131.8                    Italquiano (italiano judaico).
+=132                     Línguas reto-românicas.
+=132.1                   Friulano.
+=132.2                         Ladino.
+=132.3                     Romanche.
+=133                   Línguas galo-romanas.
+= 133.1                          Francês.
+              Exemplo(s) de combinação(ões):
+                                      =133.1'01 Francês antigo
+                                      = 33.1'03 Anglo-normando
+=133.18                 Línguas pidgin e crioulas, línguas de contato baseadas no francês.
+Especificar por (4/9) para região geográfica e/ou por nome (extensão
+alfabética - Tabela 1h)
+=133.2	Provençal. Occitano.
+=133.3	Córsico.
+=134	Línguas ibero-românicas.
+=134.1	Catalão.
+=134.2	Espanhol.
+=134.28	Judezmo (espanhol judaico. Ladino).
+=134.3	Português.
+=134.38	Línguas pidgin e crioulas, línguas de contato baseadas no português.
+Especificar por (4/9) para região geográfica e/ou por nome (extensão
+alfabética - Tabela 1h)
+=134.4	Galego (galaico).
+=135	Línguas balcano-românicas.
+=135.1	Romeno.
+=135.2	Moldávio.
+=135.8	Dálmata (vegliote).
+=138	Língua franca (sabir).
+=14	Grego (helênico).
+Exemplo(s) de combinação(ões):
+=14’02 Grego clássico
+                                        =14’03 Coiné (grego do Novo Testamento)
+=14’04 Grego bizantino
+=14’06 Grego moderno
+=141	Katharevousa.
+=142	Demótico.
+=148	Ievânico (grego judaico)
+=15	Línguas célticas.
+=151.1	Gaulês.
+=152	Grupo goidélico.
+=152.1	Irlandês.
+=152.2	Gaélico escocês.
+=1523	Manes.
+=152.9	Outras línguas goidélicas.
+=153	Grupo britônico.
+=153.1	Galês.
+=153.2	Bretão.
+=1533	Córnico.
+=153.9	Outras línguas britônicas
+=161	Línguas eslavas o rien tais.
+=161.1	Russo.
+=161.2	Ucraniano.
+=161.3	Bielo-russo (russo-branco).
+=162	Línguas eslavas ocidentais.
+=162.1	Polonês.
+=162.2	Polábico.
+=1623	Tcheco (checo).
+=162.4	Eslovaco.
+=162.5	Sorábio (lusácio,vêndico).
+=162.52	Sorábio superior.
+=162.54	Sorábio inferior.
+=163	Línguas eslavas meridionais.
+=163.1	Eslavo antigo eclesiástico.
+=163.2	Búlgaro.
+=163.3	Macedônio.
+=163.4	Servo-croata.
+=163.41	Sérvio.
+=163.42	Croata.
+=163.6	Esloveno.
+=17	Línguas bálticas.
+=171	Prussiano antigo.
+=172	Lituano.
+=173	Kursh (curoniano).
+=174	Letão (lético).
+=18	Albanês.
+=19	Armênio.
+=21/=22	Línguas indo-iranianas.
+=21	Línguas índicas.
+=211	Sânscrito
+              Exemplo(s) de combinação(ões):
+                    =21’01 Védico
+=212	Páli.
+=213	Prácrito.
+=213.1	Ardhamagadhi.
+=213.2	Avântico.
+=213.3	Maharashtri.
+=213.4	Magadi.
+=213.5	Sauraseni.
+=214	Línguas índicas modernas.
+=214.1	Grupo dardo.
+=214.11	Chitral.
+=214.12	Caxemiriano (kashmiri).
+=214.13	Kohistani.
+=214.14	Kunar.
+=214.15	Pashai.
+=214.16	Sina.
+=214.2	Grupo central.
+=214.21	Hindi.
+=214.22	Urdu.
+=214.23	Banjuri.
+=214.24	Bili.
+=214.25	Guzerate (gujerati).
+=214.26	Khandesi.
+=214.27	Penjabi(panjabi).
+=214.28	Rajastani.
+=214.281	Marwari (merwari).
+=214.3	Grupo oriental.
+=214.31	Assamês.
+=214.32	Bengali.
+=214.33	Biari.
+=214.331	Bhojpuri.
+=214.332	Magahi.
+=214.333	Maithili.
+=214.34	Khosali (hindi oriental).
+=214.341	Awadhi.
+=214.342	Chhattisgarhi.
+=214.35	Marata(maráti)
+=214.351	Konkani (gomantaki)
+=214.36	Oriia.
+=214.4	Grupo setentrional.
+=214.41	Garhwali.
+=214.42	Kumauni.
+=214.43	Nepali (nepalês).
+=214.44	Pahari (himachali).
+=214.5	Grupo do noroeste.
+=214.51	Landa
+=214.52	Sindi.
+=214.58	Romani (cigano).
+=214.6	Grupo cingalês-maldívio.
+=214.61	Cingalês (sinhala).
+=214.62	Maldívio.
+=214.63	Védico
+=22	Línguas iranianas.
+=221	Línguas iranianas orientais.
+=221.1	Grupo setentrional.
+=221.11	Alânico.
+=221.12	Cotanês (saka).
+=221.13	Corasmiano.
+=221.14	Parto.
+=221.15	Sármata.
+=221.16	Cita.
+=221.17	Sogdiano.
+=221.18	Osseto.
+=221.19	Yaghnobi.
+=221.3	Grupo Pamir (ghalchah).
+=221.31	Pashto (pushto).
+=221.32	Shugni(Khugni).
+=221.323	Wakhi.
+=221.4	Grupo central.
+=221.41	Ormuri.
+=221.42	Parachi.
+=222/=223	Línguas iranianas ocidentais.
+=222.1	Persa.
+                                  Exemplo(s) de ombinação(ões) :
+                                   =222.1’01 Avéstico
+=222.1’02 Velho persa
+=222.1’04 Pelvi (pálavi)
+                                    =222.1’06 Farsi
+=222.18 Persa judaico.
+=222.2	Bakhtiari.
+=222.3	Balúchi.
+=222.4	Gilaki.
+=222.5	Curdo.
+=222.6	Luri.
+=222.7	Mazandarani.
+=222.8	Tadjique.
+=223.1	Talysh.
+=223.2	Tat
+=223.9	Outras línguas iranianas ocidentais.
+=23	Nuristani (kafiri)
+=29	Línguas indo-européias mortas 
+(não relacionadas em outra parte).
+=291	Línguas pré-itálicas.
+=291.1	Lepônico. 
+=291.2	Lígure.
+=291.3	Rético.
+=291.4	Sicel.
+=291.5	Vêneto.
+=291.6	Ilírio.
+=291.7	Messápio.
+=291.9	Outras línguas pré-itálicas.
+=292	Línguas anatólicas.
+=292.1	Hitita.
+=292.2	Luvita.
+=292.3	Palaíta.
+=292.4	Lídio.
+=293	Macedônio (antigo).
+=294	Dácio.
+=295	Traço-frígio.
+=296	Tocariano).
+=34	Línguas mortas de filiação desconhecida, faladas no Mediterrâneo e no Oriente Próximo (exceto as
+	semíticas).
+=341.1	Sumeriano.
+=341.2	Elamita.
+=341.3	Cassita.
+=341.4	Hatti.
+=341.5	Hurri.
+=341.6	Urartuano (cáldico).
+=341.7	Cariano.
+=341.8	Lício (liconiano).
+=342.1	Etrusco.
+=342.2	Ibero.
+=342.9	Outras línguas mortas do Mediterrâneo e do Oriente Próximo
+=35		Línguas caucasianas.
+=351	Grupo do nordeste.
+=351.1	Subgrupo avar-andi-dido.
+=351.11	Andi.
+=351.12	Avar.
+=351.13	Dido.
+=351.19	Outras línguas do subgrupo avar-andi-dido.
+=351.2	Subgrupo laque-dárgua (lak-dargwa).
+=351.21	Laque (lak).
+=351.22	Dárgua(dargwa).
+=351.3	Subgrupo lésguio (samoriano).
+=351.31	Agul.
+=351.32	Lésguio.
+=351.33	Rútulo.
+=351.34	Tsakhur.
+=351.39	Outras línguas lésguias.
+=351.4	Subgrupo vejnakh.
+=351.41	Bats.
+=351.42	Tchetcheno.
+=351.43	Inguche.
+=352	Grupo do noroeste.
+=352.1	Abázio (abasa).
+=352.2	Abcázio (abkhaz).
+=352.3	Circassiano (adiguei).
+=353	Grupo do sul (kartveliano).
+=353.1	Georgiano.
+=353.2	Svane.
+=353.3	Zane.
+=353.31	Laze(chan).
+=353.32	Mingrélio (mingreliano).
+=359	Outras línguas caucasianas.
+=361	Basco (euscaro, euskera, euskara).
+=371	Burushaski
+=41	Línguas afro-asiáticas (camito semíticas).
+=411                       Línguas semíticas.
+=41l.l	Línguas semíticas setentrionais.
+=411.11	Acadiano (acádio).
+=411.111	Babilônico.
+=411.112	Assírio.
+=411.12	Amorita.
+=411.13	Eblaíta.
+=411.14	Ugarítico.
+=411.15	Cananeu.
+=411.151	Moabita.
+=411.152	Fenício.
+=411.153	Púnico.
+=411.16	Hebraico.
+                                 Exemplo(s) de combinação(ões):
+ =411.16’02 Hebraico bíblico 
+=411.16’03 Mishnaico
+ =411.16’04 Hebraico medieval. Hebraico rabínico
+=411.16’08 Hebraico moderno
+=411.17		Aramaico.
+=411.171	Aramaico ocidental.
+=411.171.1	Aramaico palestino.
+Exemplo(s) de Combinação(ões): 
+      =411.171.1’02 Aramaico bíblico 
+      =411.171.1’03 Aramaico galileu (lingua do Talmude e Targumim de Jerusalém)
+=411.171.2	Nabateu.
+=411.171.3	Palmiriano.
+=411.171.4	Samaritano.
+=411.172	Aramaico oriental.
+=411.172.1	Aramaico babilônico (língua do Talmude e Targumím babilônicos).
+=411.172.2	Mandeu.
+=411.172.3	Siríaco.
+                                    Exemplo(s) de combinação(ões):
+                                      =41I.172.3'02 Siríaco clássico
+                                    =411.172.3'06 Siríaco moderno ('assírio')
+=411.2	Línguas semíticas sul-ocidentais.
+=411.21	Árabe.
+                               Exemplo(s) de combinação(ões):
+                                      =411.21’02 Árabe clássico
+                                     =411.21’06 Árabe moderno ('padrão')
+=411.216	Maltês.
+=411.218	Pidgins, línguas de contato baseadas no árabe.
+     Especificar por meio de (4/9) para região geográfica e/ou por nome (extensão alfabética -Tabela Ih)
+=411.3	Línguas semíticas do sudeste.
+=411.31	Hadramáutico.
+=411.32	Himiarita.
+=411.33	Mineu (tnineano).
+=411.34	Sabeu
+=411.35	Mahri-Sokotri (sudárabe moderno).
+=411.4		Línguas etíope-semíticas.
+=411.41		Amárico.
+=411.42		Gueês.
+=411.43	Gurague.
+=411.44	Tigre.
+=411.45	Tigrina.
+=411.49	Outras línguas etíope-semíticas.
+=412	Egípcio-copta.
+Exemplo(s) de combinação(õex):
+       =412’0l Egípcio antigo 
+      =412’04 Egípcio médio 
+      =412’05 Egípcio novo 
+      =412’07 Egípcio ulterior (demótico) 
+      =412’09 Copta
+=413	Línguas berbères.
+=413.1	Grupo tamazight-riff-cabila.
+=413.11	Cabila.
+=413.21	Tuaregue.
+=413.31	Zenaga.
+=413.4	Grupo zenati.
+=413.9	Outras línguas berberes.
+=414	Línguas tchádias.
+=414.1	Línguas tchádias orientais.
+=414.11	Grupo bata-tera.
+=414.111	Subgrupo bata.
+=414.112	Subgrupo bura.
+=414.112.1	Margi.
+=414.113	Subgrupo higi.
+=414.114	Subgrupo tera.
+=414.12	Grupo daba-gisiga-matakam.
+=414.121	Subgrupo daba.
+=414.122	Subgrupo gisiga-matakam.
+=414.13	Grupo mandara.
+=414.19	Outras línguas tchádias orientais.
+=414.2	Línguas tchádias ocidentais
+(Plateau-Sahel).
+=414.21	Grupo bana.
+=414.22	Grupo bolewa-Plateau.
+=414.221	Subgrupo bolewa.
+=414.222	Subgrupo Plateau.
+=414.223	Subgrupo ron.
+=414.23	Grupo haúça(hausa).
+=414.231	Haúça (hausa).
+=414.24	Grupo kotoko.
+=414.251	Musgu.
+=414.26	Grupo ngizim.
+=414.27	Grupo Sahel.
+=414.271	Subgrupo sokoro.
+=414.272	Subgrupo somrai.
+=414.273	Tuburi.
+=414.28	Grupo warjawa-gewasa.
+=414.29	Outras línguas tchádias ocidentais.
+=415	Línguas cuchíticas.
+=415.1	Grupo cuchítico setentrional.
+=415.11	Beja.
+=415.2	Grupo cuchítico central (agau).
+=415.3	Grupo cuchítico oriental.
+=415.31	Grupo do planalto.
+=415.311	Derasa.
+=415.312	Haddiya
+=415.313	Sidamo.
+=415.32	Grupo da planície.
+=415.321	Grupo afar-saho.
+=415.322	Gala (Afan. Oromo).
+=415.323	Somali.
+=415.4	Grupo cuchítico meridional.
+=415.411	Iraku.
+=416	Línguas omóticas.
+=416.1	Línguas omóticas orientais.
+=416.11	Ramo ari-banna.
+=416.2	Línguas omóticas ocidentais.
+=416.21	Grupo gimojan.
+=416.211	Welamo.
+=416.22	Grupo gonga.
+=416.23	Grupo majoid.
+=416.9	Outras línguas omóticas.
+=419	Outras línguas afro-asiáticas
+=42	Línguas nilo-saarianas.
+=421.1	Songhai.
+=422	Ramo saariano.
+=422.1	Canuri (kanuri).
+=422.2	Tebu (tubu).
+=422.3	Teda.
+=422.4	Zaghawa.
+=423	Ramo maban.
+=423.1	Masalit.
+=424.1	Fur.
+=425	Koman.
+=426	Ramo nilo-chariano.
+=426.11	Grupo berta.
+=426.2	Línguas sudanesas orientais.
+=426.21	Meroítico.
+=426.22	Grupo didinga-murle (surma).
+=426.23	Grupo daju.
+=426.24	Grupo núbio.
+=426.25	Grupo nyi mang.
+=426.26	Grupo tama.
+=426.27	Grupo temein.
+=426.28	Teuso.
+=426.29	Outras línguas sudanesas orientais.
+=426.3	Línguas sudanesas centrais.
+=426.31	Grupo bagirmi.
+=426.32	Grupo bongo.
+=426.33	Grupo kara.
+=426.34	Lendu.
+=426.35	Grupo mangbetu.
+=426.36	Grupo mangbutu-efe.
+=426.37	Grupo moru-ma'di.
+=426.371	Lugbara (logbara,ma:adi).
+=426.372	Moru.
+=426.38	Grupo sara.
+=426.381	Gambai.
+=426.39	Outras línguas sudanesas centrais.
+=426.4	Línguas nilóticas ocidentais.
+=426.41	Grupo luo.
+=426.411	Acholi.
+=426.412	Adhola.
+=426.413	Alur.
+=426.414	Anuak.
+=426.415	Lango
+=426.416	Luo.
+=426.417	Shilluk.
+=426.42	Grupo dinka-nuer.
+=426.421	Dinka.
+=426.422	Nuer.
+=426.423	Grupo maban.
+=426.49	Outras línguas nilóticas ocidentais.
+=426.5	Línguas nilóticas orientais (nilo-camíticas).
+=426.511	Bari.
+=426.521	Massai.
+=426.53	Subgrupo teso.
+=426.532	Lotuko.
+=426.533	Teso.
+=426.534	Turkana.
+=426.59	Outras línguas nilóticas orientais.
+=426.6	Línguas nilóticas meridionais.
+=426.61	Nandi (kipsikis).
+=426.62	Pokot (suk).
+=429	Outras línguas nilo-saarianas.
+=43	Línguas congo-kordofanianas (nígero-kordofanianas).
+=431	Línguas kordofanianas.
+=431.1	Grupo katla.
+=431.2	Grupo koalib.
+=431.3	Grupo talodi.
+=431.4	Grupo tegali.
+=431.5	Grupo tumtum (kadugli-krongo).
+=432	Línguas nígero-congolesas.
+=432.1	Línguas senegalo-guineanas (oeste-atlântico).
+=432.11	Grupo setentrional.
+=432.111	Balante.
+=432.112	Diola (jola).
+=432.113	Fula (fulani).
+=432.114	Manjaku.
+=432.115	Serere.
+=432.116	Wolof (uolof).
+=432.12	Grupo meridional.
+=432.121	Bulom.
+=432.122	Kissi.
+=432.123	Limba.
+=432.124	Temne (timne).
+=432.19	Outras línguas senegalo-guineanas.
+=432.2	Línguas mande (mali).
+=432.21	Grupo do noroeste.
+=432.211	Mandekan.
+=432.211.1	Bambara.
+=432.211.2	Dyula.
+=432.211.3	Malinka (mandinga).
+=432.212	Soninke.
+=432.213	Susu.
+=432.214	Vai.
+=432.22	Grupo do sudoeste.
+=432.221	Kpelle.
+=432.222	Loma.
+=432.223	Mende.
+=432.23	Grupo meridional.
+=432.231	Dan.
+=432.232	Kweni.
+=432.233	Mano.
+=432.24	Grupo do sudeste
+=432.241	Bisa.
+=432.242	Busa.
+=432.243	Samo.
+=432.29	Outras línguas mande.
+=432.3	Línguas gur (voltaicas).
+=432.311	Bargu.
+=432.321	Grupo bobo (boomu).
+=432.33	Grupo grusi.
+=432.331	Kabré.
+=432.332	Kasem.
+=432.34	Grupo moré-gurma.
+=432.341	Dagbani.
+=432.342	Gurma.
+=432.343	Moré.
+=432.344	Nankani (gurenne).
+=432.35	Kirma-tyurama.
+=432.36	Grupo lobi.
+=432.361	Lobi (ri).
+=432.37	Grupo senufo.
+=432.371	Subgrupo suppire-mianka.
+=432.372	Subgrupo tagbana-dyimini.
+=432.39	Outras 1ínguas gur.
+=432.4/.5	Línguas kwa.
+=432.41	Grupo akan (twi-fanté; Volta-Comoe).
+=432.411	Subgrupo guang.
+=432.412	Subgrupo ona.
+=432.413	Subgrupo tano.
+=432.413.1	Anyi (baule).
+=432.413.2	Fanté.
+=432.413.3	Nzima.
+=432.413.4	Twi.
+=432.42	Grupo akoko.
+=432.43	Grupo edo.
+=432.431	Bini.
+=432.432	Isoko (sobo, urhobo).
+=432.44	Grupo ewe.
+=432.441	Fon.
+=432.442	Gu.
+=432.443	Mina.
+=432.45	Grupo ga-adangme.
+=432.46	Grupo idoma.
+=432.47	Grupo ibo (igbo).
+=432.48	Grupo ijo.
+=432.481	Kalabari.
+=432.482	Nembe.
+=432.51	Grupo kru.
+=432.511	Bassa.
+=432.512	Bete.
+=432.513	Grebo.
+=432.514	Kran.
+=432.515	Kru.
+=432.52	Grupo das lagunas.
+=432.53	Grupo nupe-gbari.
+=432.531	Gbari.
+=432.532	Nupe.
+=432.55	Línguas do Togo central.
+=432.56	Grupo ioruba.
+=432.561	loruba.
+=432.562	Igala
+=432.59	Outras línguas kwa.
+=432.6	Línguas adamawa orientais
+=432.61	Ramo adamawa.
+=432.611	Grupo boa.
+=432.612	Grupo chamba.
+=432.613	Grupo daka.
+=432.614	Grupo duru.
+=432.615	Grupo jen.
+=432.616	Grupo mbum.
+=432.616.1	Mundang.
+=432.617	Grupo mumuye.
+=432.618	Grupo yungur.
+=432.619	Outras línguas adamawa.
+=432.62	Ramo oriental.
+=432.621	Banda.
+=432.622	Grupo gbaya-ngbaka-manza.
+=432.623	Grupo mayogo.
+=432.624	Grupo mba.
+=432.625	Grupo ndogo-feroge.
+=432.626	Grupo ngbandi.
+=432.626.1	Sangho (sango).
+=432.627	Grupo zande.
+=432.629	Outras línguas orientais.
+=432.7/.9	Línguas Benue-Congo.
+=432.7	Línguas bantóides.
+=432.71	Línguas bane.
+=432.711	Grupo ekoid.
+=432.711.1	Ekajuk.
+=432.712	Grupos das savanas.
+=432.712.1	Bamun.
+=432.712.2	Subgrupo bamileke.
+=432.713	Grupo jarawan.
+=432.714	Grupo mamfe.
+=432.715	Grupo misaje.
+=432.716	Grupo tikar.
+=432.719	Outras línguas bantóides bane.
+=432.72	Línguas bantóides não-bantas.
+=432.721	Grupo mambile-wute.
+=432.722	Grupo tiv-batu.
+=432.722.1	Tiv.
+=432.73	Línguas do rio Cross.
+=432.731	Grupo bendi (boki-ebekwara).
+=432.732	Grupo do delta do Cross.
+=432.732.1	Efik.
+=432.732.2	Ogoni.
+=432.74	Grupo jukunóide.
+=432.75	Línguas do planalto Benue-Congo.
+=432.79	Outras línguas bantóides (exceto banto).
+=432.8/.9	Línguas bantas.
+                                      A classificação das línguas bantas baseia-se na divisão em quinze zonas proposta por A.T. Cope
+em ‘A consolidated classification of the Bantu languages', African Studies 30, 1971 p. 213-236)
+=432.811	Grupo bafia.
+=432.812	Grupo bassa.
+=432.813	Grupo bube-benga.
+=432.814	Grupo duata.
+=432.815	Grupo kaka.
+=432.816	Grupo lundu-balong.
+=432.817	Grupo maka-njem.
+=432.818	Grupo sanaga.
+=432.819	Grupo yaunde-fang.
+=432.819.1	Bulu.
+=432.819.2	Evvondo(yaunde).
+=432.819.3	Fang.
+=432.821	Grupo kele (kota).
+=432.822	Grupo mbete.
+=432.823	Grupo myene.
+=432.824	Grupo njabi.
+=432.825	Grupo shira-punu.
+=432.826	Grupo teke.
+=432.827	Grupo tende-yanzi.
+=432.828	Grupo tsogo.
+=432.831	Grupo bangi-ntumba.
+=432.831.1	Ngala.
+=432.832	Grupo kuba.
+=432.833	Grupo losengo.
+=432.833.1	Lingala (mangala).
+=432.834	Grupo mboshi.
+=432.835	Grupo mongo-nkundu.
+=432.835.1	Mongo.
+=432.835.2	Ngandu.
+=432.835.3	Nkundu.
+=432.836	Grupo ngombe.
+=432.837	Grupo ngundi (pande).
+=432.838	Grupo soko-kele.
+=432.839	Grupo tetela.
+=432.841	Grupo bembe-kabwari.
+=432.841.1	Bembe.
+=432.841.2	Hunde.
+=432.842	Grupo bira-huku.
+=432.843	Grupo konjo(mande).
+=432.844	Grupo lega-kalanga.
+=432.845	Grupo mbolo-ena.
+=432.846	Grupo ruanda-rundi.
+=432.846.1	Ha.
+=432.846.2	Ruanda (ruandês).
+=432.846.3	Rundi (barundi).
+=432.851	Grupo chaga (shaka).
+=432.852	Grupo haya-jita.
+=432.852.1	Haya.
+=432.852.2	Jita.
+=432.853	Grupo kikuyu-kamba.
+=432.853.1	Embo.
+=432.853.2	Kamba.
+=432.853.3	Kikuyu.
+=432.853.4	Meru.
+=432.854	Grupo masaba-luhya.
+=432.854.1	Luhya.
+=432.854.2	Nyore.
+=432.855	Grupo nyika-taita.
+=432.855.1	Pokomo.
+=432.855.2	Taita (dabida).
+=432.856	Grupo nyoro-ganda.
+=432.856.1	Chiga.
+=432.856.2	Ganda.
+=432.856.3	Lugwere.
+=432.856.4	Nyankole.
+=432.856.5	Nyoro.
+=432.856.6	Soga.
+=432.856.7	Toro.
+=432.857	Grupo ragoli-kuria.
+=432.857.1	Gusii.
+=432.857.2	Kuria.
+=432.857.3	Ragoli (logooli).
+=432.861	Grupo ilamba-irangi (nilamba).
+=432.862	Grupo sukuma-nyamwezi.
+=432.862.1	Nyamwezi.
+=432.862.2	Sukuma.
+=432.863	Grupo tongwe.
+=432.871	Grupo bena-kinga (hehe).
+=432.871.1	Kisi.
+=432.872	Grupo gogo.
+=432.873	Grupo pogolo.
+=432.874	Grupo shambala.
+=432.874.1	Asu.
+=432.874.2	Shambala.
+=432.875	Grupo suaili (swahili).
+=432.875.1	Ngwana.
+=432.875.2	Suaili (swahili).
+=432.876	Grupo zigula-zaramo.
+=432.881	Grupo congo (kongo).
+=432.882	Grupo mbala.
+=432.883	Grupo mbundu.
+=432.884	Grupo yaka.
+=432.891	Grupo chokwe-luchazi.
+=432.891.1	Luchazi.
+=432.891.2	Lwena (luvale).
+=432.892	Grupo lozi.
+=432.893	Grupo luyana.
+=432.893.1	Mashi.
+=432.894	Grupo subiya.
+=432.911	Grupo kaonde.
+=432.912	Grupo luba.
+=432.912.1	Luba-lulua.
+=432.913	Grupo lunda.
+=432.913.1	Lunda.
+=432.913.2	Lmwunda(ruund).
+=432.914	Grupo nkoya.
+=432.915	Grupo pende.
+=432.916	Grupo songe.
+=432.916.1	Mbala.
+=432.916.2	Songe.
+=432.921	Grupo bemba.
+=432.922	Grupo bisa-lamba.
+=432.922.1	Lamba.
+=432.923	Grupo fipa-mambwc.
+=432.923.1	Mambwe.
+=432.924	Konde (nyakyusa).
+=432.925	Grupo lenje-tonga(ila).
+=432.925.1	Ila.
+=432.925.2	Tonga
+=432.926	Grupo nyiha-safwa.
+=432.926.1	Mwanga.
+=432.926.2	Nyiha.
+=432.931	Grupo manda.
+=432.932	Grupo nyanja (chewa).
+=432.933	Grupo senga-sena (nsenga).
+=432.934	Grupo tumbuka.
+=432.941	Grupo makua.
+=432.942	Grupo matumbi (ngindo).
+=432.943	Grupo yao.
+=432.951	Herero.
+=432.952	Grupo ndonga.
+=432.952.1	Kuanyama.
+=432.952.2	Ndonga.
+=432.953	Grupo umbundu.
+=432.953.1	Mbundu.
+=432.953.2	Nyaneka.
+=432.954	Yeye.
+=432.961	Grupo chopi.
+=432.962	Grupo nguni.
+=432.962.1	Ndebele (tabele).
+=432.962.2	Swazi (siswati).
+=432.962.3	Xhosa.
+=432.962.4	Zulu.
+=432.963	Grupo shona.
+=432.963.1	Shanga.
+=432.963.2	Shona
+=432.964	Grupo sotho-tswana.
+=432.964.1	Sotho setentrional.
+=432.964.2	Sotho meridional (sesotho).
+=432.964.3	Tswana.
+=432.965	Grupo tswa-ronga (tsonga).
+=432.965.1	Ronga.
+=432.965.2	Tsonga.
+=432.965.3	Tswa.
+=432.966	Grupo venda.
+=432.99	Outras línguas bantas.
+=45	Línguas khoisan.
+=451	Línguas bosquímanas setentrionais (bush-A).
+=451.1	Auen (aukwe).
+=451.2	!Xu(!kung).
+=452	Línguas bosquímanas meridionais.
+=452.1	Grupo taa (bush-B).
+=452.2	Grupo !wi (bush-C).
+=453	Línguas hotentotes (khwe-kovab, khoisan
+central).
+=453.1	Grupo nama.
+=453.2	Grupo tshu-khwe.
+=454	Sandawe.
+=459	Outras línguas khoisan.
+=51	Línguas uralo-altaicas.
+=511	Línguas uralianas.
+=511.1	Línguas fino-úgricas.
+=511.11	Línguas fínicas.
+=511.111	Finlandês (fines).
+=511.112	Carélio.
+=511.113	Estoniano.
+=511.114	Live.
+=511.115	Vespse.
+=511.12	Lapão.
+=511.13	Línguas permianas.
+=511.131	Votiaco (udmurt).
+=511.132	Ziriano (komi).
+=511.14	Línguas úgricas.
+=511.141	Húngaro.
+=511.142	Ostiaco.
+=511.143	Vogul (mansi).
+=511.15	Línguas volgaicas.
+=511.151	Tcheremissa.
+=511.152	Morduínio.
+=511.152.1	Erza.
+=511.152.2	Moksa.
+=511.2	Línguas samoiedas.
+=511.21	Samoiedo ostiaco (selkup).
+=511.22	Samoiedo sayan.
+=511.23	Samoiedo tavgui.
+=511.24	Samoiedo ienisseiano.
+=511.25	Samoiedo yurak.
+=512	Línguas altaicas.
+=512.1	Línguas túrquicas.
+=512.111	Chuvash.
+=512.12	Grupo central.
+=512.121	Karakalpak.
+=512.122	Kazakh.
+=512.123	Nogai.
+=512.13	Grupo oriental ( karluk).
+=512.131	Khoton.
+=512.132	Uigur.
+=512.133	Usbeque.
+=512.14	Grupo ocidental.
+=512.141	Bashkir.
+=512.142	Karachay.
+=512.143	Karaite.
+=512.144	Kumyk.
+=512.145	Tártaro.
+=512.15	Grupo setentrional.
+=512.151	Altai.
+=512.152	Chulym.
+=512.153	Khakasm(abakan).
+=512.154	Quirguiz.
+=512.155	Shor.
+=512.156	Tuva (soyon).
+=512.157	Yakut (sakha).
+=512.16	Grupo meridional.
+=512.161	Turco (osmanli).
+=512.162	Azerbaijano.
+=512.163	Khalaj.
+=512.164	Turcomano.
+=512.165	Gagaúzo.
+=512.19	Outras línguas túrquicas.
+=512.2	Línguas tungúsias.
+=512.21	Grupo setentrional.
+=512.211	Even (lamut).
+=512.212	Evenki.
+=512.213	Manegir.
+=512.214	Negidal.
+=512.215	Orochon.
+=512.216	Solon.
+=512.22	Grupo meridional.
+=512.221	Subgrupo nanaj.
+=512.221.1	Akani.
+=512.221.2	Birar.
+=512.221.3	Gold.
+=512.221.4	Kile (kire).
+=512.221.5	Olcha.
+=512.221.6	Orok.
+=512.221.7	Samagir.
+=512.222	Subgrupo udihe.
+=512.222.1	Udihe.
+=512.222.2	Oroch.
+=512.223	Subgrupo manchu.
+=512.223.1	Manchu.
+=512.223.2	Ju-ehen.
+=512.3	Línguas mongólicas.
+=512.31	Buryat.
+=512.32	Dagur.
+=512.33	Khalkha.
+=512.34	Khorchin.
+=512.35	Mongour.
+=512.36	Mogul.
+=512.37	Oirate (kalmyk).
+=512.38	Ordos.
+=512.39	Pao-an.
+=521	Japonês.
+=526.531	Karamojong.
+=531	Coreano.
+=541	Aino.
+=55	Línguas paleossibcrianas.
+=551	Línguas chukchi-camechatquianas.
+=551.1	Chukchi,
+=551.2	Kamchadal.
+=551.3	Koryak.
+=552	Gilyak.
+=553	Ienissei-ostiaco.
+=554	Yukaghir.
+=56	Línguas esquimó-aleútes.
+=561	Aleúte.
+=562	Inuit(inupiak).
+=562.1	Groenlandês (kallallisut).
+=563	Yupik.
+=569	Outras línguas esquimós.
+=57	Línguas dravídicas.
+=571	Ramo setentrional.
+=571.11	Brahui.
+=571.12	Kurukh (oraon).
+=571.13	Malto (sauria).
+=572	Ramo central.
+=572.11	Gadba(ollari).
+=572.12	Gondi.
+=572.13	Kolami.
+=572.14	Konda.
+=572.15	Koya.
+=572.16	Kui (khond).
+=572.17	Kuwi.
+=572.18	Manda.
+=572.21	Naiki.
+=572.22	Parji (dhurva,tagara).
+=572.23	Pengo.
+=572.24	Télugo.
+=572.25	Tulu.
+=573	Ramo meridional.
+=573.11	Canarês (kannada).
+=573.12	Kodagu.
+=573.13	Kota.
+=573.14	Malaiala.
+=573.15	Tamil (tâmul).
+=573.16	Toda.
+=58	Línguas sino-tibetanas.
+=581	Línguas chinesas.
+=581.11	Mandarim (kuang-hua: chinês do norte).
+=581.12	Cantonês (yüeh).
+=581.13	Hakka.
+=581.14	Hsiang.
+=581.15	Kan (nan ch'ang).
+=581.16	Min pei (min do norte).
+=581.17	Min man (min do sul),
+=581.171	Taiwanês.
+=581.18	Wu.
+=581.19	Outras línguas chinesas.
+=582	Línguas kam-tai.
+=582.1	Grupo kadai.
+=582.11	L.i.
+=582.2	Grupo kam-sui.
+=582.3	Línguas tai.
+=582.31	Línguas tai do centro (nung-tho).
+=582.32	Línguas tai do norte (dioi; chung-chia).
+=582.33	Línguas tai do sudoeste (tai-shan).
+=582.331	Lao (laociano).
+=582.332	Lü.
+=582.333	Shan.
+=582.334	Thai (siamês).
+=582.335	Tho.
+=582.336	Yuan.
+=583	Línguas miao-yao.
+=583.11	Laka.
+=583.12	Miao.
+=583.13	Mien(yao).
+=583.14	Punu.
+=584	Línguas tibeto-birmanesas.
+=584.1	Línguas bodo-naga-chin.
+=584.11	Bodo (boro).
+=584.12	Garo.
+=584.13	Grupo naga (tangsa).
+=584.131	Lepcha.
+=584.132	Tangsa.
+=584.14	Kachin (ching pa’o).
+=584.15	Nung.
+=584.16	Rawang.
+=584.2	Línguas birmanesas-lolo.
+=584.21	Birmanês.
+=584.22	Grupo lolo-moso.
+=584.221	Akha.
+=584.222	Lahu.
+=584.223	Lisu.
+=584.224	Lolo.
+=584.225	Nosu.
+=584.3	Línguas gyarung-mishmi (himalaias).
+=584.31	Adi (abor-miri).
+=584.32	Newari.
+=584.4	Línguas karen.
+=584.41	Pho (pwo).
+=584.42	Sgaw.
+=584.43	Taungthu (pa'o).
+=584.5	Línguas naga-kuki-chin.
+=584.51	Línguas chin.
+=584.511	Lushai.
+=584.512	Paite (vuite).
+=584.513	Thado.
+=584.52	Kuki.
+=584.53	Lakher.
+=584.54	Manipuri (meithei).
+=584.55	Naga.
+=584.551	Mikir.
+=584.6	Tibetano (bótia).
+Exemplo(s) de Combinação(ões):
+      =584.6’02 Tibetano clássico 
+      =584.61 Tibetano central. -
+      =584.62 Tibetano ocidental.
+=584.61	                   Tibetano central.
+=584.62	                   Tibetano ocidental.
+=584.7	Dzorgaico (ch'iang).
+=61	Línguas austro-asiáticas.
+=611	Grupo de Malaca (aslian).
+=611.1	Jakun.
+=611.2	Sakai.
+=611.3	Semang.
+=612	Línguas mon-khmer.
+=612.1	Banárico.
+=612.11	Koho.
+=612.2	Katuic.
+=612.3	Khasi.
+=612.4	Cambojano (khmer).
+=612.5	Khmuic.
+=612.6	Mon.
+=612.7	Palaung-wa (salween).
+=612.71	Wa.
+=612.8	Peárico.
+=612.9	Línguas viet-muong.
+=612.91	Vietnamita.
+=612.92	Muong.
+=612.99	Outras línguas mon-khmer.
+=613	Línguas mundas.
+=613.1	Gorum (pareng).
+=613.2	Gutob (gadaba).
+=613.3	Juang.
+=613.4	Kharia.
+=613.5	Kurku.
+=613.6	Mundari-ho.
+=613.61	Ho.
+=613.7	Santali.
+=613.8	Sora.
+=613.9	Outras línguas mundas.
+=614	Grupo nicobarês.
+=62	Línguas austronésias.
+=621	Línguas malaio-polinésias.
+=621.1	Grupo formosano.
+=621.11	Grupo ataiálico.
+=621.12	Grupo paiwânico.
+=621.2	Grupo hesperonesíano.
+=621.21	Grupo filipino.
+=621.211	Bilaano.
+=621.212	Grupo da cordilheira.
+=21.212.1	Grupo banágico.
+=621.212.11	Gaddang.
+=621.212.12	Ibanag.
+=621.212.2	Grupo ifugao.
+=621.212.3	Grupo igorot.
+=621.212.31	Bontoc.
+=621.212.32	Ilocano.
+=621.212.33	Kankanay.
+=621.212.4	Grupo kalinga.
+=621.212.41	Maguindanao.
+=621.212.42	Tausug (sulu).
+=621.212.5	Pangansinan.
+=621.212.9	Outras línguas da cordilheira.
+=621.213	Grupo maranao.
+=621.214	Grupo murutico.
+=621.215	Grupo sulico.
+=621.215.1	Buquidnico.
+=621.215.2	Dibabaico (manobo).
+=621.215.3	Línguas mesofilipinas.
+=621.215.31	Bikol.
+=621.215.32	Grupo hanunóico.
+=621.215.33	Grupo iraiico.
+=621.215.34	Grupo mansaquico.
+=621.215.35	Grupo tagálico.
+=621.215.351	Tagalo (filipino).
+=621.215.352	Grupo bisayan (visayan).
+=621.215.352.1	Cebuano.
+=621.215.352.2	Ilonggo (hiligaynon).
+=621.215.352.3	Waray (samaron).
+=621.215.36	Palauânico.
+=621.215.37	Pampango.
+=621.216	Chamorro.
+=621.217	Palauano.
+=621.218	Grupo gorontalo.
+=621.219	Outras línguas filipinas.
+=621.22	Grupo de Sulawesi setentrional (Célebes).
+=621.221	Grupo minhasa (ton).
+=621.222	Grupo tomini.
+=621.23	Grupo de Sulawesi central.
+=621.231	Grupo bungku-laki-mori.
+=621.231.1	Mori.
+=621.232	Grupo loinang-banggai.
+=621.233	Grupo toradja.
+=621.233.1	Bare'e.
+=621.24	Grupo de Sulawesi meridional.
+=621.241	Buginês.
+=621.242	Macasarês(macasar).
+=621.243	Mandarês.
+=621.244	Grupo muna-butung.
+=621.244.1	Butung.
+=621.244.2	Muna.
+=621.25	Línguas indonésias ocidentais.
+=621.251	Malaio (bahasa indonésio; bahasa malaio).
+=621.252	Línguas sumatrinas.
+=621.252.1	Achinês.
+=621.252.2	Bataque.
+=621.252.3	Gayo.
+=621.252.4	Lampung.
+=621.252.5	Lubu.
+=621.252.6	Minangkabau.
+=621.252.7	Redjang.
+=621.252.8	Toba
+=621.252.9	Outras línguas de Sumatra.
+=621.253	Línguas javanesas.
+=621.253.1	Javanês.
+Exemplo(s) de combinação(ões):
+       =62l.253’01 Kawi
+=621.253.2 Madurês.
+=621.253.3 Sundanês.
+=621.254 Línguas balinesas.
+=621.254.1	Balinês.
+=621.254.2	Basaque.
+=621.255	Línguas de Bornéu.
+=621.255.1	Dayak terrestre.
+=621.255.2	Dayak marítimo (iban).
+=621.255.3	Maanyan (dusun).
+=621.255.9	Outras línguas de Bornéu.
+=621.256	Linguas malaio-polinésias da Indochina.
+=621.256.1	Cham.
+=621.256.2	Chru (kru).
+=621.256.3	Jarai.
+=621.256.4	Rade.
+=621.258	Malgaxe.
+=621.259	Outras línguas indonésias ocidentais.
+=621.3	Línguas indonésias orientais.
+=621.31	Grupo Ambon-Timor.
+=621.32	Grupo Bima-Sumba.
+=621.33	Grupo Sula-Batjan.
+=621.4	Línguas molucanas.
+=621.41	Biakic (numfor).
+=622	Línguas oceanienses.
+=622.1	Línguas micronésias.
+=622.11	Gilbertino.
+=622.12	Kusaie.
+=622.13	Marshallês.
+=622.14	Nauru.
+=622.15	Ponape.
+=622.16	Truk.
+=622.17	Yap.
+=622.2	Línguas do nordeste da Nova Guiné.
+=622.3	Papua austronésio.
+=622.4	Línguas das ilhas Salomão.
+=622.5	Linguas das Novas Hébridas.
+=622.6	Línguas da Nova Caledônia.
+=622.8	Línguas oceânicas orientais.
+=622.81	Línguas melanésias.
+=622.811	Fijiano.
+=622.82	Línguas polinésias.
+=622.821	Grupo nuclear.
+=622.821.1	Língua da ilha da Páscoa.
+=622.821.2	Havaiano.
+=622.821.3	Maori.
+=622.821.4	Marquesano.
+=622.821.5	Rarotongano.
+=622.821.6	Taitiano.
+=622.821.7	Tuamotuano.
+=622.821.9	Outras línguas do grupo nuclear.
+=622.822	Grupo samoano-periférico.
+=622.822.1	Samoano.
+=622.822.9	Outras línguas pertencentes ao grupo samoano periférico.
+=622.823	Grupo tôngico.
+=622.823.1	Tonganês (uveano).
+=622.823.2	Niueano.
+=622.9	Outras línguas oceanienses.
+=71	Línguas indo-pacíficas (não-austronésias).
+=711	Andamanês.
+=712	Timorês.
+=713	Línguas da Nova Guiné (papuas).
+=713.1	Línguas da Nova Cuiné central.
+=713.18	Hiri motu (police motu).
+=713.2	Línguas guineanas do planalto.
+=713.3	Línguas da Nova Guiné meridional.
+=713.4	Línguas da Nova Guiné do sudeste.
+=713.5	Línguas da Nova Guiné setentrional.
+=713.6	Línguas Huon-Finisterre.
+=714	Língua da Nova Cuiné do nordeste (madang).
+=715	Línguas nova-guineanas ocidentais.
+=716	Bougainvilleano.
+=717	Línguas melanésias centrais.
+=718	Tasmaniano.
+=719	Outras línguas indo-pacíficas.
+=72	Línguas australianas.
+=721	Grupo pama-maric.
+=722	Grupo pama-nyungan.
+=729	Outras línguas australianas.
+=8	Línguas dos índios americanos (ameríndias).
+=81/=82	Línguas dos índios norte-americanos.
+=81	Línguas indígenas norte americanas (ameríndias setentrionais) em geral.
+=811	Línguas atapascas-eyak.
+=811.11	Apache.
+=811.12	Carrier.
+=811.13	Chilcotin.
+=811.14	Chipewyan.
+=811.15	Dogrib (Hare).
+=811.16	Hupa.
+=811.17	Navajo.
+=811.18	Sekani.
+=811.21	Tanana.
+=811.22	Haida.
+=811.23	Tlingit.
+=811.29	Outras línguas atapascas.
+=812	Línguas algonquinas.
+=812.11	Arapaho.
+=812.12	Blackfoot (Siksika).
+=812.13	Cheiene (Cheyenne).
+=812.14	Crée.
+=812.15	Delaware.
+=812.16	Fox.
+=812.17	Menominee.
+=812.18	Micmac.
+=812.21	Mohegan.
+=812.22	Naskapi.
+=812.23	Ojibwa.
+=812.24	Passamaquoddy.
+=812.25	Penobscot.
+=812.26	Potawatomi.
+=812.27	Shawnee.
+=812.5	Kutenai.
+=813	Línguas muskogeanas.
+=813.1	Alabama.
+=813.2	Choctaw (Chickasaw).
+=8133	Hitchiti.
+=813.4	Koasati.
+=813.5	Muskogee (Creek, Seminole).
+=814	Línguas caddoanas.
+=814.1	Caddo.
+=814.2	Pawnee
+=814.3	Wichita.
+=815	Línguas iroquesas.
+=815.1	Cherokee.
+=815.2	Mohawk.
+=815.3	Oneida.
+=815.4	Seneca.
+=815.5	Tuscarora.
+=816	Línguas sioux.
+=816.1	Chiwere.
+=816.2	Crow.
+=8163	Dakota (Assiniboine).
+=816.4	Dhegiha.
+=816.5	Hidatsa.
+=816.6	Osage.
+=816.7	Winnebago.
+=817	Línguas hoka.
+=817.1	Tequistlateca (Chontal).
+=817.2	Tlapaneca.
+=8173	Washo.
+=817.4	Yuma.
+=817.9	Outras línguas hoka.
+=818.1	Keresa.
+=821	Línguas penutis.
+=821.11	Araucaniana.
+=821.12	Chinook.
+=821.13	Chipaiana.
+=821.14	Huave.
+=821.15	Maidu.
+=821.16	Línguas maias.
+=821.161	Chol.
+=821.162	Chontal.
+=821.163	Chorti.
+=821.164	Chujeana.
+=821.165	Huasteca.
+=821.166	Jacalteca.
+=821.167	Kanjobalana.
+=821.168	Kekchi.
+=821.171	Ixil.
+=821.172	Mameana.
+=821.173	Maia.
+=821.174	Línguas quéchuas.
+=821.174.1	Cakchiquel.
+=821.174.2	Pokomama.
+=821.174.3	Pokonchi.
+=821.174.4	Quiché.
+=821.174.5	Tzutuhil.
+=821.174.6	Uspanteca.
+=821.175	Tzeltal.
+=821.176	Tzotzil.
+=821.18	Miwok.
+=821.21	Sahaptin-Nez-Percé.
+=821.22	Totonacana.
+=821.23	Tsimshiana.
+=821.24	Línguas zoque.
+=821.241	Mixe.
+=821.242	Zoque.
+=821.25	Zuñi.
+=821.29	Outras línguas penutis.
+=822	Línguas asteca-tanos.
+=822.1	Línguas tanos.
+=822.11	Kiowa.
+=822.12	Tewa
+=822.13	Tiwa.
+=822.14	Towa.
+=822.2	Línguas uto-astecas.
+=822.21	Asteca (nahuatl).
+=822.22	Hopi.
+=822.23	Línguas númicas (shoshonianas do planalto).
+=822.231	Paiute.
+=822.232	Shoshone.
+=822.24	Linguas sonoranas.
+=822.241	Cora.
+=822.242	Huichola.
+=822.243	Pima.
+=822.244	Tarahumara.
+=822.245	Yaqui.
+=822.25	Línguas takic (shoshonianas do
+sul da Califórnia).
+=822.251	Luiseño.
+=822.29	Outras línguas uto-astecas.
+=823	Línguas oto-mangues.
+=823.1	Amuzgo.
+=823.2	Chinantec.
+=8233	Mangue.
+=823.4	Mixteca.
+=823.5	Línguas otomianas.
+=823.51	Matlatzinca.
+=823.52	Mazahua.
+=823.53	Otomi.
+=823.54	Pame.
+=823.6	Línguas popolocanas (olmecas).
+=823.61	Mazateca.
+=823.62	Popoloca.
+=823.7	Zapoteca.
+=824	Línguas salish.
+=824.1	Kalispel.
+=824.2	Lillooet.
+=824.3	Nikutamuk.
+=824.4	Okanogan.
+=824.5	Shuswap.
+=824.9	Outras linguas salish.
+=825.1	Tarasca.
+=826	Línguas wakashan.
+=826.1	Kwakiutlan.
+=826.2	Nootkan.
+=829	Outras línguas indígenas norte-americanas.
+=87	Línguas indígenas da América Central e do Sul.
+=871	Línguas jê-pano-karib.
+=871.1	Línguas macro-karib.
+=871.11	Karib.
+=871.12	Witoto (huitoto).
+=871.19	Outras línguas macro-karib.
+=871.2	Línguas macro-jê-borôro.
+=871.21	Borôro.
+=871.22	Línguas macro-jê.
+=871.221	Carajá.
+=871.222	Jê.
+=871.29	Outras línguas macro-jê-bororo.
+=871.3	Línguas macro-pano.
+=871.31	Mataco.
+=871.32	Línguas pano-tacana.
+=871.321	Pano.
+=871.322	Tacana.
+=871.33	Moseten.
+=871.39	Outras línguas macro-pano.
+=871.41	Nambiquara.
+=871.9	Outras línguas jê-pano-karib.
+=872	Línguas macro-chibcha.
+=872.1	Chibcha.
+=872.2	Misumalpa.
+=872.3	Línguas paeza.
+=872.31	Barbacoa.
+=872.32	Chocó.
+=872.33	Jirara.
+=872.34	Paez-coconuco (interandino).
+=872.4	Waiká.
+=872.9	Outras línguas macro-chibcha.
+=873	Línguas andino-equatoriais.
+=873.1	Línguas andinas.
+=873.11	Cahuapana.
+=873.12	Quechumara.
+=873.121	Aimará.
+=873.122	Quéchua.
+=873.129	Outras línguas quechumara.
+=873.19	Outras línguas andinas.
+=873.2	Línguas equatoriais.
+=873.21	Línguas arauacanas.
+=873.211	Chapacura-Wanhama.
+=873.212	Maipura.
+=873.219	Outras línguas arauacanas.
+=873.22	Guahiba.
+=873.23	Saliva.
+=873.24	Línguas tupi-guarani.
+=873.241	Guarani.
+=873.242	Tupi.
+=873.3	Jívaro.
+=873.4	Línguas macro-tucano.
+=873.41	Catuquina.
+=873.42	Tucano.
+=873.49	Outras línguas macro-tucano.
+=873.9	Outras línguas andino-equatoriais.
+=879	Outras línguas indígenas da América Central e do Sul.
+=9	Línguas artificiais.
+=92	Línguas artificiais para uso entre
+seres humanos. Línguas auxiliares
+internacionais (interlínguas).
+=921	Volapuque (criada por Schleyer).
+=922	Esperanto (criada por Zamenhof).
+=923	Sistemas derivados do volapuque ou esperanto. Inclusive Ido.
+=924	Langue bleue (criada por Bollack).
+=925	Interlingue (Occidental).
+=926	Interlingua (criada por Gode).
+=929	Vários sistemas a priori, ecléticos e a posteriori.
+     Especificar por extensão alfabética
+=929.1	Sistema filosóficos a priori baseados na classificação lógica das idéias (usando números, letras ou outros 
+                             signos). Inclusive Pasigrafia. Ao. Ro.
+=929.2	Sistemas ecléticos, mistos (com gramática racionalizada).   Inclusive Pasilíngua. Dilpok. Langue universelle.
+=929.3	Sistemas a posteriori (baseados principalmente em línguas naturais).
+Inclusive Afrihili. Inglês básico. Interlingua (latim simplificado, criado por
+Peano). Mundolingua. Neo. Novial.
+=93	Linguagens artificiais empregadas para inserir instruções em máquinas.
+Linguagens de programação. Linguagens de computador.
+      Usar apenas quando se desejar indicar a língua em que está escrito o documento em processo de classificação (p. ex., um programa 
+      de computador
+     → 004.912=93c++ Programa de processamento de texto escrito em C++
+     → 004.43 Linguagens de computador
+     → 004.655 Linguagens de bases de dados
+      Especificar por meio da extensão alfabética
+
+(0...) TABELA 1d. AUXILIARES COMUNS DE FORMA
+
+OBJETIVO. Os auxiliareS comuns de forma indicam o formato ou a apresentação dos documentos. Não são usados para indicar o assunto de que tratam os documentos As formas literárias poesia, peças de teatro, ficção, etc.) são classificadas em 82-1/-9. Tipos de formas que não estejam relacionados na Tabela 1d podem ser indicados por meio de (0:...). p, ex.:
+929(0:82-31) Biografia apresentada em forma de romance
+ORDEM DE CITAÇÃO. Estes auxiliares são normalmente usados em seguida a uma notação de assunto, mas, se desejado, todos os documentos que compartilham um mesmo formato ou apresentação (ou seus sucedâneos) podem ser agrupados sob o auxiliar de forma apropriado, p. ex. :
+54(035) Manuais de química
+54(038) Dicionários de química (arquivados junto com outros trabalhos de química)
+(038)54 Dicionários de química (arquivados junto com outros dicionários)
+(054) Jornais (de todos os tipos)
+(054)(44) Jornais franceses
+(085.6)685.53 Listas de preços de equipamento para acampamento (arquivadas junto com
+outras listas de preços)
+ORDEM INTERNA E EXTERNA . Quando houver necessidade de exprimir mais de um aspecto de forma, dever-se-á distinguir entre forma interna, quando a forma influencia o assunto (p. ex., apresentação histórica), e forma externa, que expressa apenas as características físicas do suporte da informação (p. ex., gravação de som). Independentemente da ordem numérica, a forma interna deve ocorrer junto do assunto, antes de se exprimir a forma externa, p. ex.:
+      [792+82-2](091)(086.7) Uma história falada do teatro (assunto – forma histórica – gravação de som) 
+
+Tabelas sistemáticas.
+Subdivisões auxiliares especiais
+(0.0...)		Aspecto físico, características de produção e uso, material suplementar, etc.
+Usados como auxiliares especiais com os auxiliares de forma (01)/(09), ou com (0.0...), quando nenhum formato particular de documento estiver em questão 
+Exemplo(s) de combinação(ões):
+                                      (038.021.6) Dicionários em miniatura. 
+      (0.021.6)Documentos em miniatura (em geral).
+(0.02)		Documentos segundo sua forma física externa.
+(0.021)	Documentos segundo seu alcance e tamanho.
+(0.021.2)	Documentos grandes. Documentos abrangentes,
+(0.021.3)	Documentos de tamanho médio.
+(0.021.4)	Documentos pequenos. Documentos concisos.
+(0.021.6)	Edições em miniatura.
+(0.021.8)	Documentos com formato especial.
+(0.022)	Documentos segundo a cor e a transparência.
+(0.022.2)	Documentos monocromáticos.
+(0.022.3)	Documentos em preto-e-branco.
+(0.022.4)	Documentos bicolores (exceto em preto-e-branco).
+(0.022.5)	Documentos multicoloridos.
+(0.022.7)	Documentos transparentes.
+(0.022.8)	Documentos opacos.
+(0.023)	Documentos segundo seu material (substância).
+      (0.023) subdividido como -03 (Tabela Ik)
+(0.023.552)	Documentos em couro trabalhado, pergaminho.
+(0.024)	Documentos segundo a disposição espacial da impressão.
+      → (086.4) Representações sólidas, tridimensionais
+(0.024.3)	Documentos com impressão estereográfica. Inclusive Anáglifos.
+(0.024.5)	Documentos com impressão em perspectiva.
+(0.024.7)	Documentos com impressão panorâmica.
+(0.025)	Documentos segundo suas ilustrações.
+(0.025.2)	Documentos ilustrados.
+(0.025.4)	Documentos sem ilustrações.
+(0.026)	Documentos segundo sua encadernação.
+(0.026.2)	Documentos com capas fixas. Encadernados. Em estojos.
+(0.026.4)	Documentos costurados, grampeados.
+Brochuras.
+(0.026.6)	Documentos em folhas soltas.
+(0.027)	Tipo de edição.
+(0.027.2)	Edições-padrão.
+(0.027.3)	Edições populares.
+      → (0.062) Exposição de caráter popular, de nível elementar
+(0.027.5)	Edições em brochura.
+(0.027.6)	Edições de luxo. Edições artísticas. Edições para bibliófilos e colecionadores.
+      → 094.3 Edições de arte. Edições refinadas
+(0.027.8)	Edições não-autorizadas. Edições piratas.
+(0.028)	Documentos defeituosos.
+(0.028.1)	Documentos incompletos. Exemplares em que faltam páginas.
+(0.028.3)	Documentos danificados.
+(0.028.5)	Documentos com defeitos de impressão, erros tipográficos, errata etc.
+(0.028.7)	Documentos forjados. Documentos falsificados.
+(0.029)	Documentos com outras características físicas.
+(0.029.2)	Documentos com superfície adesiva.
+Inclusive Etiquetas.
+(0.029.4)	Documentos montados, colados.
+(0.03)	Documentos segundo o método de produção.
+(0.032)	Documentos manuscritos (exemplares autógrafos, documentos hológrafos).
+Manuscritos. Documentos pictóricos (desenhos, pinturas).
+(0.033)	               Documentos datilografados. Documentos produzidos por máquinas datilográficas,
+teleimpressoras (telex), processadores de texto, impressoras de linhas, terminal de
+computador, etc.
+(0.034)	Documentos legíveis por máquinas. Inclusive Cartões perfurados. Fitas 
+perfuradas. Fita magnética. Disco magnético.
+(0.034.1)	Documentos digitais
+	      Especificar o tipo de documento acrescentando o sufixo do arquivo, combinando com (084 ...)
+	      Exemplo(s) de combinação(ões):
+	      (0.034.2:084.122A/Z) Documentos digitais audiovisuais. Arquivos de animação de software  
+	      (0.034.2:084.122FLA) Flash (pacote de animação on line usando gráficos de vetor)
+	      (0.034.2:084.122PPT) Power Point Documents 
+	      (0.034.2:084.122SCR) Windows Screen Saver
+	      (0.034.2A/Z) Documentos digitais principalmente texto
+	      (0.034.2ASP) Active Server Page (Microsoft)
+	      (0.034.2DOC) Word Document 
+	      (0.034.2HTML) Hypertext Markup Language
+	      (0.034.2OEB) Open E-book
+	      (0.034.2PDF) Portable Document Format (Adobe)
+	      (0.034.2PS) Post Script
+	      (0.034.2RTF) Rich Text Format
+	      (0.034.2SGML) Standard Generalized Markup Language
+	      (0.034.2TXT) ASCII Text
+	      (0.034.2XML) Extensive Markup Language
+	      (0.034.2:084.12A/Z) Fotografias imóveis digitais (imagens)
+	      (0.034.2:084.12BMP) Bitmap image
+	      (0.034.2 084.12GIF) Graphic Interchange Format GIF (apenas 256 cores)
+	      (0.034.2 084.12JPEG) Joint Photographic Expert Group. NOTA: usar, alternativamente, (0.084.2:084.12JPG)
+	      (0.034.2:084.12TIFF) TIFF Tag Image File Format
+	      (0.034.2 084.12PNG) PNG Portable Network Graphics
+	      (0.034.2:084.12PSD) Photoshop Document (Adobe Photoshop)
+	      (0.034.2:084.122A/Z)  Documentos digitais audiovisuais
+	      (0.034.2:084.122MPEG) Moving Picture Expert Group. 
+	      (0.034.2:084.122AVI) Audiovisual Interface
+	      (0.034.2:084.122QT) Apple Quick Time
+	      (0.034.2:086.7A/Z) Documentos áudio digitais
+	      (0.034.2:086.7MP3) MPEG-1 Audio Layer-3
+	      (0.034.2:086.7AU) Audio (formato para arquivos sonoros em UNIX)
+	      (0.034.2:086.7WAV) Windows sound file (arquivo de som do Windows)
+	      (0.034.2:086.7RA) Real Audio
+	      → 004.22 Representação de dados
+(0.034.4)	Meios magnéticos e óticos
+(0.034.42)	Meios magnéticos. Inclusive Fita magnética. Disco magnético. Disquete (floppy disk).
+(0.034.44)	Meios óticos. Inclusive CD (disco compacto)
+(0.035)	Cópias. Reproduções. Documentos duplicados.
+(0.035.1)	Cópias ampliadas.
+(0.035.2)	Cópias reduzidas. Microcópias.
+(0.035.22)	Em forma de tira, transparente. Microfilme.
+(0.035.23)	Em forma de página, transparente. Microficha.
+(0.035.24)	Microformas opacas. Microfichas opacas. Microcópias opacas.
+(0.035.3)	Fotocópias. Inclusive Cópias diazo, xerográficas, eletrográficas.
+(0.035.5)	Cópias mimeografadas, hectografadas e similares.
+(0.036)	Documentos impressos.
+→ (0.033) Documentos datilografados. Documentos produzidos por máquinas datilográficas, teleimpressoras (telex), processadores de texto, impressoras de linhas, terminal de computador, etc.
+(0.036.2)	Provas impressas. Inclusive Provas de galé ou paquê. Provas de página.
+(0.036.4)	Pré-publícações (preprints).
+(0.036.6)	Separatas.
+(0.038)	Obras em múltiplas partes ou múltiplos volumes.
+(0.04)	Documentos segundo o seu estágio de produção.
+(0.041)	Rascunhos. Esboços preliminares, croquis.
+(0.041.2)	Primeiros rascunhos.
+(0.041.4)	Rascunhos revistos. Revisões.
+(0.041.6)	Rascunhos finais.
+(0.042)	Documentos temporários, provisórios, interinos.
+(0.044)	Primeiras edições (publicadas). Editiones principes.
+(0.045)	Edições reimpressas. Reimpressões. Novas impressões.
+(0.046)	Edições revistas. Novas edições.
+(0.046.2)	Edições corrigidas.
+(0.046.3)	Edições ampliadas, expandidas, suplementadas.
+(0.046.4)	Edições abreviadas, condensadas.
+(0.046.6)	Edições adaptadas.
+(0.05)	Documentos para determinados tipos de usuários.
+	      (0.05) subdividido como -05 (Tabela 1k)
+	      → 087.2 Publicações para categorias específicas de leitores
+	      → 087.5 Publicações para jovens
+(0.053.2)	Documentos para crianças.
+Exemplo(s) de combinação(ões):
+(02.053.2) Livros infantis
+(0.055.2)	Documentos para mulheres.
+Exemplo(s) de combinação(ões):
+(051.055.2) Revistas femininas
+(0.06)	Documentos segundo o nível de apresentação e a disponibilidade.
+(0.062)	Exposição de caráter popular, de nível elementar.
+→ (0.027.3) Edições populares
+→ (075.2) Textos didáticos elementares. Cartilhas
+(0.063)	               Exposição de nível médio, intermediário.
+(0.064)	Exposição de nível elevado, avançado.
+→ (035) Compêndios. Manuais
+	      → (075.8) Texto para o ensino universitário, a educação superior
+(0.067)	Documentos de disponibilidade, distribuição e ou armazenamento limitado ou especial.
+Documentos da “literatura cinzenta”.
+(0.067.2)	Documentos sigilosos (confidenciais ou secretos).
+(0.067.4)	Documentos banidos.
+(0.067.6)	Documentos apenas para uso interno.
+(0.068)	Documentos raros. Documentos únicos. Únicos exemplares existentes. Única.
+→ 094.2 Exemplares únicos. Únicos exemplares existentes. Unica
+(0.07)	Material suplementar editado junto com um documento.
+(0.072)	Comentários. Explicações. Anotações. Aparato crítico. 
+      → (048.2) Anotações
+(0.074)	Emendas. Adendos. Pós-escritos.
+(0.076)	Correções. Erratas. Corrigenda.
+(0.078)	Encartes suplementares. Apêndices. Anexos.
+(0.08)	Suplementos ou partes dos documentos publicados separadamente. 
+                                     (0.08) subdividido como (0.07)
+Subdivisões auxiliares comuns
+(01)	Bibliografias.
+→ (048) Descrições bibliográficas. Resumos. Sinopses. Revisões.
+→ 016 Bibliografias de assuntos específicos
+(02)	Livros em geral.
+Classificação abrangente para todos os documentos em formato de livro que não possam ser classificados amais especificamente em (03)/(09)
+(03)	Obras de referência.
+	     Classificar aqui em (03) ou em suas subdivisões todos os livros que contenham
+      informações sobre uma pluralidade de assuntos diferentes ou sobre a totalidade
+      do conhecimento (seja em ordem alfabética, sistemática ou qualquer outra)
+      → (07) Documentos destinados à instrução, ensino, estudo, treinamento
+	      → (083) Documentos técnicos e normativos. Tabelas, listas, etc.
+	      → 030 Obras gerais de referência.
+(031)	Enciclopédias.
+Exemplo(s) de combinação(ões):
+(031.021.4) Enciclopédias pequenas, concisas 
+(031.038) Enciclopédias em vários volumes
+(035)	Compêndios. Manuais.
+Obras de referência concisas que cobrem determinado assunto ou campo do conhecimento.
+Para manuais do usuário (instruções sobre modo de usar, equipamento, instrumentos, documentos especializados, software de computador,  etc.), usar (083.31)
+→ (076) Documentos para instrução prática, treinamento.
+(036)	Guias (com informações práticas e descritivas).
+(038)	Dicionários. Inclusive Dicionários lingüísticos. Dicionários especializados e técnicos.
+       Exemplo(s) de combinação(ões): 
+        (038)=111 Dicionário de inglês 
+        54(038)=134.2 Dicionário espanhol de química, ou
+                                       (038)54=134.2 Dicionário espanhol de química.
+		       Classificar dicionários especializados no assunto, com (038), p. ex., 
+		       54(038)=134.2 Química – dicionário – espanhol.
+		       (038)54=134.2 Dicionário – Química – espanhol.
+		       811.111(038) Inglês – Dicionário.
+		       Opcionalmente,  dicionários gerais monolíngües podem ser indicados apenas com o emprego dos auxiliares comuns,
+        p. ex.:
+		      (038)=111 Dicionário inglês
+		      Em lingüística pode-se atribuir prioridade à língua ou ao aspecto lingüístico, p. ex.:
+		       811.135.1’373.421(038) Romeno – Sinônimos - Dicionário
+		       81’373,421=135.1(038) Sinônimos – Romeno - Dicionário
+		       Quando for feita uma escolha, seguir uma opção com consistência.
+ 		      →  8l’373 Lexicologia
+     →  8l’374 Lexicografia. Compilação e organização de dicionários
+       O segundo e o terceiro exemplos são notações alternativas para a mesma obra.
+(04)	             Publicações avulsas não-seriadas. Separata.
+→ 82-4 Ensaios
+(041)                           Folhetos. Opúsculos.
+(042)                        Discursos. Conferências. Palestras.
+→ (07) Documentos destinados à instrução, ensino, estudo, treinamento
+(042.3)	Conferências.
+(042.4)	Cursos sob a forma de conferências.
+(042.5)	Discursos. Orações.
+→ 82-5 Oratória. Discursos
+(043)	Teses. Dissertações.
+(043.2)	Teses. Teses universitárias.
+(043.3)	Dissertações.
+(043.5)	Aulas inaugurais (universitárias).
+(044)	Documentos pessoais. Correspondência. Cartas. Circulares.
+→ 82-6 Cartas. Arte de escrever cartas. Correspondência. Cartas genuínas. Outras obras em forma 
+                                 epistolar.
+→ 82-94 História como gênero literário. Escritos históricos. Historiografia. Crônicas. Anais. Memórias. Periódicos.
+                                             Diários. Biografia. Autobiografia.
+→ 929 Estudos biográficos e afins.
+(044.2)	Cartas pessoais. Correspondência particular.
+(044.3)	Outros documentos pessoais. Inclusive Expressões de vontade (semelhante a testamento, porém sem força legal)
+	      → 347.69 Expressões de vontade (semelhante a testamento, porém sem força legal)
+(044.4)	Cartas comerciais. Correspondência oficial.
+(044.6)	Cartas circulares.
+(045)	Artigos em publicações seriadas, coleções, etc. Colaborações.
+→ (05) Publicações seriadas. Periódicos. 
+→ (08) Coleções e poligrafias. Formulários. Listas. Ilustrações. Publicações comerciais.
+(046)	Artigos de jornal.
+(047)		 Relatórios. Notícias. Boletins.
+     → (055) Boletins de notícias. Noticiosos (Newsletters). Boletins informativos.
+(047.1)	Relatórios de acompanhamento. Relatórios
+sobre o estado de um problema.
+(047.2)	Relatórios de viagem (comerciais, de estudo etc).
+(047.3)	Relatórios especiais.
+(047.31)	Relatórios de pesquisa. Relatórios de testes, experimentos, projetos, etc.
+	      → (083.94) Projetos.
+(047.32)	Relatórios administrativos.
+(047.33)	Relatórios sobre acidentes, avarias ou obras de reconstrução.
+(047.34)	Relatórios sobre produção, processos técnicos.
+(047.36)	Relatórios comerciais. Relatórios de marketing.
+(047.5)	Relatórios para a imprensa. Notas distribuídas à imprensa (press releases). Comunicados.
+(047.53)	Entrevistas.
+(047.6)	Relatórios breves, notas. Notícias. Recortes de jornais.
+(048)	Descrições bibliográficas. Resumos. Sinopses. Revisões.
+→ (01) Bibliografias
+(048.1)	Descrições bibliográficas.
+(048.2)	Anotações.
+(048.3)	Resumos.
+(048.32)	Resumos indicativos (que apresentam os objetivos e conteúdo).
+(048.34)	Resumos informativos (que sintetizam os argumentos, as conclusões).
+(048.4)	Sinopses.
+(048.8)	Revisões bibliográficas. Compilações de informações a partir de vários documentos primários.
+(048.82)	Revisões não-críticas. Simples compilação.
+(048.83)	Revisões críticas. Revisões avaliativas. Revisões analítico-sintéticas.
+(048.84)	Revisões factuais. Documentação factual.
+(048.85)	Revisões antecipativas, prospectivas.
+(049)	Outras publicações avulsas não-seriadas.
+(049.1)	Notificações. Anúncios. Proclamas. Manifestos.
+(049.2)	Polêmicas. Disputas. Controvérsias. Diatribes. Justificações. Defesas. Réplicas. Apologias.
+(049.3)	Declarações de opinião.   Inclusive Conselhos. Palpites. Críticas. Apreciações.
+(049.32)	Revisões críticas.
+(049.4)	Petições. Solicitações. Requerimentos.
+(049.5)	Questionários. Inquéritos. Pesquisas de opinião. Referendos.
+(05)	Publicações seriadas. Periódicos.
+ Artigos e colaborações em periódicos e jornais são classificados por meio de (045) e (046).
+Indica-se a periodicidade de publicações seriadas por "5... "
+      Exempla(s) de combinação(ões):
+(05)“502” Publicações seriadas irregulares (publicadas em intervalos irregulares)
+(05)“520.1” Publicadas diariamente
+(05)“530.1” Publicadas semanalmente
+(05)“530.2” Publicadas quinzenalmente
+(05)“540.1” Publicadas mensalmente
+(05)“540.2” Publicadas bimestralmente
+(05)“540.3” Publicadas trimestralmente
+(05)“ 550.1” Publicadas anualmente
+(051)	Periódicos (no sentido estrito).
+Inclusive Revistas. Magazines.
+(054)	Jornais.
+Jornais no sentido estrito, i.e., publicações freqüentes que apresentam, fundamentalmente, notícias gerais e informações correntes
+(055)	Boletins de notícias. Noticiosos (newsletters). Boletins informativos.
+→ (047) Relatórios. Notícias. Boletins
+(058)	Anuários. Guias.
+(058.7)	Guias de endereços. Catálogos que relacionam moradores, ruas etc. Indicadores comerciais.
+(059)	Almanaques. Calendários (de todos os tipos).
+(059.2)	Calendários de folhas descartáveis. Folhinhas.
+(059.3)	Efemérides. Calendários, agendas de eventos futuros.
+(06)	Documentos relacionados com sociedades, associações, organizações.
+(062)	Documentos relacionados com a organização e as atividades das sociedades,  etc.
+(062.13)	Estatutos. Normas. Regulamentos.
+(062.21)	Listas de membros
+(062.532)	Convocações. Convites. Avisos de reuniões.
+(062.534)	Documentos para discussão. Documentos para avaliação. Documentos de
+	trabalho.
+(062.536)	Moções. Propostas. Resoluções de assembléias.
+(062.537)	Registros, minutas, relatórios de reuniões
+(062.5351)               Relatórios de atividades. Boletins
+(062.552)	Coleções regulares de obras publicadas. Inclusive “Atas ...”. “Resoluções ...” 
+(07)	Documentos destinados à instrução, ensino, estudo, treinamento.
+→ 371.67 Materiais didáticos tradicionais (impressos, geralmente)
+(072)	Materiais documentais destinados ao ensino. Materiais didáticos.
+→ (084) Imagens. Documentos pictóricos. Documentos gráficos.
+→ (086) Documentos tridimensionais (sólidos). Documentos sonoros e audiovisuais.
+(073)	Programas. Roteiros de cursos.
+(075)	Textos didáticos. Livros escolares. Textos para estudantes.
+(075.2)	Textos didáticos elementares. Cartilhas.
+(075.3)	Textos didáticos de nível médio.
+(075.4)	Textos para auto-aprendizagem, estudo particular, estudo em casa, cursos por correspondência, educação de adulto.
+(075.8)	Texto para o ensino universitário, educação superior.
+(075.9)	Textos para cursos de curta duração, cursos intensivos, cursos de atualização.
+(076)	Documentos para instrução prática, treinamento.
+→ (035) Compêndios. Manuais.
+→ (083.13) Instruções sobre modo de usar. Orientações. Instruções.
+(076.1)	Documentos com problemas ou perguntas.
+(076.2)	Documentos com soluções ou respostas.
+(076.3)	Documentos com perguntas e respostas.
+→ 27-282.3 Credos e confissões de fé. 
+(076.5)	Exercícios práticos. Inclusive Exercícios de laboratório. Práticas de campo.
+(076.6)	Textos de ensino programado. Manuais com texto não-seqüencial e com esquemas de
+programas.
+      → 37.018.43 Educação à distância.
+      → 37.091.315.7 Instrução programada.
+(078)	Documentos e material didático não relacionados em outra parte.
+(078.7)	Estudos de casos (como forma).
+→ 001.87 Estudos de caso (como assunto), sua compilação e uso.
+(078.9)	Modelos (na acepção teórica)
+(079)	Documentos relacionados com concursos, testes, exames, etc.
+(079.1)	Perguntas e exercícios para provas, concursos, competições. Trabalhos Finais de curso.
+(079.2)	Documentos de qualificação. Diplomas. Títulos
+e graus. Certificados de capacitação etc.
+(08)	Coleções e poligrafias. Formulários. Listas. Ilustrações. Publicações comerciais.
+→ 08 Poligrafias. Obras de autoria coletiva.
+→ 82-82 Poligrafias. Seleções, extratos. Antologias. Coletâneas de curiosidades.
+(081)	Poligrafías individuais. Obras reunidas de um mesmo autor.
+(081.1)	Coletâneas. Obras reunidas.
+(081.2)	Obras selecionadas.
+      (081.2) subdividido como (082.2)
+(082)	Poligrafias coletivas. Obras reunidas de diversos autores.
+(082.1)	Séries (obras de vários autores editadas sob um título genérico). Séries de editores, coleções,
+bibliotecas.
+(082.2)	Antologias. Seleções. Excertos. Citações.
+(082.21)	Antologias. Seleções.
+(082.22)	Excertos. Citações.
+(082.24)	Fragmentos.
+(083)	Documentos técnicos e normativos. Tabelas. Listas etc.
+(083.1)	Receitas. Prescrições. Instruções.
+(083.12)	Receitas. Prescrições.
+(083.13)	Instruções sobre modo de usar. Orientações. Instruções.
+      → (076) Documentos para instrução prática, treinamento.
+(083.131)	Instruções sobre modo de usar. Guias do usuário. Manuais do usuário (instruções sobre uso de equipamento, instrumentos,
+	documentos especializados, software de computador, etc. Instruções sobre modo de operar).
+	      → (035) Compêndios. Manuais.
+(083.132)	Conselhos práticos, soluções práticas.
+(083.133)	Instruções.
+(083.15)	Regras. Regulamentos.
+                                       → (094.58) Decisões de uma autoridade central decorrentes da aplicação de uma lei. Promulgações. Regulamentos.
+(083.17)	Horários (quadros).
+(083.2)	Formulários. Formulários impressos.
+(083.4)	Tabelas (exceto as exclusivamente numéricas).
+(083.41)	Tabelas estatísticas.
+(083.44)	Tabelas de classificação.
+(083.5)	Tabelas de dados técnicos. Tabelas de cálculo. Tabelas de conversão.
+→ 519.66 Tabelas matemáticas e sua compilação
+(083.53)	Tabelas numéricas. Tabelas de percentagens. Tabelas de cálculo imediato,
+(083.57)	Nomogramas.
+(083.58)	Diagramas em rede. Diagramas de caminho crítico (diagramas em flecha).
+(083.7)	Coletâneas de definições. Nomenclaturas. Normas. Especificações.
+(083.71)	Definições.
+(083.72)	Nomenclaturas.
+(083.73)	Códigos. Criptografias. Chaves de códigos.
+(083.74)	Normas
+(083.742)	Padrões para objetos ou produtos. Especificações.
+(083.744)	Padrões para métodos ou processos. Códigos de prática. Diretrizes.
+(083.76)	Padrões. Amostras.
+(083.77)	Apresentações comparadas.
+(083.78)	Estimativas de custo. Licitações, tomadas de preço.
+(083.8)	Registros enumerativos.
+→ (01) Bibliografia. Catálogos.
+→ 01 Bibliografia e bibliografias. Catálogos.
+(083.81)	Listas em geral.
+(083.82)	Inventários.
+(083.822)	Inventários (registros de coleções permanentes).
+(083.824)	Catálogos de exposições (registros de coleções temporárias)
+	      Classificar aqui catálogos de itens raros ou individuais, mesmo que eles não se encontrem em oferta. Para catálogos
+	      comerciais ou industriais, ver (085.2).
+(083.84)	Registros de estoques. Listas de material. Listas de almoxarifado.
+(083.86)	Sumários. Índices de nomes, lugares, assuntos.
+(083.87)	Concordâncias.
+→ 001.86 Concordâncias.
+→ 014.5 Concordâncias.
+→ 27-272 Concordâncias bíblicas.
+(083.89)	Registros de pessoas em determinada categoria.
+(083.9)	Planos. Projetos. Programas,
+(083.92)	Planos.
+(083.94)	Projetos.
+(083.97)	Programas.
+(084)	Documentos pictóricos. Documentos gráficos.
+(084.1)	Figuras. Ilustrações.
+(084.11)	Desenhos. Esboços.
+(084.12)	Imagens fotográficas.
+(084.121)	Fotografias, retratos fotográficos,
+(084.122)	Filmes. Filmes cinematográficos.
+(084.122.3)	Filme mudo.
+(084.122.5)	Filme sonoro.
+(084.127)	Levantamentos fotográficos. Fotogramas (com
+orientação interna conhecida).
+(084.14)	Imagens gravadas magneticamente. Gravações em vídeo.
+→ (086.8) Gravações em vídeo.
+(084.17)	Clichês de impressão (clichês de fotogravura, etc). Eletrótipos.
+(084.18)	Impressões a partir de clichês. Provas de
+clichês.
+(084.2)	Representações esquemáticas.
+(084.21)	Diagramas. Gráficos.
+(084.28)	Perfis (bidimensionais).
+(084.29)	Diagramas de bloco (bidimensionais). Fluxogramas.
+→ (086.45) Diagramas de bloco (tridimesionais).
+(084.3)	Imagens cartográficas. Inclusive Mapas. Plantas. Cartas. Cartogramas.
+                                  → (086.43) Globos. 
+      → 912 Representações não-literárias, não-textuais de uma região.
+Subdivisões auxiliares  especiais
+
+(084.3-1)	Mapas etc. segundo a escala.
+(084.3-12)	1:5 000 a 1:20 000.
+(084.3-14)	1:75 000 a 1:250 000 (mapas de levantamentos topográficos).
+(084.3-16)	1:1 000 000 a 1:20 000 000 (mapas de países, de continentes).
+(084.3-18)	1:100 000 000 e menores (mapas-múndi).
+(084.3-2)	Segundo a forma de representação.
+(084.3-21)	Formas não-pictóricas. Mapas de contorno. Mapas com hachuras, com curvas de nível.
+(084.3-22)	Formas pictóricas. Mapas de perspectiva.
+(084.3-223)	Mosaicos aerofotogramétricos.
+(084.3-3)	Segundo o tipo de representação.
+(084.3-32)	Mapas mudos. Mapas de distribuição.
+(084.3-34)	Mapas estatísticos segundo o método de pontos. Mapas pontilhados.
+(084.3-35)	Cartogramas, Cartodiagramas.
+(084.3-36)	Mapas estruturais. Mapas de divisão espacial complexa.
+(084.3-37)	Mapas de levantamentos topográficos.
+(084.3-4)	Segundo o método de produção, impressão, reprodução.
+(084.3-41)	Originais. Esboços, desenhos de mapas.
+(084.3-42)	Produzidos por processos fotográficos de traçado.   Inclusive Cópias heliográficas (cianocópias). Diazocópias.
+(084.3-43)	Cópias multicoloridas em plástico (folhas de prova).
+(084.3-44)	Originais para impressão (em metal, lito etc).
+(084.3-45)	Mapas impressos.
+→528.927 Reprodução cartográfica.
+→ 655.3.026 Impressão de determinado tipo de produto.
+(084.3-5)	Segundo o tipo de armazenamento.
+(084.3-52)	Não-montados. Em folhas. Em rolos.
+(084.3-54)	Em formato de livro.
+(084.3-56)	Montados.
+Subdivisões auxiliares comuns
+(084.31)	Mapas esquemáticos. Desenhos de mapas.
+(084.32)	Mapas em folhas. Folhas de mapas.
+(084.33)	Mapas de bolso.
+(084.35)	Mapas de parede.
+(084.4)	Atlas.
+(084.41)	Atlas geográficos gerais (não-temáticos).
+(084.42)	Atlas temáticos.
+(084.5)	Cartazes ilustrados.
+(085)                    Publicações de empresas (industriais, comerciais). Publicidade, divulgação, material de propaganda 
+comercial.
+(085.2)	Catálogos comerciais. Catálogos industriais.
+                                        Classificar aqui catálogos de linhas de itens ou de capital de comércio.
+                                        Para catálogos de itens raros ou individuais (reunidos,  permanente ou temporariamente),  ver (083.822/.824). 
+                                       Exemplo(s) de combinação (ões)
+                                       658.872(085.2) Catálogos de venda por reembolso postal.    
+(085.3)	Jornais e revistas de empresa.
+(085.5)	Prospectos. 
+(085.6)	L istas de preços de mercadorias.
+(085.7)	Listas de preços de serviços. Tarifas.
+(085.8)	Anúncios.
+(086)	Documentos tridimensionais (sólidos). Documentos sonoros e audiovisuais.
+(086.3)	Espécimes, objetos como documentos. Inclusive Lâminas para microscopia. Peças de museu.
+(086.4)	Representações sólidas, tridimensionais.
+→ (0.024) Documentos segundo a disposição espacial da impressão.
+(086.42)	Folhas de modelagem. Desenhos planos para modelos recortados. Telas marcadas para modelos geométricos sólidos.
+(086.43)	Globos.
+→ (084.3) Imagens cartográficas.
+→ 912 Representações não-literárias, não-textuais de uma região.
+(086.44)	Relevos (sólidos). Inclusive Modelos em relevo. Mapas em relevo.
+(086.45)	Diagramas de bloco (tridimensionais).
+→ (084.29) Ddiagramas de bloco (bidimensionais). Fluxogramas.
+(086.48)	Modelos.
+(086.7)	Documentos sonoros. Gravações sonoras.
+(086.72)	Gravações sonoras mecânicas.   Inclusive Gravações para gramofones, vitrolas (discos etc).
+(086.74)	Gravações sonoras magnéticas. Inclusive Fitas magnéticas.
+(086.76)	Gravações sonoras óticas. Inclusive CD (disco compacto)
+	     Para filme sonoro, ver (084.122.5)
+(086.8)	Gravações em vídeo.
+      Classificar aqui as gravações em vídeo, sonoras ou mudas
+(086.82)	Gravações em videodisco.
+(086.84)	Gravações em fitas magnéticas de vídeo.
+(086.86)	Gravação em fitas óticas de vídeo.
+(088)	Atestados. Documentos para fins especiais.
+(088.2)	Certificados, licenças, etc. emitidos por autoridades.
+(088.22)	Certificados de identidade e nacionalidade. Passaportes. Carteiras, cédulas de identidade etc.
+(088.24)	Licenças que dão direito ao exercício de profissões, à prática de atividades comerciais, à
+posse ou condução de veículos etc. Inclusive Licenças, carteiras de habilitação
+para dirigir veículos. Licenças para porte de armas de fogo.
+(088.27)                 Certificados de propriedade. Documentos de identificação e registro. Títulos de propriedade,
+escrituras etc.
+(088.4)	Contratos. Acordos escritos.
+(088.7)	Marcas comerciais, timbres (logomarcas, logotipos, marcas-símbolo, selos, etc.) e outros
+símbolos e emblemas comerciais.
+(088.72)	Marcas registradas. Marcas e emblemas comerciais.
+                                        → 347.772 Marcas registradas. Registro, controle
+(088.77)	Marcas e certificados de quantidade e qualidade de mercadorias.
+→ (083.74/.76)
+(088.8)	Patentes e documentos similares.
+→ 347. 771 Patentes: concessão, controle, confirmação.
+(088.82)	Solicitações de registro de patentes e certificados de invenção.
+(088.823)	Solicitações de registro de patentes.
+(088.825)	Solicitações de certificados de invenção.
+(088.83)	Patentes.
+(088.84)	Especificações de patentes.
+(088.85)	Certificados de invenção.
+(088.86)	Descrições de invenções para certificados de invenção.
+(088.87)	Propostas de inovações.
+(088.88)	Licenças (patentes etc).
+→ (088.2) Certificados, licenças etc. emitidos por autoridades.
+(089.3)	Curiosidades. Miscelâneas. Anedotas. Chistes. Aforismos. Máximas etc.
+(089.5)	Fraudes. Imposturas. Embustes literários, artísticos e científicos. Certificados, licenças etc. emitidos por autoridades.
+                                        → 001.94/.98
+(089.7)	Mensagens de cumprimentos e para ocasiões especiais (cartões, folhetos etc). 
+                                     Especificar períodos ou datas especiais por "..." especialmente "38..." 
+                              Exemplo(s) de Combinação(ões):
+(089.7)"38Ano Novo"  Mensagens de Ano Novo (cartões, etc.).
+(09)	Apresentação em forma histórica. Fontes legais e históricas.
+(091)	Apresentação histórica em sentido estrito.
+→ 93/94 História.
+(092)	Apresentação em forma biográfica.
+→ 929 Estudos biográficos e afins.
+(093)	Fontes históricas.
+(093.2)	Fontes oficiais. Registros, documentos, atos públicos.
+(093.3)	Fontes literárias. Crônicas. Diários.
+(093.4)	Testamentos.
+(094)	Fontes legais. Documentos legais.
+→ 340.13 Direito positivo. Norma jurídica. Lei promulgada. Estatuto legal. Ius scriptum. Aplicação da norma jurídica. Regras de sua aplicação.
+→ 340.14 Direito não-escrito. Lei não-estatutária. Ius non scriptum. Outras fontes do direito.
+(094.1)	Atos de governo absoluto em geral. Inclusive Decretos reais, editos, ordenações.
+(094.2)	Acordos e tratados internacionais. Leis internacionais. Atos legais entre Estados
+independentes.
+(094.4)	Livros jurídicos e problemas jurídicos (manuais).
+(094.5)	Leis consideradas individualmente Leis específicas e regulamentos detalhados delas resultantes. Projeto de leis. Atos legislativos.
+(094.57)	Decretos, dispositivos, editos baixados por uma autoridade central, resultantes de uma lei. Atos emanados do poder executivo.
+(094.58)	Decisões de uma autoridade central decorrentes da aplicação de uma lei. Promulgações. Regulamentos.
+(094.7)	Normas jurídicas que emanam de autoridades administrativas de diferentes níveis.
+(094.71)	Normas jurídicas que emanam de poderes delegados pelo governo central, Inclusive Plebiscito. Referendo. Decretos do
+                                senado.
+(094.73)	Normas jurídicas que emanam dos membros de uma federação (p. ex.: reinos, estados, cantões. domínios).
+(094.74)	Normas jurídicas que emanam de autoridades provinciais.
+(094.76)	Normas jurídicas que emanam de autoridades distritais, municipais c paroquiais,
+(094.77)	Normas jurídicas que emanam de detentores de delegação atribuída por autoridades.
+(094.8)	Normas jurídicas que emanam dos tribunais de justiça.
+(094.9)	Coletâneas de documentos jurídicos. Coletâneas de jurisprudência. Coletâneas de casos jurídicos.
+
+
+
+38
+
+

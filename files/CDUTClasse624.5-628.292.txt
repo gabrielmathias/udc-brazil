@@ -1,0 +1,2608 @@
+﻿<01>624.5
+<02>Pontes de cabos. Pontes
+suspensas, pênseis.
+<05>Indicar os elementos flexíveis e rígidos para os elementos pênseis por meio de .071.2... e. 071.3... 
+Exemplo(s) de combinação(ões):
+624.5.071.232 Cabos de sustentação. Cabos principais de suspensão 
+624.5.071.234 Peça de suporte 
+624.5.071.324 Bastões de suspensão. Barras de suspensão. Elos de suspensão
+624.52	Pontes penseis sem enrijecimento ou
+incompletamente enrijecidas.
+624.53	Pontes penseis rígidas. Pontes
+contra ventadas com cantiléver. Pontes de vigas estabilizadas.
+624.6	Pontes de arco.
+Exemplo(s) de combinação(ões):
+624.6.072.322	Pontes de arco fixo
+624.6.072.323	Pontes de arco
+articulado
+624.8	Pontes móveis.
+      -> 621.874 Guindastes de ponte
+624.82	Pontes levadiças. Pontes basculantes.
+624.822	Pontes levadiças.
+624.824/.828	Pontes basculantes.
+624.824	Pontes basculantes com eixo fixo.
+624.825	Pontes basculantes de rolo.
+624.826	Pontes dobráveis.
+624.828	Câmara de contrapeso.
+624.83	Pontes movediças (pontes pivotantes,
+pontes giratórias).
+624.84	Pontes elevatórias.
+624.85	Pontes de travessia (pontes rolantes
+retráteis).
+624.86	Pontes de transportes. Inclusive Pontes
+ferroviárias. Pontes portuárias. Pontes de
+carga e descarga.
+624.87	Pontes flutuantes.
+      -> 624.21.033 Pontes desmontáveis, transportáveis e temporárias
+624.872	Pontes de barcas.
+624.873	Pontes de pontão (pranchas, chatas,
+flutuadores cilíndricos).
+624.876	Pontes de balsa.
+624.9	Superestruturas (exceto pontes).
+Superestruturas completas em si
+mesmas.
+      Indicar pornenores em 624.91/.97 por meio de .01/.07 relacionados em 624. 01/.07
+624.91	Superestruturas segundo o projeto do
+telhado.
+    Indica pormenores do telhado por meio de  .024..., o tipo de construção,  por meio de  72...
+624.92	Superestruturas segundo o sistema de
+construção. Inclusive Construção sólida,
+rígida, flexível, em concha.
+624.921	Estruturas com u m só vão.
+624.922	Estruturas com diversos vãos.
+624.94	Estruturas de esqueleto. Estruturas de
+arcabouço.
+624.943	Superestruturas em arcabouço de
+construção.
+624.943.2	Superestruturas de construção de arcabouço
+composto.
+624.943.3	Superestruturas de construção de arcabouço de
+muitos pavimentos.
+624.95	Estruturas de armazenamento.
+Indicar o revestimento ou vedação por meio de -761...
+      -> 621.642.3 Vasos e recipientes estacionários, fixos
+      -> 631.24 Construções para armazenamento, manuseio e processamento de produtos agrícolas
+624.952	Estruturas de armazenamento para materiais gasosos. Gasômetros.
+624.953	Estruturas de armazenamento para líquidos. Inclusive Tanques. Torres de água.
+Reservatórios acima do chão.
+      -> 627.81 Reservatórios. Lagos de armazenagem
+      -> 628.13 Armazenamento de água. Reservatórios de água
+624.954	Estruturas de armazenamento para sólidos
+a granel. Inclusive Depósitos. Silos.
+624.96	Estruturas de apoio para manipulação,
+transporte de materiais. Inclusive
+Cavaletes de apoio. Torres de elevação,
+      Especificar por meio de : 621.8...
+624.97	Estruturas altas esguias. Inclusive
+Torres. Chaminés. Mastros.
+      -> 625.745.7 Diversos outros mastros, postes, colunas
+624.971	Torres de sustentação livre, auto-
+sustentadas. Pilastras. pilões (torres de
+cabo). Mastros de sustentação livre. Grupo
+de chaminés etc..
+      -> 624.166.8 Pilastras, pilotis (apoios estruturais). Pilastras articuladas
+      -> 625.745.9 Suportes e suspensões para fios, cabos, etc.
+624.972	Estruturas com sustentação adicional.
+Mastros com esteios, escorados, ancorados, etc..
+624.974	Estruturas suspensas de uma torre ou
+núcleo central. Estruturas em formato de guarda-chuva. 
+      -> 692.231.3 Paredes externas que não são de sustentação625 Engenharia civil de transportes terrestres. Engenharia
+      ferroviária. Engenharia rodoviária
+
+625 Engenharia civil de transportes terrestres. Engenharia ferroviária. Engenharia rodoviária
+      Especificar os trabalhos de engenharia de transporte por meio de -11-9 (de 62-11-8 e 66-9)
+Subdivisões auxiliares especiais
+625.02	Teoria do projeto de pavimentação de rodovias.
+      -> 625.75 Tratamento da superfície da estrada
+      -> 625.8 Revestimento duro de rodovias. Pavimento, tapete ou curso de desgaste. Preparo e uso de materiais
+625.021	Pavimentes flexíveis. Inclusive Macadame.
+Macadame alcatroado. Cascalho.
+625.022	Pavimentos rígidos. Inclusive Concreto.
+625.023	Pavimentos de solo estabilizado. Inclusive
+Misturado no local. Concreto magro.
+625.03	Interação entre o veículo e a pista ou
+rodovia: pesquisa, experiências etc..
+      -> 629.3.015 Mecânica e dinâmica em relação ao meio
+      -> 629.4.015 Mecânica e dinâmica do material rodante
+625.031	Geometria do contato entre o veículo e a
+pista. Inclusive Seções de trilhos e
+pneumáticos.
+625.032	Efeitos químicos e físicos (principalmente
+mecânicos) entre o veículo e a pista.
+625.032.3	Efeitos de contato entre a pista e a roda
+considerados isoladamente.
+      -> 531.4 Trabalho. Peso. Massa. Fricção. Resistência passiva
+625.032.32	Propriedades da superfície da roda e da pista.
+Inclusive Aspereza.
+625.032.37	Escorregamento da roda.
+625.032.39	Corrugação da pista.
+625.032.4	Efeitos mecânicos entre a pista e o veículo
+numa via reta. Inclusive Efeitos da pista
+desigual, de rodas não-balanceadas, de massas
+desequilibradas. Oscilação, guinadas etc.
+Vibração do veículo.
+625.032.42	Com o veículo parado.
+625.032.43	Com veiculo em movimento. Inclusive
+Trepidação, guinadas, vibração.
+625.032.44	Efeitos da elasticidade da pista.
+625.032.5	Efeitos mecânicos entre a pista e o veículo
+numa curva.
+625.032.6	Efeitos mecânicos especiais em determinados
+lugares. Inclusive Efeitos das travessias de
+pontes, de passagens de nível.
+625.032.7	Perigo de capotagem, descarrilamento ou
+derrapagem do veículo.
+625.032.8	Efeitos do movimento do veículo e reações ao
+movimento. Resistência ao movimento.
+Resistência de tração.
+625.032.82	Resistência ao movimento e reações
+provocadas pelas forças de frenagem.
+625.032.821	Resistências aerodinâmicas e de rolagem,
+-> 533.68 Estudos de aerodinâmica, inclusive de problemas de interferência, de corpos que se movem em ou perto de superfícies (no solo, em convés, na água). Efeito do solo. Inclusive hovercraft (veículos sobre colchão de ar).
+625.032.823	Efeitos da aceleração e desaceleração.
+625.032.824	Resistência do gradiente.
+625.032.825	Resistência da curva.
+625.032.826	Resistência de frenagem.
+625.032.86	Equações do movimento. Motivo requerido,
+forças propulsoras ou de tração. Esforço de tração (desempenho de produção). Dissipação de energia.
+625.033	Tensões no veículo e na pista.
+625.033.3	Resistência da pista.
+625.033.37	Deformação da pista. Deslocamento da pista.
+Deformação e desalinhamento dos trilhos.
+      -> 625.143.58 Medidas e dispositivos contra deformação
+625.033.38	Capacidade de resistência da subestrutura.
+Estabilidade da pista.
+625.033.4	Tensões no veículo. Efeitos da força de tração,
+de propulsão e outras.
+625.04	Influências sobre as pistas e estradas.
+Propriedades das pistas e estradas em relação a essas influências.
+625.041	Influência do método de construção.
+625.042	Influência atmosférica e outras influências
+físicas (e propriedades da pista ou estrada
+em relação a elas).
+625.042.l	Influência da água
+625.042.2	Influência do congelamento, da geada.
+      -> 624.142 Efeitos das baixas temperaturas. Ação do congelamento. Danos provocados pelo congelamento
+625.042.35	Influência da condensação.
+625.042.4	Influência do ar.
+625.042.5	Influência da luz na superfície. Inclusive
+Difusão (dispersão) da luz. Absorção da luz.
+Reflexão da luz.
+625.06	Aglutinantes, materiais aglutinantes
+e seu uso.
+      -> 625.75 Tratamento da superfície da estrada
+      -> 625.8 Revestimento duro de rodovias. Pavimento, tapete ou curso de desgaste. Preparo e uso de materiais
+625.061	Aglutinantes em forma derretida.
+Aglutinantes quentes.
+625.062	Aglutinantes em solução. Inclusive Asfalto
+líquido.
+625.063	Aglutinantes em forma de emulsão.
+625.065	Aglutinantes em forma de pó.
+625.066	Revestimento. Impregnação, pré-
+tratamento de materiais.
+625.067	Método de rebocadura. Derramamento do
+aglutinante sobre o agregado.
+625.068	Métodos de mistura. Inclusive Mistura na
+fábrica. Mistura no local.
+625.07	Agregados minerais.
+625.072	Agregados graúdos. Inclusive Cascalho.
+Brita. Pedregulho.
+625.073	Agregados miúdos. Inclusive Areia.
+625.074	Enchimentos. Pós. Farinhas.
+625.08	Instalações e maquinaria de construção de
+estradas. Acabamento. Manutenção.
+Reparos. Pequenos melhoramentos.
+625.083	Enchimento de juntas, de vazios.
+625.084	Aplainamento. Rolos compressores.
+625.085	Outros equipamentos de compactação.
+Inclusive Soquetes. Soquetes mecânicos.
+625.086	Aplainamento da superfície. Aplainadores.
+625.087	Escarificação da superfície. Escarificadores.
+625.088	Máquinas e equipamentos auxiliarem para
+preparo dos materiais de superfície.
+625.089	Acabamento. Revestimento. Reparos.Pequenos melhoramentos.
+ 
+625.089.l	Revestimento da superfície. Inclusive
+Impermeabilização. Espalhamento de brita. Colocação de cascalho (como parte da construção de estradas).
+      -> 624.144.8 Medidas para prevenir ou reduzir escorregamento no gelo e na neve
+      -> 625.75 Tratamento da superfície da estrada
+625.089.11	Superfície de desgaste em geral. Inclusive
+Impermeabilização.
+625.089.12	Aprontamento da superfície. Inclusive Adição,
+espalhamento de brita. Colocação
+de cascalho.
+625.089.2	Reparos na superfície da estrada.
+625.089.4	Pequenos melhoramentos.
+625.089.42	Elevação do nível,
+625.089.43	Rebaixamento do nível.
+625.089.45	Alargamento.
+625.089.46	Estreitamento.
+625.089.47	Realinhamento.
+625.089.48	Alteração do tipo de pavimentação da esteada.
+625.094	Estradas e partes de estradas com cores especiais.
+625.095	Derrapagem. Propriedades antiderrapantes.
+      -> 624.144.8 Medidas para prevenir ou reduzir escorregamento no gelo e na neve
+      -> 625.089.1 Revestimento da superfície
+625.096	Obras rodoviárias em relação à interrupção do tráfego. Limitação das obras  a trabalho de
+                                   um só lado da estrada de cada vez, etc.
+625.097	Formação de poeira.
+      -> 628.511 Medidas contra a poeira
+625.098	Ruído do tráfego (resultante da interação
+com a superfície). Ruído da superfície.
+      -> 628.517.2 Medidas contra ruídos. Controle de ruídos
+      -> 656.053.7 Restrições contra o ruído do trânsito
+Divisões principais
+625.1/.5	Ferrovias. Carris. Linhas de cabos.
+625.1	Ferrovias em geral. Via
+permanente. Construção da linha.
+      -> 621.33 Tração, locomoção, propulsão elétricas
+      -> 624.19 Túneis. Escavação de túneis. Galerias. Construção de galerias
+      -> 624.2/.8 Construção de pontes
+      -> 627.35 Rodovias e ferrovias portuárias. Equipamento para manipulação de carga. Outros equipamentos
+      subsidiários dos portos
+      -> 629.4 Engenharia de veículos sobre trilhos. Locomotivas. Material rodante. Pátios ferroviários. Instalações e
+      serviços relativos ao material rodante
+      -> 656.2 Transporte ferroviário. Tráfego ferroviário
+      -> 711.75 Ferrovias
+      -> 725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de 
+      serviços públicos
+625.11	Pesquisas teóricas. Planejamento e
+especificação da rota.
+      -> 528.4 Levantamento de campo. Levantamentos topográficos. Levantamentos cadastrais. Topografia.
+      Levantamentos de engenharia. Campos especiais da agrimensura. 
+625.111	Estudos gerais do plano da linha férrea.
+Projetos e traçados das linhas etc..
+625.112	Bitola da linha. Junção de linhas de bitolas
+diferentes.
+      -> 629.488.4 Equipamento e instalações para conversão de bitola
+625.113	Estudos de seção longitudinal. Inclusive
+Gradientes. Curvas, Curvas de transição
+nos planos horizontal e vertical.
+625.114	Estudos do perfil da linha. Inclusive
+Cálculo de obras de terra. Limpeza.
+Bitola do trem.
+625.115	Estudos teóricos de superelevação e
+alargamento da bitola.
+      -> 625.144.2 Folga da bitola. Inclinação ou superelevação. Assentamento do trilho nas curvas. Dispositivos de 
+      medição para curvas
+      -> 625.176 Alteração da bitola
+625.12	Infra-estrutura  Fundações e subleito (formação).
+625.122	Construção e consolidação das obras de
+terra. Métodos de proteção. Inclusive Cortes. Aterros. Enchimentos. Deslizes (deslizamentos de terra). Desmontes.
+625.123	Instalações de drenagem. Precauções contra
+inundações. Rebaixamento do lençol freático. Abertura de valas. Precauções contra congelamento, nevadas etc..
+625.14	Superestrutura, linha. Via permanente
+em geral.
+625.141	Lastro. Materiais de lastro. Inclusive
+Profundidade e perfil do lastro.
+625.142	Suportes do trilho. Dormentes transversais
+e longitudinais. Tirantes.
+625.143	Trilhos. Fixações do trilho.
+625.143.1	Formas, perfis, tipos, seções e peso dos
+trilhos. Comprimento dos trilhos. Classificação
+dos trilhos.
+625.143.2	Qualidade do metal do trilho, Fabricação,
+testes, tratamento térmico dos trilhos.
+Normalização de qualidade.
+      -> 006 Normalização de produtos, operações, pesos, medidas e tempo
+      -> 620.1 Testes dos materiais. Defeitos dos materiais. Proteção dos materiais
+625.143.3	Fraturas e fissuras dos trilhos.
+      -> 620.19 Defeitos materiais e sua verificação.
+625.143.4	Juntas e talas de junção dos trilhos.
+Parafusos dos trilhos.
+625.143.46	Isolamento das juntas dos trilhos.
+625.143.48	Trilhos contínuos soldados. Trilhos sem juntas.
+625.143.5	Fixação dos trilhos aos dormentes. Deformação
+dos trilhos.
+625.143.51	Fixadores elásticos para os trilhos. Fixadores
+de tensão.
+625.143.52	Placas de base ou chapas de sapatas sobre
+dormentes transversais. Fixação dos trilhos ás
+placas de base.
+625.143.525	Placas de base elásticas.
+625.143.53	Coxins de trilhos sobre dormentes transversais.
+Fixação dos trilhos nos coxins.
+625.143.54	Fixação de trilhos, placas de base e coxins aos
+dormentes transversais com braçadeiras,
+parafusos de linha etc..
+625.143.56	Fixação dos trilhos aos dormentes longitudinais
+e a suportes isolados. Conexões transversais
+para essas estruturas a fim de manter a bitola
+da linha. Braçadeiras de trilho. Tirantes de
+espaçamento.
+625.143.57	Fixadores e conexões para trilhos de dormente e
+para trilhos compostos, de peças múltiplas.
+625.143.58	Medidas e dispositivos contra deformação.
+      -> 625.033.37 Deformação da pista. Deslocamento da pista. Deformação e desalinhamento dos trilhos
+625.144	Assentamento da v ia férrea.
+625.144.1	Projeto e equipamento da via térrea.
+Espaçamento dos dormentes. Comprimento e
+localização das juntas. Comprimento do trilho.
+625.144.2	Folga da bitola. Inclinação ou superelevação.
+Assentamento do trilho nas curvas.
+Dispositivos de medição para curvas.
+      -> 625.115 Estudos teóricos de superelevação e alargamento da bitola
+625.144.3	Construção de linhas de entroncamento.
+625.144.4	Operações de assentamento dos trilhos.
+Inclusive Estaqueamento. Lastreamento. Curva
+dos trilhos. Empanque e socadura dos
+dormentes etc..
+625.144.5	Máquinas para assentamento e instalação da
+via férrea. Inclusive Máquinas para transporte e instalação de seções pré-fabricadas da via férrea (montagens de trilhos e dormentes).
+625.144.6	Máquinas e equipamento para operação nos
+componentes isolados da via férrea. Inclusive
+Brocas, torqueses. trincadores, serras, etc.
+Dispositivos para dobrar, retificar, elevar,
+aplainar, moldar. Ferramentas para pregar,
+aparafusar e fixar.
+625.144.7	Ferramentas manuais para trabalho na via
+férrea. Inclusive Para vedação dos dormentes.
+625.145	Dispositivos para desmontagem da via
+férrea, remoção e transporte dos trilhos.
+625.146	Oficinas e depósitos de componentes
+da via férrea.
+625.15	Entroncamentos e acesso rios
+da via férrea.
+625.151	Ramais. Desvios. Junções. Pontos e
+cruzamentos de chave.
+625.151.2	Plano geral e estrutura dos entroncamentos.
+Número de desvios. Disposição das chaves.
+Projeto dos desvios de trilhos.
+625.151.3	Controle das agulhas de chave. Acionamento da
+chave: manual, automático etc.
+      -> 656.25 Medidas de segurança. Sinais
+625.151.34	Operação à distância. Mecanismos de caixa de
+sinalização.
+625.151.5	Dispositivos diversos de bloqueio e travamento
+mútuo. Amarração dos pontos, das agulhas de
+chave e suas transmissões.
+625.151.6	Agulhas de chave controladas de dentro
+do veículo.
+-> 621.337.6 Dispositivos para controle dos pontos de desvio dos trilhos, dos pontos da linha, sinais pelo veículo e por controle manual de dentro do veículo
+      -> 656.259.1 Dispositivos de segurança acionados pelo trem
+625.151.8	Cruzamentos de chave. Outras partes dos
+ramais. Inclusive Cruzamentos em V.
+Cruzamentos oblíquos. Trilhos laterais.
+Trilhos-guia. Conexões de linhas temporárias,
+volantes.
+625.152	Cruzamentos da linha, dos trilhos,
+da via férrea.
+625.152 dividido  625.151
+625.153	Chaves corrediças.
+625.153 dividido 625.151
+625.154	Plataformas giratórias. Pontes giratórias.
+625.155	Plataformas de transferência. Plataformas
+giratórias.
+      -> 621.875.4 Plataformas deslizantes ou móveis. Plataformas giratórias
+625.156	Pára-choques e dispositivos semelhantes.
+      -> 629.4.028.2 Mecanismo de amortecimento
+      -> 656.259.1 Dispositivos de segurança acionados pelo trem
+625.156.2	Pára-choques.
+625.156.3	Travas de rodas. Freios de trilho.
+Travas de trilho.
+625.156.4	Travão de areia.
+625.156.6	Blocos de parada ou de freios.
+625.156.7	Retardadores ou chaves de controle.
+625.156.8	Freios de trilho.
+625.157	Acessórios diversos. Inclusive Indicadores
+de distância.
+625.16	Instalações secundárias. Estradas de
+acesso. Passagens de nível.
+625.161	Casas. Cabanas. Barracões. Inclusive Casas
+dos guarda-trilhos. Cabanas dos
+assentadores de placas.
+625.162	Passagens de nível. Cercas da linha.
+Demarcação.
+      -> 656.216.2 Passagens de nível. Cancelas
+625.162.1	Barreiras, cancelas de passagem de nível:
+projeto, instalação.
+625.162.2	Operação das cancelas.
+625.162.4	Sinais de tráfego nas passagens de nível.
+Dispositivos de alerta e segurança, Inclusive
+Sinais. Alarmes acústicos (sistemas acústicos
+de alarme).
+      -> 656.055 Sinais fixos, permanentes de trânsito
+      -> 656.25 Medidas de segurança. Sinais
+625.162.5	Dispositivos para verificação da operação
+correta nas passagens de nível.
+625.162.6	Rodovias, vias de veículos em passagens
+de nível. Interseções com linhas de carris.
+bondes etc..
+625.162.7	Visibilidade das passagens de nível. Prevenção
+de acidentes nas passagens de nível. Eliminação
+das passagens de nível.
+625.163	Cultivo e plantação de terras à margem
+das vias férreas.
+625.164	Escudos contra neve e outras estruturas de
+proteção. Proteção contra queda de pedras.
+Galerias de proteção etc..
+-> 62-757 Proteção contra danos causados por corpos estranhos. Dispositivos para desviar ou expulsar corpos estranhos.
+      -> 624.12 Engenharia e mecânica das rochas
+      -> 624.144.4 Controle da acumulação de neve. Barreiras para neve
+625.165	Estradas de acesso. Acessos às estações.
+Pátios, jardins etc..
+625.17	Manutenção, reparos, reposições
+da linha férrea.
+625.171	Supervisão e inspeção da linha férrea.
+      -> 629.464.47 Veículos para teste e medição dos trilhos
+625.172	Manutenção das condições de
+funcionamento. Condição da linha.
+Manutenção da bitola.
+625.173	Reparos e reposições. Inclusive Correção, alinhamento dos trilhos, da pista, das curvas. Correção da inclinação,
+superelevação. Renovação de materiais, do lastro.
+      -> 625.144.5/.7'
+625.173.2	Correção dos trilhos e das vias férreas.
+Inclusive Vistoria. Alinhamento.
+625.173.6	Renovação de materiais da via permanente.
+Recuperação e recondicionamento de materiais
+velhos. Construção e reparo da via férrea por
+soldagem.
+625.173.7	Renovação do lastro. Limpeza do lastro.
+625.174	Limpeza da linha férrea depois de nevascas.
+      -> 624.144.5 Remoção da neve e do gelo. Derretimento da neve
+      -> 629.464.2 Veículos para remoção de neve dos trilhos
+625.175	Eliminação de ervas daninhas.
+625.176	Alteração da bitola.
+      -> 625.112 Bitola da linha. Junção de linhas de bitolas diferentes
+      -> 625.115 Estudos teóricos de superelevação e alargamento da bitola
+625.3	Vias férreas de construção
+especial.
+-> 625.5 Vias férreas com tração a cabo (ou corda ou corrente). Planos de gravidade (planos inclinados, autopropulsionados)
+-> 629.43 Transporte ferroviário que emprega locomotivas especiais. Locomotivas e veículos para transporte urbano e suburbano. Veículos ferroviários para transporte de curta distância em geral
+      -> 656.33 Por ferrovias de construção especial
+625.31	Vias férreas de bitola estreita.
+625.311	Entre l 000 mm e l 435 mm de bitola.
+625.312	Até l 000 mm de bitola.
+625.32	Vias férreas de adesão para gradientes acentuados.
+625.33	Vias férreas de cremalheira.
+      -> 629.4.033 Propulsão por esteira.
+      -> 629.421.6 Locomotivas de ferrovias de montanha
+625.34	Sistemas de monotrilho não-suspenso,
+com estabilizador de giroscópio.
+      -> Vias férreas elevadas (com linhas rígidas). Teleféricos. Monotrilhos elevados, etc.
+625.35	Vias férreas de bitola larga.
+625.39                Outras vias férreas de construção
+especial. Inclusive Vias férreas atmosféricas, pneumáticas. Vias férreas de ar comprimido. Vias férreas com deslizadores, patins de trenós. Vias férreas de parafuso sem fim (de tração).
+-> 629.4.034 Propulsão por cabos, correntes (ferrovias de tração a cabo). Propulsão por parafusos sem fim (tração helicoidal)
+625.4	Vias férreas elevadas. Vias férreas subterrâneas. Vias férreas suburbanas. Vias férreas urbanas.
+Linhas de carris, de bondes.
+-> 629.43 Transporte ferroviário que emprega locomotivas especiais. Locomotivas e veículos para transporte      urbano e suburbano.  Veículos ferroviários para transporte de curta distância em geral
+      -> 656.34 Por ferrovias elevadas ou subterrâneas, bondes, etc.
+625.41	Vias férreas elevadas sobre viadutos. Ferrovias elevadas.
+625.42	Vias férreas subterrânea s.
+625.45	Vias férreas suburbanas. Vias férreas
+urbanas.
+625.46	Linhas de carris, de bondes.
+625.5	Vias férreas a cabo. Vias férreas
+funiculares. Caminhos aéreos, vias
+férreas suspensas. Caminhos
+aéreos de cordas e cabos.
+Teleféricos.
+      -> 621.87 Guindastes. Transportadores. Elevadores. Escadas rolantes. Niveladoras. Escavadores. Dragas
+      -> 656.35 Por cabos aéreos. Por teleféricos, etc.
+625.52	Vias férreas com tração a cabo (ou corda
+ou corrente). Planos de gravidade (planos inclinados, autopropulsionados). Funiculares.
+      -> 621.087.3 Dispositivos movidos a peso
+      -> 622.016.4 Rampas. Planos inclinados. Calhas de escoamento. Passagens. Elevações
+      -> 629.4.034 Propulsão por cabos, correntes (ferrovias de tração a cabo). Propulsão por parafuso sem fim (tração helicoidal)
+625.527	Cabos. Cordas. Correntes.
+      -> 672.6 Correntes. Ancoras
+      -> 679.7 Indústrias de cabos e cordas
+625.528	Instalação de cabos. Grampos, garras de
+engate.
+625.54	Vias férreas elevadas (com linhas
+rígidas). Teleféricos. Monotrilhos elevados etc..
+      -> 625.34 Sistemas de monotrilho não-suspenso, com estabilizador de giroscópio
+      -> 629.435 Locomotivas e veículos para monotrilhos
+615.543	Suportes e infra-estrutura.
+625.548	Carros e dispositivos de sustentação.
+625.57	Vias aéreas de cabo e de corda.
+Teleféricos de cabo.
+625.571	Trabalho preliminar. Planejamento. Rotas,
+etc.
+625.572	Vias férreas de tração a cabo com suportes
+móveis. Funiculares rolantes.
+625.573	Mastros, suportes dos funiculares.
+Escoramento. Contrapesos (pesos de
+equilíbrio). Dispositivos de tensionamento.
+625.574	Mecanismo de tração. Maquinaria.
+Especificar por meio de -8... ou  de :621.86...
+625.575	Dispositivos de carga e descarga.
+625.576	Vias aéreas de cabos e funiculares com
+carga que se move em plano horizontal ou inclinado.
+625.576.2	Vias aéreas de cabos simples. Inclusive Pesos
+de reboque.
+625.576.3	Sistema de monocabo (de suspensão e tração
+única).
+625.576.4	Sistema de cabo duplo (cabos separados para
+suspensão e para tração).
+625.577	Vias aéreas de cabos e funiculares com
+movimento vertical, etc., carga numa área
+definida. Transportador aéreo para deslocar
+materiais em grandes canteiros de obras.
+      -> 621.877 Guindastes de cabo. Escavadeiras de cabo. Dragas de cabo
+625.578	Carros e dispositivos de sustentação.
+625.578.2	Carros. Barquinhas. Cadeirinhas
+{nos elevadores de estações de esquiação.
+teleféricos etc.).
+625.578.4	Transportadores de carga, contêineres.
+caçambas de carga.
+625.578.7	Engatamento do cabo. Sapatas, garras, etc.
+625.7/.8	Engenharia rodoviária.
+      -> 351.712 Obras públicas. Contratos. Contratantes
+      -> 351.811 Fiscalização de estradas e do trânsito nas estradas
+      -> 711.73 Auto-estradas. Estradas, ruas
+Subdivisões auxiliares especiais
+[625.7/.8].05	Organização do terreno e instalações. Métodos
+de construção.
+      [625.7/.8].05 dividido como 69.05
+Divisões principais
+625.7	Estradas de rodagem em geral.
+Rodovias. Ruas. Sistemas
+rodoviários rurais
+e urbanos.
+625.71	Tipos de rodovia comum segundo a
+importância e a finalidade.
+625.711	Rodovias em terreno aberto.
+625.711.1	Rodovias, estradas nacionais. Estradas
+principais. Troncos rodoviários.
+Estradas-tronco.
+625.711.2	Estradas secundárias. Estradas vicinais.
+Estradas de acesso a fazendas, minas etc.
+Estradas rurais, distritais etc..
+      -> 625.814 Estradas de terra, cascalho, areia, argila, etc.
+625.711.3	Estradas construídas especialmente para
+veículos a motor. Auto-estradas. Rodovias.
+625.711.4	Ciclovias. Pistas para bicicletas.
+625.711.5	Vias para pedestres e animais de carga (juntos).
+Vias para animais de carga. Inclusive Trilhas
+para tropas de mulas.
+      -> 625.814 Estradas de terra, cascalho, areia, argila, etc.
+625.711.6	Pistas para pedestres. Caminhos exclusivos
+para pedestres. Calçadões.
+      -> 625.734.2 Passagens de pedestres, calçadas, passeios
+625.711.7	Trilhas para equitação. Trilhas para
+passeios a cavalo.
+625.711.8	Outros tipos especiais.
+625.711.812	Estradas em terreno elevado (ao longo ou perto
+de divisores de água). Estradas de morros.
+Estradas de montanhas.
+625.711.813	Estradas de vales. Estradas que atravessam
+terreno plano.
+625.711.814	Estradas íngremes, aclives, declives íngremes
+(transição de vale para terreno elevado, ou de
+ligação entre duas estradas de vale). Estradas serpeantes (com curvas fechadas). Estradas em desfiladeiros nas montanhas.
+625.711.816	Desvios, atalhos. Anéis rodoviários.
+Estradas de contorno.
+625.711.82	Estradas em desertos. Estradas em
+dunas de areia.
+625.711.83	Estradas em pântanos, charcos. Estradas
+em campinas.
+625.711.84	Estradas e trilhas em florestas.
+625.712	Estradas urbanas.
+625.712.l	Estradas principais urbanas. Estradas
+principais. Estradas-tronco urbanas. Ruas
+principais (avenidas etc.).
+625.712.12	Vias de comunicação entre localidades. Vias
+urbanas de cruzamento, vias que atravessam a
+cidade inteira.
+625.712.14	Principais estradas, vias de tráfego. Vias de
+distribuição do tráfego.
+625.712.15	Vias cerimoniais, triunfais. Vias utilizadas para
+procissões, desfiles, paradas.
+625.712.16	Ruas para mercados e feiras.
+625.712.18	Ruas com lojas, para comércio lojista.
+625.712.2	Vias urbanas de menor importância.
+Vias secundárias. Ruas laterais. Ruelas.
+Travessas. Becos. Vielas.
+625.712.25	Vias de serviço (de acesso a instalações
+industriais e comerciais). Estradas, vias. caminhos de acesso privado (para pátios, garagens, etc.).
+      -> 625.712.7 Inclinações. Ladeiras. Rampas
+      -> 625.746.3 rebaixamento de passagens de pedestres para permitir o acesso de veículos
+625.712.27	Ruas sem saída. Becos sem saída.
+625.712.28	Ruas residenciais.
+625.712.3	Outros tipos de vias, estradas, ruas.
+625.712.31	Portões. Arcadas.
+      -> 725.941 Arcos e arcadas triunfais
+      -> 725.961 Portas. Portas monumentais
+625.712.32	Galerias. Colunatas.
+      -> 72.012.75 Aberto dos lados. Espaços e passagens cobertos
+625.712.33	Vias cobertas. Arcadas.
+-> 725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de serviços públicos
+625.712.34	Passagens subterrâneas e passarelas para
+pedestres. Passagens subterrâneas. Passagens
+exclusivas de pedestres.
+625.712.35	Vias subterrâneas. Vias subterrâneas para
+tráfego. Vias em túneis.
+      -> 624.195 Túneis de tráfego
+      -> 725.95 Pontes. Viadutos. Passarelas. Túneis. Passagens subterrâneas. Outras estruturas associadas ao tráfego
+625.712.36	Vias elevadas. Viadutos de tráfego.
+      -> 725.95 Pontes. Viadutos. Passarelas. Túneis. Passagens subterrâneas. Outras estruturas associadas ao tráfego
+625.712.37	Estradas, vias em vários níveis.
+625.712.4	Áreas abertas. Praças. Esplanadas. Muros,
+muralhas, contrafortes urbanos.
+      -> 711.61 Praças. Outros espaços abertos
+      -> 712.25 Espaços abertos. Áreas não construídas (dentro ou perto de cidades ou povoações)
+625.712.43	Áreas livre em tomo das edificações.
+625.712.44	Áreas livres, com trânsito rodoviário. Praças
+como rotas de trânsito. Praças rotatórias,
+balões de trânsito.
+625.712.45	Praças cerimoniais. Áreas livres para
+festividades, desfiles, paradas etc..
+625.712.46	Áreas livres para mercados e feiras. Praças de
+feira, de mercado, etc.
+625.712.47	Áreas livres para jogos, recreações. Playgrounds.
+625.712.48	Praças residenciais etc..
+625.712.5	Passeios, jardins, parques públicos.
+      -> 712.2 Planejamento da paisagem dominante em geral
+625.712.6	Locais reservados para fins especiais.
+625.712.61	Depósitos de armazenamento.
+-> 725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de serviços públicos
+625.712.62	Locais de estacionamento para veículos de
+tração animal.
+625.712.63	Áreas de estacionamento para veículos
+motorizados. Estacionamentos de
+automóveis etc..
+625.712.64	Locais de estacionamento para bicicletas.
+Gradis de apoio para bicicletas.
+625.712.68	Áreas para desfiles militares.
+625.712.7	Inclinações. Ladeiras. Rampas.
+      -> 625.712.25 Vias de serviço (de acesso a instalações  industriais e comerciais). Estradas, vias, caminhos de acesso privado (para pátios, garagens, etc.)
+      -> 625.746.3 Rebaixamento de passagens de pedestres para permitir o acesso de veículos
+625.712.8	Lances de degraus em ruas. Escadarias.
+Elevadores para transeuntes.
+      -> 621.876 Elevadores. Escadas rolantes. Monta-cargas
+      -> 625.5 Vias férreas com tração a cabo. Vias férreas funiculares. Caminhos aéreos, vias férreas suspensas.
+     Caminhos aéreos de cordas e cabos. Teleféricos
+625.714	Vias ao longo de cursos de água (vias
+resultantes de aterros). Caminhos elevados em terrenos pantanosos. Caminhos de sirga.
+      -> 626.32 Caminhos de sirga
+      -> 627.18 Margens. Praias. Rampas
+      -> 627.35 Rodovias e ferrovias portuárias. Equipamento para manipulação de carga. Outros equipamentos
+      subsidiários dos portos
+625.714.7	Aterramento, cobertura ou estreitamento
+dos cursos de água em benefício do tráfego rodoviário.
+625.717	Áreas pavimentadas para campos de aviação
+e aeroportos. Pistas de aeroportos.
+      -> 711.553.9 Áreas de aeroportos
+      -> 711.77 Aerovias
+625.717.2	Pistas de decolagem e aterrissagem.
+625.717.3	Pistas. Pistas de taxiar.
+625.717.5             	Pátios de manobra. Áreas de carga
+e de trânsito.
+625.717.7	Áreas de estacionamento e de manutenção das
+aeronaves.
+625.72	Planejamento e traçado das estradas.
+Exemplo(s) de combinação((ões):
+	      625.72:528.486 Transferência da planta para o terreno. Demarcação e traçado
+	      -> 711.73 Auto-estradas. Estradas, ruas
+625.721	Traçado em mapa. Uso de linhas de
+contorno. Projeto da rede de estradas (radiais, concêntricas, triangulares, retangulares etc).
+625.723	Perfis (seções longitudinais).
+      -> 625.732 Perfis transversais (seções cruzadas)
+625.724	Mudanças de direção. Curvas de transição.
+625.725	Nivelamento. Gradientes. Aclivcs. Declives.
+Aterros. Cortes.
+      -> 528.422 Nivelamento
+625.726	Diagramas de massa transportada.
+Quantidade de entulho e aterro.
+625.73	Partes das estradas. Projeto. Dimensões.
+625.731	Subleitos. Fundação. Obras de terra.
+Cortes. Transporte do material de aterro. Formação.
+625.731.1	Subleitos.
+625.731.2	Obras de terra. Cortes. Melhoramento
+do solo (compactação, consolidação.
+estabilização do solo).
+      -> 624.138 Melhoramento da capacidade de sustentação dos solos (melhoramento do solo).
+      Compactação,consolidação, estabilização do solo
+625.731.3	Drenagem do subleito, do subsolo e fundação.
+Especificar por meio de :626.86...
+625.731.4	Aterro. Terraplenagem.
+625.731.6	Formação. Preparação do leito da estrada.
+Abertura de valas para o leito. Remoção
+da terra.
+625.731.7	Fundação rígida ou base. Inclusive Fundações
+de concreto e concreto armado.
+625.731.8	Fundação flexível ou base.
+625.731.81	Fundações de seixos ro lados.
+625.731.82	Fundações de pedra. Inclusive Camada inferior
+de areia, resíduos minerais, cascalho. Camada
+inferior de argamassa grossa.
+625.731.85	Fundações com aglutinantes betuminosos
+(fundações de base negra).
+625.731.86	Aproveitamento de estradas já existentes como
+fundação para uma nova superfície.
+      625. 731.86 dividido como 625.8
+625.731.87	Emprego de materiais fibrosos, papei
+alcatroado ou outras camadas isolantes.
+625.731.9	Camada intermediária. Camada aglutinante.
+625.732	Perfis transversais (seções transversais).
+Inclusive Abaulamcnto. S u pé releva ç3o.
+Escalonamento (estradas de vários níveis).
+      -> 625.723 Perfis (seções longitudinais)
+625.732.2	Seção transversal côncava.
+625.732.3	Seção transversal convexa. Caimento.
+625.732.4	Seção transversal inclinada. Superelevação.
+625.732.5	Estradas com pistas de rolamento em
+níveis diferentes.
+625.732.8	Estradas parcialmente pavimentadas.
+625.733	Margens, bermas, acostamentos.
+      -> 625.889 Outras margens, exceto as vias de pedestres
+625.734	Passagens de pedestres. Canteiros centrais,
+faixas centrais. Refúgios para pedestres.
+625.734.2	Passagens de pedestres, calçadas, passeios.
+      -> 625.711.6 Pistas para pedestres. Caminhos exclusivos para pedestres. Calçadas
+      -> 625.88 Construção de vias  de pedestres, calçadas.
+625.734.3	Faixas centrais, canteiros centrai s
+(reservas centrais).
+625.734.4	Refúgios (ilhas no meio das estradas, ruas).
+625.735	Valas. Canais de drenagem.
+      -> 624.134 Abertura de canais, trincheiras, valas
+625.736	Aterros. Rampas, inclinações.
+      -> 624.137.2 Aterros. Taludes. Encostas. Banquetas (bermas)
+625.737	Muros de contenção, de arrimo.
+      -> 624.137.5 Muros de contenção. Muros de arrimo
+625.738	Parapeitos. Cercas. Muretas de segurança.
+625.739	Entroncamentos rodoviários. Inclusive
+Bifurcações. Interseções. Encruzilhadas.
+625.739.3	Estradas de acesso e saída de auto-estradas.
+625.739.4	Pontos de fusão de rodovias.
+625.74	Métodos de construção de estradas. Obras
+subsidiárias.
+625.745	Obras subsidiárias como partes das
+estradas.
+625.745.1	Pontes.
+      -> 624.2/.8 Construção de pontes
+625.745.11	Pontes para pedestres.
+625.745.12	Pontes para tráfego de pedestres e de veículos.
+Pontes rodoviárias e ferroviárias. Viadutos.
+      -> 624.21.095.32 Tabuleiro em balanço (cantilever) para tráfego de veículos motorizados ou pedestres
+625.745.2	Condutos para escoamento de água. abertos ou
+fechados. Canais. Galerias. Bueiros.
+      -> 624.196 Túneis, etc. para transporte de líquidos, p. ex., água, óleo
+625.745.3	Sarjetas de estrada. Bueiros de drenagem.
+      -> 628.251 Ramais pequenos. Ligações e bueiros de rua. Bueiros, escoadouros de estrada
+625.745.4	Escoadouros. Poços de inspeção. Alçapões. Poços. Respiradouros.
+      625.745.4 dividido como  628.2.
+625.745.5	Limites e barreiras de segurança. Sinalização de
+segurança. Sinalização das margens (pedras,
+postes). Marcos de pedra. Refletores, olhos-
+de-gato.
+      -> 625.888 Meios-fios. Guias de pedra. Lancil
+625.745.55	Crash barriers Barreira de segurança
+625.745.6	Sinais. Postes de sinalização.
+      -> 625.746.5 Trabalhos subsidiários de controle do tráfego
+625.745.62	Indicadores de distância. Inclusive
+Marcos de quilômetros.
+625.745.63	Placas com sinais de direção.
+625.745.64	Placas indicativas de limites e fronteiras.
+625.745.65	Placas com nomes de lugares.
+625.745.66	Placas com nomes de ruas.
+625.745.67	Placas com números de casas.
+625.745.68	Painéis de informação. Quadros de avisos, de
+advertências.
+625.745.691	Sinais regulamentares de tráfego.
+      -> 625.746.53 Dispositivos de controle do tráfego
+625.745.693	Sinais de advertência, de perigo.
+625.745.7	Diversos outros mastros, postes, colunas.
+      -> 624.97 Estruturas altas esguias
+625.745.8	Suportes para iluminação de ruas. Inclusive
+Postes de iluminação. Postes de iluminação
+ramificados. Cabos suspensos para iluminação.
+      -> 628.971 Iluminação de exteriores
+      -> 725.94 Monumentos. Memoriais. Ornamentos das ruas. Estruturas isoladas diversas (como características 
+      arquitetônicas).
+625.745.9	Suportes e suspensões para fios. cabos etc..
+Inclusive Postes telegráficos.
+-> 624.971 Torres de sustentação livre, auto-sustentadas. Pilastras, pilões (torres de cabo). Mastros de sustentação livre. Grupo de chaminés, etc.
+625.746	Outras obras subsidiárias relacionados ao
+uso da estrada pelo tráfego.
+625.746.l	Entroncamento e nivelamento da pavimentação
+da rodovia com a via permanente de
+bondes, trens etc..
+625.746.2	Ruas de saída e entrada de vias férreas
+subterrâneas etc..
+625.746.3	Rebaixamento de passagens de pedestres para
+permitir o acesso de veículos.
+      -> 625.712.25 Passeios, jardins, parques públicos
+625.746.5	Trabalhos subsidiários de controle do tráfego.
+Inclusive Cabeços de tráfego. Dispositivos de sinalização, sinais rodoviários etc. Marcações (com linhas brancas) das estradas c pistas. Tachas de sinalização.
+      -> 625.Sinais. Postes de sinalização
+      -> 654.05 Sinais. Sinais de chamada. Sinais de aviso, etc.
+      -> 656.05 Tráfego. Transporte. Sinais de tráfego
+625.746.52	Torres de controle.
+625.746.53	Dispositivos de controle do tráfego.
+Exemplo(s) de combinação(ões):
+625.746.53:656.053.2 Para limitara velocidade. Medidas para acalmar o tráfego. Inclusive: Para limitara velocidade.
+Medidas para acalmar o tráfego. Inclusive:
+      -> 625.745.691 Sinais regulamentares de tráfego
+625.748		Acesso rios de vias públicas. Obras
+subsidiárias não ligadas diretamente ao tráfego rodoviário.
+-> 725.94 Monumentos. Memoriais, Ornamentos das ruas. Estruturas isoladas diversas (como características arquitetônicas)
+625.748.2	Pequenas estruturas permanentes. Inclusive
+Abrigos. Quiosques. Lavatórios
+públicos, mictórios.
+      -> 628.425 Instalações sanitárias públicas em geral
+      -> 725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de 
+      serviços públicos
+625.748.28	Garagens e postos de abastecimento subterrâneos.
+      -> 628.425 Instalações sanitárias públicas em geral
+      -> 725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de 
+      serviços públicos
+625.748.3	Pequenas estruturas temporárias.
+625.748.32	Tapumes, cercas, telas temporárias.
+625.748.34	Escritórios e barracões temporários
+para obras rodoviárias.
+625.748.4	Outros acessórios de vias públicas.
+625.748.42	Assentos. Bancos.
+625.748.44	Receptáculos para lixo. Lixeiras.
+      -> 628.463 Coleta de lixo. Sistemas de coleta do lixo
+625.748.46	Caixas de coleta de correio. Inclusive Caixas de
+correio.
+-> 656.843 Postagem em caixas de coleta. Tipos de caixas de coleta de correspondência. Coleta da correspondência das caixas coletoras
+625.748.5	Outras instalações e acessórios de vias
+públicas.
+625.748.51	Relógios públicos.
+625.748.52	Fontes públicas.
+625.748.54	Postos de abastecimento. Bombas de gasolina.
+      -> 625.748.28 Garagens e postos de abastecimento subterrâneos
+      -> 725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de 
+      serviços públicos
+625.748.55	Máquinas automáticas de vender.
+625.748.56	Alarmes de incêndio.
+625.748.57	Caixas de chamada telefônica de táxis.
+625.748.6	Dispositivos de propaganda. Postes de
+publicidade etc..
+625.75	Tratamento da superfície da estrada.
+      -> 625.06 Aglutinantes, materiais aglutinantes e seu uso
+      -> 625.089.1 Revestimento de superfície
+      -> 625.8 Revestimento duro de rodovias. Pavimento, tapete ou curso de desgaste. Preparo e uso de materiais
+625.752	Tratamento com betume, asfalto.
+625.753	Tratamento com petróleo.
+625.754	Tratamento com alcatrão.
+625.755	Tratamento com misturas de
+betume-alcatrão.
+625.756	Tratamento com misturas de
+betume-borracha.
+625.76	Manutenção e reparo de rodovias.
+Conserto das estradas. Limpeza das ruas.
+Exemplo (s) de combinação(ões:
+625.76.08 Maquinaria Equipamento
+625.761	Manutenção de estradas pavimentadas com
+pedras, paralelepípedos.
+625.762	Manutenção de estradas macadamizadas ou
+encascalhadas.
+625.763	Manutenção de estradas de blocos de
+madeira.
+625.764	Manutenção de estradas de cimento
+monolítico ou concreto.
+625.765	Manutenção de estradas asfaltadas.
+625.766	Manutenção de vias de pedestres, calçadas.
+625.767	Manutenção de ciclovias.
+625.768	Pequenas obras de manutenção
+permanente.
+625.768.l	Limpeza das estradas. Varredura das estradas,
+Inclusive Vassouras. Vassouras mecânicas. 
+      -> 351.777.614 Higiene das ruas
+      -> 628.462 Limpeza urbana. Limpeza de ruas
+625.768.4	Remoção de folhas caídas, de lixo.
+625.768.5	Remoção de neve, de gelo.
+      -> 629.362.5 Veículos para retirar neve
+625.768.6	Lançamento de areia grossa nas estradas para
+evitar derrapagem durante nevascas. Precauções
+contra gelo.
+      -> 624.144.8 Danos e acidentes causados pela neve e pelo gelo na terra (precauções, prevenção e controle)
+625.768.7	Irrigação de estradas. Veículos de irrigação.
+625.768.8	Manutenção da iluminação pública.
+625.77	Arborização de rodovias e áreas livres.
+Arborização ao longo das estradas.
+625.771	Condições e métodos de plantação.
+Inclusive Fileiras simples, duplas,
+múltiplas. Espaçamento das árvores.
+625.772	Arborização irregular (não em fileiras).
+625.774	Manutenção e proteção das áreas
+arborizadas contra o tráfego, obras rodoviárias etc.. Inclusive Drenagem. Irrigação. Grades protetoras das árvores. Poda.
+625.78	Serviços subterrâneos. Inclusive
+Tubulações. Cabos. Condutos. Redes de
+distribuição.
+625.782	Seções transversais das instalações
+subterrâneas. Complexos de canais diversos
+de abastecimento e recolhimento de
+resíduos.
+625.783	Serviços que acompanham a direção da
+estrada.
+625.784	Serviços que não acompanham a direção da
+Estrada.
+625.79	Outros assuntos relativos a rodovias.
+Inclusive Estruturas salientes. Balanços.
+Beirais.
+625.8	Revestimento duro de rodovias.
+Pavimento, tapete ou curso de desgaste. Preparo e uso de materiais.
+      -> 625.02 Teoria do projeto de pavimentação de rodovias
+      -> 625.75 Tratamento da superfície da estrada
+625.81	Estradas primitivas. Estradas de terra, etc.
+625.814	Estradas de terra, cascalho, areia,
+argila etc..
+-> 625.711.2 Estradas secundárias. Estradas vicinais. Estradas de acesso a fazendas, minas, etc. Estradas rurais, distritais, etc.
+      -> 625.711.5 Vias para pedestres e animais de carga (juntos). Vias para animais de carga
+625.815	Estradas com pavimentes de pedras.
+625.815.1	Pedras naturais. Lajes. Lajedos.
+625.815.2	Barro cozido (ladrilhos).
+625.815.5	Cimento.
+625.815.9	Outras pedras artificiais.
+625.82	Pavimentos de pedra. Pavimentos de tijolo.
+625.821	Tipos de pedra utilizada.
+625.821.1	Pedras naturais. Paralelepípedos. Pavimentos
+de pedras grandes e pequenas.
+625.821.2	Tijolos vitrificados, tijolos de clínquer.
+625.821.3	Produtos diversos de cerâmica e argila.
+Ladrilhos cerâmicos. Ladrilhos de argila.
+Tijolos.
+625.821.4	Escória.
+625.821.5	Concreto.
+625.821.9	Outras pedras artificiais.
+625.822	Fabricação de pedras e blocos de
+pavimentação.
+      -> 679.85 Pedra natural. Pedra de construção. Pedras para monumentos. Cantaria
+625.823	Colocação do pavimento de pedra.
+625.83	Pavimentos de bloco de madeira.
+Pavimentos de cortiça.
+625.831	Tipos de madeira utilizada.
+625.833	Colocação de pavimentos de madeira.
+625.836	Pavimentos de cortiça. Pavimentos de
+madeira artificial.
+625.84	Pavimentos de concreto.
+625.841                      Concreto não-armado.
+625.843	Concreto armado.
+625.844	Macadame ligado com cimento.
+Macadame-trasse.
+625.848	Estrada de concreto com juntas.
+625.85	Pavimentos de asfalto. Pavimentos
+betuminosos.
+Indicar os ligantes por meio de .06...
+625.851	Pavimentos de mástique ou asfalto
+derretido.
+625.852	Pavimentos de asfalto comprimido.
+625.853	Pavimentos de ladrilhos ou tijolos
+de asfalto.
+625.855	Pavimentos de asfalto com agregados
+minerais (cascalho, areia etc.). Inclusive
+Estabilização de solo betuminoso.
+625.856	Pavimentos de betume-macadame.
+625.857	Pavimentos de misturas de asfalto-alcatrão.
+625.858	Pavimentos de pedras e alcatrão.
+Pavimentos de macadame alcatroado.
+625.859	Pavimentos de alcatrão com outros minerais.
+625.859.3	Pavimentos de misturas grossas, com pedras
+britadas, pedregulho, etc.
+625.859.4	Pavimentos de misturas finas, com material
+granuloso, areia, etc.
+625.86	Pavimentos de pedras britadas, cascalho,
+saibro, terra.
+625.861	Materiais utilizados. Tipos de pedra,
+resíduos de pedras etc..
+625.862	Preparo e armazenamento dos materiais.
+Britamento de pedras (manualmente, com
+martelo, mecanicamente).
+      -> 621.926 Cominuição (principalmente de materiais duros).
+      -> 622.73 Cominuição. Esmagamento. Trituração. Moagem. Pulverização
+625.863	Colocação de pavimentos de pedras
+britadas, etc.
+625.87	Outros tipos diversos de pavimentos.
+625.871	Pavimentos metálicos (p. ex., de ferro, aço).
+625.872	Pavimentos de tijolo vitrificado.
+625.873	Pavimentos de mosaicos.
+625.874	Pavimentos de ladrilhos reforças.
+625.877	Pavimentos de materiais fibrosos.
+625.878	Pavimentos de borracha.
+Indicar os ligantes por meio de  .06...
+625.878.2	Pavimentos de lâminas de borracha
+vulcanizada.
+625.878.4	Pavimentos de ladrilhos de borracha
+vulcanizada.
+625.878.5	Pavimentos de blocos de borracha vulcanizada.
+625.878.7                 Pavimentos de borracha e asfalto.
+625.88	Construção de vias de pedestres, calçadas.
+625.881/.887 dividido como 625.81/.87
+                                     -> 625.734.2 Passagens de pedestres. Canteiros centrais, faixas centrais. Refúgios para pedestres
+625.888	Meios-fios. Guias de pedra. Lancil.
+625.889	Outras margens exceto as vias de pedestres.
+           -> 625.733 Margens, bermas, acostamentos
+626/627		Engenharia e construção hidráulica. Estruturas aquáticas
+      -> 351.79 Fiscalização de vias navegáveis. Medidas relativas à água
+      -> 551.46 Oceanografia física. Topografia submarina. Fundo do mar
+      -> 556 Hidrosfera. Água em geral. Hidrologia
+      -> 711.76 Canais. Hidrovias
+
+626 Engenharia hidráulica em geral
+Especificar as obras de engenharia hidráulica por meio de -1/-2 e -4/-9 (de 62-1/-2, 62-4/-8, e 66-9). Os auxiliares 62-3... não são aplicáveis em 626 e subdivisões626/627.
+      -> 351.79 Fiscalização de vias navegáveis. Medidas relativas à água
+      -> 551.46 Oceanografia física. Topografia submarina. Fundo do mar
+      -> 556 Hidrosfera. Água em geral. Hidrologia
+      -> 711.76 Canais. Hidrovias
+Subdivisões auxiliares especiais
+626-3	Partes seccionais transversais de
+construções hidráulicas.
+626-31	Vias de acesso e partes a montante.
+      626-31dividido como 626-33
+626-33	Vias de acesso e partes a jusante.
+626-331	Muros laterais oblíquos.
+626-332	Solo permeável.
+626-333	Solo impermeável.
+626-335	Instalações de controle da corrente.
+Inclusive Estacas em cortina.
+Comportas. Poços.
+626-337	Dissipadores de energia. Inclusive Paredes
+defletoras. Blocos.
+626-338	Limpeza de fundações com água corrente.
+Acomodação do solo e do escudo.
+Divisões principais
+626.0		Subdivisão auxiliar especial para a classe 626 Engenharia hidráulica em geral
+                                        Em 626.0, o .0 não é usado para indicar subdivisões auxiliares especiais. As subdivisões .0 não são transferíveis para ouros números de 626. As subdivisões . O não são transferíveis para outros números de 626...
+626.01	Princípios científicos da engenharia hidráulica.
+626.02	Obras subaquáticas em geral.
+      -> 624.157 Fundações na água. Fundações subaquáticas. Fundações profundas em geral (com ou sem lençol freático)
+      -> 627.02 Obras subaquáticas. Trabalho de mergulhador
+      -> 627.24 Execução de obras de construção marítima
+      -> 627.25 Proteção das obras de construção hidráulica
+626.022	Equipamento para obras subaquáticas.
+Inclusive Sinos de mergulho. Poços de mergulho. Embarcações de mergulho (de apoio ao mergulhador).
+      -> 629.58 Embarcações subaquáticas. Submersíveis. Submarinos
+626.024	Trabalho do mergulhador.
+626.025	Roupas de mergulho. Roupa de
+mergulhador. Equipamento de respiração.
+Equipamento auxiliar.
+626.027	Métodos de trabalho. Inclusive Uso de
+ferramentas em baixo d´ água.
+626.1	Vias aquáticas interiores
+navegáveis. Canais. Rios
+canalizados.
+      -> 626.9 Canais marítimos. Canais de navegação
+      -> 627.4 Proteção de margens de rios. Retificação de rios e correntes. Outros trabalhos de melhoramento de rios
+626.11	Generalidades. Tipos de canal.
+626.112	Canais sem eclusas. Canais em terreno
+plano.
+626.113	Canais com eclusas. Inclusive Canais de
+nível elevado. Canais de entroncamento.
+626.114	Canais laterais. Canais paralelos aos rios.
+626.12	Planejamento e traçado dos canais.
+Inclusive Perfis longitudinais (seções
+longitudinais). Curvas, dobras.
+Alargamento nas curvas. Cruzamentos,
+interseções de canais.
+626.13	Construção de canais.
+626.131	Escavação do leito do canal. Aterros e cortes
+para os canais. Inclusive Escavadores para
+valas compridas. Dragagem.
+      -> 621.879 Equipamento de nivelamento. Tratores niveladores. Motoniveladoras. Patrolas. Carregadoras
+      -> 624.134 Abertura de canais, trincheiras, valas
+      -> 631.312.63 Arados com relhas para abrir canais de irrigação e drenagem. Implementos para abrir canais
+626.132	Canais subterrâneos (canais de túnel).
+Aquedutos.
+626.132.4	Canais de túnel (canais subterrâneos).
+      -> 624.196 Túneis, etc. para transporte de líquidos, p. ex., água, óleo
+626.132.5	Aquedutos de canal (pontes de canal).
+      -> 624.2/.8 Construção de pontes
+626.133	Acessos a canais. Cruzamentos de rodovias
+e hidrovias. Esvaziamento, drenagem de
+canais.
+-> 621.649 Dispositivos para transportar, retirar e reverter o fluxo de líquidos (exceto bombas e dispositivos ejetores). Mecanismos de elevação  da água
+      -> 621.65/.69
+      -> 625.714 Vias ao longo de cursos de água (vis resultantes de aterros). Caminhos elevados em terrenos pantanosos. Caminhos de sirga
+      -> Vias ao longo de cursos de água (vias resultantes de aterros). Caminhos elevados em terrenos pantanosos
+      -> 626.32 Caminhos de sirga
+626.134	Revestimento, calafetagem dos canais.
+Impermeabilização. Vazamento localizado.
+Vazamento geral, invisível.
+626.14	Manutenção de canais.
+626.142	Dragagem de manutenção.
+626.143	Limpeza. Inclusive Limpeza de vegetação
+parasita.
+626.144	Remoção de gelo.
+      -> 624.145 Danos causados pelo gelo flutuante (precauções,s prevenção e controle).
+626.15	Arborização das encostas e aterros
+do canal.
+626.17	Reforço das encostas e aterros do canal.
+      -> 624.137 Aterros, taludes, etc. Estruturas de contenção. Trabalhos de transição entre diferentes níveis de solo. Fixação das massas de terra
+626.18	Aterro, terraplenagem de canais.
+      -> 624.135 Elevação do nível do solo. Montes, elevações. Aterro e nivelamento de grandes áreas
+626.2	Abastecimento de água (água
+alimentadora) para canais de nível
+elevado.
+      -> 626.81/.84 Irrigação
+626.21	Quantidade necessária de água. Consumo
+de água. Perdas de água.
+626.22	Abastecimento de cursos de água e lagos
+naturais.
+626.23	Abastecimento por água artificialmente
+estocada. Reservatórios do canal.
+626.24	Escoamento, elevação da água por meios
+mecânicos. Mecanismos de elevação
+d'água.
+-> 621.649 Dispositivos para transportar, retirar e reverter o fluxo de líquidos (exceto bombas e dispositivos ejetores). Mecanismos de elevação da água
+      -> 621.65/.69
+626.25	Canais, diques alimentadores. Comportas,
+barragens alimentadoras.
+626.26	Instalações de descarga, de drenagem.
+626.28                   Estruturas específicas nos canais.
+626.281                     Acessos e bacias de comportas e eclusas. Lugares de passagem. Bacias de retorno. Píeres, molhes de entrada.
+626.283	Portões de segurança.
+626.3	Forma e dimensões transversais
+dos canais. Seções transversas.
+626.31	Seção aqüífera. Inclusive Perímetro
+úmido. Seção transversal úmida. Largura
+e profundidade do canal. Profundidade
+média da água. Altura livre sob pontes.
+Ângulo da rampa lateral.
+626.32	Caminhos de sirga.
+      -> 625.714 Vias ao longo de cursos de água (vias resultantes de aterros). Caminhos elevados em terrenos pantanosos. Caminhos de sirga
+626.33	Depósitos de terra escavada.
+626.34	Contradescargas, contravalas.
+626.35	Margens do canal.
+626.4	Eclusas. Inclusive Desenho.
+Localização. Dimensões.
+      -> 627.45 Eclusas, comportas nos rios
+626.41/.46	Eclusas de câmara.
+626.41	Eclusas de câmara em geral. Projetos
+diversos.
+626.413	Eclusas simples.
+626.414	Eclusas duplas ou gêmeas. Eclusas
+tetragonais (para duas ou mais
+embarcações simultâneas).
+626.415	Eclusas para comboios de barcaças.
+626.416	Eclusas para lidar com grandes diferenças
+de nível. Inclusive Eclusas escalonadas
+(lances de eclusas). Eclusas de poço
+(eclusas de alta elevação).
+626.419	Outros tipos de eclusas. Inclusive Eclusas
+de chave. Eclusas sem saída. Eclusas de retorno. Eclusas de segurança.
+626.42	Partes estruturais das eclusas de câmara.
+Eclusas de madeira. Eclusas de alvenaria.
+626.421	Partes fixas. Inclusive Paredes,
+batentes, só lei rãs de câmara. Cabeceiras
+de montante.
+626.422	Partes móveis.
+626.422.2	Portas da eclusa.
+626.422.21	Portas em esporão.
+626.422.22	Portinholas.
+626.422.23	Portas radiais ou segmentais.
+626.422.24	Portas de elevação vertical.
+626.422.25	Portas rolantes.
+626.422.3	Caixões pneumáticos de navio.
+626.422.4	Acessórios de portas de eclusas. Inclusive
+Mancais. Escuras. Mecanismo de operação.
+Comportas e válvulas para enchimento e
+esvaziamento das eclusas.
+626.423	Construções para maquinaria de eclusas.
+Casas de máquinas.Construção de eclusas de câmara.
+626.43	Equipamento. Inclusive Instalações de
+reboque. Escadas de segurança. Anéis de
+atracação. Cabeços. Correntes de
+retenção.
+626.44	Operação e manutenção de eclusas. Tempo
+de operação da eclusa. Consumo de água.
+Perdas, vazamento de água.
+626.45	Dispositivos para economiza r água
+nas eclusas. Inclusive Bóias. Câmaras
+para economizar água. Reservatórios
+de eclusas.
+626.49	Eclusas sem câmaras.
+626.5	Mecanismo de elevação e planos
+inclinados para embarcações.
+626.51	Mecanismo de elevação vertical para
+embarcações. Elevadores de barcaças.
+Guindastes de embarcações. Inclusive
+Elevadores hidráulicos. Elevadores
+operados por bóia. Elevadores de
+contrapeso.
+      -> 621.876 Elevadores. Escadas rolantes. Monta-cargas
+626.52/.54	Planos inclinados, rampas, ladeiras para
+embarcações.
+626.52	Planos inclinados com berços de tração.
+626.53/.54	Tração úmida com valas de elevação
+(eclusas móveis).
+626.53	Tração com valas longitudinais à rampa.
+626.54	Tração com valas transversais à rampa.
+626.7	Tração e propulsão nos rios e
+canais.
+Classificar aqui os aspectos de engenharia hidráulica, inclusive as instalações. Classificar as embarcações em 629.5...
+626.71	Condições que afetam o movimento da
+embarcação. Inclusive Esforço de tração
+ou propulsivo. Resistência da água.
+Velocidade ou avanço realizado.
+626.72	Propulsão por força humana.
+626.73	Reboque, Elevação.
+626.731	Reboque por força humana ou animal.
+626.732	Arrasto mecânico com corrente ou cabo sem-fim.
+626.74	Propulsão a vela e por corrente de água.
+Navegação a vela. Derivação, flutuação
+(p. ex., de barcaças, comboios de troncos).
+Navegação rio abaixo, a jusante.
+      -> 629.512 Estruturas aquáticas móveis simples
+      -> 629.525 Veleiros, barquinhos a vela e pequenos iates a vela
+626.75/.76	Reboque ou tração a motor.
+626.75	Reboque por rebocadores.
+      -> 627.718 Instalações de reboque em canais navegáveis
+      -> 629.561.1 Rebocadores
+626.76	Tração por corrente ou cabo. Tração por
+corrente submersa. Sistemas de tração
+por cadeia de balsas. Inclusive Sistemas
+de cabo e tambor. Sistemas de rodas
+dentadas.
+626.78	Navegação com embarcações
+autopropulsionadas.
+626.8	Hidráulica agrícola. Engenharia de
+irrigação, drenagem e recuperação de terras.
+Exemplo(s) de combinação( ões):
+626.8:631.4 Hidráulica agrícola em relação à ciência e pesquisa do solo
+      -> 351.792 Irrigação. Drenagem.Represamento. Construção de diques
+      -> 556 Hidrosfera. Água em geral. Hidrologia
+      -> 627.1 Águas interiores naturais
+      -> 627.5 Outros trabalhos de proteção e melhoramento das hidrovias. Diques. Proteção da costa. Drenagem e
+      recuperação das margens
+      -> 627.8 Represas. Obras em usinas de energia hidráulica
+      -> 628.1 Abastecimento de água. Tratamento da água. Consumo de água
+      -> 631.6 Engenharia rural
+626.80	Importância da água para o cultivo da terra.
+      -> 551.579 Umidade do solo e hidrologia
+      -> 556.18 Administração dos recursos hídricos. Hidrologia aplicada. Controle humano das condições  hidrológicas
+626.81/.84	Irrigação.
+      -> 631.67 Irrigação
+626.81	Fontes de água para irrigação.
+      -> 628.11 Mananciais de abastecimento de água. Instalações para tomada, captação , coleta de água
+626.811	Abastecimento pelo lençol freático.
+Inclusive Água de poço. Água de poço
+artesiano.
+-> 621.649 Dispositivos para transportar, retirar e reverter o fluxo de líquidos (exceto bombas e dispositivos ejetores). Mecanismos de elevação da água
+626.812	Abastecimento por cursos naturais de água.
+Inclusive Água de fonte. Água de rio.
+626.813	Abastecimento por canais efluentes ou
+canais de drenagem.
+626.814	Abastecimento por lagos, reservatórios,
+canais de navegação.
+626.816	Extração de água pela utilização de poços,
+represas, estruturas de drenagem.
+626.82	Canais, regos de irrigação etc..
+      -> 621.643 Dispositivos para canalização e distribuição de fluidos. Tubulação. Canos
+626.821	Traçado dos canais. Dimensões das seções
+transversais. Tipos de canais.
+626.822	Construção de canais.
+626.823	Obras subsidiárias.
+626.823.2	Sifões invertidos. Galerias de escoamento.
+626.823.3	Passagens superiores.
+626.823.4	Dispositivos para retirada e ejeção de
+depósitos sedimentares dos canais de irrigação.
+Dispositivos de desassoreamento. Inclusive
+Eliminadores de sedimento. Ejetores de
+sedimento. Tanques de sedimentação.
+Dispositivos de filtrarão.
+626.823.5	Comportas. Inclusive Comportas
+de entrada. Comportas de saída.
+Comportas de distribuição.
+626.823.6	Carneiros, canaletes, declives para medição.
+626.823.7	Pormenores dos condutos e tubulações.
+Inclusive Acoplamentos. Válvulas.
+      -> 621.643.4 Conexões de tubos, canos e mangueiras
+      -> 621.646 Dispositivos para abrir e fechar canos. Válvulas. Registros. Dispositivos de regulagem do fluxo. 
+      Dispositivos de segurança
+626.823.8	Cruzamentos dos canais de irrigação.
+      -> 628.145 Cruzamento d interconexões das canalizações de água
+      -> 628.26 Cruzamento de cursos de água. Sifões. Canos vergados
+626.823.82	Cruzamentos de aquedutos. Cruzamentos de pontes.
+626.823.83	Sifões.
+626.823.84	Cruzamentos, passagens de nível.
+626.823.85	Túneis. Galerias de escoamento.
+626.823.88	Entradas.
+626.823.91	Revestimento do canal.
+626.823.92	Dispositivos de extravasamento e descarga.
+626.823.93	Dispositivos de segurança (para salvamento de
+afogamento). Equipamento salva-vidas.
+626.824	Medição, distribuição, grau de água. Rotação (uso alternado de fontes de água). Recuperação, reutilização 
+                              da água.
+626.826	Perdas de água nos canais de irrigação.
+626.83	Obras hidráulicas para irrigação.
+Estações de bombeamento. Inclusive
+Maquinaria para elevação de água.
+626.84	Métodos de irrigação.
+626.841	Irrigação por inundação. Inclusive Irrigação
+dos campos com água de esgoto, águas
+residuais. Sistema de controle.
+      -> 628.381 Utilização  das águas de esgoto na agricultura
+      -> 631.863 Excrementos humanos, despejos de esgoto
+      -> 631.879.2 Despejos de esgoto como fertilizante
+626.842	Irrigação por transbordamento ou
+derramamento. Inclusive Irrigação por
+valeta e calha. Irrigação por leito ou faixa.
+626.843	Irrigação superficial. Espalhamento da
+água. Inclusive Inundação livre. Inundação
+de contorno. Irrigação por obras de
+retenção. Irrigação por canais abertos ao
+longo de lombadas elevadas.
+626.844	Irrigação infra-superficial (abaixo da
+superfície).
+626.845	Aspersão ou borrifamento com água.
+Inclusive Perdas de evaporação.
+      -> 556.13 Evaporação. Evapotranspiração. Transpiração (no ciclo hidrológico)
+      -> 621.647 Dispositivos de nebulização,a aspersão, descarga
+      -> 631.347 Dispositivo de rega, aguamento. Equipamento de irrigação
+626.846	Vários métodos para conservar a umidade na terra irrigada. Inclusive Cobertura
+com palha.
+      -> 631.544.7 Cultivo sob diversos abrigos. Proteção e cobertura do solo
+626.86	Remoção de água. Drenagem.
+      -> 627.532 Drenagem. Secagem completa
+      -> 631.62 Drenagem
+626.860	Generalidades. Trabalho preliminar.
+Condições existentes de drenagem.
+626.861	Drenagem por canais aberto.
+626.862	Drenagem por canais cobertos. Drenagem
+infra-superficial.
+626.862.2	Escavação e preparo de valas.
+626.862.3	Equipamento e componentes para construção
+de drenos. Material para leito e união. Junção e
+inspeção.de câmaras. Saídas. Entradas.
+Entradas de mola.
+626.862.4	Descarte da água drenada Drenagem completa
+e parcial. Inclusive Redes de drenagem.
+Drenagem horizontal e vertical. Vias de
+infiltração. Entrada de ar.
+626.862.6	Drenagem sem canos. Drenagem de molhe.
+626.862.7	Drenagem por maquinaria
+626.862.91	Bloqueios de tubos de drenagem:
+causas e prevenção.
+626.863	Estações de bombeamento de drenagem.
+Drenagem por poços com bombas.
+Poços de auxilio.
+626.87	Recuperação de terrenos baldios,
+terras estéreis.
+      -> 627.533 Recuperação da terra. Acumulação de sedimentos. Pôlderes
+      -> 631.61 Limpeza e utilização de tipos especiais de solos
+626.871	Pântanos, brejos em geral. Terras alagadas.
+Inclusive Origem e composição do solo
+pantanoso.
+      -> 551.312.2 Alagados. Pântanos. Brejos. Turfeiras. Lençóis freáticos
+      -> 551.438.22 formas fitogênicas (de origem vegetal)
+626.872	Recuperação dos pântanos de terras baixas,
+dos baixios alagadiços, várzeas.
+626.873	Recuperação dos pântanos elevados, dos
+alagados elevados.
+626.874	Terras baldias minerais em geral.
+626.875	Charnecas arenosas.
+626.876	Terras baldias montanhosas.
+626.877	Plantios em monturos, aterros sanitários,
+vazadouros de lixo.
+626.88	Obras hidráulicas para criação de peixes.
+      -> 639.2/.3
+626.881	Condições requeridas. Pureza da água.
+626.882	Caminhos para peixes. Inclusive Passagens
+para peixes. Canais para
+peixes. Escadas para peixes.
+626.883	Lugares naturais e artificiais de desova.
+626.884	Equipamento de incubação. Incubadoras.
+626.885	Criadouros de peixe, lagos para
+piscicultura.
+626.886	Lagos de peixes (para espécies
+determinadas).
+      -> 628.357.3 Lagoas de peixe
+      -> 639.311 Piscicultura em açudes
+626.887	Reservas de peixes.
+626.888	Requisitos e abastecimento de água para
+lagos de peixes.
+626.9	Canais marítimos. Canais de
+navegação.
+      -> 626.1 Vias aquáticas interiores navegáveis
+626.91	Generalidades. Planejamento e traçado de
+canais para navegação. Dimensões.
+Seções transversais. Canais de passagem
+única e de passagem dupla.
+626.92	Canais não-represados (canais ao nível do
+mar, sem eclusas).
+626.93	Canais represados ao nível do mar
+(canais marítimos com eclusas de entrada
+ou saída).
+626.95	Canais marítimos com diversos níveis
+ou elevações. Canais marítimos de nível elevado.
+
+627 Engenharia de hidrovias naturais, portos, ancoradouros e litoral.
+Instalações para navegação, dragagem e salvamento.
+Represas e usinas de energia hidráulica.
+
+Especificar os trabalhos nas hidrovias e nos portos e as instalações de portas e de usinas de 
+ energia  hidráulica pro meio de –1/-9 (de 62-1-8 e 66-9) 
+Exemplo(s) de combinação(ões):
+      627(26) Obras e instalações marítimas, oceânicas
+      627(28) Obras e instalações de águas interiores, rios e lagos
+Subdivisões auxiliares especiais
+627.01	Princípios fundamentais.
+                                     -> 532 Mecânica dos fluidos em geral. Mec6anica dos líquidos(Hidromec6anica)
+                                     -> 556 Hidrosfera. Água em geral. Hidrologia
+627.02	Obras subaquáticas. Trabalho de mergulhador.
+62 7.02 dividido como  526.02
+627.03	Localização. Formada estrutura. Grau de proteção.
+627.032	Construção fixa (sobre fundação firme).
+627.033	Construção temporária, transportável, desmontável. Estruturas infláveis.
+      62 7.033 dividido como 69.033
+627.033.15	Instalações infláveis.
+627.033
+627.034	Estruturas flutuantes. Estruturas submersas.
+627.037	Localização desprotegida, aberta.
+627.038	Localização protegida, segura.
+627.05	Local, organização e instalações. Métodos de construção.
+       62 7.05 dividido como 69.05
+627.06	Características especiais (iluminação, construção etc.).
+.06 é subdivido em 627.7.06 e 627.8.06  para uso nessas classes
+627.08	Hidrovias, portos e ancoradouros em
+relação com a maré e o nível de água.
+627.082	Hidrovias, portos e ancoradouros de maré.
+Docas de maré etc..
+627.084	Hidrovias, portos e ancoradouros
+independentes da maré. Docas úmidas etc..
+627.09	Instalações para fins especiais em
+hidrovias, portos e ancoradouros.
+627.092	Instalações portuárias para passageiros.
+627.093	Instalações portuárias para carga.
+Exemplo(s) de cominação(ões):
+627.093:622.34 Instalações para manipulação de minério
+627.094	Portos e instalações portuárias para pesca.
+627.096	Portos e instalações portuárias navais.
+      -> 623.81 Docas e oficinas navais. Instalações e fortificações costeiras e flutuantes
+627.097		Portos e instalações de lazer. Marinas
+627.098	Portos ou bases de abrigo, segurança e salvamento e suas instalações. Ancoradouros de abrigo.
+627.099	Outros portos, ancoradouros etc. para fins especiais.
+Exemplo(s) de combinação(ões):
+627.099:614.46 Portos de quarentena
+Divisões principais
+627.1	Águas interiores naturais.
+      -> 351.79 Fiscalização de vias navegáveis. Medidas relativas à água
+      -> 556 Hidrosfera. Água em geral. Hidrologia
+627.11	Origem das hidrovias naturais.
+      -> 556.12 Precipitação, chuva, neve, etc. (como elementos do ciclo hidrológico)
+      -> 556.51 Bacias de drenagem, Áreas de captação. Bacias hidrográficas
+627.12	Fontes. Mananciais. Nascentes.
+      Especificar por meio de :556.3... 
+Exemplo ( s} de combinação(ões):
+       627.12:556.368 Fontes vulcânicas
+627.13	Hidrodinâmica das hidrovias.
+Especificar por meio de :532.5... e :556.5...
+      -> 556.536 Hidrodinâmica dos rios. Hidráulica fluvial
+627.131	Leis do fluxo de água nos rios. Velocidade
+média do fluxo. Resistência da água em
+movimento. Fluxo uniforme e fluxo
+variável.
+627.132	Represamento das hidrovias. Saltos,
+eclusas, quedas. Leis da queda de água.
+Movimento de corpos sólidos na água.
+      -> 627.82 Represas. Barragens
+627.133	Medição, calibramento das hidrovias
+(medições da quantidade e da velocidade).
+      -> 681.121 Medidores de fluidos. Dispositivos de medição para líquidos, gases, vapores
+627.14	Controle e regulagem das torrentes e rios
+turbulentos. Inclusive Obstruções.
+Reforço. Represamento.
+627.141	Controle das torrentes. Inclusive Causas.
+Contramedidas.
+627.142	Controle dos rios turbulentos, de
+correnteza. Inclusive Rápidos. Estreitos.
+Cursos de água doce que entram no mar.
+627.15	Generalidades sobre rios e correntes
+de água.
+      -> 551.435.1 Formas de relevo criadas pela ação erosiva de cursos de água permanente e intermitentes
+      -> 556.52/.53
+      -> 627.222.4 Margens de rios e correntes
+      -> 627.4 Proteção de margens de rios. Retificação de rios e correntes. Outros trabalhos de melhoramento de rios
+627.152	Rios e correntes de água.
+      -> 627.4 Proteção de margens de rios. Retificação de rios e correntes. Outros trabalhos de melhoramento de rios
+627.152.l	Rios grandes. Rios principais.
+627.152.11	Perfis. Seções longitudinais. Seções
+transversais. Declividade, profundidade,
+largura dos rios.
+627.152.12	Curvas dos rios. Configuração do leito do rio.
+Sinuosidade. Meandros, tacos, formação
+de i lhas etc..
+      -> 551.435.13 Formas de relevo criadas pela ação erosiva e acumulada combinadas dos cursos d’água
+627.152.15	Volume de água no canal. Inclusive Velocidade
+do fluxo. Níveis de água (médio, alto. baixo).
+Inundação. Secamente.
+627.152.151	Descarga e suas flutuações.
+627.152.152	Velocidade da corrente (do fluxo).
+627.152.153	Leito de águas de inundação (alto nível de água).
+627.152.154	Nível médio de água,
+627.152.155	Fluxo durante a seca.
+627.152.156	Seca completa.
+627.152.2	Tributários. Alimentadores. Afluentes.
+627.152.2 dividido como 627.152.1
+      -> 627.14 Controle e regulagem das torrentes e rios turbulentos
+627.152.3	Rios de montanha. Rios torrenciais.
+627.152.3 dividido como 627.152.1
+627.157	Sedimentação. Assoreamento. Inclusive
+Sedimentos (detritos, cascalho, areia).
+      -> 627.223.7 Ação das correntes nas embocaduras, estuários dos rios. Efeitos das correntes de maré
+627.16	Embocaduras de rios. Estuários.
+      -> Foz dos rios. Estuários. Deltas. Águas fuviomarinhas
+627.17	Águas estagnadas. Lagos etc..
+      -> 556.55 Limnologia. Lagos. Reservatórios. Represas. Açudes. Lagoas
+627.18	Margens. Praias. Rampas.
+      -> 627.222 Estado do leito do mar, rio ou lago. Condição das praias e margens
+627.2	Portos, ancoradouros: obras de
+engenharia e construção em geral.
+627.21	Portos e ancoradouros (como unidades
+completas).
+627.211	Portos e ancoradouros no mar, na
+plataforma continental. Inclusive
+Terminais de oleodutos na plataforma
+continental.
+      -> 622.242.4 Torres de perfuração na plataforma continental. Plataformas de perfuração. Navios de perfuração
+      -> 622.276.04 Extração de petróleo na plataforma continental
+      -> 627.231 Fundeadouros. Ancoradouros. Atracadouros
+627.212	Portos e ancoradouros na costa (costa
+aberta).
+627.213	Portos e ancoradouros em embocaduras,
+estuários fluviais.
+627.214	Portos em praias.
+627.215	Portos e ancoradouros em rios,
+canais e riachos.
+627.215.2	Portos em canais de rios.
+627.215.3	Portos em riachos, em bacias de rios.
+627.215.5	Portos em canais de rios.
+627.216	Portos e ancoradouros em lagos e
+reservatórios.
+627.216.2	Portos de lagos.
+627.216.4	Portos de reservatórios.
+627.22	Condições gerais para a construção e
+instalação de portos. Condições
+hidrográficas, hidrológicas, geológicas.
+Escolha do local etc..
+627.221	Tipos de água e propriedades relevantes.
+Inclusive Água salina, doce, salobra.
+627.222	Estado do leito do mar, rio ou lago.
+Condição das praias e margens.
+-> 551.435.3 Formas de relevo criadas pela ação de ondas, marés, processos litorâneos, correntes, etc. em mares e lagos
+      -> 556.537 Canal fluvial e formação das margens
+      -> 556.557 Margens dos lagos e suas alterações
+      -> 627.18 Margens. Praias. Rampas
+      -> 627.4 Proteção de margens de rios. Retificação de rios e correntes. Outros trabalhos de melhoramento de rios
+627.222.l	Leito do mar. Hidrografia submarina.
+627.222.2	Litoral ou praia longe de rios.
+627.222.21	Penhascos. Erosão da costa etc..
+      -> 551.35 Depósitos marinhos
+      -> 551.462 Topografia submarina. Características do fundo do mar.
+627.222.23	Descaimento do litoral. Submergência da costa.
+627.222.24	Cinturões da costa. Recifes. Recifes de coral.
+627.222.3	Litoral ou praia em embocaduras, estuários
+de rios.
+627.222.4	Margens de rios e correntes.
+627.222.5	Praias de lagos e reservatórios.
+627.223	Correntes e marés marinhas.
+      -> 532.596 Teoria clássica das marés
+      -> 551.466 Ondas do mar e marés
+627.223.2	Correntes de maré. Encontro de correntes.
+Macaréus. Pororocas.
+627.223.3	Correntes de rio.
+      -> 556.536 Hidrodinâmica dos rios. Hidráulica fluvial
+627.223.4	Marés. Ação das marés. Instalações portuárias
+próprias para enfrentar as marés. Inclusive
+preamar e baixamar. Maré alta e baixa.
+Amplitude e períodos das marés.
+627.223.5	Medição e observação das marés. Verificadores
+de maré. Nível médio do mar, Curvas de maré.
+627.223.6	Ondas. Inclusive volume e força das ondas.
+Arrebentação. Ondas. Avanço e recuo das
+ondas. Contracorrentes. Ondas de maré
+(ondas grandes).
+627.223.7	Ação das correntes nas embocaduras, estuários
+dos rios. Efeito das correntes de maré. Inclusive formação de bancos, barreiras. Deposição de areia.
+      -> 551.435.32 Formas costeiras criadas por acumulação
+      -> 627.157 Sedimentação. Assoreamento
+      -> 627.523 Estruturas de proteção contra o acúmulo de areia e pedregulhos. Estruturas para a estabilização da praia
+      -> 627.74 Dragagem, arrasto e abertura de comportas. Obras diversas de manutenção do canal e do porto
+627.224	Regime de gelo nos portos.
+                                 Exemplo de combinação(ões):
+                                          627.224”321/324" Fatores sazonais 
+                                          627.224"332" Meses individuais
+                                         -> 624.145 Danos causados pelo gelo flutuante (precauções, prevenção e controle)
+627.224.2	Congelamento dos portos. Acúmulo de gelo.
+627.224.3	Quebra do gelo. Derretimento do gelo.
+627.224.5	Período navegável, livre de gelo.
+627.224.7	Manutenção do uso do porto com quebra-
+gelos. Períodos em que isso é possível.
+      -> 627.73 Serviços, instalações e equipamento para quebra de gelo
+627.224.8	Meios (exceto quebra-gelos) de estender a
+navegação aos portos congelados.
+627.23	Elementos principais dos portos.
+627.231	Fundeadouros. Ancoradouros. Atracadouros.
+Exemplo(s) de combinação(ões):
+627.231.37	Fundeadouros desprotegidos
+627.231.38	Fundeadouros protegidos (seguros)
+      -> 627.211 Portos e ancoradouros no mar, na plataforma continental
+      -> 627.338 Instalações  de atracação nos ancoradouros
+627.231.3	Fundeadouros exteriores.
+627.231.6	Fundeadouros interiores.
+627.231.8                Ancoradouros.
+627.232	Entrada do porto. Embocadura do
+ancoradouro.
+627.233	Porto exterior.
+627.234	Canal ou passagem navegável.
+627.235	Quebra-mar. Diques do porto. Instalações
+externas de água profunda.
+      -> 627.52 Proteção do litoral, da costa. Proteção das praias. Defesa da costa contra os efeitos do vento e das ondas
+627.235.2	Quebra-mar. Molhes.
+627.235.4	Diques do porto.
+627.235.6                  Quebra-mar.
+627.236	Docas e portos interiores.
+      -> 627.3 Instalações portuárias internas. Docas. Desembarcadouros. Cais. Instalações e equipamento
+627.24	Execução de obras de construção marítima.
+      -> 624.157 Fundações na água. Fundações subaquáticas. Fundações profundas em geral (com ou sem lençol freático)
+      -> 626.02 Obras subaquáticas em geral
+      -> 627.02 Obras subaquáticas. Trabalho de mergulhador
+627.25	Proteção das obras de construção
+hidráulica.
+627.252	Uso de dispositivos mecânicos. Inclusive
+proteções.
+627.254	Uso de formas estruturais especiais.
+627.257	Medidas anticorrosão.
+Especificar por meio de : 620.197...
+627.26	Deterioração das obras portuárias e marítimas. Inclusive danos provocados pela erosão, pela corrosão, por 
+                             	ataque biológico (organismos marinhos)
+                            	      -> 620.193 Influências físicas e químicas. Corrosão. Resist6enci ao ataque
+627.3	Instalações portuárias internas.
+Docas. Desembarcadouros. Cais. Instalações e equipamento.
+      -> 629.5.08 Equipamento, instalações e técnicas relacionadas com o porto, o ancoradouro
+627.31	Docas e instalações de docas em geral.
+627.32	Estruturas de serviços e armazenamento
+nos portos. Construções subsidiárias.
+617.322	Bacias de eclusas (bacias de maré).
+      -> 627.745 Abertura de comportas (para manutenção do canal)
+627.325	Estruturas de armazenamento.
+      -> 621.796 Guarda. Armazenamento
+       -> 725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de 
+      serviços públicos
+627.325.2	Armazéns cobertos.
+627.325.22	Para cargas frágeis.
+627.325.24            Para cargas a granel.
+627.325.3	Galpões.
+627.325.4	Armazenamento aberto, ao ar livre.
+627.325.5	Estruturas de armazenamento para fins
+especiais. Inclusive refrigeradores. Elevadores.
+627.325.6	Estruturas de armazenamento para cargas
+líquidas. Tanques. Reservatórios.
+      -> 621.642 Vasilhames de armazenamento de fluidos
+627.327	Construções subsidiárias (de serviço).
+627.33	Estruturas de amarração e atracação.
+Desembarcadouros. Cais. Píeres.
+627.332	Píeres, molhes, estágios de atracação (com
+construção montada).
+      -> 624.166 Pilares (apoios estruturais). Pilões
+627.333	Cais, molhes de construção maciça em
+balanço (cais de concreto e alvenaria).
+627.335	Docas ou cais de atracação.
+627.335.2	Cais do tipo amurada.
+627.335.4	Cais de construção completa.
+627.335.8               Cais com fundações complexas.
+627.336	Estruturas de atracação para embarcações
+específicas. Inclusive ancoradouros de
+barcas.
+627.338	Instalações de atracação nos ancoradouros.
+Inclusive Bóias de amarração. 
+      -> 627.231 Fundeadouros. Ancoradouros. Atracadouros
+      -> 627.714 Dispositivos de ancoragem ou atracamento para marcadores flutuantes e embarcações em canais
+627.34	Equipamento de atracação e desembarque
+em cais, ancoradouros e píeres.
+Exemplo(s) de combinação(ões):
+                                        627.34.06 Características especiais. P. ex., instalações de controle de atracação.
+627.341	Equipamento de amarração e defensa.
+627.341.2	Anéis de amarração.
+627.341.4	Postes, cabeços de amarração etc..
+627.341.5	Bóias de amarração.
+627.341.6	Equipamento de defensa.
+627.341.62	Estacas ou estruturas de defensa. Absorventes
+do atrito na atracação.
+627.341.63	Paredes de defensa.
+627.341.64	Defensas.
+627.341.65	Absorventes de choque.
+627.342	Pontes ajustáveis de desembarque
+(dispositivos de embarque e desembarque)
+etc.. Inclusive escadas. Passadiços.
+Pranchas.
+627.343	Plataformas ou pontes fixas de
+desembarque.
+627.344	Rampas móveis ou ajustáveis de
+desembarque. Plataformas eleváveis, etc.
+627.35	Rodovias e ferrovias portuárias.
+Equipamento para manipulação de carga.
+Outros equipamentos subsidiários dos portos.
+      -> 625.1 Ferrovias. Carris. Linhas de cabos
+      -> 625.714 Vias ao longo de cursos de água (vias resultantes de aterros). Caminhos elevados em terrenos pantanosos. 
+      Caminhos de água
+627.351	Vias (ferroviárias ou rodoviárias) do porto.
+      Especificar por meio de : 625...
+627.352	Equipamento portuário de manipulação de carga.
+Especificar por meio de ;621.86/.87 
+Exemplo(s) de combinação(ões):
+627.352:621.869.88 Equipamento de manipulação para contêineres de carga
+627.352.2	Equipamento de manipulação de
+carga de embarque.
+627.352.3	Equipamento de manipulação de carga de
+depósito, armazenamento.
+627.352.4	Equipamento de manipulação da carga
+em porão.
+627.352.7	Equipamento de manipulação de carga móvel.
+      -> 621.873.7 Guindastes flutuantes
+627.355	Instalações portuárias para abastecer os
+navios com água, combustível, outros
+líquidos.
+627.355.2	Instalações de abastecimento de água.
+627.355.4	Instalações de abastecimento e reabastecimento
+de combustível.
+627.356	Instalações portuárias para limpeza,
+bombeamento.
+	      Especificar os dispositivos de manipulação de líquidos por meio de :621.65/.69
+627.356.2	Para limpeza das águas do porto.
+627.356.5	Para remoção de água acumulada no porão
+dos navios.
+627.356.6	Para lavagem e limpeza dos navios.
+627.357	Equipamento e instalações portuárias
+contra incêndios. Inclusive Acesso e área de
+estacionamento para veículos de combate
+a incêndios.
+      -> 614.846.9 Embarcações de combate a incêndios. Barcos de bombeiros
+      -> 629.561.4 Navios de combate a incêndios
+627.358	Pisos, pavimentação da área portuária.
+Especificar por meio de : 625.8...
+627.36	Instalações para construção e reparos de
+navios nos portos.
+      -> 629.5.081 Estaleiros e fabricas de construção de navios: equipamento e técnicas de produção
+627.37	Recursos para fechamento temporário
+desportos.
+627.371	Uso de correntes, a m arras.
+      -> 672.6 Correntes. Âncoras
+627.372	Barreiras móveis. Balizas.
+627.4	Proteção de margens de rios.
+Retificação de rios e correntes. Outros trabalhos de melhoramento de rios.
+      -> 624.157 Fundações na água. Fundações subaquáticas. Fundações em geral (com ou sem lençol freático)
+      -> 627.222 State of sea, river or lake bed. Condition of shores and banks
+627.41	Terraços fluviais. Depósitos aluviais.
+Estabilização de margens íngremes.
+627.411	Arborização das margens (com cobertura de
+solo). Cobertura com grama, capim.
+627.414	Arborização das margens. Plantação de
+árvores e arbustos.
+627.415	Fixação das margens com feixes de
+ramos o u pau s.
+-> 624.137.4 Escoramento. Amarração. Estacas de solo. Paredes de poço. Emparedamento de metal, madeira, alvenaria. Trabalho de faxina. Aterro de pedra. Assentamento. Pavimentação
+627.417	Revestimento com pavimento de
+pedra, cascalho, concreto, superfície
+de asfalto etc..
+627.418	Estabilização de margens íngremes ou
+verticais. Inclusive estacagem. Escoramento
+com tábuas. Muros de contenção. Muros de
+aterro.
+627.42	Trabalhos de correção. Melhoramento dos
+rios pela modificação do leito ou canal.
+627.421	Estreitamento e confina mento do curso de
+água. Inclusive molhes fluviais.
+Contrafortes- Vigas de terra. Paredes de
+estreitamento. Diques secundários (de
+faxinas submersas). Colchões fluviais.
+      -> 624.136 Diques. Barragens. Barragens de proteção. Taludes. Ensecadeiras. Diques provisórios
+      -> 627.514 Diques, aterros longitudinais. Levées
+627.422	Correção do curso. Trabalhos de corte e
+escavação.
+      -> 624.134 Abertura de canais, trincheiras, valas
+      -> 627.47 Desvio de cursos de água
+627.423	Limpeza do canal, remoç&o de obstáculos.
+Dragagem.
+      -> 627.513 Obras preventivas
+      -> 627.74 Dragagem, arrasto e abertura de comportas. Obras diversas de manutenção do canal e do porto
+627.424	Fechamento de tributários, afluentes,
+canal anterior.
+627.425	Sistemas mistos de molhes e diques baixos.
+627.43	Melhoramento dos rios por obras de
+represamento. Barragens. Represas
+com comportas.
+Exemplo(s) de combinação(ões):
+627.43:626.882 Barragens com passagens para peixes
+      -> 351.793 Administração da água para geração de força hidráulica. Barragens. Represas. Diques
+      -> 627.82 Barragens
+627.431	Barragens fixas.
+627.432	Barragens móveis.
+627.432.3	Barragens de barras ou vigas. Inclusive
+barragens de tronco. Barragens de agulha, de
+batoque, de poste. Barragens cegas.
+627.432.4	Barragens de tambores e obturadores.
+627.432.5	Barragens de comporta. Barragens de ponte.
+627.432.6	Barragens cilíndricas. Inclusive barragens de
+segmento. Barragens de setor. Barragens de porta rolante.
+627.432.7	Vertedouros de sifão.
+627.44	Estreitos. Saídas das com portas.
+627.45	Eclusas, comportas nos rios.
+      -> Eclusas
+627.47	Desvio de cursos de água.
+      -> 627.422 Correção do curso. Trabalhos de corte e escavação
+627.5	Outros trabalhos de proteção e
+melhoramento das hidrovias. Diques. Proteção da costa. Drenagem e recuperação das margens.
+Exemplo(s) de combinação(ões):
+627.5:624.145 Proteção das costas contra danos causados por gelo flutuante
+627.51	Medidas de proteção contra enchentes.
+      -> 351.792 Irrigação. Drenagem. Represamento. Construção de diques
+627.511	Causas das enchentes. Regime de chuvas e
+cursos de água. Natureza do terreno.
+627.512	Enchentes, inundações em cursos de água.
+Predição de enchentes.
+627.513	Obras preventivas. Inclusive limpeza do
+canal. Dragagem.
+      -> 627.423 Limpeza do canal, remoção de obstáculos. Dragagem
+      -> 627.74 Dragagem, arrasto e abertura de comportas. Obras diversas de manutenção do canal e do porto
+627.514	Diques, aterros longitudinais. Levées.
+Inclusive plano, disposição. Projeto.
+Construção.
+      -> 624.136 Diques. Barragens. Barragens de proteção. Taludes. Ensecadeiras. Diques provisórios
+627.514.2	Diques fluviais. Inclusive diques fluviais
+de verão e inverno. Diques laterais.
+Diques de espigão.
+627.514.3	Diques marítimos. Inclusive diques marítimos
+de verão e inverno. Diques em anel.
+Diques aglomerados.
+627.514.6	Obras de construção de diques.
+627.514.61	Rampas de dique.
+627.514.62	Passagens. Aberturas de diques.
+Pendas em diques.
+627.514.63	Comportas de diques. Escoadouros
+de diques. Vertedouros.
+627.515	Manutenção e proteção de diques.
+Reforço de diques.
+627.516	Controle de inundações. Serviços
+de informações sobre inundações.
+Avisos, alarmes contra inundações.
+Abertura de comportas.
+627.517	Quebras, rompimentos de diques. Reparo e
+reconstrução de diques.
+      -> 351.793.18 Administração da água para geração de forca hidráulica. Barragens. Represas. Diques
+627.52	Proteção do litoral, da costa. Proteção das
+praias. Defesa da costa contra os efeitos
+do vento e das ondas.
+      -> 627.222 Estado do leito do mar, rio ou lago. Condição das praias e margens
+      -> 627.235 Quebra-mar. Diques do porto. Instalações externas de água profunda
+627.521	Alterações naturais das praias. Inclusive
+erosão. Solapamento. Derivação.
+Deposição.
+627.522	Estruturas de proteção contra os efeitos das
+ondas. Revestimento. Inclusive faxina.
+Calçamento.
+      -> 624.137.4/.5
+627.523		Estruturas de proteção contra o acúmulo de areia e pedregulhos. Estruturas para a
+                                  estabilização da praia.
+      -> 627.223.7 Ação das correntes nas embocaduras, estuários dos rios. Efeito das correntes de maré
+      -> 627.746 Limpeza da costa. Limpeza do fundo
+627.523.l		Deflexão, desvio das correntes litorâneas.
+627.523.2	Quebra-mares costeiros. Molhes de praia.
+      -> 627.235 Quebra-mar. Diques do porto. Instalações externas de água profunda
+      -> 627.421 Estreitamento e confinamento do curso de água
+627.523.3	Remoção periódica de seíxos rolados, etc.
+627.524	Estrutura de proteção contra os efeitos do
+vento. Construção de dunas.
+      -> 551.311.3 Efeitos eólicos. Ação do vento
+627.524.l		Efeitos da formação de dunas. Dunas
+migratórias. Controle artificial do depósito de
+areia. Cercas de retenção de areia.
+627.524.2	Proteção das dunas. Cultivo nas dunas.
+Inclusive coberturas horizontais
+e verticais. Plantio.
+627.53	Terras baixas sujeitas a inundação
+e sua proteção.
+627.532	Drenagem. Secagem completa.
+      -> 626.86 Remoção de  água. Drenagem
+627.533	Recuperação da terra. Acumulação de
+sedimentos. Pôlderes.
+      -> 626.87 Recuperação de terrenos baldios, terras estéreis
+      -> 627.514 Diques, aterros longitudinais. Levées
+627.533.l	Acumulação de sedimentos. Deposição de solo.
+627.533.13	Recuperação de terra com sedimentos fluviais.
+627.533.14	Recuperação de terras (depósito de sedimento)
+na praia. Formação de pântano.
+627.533.2	Pôlderes (terras recuperadas) em geral.
+Inclusive pôlderes de alto risco.
+627.533.3	Pôlderes de rio.
+627.533.4	Pôlderes marítimos.
+627.533.5	Pôlderes profundos. Outros tipos de pôlderes.
+627.533.6	Canais dentro dos pôlderes. Canais de
+drenagem nos pôlderes.
+      -> 626.861 Drenagem por canais abertos
+627.533.7	Canais fora dos pôlderes. Canais circundantes.
+627.534	Estações de bombeamento. Maquinaria
+para elevação de água. Operações de
+bombeamento.
+627.536	Despolderização. Conversão ou reversão de
+pôlderes para terras sem proteção.
+627.7	Instalações para navegação.
+Manutenção do canal. Instalações
+para salvamento
+e socorro naval.
+Subdivisões auxilia rés especiais
+627.7.06	Características especiais: iluminação etc..
+627.7.062	Iluminadas. Com luzes.
+627.7.063	Não-iluminadas. Sem luzes.
+Divisões principais
+627.71	Instalações de navegação. Equipamento e
+materiais de apoio para navegação. Marcação das áreas para navegação.
+      -> 654.9 Sinalização. Serviços diversos de telecomunicação. Controle remoto (telecontrole)
+      -> 656.05 Tráfego. Transporte. Sinais de trafego
+627.711	Localização e organização geral das
+instalações e equipamentos.
+627.712	Marcadores, indicadores e guias fixos.
+Faróis (fixos) de rádio e radar. Radiofaróis.
+627.712.2	Marcadores da largura e profundidade do canal.
+Estacas etc..
+627.712.3	Marcadores do estado do canal de navegação,
+da direção e da distância.
+627.712.33	Sinais de desvio do canal.
+627.712.35	Sinais, indicadores de direção.
+627.712.36	Sinais de identificação. Marcos, balizas.
+627.712.38	Marcos de distância.
+627.712.4	Marcos e sinais de advertência.
+627.712.42                  Aviso de obstrução (superficial ou
+subaquática).
+627.712.44	Dispositivos sonoros de sinalização.
+Dispositivos acústicos de advertência.
+627.712.6	Faróis (fixos) de rádio, radar.
+627.712.62	Radiofaróis.
+      -> 621.396.93 Radiocomunicação com veículos terrestres, embarcações, aeronaves
+627.712.63	Faróis de resposta automática. Faróis de radar.
+      -> 621.396.963.8 Sistemas de resposta automática
+627.712.7	Marcadores, guias de alinhamento, de visão.
+627.712.8	Cabos-guias elétricos.
+627.713	Marcadores, indicadores e guias flutuantes.
+Bóias.
+627.713 dividido como 627.712
+      -> 629.516 Bóias
+627.713.2	Bóias de marcação.
+627.713.42	Bóias de aviso de obstrução.
+627.713.44	Bóias sonoras. Bóias-sino.
+      -> 627.722.4 Sinais (sonoros) de neblina ou má visibilidade
+627.713.6	Bóias de rádio, de radar.
+627.714	Dispositivos de ancoragem ou atracamento
+para marcadores flutuantes e embarcações
+em canais. Inclusive Atracamentos de bóias.
+Âncoras especiais.
+      -> 627.338 Instalações de atração nos ancoradouros.
+627.715	Faróis e navios-farol (posicionamento,
+equipamento etc.).
+Exemplo (s) de combinação(ões:
+      627.715(210) No continente (promontório. costa)
+627.715(26) No mar. No mar aberto 
+627.715(28) Em águas interiores (rios, canais, lagos) 
+       627.715.032 Estruturas fixas. Faróis 
+       627.715.034 Estruturas flutuantes.Navios-farol
+      -> 725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração publica. Edifícios de empresas de
+      serviços públicos
+627.715.2	Posicionamento. Sistemas de balizamento.
+627.715.22	Sistema lateral.
+627.715.23	Sistema cardeal.
+627.715.24	Sistema axial.
+627.715.3	Intensidade da luz, visibilidade, corda luz.
+627.715.31	Visibilidade.
+627.715.32	Cor.
+627.715.4	Difusão ou alcance da luz. Inclusive volta
+completa. Luz setorial. Feixe de luz. Luz
+giratória.
+627.715.5	Duração do sinal. Inclusive sinal contínuo.
+Sinal intermitente (clarão). Sinal que aumenta e diminui.
+627.715.8	Lanterna. Câmara do farol. Equipamento
+óptico e mecânico.
+      -> 628.9 Iluminação. Engenharia da iluminação
+627.715.82	Equipamento óptico especial para
+intensificação da luz.
+627.715.85	Equipamento mecânico. Inclusive rotores.
+627.715.88	Equipamento de ignição e extinção.
+Exemplo (s) de combinação(ões:
+627.715.88-519 Dispositivos de controle remoto
+627.715.88-523 Dispositivos elétricos automáticos
+627.717	Pilotagem. Estações e equipamento do piloto. Técnicas e regulamentos de manobra.
+      -> 656.071.7 Pilotagem
+627.717.2	Estações e equipamento do piloto.
+      -> 629.561.7 Embarcações-piloto. Embarcações de serviços administrativos do porto
+627.717.3	Pilotagem em canal. Inclusive entrada e saída
+do porto. Pilotagem em rio ou canal.
+627.717.5	Técnicas e regulamentos de manobra.
+627.718	Instalações de reboque em canais navegáveis.
+      -> 626.75 Reboque por rebocadores
+      -> 627.768 Reboque, desencalhe de embarcações (relativamente pouco danificadas) em terra
+      -> 629.561.1 Rebocadores
+      -> 656.076.7 Serviços auxiliares de assistência a veículos (exceto de emergência)
+627.72	Sinalização náutica. Sinais
+meteorológicos. Comunicação do litoral.
+      -> 654.9 Sinalização. Serviços diversos de telecomunicação. Controle remoto (telecontrole)
+      -> 656.05 Traffic. Driving. Traffic signs and signals
+627.721	Sinais indicadores de marés, níveis da água.
+627.722	Sinais para emergências, má visibilidade,
+mau tempo. Sinais de neblina, tempestade
+e ventos. Inclusive Foguetes, canhões
+sinalizadores etc. Sinais audíveis (gongos,
+sinos, sirenas, cometas, cometas de
+neblina). Sinais de rádio.
+627.722.2	Sinais de emergência. Inclusive foguetes. Canhões.
+627.722.4	Sinais (sonoros) de neblina ou má visibilidade.
+      -> 627.713.44 Bóias sonoras. Bóias-sino
+627.722.6	Sinais de rádio (para neblina, tempestades).
+627.722.8	Sinais sonoros subaquáticos.
+-> 681.883 Métodos e equipamento de sonar. Localização de objetos subaquáticos. Sondagem e localização por meio do eco
+627.723	Sinais, boletins e previsões meteorológicas para navegação.
+      -> 551.50 Meteorologia prática
+627.724	Sinais por bandeiras.
+      -> 654.912 Métodos de produção de efeitos ópticos
+627.724.2	Bandeiras sinalizadoras (içáveis).
+627.724.5	Bandeiras de popa. Flâmulas
+(para identificação).
+627.725	Equipamento de comunicação da costa.
+627.725.2	Semáforos.
+627.725.3	Heliógrafos.
+627.725.5	Sinalização luminosa (lâmpada), mastros de
+sinalização etc..
+627.725.6	Telégrafos da costa.
+627.725.7	Luzes de controle do tráfego. Inclusive para
+eclusas, barcas.
+627.726	Comunicação e sinalização de longa
+distância entra a costa e os navios. 
+      -> 621.396.6 Aparelhos e circuitos de radiocomunicação
+      -> 621.396.96 Radar (radiolocalização)
+627.727	Sinais de perigo. Pedidos de socorro. Foguetes de pedido de socorro. Outras
+instalações para SOS a bordo.
+627.728	Controle remoto (telecontrole) de navios.
+      -> 621.398 Telecontrole (controle remoto). Telemedição. Indicação remota
+      -> 654.93 Transmissão remota de comandos, mensagens, sinais. Indicação remota
+627.73	Serviço, instalações e equipamento para quebra de gelo.
+      -> 627.224.7 Manutenção do uso do porto com quebra-gelos. Períodos em que isso é possível
+      -> 629.561.5 Navios quebra-gelo
+627.74	Dragagem, arrasto e abertura de
+comportas. Obras diversas de manutenção
+do canal e do porto.
+Exemplo(s) de combinação(ões):
+627.74.082 Em portos, hidrovias de maré 
+627.74.084 Em portos, hidrovias que não sejam de maré
+      -> 627.423 Limpeza do canal, remoção de obstáculos. Dragagem
+      -> 627.513 Obras preventivas
+627.741	Dragagem de leitos rochosos.
+627.742	Dragagem de leitos duros, resistentes.
+627.743	Dragagem de leitos arenosos.
+627.744	Dragagem de leitos lamacentos, lodosos.
+627.745	Abertura de comportas (para manutenção
+do canal).
+      -> 627.322 Bacias de eclusas (bacias de maré)
+627.746	Limpeza da costa. Limpeza do fundo.
+      -> 626.143 Limpeza
+       -> 627.356 Instalações portuárias para limpeza, bombeamento
+       -> 627.523 Estruturas de proteção contra o acúmulo de areia e pedregulhos. Estruturas para a estabilização da praia
+627.747	Remoção de rochas. Inclusive explosão.
+      -> 622.235 Explosão. Explosivos
+627.748	Equipamento flutuante para manutenção do canal e do porto. Inclusive embarcações
+de dragagem. Embarcações de retirada de lama.
+      -> 621.879 Maquinaria de escavação. Maquinaria de dragagem
+627.76	Salvamento marítimo. Salvamento, desencalhe de navios.
+Exemplo (s) de combinação(ões:
+627.76.02 Trabalho subaquático, por mergulhadores
+627.76.082 Em águas de maré
+627.76.084 Em águas que não são de maré
+       -> 629.566 Embarcações de salvamento e recuperação marítima
+627.763	Equipamento de busca e marcação, âncoras
+etc. para embarcações afundadas.
+      -> 627.713.42 Bóias de aviso de obstrução
+627.764	Salvamento in loco das cargas e propriedades em casos de naufrágio total.
+627.765	Reparo e salvamento de embarcações danificadas e afundadas (mas que ainda
+têm condições de volta r a flutuar).
+      -> 627.36 Instalações para construção e reparos de navios nos portos
+      -> 629.5.083.5 Reparo de navios
+627.767	Endireitamento, desencalhe de embarcações soçobradas. 
+627.768	Reboque, desencalhe de embarcações (relativamente pouco danificadas) em terra.
+Exemplo(s) de combinação(ões):
+      627.768.082 Durante a maré. Com auxílio da maré
+      627.768.084 Sem auxílio da maré
+      -> 627.718 Instalações de reboque em canais navegáveis
+627.77	Salvamento marítimo, salva-vidas.
+Segurança e sobrevivência dos marinheiros.
+      -> 614.81 Riscos decorrentes da água
+      -> 627.727 Sinais de perigo. Pedidos de socorro. Foguetes de pedido de socorro. Outras instalações para SOS a bordo
+      -> 629.5.067 Sistemas de segurança e proteção do navio
+627.772	Serviço, instalações, estações e equipamento de botes salva-vidas (sediados em terra).
+      -> 629.527 Barcos salva-vidas
+627.773	Aparelhos, estações e equipamento de foguetes.
+627.775	Instalações de salvamento marítimo por ar, aéreo. Inclusive uso de helicópteros.
+627.777	Dispositivos de salvamento a bordo ou em terra. Equipamento salva-vidas. Salva-vidas
+em geral.
+      -> 614.818 Equipamentos de salvamento
+      -> 626.823.93 Dispositivos de segurança ) para salvamento de afogamento). Equipamento salva-vidas
+627.777.l	Dispositivos de escape no casco. Inclusive câmaras de compressão.
+627.777.2	Botes salva-vidas (a bordo).
+627.777.3	Bolas salva-vidas. Outros equipamentos
+de flutuação.
+627.777.4	Cintos salva-vidas. Coletes salva-vidas.
+627.778	Sistemas de escape subaquático. Inclusive
+câmaras de compressão, escotilhas de
+emergência em submarinos.
+627.8	Represas. Obras em usinas de
+energia hidráulica.
+Exemplo(s) de combinação(ões):
+       627.8:624.1 Subestruturas, obras de terra, terraplanagem, fundações etc. para represas
+      -> 351.793 Administração da água para geração de força hidráulica. Barragens. Represas. Diques
+      -> 621.311.21 Usinas hidrelétricas
+      -> 627.51 Medidas de proteção contra enchentes
+      -> 628.1 Abastecimento de água. Tratamento da água. Consumo de água
+Subdivisões auxiliares especiais
+627.8.01	Represas etc. segundo o material e método de construção.
+      627.8.01 dividido como 624.01
+627.8.03	Represas etc. em condições especificas.
+Localização e forma das represas.
+627.8.034	Água em relação às represas etc..
+627.8.034.43            Nível de água nas represas.
+627.8.034.6	Propriedades e composição da água em relação
+às estruturas na água.
+627.8.034.7	Detritos. Material transportado. Precipitação.
+Depósitos. Sedimento.
+627.8.034.8	Limpeza das partes da estrutura afetadas.
+627.8.034.9	Proteção contra os efeitos da água e do ar.
+Inclusive Revestimentos, forros, faces etc. para
+represas. Impermeabilização, drenagem das
+represas etc..
+627.8.03.5.4	Estruturas subterrâneas para represas etc..
+627.8.036	Represas etc. segundo o projeto, a planta
+baixa, a forma.
+627.8.036.1	Retas.
+627.8.036.2	Oblíquas. Inclinadas.
+627.8.036.3	Curvas.
+627.8.04	Projeto estrutural. Estática gráfica. Estática analítica.
+        627.8.04 dividido como 624.04
+627.8.05	Organização do local para construção da
+represa: métodos e equipamento.
+      -> 624.13 Geotécnica. Mecânica do solo. Obras de terra. Engenharia do solo congelado
+      -> 627.02 Obras subaquáticas. Trabalho de mergulhador
+      -> 693 Alvenaria. Ofício de pedreiro e ofícios correlatos
+      -> 694 Construções de madeira. Carpintaria. Marcenaria
+627.8.06	Partes ou áreas estruturais específicas das
+represas e reservatórios.
+627.8.064.2	Face voltada para jusante.
+627.8.064.3	Face voltada para montante.
+627.8.064.4	Fundo, leito do reservatório.
+627.8.065	Paredes centrais.
+627.8.066	Coroa da represa. Bordo livre.
+627.8.068	Galerias de inspeção nas represas etc..
+      -> 624.19 Túneis. Escavação de túneis. Galerias. Construção de galerias
+627.8.07	Elementos estruturais das represas.
+      -> 627.85 Casas de força
+627.8.09	Utilização das represas para energia hidráulica.
+Exemplo(s) de combinação(ões):
+                                         627.8.09:621.311.214 Para usinas de energia hidroelétrica alimentadas por bombas Divisões principais
+      -> 627.85 Casas de força
+Divisões principais
+627.81	Reservatórios. Lagos de armazenagem.
+      -> 556.155 Armazenamento em lagos. Armazenamento em reservatórios
+      -> 556.55 Limnologia. Lagos. Reservatórios. Represas. Açudes. lagoas
+      -> 624.953 Estruturas de armazenamento para líquidos.
+627.815	Capacidade de armazenamento.
+627.816	Reservatórios de equalização.
+627.82	Represas. Barragens.
+Classificar aqui a informação sobre represas para aumentar o nível de água: para o represamento como melhoramento do rio, ver 627.43
+-> 627.132 Represamento das hidrovias. Saltos, eclusas, quedas. Leis da queda de água. Movimento de corpos sólidos na água
+      -> 627.51 Medidas de proteção contra enchentes
+627.824	Represas de terra. Represas de
+enrocamento. Represas de gravidade.
+627.824.2	Represas de terra sem núcleo (inclusive
+represas de terra com reforço de superfície).
+627.824.3	Represas de terra com núcleo. Represas
+de enrocamento.
+627.824.7	Represas de gravidade.
+627.825	Represas de arco.
+627.826/.828            Represas com suporte, apoio, distribuído.
+627.826	Represas de arcos múltiplos.
+627.827	Represas de domos múltiplos.
+627.828	Represas celulares. Represas de
+contraforte. Represas de construção
+especial.
+627.83	Instalações de operação de represas.
+Estruturas de arrasto e transbordamento.
+Vertedouros.
+627.831	Vertedouros de transbordamento.
+Sangradouros.
+627.832	Condutos de descarga do fundo. Saídas
+do nível baixo.
+627.833	Saídas de água. Inclusive Comportas.
+Eclusas.
+627.834	Vertedouros de poço. Vertedouros de
+ipoméias.
+627.835	Vertedouros em sifão. Vertedouros com
+portinholas móveis.
+627.838	Dissipadores de energia. Poços de remanso.
+627.84	Estruturas e condutos de admissão.
+ 
+Inclusive canais de admissão. Canais adutoras. Adutores. Tubulações de pressão. Adufas. Dispositivos de fechamento.
+627.841	Canais de admissão. Canais adutores.
+627.842	Túneis. Túneis de pressão.
+627.844	Tubulações de pressão. Adufas.
+627.845	Dispositivos de fechamento.
+627.846	Colunas de oscilação hidráulica, tanques de
+compensação.
+627.85	Casas de força.
+      -> 621.311.21 Usinas hidrelétricas
+      -> 627.8.09 Utilização das represas para energia hidráulica
+627.86	Canais de adução traseira. Canais de
+saída ou descarga.
+627.88	Estruturas subsidiárias. Inclusive grades.
+Caimentos. Alçapões de areia.
+Exemplo(s) de combinação(ães):
+627.88:626.882 Passagens para peixes
+
+628 Engenharia de saúde pública. Engenharia sanitária. Água. Saneamento. Engenharia de iluminação
+Especificar maquinaria, equipamento e processos por -1/-9 (de 62-1/-8 e 66-9)
+      -> 351.77 Fiscalização da saúde e higiene públicas. Fiscalização sanitária
+      -> 502 O meio ambiente e sua proteção
+	      -> 614.1/.7
+628.1	Abastecimento de água.
+Tratamento da água. Consumo de água.
+Exemplo(s) de combinação(ões): 
+      628.1(1-2) Sistemas locais 628. l (l -21) Sistemas urbanos 
+      62 8.l(l-22} Sistemas rurais 62 8.1( 1-28) Sistemas intercomunais 
+      628.1(1-3) Sistemas regionais
+      -> 556.18 Administração dos recursos hídricos. Hidrologia aplicada. Controle humano das condições hidrológicas
+      -> 614.777 água. Higiene da Água
+      -> 626.8 Hidráulica agrícola. Engenharia de irrigação, drenagem e recuperação de terras
+      -> 627.8 Represas. Obras em usinas de energia hidráulica
+      -> 628.3 Esgotos. Tratamento, eliminação, utilização de água de esgoto
+      -> 631.67 Irrigação
+      -> 644.6 Abastecimento de água e instalações sanitárias domésticas
+      -> 663.6 Água para bebidas e outros usos industriais. Águas minerais. Águas medicinais. Gelo para consumo humano
+      -> 696.1 Ofício de instalador de canos, de encanador. Outros ofícios de trabalho em metal
+      -> 725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de 
+      serviços públicos
+Subdivisões auxiliares especiais
+628.1.03	Tipos de água.
+Usar para classificar os sistemas segundo o tipo de água fornecida 
+Indicar as propriedades físicas, químicas e biológicas por :53..., :54...,: 57/59
+628.l.032	Água natural. Água natural.
+628.l.033	Abastecimento público de água em geral. Água
+potável. Abastecimento domiciliar de água potável.
+628.l.034	Água não-potável.
+628.l.034.2	Para a indústria. Abasteci mento de água
+industrial.
+628.l.034.3	Para a agricultura. Abastecimento de água para
+fins agrícolas.
+628.1.034.4	Para necessidades de serviço público.
+Exemplo(s) de combinação(ões):
+628.1.034.4:614.84 Para combate a incêndios 
+628.1.034.4:625.768.7 Para lavagem de ruas
+628.1.034.4:712.5 Para fontes e outras instalações de água
+628.1.036	Água de fonte e água do lençol freático com propriedades especiais.
+      -> 553.7 Fontes minerais
+      -> 556.3 Hidrologia das águas subterrâneas. Geoidrologia. Hidrogeologia
+      -> 613.38 Água mineral natural e artificial
+      -> 615.327 Agua mineral
+      -> 615.838 Hidroterapia. Balneoterapia. Tratamento pela água. Banhos de água. Curas por águas para beber. Estações
+      de águas terapêuticas
+628.1.036.4	Águas minerais naturais.
+628.1.036.5	Águas medicinais naturais.
+628.1.037	Água de chuva.
+628.1.038	Água de qualidade melhorada, de maior pureza.
+Água destilada.
+628.1’1	Características especiais dos sistemas de 
+abastecimento de água, p. ex., dos condutos de água e das redes de tubulação de água.
+628.1’11	Segundo o modo de adução de água.
+628.1’112	Adução forcada.
+628.1’113	Adução por gravidade.
+628.1’12	Por regime hidráulico.
+628.1’122	Pressão.
+628.1’123	Sem pressão.
+628.1’13	Por formato.
+628.1’132	Ramificado (sem saída).
+628.1’133	Anular (fechada).
+628.1’14	Por zona. Sistemas zonais de abastecimento de
+água.
+628.1’15	Sistemas de fluxo único. Sistemas de passo
+único.
+628.1’16	Sistemas repetidos de utilização da água.
+628.1’17	Sistemas de retorno.
+628.l’18	Por função do reservatório.
+Usado principalmente em 628.13
+628.l’181	Regulagem.
+628.l’182	De reserva (para armazenagem).
+628.1’183	Regulagem de reserva
+Divisões principais
+628.11	Mananciais de abastecimento de água.
+Instalações para tomada, captação, coleta
+de água.
+      -> 556 Hidrosfera. Água em geral. Hidrologia
+628.112	Água do lençol freático. Água de fonte.
+Poços.
+628.112.l	Tomada de baixa pressão. Tomada horizontal.
+Poços rasos.
+628.112.2	Tomada de alta pressão e pressão relativamente
+alta. Tomada vertical. Poços profundos.
+628.112.22	Poços comuns.
+628.112.23	Poços artesianos.
+      -> 556.364 Fontes artesianas
+628.112.24	Poços tubulares (de sondagem). Furos de
+sondagem.
+628.112.3	Tomada de água em rios subterrâneos.
+Tomada de infiltração. Infiltração no solo.
+Tomadas em raio.Tomada de água de fonte. Inclusive instalações
+de tomada de água: reservatórios de pedra,
+câmaras de recepção de água.
+628.112.4	Tomada de água de fonte. Inclusive instalações de tomada de água: reservatórios de pedra, câmaras de recepção de água.
+628.112.5	Extração de água de dunas
+628.113	Água de mananciais de superfície. Inclusive
+tomada em mananciais superficiais. Instalações para tomada de água. Tipos de tomada de água. 
+Exemplo(s) de combinação(ões): 
+628.113(26) Em mares e oceanos.
+Dispositivos de recepção da água do mar 
+628.113(282) Em rios. Tomadas em rios em geral 
+628.113(285.2) Em lagos, em reservatórios
+628.113.3	Tomadas do tipo costeiro.
+628.113.4	Tomadas do tipo leito de rio.
+628.113.6	Instalações para tomada flutuante e portátil.
+628.113.7	Tomadas por baldes, noras.
+628.116	Obtenção de água da atmosfera.
+628.116.2	Coleta de águas pluviais.
+628.116.3	Neve e gelo derretidos.
+628.12	Elevação de água. Estações e instalações de
+bombeamento para distribuição de água.
+Estações elevatórias.
+Indicar os tipos de bomba por meio de :621.65/. 69
+628.13	Armazenamento de água. Reservatórios
+de água.
+Os auxiliares '18 em 628.l '18... são aplicáveis principalmente aqui
+      -> 624.953 Estruturas de armazenamento para líquidos
+628.132	Reservatórios em geral. Reservatórios sem
+pressão. Reservatórios de água pura.
+628.134	Torres de água. Castelos de água. Caixas
+d'água. Reservatórios de água sob pressão.
+Colunas de água sob pressão.
+628.135	Instalações de água com pressão
+pneumática.
+628.14	Transporte da água do ponto de tomada até
+a rede de distribuição. Adução.
+Canalizações de água e redes de
+abastecimento de água.
+628.143	Canalizações de água. Adutoras. Tubulações
+de abastecimento de água. Aquedutos.
+Juntas e encaixes da tubulação.
+Especificar por meio de -.621.643...
+628.144	Redes de abastecimento de água para
+distribuição aos consumidores. Tubulação da
+rede de abastecimento de água.
+Os auxiliares de apóstrofo de 628.1, especialmente 'l3 e 'l 4, são aplicáveis
+principalmente aqui 
+Exemplo(s) de combinação(ões):
+628.144'132 Redes com ramais
+628.144' 14 Redes zonais
+628.144.2	Redes externas de abastecimento de água, p. ex.,
+na rua, nos quintais.
+628.144.22	Redes principais de abastecimento de água.
+Tubulações principais.
+628.144.23	Redes de distribuição (abastecimento de água
+para os ramais individuais das casas).
+628.144.3	Redes internas de abastecimento de água.
+628.145	Cruzamentos e interconexões das
+canalizações de água. Inclusive Aquedutos,
+cruzamentos de ponte e de nível. Sifões.
+Túneis. Galerias de escoamento.
+      -> 628.26 Cruzamento de cursos de água. Sifões. Canos vergados
+628.145.2/.5 dividido como 626.823.82/. 85
+628.145.8	Interconexões (das tubulações de água).
+628.146	Instalações das redes.
+Especificar por meio de :621.646....,  exceto 621.646.9-
+628.147	Construção e manutenção dos sistemas de
+canalização de água.
+628.147.1	Construção.
+Especificar por meio de :62I 644...
+628.147.2	Manutenção técnica. Manutenção preventiva.
+Eliminação de defeitos e restauração da
+capacidade das instalações e de seus
+equipamentos.
+628.147.22	Proteção contra corrosão e ferrugem.
+Especificar por meio de :620.193/J9~
+628.147.23	Tratamento de depósitos. Limpeza, lavagem e
+desinfecção das instalações separadas e das
+redes de canalização.
+628.147.24	Descongelamento de canalizações e tubos
+congelados.
+628.147.25	Rupturas e estragos: detecção e reparo.
+      -> 628.179.3 Perdas de água. Controle do desperdício de água
+628.16	Tratamento de água: processos,
+instalações e equipamento. Instalações de purificação de água em geral.
+	      Indicar os reagentes utilizados, segundo sua composição química por  meio de –926/-927, de 66
+      -> 502.51 Meio ambiente hidrosférico
+      -> 543.3 Amostragem e análise da água
+      -> 614.777 Água. Higiene da água
+      -> 725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de 
+      serviços públicos
+Subdivisões auxiliares especiais
+628.16.0	Processos específicos de tratamento e
+respectivo equipamento.
+628.16.04/.09 dividido como 66.04/.09
+628.16.04	Operações de tratamento térmico.
+628.16.046	Processos e usinas térmicas.
+628.16.048	Destilação.
+628.16.06	Métodos mecânicos de purificação e seu equipamento. 
+628.16.065.2	Precipitação com reagentes. Coagulação.
+Exemplo(s) de combinação(ões):
+628.16.065.2-926 Precipitação com coagulantes inorgânicos 
+                                       628.16.065.2-926.62'226 Com sulfato de alumínio
+628.16.067.1	Filtração.
+628.16.08	Métodos físicos e físico-químicos e respectivo equipamento.
+628.16.084	Processos de vibração.
+628.16.087	Processos eletroquímicos.
+628.16.094		Processos de redução oxidativa. Regulagem do pH, etc.
+628.16.094.3	Oxidação.
+Exemplo(s) de combinação(ões): 
+628.16.094.3 -926.214 Ozonização
+628.16.098.4	Processos anaeróbicos.
+628.16.099.72             Descoloração.
+Divisões principais
+628.161	Purificação da água natural em geral.
+628.161.1	Requisitos relativos à qualidade e às propriedades da água.
+628.161.2	Purificação da água pela remoção de substâncias específicas.
+Especificar por :546... e :54 7... 
+Exemplo(s) de Combinação(ões):
+628.161.2:546.21 Remoção de oxigênio 
+628.161.2:546.72 Remoção de ferro
+      -> 628.165 Dessalinização e destilação da água
+628.161.3	Purificação da água com reagentes específicos.
+Usar para indicar os pontos genéricos sobre o uso de reagentes na purificação da água
+Classificar na operação ou método o emprego de reagentes em operações ou métodos específicos de purificação 
+Exemplo(s) de combinação(ões):
+628.16.065.2-926.62'226 Coagulação com sulfato de alumínio
+628.164-926.3 3'264 Abrandamento com carbonato de sódio
+628.164	Abrandamento da água. Redução da dureza. Prevenção de depósitos carbonatados.
+Exemplo(s) de combinação(ões):
+628.164-92 Método de reagente para abrandamento da água 
+628.164-926.33 '264 Tratamento com carbonato de sódio calcinado. Eliminação da dureza de não-carbonatos 
+628.164-926.41 Tratamento por oxido de cálcio hidratado. Método de carbonato de sodio-óxido de cálcio. Eliminação da
+dureza de carbonato 
+      62 8.164.046 Métodos térmicos de eliminação da dureza 
+      628.164.081.312.32 Método catiônico
+628.165	Dessalinização e destilação da água.
+      -> 628.161.2 Purificação da água pela Moção de substâncias específicas
+      Indicar os reagentes por meio -92...,  e os método, s por meio de .0... 
+Exemplo(s) de combinação(ões):
+      628.165.048 Destilação 
+      628.165.081.312.32 Método catiônico
+628.166	Desinfecção da água.
+Indicar os reagentes por meio de -92. ., .e os métodos,  po por meio de r.O...
+Exemplo(s) de combinação(ões): 
+      628.166-926.57 Com prata
+                                            628.166.085 Com irradiação 
+                                            628.166.094.3-926.214 Com ozônio. Por ozonização
+628.167	Remoção de odores e ressaibos da água.
+      Indicar os reagentes por meio de -92...,  e os métodos,  por meio de .0... 
+Exemplo(s) de combinação(ões):
+       628.167.069.84 Desgaseificação
+628.168	Outros tipos de tratamento da água.
+628.168.2	Desativação.
+628.168.3	Estabilização da água para impedir a corrosão
+e a deposição (de sais).
+628.168.4	Adição de várias substâncias químicas para
+alterar as propriedades da água. p, ex.. para
+melhorar as qualidade de potabilidadc.
+      Indicar os reagentes por meio de  -92... , e os métodos,  por meio de .O... 
+Exemplo(s) de combinação(õesi:
+628.168.4.094.412 Adição de fluoreto. Fluoretação
+628.169	Tratamento e utilização de depósito.
+628.17	Necessidades e consumo de água.
+Desperdício de água e sua prevenção. Economia de água.
+628.171	Necessidades e consumo de água. Equilíbrio
+entre o abastecimento e a descarga. 
+Exemplo(s) de combinação(ões):
+      628.171 “313” Consumo esperado (necessidade) de água 
+      628.171.001.24 Cálculo da ta\a de consumo 
+      628.171.03 3 Consumo (necessidade) de água potável nas residências 
+      628.171.034.2 Consumo (necessidade) de água nas indústrias
+628.179	Economia de água. Perdas, desperdício de 
+água e sua prevenção. 
+      628.179.0 dividido como 66.0
+628.179.2	Uso múltiplo da água. Retorno e reutilização de água. Uso de esgoto no retomo e
+reabastecimento de água. Produção sem esgoto.
+Os auxiliarei '16 e '17 são aplicáveis particularmente aqui
+628.179.3	Perdas de água. Controle do desperdício de água.
+      -> 628.147.25 Rupturas e estragos: detecção e reparo
+628.19		Poluição dos mananciais e do abastecimento de água (causas, prevenção
+                                  e eliminação).
+                                       -> 556.388 Poluição das águas subterrâneas
+628.191	Causas da poluição da água.
+Especificar as causas por meio de :... 
+Exemplo(s) de combinação(õe):
+      628.191:628.39 Poluição da água causada por despejos de esgotos
+628.193	Poluição da água com materiais específicos.
+Exemplo(s) de combinação(ões):
+628.193:546.815 Poluição da água com chumbo e seus compostos 
+628.193:665.61 Poluição da água com petróleo
+628.194	Poluição da água em determinadas etapas do abastecimento, distribuição ou tratamento,
+Exemplo(s) de combinação(ôes):
+628.194:628.11 Poluição da água nos locai s de captação
+628.196	Prevenção e eliminação da poluição da água.
+      Indicar os métodos por meio de :,.. 
+Exemplo(s) de combinação(ões): 
+      628.196:654.9 Alarmes de ruptura
+628.2	Eliminação de águas urbanas
+servidas. Esgotos urbanos. Sistemas de esgotos.
+628.21	Sistemas de esgotos.
+628.211	Sistemas combinados de esgotos.
+628.212	Sistemas separados de esgotos. Inclusive
+problema de entrada de águas pluviais
+(infiltração).
+628.213	Sistemas de bombeamento.
+628.214	Sistemas ejetores,
+628.217	Métodos de escoamento.
+628.22	Cálculo da forma e tamanho dos esgotos.
+      -> 628.311 Quantidade, volume das águas de esgoto
+628.221	Fatores ligados à pluviosidade. Inclusive área de drenagem. Cálculo, distribuição,
+intensidade pluviométricas.
+      -> 551.577/.579
+628.222	Fatores de escoamento da água de
+superfície. Inclusive volume, velocidade e
+duração do escoamento. Tempo de
+concentração. Quantidade e velocidade de
+descarga. Fluxo em tempo seco.
+628.23	Ventilação dos esgotos.
+      -> Clima interior. Ar-condicionado. Calefação. Ventilação
+628.231	Poços de ventilação nas ruas.
+628.232	Orifícios de iluminação. Poços de inspeção.
+Colunas de ventilação.
+628.234	Canos de ventilação no exterior das
+edificações.
+628.235	Canos de ventilação no interior das
+edificações.
+628.237	Gás de esgoto.
+628.238	Auxílios mecânicos para a ventilação.
+628.24	Projeto e construção de esgotos.
+628.241	Esgotos principais. Esgotos interceptadores.
+animais de esgotos.
+628.241.2	Esgotos de descarga externa. Descargas
+oceânicas.
+628.242	Esgotos locais. Esgotos domiciliares
+(linhas de coleta).
+      -> 696.13 Drenagem sob o solo. Drenagem do terreno. Esgotos da casa. Destino do lixo local
+628.245	Canos de esgoto. Canos para águas de
+esgoto.
+628.246	Conexões, juntas, uniões das tubulações.
+628.247	Construção de esgotos de tubulação.
+Colocação e substituição de tubulações.
+628.248	Construção de esgotos monolíticos in situ.
+628.25	Obras auxiliares de esgotos.
+628.251	Ramais pequenos. Ligações e bueiros de rua.
+Bueiros, escoadouros de estrada.
+      -> 625.745.3 Sarjetas de estrada. Bueiro de drenagem
+628.252	Ligações residenciais. Ramais particulares,
+domiciliares.
+628.253	Câmaras de inspeção. Portinholas de vigia,
+de inspeção. Orifícios de iluminação. Coberturas. Escadas. Degraus de ferro.
+628.257	Válvulas e comportas de esgotos.
+628.258	Escoadouros e reguladores. Inclusive
+escoadouros para tempestades (barragens de
+separação).
+628.259.2	Dispositivos para separação de material líquido
+do matéria) sólido.
+628.26	Cruzamentos de cursos de água. Sifões.
+Canos vergados.
+      -> 626.823.8 Cruzamento dos canais de irrigação
+      -> 628.145 Cruzamento e interconexão das canalizações de água
+628.262	Sifões invertidos.
+628.264	Sifões de ponte.
+628.27	Obstrução e rompimento de esgotos.
+628.28	Desobstrução, limpeza e lavagem de
+esgotos.
+628.282	Instalações para lavagem sob pressão.
+Reservatórios para lavagem sob pressão.
+628.284	Limpeza de bueiros. Aspiração de bueiros.
+628.285	Emprego de limpadores flutuantes. Inclusive
+barcaças de limpeza.
+628.287	Dispositivos de limpeza diversos. Inclusive
+vassouras. Raspadores. Removedores de
+sedimento, de lodo.
+628.288	Limpeza com jatos de água pressurizada.
+628.29	Elevação e descarga da água de esgotos.
+Inclusive dispositivos de elevação da água.
+Estações elevatórias. Estações de
+bombeamento. Ejetores.
+      -> 621.65/.69
+628.292	Estações elevatórias. Estações de
+bombeamento e ejetores.
+
+
+
+40
+
+

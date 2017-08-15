@@ -1,0 +1,3758 @@
+﻿<01>622
+<02>Mineração
+<05>Especificar maquinaria e processos de mineração por meio de -1/-9 (de 62-1/-8 e 66-9)
+      -> 528 Geodésia. Agrimensura. Levantamento topográfico. Fotogrametria. 
+            Sensoriamento remoto. Cartografia 
+      -> 549 Mineralogia. Estudo especial dos minerais
+      -> 552/553
+      -> 624.131 Mecânica do solo. Tecnologia estrutural do solo. 
+      Estudos técnicos e econômicos
+      -> 679.8 Tecnologia da pedra. Indústria da pedra
+Subdivisões auxiliares especiais
+622.01	Teoria geral. Aspectos geofísicos e de
+engenharia de mineração.
+<05>Os auxiliares 622.01... não são aplicáveis em 622.7 e suas subdivisões
+622.011	Teoria geral.
+622.011.4	Propriedades e classificação do solo.
+      622.011.4 dividido como  631.4
+622.012	Empresas de mineração.
+622.012.2	Minas (minas de minério).
+622.012.7	Instalações de engenharia mecânica para o
+equipamento de mineração. Trabalhos de reparo. Oficinas.
+622.013	Questões técnico-econômicas. Inclusive Produtividade. Reservas. Perdas.
+622.014	Plano geral. Inclusive Sistema de mineração. Programa de mineração.
+622.015	Trabalho(s) a céu aberto.
+      -> 622.271.3 Trabalho a céu aberto (exceto exploração de pedreiras)
+622.015.2                  Sem valas.
+622.015.3                          Valas.
+622.016	Trabalho(s) subterrâneo(s).
+      -> 622.272 Trabalho subterrâneo, abaixo da superfície em geral. Parada
+622.016.2                   Poços. Poços de mina. Poços de exploração.
+Buracos, perfurações, etc.
+622.016.3                   Cones seccionais. Acessos. Galerias. Túneis.
+622.016.4                   Rampas. Planos inclinados. Calhas de
+escoamento. Passagens. Elevações.
+622.016.5                   Câmaras. Compartimentos.
+      -> 622.268.8 Vias e galerias rochosas: tipos diversos
+      -> 622.286 Revestimento e escoramento de grandes câmaras, salões, etc.
+622.016.52                 Câmaras de produção.
+622.016.53                Câmaras de máquinas.
+622.016.54                Câmaras de explosão.
+622.016.6	Frentes de trabalho. Frentes de trabalho produtivas.
+622.016.62                 Frentes de trabalho longas.
+622.016.63                 Frentes de trabalho curtas. Frentes de trabalho
+em desenvolvimento.
+622.02	Propriedades físicas do mineral, do
+minério ou da rocha.
+	      -> 622`1 Estado do mineral, minério ou rocha
+622.023	Consistência. Solidez. Dureza.
+	      -> 622.83 Movimentos de rochas e do solo. 
+                                    Pressão da rocha. Subsidência. Fenômenos 
+                                    geostáticos e geodinâmicos
+622.023.2	Propriedades de consistência e solidez.
+Inclusive Dureza. Força. Densidade.
+Elasticidade. Clivagem. Capacidade de
+clivagem.
+622.023.4	Rochas duras, estáveis.
+622.023.6	Rochas soltas, instáveis, rolantes. Rochas
+quebradiças, etc.
+622.026	Acessibilidade. Operacionalidade. Inclusive
+Capacidade para ser perfurada. Para ser
+explodida. Para ser escavada.
+      -> 622.23 Escavações de minas
+622.027	Capacidade para ser tratada.
+Susceptibilidade à trituração, ao polimento, etc.
+      -> 621.7.011 Usinabilidade. Formabilidade. Tensões, fluxo, etc.
+      -> 621.9.011 Usinabilidade. Operacionalidade. 
+     Esforços e tensões. Fluxo do material
+622.03	Características geológicas dos depósitos.
+Exemplo(s) de combinação(ões):
+622.03’116 Horizontais. Levemente inclinados
+622.03'117 Inclinados 
+622.03' 118 Vertical ou quase vertical
+622.031	Depósitos estratificados. Filões, veios.
+Medição dos veios. Veios únicos.
+622.031.1	Espessura total do veio. Inclusive Espessura
+efetiva do veio.
+622.031.2                  Veios finos (0,5 - 1,3 m).
+622.031.3                  Veios moderadamente espessos (1,3 - 3m).
+622.031.4                  Veios espessos (acima de 3 m).
+622.031.5                  Medidas dos veios. Veios únicos. Veios contíguos.
+622.032	Veios. Filões. Betas.
+622.033	Depósitos maciços. Massas compactas.
+622.036	Massas não-compactas. Inclusive Argila. Lama.
+622.037	Aluviões. Depósitos detríticos, aluviais e eluviais. 
+                                  Inclusive Aluviões de praias lacustres e aluvíões submarinos.
+Indicar o lugar por (2) da Tabela 1e
+      -> 553.068.5 Depósitos aluvionários e detríticos
+622.038	Depósitos impregnados nas rochas.
+622.06	Processos e tecnologia de mineração.
+Os auxiliares de 622.06... não são aplicáveis em 
+622.6, 622. 7 e suas subdivisões
+622.062               Perfuração ou abertura de galerias nas
+minas. Inclusive Armação principal. Máquina. Andar.
+622.063               Corte. Quebra. Desmonte. Carregamento. Transporte.
+622.063.2	Corte. Quebra.
+622.063.4            Desmonte.
+622.063.5            Limite da frente de trabalho.
+622.063.6            Carregamento.
+622.063.7             Transporte na frente de trabalho.
+622.063.8             Transporte na superfície.
+      -> 622.69 Armazenamento, manipulação e transporte de minerais
+   (nas instalações da mina, boca da mina, poço, pedreira ou moinho,
+	inclusive transporte por tubulação)
+622’1	Estado do mineral, minério ou
+rocha.
+      -> 622.02 Propriedades físicas do mineral, do minério ou da rocha
+622’11	Depósitos em estado natural.
+622’112	Rocha de parede ou ganga.
+622’112.2	Teto.
+622’112.4	Chão.
+622’113	Massa do minério ou filão.
+622’116	Horizontal ou quase horizontal.
+Ligeiramente inclinado.
+622’117	Inclinado.
+622’118	Vertical ou quase vertical.
+622’12	Minério bruto.
+622’13	Esmagado. Triturado.
+622’14	Mecanicamente selecionado, medido,
+classificado.
+622’15	Concentrados segundo o tamanho da
+partícula.
+622’152	Súper-rico. P. ex., carvão limpo e
+superlimpo.
+622’153	Areias (submersas, sob o fluxo).
+622’156	Lamas (acima do fluxo).
+622’16	Materiais de segunda. Produtos
+intermediários.
+622’17	Refugos. Restos. Resíduos.
+622’18	Tratados termicamente. Inclusive Ustulados. Calcinados. Sinterizados, etc.
+Aglomerados moldados.
+Divisões principais
+622.1	Pesquisa preliminar. Prospecção e
+mapeamento da mina. Exploração
+de depósitos minerais (de
+superfície e subterrâneos).
+Exemplo(s) de combinação(ões):
+ 622.1:528 Prospecção da mina.
+Mapeamento da mina. Prospecção subterrânea 
+622.1:620.113 Processos de amostragem de minerais
+      -> 550.8 Geologia e geofísica aplicadas Prospecção e exploração geológica. Interpretação dos resultados
+      -> 551.24 Geotectônica
+      -> 552/553
+      -> 622.83 Movimentos de rochas e do solo. Pressão da rocha. 
+                 Subsidência. Fenômenos geostáticos e geodinâmicos
+      -> 624.131 Mecânica do solo. Tecnologia estrutural do solo. 
+                   Estudos técnicos e econômicos
+622.12	Exploração da superfície. Escavação da terra e camada superficial. 
+                                Remoção de detritos. Descoberta dos afloramentos de minério. 
+                               Prospecção dos limites de afloramento. Cortes, valas, etc. na superfície.
+622.121	Amostragem e análise.
+Especificar por meio de :543... e :620.1...
+622.14	Exploração, amostragem e análise subterrâneas. 
+Prospecção dos limites das massas de minérios.
+622.142                Emprego de poços, galerias, cortes
+transversais. Geometrização dos depósitos.
+622.143                Perfuração exploratória. Inclusive
+amostragem do núcleo.
+      -> 622.24 Perfuração. Técnica de perfuração. Tecnologia de perfuração
+622.2	Operações de mineração. Exploração, abertura,
+desenvolvimento, trabalho nos depósitos minerais.
+622.21	Pedidos de concessão e concessões de
+exploração.
+      -> 332.33 Terra utilizável, explorável. Recursos da terra
+      -> 347.249 Direitos relativos às minas. Propriedade mineral. 
+     Direitos de mineração
+      -> 351.823.3 Mineração
+622.212                 Delimitação, com provação e apresentação de
+pedidos de concessões do direito de exploração.
+622.213                 Conversão. Fusão. Divisão. Trocas.
+Incorporação, etc. Unificação de minas.
+622.22	Abertura. Trabalho de desenvolvimento.
+      -> 622.261 Abertura de túneis e galerias em geral: 
+     escavação e mineração
+622.221                  Abertura para mineração a céu aberto.
+622.222                  Trabalho de desenvolvimento a partir da
+superfície. Abertura do terreno.
+622.223                  Trabalho de desenvolvimento a partir de
+poços e galerias. Abertura de trabalho
+subterrâneo.
+622.224                  Trabalho de desenvolvimento nas massas de
+minérios. Inclusive Construção de elevações,
+calhas de escoamento, cortes transversais,
+etc. na massa de minério.
+622.228	Minas abandonadas. Reabertura, reequipamento de minas.
+      -> 622.288 Escoramento de locais já trabalhados
+622.23                   Escavações de minas. Inclusive Corte. 
+                            Perfuração da rocha. Explosão.
+      -> 622.026 Acessibilidade. Operacionalidade
+      -> 622.24 Perfuração. Técnica de perfuração. 
+     Tecnologia de perfuração
+      -> 622.27 Métodos de trabalho (na superfície e subterrâneo). 
+     Processos de mineração
+Subdivisões auxiliares especiais
+622.23.05	Ferramentas. Máquinas.
+622.23.051	Brocas (especialmente brecas removíveis).
+622.23.051.1	Brocas de aço.
+622.23.051.4	Brocas de metal duro.
+      -> 621.9.025.7 Ferramentas de pontas duras. 
+     Pontas de metal duro, cermeto e diamante
+622.23.051.5	Brocas de superfície temperada.
+622.23.051.7	Brocas de diamante. Brocas rotativas.
+      -> 621.9.025.7 Ferramentas de pontas duras. 
+     Pontas de metal duro, cermeto e diamante
+622.23.051.8	Formatos de brocas.
+622.23.052	Hastes de perfuratriz para brocas removíveis.
+622.23.053	Hastes de perfuratriz com brocas fixas.
+622.23.054	Elementos de trabalho e implementos de corte 
+                                    das máquinas de mineração.
+622.23.054.2              Arados.
+622.23.054.3              Lanças de guindaste.
+622.23.054.4              Elementos de tipo de tambor. Barras.
+622.23.054.5              Discos cortantes. Trados. Cortadores ou
+picaretas.
+622.23.054.6              Elementos percussivos e inertes.
+622.23.054.7              Elementos flexíveis de trabalho. Inclusive
+Serras de fio. Serras de corrente.
+622.23.054.8              Elementos combinados de trabalho e corte.
+622.23.055	Montagens. Vigas ou colunas de sustentação.  
+                                    Vigas-mestras. Plataformas.
+622.23.056	Dispositivos de avanço.
+622.23.057	Dispositivos para remoção de aparas, cavacos, poeira. 
+                                 Inclusive Sucção, jato de ar, jato de água, etc.
+      -> 628.511 Medidas contra a poeira
+622.23.058	Construção de plataformas.
+622.23.08	Duração e velocidade operacionais. Tempo de
+vida das máquinas, etc. 
+Divisões Principais
+622.231	Trabalho manual. Ferramentas manuais.
+Inclusive Escavação. Limpeza superficial.
+Pás. Picaretas. Machados. Martelos.
+Pés-de-cabra. Marretas. Malhos.
+      -> 621.865 Acessórios para manipulação da carga
+      -> 621.97 Martelos e prensas. Projeto e construção 
+     de ferramentas e máquinas (para usinagem a frio, 
+     a quente, para usinagem de moldagem, prensagem, 
+     estampagem, etc.
+      -> 622.234 Outros processos de trabalho
+622.232	Escavação mecânica. Escavação hidráulica.
+Máquinas de corte e carregamento.
+Mineradoras contínuas.
+622.232.2                   Martelos perfuradores ou cortadores.
+622.232.3                   Picaretas mecânicas.
+622.232.4                  Cortadoras mecânicas. Serras mecânicas.
+Inclusive Cortadoras de carvão. Serras de
+carvão,
+Exemplo(s) de combinação(ões):
+622.232.4:622.333 Máquinas de corte para carvão comum
+622.232.5	Escavação hidráulica. Máquinas que utilizam
+jatos de água. Inclusive Desagregadores de
+carvão. Hidromonitores.
+-> 622.234.5 Trabalho hidráulico
+622.232.6                   Máquinas para cones laterais.
+622.232.7                   Máquinas de corte e carregamento. Inclusive
+Cortadoras-carregadoras. Cortadoras de chapas.
+622.232.72                Carregadoras motorizadas.
+622.232.73                Máquinas de corte de blocos.
+622.232.74                Cortadores de percussão (cortadores
+fatiadores) que trabalham ao longo de toda a frente de trabalho.
+622.232.75	Tipo arado. Inclusive Arados raspadores.
+Arados-aríetes.
+622.232.76	Máquinas de tradear.
+622.232.8	Mineradoras contínuas.
+622.232.83	Máquinas de abrir túneis.
+622.233	Perfuração para explosão.
+      -> 622.235.12 Perfuração do buraco de explosão
+      -> 622.243 Sistemas de perfuração aprofundada
+622.233.4                    Perfuração e perfuradores de martelo.
+Inclusive Britadeiras.
+622.233.5                    Perfuração e furadeiras de percussão, de
+impacto. Perfuração mecânica, pneumática,
+vibratória percussiva.
+622.233.6                    Perfuração e perfuradoras rotativas, giratórias.
+622.233.61                  Perfuradora rotativa manual em geral.
+Perfuradoras manuais.
+622.233.62                  Perfuração rotativa mecânica. Máquinas de
+perfuração rotativa. Inclusive Máquinas
+rotativas de tradear.
+622.233.65                  Perfuração rotativa de percussão. Inclusive
+Perfuração vibratória-rotativa.
+622.233.66                 Máquinas de perfurar e carregar.
+622.233.7                   Acessórios. Inclusive Dispositivos para forja
+de brocas, para acoplamento das hastes das
+perfuradoras às brocas. Afiadoras de brocas.
+622.233.8                   Máquinas para extrair as hastes de broca dos
+buracos.
+622.234	Outros processos de trabalho.
+622.234.2                   Trabalho térmico. Aquecimento, uso de fogo, etc.
+622.234.3                   Trabalho por congelamento.
+622.234.4                   Métodos químicos. Inclusive Lixiviação.
+Solução para uso subterrâneo.
+622.234.5                    Trabalho hidráulico. Inclusive
+Enfraquecimento da massa rochosa. Corte,
+deslocamento hidráulico.
+622.234.6                   Trabalho pneumático. Processos de ar
+comprimido. Inclusive Airdox.
+622.235	Explosão. Explosivos.
+	-> 662.2 Explosivos de alta potência
+622.235.1	Furos para a colocação de explosivos.
+622.235.11              Padrão de perfuração e explosão. Cortes para
+explosão.
+622.235.12              Perfuração do buraco de explosão.
+-> 622.233 Perfuração para explosão
+622.235.13	Alargamento do buraco, p. ex. com ácido ou
+escareadores. Aumento do buraco.
+622.235.2	Explosivos. Inclusive Pó explosivo. Dinamite.
+622.235.21              Explosivos convencionais.
+622.235.22              Explosivos permitidos (de segurança).
+Explosivos revestidos.
+622.235.23              Explosivos baixos, de baixo teor. Inclusive Pós.
+Especificar por meio de :662.3...
+622.235.25              Emprego de ar líquido, oxigênio líquido.
+Explosão sem chamas.
+622.235.26              Explosivos (e explosão) nucleares.
+622.235.3	Tratamento e manipulação de explosivos.
+Inclusive Carregamento dos furos de explosão.
+Precauções. Vedação. Liberação dos gases.
+622.235.4	Acendimento. Detonação. Dispositivos de acendimento.
+      -> 662.4 Iniciadores, estopins para explosivos. Detonadores
+622.235.41              Detonadores. Inclusive Cápsulas.
+622.235.42              Espoletas.
+622.235.43              Acendimento. Ignição.
+622.235.431	Acendimento por espoleta de segurança,
+espoleta de detonação.
+      -> 662.452 Espoletas de queima lenta. Espoletas de segurança
+      -> 662.46 Espoletas detonadoras
+622.235.432	Acendimento elétrico.
+622.235.432.2         Dispositivos de acendimento elétrico.
+Inclusive Detonadores dinâmicos. Detonadores
+condensadores.
+622.235.432.3         Detonadores elétricos.
+622.235.432.4         Estações de carga.
+622.235.432.5         Redes de detonação elétrica.
+622.235.433	Detonação química.
+622.235.45            Tempo de detonação.
+622.235.5              Mecânica da explosão. Inclusive Cálculo da
+carga e do rendimento. Formato das cargas.
+622.235.6              Operações, processos de explosão.
+622.235.62            Explosão de buraco.
+622.235.63            Explosão em buracos abertos a explosão.
+622.235.64            Explosão de poços.
+622.235.65            Explosão de câmaras. Inclusive Explosão de
+câmaras pequenas.
+622.235.67            Explosão de arremesso. Explosão direcional.
+622.235.68            Explosão de camada.
+622.235.9	Armazenamento de explosivos em minas.
+Paióis.
+622.236	Processos e dispositivos para quebra de rochas.
+622.236.2               Processos físicos de quebra. Inclusive Corte,
+fatiamento, trituração, vibração da rocha.
+622.236.3               Processos térmicos de ruptura. Inclusive Com
+jato de gás a alta temperatura. Termita. Plasma.
+622.236.4               Ruptura por explosão.
+622.236.5               Ruptura por jato de água.
+622.236.7	Processos elétricos e eletrofísicos de ruptura.
+622.237	Acabamento e limpeza das frentes de trabalho.
+622.24	Perfuração. Técnica de perfuração.
+Tecnologia de perfuração.
+                                     -> 550.822 Perfuração, sondagem geológica
+                                     -> 621.95 Brocas. Furação, perfuração, escareamento de furos, etc.
+                                     -> 622.02 Propriedades físicas do mineral, do minério ou da rocha
+                                    -> 622.143 Perfuração exploratória
+Subdivisões auxiliares especiais
+622.24.05	Ferramentas de perfuração. Equipamento de
+perfuração. Dispositivos para transmitir o
+movimento.
+622.24.051	Brocas de perfuração. Trépanos. Brocas de
+escarear. Coroas de perfuração.
+622.24.051.4	Brocas para perfuração percussiva. Inclusive
+Brocas excêntricas, brocas cruciformes para
+perfuração percussiva.
+622.24.051.5/.6     Brocas de perfuração, trépanos, brocas de
+escarear, coroas de perfuração para perfuração rotativa.
+622.24.051.5	Brocas de perfuração.
+622.24.051.52         Brocas ocas. Brocas helicoidais. Trados de
+disco.
+622.24.051.55         Brocas de rolo, de cilindro.
+622.24.051.56         Brocas rotativas desbastadoras.
+622.24.051.57         Brocas rotativas escareadoras.
+622.24.051.62        Brocas de corte. Inclusive Brocas em rabo de peixe.
+622.24.051.64        Brocas de diamante.
+622.24.051.68       Brocas de jato.
+622.24.051.7         Coroas de perfuração do núcleo.
+622.24.053             Dispositivos para transmitir o movimento à
+broca. Bastões da broca. Cabos, fios de
+perfuração. Tubos de broca. Hastes da broca.
+Acoplamentos. Conectores, etc.
+622.24.054             Dispositivos para geração do movimento.
+622.24.054.2          Acima do solo. Inclusive Mesas rotativas.
+Balancins. Engrenagem motriz.
+622.24.054.3          No fundo do buraco. Inclusive Turbobrocas.
+ Perfuratrizes elétricas.
+-> 622.243.92 Perfuração com motor subterrâneo
+622.24.056             Dispositivos de retardamento.
+622.24.057             Ferramentas auxiliares. Aparelhos auxiliares.
+622.24.057.2         Elevadores. Monta-cargas.
+622.24.057.4	Medidores da pressão da perfuração.
+622.24.058	Equipamento para recuperação de ferramentas
+(molinete de pesca). Inclusive Guinchos.
+Soquetes de pesca. Arpões, dardos de pesca.
+622.24.06	Preparo, formação e limpeza dos meios de
+descarga.
+622.24.08	Considerações técnicas e econômicas. Sistemas
+de perfuração. Tipos de perfuração.
+622.24.082	Dados técnicos e econômicos. Inclusive
+Eficiência da perfuração. Duração da
+perfuração. Custos da perfuração.
+622.24.084             Sistemas de perfuração. Fatores técnicos na
+perfuração. Inclusive Carga da broca (pressão
+da perfuração). Velocidade de rotação. Volume
+de descarga.
+622.24.085              Tipos de perfuração. Inclusive Perfuração
+dupla. múltipla, ramificada. Perfuração na
+plataforma continental.
+Divisões Principais
+622.241                      Furos de sondagem: descrição e detalhes.
+Relatório.
+622.242                      Instalações de perfuração. Torres de
+perfuração. Guindastes.
+622.242.2               Equipamento de perfuração.
+622.242.3               Torres de perfuração no continente.
+Guindastes.
+622.242.4               Torres de perfuração na plataforma
+continental. Plataformas de perfuração. Navios
+de perfuração.
+      -> 627.211 Portos e ancoradouros no mar, na plataforma continental
+622.242.6	Circuitos de descarga. Bombas de descarga.
+Cabeças de descarga. Reservatórios de descarga. Tanques de descarga.
+622.243	Sistemas de perfuração profunda.
+622.243.1	Generalidades. Teoria.
+622.243.12	Sondagem a seco em geral.
+      -> 622.243.4 Perfuração percussiva
+622.243.13	Sondagem por descarga em geral.
+622.243.2               Perfuração direcional.
+622.243.4               Perfuração percussiva. Inclusive Perfuração
+percussiva a seco. Perfuração percussiva de
+descarga rápida.
+622.243.5               Perfuração rotativa. Inclusive Perfuração do
+núcleo. Perfuração do eixo.
+622.243.92	Perfuração com motor subterrâneo.
+      -> 622.24.054.3 No fundo do buraco
+622.243.93	Estaqueamento.
+622.243.94	Perfuração por fusão.
+622.243.95	Processos combinados de perfuração. Perfuração por 
+                                   vibração e ultra-sônica.
+622.244	Limpeza das cavidades, etc. a partir do fundo
+do furo. Perfuração inicial do depósito
+mineral. Testes de formação. Instalação e
+desmontagem das hastes de perfuração.
+622.244.4                  Limpeza do furo. Descarga, etc. durante a
+perfuração.
+622.244.5                   Perfuração inicial dos depósitos minerais.
+Início da operação.
+622.244.6                  Testes de formação: dispositivos, equipamento,
+622.244.7                  Montagem, desmontagem das hastes das
+perfuradoras.
+622.245	Montagem do furo de sondagem.
+Revestimentos. Entrada em produção, etc.
+Abandono do furo de sondagem.
+622.245.1	Revestimento. Cordas do revestimento.
+622.245.3                     Manutenção e proteção das paredes pela
+circulação de líquidos. Descarga com água,
+lama, etc.
+622.245.4                    Vedação dos depósitos expostos. Cimentação
+do revestimento.
+622.245.5                    Tratamento e limpeza do furo de sondagem.
+Retirada do gesso. Aumento da permeabilidade
+do solo perto do furo de sondagem.
+622.245.6                    Proteção e preservação das paredes do furo de
+sondagem.
+622.245.7                   Fechamento do furo de sondagem na superfície.
+Prevenção de explosões. Cabeças dos
+revestimentos.
+622.245.8                    Enchimento, vedação do furo de sondagem.
+Abandono do furo de sondagem.
+622.248	Quebra, danos, falhas durante a
+perfuração. Prevenção, controle e reparo
+das falhas, dos defeitos.
+	      -> 622.8 Riscos, acidentes e danos decorrentes da mineração. 
+                                     Proteção à saúde e segurança nas minas
+622.248.3	Irregularidades no furo de sondagem. Inclusive
+Movimentos do solo. Colapso. Subsidência.
+Estreitamento. Enchimento com detritos.
+622.248.5                 Danos na broca, na perfuratriz. Inclusive
+Emperramento. Compressão. Fratura.
+622.248.6                  Pesca. Recuperação ou destruição de
+ferramentas ou do revestimento deixados no
+furo de sondagem.
+622.25	Poços. Escavação do poço. Construção
+do poço.
+622.251	Escavação e construção do poço em geral.
+Dimensões do poço.
+      -> 622.222 Abertura. Trabalho de desenvolvimento
+622.252                      Trabalhos no poço. Escavação normal.
+622.253                      Escavação através de estratos aqüíferos,
+sem bombeamento. Inclusive Métodos de
+congelamento.
+622.254                       Escavação do poço com conjuntos
+completos de equipamento. Escavação com
+blindagem. Escavação com máquinas
+combinadas.
+622.256	Construção do poço. Aprofundamento
+do poço.
+622.257	Métodos especiais de escavação.
+622.257.1                  Cimentação. Injeção de pasta de cimento para
+reforço. Processos e matérias de injeção.
+Injeção de silício. Injeção de betume.
+622.257.2                  Injeção de óleo ou outro líquido pesado.
+622.257.3                   Escavação com rebaixamento artificial do nível
+de água.
+622.257.4                   Escavação subaquática.
+      -> 622.271.5 Trabalho subaquático (dragagem)
+622.258	Equipamento de poços. Inclusive Instalação
+de Bunton e divisórias.
+622.26	Galerias. Acessos. Níveis. Túneis e
+galerias. Abertura de túneis e galerias.
+      -> 622.281 Escoras em desenvolvimento Galerias. 
+     Acessos. Túneis
+      -> 624.19 Túneis. Escavação de túneis. Galerias. 
+     Construção de galerias
+622.261	Abertura de túneis e galerias em geral:
+escavação e mineração.
+622.261.2                     Escavações subterrâneas. Inclusive
+Escarificação (levantamento). Compressão
+(rebaixamento do chão). Compactação das
+laterais. Estabilização.
+622.261.3                  Desenvolvimento do trabalho a céu aberto.
+622.261.5	Seções transversais: forma, tamanho.
+622.262	Escavações simples com pilares (estacas).
+      -> 622.281 Escoras em desenvolvimento. 
+    Galerias. Acessos. Túneis
+622.263                        Escavações com blindagem de madeira.
+Cunhas.
+622.264                        Escavações com blindagem de metal e
+outros materiais.
+622.267	Escavação sob condições geológicas adversas
+(por métodos especiais). Inclusive Em
+rochas duras ou congeladas. Com queda de
+rochas. Com emissões de gás,  p. ex. metano
+(grisu). Em entulheiras ou minas
+abandonadas, etc.
+      -> 622.272.6 Mineração em condições geológicas adversas
+622.268	Vias e galerias rochosas: tipos diversos.
+622.268.1                   Segundo a finalidade. Inclusive Vias de
+escoamento principais. Galerias de avanço.
+Passagem para equipamento. Entradas para
+acesso de pessoas.
+622.268.2                  Galerias rochosas. Cortes transversais.
+622.268.3                  Níveis.
+622.268.4                 Galerias e acessos levemente inclinados.
+622.268.5                 Galerias e acessos acentuadamente inclinados.
+Passagens para minérios Poços inclinados.
+Ladeiras.
+622.268.7                 Cruzamentos dos acessos e dos poços.
+Estações de parada nos poços,
+622.268.8                  Abóbadas ou câmaras amplas. Inclusive
+Câmaras para máquinas.
+      -> 622.016.5 Câmaras. Compartimentos
+      -> 622.286 Revestimento e escoramento de 
+     grandes câmaras, salões, etc.
+622.27	Métodos de trabalho (na superfície e
+subterrâneos). Processos de mineração.
+-> 622.23 Escavações de minas
+622.271	Trabalho na superfície.
+622.271.1	Trabalho em depósitos aluviais em geral.
+Métodos de jatos de água.
+622.271.2              Exploração de pedreiras.
+622.271.3             Trabalho a céu aberto (exceto exploração de
+pedreiras).
+-> 622.015 Trabalho(s) a céu aberto
+622.271.32           Sistemas de mineração a céu aberto. Inclusive
+Mineração por corte e aterro, fosso, faixas.
+622.271.33            Elementos das minas a céu aberto. Inclusive
+Terraços. Terraços de fossos abertos. Cortes.
+622.271.34           Mineração por corte aberto através de uma
+passagem subterrânea.
+622.271.35           Trituramento secundário.
+622.271.4             Limpeza, escavação, retirada da sobrecarga, etc.
+Depósitos de lixo, refugo. Equipamento para
+depósitos de refugo. Inclusive Empilhadeiras.
+Tratores de lixo. Pontes de sobrecarga.
+622.271.5              Trabalho subaquático (dragagem). Inclusive
+Dragagem hidráulica
+Especificar por meio de :621.879...
+       -> 622.257.4 Escavação subaquática
+622.271.6              Mineração hidráulica. Inclusive Jatos de água,
+lavagem.
+622.271.7              Trabalho em solo congelado.
+      -> 551.34 Efeitos do congelamento sobre as rochas e solos. 
+     Crioturbação
+      -> 624.139 Engenharia de solo congelado
+      -> 624.14 Engenharia da neve e do gelo. Trabalhos e 
+     materiais de construção em climas frios
+622.271.8	Trabalho em galeria (trabalho nas galerias de
+acesso).
+622.272	Trabalho subterrâneo, abaixo da superfície
+em geral. Parada.
+      -> 622.016 Trabalho(s) subterrâneo(s)
+622.272.1	Minas de pouca profundidade.
+622.272.2                   Minas de profundidade média.
+622.272.3                   Minas de grande profundidade e temperatura
+elevada.
+622.272.4                   Minas horizontais.
+622.272.5                   Minas subaquáticas.
+622.272.6	Mineração em condições geológicas adversas.
+Inclusive Com quedas de rocha. Com explosões 
+de rocha, de carvão, de gás. Mineração de veios 
+contínuos e grupos de veios.
+      -> 622.267 Escavação sob condições geológicas adversas
+    (por métodos especiais)
+622.273	Trabalho em jazidas horizontais ou quase
+horizontais (jazidas levemente inclinadas).
+Inclusive Veios de carvão comum.
+622.273.1	Métodos de cortes pequenos. Processos de
+cortes transversais.
+      -> 622.273.3 Métodos de salões e maciços com aterro. 
+      -> 622.274.5 Métodos de desmoronamento
+622.273.2	Métodos que envolvem entulhamento ou
+aterro.
+      -> 622.274.4 Degraus aterrados
+622.273.21                Métodos de entulhamento ou aterro.
+622.273.22                Escavação em degraus disfarçados e evidentes.
+622.273.23                Processos de grandes talhos.
+622.273.24                Desabamento de grandes talhos.
+622.273.25                Corte e aterro.
+622.273.26                Métodos de salões e maciços com aterro.
+622.273.3	Métodos de salões e maciços. Espaço de
+trabalho com disposição especial, p. ex., em
+espinha de peixe.
+622.274	Trabalho em depósitos, camadas, veios,
+filões verticais ou acentuadamente
+inclinados. Inclusive Carvão de ponta.
+622.274.2                  Grande talho que recua ao impacto.
+622.274.3                  Degraus abertos sem aterro. Inclusive
+Preparação do solo. Processos de salão e
+maciços. Escalonamento abaixo do nível.
+622.274.4                 Degraus aterrados. Inclusive Em ângulo reto e
+por corte e aterro. Escalonamento com retração.
+622.274.5                 Métodos de desmoronamento.
+622.274.52               Corte do teto.
+622.274.53               Desmoronamento abaixo do nível.
+622.274.54               Desmoronamento de bloco.
+622.275                    Sistemas de mineração combinados com a
+recuperação do mineral em estado sólido.
+622.276                    Trabalho dos depósitos de óleo mineral
+(hidrocarboneto líquido). Extração de
+petróleo.
+      -> 622.24 Perfuração. Técnica de perfuração. 
+     Tecnologia de perfuração
+      -> 665.61 Petróleo cru. Óleo cru
+Subdivisões Auxiliares Especiais
+622.276.04	Extração de petróleo na plataforma continental.
+      -> 627.211 Portos e ancoradouros no mar, na plataforma continental
+622.276.05	Ferramentas, aparelhos, equipamentos.
+Inclusive Torres de elevação. Mastros de
+elevação. Tipos de cabeça de produção.
+622.276.054	Equipamento de bombeamento. Inclusive
+Bombas. Fios de baliza. Coadores. Separadores de areia e gás.
+Divisões Principais
+622.276.1	Extração por pressão natural do petróleo.
+622.276.2	Extração pelo fluxo de petróleo do furo de
+sondagem (por pressão natural da água, do
+gás, da gravidade).
+622.276.21	Por pressão da água.
+622.276.23                Por pressão natural do gás.
+622.276.24                Por geração de gás natural no líquido.
+622.276.25                Pela gravidade.
+622.276.3	Extração do petróleo a partir dos estratos.
+622.276.32	Condições ótimas de produção.
+622.276.34            Distribuição dos poços. Produtividade da
+ jazida.
+622.276.342	 Distribuição dos poços. Distância entre os
+ poços.
+622.276.344	 Produtividade da jazida. Influência da
+ distribuição dos poços sobre o esgotamento.
+622.276.346	Produtividade dos poços.
+622.276.4	Extração do petróleo por pressão artificial.
+Processos secundários.
+622.276.41                Repressurização (restauração da pressão).
+622.276.42                Injeção de gás. Injeção de ar.
+622.276.43                Inundação de água.
+Introdução de água nos estratos que contêm petróleo
+ por meio de tubos de pressão com o objetivo de
+forçar o petróleo em direção aos tubos de elevação
+622.276.5                 Métodos de elevação. Inclusive Produção
+espontânea de petróleo. Elevação de gás ou ar.
+Elevação por bombas, noras, etc.
+622.276.6                 Métodos de estimulação. Influência sobre a
+área perto do poço. Tratamento do furo de
+sondagem.
+622.276.63                Tratamento com ácidos.
+622.276.64                Injeção por pressão de agentes de ação de
+superfície nos estratos que contêm petróleo.
+622.276.65                Tratamento térmico de estratos que contém
+ petróleo.
+622.276.66                Fraturamento hidráulico.
+622.276.7	Reconstrução do poço durante a extração do petróleo.
+                                   Inclusive Remoção de obstruções de areia. Trabalho de reparo.
+622.277                     Liquefação e extração subterrâneas por
+furo de sondagem. Inclusive Dissolução (p.
+ex. de depósitos de sal). Derretimento.
+Fusão.
+622.278                    Gaseificação, vaporização subterrânea.
+622.279                     Extração de depósitos de gás natural
+(hidrocarboneto gasoso).
+      622.279 dividido como 622.276 
+      -> 622.24 Perfuração. Técnica de perfuração. Tecnologia de perfuração
+Subdivisões Auxiliares Especiais
+622.279.04	Extração de gás natural na plataforma continental.
+Divisões Principais
+622.279.23	Extração por pressão natural de gás.
+622.279.4	Extração de gás por pressão artificial.
+Processos secundários.
+622.279.5	Processos de elevação. Inclusive
+Extravasamento de poços de gás. Tubulações
+de sifão.
+622.28	Escora mento e escoras. Revestimento.
+                                     -> 622.22 Abertura. Trabalho de desenvolvimento
+    622.245 Montagem do furo de sondagem. 
+    Revestimentos. Entrada em produção, etc. 
+    Abandono do furo de sondagem.
+Subdivisões Auxiliares Especiais
+622.28.04	Projeto, tipos de escoramento.
+622.28.042           Escoras segundo a seção transversal. Inclusive
+Escoras em trapézio, poligonais, em anéis, em
+ferradura. Escoras em arco ou armação.
+622.28.043           Escoras segundo o grau de resistência. Escoras
+flexíveis e rígidas.
+622.28.044	Travamento do teto.
+622.28.048	Desabamento.
+Divisões Principais
+622.281	Escoras em desenvolvimento. Galerias.
+Acessos. Túneis.
+622.281.2/.6 dividido como 622.283.2/.6
+622.281.8	Retirada das escoras. Desabamento (deliberado).
+622.283	Armações permanentes de revestimento de poços.
+622.283.2             Vigamento. Armações de madeira.
+622.283.3             Emparedamento. Revestimento de alvenaria.
+622.283.4             Armações de revestimento de concreto.
+622.283.5             Escoras de metal. Armações de aço, etc.
+622.283.6             Escoramento e revestimento combinados.
+Estancamento e revestimento.
+622.284	Escoramento na frente de trabalho.
+Escoramento da frente da galeria. Escora de
+degraus. Estacas e escoras.
+622.284.2                  Vigamento. Escoras de madeira.
+622.284.3                  Vigas transversais.
+622.284.4                  Revestimento das paredes.
+622.284.5                  Escoras de metal. Escoras de aço, etc.
+622.284.6                  Escoramento combinado.
+622.284.7                  Travamento do teto com tarugos de
+madeira ou aço.
+622.284.8                  Retirada do escoramento. Retirada do vigamento.
+622.85                       Escora do revestimento. Escora mecânica.
+622.286	Revestimento e escoramento de grandes câmaras, salões, etc.
+      -> 622.016.5 Câmaras. Compartimentos
+      -> 622.268.8 Vias e galerias rochosas: tipos diversos
+622.288	Escoramento de locais já trabalhados.
+      -> 622.228 Minas abandonadas. Reabertura, reequipamento de minas
+622.289	Equipamento auxiliar. Inclusive Máquinas
+de colocar escoras. Máquinas de colocar
+revestimento.
+622.3	Mineração de minerais, minérios,
+rochas específicas.
+Classificar aqui apenas as informações gerais sobre 
+ramos específicos da mineração. 
+Classificar as operações específicas de mineração
+ nas outras divisões de 622
+      -> 550.8 Geologia e geofísica aplicadas. Prospecção 
+     e exploração geológica. Interpretação dos resultados
+      -> 553 Geologia econômica. Depósitos minerais
+622.32	Minerais líquidos e gasosos.
+622.321                Minerais líquidos em geral.
+622.322                Fontes de água mineral.
+622.322 dividido como 553.7
+622.323                Petróleo (com ou sem gás natural). Gases.
+622.324	Gases.
+622.324.5             Gás natural. Metano.
+622.324.6             Dióxido de carbono.
+622.324.7             Hélio e outros gases inertes (raros).
+622.33	Minerais sólidos de origem orgânica.
+Minerais carboníferos. Carvões. Rochas
+carboníferas.
+      -> 662.62 Combustíveis sólidos em geral
+622.331                Turfa.
+622.332                Linhita.
+622.333                Carvões. Carvão em geral.
+622.335                Antracito. Carvão grafitizado.
+622.336                Grafita. Plumbagina.
+622.337                Betume. Asfalto. Xistos betuminosos. Xisto.
+Ozocerite (cera mineral). Resinas.
+622.339	Outros minerais orgânicos. Inclusive
+Âmbar.
+622.34	Metais e metalóides. Minérios (minerais
+metalíferos).
+Nas subdivisões derivadas de 553... 
+Indicar as jazidas polimetálicas complexas acrescentando '3/'9, conforme foi descrito em 553
+622.341	Minérios de ferro. Minérios de manganês.
+622.341.1/.2  dividido como 553.31/.32
+622.342	Minérios de ouro. Conglomerados auríferos. Minérios de prata.
+Conglomerados argentíferos.
+622.342.1/.2 dividido como 533.411/.412
+622.343/.349	Outros minérios.
+622.34 8/.349  dividido como 553.43/. 49
+622.345	Minérios de estanho.
+622.348.1	Minérios de níquel.
+622.349.2	Minérios de alumínio.
+622.349.5	Minerais radioativos. Inclusive Urânio.
+622.35	Pedras naturais. Pedras para construção.
+Pedras para monumentos. Pedras comuns.
+622.35 dividido como 553.5
+      -> 679.85 Pedra natural. Pedra de construção. 
+     Pedras para monumentos. Cantaria
+622.36	Diversos minerais e terras inorgânicas de
+significação econômica (principalmente
+não-metalíferos).
+622.3 6 dividido como 553.6
+622.363.1	Sal-gema (halito) e outros sais de sódio.
+622.364	Fosfatos. Rocha de fosfato.
+622.37	Pedras preciosas e semipreciosas. Gemas.
+      -> 679.87 Pedras preciosas e semipreciosas
+622.4	Ventilação, condicionamento de ar,
+aquecimento e iluminação de minas.
+      -> 622.8 Riscos, acidentes e danos decorrentes
+    da mineração. Proteção à saúde e segurança nas minas
+622.41	Ventilação e condicionamento de ar de
+minas em geral.
+622.411	Princípios. Dados teóricos. Tipos de
+umidade e poeira encontrados. Quantidade
+necessária de ar. Distribuição do ar.
+622.411.3                    Gases, umidade nas minas.
+622.411.4                    Composição do grisu.
+622.411.5                    Poeira das minas. Fontes de formação de
+poeira.
+      -> 616.24-003.6 Pneumoconiose 
+     (corpos estranhos nos pulmões).
+      -> 622.807 Controle subterrâneo da poeira em geral
+      -> 628.511 Medidas contra a poeira
+622.411.51                 Amostragem do ar. Determinação e estimativa
+da poeira, Composição da atmosfera.
+Instrumentos. Inclusive Coniômetros,
+contadores de poeira, métodos de filtragem.
+622.411.52                  Poeiras carbonáceas. Pó de carvão.
+622.411.53                  Pó de pedra.
+622.412	Meios de detectar o grisu.
+      -> 622.817 Prevenção e controle de explosões
+622.413                  Propriedades físicas da atmosfera das
+minas.
+622.414                  Natureza do fluxo de ar. Pressão do ar.
+Medição, instrumentos (p. ex. manômetros,
+anemômetros).
+622.416                  Cálculo das quantidades de ar nas minas (em
+relação ao pessoal, à produção, etc.).
+622.417                  Estações de sondagem e medição.
+622.418                  Condicionamento do ar. Ar-condicionado.
+      -> 622.481 Aquecimento dos poços de minas
+622.42                     Ventilação natural.
+622.43                      Ventilação primitiva, por calor e bombas.
+622.44                     Ventilação por ventiladores, foles,
+compressores.
+      -> 621.51/.54 Aplicações técnicas da energia pneumática
+622.45	Introdução e distribuição de ar pelos
+poços, galerias e locais de trabalho.
+Vias de aeração.
+622.451                Redes de ventilação nas minas.
+622.452                Introdução de ar pelos poços. Poços de
+ventilação.
+622.453                Distribuição de ar na mina. Vias,
+ductos de ar.
+622.454                 Métodos, esquemas de ventilação.
+622.455                 Vedação e compartimentos estanques em
+ relação ao ar. Inclusive Portas à prova de
+ ar. Fechos pneumáticos. Barragens contra
+ o grisu. Fechamento e vedação de duetos
+ e poços.
+622.456                 Vazamentos de ar e seu controle.
+622.457                 Ventilação nos canteiros de trabalho
+ subterrâneos. Inclusive Ventilação por
+ tubulação. Ventilação auxiliar (local).
+622.458                 Ventilação nos canteiros a céu aberto.
+622.46	Outras instalações de ventilação. Inclusive
+Aparelhos de ozônio.
+Filtros de ar.
+622.47	Iluminação das minas. Lâmpadas de
+mineiros.
+      -> 628.9 Iluminação. Engenharia da iluminação
+      -> 683.8 Lâmpadas a combustível ou de chama. Lampiões
+622.471	Lâmpadas de chama aberta. Inclusive
+Lanternas. Lâmpadas a óleo. Lâmpadas de acetileno.
+622.473                       Lâmpadas de segurança. Inclusive
+Lâmpadas de Davy. Lâmpadas de segurança
+a gasolina. Lâmpadas de segurança de
+acetileno.
+622.474                       Lâmpadas elétricas portáteis. Inclusive
+Lâmpadas de pilhas. Lâmpadas de capacete.
+Lanternas manuais.
+622.475                       Câmaras de lâmpadas. Limpeza,
+manutenção, regulagem, abastecimento, etc.
+das lâmpadas.
+622.476                       Iluminação subterrânea permanente,
+sobretudo por acetileno e outros processos
+não-elétricos.
+622.477                       Iluminação elétrica permanente.
+Especificar por meio de :621.32..., :628.9...
+622.478	Isolamento e outros problemas semelhantes
+de iluminação nas minas.
+Especificar por meio de :621.315.6... ou  :621.316.93...
+622.48	Serviços e instalações acessórias de
+aquecimento, abastecimento de água,
+sinalização e outros.
+622.481	Aquecimento dos poços de minas.
+622.485	Abastecimento de água.
+622.489	Equipamento de sinalização, comunicação.
+      -> 621.39 Telecomunicação. Telegrafia. 
+     Telefonia. Radiocomunicação. Tecnologia e 
+     equipamento de vídeo. Telecontrole
+      -> 628.975 Iluminação para sinalização, sinais 
+     de advertência, avisos, de direção
+      -> 654 Telecomunicação e telecontrole 
+     (organização, serviços)
+      -> 658.284 Equipamento de comunicação. 
+     Instalações para controle, sinalização, informação
+622.5	Drenagem nas minas. Retirada de
+água nas minas.
+      -> 622.84 Inundação e regime hidrológico em 
+     relação aos movimentos de rocha
+622.51	Fontes, composição e fluxo de água
+na mina.
+622.512                 Determinação do fluxo de água nas minas.
+622.513                 Medidas de superfície.
+622.514                 Medidas subterrâneas para limitar ou
+estancar o fluxo de água para as minas.
+622.515                 Diques. Portas de comporta. Barreiras à
+ prova d'água.
+622.516                 Poços coletores. Fossos para coleta e
+retenção de água.
+622.517                Remoção de lama e lodo.
+622.53	Drenagem de água da mina.
+622.531	Instalações de superfície. Inclusive Bombas
+de cilindro móvel. Motores de balancim.
+622.532	Bombas subterrâneas.
+622.534	Tubulações de drenagem.
+Especificar por meio de :621.64...
+622.536                      Esgotamento de água durante a escavação
+do poço.
+622.537                     Drenagem de canteiros inundados.
+622.538                     Retirada de águas ácidas.
+622.539                      Outros equipamentos para elevação de água.
+Especificar por meio de :621.649... 
+Exemplo(s) de combinação(ões):
+622.539:621.649.6 Rodas com noras
+622.58	Drenagem em mineração a céu aberto.
+622.583                    Processos de drenagem. Inclusive Filtros.
+Cortinas de argamassa.
+622.584                    Drenagem de superfície.
+622.585                    Drenagem primária em minas a céu aberto.
+622.586                    Drenagem contínua.
+622.587                    Diminuição da pressão das águas
+subterrâneas da jazida e observação da
+água do solo.
+622.6	Transporte e manipulação.
+Elevação. Içamento. Transporte de superfície.
+Os auxiliares relacionados em 622.06... não 
+são aplicáveis em 622.6 e nas suas subdivisões
+Indicar o carregamento, transporte, etc. segundo
+a força motora ou propulsora por -8... (de 62-8...)
+622.61	Transporte, carregamento e
+manipulação subterrâneos em geral.
+Exemplo(s) de combinação(ões):
+622.61:622.341.1 Transporte subterrâneo de minérios de ferro
+622.611                  Carregamento e manipulação na frente de
+trabalho.
+622.612                  Carregamento. Enchimento de carros, de
+cubas, etc.
+622.619	Máquinas, equipamento de carregamento.
+Inclusive Carregadeiras. Pás de arrasto. Raspadoras. Transportadoras.
+      -> 621.878.4 Carregadoras
+622.62	Transporte por rodovias e ferrovias.
+Vagonetes e carris. Locomotivas.
+Ferrovias a cabo.
+622.621                   Dispositivos de sinalização. Sistemas de
+controle e bloqueio centrais.
+622.622                   Carregamento, transporte primitivo.
+Inclusive Em cestas ou sacos. Por homens
+ou animais de carga.
+622.624	Transporte por gravidade (planos
+inclinados).
+      -> 622.625.5 Ferrovias de cabo e corrente, de cremalheira. Caminhos aéreos
+622.625	Ferrovias e vagões subterrâneos. Ferrovias
+por cabo e corrente.
+622.625.1	Trilhos, leitos de ferrovias. Construção de
+linhas férreas.
+      622.625.1 dividido como 625.1
+622.625.2	Material rodante. Locomotivas, etc.
+622.625.24	Material rodante. Carros, vagonetes, vagões de
+minas.
+622.625.28	Locomotivas de minas.
+622.625.5	Ferrovias de cabo e corrente, de cremalheira. Caminhos aéreos. 
+Subdivisões Auxiliares Especiais
+622.625.5.05               Cabos de transporte.
+622.625.5.06               Correntes de transporte.
+Divisões Principais
+622.625.51                  Motores para transporte, carga. Motores de
+ planos inclinados.
+622.625.52                  Transporte, carregamento direto (inclinado).
+622.625.53                  Transporte, carregamento principal e
+secundário.
+622.625.54	Transporte com cabo sem-fim.
+622.625.57	Por cabos suspensos. Caminhos aéreos.
+622.627                   Transporte subterrâneo sem trilhos.
+Estradas, vias e veículos subterrâneos. 
+Veículos de trajeto circular.
+Especificar por meio de :625.7/.8,  :629.3...
+	      -> 622.26 Galerias. Acessos. Níveis. Túneis e galerias. 
+                                    Abertura de túneis e galerias
+622.64	Transporte contínuo e semicontínuo.
+622.646                Calhas, chaminés e aberturas para
+minério. Carregamento do minério para
+fora da mina.
+622.647                Transportadores, etc.
+      -> 621.867 Equipamento de transferência contínua. 
+      Correias transportadoras. Elevadores. Ductos, calhas de queda
+622.647.1	Transportadores de arrasto ou raspagem.
+622.647.2             Transportadores de correias, esteiras rolantes.
+622.647.3             Transportadores de caçamba
+622.647.4             Transportadores de rosca ou parafuso sem-fim.
+622.647.5             Transportadores de alcatruzes.
+622.647.6             Transportadores de rolos.
+622.647.7             Transportadores oscilantes, vibratórios.
+622.647.8             Transportadores de depósito. Trens
+transportadores.
+622.647.9             Transportadores de ejeção. Transportadores
+centrífugos.
+622.648	Transporte em tubulação com e sem meio
+especial de arrasto.
+      -> 621.643/.644
+      -> 621.867.7/.8 Transportadores por fluxo. 
+     Transportadores hidráulicos
+622.648.2	Transporte hidráulico. Içamento hidráulico. Bombas de carvão.
+622.648.3	Tubulação de transporte sem meio de arrasto.
+622.648.6	Dispositivos de transporte pneumático.
+-> 621.867.8 Transportadores pneumáticos. Elevadores pneumáticos.
+622.67	Elevação. Içamento. Transporte e
+carregamento vertical.
+      -> 621.876 Elevadores. Escadas rolantes. Monta-cargas
+Subdivisões Auxiliares Especiais
+622.67.05	Elementos e dispositivos para transmissão
+flexível.
+622.67.05 dividido como 621.85.05
+622.67.06	Partes dos dispositivos transportadores.
+622.67.06 dividido como 621.86.06
+622.67.07	Peças de elevadores, de monta-cargas.
+622.67.07 dividido como 621.86.07
+Divisões Principais
+622.672                  Escadas e outros dispositivos fixos.
+622.673                 Engrenagem de içamento.
+622.673.1	Motores para suspender, içar. Monta-cargas.
+-> 621.863 Engrenagem enroladora, cábreas
+622.673.2                 Armações da cabeça do poço. Torres de
+içamento.
+622.673.3                 Roldanas da cabeça do poço. Polias.
+622.673.4             Engrenagens suspensas.
+622.673.6             Cordas. Cabos.
+622.673.7             Dispositivos de tensionamento.
+622.673.8             Cilindros de içamento. Inclusive Monta-cargas
+de Koepe.
+622.674                Guias de gaiola. Vigas-guia (lanças).
+Pontaletes divisórios.
+622.675                Estações de carga. Estações de parada dos
+elevadores. Patamares.
+622.675.2             Fundos de poços.
+622.675.3             Bordas de poços.
+622.675.4             Colocação e retirada da gaiola de içamento.
+Inclusive Travões. Contrapesos da gaiola.
+622.675.5             Curva nos pontos de carregamento e retenção.Inclusive Dispositivos de cambar carros.
+      -> 621.869.2 Dispositivos de descarga, de esvaziamento,
+    para veículos sobre trilhos
+622.675.6              Limpeza do carro.
+622.675.7              Portas do poço ou chaminé.
+622.675.8             Engrenagens de recolher. Inclusive Coletores.
+Plataformas basculantes.
+622.676	Dispositivos de levantamento e suspensão
+diversos.
+      622.676 dividido como 621.876
+622.678	Uso de monta-cargas. Subida e descida.
+622.678.2	Subida e descida de pessoal.
+622.678.5	Içamento da caçamba de minérios. Içamento da
+gaiola.
+622.678.52              Içamento da gaiola. Inclusive Seguradores da
+gaiola.
+622.678.53              Içamento da caçamba.
+622.678.54              Içamento de caçamba e gaiola.
+622.678.6                Destino dado ao minério, carvão, etc.
+622.678.7                Descida de suprimentos, p. ex. madeira,
+máquinas.
+622.68	Transporte a céu aberto.
+622.682              Transporte por transportador.
+622.683              Transporte por trilhos.
+622.684              Transporte motorizado.
+622.685              Transporte hidráulico.
+622.686              Transporte pneumático.
+622.69	Armazenamento, manipulação e
+transporte de minerais (nas instalações da
+mina, boca da mina, poço, pedreira ou
+moinho, inclusive transporte por
+tubulação).
+	      Indicar o estado do mineral a ser armazenado ou
+                                        transportado por meio de '1...,  de 622'1
+      -> 622.063.8 Transporte na superfície
+      -> 621.875 Guindastes transportadores. Guindastes de portal
+622.691	Armazenamento, transporte, etc. de gases
+naturais. Inclusive Depósitos de gás.
+Gasodutos.
+      622.691 dividido como 622.692
+622.691.2	Armazenamento de gases naturais.
+Exemplo(s) de combinação(ões):
+622.691.2-404 Armazenamento de gases naturais 
+em estado líquido, liquefeito 
+622.691.2-405 Armazenamento de gases naturais 
+em estado sólido, solidificado
+622.692	Armazenamento, transporte, etc. de
+minerais líquidos.
+Exemplo(s) de combinação(ões):
+      622.692:622.323 Armazenamento. 
+     Transporte, etc. de petróleo
+      -> 665.6 Tecnologia de óleos minerais. 
+      Tecnologia do petróleo e produtos afins
+622.692.1	Coleta no campo, na cabeça da mina, ou na
+cabeça do poço.
+622.692.2	Armazenamento de minerais líquidos.
+Inclusive Recipientes: tanques, reservatórios. 
+Perdas durante o armazenamento. 
+      Detalhar por :621.642...
+622.692.4	Transporte em tubulação de minerais líquidos.
+Tubulações para líquidos. Oleodutos.
+      -> 621.644 Tubulações e sua construção
+622.692.5	Terminais para líquidos e sua operação.
+      -> 621.645 Terminais para a manipulação 
+     e distribuição de fluidos
+622.692.6	Outros meios de transporte na superfície de
+minerais líquidos, óleos, etc.
+Especificar por meio de :629... e :656...
+622.693	Armazenamento, transporte, etc. de
+minerais sólidos, minérios.
+622.693.2	Armazenamento de minerais sólidos, minérios.
+Recipientes. Inclusive Caixas. Sacos. Silos. Tulhas. Depósitos.
+622.693.4	Transporte por tubulações de fluossólidos.
+suspensões, pastas semifluidas, lamas, etc.
+622.693.6	Outros meios de transporte de superfície dos
+minerais sólidos e minérios.
+Especificar por meio de :621.86/.8, :629... e :656...
+622.7	Tratamento, processamento de
+minerais. Apuro do mineral. Preparação do minério.
+      -> 622.027 Capacidade para ser tratada. Susceptibilidade 
+     à trituração, ao polimento, etc.
+      -> 669.052 Generalidades sobre o tratamento de misturas de minério
+Especificar as variáveis e características do processamento
+ por meio de -9... (de 66-9)
+Indicar o mineral por meio de :622.3... 
+Exemplo(s) de combinação(ões):
+                                      622.7:622.337 Tratamento de betumes, p.ex. xisto betuminoso
+Subdivisões Auxiliares Especiais
+622.7.01	               Problemas gerais.
+Os auxiliares relacionados em 622.01...
+não são aplicáveis em 622.7 e suas subdivisões
+622.7.012	               Consumo. Rendimento. Eficiência.
+      622.7.012 dividido como 66.012
+622.7.016          Composição química e textural dos minerais.
+Métodos de análise, de ensaio.
+622.7.017          Propriedades tecnológicas dos minerais.
+Inclusive Lavabilidade.
+622.7.05	Tratamento preliminar. Transferência do
+mineral para as instalações de concentração ou separação.
+622.7.06	               Meios de separação. Reagentes de concentração. 
+                               Inclusive Preparação, introdução e recuperação.
+Os auxiliares relacionados em 622.06,  não 
+são aplicáveis em 622.7 e suas subdivisões
+622.7.09	Supervisão e controle por meio da amostragem.
+Exemplo(s) de combinação(ões):
+ 622.7.09:620.113 Processos de amostragem, bases e erros
+622.7.092		Controle dos produtos.
+Especificar por meio de :543... 
+Exemplo(s) de combinação(ões):
+                                      622.7.092:543.632.22 Por combustão e ignição 
+                                       no ar. Determinação pelas cinzas
+622.7.094	Controle das quantidades produzidas (rendimento).
+622.7.097	Controle dos resíduos, dos produtos de refugo.
+Divisões Principais
+622.72	Seleção. Peneiramento. Cata.
+      -> 621.928 Equipamento para separar, selecionar, peneirar, joeirar
+622.721	Seleção manual.
+622.723	Seleção mecânica.
+622.725	Seleção eletrônica.
+Exemplo(s) de combinação(ões):
+622.725:535.3 Seleção por reflexão, refração, etc.
+622.73	Cominuição. Esmagamento.Trituração.
+Moagem. Pulverização.
+      -> 621.926 Cominuição (principalmente de materiais duros)
+Exemplo(s) de combinação(ões):
+ 622.73:621.926.3 Cominuição em trituradores 
+       e moinhos de rolos, cones. Bolas, etc.
+622.74	Classificação e dimensionamento por meio de 
+                              peneiras e telas. Peneiras e telas para separar, 
+                             classificar, lavar.
+      -> 621.928.2 Peneiras. Telas. Crivos. Processos e
+    equipamento de peneiramento e crivação
+622.75/.77	Processamento por meio de líquidos e
+gases. Processamento úmido. Separação por 
+decantação de sólidos por ação da gravidade.
+      -> 621.928.3/.8
+622.751                    Classificação por decantação, em geral.
+622.752                    Sedimentação na água. Métodos e
+ equipamento que utilizam corrente fraca
+ de água.
+622.753                     Elutriação. Métodos e equipamento que
+ utilizam uma corrente de água vertical ou
+ quase vertical.
+      -> 622.762 Lavagem de vaivém. Máquinas 
+lavadoras de vaivém      
+622.755	Separação centrífuga úmida. Separação por
+hidrociclone.
+      -> 621.928.3 Centrífugas. Separadores centrífugos. 
+     Separadores e classificadores de ciclone
+622.762                     Lavagem de vaivém. Máquinas lavadoras de
+vaivém.
+622.763                    Lavadores de calha, mesa ou pia
+(principalmente em corrente horizontal
+de água).
+      -> 621.928.48 Lavagem em tinas. Lavadoras de mesa. 
+     Lavadoras de metais
+622.764	Mesas de concentração.
+622.764.2                  Mesas fixas. Inclusive Pias fixas. Bateias de
+concentração.
+622.764.3                  Mesas de bandas ou correias. Esteiras
+separadoras.
+622.764.4                  Mesas de vibração. Vibradores.
+622.764.5                  Mesas circulares. Inclusive Mesas de funil.
+622.764.6                  Tabuados. Travessões.
+622.764.7                  Mesas de fluxo.
+622.764.8                  Mesas de lavagem em relação à flotação.
+      -> 622.765.6 Flotação em relação às mesas de flotação
+622.765	Flotação. Métodos de concentração
+baseados na tensão superficial.
+      -> 621.928.5 Separação e separadores por flutuação. 
+    Separação que usa a tensão interfacial
+Subdivisões Auxiliares Especiais
+622.765.061	Meios, reagentes, etc. de flotação. Inclusive
+Espumadores. Depressores. Ativadores.
+Reguladores. Coletores.
+622.765.063	Tipos de flotação. Inclusive Flotação em
+massa, seletiva, direta, contrária, primária, secundária e de limpeza.
+622.765.066	Eliminação de espuma. Remoção dos agentes de
+flotação.
+Divisões Principais
+622.765.2                Flotação do óleo. Processos que empregam
+grande quantidade de óleo com mistura
+preliminar de minério, pasta de papel.
+óleo e água.
+622.765.3               Flotação superficial (que usa apenas a tensão
+superficial).
+622.765.4               Flotação com formação de espuma.
+622.765.5               Outros processos de flotação. Inclusive
+Flotação por agitação, iônica, sinterizada e
+salina. Processos que combinam a notação do
+óleo e a separação magnética (p. ex. processo
+Murex).
+622.765.6                Flotação em relação às mesas de concentração.
+      -> 622.764.8 Mesas de lavagem em relação à flotação
+622.765.8	Processos de adesão.
+622.766	Separação com emprego de meios pesados.
+Processos de flotação-mergulho.
+622.766.1	Líquidos puros, p. ex. tetracloreto de carbono.
+622.766.2	Soluções, p. ex. cloreto de cálcio.
+622.766.4	Suspensões. Emulsões. Inclusive Suspensão de
+baritina. Suspensão de areia, lodo. Lama.
+622.766.7	Separação que usa ciclones de meios densos.
+622.767	Separação pneumática. Separadores a
+corrente de ar.
+      -> 621.928.6 Separação e classificação por corrente de ar. 
+     Separadores de turbilhão. Separadores por corrente de ar
+622.767.52                Processos que empregam correntes fracas de ar
+                                  ou nenhuma corrente. Sedimentação.
+622.767.53                Processos que empregam basicamente correntes
+verticais de ar.
+622.767.55	Processos que empregam correntes rotativas,
+ciclônicas, de ar. Separação por ar centrífugo. Inclusive 
+Telas centrífugas e vibratórias. Telas com circulação de ar.
+      -> 621.928.3 Centrífugas. Separadores centrífugos. 
+     Separadores e classificadores de ciclone
+622.767.62                 Separadores pneumáticos de vaivém.
+622.767.63                 Processos que empregam basicamente correntes
+ horizontais de ar.
+622.767.64	Mesas pneumáticas.
+622.767.66	Processos que empregam dispersão em gases.
+Processos de flutuabilidade no ar. Inclusive
+Processo de ar-areia.
+622.771	Separação mecânica. Inclusive Separação a
+seco, com base na forma ou aspecto da
+superfície. Métodos que empregam
+elasticidade. Métodos baseados na
+clivabilidade, dureza, fragilidade.
+Separadores centrífugos. Separadores
+helicoidais ou de rosca.
+      -> 621.928.1/.3
+      -> 622.755 Separação centrífuga úmida. 
+     Separação por hidrociclone
+622.772	Processos combinados de separação.
+Inclusive Flotação e precipitação por lixívia
+(processo de Mostowitsch).
+622.775                     Separação com emprego de solventes.
+Inclusive Cianidação.
+622.776                     Amalgamação.
+622.777                     Separação eletrostática.
+      -> 621.359 Aplicações industriais da eletrocapilaridade. 
+     Eletroprecipitação
+      -> 621.928.7 Separação e separadores eletrostáticos
+622.778                     Separação magnética.
+      -> 621.928.8 Separação e separadores magnéticos. 
+Ímãs como separadores
+622.78	Tratamento térmico dos minérios e
+minerais.
+      -> 669.162.1 Matérias-primas e aditivos. 
+     Seu preparo para uso em altos-fornos. Carga
+622.781                Preparo dos minérios e aditivos para
+calcinação, sinterização, moldagem, etc.
+Mistura com combustível, agentes
+aglutinantes, etc.
+622.782               Torrefação. Calcinação.
+622.784               Torrefação por suspensão, centelha ou
+fluossólido.
+622.785               Sinterização.
+622.788	Fabricação de aglomerados modelados
+(briquetes, pelotas, nódulos). Briquetização, pelotização, etc.
+Inclusive Sinterização de formas verdes. 
+      Especificar por meio de :662.8.05...
+622.79	Tratamento posterior de minérios e minerais. Pós-tratamento.
+622.791	Tratamento químico. Exposição às
+intempéries. Corrosão.
+622.793               Tratamento com água.
+622.794               Eliminação do excesso de água e pó.
+622.794.2	Filtração do lodo e do fluxo excessivo.
+Aparelhos de desidratação. Inclusive
+Aparelhos de sucção, centrifugação, filtração.
+      -> 66.067.3 Equipamento de filtração
+622.794.3            Remoção de lodo, lama, etc.
+622.794.4            Secagem.
+      -> 66.047 Secagem industrial. Secadores
+622.794.7	Separação de pó (desempoeiramento) por
+gravidade, força centrífuga, filtros, etc.
+      -> 621.928.9 Separação, extração e coleta de poeira. 
+     Extratores de poeira
+Para o desempoeiramento como medida sanitária ou de
+ segurança nas minas, ver 622.807.1
+622.795	Processos de mistura. Mistura de minérios,
+de concentrados.
+      -> 621.929 Mistura de sólidos ou semi-sólidos. Amálgama 
+     de sólidos com líquidos
+622.8	Riscos, acidentes e danos decorrentes da mineração. Proteção à saúde e segurança nas minas.
+      -> 331.4 Ambiente de trabalho. Esquema do local de trabalho. 
+     Segurança ocupacional. Higiene no trabalho. Acidentes no trabalho
+      -> 351.823.3 Mineração
+      -> 614.8 Acidentes. Riscos. Proteção contra acidentes. 
+     Proteção pessoal. Segurança
+622.807	Controle subterrâneo da poeira em geral.
+Precauções contra a poeira.
+      -> 622.411.5 Poeira das minas. Fontes de formação de poeira
+      -> 628.511 Medidas contra a poeira
+622.807.1	Coleta da poeira seca. Desempoeiramento.
+      -> 622.794.7 Separação de pó (desempoeiramento) por gravidade, 
+     força centrífuga, filtros, etc.
+622.807.2	Coleta e supressão da poeira úmida. Borrifamento.
+622.807.4            Infusão de água. Infusão de outros líquidos.
+622.807.5            Infusão de vapor d'água. Infusão com outros
+vapores.
+622.807.7            Uso de agentes umectantes.
+622.807.8            Controle da poeira por meio do
+aperfeiçoamento dos processos de trabalho.
+622.81	Explosões subterrâneas de gás e poeira.
+Explosões e medidas de segurança nas
+minas.
+      -> 614.83 Riscos de explosão
+      -> 622.412 Meios de detectar o grisu
+622.812	Explosões de grisu.
+622.814	Explosões de pó de carvão. Explosões de pó
+de sulfeto.
+622.816	Irrupções de gases e líquidos dos furos de
+sondagem.
+622.817	Prevenção e controle de explosões.
+622.817.3            Polvilhamento com pó de pedra.
+622.817.4            Controle de emissão de gases.
+622.817.5            Classificação das minas segundo o conteúdo de
+poeira e gases.
+622.818	Medidas para conter, localizar os danos.
+Barreiras automáticas. Vedação.
+622.82	Incêndios nas minas. Combate aos
+incêndios nas minas.
+      -> 614.84 Riscos de incêndio. Incêndios. Proteção contra incêndios
+622.822	Incêndios e riscos de incêndio nas minas
+em geral.
+622.822.2            Incêndios espontâneos (devidos à combustão
+espontânea). Incêndios exógenos (de causas
+externas). Detecção e controle de incêndios.
+622.822.3            Prevenção de incêndios.
+622.824	Incêndios e riscos de incêndio nas escoras,
+instalações acessórias e equipamentos subterrâneos.
+622.826               Incêndios e riscos de incêndio nas
+instalações de armazenamento,
+manipulação e transporte na superfície.
+Incêndios em tanques de refugos, montes
+de escória, borra, etc.
+622.827               Incêndios e riscos de incêndio em gás, óleo
+e equipamento dos furos de sondagem.
+Incêndios nos furos de sondagem. Incêndios
+nos poços.
+622.83	Movimentos de rochas e do solo. Pressão
+da rocha. Subsidência. Fenômenos
+geostáticos e geodinâmicos.
+      -> 550.3 Geofísica
+      -> 551.24 Geotectônica
+622.831	Efeitos de pressão e deslocamento.
+Fraturas, falhas, etc. 
+622.831.2              Efeitos de compressão. Inclusive Pressão da escora. 
+                                  Tensão provocada pelas cavidades, poços.
+622.831.3            Tensões e fadigas. Pressão da rocha. Ruptura.
+Explosões de rocha.
+622.831.6	Desabamentos que rompem a superfície.
+Formação de fissuras, cavidades, etc.
+622.833	Movimentos do solo associados às operações
+de escavação, perfuração de poços e
+galerias. Inclusive Deslizamento.
+Distribuição da tensão.
+Exemplo(s) de combinação(ões):
+622.833:622.25 Causada pela escavação do poço
+622.834	Movimentos do solo causados pela
+exploração e trabalho de mineração.
+Inclusive Colapsos. Desabamentos.
+Subsidências. Levantamentos.
+Exemplo(s) de combinação(ões):
+622.834:622.273.21(091) Relatos históricos de movimentos 
+do solo em relação a entulhamento e aterro
+622.837	Danos devidos às operações de mineração.
+Exemplo(s) de combinação(ões):
+622.837:624.21 Dano às pontes
+622.838	Medidas especiais de segurança contra a
+subsidência, movimento das rochas, etc.
+Exemplo(s) de combinação(ões):
+622.838:69.059.22 Medidas contra danos a edificações
+622.838.5            Pilares de segurança.
+622.838.6           Medidas de segurança segundo o método de
+trabalho. Inclusive Extração harmônica.
+Métodos de recuo. Métodos contínuos.
+622.839	Danos falsamente atribuídos à mineração.
+Inclusive Danos devidos ao peso das
+construções, aos movimentos do subsolo,
+à vibração.
+622.84	Inundação e regime hidrológico em
+relação aos movimentos de rocha.
+      -> 622.5 Drenagem nas minas. Retirada de água nas minas
+622.841	Influência da mineração nos recursos
+hídricos. Inclusive Variações, exaustão do lençol freático.
+622.843               Desabamentos e subsidência em relação à
+drenagem.
+622.844               Desabamentos e subsidência em relação à
+dissolução.
+622.847	Penetração de água. Inundação.
+622.85	Danos à flora e à fauna causados pela mineração.
+                              	      -> 502.172 Proteção de elementos vivos ameaçados
+622.86	Acidentes em minas. Medidas de
+precaução e segurança. Trabalho de busca
+e salvamento.
+      -> 614.89 Riscos para partes específicas do corpo. 
+     Equipamento pessoal de proteção. Vestuários de proteção, etc.
+622.861                   Acidentes que envolvem a ação ou
+movimentos do próprio mineiro. Inclusive
+Quedas. Ferimentos provocados por
+ferramentas.
+622.862               Acidentes devidos a causas externas.
+Inclusive Ferimentos provocados por
+explosões, incêndios (queimaduras), quedas
+de rochas, etc. Riscos ligados à água, ao gás.
+Afogamento. Sufocação. Lesões provocadas
+por veículos, máquinas em movimento.
+Choques elétricos.
+622.864               Precauções, medidas de segurança contra
+acidentes na mineração em geral.
+622.865               Saídas de emergência, rotas de fuga, etc.
+(provisão, inspeção, manutenção).
+622.867               Organização do socorro. Trabalho de
+salvamento (métodos, equipamento etc.).
+Inclusive Postos de primeiros socorros.
+Equipamento pessoal, p. ex. aparelhos de
+oxigênio, máscaras de gases.
+622.868               Trabalho de recuperação após incêndios, etc.
+Reabertura.
+622.87	Riscos profissionais para a saúde na
+mineração. Medidas preventivas e
+paliativas, p. ex. modificação nos métodos
+de trabalho, controle das condições
+ambientais.
+Exemplo(s) de combinação(ões):
+622.87:613.633 Efeitos patogênicos da poeira das minas
+622.87:613.633:616.24-003.6 Poeira das minas como causa de pneumoconiose
+622.87:613.644 Efeitos prejudiciais do ruído e vibrações na mineração 
+622.87:613.65 Postura ou posição de trabalho defeituosa na mineração.
+      -> 613.6 Riscos ocupacionais. Higiene e saúde ocupacionais
+      -> 616-057 Doenças segundo a profissão, ocupação, emprego. 
+     Doenças ocupacionais. Medicina ocupacional
+622.88	Controle, regulamentação, reconstrução
+dos danos provocados pela mineração.
+Inclusive Avaliação dos danos.
+Indenização. Restauração da
+mineração.
+
+                                                        623 Engenharia militar
+
+      -> 355/359 Assuntos militares. Arte da guerra. 
+      Ciência militar. Defesa. Forças armadas
+      Especificar máquinas e equipamentos militares por
+     meio de  -1/-9  (de 62-1/-8 e 66-9)
+Subdivisões auxiliares especiais
+623.09	Equipamento especial de defesa e
+ataque (de fortificações, veículos,
+embarcações, etc.).
+623.093                  Blindagem. Equipamento, veículos
+blindados, etc.
+623.094                  Equipamento bélico. Armamento. Veículos
+armados, etc.
+Divisões principais
+623.1/.7	Engenharia militar sediada em
+terra. Artilharia.
+623.1/.3	Engenharia de campo. Fortificações.
+Obras de defesa. 
+623.1	Fortalezas. Fortificações permanentes. Linhas, áreas, zonas
+fortificadas.
+      -> 711.559.6 Localidades militares, de defesa
+      -> 725.1 Edifícios cívicos. Edifícios legislativos. 
+      Edifícios da administração pública. Edifícios de 
+      empresas de serviços públicos
+      -> 728.81 Castelos, fortificados ou semifortificados
+623.11                     Princípios. Teoria. Inclusive Cortes.
+Perfis. Contornos. Plantas. Disposição.
+Defesas de flanco (externas) em geral.
+Desenfiamento.
+623.12                     Detalhes de fortalezas e de fortificações
+permanentes. Inclusive Trabalhos de
+alvenaria, levantamento de muros. Obras
+de terra. Cobertura contra disparos. Blindagem.
+623.126                   Construções defensivas diversas.
+Localização das peças de artilharia.
+Inclusive Casamatas. Torreões. Bastiões.
+Engastes das peças de artilharia.
+623.127                   Obstáculos à aproximação. Inclusive
+Paliçadas. Armadilhas antitanques. Fossos.
+623.13	Linhas fortificadas, pontos e
+comunicações reforçadas.
+623.15	Fortificações temporárias e fortes de campanha em geral.
+      -> 355.424.1 Fortificações e campos temporários. Trincheiras
+623.2	Obras de ataque e defesa.
+Trabalhos de cerco. Fortificações
+de campo de batalha. Trabalhos de
+trincheira.
+623.21                   Sítio, cerco. Preparativos. Assentamento
+de acampamento.
+623.22                   Circunvalação. Contravalação.
+623.23                   Paralelas. Baterias.
+623.24                   Trincheiras. Ziguezagues, sapas, etc.
+Inclusive Trincheiras de comunicação.
+Escavações simples. Abrigos individuais,
+abrigo de trincheira.
+      -> 624.134 Abertura de canais, trincheiras, valas
+623.25	Baterias de assédio. Brechas. Trabalhos de assalto.
+623.3	Campos minados. Obstáculos de
+campo. Inundação.
+623.36	Campos minados em terra.
+      -> 623.454.36 Minas terrestres portáteis. Armadilhas explosivas portáteis
+623.363	Colocação de minas. Inclusive Fitas e
+marcadores. Caminhos e trilhas.
+623.365	Limpeza de minas. Desarme de minas.
+623.368	Detecção de minas.
+623.38                        Obstáculos de campo. Armadilhas.
+Inclusive Cercas de arame farpado.
+Armadilhas de poços.
+623.39                         Inundação como meio de defesa.
+623.4	Armamento. Munições. Armas.
+Canhões. Artilharia. Armas pequenas. Armas portáteis. 
+Veículos blindados e outros de serviço. Munição e 
+gases de guerra. Mísseis e foguetes teleguiados.
+Subdivisões auxiliares especiais
+623.4.01	Fundamentos de projetos. Características e
+testes de armas e do equipamento militar.
+623.4.011	Características militares.
+623.4.012	Parâmetros geométricos. Escolha do tamanho.
+      -> 62-181 Segundo as dimensões, tamanho
+623.4.013	Características de peso.
+      -> 62-183 Segundo o peso
+623.4.014	Características de mobilidade. Inclusive
+Armamentos ativos, passivos,
+autopropulsionados. Anfíbios.
+      -> 62-182 Segundo a mobilidade, permutabilidade e conversibilidade
+623.4.015	Grau de letalidade.
+623.4.015.2	Letal.
+623.4.015.4	Não-letal.
+623.4.015.6	Desempenho. Alcance, características de velocidade, etc.
+623.4.017	Confiabilidade operacional. Facilidade de manobra, manobrabilidade, etc.
+623.4.018              	Testes e exame de armas e equipamento militar
+623.4.02	Controle de fogo. Preparo e tabelas balísticas.
+623.4.021	Conquista, detecção, identificação do alvo. Interceptação.
+623.4.022	Preparação balística e topográfica. Pesquisa de mira de artilharia. 
+                                Condições atmosféricas, meteorológicas.
+      -> 528 Engenharia de saúde pública. Engenharia sanitária. 
+     Água. Saneamento. Engenharia de iluminação
+623.4.023	Previsão. Determinação do ângulo de tiro.
+Determinação da velocidade do alvo.
+623.4.023.2	Determinação de coordenadas.
+623.4.023.4	Determinação do ângulo de tiro.
+623.4.023.6	Determinação da velocidade do alvo.
+623.4.024	Observação, ajuste de fogo.
+623.4.025	Controle de fogo.
+      -> 623.551 Pesquisa geral e comparada de armas de artilharia, 
+     foguetes, mísseis teleguiados.
+623.4.026	Ordens de atirar.
+623.4.027	Orientação de mísseis.
+      -> 623.4.055 Equipamento de base para guiar mísseis
+      -> 623.465 Sistemas de direção
+623.4.028	Cálculo do alvo.
+623.4.03	Pentes de balas. Mecanismos de alimentação.
+623.4.04	Blocos e anéis da culatra. Mecanismos para carregar a arma.
+623.4.05	Miras. Mecanismos de pontaria e mira.
+Estudos de mira.
+623.4.052	Miras fixas, ajustáveis e não-ajustáveis. Miras
+abertas (traseiras e dianteiras). Miras ópticas.
+623.4.052.2              Miras traseiras. Alças de mira.
+623.4.052.3               Alças de miras dianteiras.
+623.4.052.5	Miras ópticas. Inclusive Miras telescópicas.
+623.4.053	Miras de previsão.
+623.4.054	Assesto da peça. Mecanismos de apontar a peça.
+623.4.054.1	Mecanismo de giro horizontal.
+623.4.054.2	Mecanismo de elevação.
+623.4.054.8	Dispositivos de computação para mecanismos
+de pontaria. Orientadores. Preditores.
+623.4.055	Equipamento de base para guiar mísseis.
+      -> 623.4.027 Orientação de mísseis
+      -> 623.465 Sistemas de direção
+623.4.06	Mecanismos de disparo. Mecanismos de
+gatilho. Ejetores. Extratores.
+623.4.062	Mecanismos manuais de disparo, inclusive
+Mecanismos de engatilhar, de armar a peça. Gatilhos. 
+Percussores. Trava. Travas de segurança.
+623.4.063	Mecanismos de disparo mecânico e automático.
+623.4.066                   Dispositivos de segurança para delimitar a
+direção do disparo.
+623.4.067                   Mecanismos de recuo, de coice. Freios da boca
+da arma de fogo.
+      -> 623.435 Componentes de viaturas e reparos de armas
+      -> 623.57 Comportamento dos reparos durante o disparo
+623.4.068                   Dispositivos para redução de ruído, de clarão,
+etc. Supressores de ruído, silenciadores.
+Eliminadores de clarão.
+623.4.069                    Extratores. Ejetores.
+623.4.07	Questões diversas relativas às armas de fogo.
+Acessórios. Inclusive instrumentos de calcar,
+socar, soquetes, atacadores, alavancas.
+Cartucheiras, porta-munições. Coldres, estojos
+de pistolas.
+623.4.072                  Apoios para mira, tripés de apoio, etc. para
+impedir a oscilação e limitar os cortes de
+disparo.
+623.4.073                   Pendas, seleiras para atirar. Canhoneiras.
+Troneiras.
+623.4.077	Limpeza, manutenção de canos de armas. Inclusive Cordéis de limpeza.
+623.4.08	Peças, cargas e acessórios de projéteis, foguetes
+e mísseis teleguiados.
+      -> 623.45/.46
+623.4.081	Cápsula ou invólucro do projétil.
+623.4.081.2                  Projéteis de cápsula pesada. Projéteis de
+energia cinética. Projéteis perfuradores de
+blindagem.
+623.4.081.3                  Projéteis de cápsula média, de capacidade
+média.
+623.4.081.4                  Projéteis de cápsula leve, de alta capacidade.
+623.4.082	Ogivas.
+Especialmente aplicáveis a 623.46
+623.4.082.2                 Ogivas inertes e de exercício.
+623.4.082.3                 Ogivas perfuradoras de blindagem.
+623.4.082.5	Ogivas de fragmentação. Ogivas de haste e
+haste contínua.
+623.4.082.6	Carga explosiva. Carga oca (carga moldada).
+623.4.083	Projéteis segundo as cargas.
+      -> 623.452 Fabricação, montagem de munição de artilharia
+      -> 662.1/.4 Explosivos
+623.4.083.1	Cargas de mísseis altamente explosivas.
+623.4.083.13	Carga altamente explosivas antitanques,
+cargas ocas.
+623.4.083.14	Cargas incendiárias altamente explosivas.
+623.4.083.17	Ogiva de plástico altamente explosiva.
+623.4.083.2	Dispositivos nucleares e termonucleares.
+623.4.083.22	Fissão nuclear. Fissão atômica.
+623.4.083.25	Fusão termonuclear. Inclusive Mísseis de
+bomba de hidrogênio.
+623.4.083.3	Cargas pirotécnicas.
+      -> 662.1 Fogos de artifício. Pirotecnia e dispositivos pirotécnicos
+623.4.083.31             Cargas traçantes.
+623.4.083.32             Cargas de sinalização e iluminação.
+623.4.083.33             Cargas marcadoras coloridas.
+623.4.083.34             Cargas incendiárias.
+      -> 623.4.083.14 Cargas incendiárias altamente explosivas
+623.4.083.37	Cargas de fumaça. Cargas de nevoeiro.
+623.4.083.4	Guerra química, cargas de gás.
+      -> 623.459 Armas químicas. Gases de guerra (gases tóxicos): 
+     detecção, proteção, descontaminação
+623.4.083.5	Cargas de guerra biológica. Inclusive Cargas de
+bactérias.
+      -> 623.458 Armas biológicas. Toxinas, baterias, etc.
+623.4.083.8	Material de propaganda em mísseis, p. ex.
+folhetos.
+623.4.084	Sistemas de direção de mísseis a bordo.
+623.4.084.2	Acelerômetros.
+623.4.084.3	Unidades gironertes. Giroscópios.
+Giroplataformas.
+623.4.084.5	Pilotos automáticos.
+623.4.084.6	Dispositivos de programação.
+Indicar os detalhes de computador por meio de .681.3...
+623.4.084.7	Coordenadores de alvo.
+623.4.085	Faixas e cintas de controle de mísseis.
+623.4.086	Aletas. empenagens. Dispositivos para
+controle de trajetória.
+623.4.087	Dispositivos de aglomeramento. Aglomerados de bombas.
+Divisões principais
+623.41	Sistemas de armas. Armas para artilharia e foguetes. 
+                                   Exemplo(s) de combinação(ões):
+623.41:355.46 Artilharia para operações combinadas de mar c ar
+623.411	Formas primitivas de artilharia. Inclusive Colubrinas. Falconetes. Bombardas.
+      -> 623.428.1 Formas primitivas
+623.412	Sistemas de armamento para tanques e
+antitanques.
+623.412.2	Sistemas de armamento antitanque, Artilharia
+antitanque.
+623.412.6	Sistemas de armamento de tanques. Artilharia
+de tanques.
+623.413	Artilharia de campo. Artilharia de
+montanha.
+623.413.2	Canhões leves de campo.
+623.413.4	Canhões de montanha.
+623.413.6	Canhões pesados e meio-pesados de campo.
+623.414                       Canhões para desembarque.
+623.415                       Sistemas de armamento de fortificações e
+linhas fortificadas.
+623.416                      Artilharia pesada.
+Exemplo(s) de combinação(ões):
+623.416:355.458 Artilharia para defesa
+marítima. Artilharia de costa
+623.416.2	Artilharia de posição, de sítio e de fortaleza.
+623.416.6	Canhões de longo alcance. Canhões de alcance
+superlongo.
+623.417	Artilharia naval.
+      -> 623.941 Instalações de artilharia a bordo
+623.418	Artilharia antiaérea e de aeronaves.
+623.418.2	Sistemas de armamento antiaéreo.
+623.418.4              Sistemas de armamento de aeronaves.
+623.419	Sistemas de armamento de mísseis ou foguetes.
+      -> 621.453/.456
+      -> 623.428.2 Rampas de lançamento
+      -> 623.428.83 Mecanismo de lançamento de foguetes 
+     instalado em aeronaves
+      -> 623.46 Mísseis teleguiados. Foguetes. Sistemas de 
+     direção, curvas de vôo, lançamento. Ogivas
+623.42	Material bélico.
+623.421	Tipos de armamentos.
+623.421.2                   Canhões. Canhões montados.
+623.421.3                   Morteiros, obuses.
+623.421.4                    Morteiros.
+623.421.7                    Armas de fogo de alma lisa, de cano liso, sem
+raiamento.
+623.421.8                   Armas de fogo sem recuo.
+623.422	Armas de fogo segundo o método de
+carregamento e operação. Inclusive
+Armas de fogo carregadas pela boca. Armas
+de fogo carregadas pela culatra. Armas de
+fogo de canos múltiplos (metralhadoras
+francesas de vários canos, armas de fogo
+giratórias, etc.).
+623.422.1	Armas de fogo carregadas pela boca.
+623.422.2                   Armas de fogo carregadas pela culatra.
+623.422.3                   Armas de fogo de vários de canos. Inclusive
+Metralhadoras francesas de vários canos.
+Armas de fogo giratórias.
+623.422.4                   Armas de fogo semi-automáticas, do tipo de
+carga e ejeção manual.
+      -> 623.442.3/.4
+623.422.5	Armas de fogo automáticas.
+623.422.55	Armas de fogo automáticas de vários canos.
+Inclusive Vulcan (canhão antiaéreo de 20 mm, de seis canos).
+623.423	Construção de canos e tubos de armas de fogo.
+623.423.2                    Forma externa.
+623.423.22	Com munhões.
+623.423.24	Sem munhões.
+623.423.3                    Forma interna de tubos e canos. Alma.
+623.423.32            Canos de alma lisa.
+623.423.34	De alma cônica.
+623.423.36	De alma raiada.
+623.423.4                    Arquejado. Com tubo. Revestido.
+623.423.5                    Auto-atrito.
+623.423.7	Câmara.
+623.427	Armas e reparos adaptados para
+treinamento, para exercícios. 
+Inclusive Canos de manejo, de instrução.
+      -> 623.447 Armas de teatro e de brinquedo. 
+      Dispositivos inofensivos, com carga de festim
+623.428	Armas e projetores que não utilizam
+propelentes explosivos.
+623.428.1	Formas primitivas. Inclusive Balistas
+(catapultas grandes).
+      -> 623.411 Formas primitivas de artilharia
+      -> 623.446.8 Dispositivos balísticos primitivos
+623.428.2	Rampas de lançamento.
+      -> 623.419 Sistemas de armamento de mísseis ou foguetes
+      -> 623.46 Mísseis teleguiados. Foguetes. 
+Sistemas de direção, curvas de vôo, lançamento. Ogivas
+623.428.8	Mecanismo de lançamento de projéteis
+instalado em aeronaves
+      -> 623.556 Disparos de aeronaves, de aviões
+623.428.81                Mecanismo de lançamento de torpedos
+instalado em aeronaves.
+623.428.82                Mecanismo de lançamento de bombas instalado
+em aeronaves. Porta-bombas.
+623.428.83                Mecanismo de lançamento de foguetes
+instalado em aeronaves.
+      -> 623.419 Sistemas de armamento de mísseis ou foguetes
+      -> 623.46 Mísseis teleguiados. Foguetes. Sistemas de direção, 
+      curvas de vôo, lançamento. Ogivas
+623.428.84	Calhas de lançamento.
+623.43	Viaturas e reparos para armas. Viaturas
+militares.
+623.431	Viaturas para  transporte de munição.
+Recipientes para munição (caixas, estojos,
+barris, cofres).
+      -> 623.457.4 Embalagem da munição para transporte
+623.432	Reparos móveis.
+      -> 623.941 Instalações de artilharia a bordo
+623.433                      Reparos terrestres.
+623.434                      Reparos em veículos, embarcações e aeronaves.
+623.434.5	Reparos em embarcações e conveses (exceto em
+navios de guerra).
+      -> 623.941 Instalações de artilharia a bordo
+623.434.7                   Reparos em aeronaves.
+623.434.8                   Reparos em veículos (exceto em ferrovias).
+623.434.9                   Reparos em ferrovias.
+623.435	Componentes de viaturas e reparos de
+armas.
+      -> 623.4.067 Mecanismos de recuo, de coice. 
+     Freios da boca da arma de fogo
+      -> 623.57 Comportamento dos reparos 
+     durante o disparo
+623.435.1                  Mordentes. Travessas.
+623.435.2                  Berços ou bases. Cursores de recuo.
+623.435.3                  Componentes para manobrar, posicionar.
+Rodas de carros e caminhões. Reparos rolantes,
+deslizantes, pivotantes, etc.
+623.435.5                  Mecanismo de recuo.
+623.435.6                  Amortecedores. Absorventes de recuo.
+Dispositivos de ancoragem. Inclusive Trilhos.
+Plataformas. Freios.
+623.435.7                   Recuperadores.
+623.436                      Equipamento especial separado para
+manobras. Equipamento manual. Inclusive
+Alavancas, polias, guinchos, etc. Carrinhos
+de munição. Vagonetes.
+623.437                      Viaturas de serviço, transporte e
+abastecimento.
+Especificar pormenores dos veículos por meio de :629...
+623.437.1                   Bicicletas.
+623.437.2                   Motocicletas, sozinhas ou combinadas com
+carrinhos, caçambas laterais, etc.
+623.437.3                   Veículos de tração animal (p. ex. veículos
+ puxados a cavalo).
+623.437.4	Veículos motorizados.
+623.437.41                  Veículos para múltiplas finalidades. Jipes, etc.
+623.437.42                  Tratores, de rodas ou esteiras.
+623.437.44	Caminhões, viaturas de carga. Carros-tanque.
+623.437.446              Veículos de socorro. Carros-socorro. Guinchos.
+      -> 623.438.36 Viaturas blindadas de socorro
+623.437.448	Veículos de lançamento. Rampas móveis de
+ lançamento.
+      -> 623.467.7 Lançamento de mísseis e foguetes
+623.437.46	Viaturas de transporte de tropa. Veículos de transporte de pessoal.
+623.437.5	Veículos passivos, rebocados. Reboques. Transportadores de 
+                                    viaturas e mísseis. Viaturas equipadas com rádio, etc.
+623.438	Veículos blindados.
+Especificar veículos por meio de :629...
+623.438.1	Veículos blindados de transporte da infantaria
+ou de pessoal.
+623.438.2                   Veículos com rodas ou veículos com rodas e
+esteiras, com armamento. Inclusive Viaturas
+blindadas. Viaturas de reconhecimento.
+623.438.3                   Viaturas totalmente de esteira, com
+armamentos. Tanques (de todos os tipos, mas
+sem canhões de autopropulsão).
+      -> 623.438.4 Canhões de autopropulsão
+623.438.32	Com armamento pesado. Tanques pesados e
+médios (tanques cruzadores e de infantaria).
+623.438.322	Tanques pesados.
+623.438.324	Tanques médios.
+623.438.33                       Com armamento leve. Tanques leves. Tanques
+de reconhecimento.
+623.438.34                 Com metralhadoras apenas. Inclusive
+Transportadores Bren.
+623.438.35                 Viaturas detectoras de minas ou de limpeza de
+campos minados (inclusive veículos de controle
+remoto).
+623.438.36                 Viaturas blindadas de socorro.
+      -> 623.437.446 Veículos de socorro. Carros-socorro. Guinchos
+623.438.37	Viaturas lança-chamas.
+623.438.39	Veículos blindados com outros equipamentos.
+Exemplo(s) de combinação(ões):
+623.438.39:624.21 Tanques colocadores de pontões
+623.438.4                    Canhões de autopropulsão.
+623.438.5                    Trens blindados.
+623.438.7	Tanques e viaturas blindadas anfíbias.
+623.44	Armas manuais. Armas de fogo. Armas de
+pequeno porte. Baionetas. Armas brancas.
+Equipamento de proteção.
+      -> 799 Tiro. Esportes de tiro ao alvo
+623.441	Armas de fogo primitivas. Inclusive
+Bacamartes. Arcabuzes.
+      -> 623.446 Armas primitivas diversas
+623.442	Mosquetes. Mosquetões. Carabinas. Rifles.
+Fuzis. Metralhadoras. Armas de fogo para
+finalidades especiais.
+623.442.1	Rifles e carabinas de carregar pela boca.
+623.442.2                   Rifles e carabinas não-automáticas de carregar
+pela culatra.
+623.442.3                 Rifles e carabinas de repetição.
+623.442.4                 Rifles e carabinas automáticas e 
+                                 semi-automáticas. Metralhadoras
+      -> 623.422.5 Armas de fogo automáticas
+623.442.45                Rifles e carabinas automáticas e semi-automáticas.
+623.442.46                Metralhadoras leves.
+623.442.47                Metralhadoras pesadas. Metralhadoras pesadas
+de tanque.
+623.442.5                  Fuzis para finalidades especiais. Inclusive
+Fuzis antitanques. Fuzis para atiradores de
+elite. Fuzis para marcação. Fuzis lança-
+granadas. Fuzis e rifles para competição de tiro
+ao alvo.
+623.442.6                   Armas de fogo de cano liso. Espingardas, armas
+de caça (sem raiamento). Espingardas de
+cartucho. Escopetas.
+623.442.7                   Armas de fogo de construção especial.
+Inclusive Armas retráteis, articuláveis. Armas
+escondidas ou disfarçadas, p. ex. em bengalas.
+Fuzis para balas-foguete. Armas com
+silenciador. Armas de fogo carregadas sem
+cápsula.
+623.443	Armas de fogo manuais. Pistolas.
+Revólveres.
+      -> 623.447 Armas de teatro e de brinquedo. 
+      Dispositivos inofensivos, com carga de festim
+623.443.1                   Formas primitivas de pistola. Inclusive
+Pistolas de um só tiro. Pistolas de canos
+múltiplos, giratórios.
+623.443.2	Pistolas de repetição. Revólveres (com câmara
+giratória).
+623.443.3	Pistolas de autocarregamento (operadas por
+recuo ou gás). Pistolas automáticas. Pistolas
+mecânicas.
+623.443.35	Pistolas automáticas.
+623.443.37	Pistolas mecânicas, de repetição.
+Submetralhadoras. Inclusive Metralhadoras
+Thompson.
+623.443.6	Pistolas sinalizadoras ou de foguetes 
+luminosos. Inclusive Pistolas Very.
+623.444	Armas brancas (armas de cortar e perfurar).
+Baionetas.
+      -> 672.711 Armas para cortar, furar, cravar
+623.444.1                  Formas primitivas de armas brancas. Inclusive
+Alabardas. Partasanas. Machados.
+Machados de guerra.
+623.444.2                   Espadas. Sabres. Alfanges. Cutelos. Espadas
+largas. Espadas de duelo, floretes, etc.
+623.444.3                  Baionetas.
+623.444.4                  Lanças.
+623.444.6	Facas, Inclusive Adagas. Punhais. Estiletes.
+Canivetes de mola..
+623.444.92	Empunhaduras. Cabos. Punhos. Guardas.
+623.444.95	Bainhas.
+623.445	Equipamento de proteção. Armadura,
+elmos, etc.
+623.445.1                  Armadura para o corpo. Inclusive Armadura
+completa. Placas peitorais, couraças. Armadura
+leve. Cotas de malha. Roupa blindada (p. ex.
+coletes à prova de bala).
+623.445.2                  Protetores blindados para a cabeça. Inclusive
+Elmos. Capacetes de aço.
+      -> 687.44 Chapéus militares
+623.445.3	Proteção acessória (carregada mas não vestida).
+Inclusive Escudos.
+623.446	Armas  primitivas  diversas.
+623.446.1	Armas para bater, ferir, esmagar. Inclusive
+Chicotes. Cacetes. Maças. Clavas. Porretes. Bordões. Bordunas. Sequeiras.
+623.446.3                   Zarabatanas.
+623.446.4                   Arcos e flechas. Inclusive Arcos longos.
+Bestas.
+623.446.5                   Armas de arremesso. Inclusive Dardos, lanças.
+azagaias.
+623.446.7                   Bumerangues.
+623.446.8                   Dispositivos balísticos primitivos. Inclusive
+Fundas. Bodoques. Estilingues. Atiradeiras.
+Catapultas manuais.
+      -> 623.428.1 Formas primitivas
+623.447	Armas de teatro e de brinquedo.
+Dispositivos inofensivos, com carga de
+festim. Inclusive Espadas de brinquedo.
+Revólveres com balas de festim. Pistolas,
+revólveres de espoleta.
+      -> 623.427 Armas e reparos adaptados para treinamento, para exercícios
+      -> 623.456 Munição para paradas, desfiles, cerimônias. Munição de
+     treinamento, de exercícios. Munição para manobras
+      -> 662.421.21 Dispositivos escorvadores operados mecanicamente
+      -> 688.72 Brinquedos
+623.45	Munição. Dispositivos pirotécnicos.
+Armas atômicas (nucleares), biológicas (bactérianas), químicas.
+      -> 341.67 Desarmamento. Paz permanente, duradoura. 
+     Limitação de armas: atômicas (nucleares), biológicas 
+    (bacteriológicas), químicas. Não-proliferação. 
+      Limitação de armas estratégicas
+      -> 351.753 Fiscalização de armas, munições, explosivos
+      -> 662 Explosivos. Combustíveis
+623.451	Projéteis de artilharia. Granadas. Bombas.
+      -> 623.46 Mísseis teleguiados. Foguetes. Sistemas de direção, 
+     curvas de vôo, lançamento. Ogivas
+623.451.1                   Formas primitivas. Projéteis esféricos.
+Inclusive Balas redondas (p. ex. de
+canhão), granadas.
+623.451.2                   Metralhas. Lanternetas. Granadas de
+estilhaços.
+623.451.3                   Projéteis oblongos. Projéteis em seta.
+623.451.4                   Granadas.
+Exemplo(s) de combinação(ões):
+623.451.4.081.2 Granadas perfuradoras de blindagem 
+                                             623.451.4.083.1 Granadas de alta carga explosiva
+623.451.5	Projéteis de morteiro.
+623.451.7	Bombas, torpedos, etc. para serem lançados de aeronaves.
+      -> 623.463.5 Foguetes de aeronaves
+623.451.72	Torpedos aéreos.
+      -> 623.946 Torpedos navais, tubos e acessórios
+623.451.73	Minas aéreas, cargas de profundidade.
+      -> 623.95 Minas e cargas de profundidade. 
+      Lançamento de minas.Varredura de minas
+623.451.74	Bombas aéreas. Projéteis com superfícies de
+orientação.
+623.451.746	Bombas de queda livre. Inclusive Bombas
+planadoras.
+Exemplo(s) de combinação(ões): 
+623.451.746.083.1 Bombas de alta explosividade
+623.451.746.083.22 Bombas atômicas 
+623.451.746.083.34 Bombas incendiárias
+       -> 623.454.8 Armas atômicas, nucleares, termonucleares. Raios ativos
+623.451.747               Retrobombas.
+623.451.748               Bombas aceleradas.
+623.452	Fabricação, montagem de munição de
+artilharia.
+      -> 623.457 Equipamento para montagem, embalagem e 
+      manutenção da munição
+623.454	Dispositivos pirotécnicos para detonadores
+e uso incendiário, para geração de fumaça, sinalização e demolição. 
+Minas. Armas atômicas.
+623.454.1	Mechas, estopins. Detonadores do tipo cordel.
+      -> 662.45 Estopins de corda. Espoletas de corda
+623.454.2	Dispositivos de ignição.
+      -> 662.42 Dispositivos escorvadores
+623.454.21                Para cargas propulsoras em canhões. Inclusive
+Cápsulas de percussão. Tubos. Espoletas.
+623.454.22                Dispositivos de ignição que contêm explosivos.
+Exemplo(s) de combinação(ões):
+623.454.22-83 Dispositivos elétricos de ignição
+623.454.23	Dispositivos de disparo, p. ex. para
+armadilhas explosivas, minas, bombas.
+623.454.234              Pistolas para disparar bombas.
+623.454.235              Disparadores de minas.
+623.454.235.3         Tipo instantâneo.
+623.454.235.5          Tipo de ação retardada. Espoleta de tempo. 
+623.454.235.53         Mecanismo de relógio. 
+623.454.235.55          Ação química.
+623.454.24	Detonadores. Deflagradores. Alastradores.
+623.454.25	Estopins, espoletas, mechas para projeteis.
+623.454.251            Espoletas de tempo.
+623.454.252	Espoletas de pressão. Inclusive Barométrica.
+Hidrostática.
+623.454.253              Espoletas mecânicas. Espoletas com
+mecanismo de relógio.
+623.454.254              Espoletas de proximidade. Inclusive Espoletas
+térmicas (infravermelhas). Espoletas acústicas.
+Espoletas magnéticas.
+623.454.255              Espoletas de percussão.
+623.454.256              Espoletas de tempo e percussão.
+623.454.257              Espoletas elétricas. Inclusive Espoletas
+piezelétricas. Espoletas fotoelétricas.
+Espoletas eletroquímicas.
+623.454.258              Mecanismo de ação retardada.
+623.454.259              Dispositivos, pinos, cápsulas de segurança e
+armação.
+623.454.3	Minas. Dispositivos de demolição.
+623.454.35                Câmaras de minas. Camuflagens.
+623.454.36                Minas terrestres portáteis. Armadilhas
+explosivas portáteis.
+      -> 623.36 Campos minados em terra
+623.454.361              Minas antitanques. Minas antiviaturas.
+623.454.362              Minas contra pessoas.
+623.454.364              Armadilhas explosivas. Minas especiais.
+623.454.365              Minas antidesembarque.
+623.454.367	Minas de explosão.
+623.454.37	Dispositivos de demolição. Inclusive Cargas
+portáteis. Petardos.
+                                     -> 623.685 Demolição ou destruição como meio de defesa
+623.454.38	Limpeza de minas por explosão.
+623.454.4	Dispositivos de iluminação e sinalização,
+marcadores.
+623.454.41                Sinais de fogo.
+623.454.42                Tochas. Clarões. Fogos-de-bengala.
+623.454.44	Foguetes de sinalização.
+623.454.5                  Fumaça. Geradores de fumaça.
+      -> 623.775 Nevoeiro artificial. Cortinas de fumaça
+      -> 662.17 Dispositivos geradores de fumaça 
+     (produtores de fumaça, neblina, cerração)
+623.454.7	Fogo e dispositivos incendiários como
+armas de ataque.
+623.454.71                 Lança-chamas.
+623.454.72                Dispositivos incendiários.
+      -> 662.14 Dispositivos e substâncias incendiárias
+623.454.76	Proteção contras chamas e dispositivos
+incendiários. Inclusive Roupas á prova de fogo.
+      -> 614.842.86 Estrutura e pessoal do corpo de bombeiros
+      -> 614.895 Proteção do corpo. Proteção do corpo inteiro
+623.454.8	Armas atômicas, nucleares, termonucleares. Raios ativos.
+      -> 623.451.746.083.22. Bombas atômicas
+623.454.81                Cargas nucleares.
+623.454.82                Explosões nucleares.
+623.454.83                Fenômenos que ocorrem durante e após as
+explosões nucleares.
+623.454.832              Radiações.
+623.454.833              Ondas de choque.
+623.454.835	Nuvens. Colunas de poeira. Contaminação da
+poeira. Ionização atmosférica.
+623.454.836	Contaminação radioativa.
+623.454.838	Efeito da explosão nuclear sobre objetos
+diversos.
+623.454.84	Detecção e registro de explosões nucleares.
+Determinação dos parâmetros da
+explosão nuclear.
+623.454.86	Proteção contra as armas nucleares e suas
+conseqüências.
+      -> 355.58 Organização e treinamento da população civil. 
+Defesa civil. Precauções contra ataque aéreo
+623.454.87	Meios de descontaminação radioativa.
+623.455	Munição para armas leves.
+Munição portátil.
+623.455.1	Balas. Grãos de chumbo. Escumilha.
+623.455.11                Pelouro. Grãos de chumbo.
+623.455.12               Balas de metal oblongas em cápsula de metal. Inclusive Balas dunduns.
+               Exemplo(s) de combinação(ões):
+623.455.12.083.31 Balas traçadoras
+623.455.2                  Cápsulas de cartucho, cartucho vazio.
+623.455.3                  Cartuchos completos.
+623.455.4                  Cartuchos para carga leve.
+623.455.6	Cartuchos de caça. Cartuchos de chumbo.
+623.455.8	Granadas de fuzis. Granadas de mão.
+623.456	Munição para paradas, desfiles, cerimônias.
+Munição de treinamento, de exercícios.
+Munição para manobras. Inclusive Balas,
+cartuchos de festim,
+Exemplo(s) de combinação(ões):
+      623.456:623.451.3.083.4 Projéteis a gás para manobras
+      -> 623.427 Armas e reparos adaptados para treinamento, parra exercícios
+      -> 623.447 Armas de teatro e de brinquedo. Dispositivos inofensivos, com carga de festim
+623.457	Equipamento para montagem, embalagem e
+manutenção da munição.
+      -> 623.483 Instalações e equipamento de fábricas de material bélico
+623.457.2	Máquinas para montagem de cartuchos
+completos.
+623.457.3	Operações de ajuste. Espoletas, estopins
+automáticos, chaves de ajuste etc..
+623.457.4	Embalagem da munição para transporte.
+      -> 623.431 Viaturas para transporte de munição. Recipientes para munição (caixas, estojos, barris, cofres)
+623.457.5	Carregamento em pentes, depósitos de munição. Carregamento, descarregamento em fitas de unição.
+623.457.6	Falhas da munição. Neutralização do espoleta.
+623.457.7	Alimentação, vedação, obturação de projéteis.
+623.458	Armas biológicas. Toxinas, bactérias etc..
+623.458.2	Venenos, toxinas (excetos gases de guerra)
+como arma de ataque. Envenenamento da água.
+alimentos etc..
+623.458.3	Armas bacteriológicas. Infecção de
+alimentos, de rações animais etc. com
+bactérias, microorganismos. Contaminação
+do solo e da água.
+623.459	Armas químicas. Gases de guerra (gases
+tóxicos): detecção, proteção,
+descontaminação.
+      -> 662.164 Produção de gases de guerra
+623.459.1	Métodos de uso. Efeito.
+623.459.3	Gases segundo sua persistência.
+623.459.32	Gases não-persistentes, evanescentes.
+623.459.33	Gases persistentes.
+623.459.4	Tipos de gases de guerra segundo sua ação.
+623.459.42	Gases asfixiantes. Inclusive Fosgênio.
+623.459.43	Gases irritantes. Inclusive Gases
+lacrimogêneos. Gases esternutatórios.
+p. ex,. arsina.
+623.459.44	Gases paralisantes.
+623.459.45	Gases vesicantes. Inclusive Gás de mostarda.
+Lewisita.
+623.459.66	Gases que afetam os nervos.
+623.459.5	Detecção de gases de guerra.
+623.459.6	Proteção individual contra gases de guerra.
+623.459.61/.68 dividido como 6I4.891/.898
+623.459.64	Proteção do sistema respiratório. Inclusive
+Máscaras contra gases. Equipamento de respiração.
+623.459.65	Proteção do corpo contra gases. Inclusive
+Proteção do corpo inteiro contra gases. Roupa
+de proteção, p. ex.. jaquetas, capas, calças
+contra gases. Cobertas contra gases para maça.'
+623.459.69	Proteção dos animais contra gases de guerra.
+623.459.7	Medidas coletivas contra gases.
+623.459.72	Abrigos à prova de gases.
+      -> 699.871 Construção à prova de gás, à prova de fumaça, de escapamentos
+623.459.74	Proteção de equipamentos, alimentos e água
+contra gases. Recipientes, sacolas, bolsas á
+pró v a de gás.
+623.459.76	Colocação de cobertura à prova de gases pura
+passagem sobre terreno contaminado por gás.
+623.459.8	Descontaminação.
+      -> 616-08 Tratamento
+      -> 628.512 Medidas contra gases e vapores tóxicos
+623.459.82	Descontaminação de seres humanos.
+Descontam i nação de animais.
+623.459.84	Descontaminação de suprimentos.
+equipamentos.
+623.459.86	Descontaminação do solo. água. ar.
+623.46	Mísseis teleguiados. Foguetes. Sistemas
+de direção, curvas de vôo, lançamento. Ogivas.
+      -> 623.4.08 Peças, cargas e acessórios de projéteis, foguetes e mísseis teleguiados
+      -> 623.419 Sistemas de armamento de mísseis ou foguetes
+      -> 623.428.83 Mecanismo de lançamento de foguetes instalados em aeronaves
+      -> 629.762 Mísseis (balísticos e não-balísticos)
+623.462	Mísseis teleguiados.
+623.462.1	Mísseis terra-terra.
+623.462.12	Mísseis táticos.
+623.462.122	Mísseis antitanques.
+623.462.124	Mísseis de artilharia.
+623.462.14	Mísseis estratégicos.
+623.462.143	Mísseis de alcance médio.
+623.462.145	Mísseis intercontinentais.
+623.462.2	Mísseis terra-ar. Inclusive Mísseis antiaéreos.
+Mísseis antimísseis.
+623.462.3	Mísseis de superfície-submarinos.
+      -> 623.946 Torpedos navais, tubos e acessórios
+      -> 623.955 Cargas de profundidade
+623.462.4	Mísseis ar-terra.
+      -> 623.451.74 Bombas aéreas. Projéteis com superfícies de orientação
+623.462.5	Mísseis ar-ar.
+623.462.6	Mísseis ar-submarinos.
+      -> 623.451.72/.73
+623.462.7	Mísseis submarino-ar.
+623.462.8	Mísseis submarino-submarinos.
+      -> 623.946 Torpedos navais, tubos e acessórios
+623.463	Foguetes.
+623.463.2	Foguetes antitanques.
+623.463.3	Foguetes de artilharia.
+623.463.5	Foguetes de aeronaves.
+      -> 623.451.7 Bombas, torpedos, etc. para serem lançados de aeronaves
+623.463.52	Foguetes ar-ar.
+623.463.54	Foguetes ar-terra.
+623.465	Sistemas de direção.
+623.465.3                  Com auto direção. Inclusive Sistemas
+de direção pré-estabelecida, inercial,
+magnética, celeste.
+623.465.5	Tipos de comando da direção. Inclusive
+Sistemas de direção por fios, feixes, rádio,
+radar, televisão.
+623.465.7	Sistemas de direcionamento preciso ao alvo.
+623.465.7.72	Ativo (com emprego de radar ou som).
+623.465.7.73	Semi-ativo de precisão (com emprego de radar).
+623.465.75            	Passivo (com emprego de som, calor, radiação
+infravermelha ou luz).
+623.466	Curvas de vôo. Estabilidade. Controle.
+623.466.3	Curvas de vôo. Inclusive Curvas balísticas.
+Curvas de perseguição (cão e lebre, perseguição por direção fixa). Navegação proporcional. Curso de colisão.
+623.466.33	Curvas balísticas.
+623.466.34	Curvas de perseguição. Inclusive Curvas de
+perseguição pura (cão e lebre). Curvas de
+perseguição por direção fixa,
+623.466.36	Navegação proporcional.
+623.466.38	Curso de colisão.
+623.466.5	Estabilidade e controle.
+623.467	Lançamento de mísseis e foguetes.
+Exemplo(s) de combinação(ões):
+623.467.002.72 Montagem 
+623.467.018 Testes de pré-lançamento
+623.467.2	Lançamento a partir de torres e silos.
+623.467.22	Lançamento a partir de torres.
+623.467.24            	Lançamento a partir de silos.
+623.467.3	Lançamento a partir de rampa, trilho ou
+plataforma.
+623.467.5	Lançamento por canhão ou tubo. Lançamento
+por zorras. Lançamento múltiplo.
+623.467.7	Lançamentos a parti r de viatura,
+navio ou balsa.
+      -> 623.437.448 Veículos de lançamento. Rampas móveis de lançamento
+623.467.8	Lançamento submarino.
+	      -> 623.827.2 Submarinos lança-mísseis
+623.468	Ogivas, cargas e acessórios.
+Especificar por meio  de . 082. ..e .083...
+623.48	Ferramentas. Instrumentos. Fábricas de
+material bélico. Armazenamento. Manutenção. Testes. Experiências, defeitos e acidentes.
+623.482	Ferramentas. Instrumentos.
+623.483	Instalações e equipamento de fábricas de
+material bélico.
+      -> 355.73 Estabelecimentos de artilharia
+      -> 355.74 Estabelecimentos de engenharia militar. Oficinas de trabalho, etc.
+623.485	Armazenamento. Inclusive Depósitos
+de material bélico. Paióis. Armazenamento no campo.
+623.486	Manutenção durante o armazenamento e o
+uso do material estocado.
+623.488	Testes. Experiências. Defeitos. Acidentes.
+623.5	Balística. Artilharia. Problemas teóricos
+e experimentais.
+      -> 531.55/.58
+      -> 662.311 Propriedades físicas e seus testes
+623.51	Pesquisa geral e comparada de a mias de
+artilharia, foguetes, mísseis teleguiados.
+623.52	Balística interna. Efeito da pólvora.
+Cargas propulsoras.
+      -> 531.57 Balística interna
+623.522	Medições balísticas. Inclusive Pressões.
+Velocidade na boca de saída. Temperaturas.
+623.524	Determinação da carga.
+623.525	Ignição da carga propulsora na arma de
+fogo. Inclusive Falha no disparo. Ignição
+prematura da carga do projétil.
+623.526	Efeitos da combustão da carga
+propulsora. Erosão.
+623.53	Balística intermediária.
+623.532	Fenômenos relativos ao disparo
+das armas de fogo.
+623.533	Clarão e fumaça.
+623.535	Comportamento da arma de fogo e do
+projétil na saída do disparo. Inclusive Coice, salto.
+623.54	Balística externa.
+      -> 531.55 Balística externa. Caminho e movimento de projéteis. Trajetória.
+      -> 531.56 Movimentos secundários no ar. Efeito da rotação do projétil e de variação dos elementos balísticos.
+      -> 533.6 Aerodinâmica
+                                      -> 681.11 Horologia. Fabricação de relógios
+623.542	Medição e aparelhos relativos ao tempo.
+Cronógrafos balísticos.
+      -> 531.761 Medição de intervalos de tempo. Padrões de tempo
+      -> 681.11 Horologia. Fabricação de relógios
+623.544	Aparelhos e equipamento experimentais.
+623.546	Medição da trajetória. Resistência do ar ao
+projétil.
+623.548	Cálculo e compilação de tabelas balísticas,
+tabelas de alcance etc..
+623.55	Artilharia. Colocação e disparo.
+Subdivisões auxiliares especiais
+623.55.02	Controle de fogo. Tabelas balísticas (teoria e prática).
+	      Cf. 623.4.02
+623.55.021	Detecção, identificação do alvo. Interceptação.
+623.55.022	Preparação balística. Meteorologia.
+623.55.023	Preparação topográfica. Pesquisa de artilharia.
+                                         -> 528 Geodésia. Agrimensura. Levantamento topográfico. Fotogrametria. Sensoriamento remoto. Cartografia
+623.55.024	Observação. Cálculo do ângulo de tiro. Regulagem do detonador.
+623.55.025	Dispositivos de controle do disparo.
+623.55.027	Orientação de mísseis.
+623.55.028	Cálculo do alvo.
+Divisões principais
+623.551	Poder de fogo. Controle de fogo.
+623.552	Disparos de terra.
+623.553	Disparos submarinos.
+623.554	Disparos no mar.
+623.555	Disparos de infantaria.
+623.556	Disparos de aeronaves, aviões.
+623.557	Bombardeio (bombardeio aéreo).
+      -> 623.428.82 Armas e projetores que não utilizam propelentes explosivos
+      -> 623.451.74 Bombas aéreas. Projéteis com superfícies de orientação
+623.56	Efeitos dos projéteis. Efeitos nos projéteis.
+Estudos experimentais.
+623.561	Efeitos em objetos animados, alvos vivos.
+623.562	Efeitos em objetos inanimados,
+alvos não-vivos.
+623.562.1	Efeitos em alvos fixos, obras de terra etc.
+623.562.2	Em alvenaria.
+623.562.3	Em placas blindadas.
+623.562.4	Em concreto.
+623.562.5	Em alvos móveis {exceto alvos blindados), p.
+ex., veículos.
+623.562.6	Na água, em objetos submarinos.
+623.562.7	Contra explosivos, cargas propulsoras.
+623.565	Efeitos em projéteis. Fragmentação.
+Explosão.
+623.565.1	Em espaços confinados.
+623.565.2	No ar.
+623.565.3	No alvo. Danos causados ao projétil.
+623.565.5	Na terra.
+623.565.6	Na água.
+623.566	Balística submarina.
+      -> 623.94/.95
+623.566.1	Torpedos.
+623.566.2	Bombas e granadas submarinas.
+623.566.3	Cargas de profundidade. Cargas no
+fundo do mar.
+623.566.4	Mísseis e foguetes, na água.
+623.566.5	Explosões submarinas. Inclusive efeitos no
+fundo do mar, na superfície (água projetada
+acima da superfície).
+623.567	Trajetórias controladas dos projéteis.
+                                      -> 531.55 Balística externa. Caminho e movimento de projéteis. Trajetória.
+623.567.2	Etapa inicial.
+623.567.5	A meio caminho.
+623.567.8	Etapa final.
+623.57	Comportamento dos reparos durante o
+disparo. Inclusive recuo.
+      -> 623.4.067 Mecanismos de recuo, de coice. Freios da boca da arma de fogo
+      -> 623.435 Componentes de viaturas e reparos de armas
+623.59	Linhas de tiro. Equipamento de
+prática de tiro.
+623.591	Campos de tiro em geral. Inclusive campos
+de tiro. Campos de bomba. Campos de prova
+de tiro, de exercícios. Campos de tiro
+submarinos.
+623.592	Simuladores e aparelhos de treinamento.
+623.593	Alvos.
+623.593.2	Alvos fixos.
+623.593.5	Alvos móveis.
+623.593.51	No solo.
+623.593.52	Na água.
+623.593.53	No ar.
+623.594	Abrigos e defesas dos verificadores
+dos disparos.
+623.6	Equipamento e operações de engenharia
+de campo. Linhas de comunicação.
+Contramedidas de radar. Topografia
+militar.
+623.61	Comunicações militares.
+Controle da tropa.
+623.611	Aparelhos. Equipamento.
+Especificar por meio de :62 /, 3 9...
+623.612	Técnica. Organização.
+      Especificar por meio de :654...
+623.613	Linhas de comunicação por cabos
+(telegráfica) de campo.
+623.615	Centros de comunicação: aparelhos,
+cruzamentos etc..
+623.616	Estações de comunicação de documentos.
+Estações de correio militar,
+623.618	Sistemas de controle automático das tropas.
+Sistemas de informação, inteligência, militar. Inclusive Postos de comando. Centros de controle. Redes de informação.
+623.618.7	Dispositivos para interconexão de
+computadores militares (inclusive computadores móveis) com canais de comunicação.
+623.62	Contramedidas de rádio e radar.
+623.623	Sistemas ou complexos de armamentos
+como Contramedidas aos sistemas inimigos
+de rádio e radar.
+623.624	Outras Contramedidas de rádio e radar.
+Inclusive Neutralização. Interferência.
+      -> 623.77 Camuflagem
+623.64	Topografia. Cartografia. Levantamentos
+topográficos.
+      -> 355.47 Geografia militar
+      -> 528 Geodésia. Agrimensura. Levantamento topográfico. Fotogrametria. Sensoriamento remoto. Cartografia 
+      -> 623.4.022 Preparação balística e topográfica. Pesquisa de mira de artilharia. Condições atmosféricas, meteorológicas
+623.642	Terreno e suas propriedades táticas.
+Reconhecimento topográfico do terreno.
+Inclusive Levantamento visual.
+623.643	Mapas topográficos. Trabalho de mapa.
+Orientação. Referenciação do alvo.
+623.644	Mapas e documentos topográficos
+especiais. Inclusive Mapas para as tropas e
+quartéis-generais. Mapas de rotas.
+Mapas de inteligência. Plantas de
+cidades (mapas de ruas). Fotografias,
+fotoplanos, fotomapas aéreos.
+623.646	Dispositivos e instrumentos para
+orientação das tropas no campo.
+Instrumentos de levantamento.
+623.647	Métodos para determinar os dados
+geodésicos iniciais a fim de fornecer apoio
+para as ações de combate.
+623.67	Remoção e construção de obstáculos.
+Descarte de munição e bombas.
+623.68	Proteção, demolição e reparo de edifícios,construções etc..
+623.683	Proteção. Inclusive Com sacos de areia.
+Com blocos de concreto.
+623.685	Demolição ou destruição como meio de
+defesa.
+Exemplo(s) de combinação(ões):
+623.685:624.21 Demolição de pontes
+      -> 623.454.37 Dispositivos de demolição
+623.687	Reparo e restauração de estruturas essenciais.
+623.7	Aviação militar e naval.
+Camuflagem etc..
+      -> 358.4 Aviação militar. Corpo aéreo Forca aérea
+      -> 359.38 Corpo de aviadores navais. Frota aérea da marinha
+623.74	Aeronaves militares e navais.
+Especificar por :629. 7... Indicar a blindagem e o armamento por.09..,
+623.741	Aeronaves mais leves do que o ar
+(aeróstatos) em geral.
+623.742	Balões. Inclusive Balões atracados (p. ex.,
+balões de barragem). Balões rebocados,
+livres.
+      -> 623.748 Dispositivos para a obstrução de aeronaves inimigas
+623.743	Dirigíveis.
+623.746	Aeronaves mais pesadas do que o ar (aeródinas). 
+                               Exemplo(s) de combinação(ões):
+623.746-519 Aeronaves mais pesadas do que o ar com controle remoto. Aeronaves não-tripuladas, sem piloto
+623.746.1	Aeronaves mais pesadas do que o ar
+segundo o tipo.
+623.746.12	Aviões terrestres, para decolar e pousar
+no solo.
+623.746.13	Aviões navais.
+623.746.14	Aviões anfíbios.
+623.746.16	Planadores.
+623.746.17	Giroplanos. Autogiros. Helicópteros.
+623.746.2	Aviões de reconhecimento. Aviões de
+observação.
+623.746.3	Aviões de combate (caças).
+623.746.34	Caças bombardeiros.
+623.746.35	Aviões de combate interceptadores.
+623.746.4	Bombardeiros.
+623.746.43	Bombardeiros de mergulho, de picada.
+623.746.47	Aviões suicidas.
+623.746.5	Aviões de transporte. Aviões cargueiros, de
+abastecimento, de transporte de tropas e
+pessoal. Aviões-hospitais.
+623.746.6	Aviões anti-submarinos.
+623.746.7	Aviões de treinamento.
+623.746.8	Aviões-tanque.
+623.748	Dispositivos para a obstrução de aeronaves
+inimigas. Inclusive Barragens. Cabos. Redes.
+	      -> 623.742 Balões
+623.76	Técnica de defesa aérea.
+      -> 355.469 Operações aéreas. Estratégia aérea
+623.762	Sistemas de defesa antiaérea.
+623.764	Sistemas de defesa antimísseis, antifoguetes.
+623.765	Sistemas de controle da defesa aérea.
+      -> 623.618 Sistemas de controle automático das tropas. Sistemas de informação, inteligência militar
+623.77	Camuflagem.
+      -> 355.585 Medidas de defesa passiva
+      -> 358.36 Serviços de camuflagem
+      -> 677.027.468 Tingimento de camuflagem
+623.772	Efeito das condições meteorológicas.
+623.773	Camuflagem passiva. Cores, desenhos
+dissimulado rés etc..
+623.775	Nevoeiro artificial. Cortinas de fumaça.
+      -> 623.454.5 Fumaça. Geradores de fumaça
+      -> 662.17 Dispositivos geradores de fumaça (produtores de fumanaça, neblina, cerração)
+623.776	Blecaute.
+      -> 355.585.6 Bleclaute
+      -> 628.978.7 Iluminação preventiva contra ataques aéreos. Iluminação obscurecida em blecautes
+      -> 645.398 Equipamento para uso em tempo de guerra
+623.777	Camuflagem ativa. Construção de engodos,
+chamarizes. Estruturas falsas.
+      -> 623.829.5 Embarcações de engodo. Navio-mistério
+623.8/.9	Engenharia naval.
+      -> 355.46 Operações marítimas e a aéreas. Guerra naval. Guerra aérea
+623.8	Construção naval. Bases navais.
+Navios e outros vasos de guerra.
+      -> 629.5 Engenharia de embarcações. Engenharia naval. Barcos. Navios. Construção de barcos e navios
+Subdivisões auxiliares  especiais
+623.8.01/.08	Pormenores do projeto, peças etc.
+623.8.0I/.08 dividido como 629.5.01/.08
+Divisões principais
+623.81	Docas e oficinas navais, instalações e
+fortificações costeiras e flutuantes.
+      -> 627.096 Portos e instalações portuárias navais
+      -> 627.3 Instalações portuárias internas. Docas. Desembarcadouros. Cais. Instalações e equipamento
+      -> 629.5.08 Equipamento, instalações e técnicas relacionadas com o porto, o ancoradouro
+623.816	Instalações temporárias. Inclusive Portos
+flutuantes. Portos do tipo Mulberry.
+623.817	Fortificações costeiras, no litoral, no alto
+mar. Inclusive Fortes, refúgios marinhos.
+Paliçadas marítimas.
+623.818	Bases flutuantes. Baterias flutuantes.
+623.82                     Vasos de combate (navios de com bate) e
+vasos auxilia rés. Navios de guerra.
+623.821	Naus capitâneas de forças de combate.
+Couraçados.
+623.821.1	Naus capitâneas da força de combate.
+623.821.2	Couraçados.
+623.821.3	Cruzadores pesados.
+623.821.4	Couraçados de batalha compactos, couraçados
+de bolso.
+623.822	Navios de perseguição. Cruzadores.
+Porta-aviões.
+623.822.3	Cruzadores.
+623.822.7	Porta-aviões.
+623.823	Contratorpedeiros, destróieres. Corvetas.
+Fragatas. Embarcações leves
+anti-submarinos. Inclusive Navios de
+escolta, de comboio.
+623.823.1	Contratorpedeiros. destróieres.
+623.823.2	Corvetas.
+623.823.3	Caça-submarinos.
+623.823.6	Fragatas.
+623.824	Navios armados de defesa costeira.
+Canhoneiras. Chalupas.
+623.825	Vasos torpedeiros de superfície. Lanchas
+contratorpedeiras. Lanchas costeiras.
+Lanchas a motor. Lanchas de escolta.
+623.826	Pequenas embarcações de patrulha e
+reconhecimento. Navios de exploração.
+Navios e embarcações de escolta, patrulha e
+proteção de pesqueiros.
+623.827	Embarcações submarinas. Submersíveis. Submarinos.
+      -> 629.58 Embarcações subaquáticas. Submersíveis. Submarinos
+623.827.2	Submarinos lança-mísseis.
+      -> 623.467.8 Lançamento submarino
+623.827.3	Submarinos de ataque.
+623.827.5	Submarinos lança-minas.
+623.827.6	Submarinos de bolso, mini-submarinos.
+623.827.7	Submarinos de desembarque.
+623.828	Embarcações de transporte, depósito e
+auxiliares.
+623.828.2	Embarcações de desembarque. Embarcações
+anfíbias de transporte.
+623.828.5	Navios de transporte. Inclusive Embarcações
+de carga, suprimento, transporte de carga e
+pessoal. Navios cargueiros. Navios de
+transporte de tropa.
+623.828.6	Navios-hospital.
+623.828.7	Navios de treinamento. Navios-escola.
+623.828.8	Navios de reparo e manutenção. Navios com
+usinas de força.
+623.828.9	Outras embarcações auxiliares. Inclusive
+Para controle da entrada no porto.
+Embarcações-quartel.
+623.829	Embarcações de lançamento de redes e
+linhas. Embarcações lança-minas. Navios
+de defesa antiminas. Outros tipos de
+embarcações de guerra.
+623.829.1	Embarcações de lançamento de redes e linhas.
+      -> 623.93 Defesa externa das embarcações e portos. Defesa contra submarinos em geral
+      -> 623.95 Minas e cargas de profundidade. Lançamento de minas. Varredura de minas
+623.829.2	Embarcações lança-minas.
+623.829.3	Embarcações de varredura de minas.
+Embarcações caça-minas.
+623.829.5	Embarcações de engodo. Navios-mistério.
+623.829.8	Embarcações lacustres, fluviais
+(de calado baixo).
+623.9	Material e equipamento das forças
+navais. Proteção e armamento de embarcações. Defesas submarinas.
+Para os tipos especiais de embarcações blindadas ou armadas, usar 623.8... com .09...
+623.91	Blindagem das embarcações. Blindagem
+de todos os tipos, inclusive torres
+blindadas, torreões, conveses.
+623.92	Subdivisão do casco e da superestrutura.
+Inclusive Construção celular,
+Compartimentos. Anteparos,
+623.93	Defesa externa das embarcações e portos.
+Defesa contra submarinos em geral.
+      -> 355.465 Defesas submarinas fixas. Minas. Torpedos
+      -> 62-757.5 Proteção de veículos e embarcações contra minas, torpedos, granadas, tiros
+      -> 623.829.1 Embarcações de lançamento de redes e linhas
+623.931	Botalós. Proteção de outrigger.
+623.932	Redes antitorpedos. Redes anti-submarinos.
+623.933	Outros dispositivos antitorpedos e
+antiminas.
+      -> 623.959 Métodos de neutralização, desativação de minas
+623.935	Métodos e dispositivos para ocultar
+embarcações.
+      -> 623.454.5 Fumaça. Geradores de fumaça
+      -> 623.77 Camuflagem
+623.936	Sistemas de defesa contra armas de
+destruição em massa.
+      -> 623.454.86 Proteção contra as armas nucleares e suas conseqüências
+623.94	Artilharia e armamentos navais.
+      -> 623.4 Armamento. Munições. Armas. Canhões. Artilharia. Armas pequenas. Armas portáteis. Veículos blindados e outros de serviço. Munição e gases de guerra. Mísseis e foguetes teleguiados
+      -> 623.554 Disparos no mar
+Subdivisões auxilia rés especiais
+623.94.01/.08         Pormenores dos armamentos.
+623.94.01/.08 dividido como 623.4.01/.08,  conforme apropriado 
+Divisões principais
+623.941	Instalações de artilharia a bordo.
+623.941.1	Municiadores.
+623.941.2	Monta-cargas de munição.
+623.941.3	Posições das peças de artilharia a bordo.
+Inclusive Torres blindadas. Torres, metas-torres
+fixas de canhões. Proteções laterais.
+      -> 623.433 Reparos terrestres
+      -> 623.434.5 Reparos em embarcações e conveses (exceto em navios de guerra)
+623.941.4	Torres móveis.
+	      -> 623.432 Reparos móveis 
+623.942	Treinamento e prática de tiro a bordo.
+Equipamento de treinamento.
+623.946	Torpedos navais, tubos e acessórios.
+Exemplo(s) de combinação(ões):
+623.946-5 Mecanismos de controle. Mecanismo de direção, descarga. controle de profundidade 
+623.946-8 Tipo de propulsão, de comando 
+623.946.082 Ogivas
+      -> 355.465 Sistemas de direção
+      -> 623.451.72 Torpedos aéreos
+      -> 623.566.1 Torpedos
+623.946.2	Torpedos de barra, de guindaste, a reboque e
+outros tipos primitivos de torpedo.
+623.946.3	Torpedos com autopropulsão (de superfície ou
+submarinos).
+623.946.5	Torpedos especiais. Inclusive Torpedos que¬
+rompem redes.
+623.946.6	Tubos de torpedo (de superfície ou
+submarinos).
+623.95	Minas e cargas de profundidade.
+Lançamento de minas. Varredura de
+minas.
+      -> 355.465 Sistemas de direção
+623.952	Minas submarinas em geral. Minas
+ancoradas ou pousadas no fundo do mar.
+Minas de ancoramento.
+623.953	Minas à deriva, Minas de contato.
+623.955	Cargas de profundidade. Inclusive Controle
+da profundidade da explosão. Mecanismo de
+liberação da carga de profundidade.
+      -> 623.566.3 Cargas de profundidade. Cargas no fundo do mar
+623.956	Detonação. Mecanismos de detonação.
+Mecanismo de cronometragem, etc.
+623.957	Técnicas de lançamento de minas, de
+distribuição das minas.
+      -> 623.829.2 Embarcações lança-minas
+623.958	Técnicas de varredura, busca e desativação
+de minas.
+      -> 623.829.3 Embarcações de varredura de minas
+623.958.2	Busca de minas. Detecção de minas.
+      -> 623.983 Detectores de objetos subaquáticos (p. ex., detectores de submarinos)
+      -> 681.883 Métodos e equipamento de sonar. Localização de objetos subaquáticos. Sondagem e localização por meio do eco
+623.958.3	Varreduras de minas, de áreas minadas.
+623.959	Métodos de neutralização, desativação de minas. Inclusive Remoção de minas.Desmagnetização de navios.
+      -> 623.933 Outros dispositivos antitorpedos e antiminas
+623.97	Métodos de ataque e defesa naval não
+incluídos em outros lugares da tabela.
+623.971	Navios incendiários e outros dispositivos
+igualmente destruidores. Máquinas infernais.
+623.974	Homens-rã.
+623.98	Aplicações da ciência naval. Instrumentos,
+equipamentos especiais.
+      Especificar por meio de :...
+623.983	Detectores de objetos subaquáticos (p. eu.,
+detectores de submarinos). Inclusive Asdic. Sonar.
+Exemplo(s) de combinação(ões):
+623.983:621.396 Com radiocomunicação. Radiofaróis, bóias etc.
+623.983:681.883.43 Com hidrofones
+      -> 681.883 Métodos e equipamento de sonar. Localização de objetos subaquáticos. Sondagem e localização por meio 
+      do eco
+624 Engenharia civil e estrutural em geral. Inclusive subestruturas. Obras de terra. Fundações. Túneis. Construção de pontes. Superestruturas
+Em 624 classificam-se as informações sobre a prática da engenharia civil e estrutural, enquanto que 
+                69 está reservado para materiais de construção, ofícios e construção, e 72 está destinada ao projeto 
+                arquitetônico e tipos de edificações, segundo a dês t inação
+Subdivisões auxiliares especiais
+624-1	Pormenores da engenharia civil.
+-11 e -18...,  de 62-11 e 62-1 8 são aplicáveis em 624 e subdivisões 
+624-1 dividido como 624.1,  exceto para –11/-18
+624-15	Fundações.
+624-1
+624-2/-9	Pormenores sobre maquinaria e
+equipamento de construção.
+      Especificar por meio de -2/-9 (de 62-2/-8 e 66-9)
+624.01/.07
+Os auxiliarei especiais de 624.0... (exceto. 02) têm significados semelhantes em 69; usar preferencialmente .01..., .04 e.
+.0 7 (que se referem a todas as estruturas em geral) principalmente em 624, e .03 e .05 (que se referem em principio às construções) principalmente em 69
+624.01	Estruturas e partes estruturais segundo o
+material e método de construção.
+      -> 624.9 Superestruturas (exceto pontes). Superestruturas completas em si mesmas
+      -> 691 Materiais de construção. Componentes de construção
+      -> 693 Alvenaria, ofício de pedreiro e ofícios correlatos
+      -> 694 Construções de madeira. Carpintaria. Marcenaria
+624.011	Estruturas de materiais de origem
+orgânica.
+624.011.1	Estruturas de madeira.
+      -> 674 Indústria da madeira e de trabalhos com madeira
+624.011.2	Estruturas de madeira com subestruturas de
+outro material.
+624.011.7	Estruturas de materiais orgânicos exceto
+madeira.
+624.011.72	Estruturas de palha, colmo, bambu etc..
+624.011.73	Estruturas de cortiça e materiais semelhantes.
+624.011.74	Estruturas de papel, papelão etc.. Inclusive
+Estruturas de papel alcatroado, papelão
+alcatroado para cobertura de telhados.
+624.011.75	Estruturas de outros materiais fibrosos.
+Inclusive estruturas de lona (pano de vela),
+feltro (p. ex., feltro de ferro), material tecido.
+624.011.77	Estruturas de borracha natural.
+624.011.78	Estruturas de plástico.
+624.011.8	Estruturas de materiais de origem animal.
+Inclusive Estruturas de peles (couro cru. couro
+curtido), esterco, conchas, ossos.
+624.011.9	Estruturas de materiais minerais orgânicos.
+Inclusive Estruturas de betume. asfalto.
+624.012	Estruturas de alvenaria de pedra natural,
+pedra aparelhada, massas artificiais, materiais cerâmicos.
+624.012.1	Estruturas de pedra natural. Alvenaria  e pedra
+natural.
+624.012.11/.12 dividido como 553.5/.6
+624.012.2	Estruturas de pedra artificial. Alvenaria de
+pedra aparelhada.
+624.012.25	Estruturas de pedra artificial reforçada.
+624.012.26	Estruturas de pedra artificial protendida.
+624.012.3	Estruturas de concreto pré-moldado.
+Indicar peso leve por meio de -183.4
+      -> 666.97 Indústria de argamassas e concreto. Elementos do concreto. Produção de concreto em usinas
+      -> 691.32 Concreto. Elementos de concreto para construção
+624.012.35	Estruturas de concreto armado pré-moldado.
+624.012.36	Estruturas de concreto pré-moldado e
+protendido.
+624.012.4	Estruturas de concreto, concreto comum
+preparado no canteiro, concreto de massa.
+      -> 691.32 Concreto. Elementos de concreto para construção
+Indicar peso leve por meio de -183.4
+624.012.44	Estruturas de concreto de massa.
+624.012.45	Estruturas de concreto armado.
+      -> 666.982 Concreto armado
+624.012.46	Estruturas de concreto protendido.
+624.012.6	Estruturas de vidro.
+624.012.6 dividido como 666
+624.012.8	Estruturas de terra, lama, argila, barro.
+624.012.81	Estruturas de terra seca, adobe, lama. Taipa.
+624.012.82	Estruturas de argila cozida. Estruturas de
+tijolos comuns e tijolos refratários.
+624.014	Estruturas de metal.
+      -> 693.8 Trabalho estrutural em aço e outros metais
+624.014.1	Estruturas de ferro fundido.
+624.014.2	Estruturas de aço.
+Exemplo(s) de combinação(ões):
+ 624.014.2.078.4 Estruturas de aço articulado (rebitadas, soldadas, aparafusadas)
+624.014.27	Estruturas de aço tubular.
+624.014.7	Estruturas de metal leve e de ligas de metal
+leve).
+624.014.9	Estruturas de outros metais.
+624.016	Estruturas de materiais compostos.
+Estruturas compostas.
+624.02	Partes e elementos estruturais.
+Para as partes e elementos estruturais das construções, usar preferencialmente 692...
+624.02 dividido como 692
+624.024	Telhados. Tipos de telhados.
+624.03	Dimensões, permanência, localização e
+forma das estruturas.
+Ver nota em 62401/.07
+624.03 dividido como69.03
+624.034.5	Estruturas subaquáticas.
+624.035.2	Estruturas em montanhas, colinas.
+624.035.4	Estruturas subterrâneas.
+624.04	Projeto estrutural. Estática gráfica e
+analítica para pesquisa e cálculo de
+estruturas.
+      -> 531.2 Estática. Força. Equilíbrio. Atração
+624.041	Definição do projeto geral. Sistemas e
+grades. Estática das estruturas em geral.
+624.041.1	Estruturas estaticamente determinadas interna e
+externamente.
+624.041.2	Estruturas estaticamente indeterminadas em
+geral.
+624.041.3	Estruturas estaticamente determinadas
+internamente, estaticamente indeterminadas
+externamente.
+624.041.4	Estruturas estaticamente determinadas
+externamente, estaticamente indeterminadas
+internamente.
+624.041.5	Estruturas estaticamente indeterminadas
+interna e externamente.
+624.041.6	Reações dos suportes. Forças de cisalhamento.
+Momentos. Linhas de influência. Curvas de
+deflexão. Diagrama dos momentos de
+resistência.
+624.041.61	Reações dos suportes. Forças laterais, de
+cisalhamento. Linhas de cisalhamento. Forças
+de interseção.
+624.041.62	Momentos. Linhas de momento.
+624.041.63	Linhas de influência,
+624.041.65	Curvas elásticas, de deflexão. Linhas de
+deflexão.
+624.041.66	Condições de comparabilidade. Linhas de
+pressão. Linhas de empuxo.
+624.041.68	Diagramas de distribuição do esforço.
+Diagramas dos momentos de resistência.
+624.042	Cálculo das cargas e esforços, tensões.
+624.042.1	Cargas e esforços em geral. Esforços internos.
+Pressão da fundação. Elevação.
+624.042.12	Esforços internos.
+624.042.2	Carga estática. Carga ou peso morto (estrutura
+mais carga do piso mais as guarnições internas).
+624.042.3	Cargas incidentais. Cargas vivas, sobrepostas
+ou móveis. Inclusive Provocadas por vibrações.
+impacto, tráfego.
+624.042.4	Cargas do vento. neve. gelo. água.
+624.042.41	Cargas do vento. Inclusive Pressão do vento.
+Sucção do vento.
+624.042.42	Cargas de neve.
+624.042.43	Cargas de gelo.
+624.042.44	Cargas de água. Inclusive Cargas do água da
+chuva.
+624.042.5	Efeitos da temperatura. Esforços térmicos etc..
+624.042.6	Outros efeitos estáticos diversos.
+624.042.62	Esforços devidos a deformações.
+624.042.63	Esforços devidos à construção- Esforços
+forçados.
+624.042.68	Efeitos de entalhes, buracos ou aberturas sobre
+as condições de esforço.
+624.042.7	Esforço devido a movimentos do solo. tremores
+de terra (terremotos), efeitos sísmicos.
+624.042.8	Cargas dinâmicas.
+624.044	Cálculo de deformação, tensão
+(deformações elásticas e plásticas).
+624.046	Resistência estrutural. Capacidade de
+suporte de cargas.
+624.046.2	Capacidade de carga.
+624.046.3	Estabilidade.
+624.046.4	Rigidez.
+624.046.5	Fator de segurança. Fator de carga.
+624.047	Estruturas móveis e estacionárias.
+624.047.1	Estruturas móveis.
+      -> 69.033 Construções desmontáveis, transportáveis e temporárias. Estruturas infláveis, desinfláveis (estruturas pneumáticas, pressurizadas ou de ar)
+624.047.2	Estruturas estacionárias.
+624.048	Estática-modelo. Uso de modelos no projeto
+estrutural.
+624.05	Local, organização e instalação. Métodos
+de construção.
+       Ver nota em 624.01/.07
+624.05 dividido como 69.05
+624.07	Elementos estruturais. Elementos que
+suportam a carga.
+624.071	Elementos para receber somente um único
+esforço axial,
+624.071.2	Elementos flexíveis. Elementos para estruturas
+suspensas. Peças que suportam partes
+flexíveis.
+624.071.22	Cordas. Cordas de suspensão.
+624.071.23	Cabos. Cabos de suspensão.
+624.071.232	Cabos de transporte.
+624.071.234	Cabos de suporte posterior.
+624.071.25	Correntes. Correntes de suspensão.
+624.071.3	Elementos rígidos.
+624.071.32	Elementos sob esforço tênsil.
+624.071.322          	Peças de suporte, de transporte.
+624.071.324	Hastes de suspensão. Trilhos suspensos.
+624.071.34	Elementos para receber esforço de compressão
+(sem esforço de empenamento). Inclusive Barras de compressão.
+624.072	Elementos para receber esforços biaxiais.
+624.072.1	Placas e discos em geral.
+      -> 624.073 Estruturas planas de suporte de carga. Placas. Lajes. Discos
+624.072.2	Elementos sujeitos a esforço de flexão. Vigas.
+Braçadeiras. Juntas etc.
+624.072.21	Vigas suspensas, com uma extremidade livre.
+Vergas. Suportes triangulares. Cantiléver.
+624.072.22	Vigas fixas, sustentadas em dois ou mais
+pontos. Vigas treliçadas e vigas de suportes.
+Padieiras, vergas de portas ou janelas.
+624.072.221	Vigas de apoio simples.
+624.072.222	Vigas fixas em uma ou em ambas as
+extremidades.
+624.072.223	Vigas fixadas elasticamente.
+624.072.226	Armações suspensas.
+624.072.227	Armações compostas.
+624.072.23	Vigas contínuas apoiadas em três ou mais
+suportes com momentos constantes ou
+variáveis de inércia
+624.072.232	Vigas sobre apoios fixos que permitem rotação
+livre da viga.
+624.072.233	Vigas sobre apoios sujeitos a fundação elástica
+e rotação.
+624.072.233.5	Vigas sobre fundação ou alicerce elástico
+contínua. Inclusive Vigas sobre trilhos de
+ferrovia.
+624.072.238	Vigas contínuas presas juntas de modo a serem
+estaticamente determinadas. Inclusive Vigas de Gerber.
+624.072.24	Vigas de placa.
+624.072.3	Elementos sujeitos a esforço de torção ou
+flexão e esforço axial (sem esforço de
+empenamento).
+624.072.31	Colunas curtas. Pilares. Ombreiras, Paredes
+grossas.
+624.072.32	Arcos. Vigas e traves em arco.
+624.072.322	Arcos fixos etc.
+624.072.323	Arcos articulados, etc.
+624.072.323.6	Arcos articulados com laço de tensão.
+624.072.326	Arcos contínuos. Vigas e traves contínuas
+em arco.
+624.072.327	Arcos com cordas de arcos
+(arcos amarrados) etc..
+624.072.328	Arcos etc. sujeitos a esforço parcial durante a
+construção. Arcos pretendidos.
+624.072.33	Armações. Armações e arcabouços planos.
+Inclusive Elementos de armações e arcabouços.
+      Indicar os aspectos estáticos por meio de : 624.04..., os
+      estruturais por meio de 624.07...
+624.072.331	Armações articuladas.
+624.072.332	Armações de apoio simples. Armações com um
+contraforte mais alto do que o outro.
+624.072.335	Armações contínuas.
+624.072.336	Estruturas de portais. Armações. Inclusive
+Estruturas de portais. Treliças. Vigas de
+Vierendeel.
+624.072.338	Peças, componentes de armações e estruturas.
+Inclusive Tirantes. Postes. Cordas. Nós.
+624.072.4	Elementos sujeitos a esforços combinados.
+624.072.44	Peças curvas ou em ângulo. Cantoneiras.
+624.072.45	Vigas fixas ou restritas submetidas a esforço de
+dobradura ou flexão e esforço tênsil,
+624.072.46	Vigas e traves curvas (p. ex.., para pontes
+curvas no plano).
+624.072.7	Traves de seção oca fechada. Traves ocas.
+Inclusive Traves quadradas. Traves tubulares
+(traves de seção redonda).
+624.072.9	Contraventamentos. Inclusive
+Contraventamentos longitudinais. Contraventamentos transversais. Contraventamentos cruzados. Contraventamentos diagonais. 
+Exemplo(s) de combinação(ões):
+      624.072.9:624.042.41 Amarração contra o vento
+624.073	Estruturas planas de suporte de carga. Placas. Lajes. Discos.
+      -> 624.072.1 Placas e discos em geral
+624.073.11	Placas livremente apoiadas.
+624.073.12	Placas fixas ou grampeadas.
+624.073.13	Placas em pontos de suporte (Placas apoiadas
+em pilares, colunas etc.).
+624.073.131	Placas sobre um apoio.
+624.073.132	Placas sobre mais de um apoio.
+624.073.135	Placas em apoios de cabeça de cogumelo (p. ex.,
+tetos em forma de cogumelo).
+624.073.136	Placas em apoios sem cabeça de cogumelo (p.
+ex., tetos de laje).
+624.073.2	Placas sobre suportes elásticos.
+624.073.4	Placas continuas.
+624.073.5	Armações em forma de placa ou estruturas em
+grade. Inclusive Armações de vigas
+entrecruzadas (p. ex.. grades de madeira).
+Grades diagonais. Lajes, pisos com nervuras.
+624.073.6	Placas sem interrupções. Inclusive Placas com
+buracos, aberturas.
+624.073.8	Placas, camadas, painéis finos. Estruturas de
+placa fina. Paredes finas.
+624.074	Estruturas tridimensionais para suporte de
+carga (estruturas espaciais).
+124.074.1	Estruturas em forma de ponte.
+624.074.2	Domos. Cúpulas.
+624.074.22	Cúpulas chatas, planas. Semicúpulas.
+624.074.23	Remates de cúpulas.
+624.074.24	Cúpulas sobrepostas.
+624.074.25	Cúpulas em ponta.
+624.074.27	Cúpulas com nervuras. Cúpulas
+em guarda-chuva.
+624.074.28	Partes de cúpulas. Inclusive Sofitos. Arcos.
+Pendentes. Lanternas.
+624.074.3	Abóbadas. Construção abobadada.
+624.074.32	Abóbadas segundo a forma e altura.
+624.074.32dividido como 624.072.32
+624.074.35	Interpenetração de abóbadas.
+624.074.352	Abóbadas cruzadas. Abóbadas góticas.
+624.074.353	Abóbadas em barril com lunetas.
+624.074.354	Abóbadas de claustro.
+624.074.36	Abóbadas contínuas. Abóbadas de modilhão.
+624.074.38	Partes das abóbadas. Inclusive Nervuras.
+Extradorsos. Intradorsos.
+624.074.4	Estruturas de membrana continua. Estruturas
+de revestimento tendido. Conchas.
+624.074.42	Estruturas de revestimento tendido. Estruturas
+de placa dobrada (prismáticas).
+624.074.43	Conchas.
+624.074.432	Conchas axialmente simétricas. Conchas de
+cúpula.
+624.074.433	Conchas cilíndricas. Conchas de abóbada.
+624.074.434	Conchas de translação. Conchas parabolóides,
+624.074.435	Conchas conóides.
+624.074.437	Conchas compostas.
+624.074.438	Partes de conchas. Inclusive Superfícies de
+concha. Bordas.
+624.074.5	Arcabouços tridimensionais (estruturas
+espaciais). Estruturas reticuladas ou degrade.
+Inclusive Domos geodésicos. Telhados em
+lâmina.
+624.075	Elementos cujo estado de tensão precisa ser
+testado para fins de estabilidade.
+624.075.2	Elementos sujeitos a tensão de empenamento.
+624.075.22	Membros de compressão (braçadeiras, escoras
+etc.) nos arcabouços.
+624.075.23	Colunas longas. Pilares, postes, bastiões.
+624.075.24	Colunas articuladas (compostas de várias peças
+ligadas).
+624.075.25	Cordas de compressão dos arcabouços.
+624.075.3	Elementos sujeitos a instabilidade, inclinação,
+tombamento.
+624.075.4	Elementos sujeitos simultaneamente a
+abaulamento e empenamento.
+624.078	Conexões, juntas, ligações estruturais e
+seu cálculos.
+624.078.3	Juntas de alvenaria (e seu cálculo).
+624.078.32	Juntas que permitem folga, movimento. Inclusive Juntas de expansão. Juntas corrediças. Juntas de acomodação.
+624.078.34	Juntas de construção. Inclusive Juntas horizontais, de curso. Juntas verticais.
+624.078.36	Juntas rígidas (sem folga).
+624.078.37	Juntas falsas.
+624.078.38	Material de enchimento das juntas
+(enchimentos pré-formados, vedantes).
+624.078.4	Conexões de partes estruturais (e seu cálculo).
+Juntas de madeira, de aço etc. Pontas de
+junção.
+624.078.41	Forma da interface entre as partes. Inclusive
+Juntas a topo, rabo de andorinha, sobrepostas.
+624.078.42	Conexões com pinos, cavilhas, pregos,
+prisioneiros.
+624.078.43	Juntas coladas.
+624.078.44	Juntas rebitadas.
+624.078.45	Juntas soldadas.
+624.078.46	Juntas aparafusadas (juntas de porca e
+parafuso).
+624.078.48	Juntas compostas e múltiplas (que usam
+métodos mistos). Inclusive Juntas coladas e presas com pinos.
+624.078.49	Juntas e conexões por ação mecânica.
+624.078.492	Conexões pretendidas.
+624.078.494	Conexões por contração.
+      -> 621.88.084 Ligações por pressão transversal
+624.078.5	Mancais estruturais (e seu cálculo).
+624.078.52	Mancais fixos. Inclusive Mancais oscilantes.de
+pivô. de pino.
+624.078.54	Mancais móveis. Inclusive Mancais rolantes.
+Mancais de pêndulo (auto-alinháveis). Mancais de esfera. Mancais simples, deslizantes ou de fricção. Mancais de contato rolantes.
+      -> 621.822 Mancais. Forros de mancal
+624.078.6	Articulações estruturais (e seu cálculo).
+      -> 621.888 Fixadores com algum movimento
+624.078.62	Articulações cilíndricas. Juntas esféricas (pivôs
+de esfera).
+624.078.64	Juntas corrediças. Juntas de pino. Juntas.
+cantoneiras de cantilever.
+624.078.7	Escoramentos estruturais (e seu cálculo).
+      -> 624.137.6 Escoramentos. Escoras de pedra
+      -> 624.153.7 Fundações de ancoramento
+624.078.72	Chapas de escora. Chapas de amarração. Anéis
+de escoramento.
+624.078.74	Estacas de escoramento. Hastes de
+amarramento. Blocos de escoramento.
+624.078.8	Reforços (e seu cálculo).
+624.078.82	Vigas de reforço. Reforçadores.
+624.078.84	Anéis de reforço.
+Divisões principais
+624.1	Subestruturas. Obras de terra.
+Fundações, alicerces. Túneis.
+624.12	Engenharia e mecânica das rochas.
+      -> 624.19 Túneis. Escavação de túneis. Galerias. Construção de galerias
+624.12 dividido como 624.13
+624.121	Mecânica das rochas.
+      -> 552 Petrologia. Petrografia
+624.121.532	Pressão de montanha.
+624.121.537	Estabilidade. Planos de ruptura. Superfícies
+deslizantes.
+624.121.54	Movimentos da montanha. Deformações.
+Reologia.
+624.121.542	Acomodações. Falha montanhosa.
+624.123	Limpeza e escavação da rocha.
+624.127	Proteção, reforço de inclinações na rocha.
+Engenharia protetora da rocha em terreno montanhoso.
+624.13	Geotécnica. Mecânica do solo. Obras de
+terra. Engenharia do solo congelado.
+624.131	Mecânica do solo. Tecnologia estrutural do
+solo. Estudos técnicos e econômicos.
+624.131.1	Origem do solo. Engenharia geológica. Fatores
+mineralógicos, geológicos e biológicos na
+avaliação dos solos.
+624.131.2	Classificação dos solos para fins de engenharia.
+      -> 552 Petrologia. Petrografia
+     -> 553.5 Depósitos de pedra natural
+624.131.21	Solos sem coesão (solos sem atrito). Inclusive
+Pedras. Cascalhos. Seixos. Areia. Pó de pedra. Pedra esfarinhada.
+624.131.22	Solos coerentes. Inclusive Argilas. Lama. Lodo.
+Marga (solo).
+624.131.23	Loesse. Argila loesse.
+624.131.24	Solos naturalmente cimentados. Inclusive
+Conglomerados. Minério de ferro dos
+pântanos.
+624.131.25		Solos de tipo rochoso. Inclusive Arenito.
+Xisto. Ardósia. Calcário. Marga (pedra).
+Greda. Granito.
+624.131.26	Camada superficial do solo. Húmus.
+624.131.27	Outros solos com misturas orgânicas. Inclusive
+Limo. Lodo. Solos pantanosos. Sapropel.
+Turfa. Carvão.
+624.131.3	Levantamento, análise de solos. Amostragem
+de solos. Teste de solos.
+624.131.31	Levantamento do terreno. Exame do local.
+624.131.32	Técnicas de exploração geofísica.
+      Especificar por meio de :550.83...
+624.131.33	Raspagem. Sulcos.
+624.131.34	Perfurações experimentais. Furos de sondagem.
+      624.131.34 dividido como 622.24
+624.131.35	Testes de bate-estacas.
+624.131.36	Amostragem do solo.
+624.131.37	Análise do solo. Testes de laboratório. Testes
+de modelo.
+624.131.38	Testes e investigações de campo.
+624.131.381	Testes de penetração (sondagem profunda).
+624.131.382	Testes de fundação do solo.
+624.131.383	Carga experimental das superfícies de suporte
+(vertical e horizontal).
+624.131.384	Carga experimental e teste do afundamento de
+estacas.
+624.131.385	Investigações dinâmicas.
+624.131.386	Medições da pressão da terra.
+624.131.387	Medições da pressão da água porejante.
+624.131.4	Propriedades do solo.
+624.131.4 dividido como  631.4,  exceto 631.44
+624.131.5	Estática do solo. Dinâmica do solo.
+624.131.52	Pressão da fundação. Carga do solo.
+Distribuição da pressão ou carga. Forças
+hidrodinâmicas. Capacidade de suporte.
+624.131.522	Distribuição da pressão ou da carga. Pressão da
+fundação.
+624.131.523	Forças hidrodinâmicas. Inclusive Pressão de
+levantamento. Pressão capilar. Flutuabilidade.
+Pressão da água porejante.
+624.131.524	Capacidade de suporte. Deformação
+permissível da terra.
+624.131.526            Análise da acomodação.
+624.131.53	Pressões da terra, ativa e passiva. Distribuição
+da pressão. Estabilidade do solo. Planos de
+ruptura. Deslizamentos de terra.
+624.131.532	Pressão ativa da terra, empuxo.
+624.131.533	Pressão passiva da terra, resistência.
+624.131.534	Efeito da deformação do solo sobre as pressões
+da terra.
+624.131.535	Efeito das vibrações sobre as pressões da terra.
+624.131.536	Efeito dos movimento da água porejante nas
+pressões da terra. Pressões hidrodinâmicas da
+terra.
+624.131.537	Estabilidade do solo. Planos de ruptura
+(superfícies de deslizamento). Deslizamentos de solo.
+      -> 624.139.3 Estabilidade do solo em encostas nas regiões de solo congelado (em áreas sujeitas a congelamento sazonal e congelamento permanente)
+624.131.54	Reologia do solo. Movi mentos e deformações
+do solo.
+624.131.542	Acomodações. Inclusive Falha na fundação do
+solo. Falha na terraplenagem.
+624.131.543	Falha nos declives. Deslizes de fluxo.
+624.131.55	Vibrações, perturbações do solo. Tremores de
+terra.
+      -> 550.34 Sismologia. Terremotos em geral
+624.131.551	Causas dos tremores de terra.
+624.131.552	Efeito dos tremores de terra.
+624.131.6	Água no solo (lençol freático). Inclusive
+Movimento do lençol freático: fluxo,
+percolação, infiltração etc. Efeitos: erosão,
+efeitos capilares, pressões.
+624.131.62	Redes de fluxo.
+624.131.63	Fluxo para poços, fossas, valas.
+624.131.64	Forças de infiltração.
+624.131.65	Pressões de elevação.
+624.131.66	Tubulação e erosão interna.
+624.131.67	Filtros. Bacias de filtração.
+624.131.7	Aplicações da mecânica dos solos. Terra ou
+solo como materiais estruturais ou de
+construção. Terra como aqüífero no trabalho de
+construção.
+624.131.8	Trabalhos preparatórios técnicos e econômicos.
+      -> 528 Geodésia. Agrimensura. Levantamento topográfico. Fotogrametria. Sensoriamento remoto. Cartografia
+624.132	Remoção e transporte do solo. Operações de
+movimentação de terra, de terraplenagem.
+      Para equipamento de terraplenagem, ver 62l.77/.879
+624.132.1	Afofamento e remoção manual do solo.
+624.132.3	Afofamento e remoção mecânica do solo,
+Exemplo(s) de combinação(ões):
+624,132.3:621.879 Remoção do solo por escavadeiras
+624.132.6	Transporte da terra.
+624.133/.138 	Formação e segurança das obras de terra.
+624.133	Rebaixamento do nível do solo. Escavação.
+Delimitação, limpeza, remoção e trabalhos auxiliares.
+624.134	Abertura de canais, trincheiras, valas.
+      -> 623.24 Trincheiras. Ziguezagues, sapas, etc.
+      -> 626.131 Escavação de leito de canal. Aterros e cortes para os canais
+624.134.1	Métodos de corte do solo. Inclusive Escavação
+em camadas, terraços, superfícies e flancos.
+624.134.2	Cortes sem uso de madeiramento.
+624.134.4	Cortes com uso de madeiramento.
+624.135	Elevação do nível do solo. Montes,
+elevações. Aterro e nivelamento
+de grandes áreas.
+624.136	Diques. Barragens. Barragens de proteção.Taludes. Ensecadeiras. Diques provisórios.
+      -> 625.714 Vias ao longo de cursos de água (vias resultantes de aterros). Caminhos elevados em terrenos pantanosos. Caminhos de sirga
+      -> 627.5 Outros trabalhos de proteção e melhoramento das hidrovias. Diques. Proteção da costa. Drenagem e recuperação das margens
+624.136.1	Métodos de descarga do material.
+624.136.2	Barragens de terra, argila e material similar.
+624.136.6	Ensecadeiras. Diques (com revestimento de
+argila, sacos de areia, concreto etc.).
+      -> 624.157.1 Fundações na água. Fundações  subaquáticas. Fundações profundas em geral (com ou sem  lençol freático 
+624.137	Aterros, taludes etc. Estruturas de contenção. Trabalhos de transição entre
+diferentes níveis de solo. Fixação das massas de terra.
+624.137.2	Aterros. Taludes. Encostas. Banquetas (bermas).
+      -> 625.736 Aterros. Rampas., inclinações
+624.137.4	Escoramento. Amarração. Estacas de solo. Paredes de poço. Emparedamento de metal, madeira, alvenaria. Trabalho de faxina.
+                                   Aterro de pedra. Assentamento. Pavimentação.
+624.137.5	Muros de contenção. Muros de arrimo.
+	      -> 624.164 Pontos de apoio
+624.137.6	Escoramentos. Escoras de pedra.
+      -> 624.078.7 Escoramentos estruturais (e seu cálculo)
+      -> 624.153.7 Fundações de escoramento
+624.137.7	Paredes estanques. Paredes de diafragma.
+624.138	Melhoramento da capacidade de sustentação dos solos (melhoramento do
+solo). Compactação, consolidação, estabilização do solo.
+624.138.1	Teoria.
+624.138.2	Métodos mecânicos.
+624.138.22	Aterro. Compactação. Socamento. Rolamento.
+Vibração. Vibroflotação.
+624.138.23	Mistura do solo com vários materiais.
+Estabilização com solo-cimento.
+624.138.24	Injeção (argamassa por pressão).
+624.138.26	Inserção de estacas.
+624.138.29	Compactação explosiva (explosão profunda).
+624.138.3	Métodos físicos.
+624.138.34	Drenagem do solo.
+624.138.4	Métodos químicos. Inclusive Estabilização com
+resinas, sabões, sais etc..
+624.138.5	Métodos eletroquímicos. Eletrosmose.
+624.139	Engenharia de solo congelado.
+      -> 551.34 Efeitos do congelamento sobre as rochas e solos. Crioturbação
+      -> 622.271.7 Trabalho em solo congelado
+      -> 624.14 Engenharia da neve e do gelo. Trabalhos e materiais de construção em climas frios
+624.139.2	Efeitos do solo congelado sobre os trabalhos e
+estruturas de engenharia.
+624.139.22	Aumento de volume do solo provocado pelo
+congelamento. Dilatação diferencial do solo.
+624.139.24	Subsidência, acomodação, desmoronamento,
+colapso causados pelo degelo. Evaporação da  água congelada
+624.139.26	Efeitos do congelamento e degelo sobre a
+capacidade de sustentação do solo.
+624.139.3	Estabilidade do solo em encostas nas regiões de
+solo congelado (em áreas sujeitas a
+congelamento sazonal e congelamento
+permanente).
+      -> 624.131.537 Estabilidade do solo. Planos de ruptura (superfícies de deslizamento. Deslizamentos do solo
+624.139.5	Distúrbio artificial das camadas ativas e
+permanentemente congeladas. Inclusive
+Remoção da neve, da vegetação e da camada
+superficial do solo.
+624.139.6	Controle do solo congelado.
+624.139.62	Estabilização da camada ativa. Controle da
+profundidade do gelo permanente. Isolamento. Congelamento artificial
+      -> 624.157.4 Colocação da fundação por congelamento artificial
+624.139.64	Controle da formação de gelo no solo. Zonas de
+congelamento artificial.
+624.139.65	Controle da formação de gelo nos rios e cursos
+de água.
+624.139.68	Degelo do solo congelado (métodos e
+equipamento).
+624.139.7	Solo congelado como material estrutural ou de
+engenharia.
+624.14	Engenharia da neve e do gelo. Trabalhos e
+materiais de construção em climas frios. 
+      -> 624.139 Engenharia de solo congelado
+624.142	Efeitos das baixas temperaturas. Ação do
+congelamento. Danos provocados pelo
+congelamento.
+      -> 625.042.2 Influência do congelamento, da geada
+624.143	Medidas contra congelamento e formação
+de gelo.
+624.143.2	Medidas contra congelamento (processos
+anticongelamento, descongeladores).
+624.143.3	Medidas contra formação de gelo. Métodos
+(mecânicos, térmicos, químicos) para evitar
+congelamento.
+624.143.5	Remoção do gelo. Métodos de
+descongelamento.
+624.143.8	Emprego de agentes químicos anticongelantes e
+de depressores do ponto de congelamento.
+      -> 62-715 Limpeza e outros tratamentos do líquido refrigerante
+624.144	Danos e acidentes causados pela neve e
+pelo gelo na terra (precauções, prevenção e
+controle).
+      -> 551.322 Água em estado sólido. Gelo e neve
+      -> 551.578.46 Capa de neve
+      -> 614.8 Acidentes. Riscos. Proteção contra acidentes. Proteção pessoal. Segurança
+      -> 62-784.1 Proteção contra as intempéries
+624.144.2	Danos causados pela sobrecarga de geada, neve
+etc. Medidas defensivas.
+      -> 62-753 Dispositivos para compensação o da tensão, expansão, estiramento, flexão, dobramento, esforço de torção
+      -> 62-757.3 Escudos contra neve. Defesas contra neve
+624.144.4	Controle da acumulação de neve. Barreiras para
+neve. Inclusive Cercas. Sebes. Galerias.
+      -> 625.164 Escudos contra neve e outras estruturas de proteção. Proteção contra queda de pedras. Galerias de proteção, etc.
+624.144.5	Remoção da neve e gelo. Derretimento da neve.
+      -> 629.362.5 Veículos para retirar neve
+624.144.53	Métodos (mecânicos, térmicos, químicos) de
+remoção de neve e gelo.
+624.144.55	Equipamento para remoção de neve e gelo.
+Inclusive Tratores para retirar a neve. Sopradores de neve. Derretedores de neve.
+      -> 629.362.5 Veículos para retirar neve
+624.144.8	Medidas para prevenir ou reduzir
+escorregamentos no gelo e na neve.
+      -> 625.089.1 Revestimento da superfície
+      -> 625.095 Derrapagem, Propriedades antiderrapantes
+      -> 625.768.6 Lançamento de areia grossa nas estradas para evitar derrapagem durante nevascas. Precauções contra
+      gelo
+      -> 629.3.027.543 Dispositivos para evitar derrapagens
+624.145	Danos causados pelo gelo flutuante
+(precauções, prevenção e controle).
+      -> 551.326 Gelo flutuante
+      -> 626.144 Remoção de gelo
+      -> 627.224 Regime de gelo nos portos
+624.146	Danos causados pelo gelo de fundo
+(precauções, prevenção e controle).
+      -> 551.328 Gelo de fundo. Gelo granulado
+624.147	Gelo e neve como materiais de fundação,
+estruturais ou de engenharia. Compactação
+artificial da neve.
+624.148	Materiais e adaptações para trabalho em
+clima frio.
+624.148.3	Materiais especiais para climas frios. Inclusive Propriedades especiais.
+624.148.5	Adaptações e projetos especiais para climas
+frios.
+624.148.7	Operações em tempo frio. Inclusive
+Manutenção de inverno.
+624.15	Engenharia de fundações. Obras de
+Sub-estrutura.
+624.151	Fundações. Leito de fundação.
+624.151.1	Fundações no seco.
+624.151.2	Fundações com controle do nível de água.
+      -> 626.86 Remoção de água. Drenagem
+624.151.5	Fundações rasas, p. ex., fundações de pedra
+(com transmissão de carga perto da superfície
+do solo).
+624.151.6	Fundações ou plataformas flutuantes.
+Fundações profundas (com transmissão de
+carga a profundidade maior).
+624.152	Operações de escavação e aterramento para
+as fundações. Trincheiras de fundação.
+624.152.2	Escavação da fundação. Inclusive Retirada da
+ré l vá, da vegetação. Limpeza da camada superficial do solo.
+624.152.5	Explosão.
+624.152.6	Esvaziamento. Estancamento e drenagem da
+trincheira de fundação. Inclusive Drenagem.
+Bombeamento de água. Controle do nível de
+água. Barragem. Estancamento. Afundamento
+de estacas em cortina.
+      -> 624.136 Diques. Barragens. Barragens de proteção. Taludes. Ensecadeiras. Diques (com revestimento de argila, sacos de areia, concreto, etc.)
+      -> 624.137 Aterros, taludes, etc. Estruturas de contenção. Trabalhos de contenção. Trabalhos de transição entre diferentes níveis de solo. Fixação das massas de terra
+624.153	Colocação das fundações na escavação.
+624.153.5	Fundações no seco, sem estabilização do solo.
+624.153.51	Fundações diretas.
+624.153.52	Aumento das fundações.
+     -> 624.156 Grades, sapatas, plataformas e outras fundações especiais no seco
+624.153.521	Ferragem, acamadamento de areia
+624.153.522	Fundações espalhadas. Sapatas de alicerce.
+624.153.524	Fundações com coluna individual. Fundações
+de torre. Fundações para edifícios elevados.
+624.153.524.2            Fundações de coluna. 
+624.153.524.4             Fundações de torre. Fundações para edifícios elevados.
+624.153.525	Fundações retangulares, anulares ou circulares
+sob cargas concentradas. Alicerces contínuos.
+Exemplo(s) de combinação(ões):
+624.153.525:621.874.2 Fundações  para guindastes móveis
+624.153.6	Fundações no seco em plataformas continuas e
+em arcos invertidos.
+624.153.7	Fundações de escoramento. Inclusive Blocos de
+escora.
+      -> 624.078.7 Escoramentos estruturais (e seu cálculo)
+      -> 624.137.6 Aplicações da mecânica dos solos. Terra ou solo como materiais estruturais ou de construção. Terra como aqüífero no trabalho de construção
+624.154	Fundações em estacas. Estacas em geral.
+      Indicar as funções e aplicações por meio de :...; outras características por meio dos  auxiliares com
+      hífen
+Exemplo(s) de combinação(ões):
+624.154:624.131.384 Estacas de teste 
+624.154-4 Forma, seção transversal etc. das estacas
+624.154-428 Estacas helicoidais 
+624.154-462 Estacas quadradas 
+624.154-8 Força motriz ou fonte de energia das máquinas perfuratrizes, de estaquear
+624.154-81 Estacas colocadas a vapor
+624.154.1	Fundações com estacas. Características do local e do solo.
+      -> 624.131.4 Propriedades do solo
+      -> 624.131.5 Estática do solo. Dinâmica do solo
+624.154.5	Estacas perfuradas. Estacas moldadas no local.
+624.154.51                 Estacas de areia. Estacas de terra.
+624.154.53	Estacas de concreto (com recuperação do molde
+ou tubo de perfuração). Inclusive Compactação
+do concreto por vibração, ar comprimido.
+624.154.54	Projetos especiais de estacas perfuradas.
+Inclusive Estacas, perfuradas cora molde
+permanente (não-recuperável). Estacas
+perfuradas de concreto vibrado. Estacas
+pré-furadas pré-moldadas.
+      Indicar os nomes dos sistemas  por meio de  A/Z
+624.154.6	Uso de máquinas perfuratrizes para fundações
+de estacas. Equipamento para moldagem das
+estacas no canteiro, no local..
+624.154.64	Inserção ou colocação de estacas.
+624.154.68	Extração ou retirada dos tubos de moldagem.
+624.154.8	Detalhes estruturais das estacas. Inclusive Pé
+(base), cabeça, superfície, eixo, sapata, ponta
+etc. de estaca.
+624.155	Estacas pré-fabricadas, cravadas por impacto.
+624.155.1	Estacas cravadas em geral.
+624.155.11	Estacas cravadas simples e compostas. Estacas
+pré-fabricadas.
+624.155.112	Estacas de madeira (tratadas ou não).
+624.155.113	Estacas cravadas de concreto.
+624.155.114	Estacas de aço.
+624.155.116	Materiais diversos. Estacas compostas.
+624.155.117	Estacas cravadas de estrutura reforçada.
+Inclusive Estacas de base espalhada,
+com asas.
+624.155.118	Projetos especiais de estacas cravadas.
+      Indicar os nomes dos sistemas por meio de A/2
+624.155.12	Plano da cravação de estacas. Inclusive
+Profundidade da cravação. Espacejamento das
+estacas. Inclinação das estacas.
+624.155.15	Uso de equipamento para cravar, soltar, extrair
+as estacas, inclusive esteiras de estaca. Cravação e extração de estacas.
+624.155.152	Impulsionadores de estacas por impacto.
+Martelos de bate-estacas. Bate-estacas.
+624.155.153	Bate-estacas vibratórios.
+624.155.154	Gravação de estacas. Inclusive Testes de
+resistência.
+624.155.154.8            Extração, afrouxamento das estacas. Extratores de estacas.
+624.155.7	Detalhes estruturais das estacas cravadas.
+Inclusive Pé, cabeça, eixo, sapata, ponta,
+capacete etc. de estacas.
+624.156	Grades, sapatas, plataformas e outras
+fundações especiais no seco.
+      -> 624.153.52 Aumento das fundações
+624.156.2	Grades de madeira.
+624.156.3	Grades de concreto. Plataformas de concreto.
+Sapatas de concreto. Fundação no concreto
+entre estacas de esteira. Cama de concreto.
+ 
+624.156.4	Grades reforçadas de concreto.
+624.156.5	Grades de alvenaria ou de tijolo.
+624.156.6	Escoras de concreto em colunas, pilotis,
+escoras, pontaletes.
+624.156.7	Fundações em cantilever.
+624.156.8	Fundações em poço.
+      -> 624.157.2 Fundações de poço em água aberta. Fundações em caixão sem ar comprimido. Caixões abertos. Caixões em caixa
+624.157	Fundações na água. Fundações subaquáticas.
+Fundações profundas em geral (com ou sem lençol freático).
+      -> 626.02 Obras subaquáticas em geral
+      -> 627.02 Obras subaquáticas. Trabalho de mergulhador
+      -> 627.24 Execução de obras de construção marítima
+      -> 627.25 Proteção das obras de construção hidráulica
+      -> 627.4 Proteção de margens de rios. Retificação de rios e correntes. Outros trabalhos de melhoramento de rios
+624.157.1	Comportas celulares (comportas de parede
+dupla).
+      -> 624.136.6 Ensecadeiras. Diques (com revestimento de argila, sacos de areia, concreto, etc.)
+624.157.2	Fundações de poço em água aberta. Fundações
+em caixão sem ar comprimido. Caixões abertos.
+Caixões em caixa.
+      -> 624.156.8 Fundações em poço
+624.157.3	Fundações em caixão com ar comprimido.Caixões pneumáticos.
+624.157.32	Poços.
+624.157.33	Comportas e operações com comportas.
+Inclusive Suprimento de ar, ar comprimido etc..
+624.157.34	Câmaras de trabalho. Câmaras de drenagem e de
+bombeamento.
+624.157.35	Bordas, beiradas cortantes, equipamento de
+caixões.
+624.157.36	Diversos outros equipamentos, inclusive
+Equipamento para remoção do solo.
+624.157.37	Comportas de recompressão (decantamento).
+624.157.38	Tipos de caixão. Inclusive Caixões flutuantes e
+submersíveis. Caixões e interconexões
+múltiplas.
+624.157.39	Colocação da fundação com sinos de mergulho.
+624.157.4	Colocação da fundação por congelamento
+artificial.
+        -> 624.139.62 Estabilização da camada ativa. Controle da profundidade do gelo permanente. Isolamento.
+       Congelamento artificial
+624.157.5	Colocação pneumática e hidráulica da fundação
+sem caixões,
+624.157.51	Fundações a ar comprimido sem caixões.
+624.157.52	Fundações por jato de água.
+624.157.8	Fundações diretas sob a água. Inclusive
+Fundações subaquáticas de concreto fresco,
+pedra britada, aterro de pedra, blocos de
+cimento.
+624.159.1	Fundações especiais.
+624.159.11	Fundações para cargas de impacto ou
+dinâmicas.
+624.159.14	Fundações resistentes a terremotos, deslizamentos de terra ou subsidência de minas.
+624.159.2	Danos, deterioração, defeito das fundações.
+Inclusive Desnudamento, erosão, lavagem com
+corrente de água, solapamento, acomodação das
+fundações.
+624.159.3	Proteção contra desaterramento, erosão etc..
+Inclusive Faxinas, colchões preenchidos com
+pedras. Blocos encadeados.
+624.159.4	Reforço de fundações. Escoramento das
+estruturas.
+624.16	Pontos de apoio. Pilares.
+624.164	Pontos de apoio. Inclusive Muros de
+sustentação. Apoios de ponta.
+      -> 624.137.5 Muros de contenção. Muros de arrimo
+624.164.1	Generalidades. Ligação nos pontos de apoio-
+624.164.3	Pontos de apoio mortos, escondidos. Pontos de
+apoio enterrados, cegos.
+624.164.4	Pontos de apoio em degrau. Pontos de apoio
+ocos. Pontos de apoio fechados. Pontos de
+apoio recuados. Pontos de apoio cm projeção.
+Pontos de apoio reduzidos. Pontos de apoio
+em arco. Pontos de apoio retangulares. Pomos
+de apoio trapezóides.
+624.164.5	Recuos nos pontos de apoio.
+624.164.6	Muros laterais. Muros de arrimo. Bases dos
+muros. Bases e cimalhas dos muros.
+624.164.7	Pontos de apoio de escora.
+624.166                 Pilares (apoios estruturais). Pilões.
+      Para os pilares corno estruturas separadas, ver 67.332
+624.166.2	Pilares de resistência homogênea cm geral.
+624.166.3	Pilares de rio. Pilares de terra.
+624.166.32	Pilares de rio. pilares fluviais. Inclusive Narizes
+dos pilares. Quebra-mares. talha-mares.
+Proteção contra o gelo.
+624.166.33	Pilares terrestres. Inclusive Pilares de ponta.
+Pilares de praia.
+624.166.4	Pilares de escoramento.
+624.166.5	Recuos nos pilares.
+624.166.6	Pilares de níveis múltiplos, de camadas
+múltiplas.
+624.166.7	Pilares de colunas múltiplas (pilares
+agrupados).
+624.166.8	Pilastras. pilotis (apoios estruturais). Pilastras
+articuladas.
+      Par a as pilastras como estruturas separadas,  ver 624.971
+624.166.82	Pilastras, pilotis.
+624.166.84	Pilastras oscilantes.
+624.19	Túneis. Escavação de túneis. Galerias. Construção de galerias.
+Exemplo(s) de combinação(ões):
+      624.19.034.5 Túneis subaquáticos
+      624.19.035.2 Túneis de montanha 
+      624.19.035.4 Túneis subterrâneos 
+      624.19.074.353 Abóbadas de encabeçamento
+      -> 622.25/.28 
+	      -> 625.712.35 Vias subterrâneas. Vias subterrâneas para tráfego. Vias em túneis
+624.191	Escavação de túneis. Escavação e construção
+de galerias.
+624.191.1	Trabalho preparatório técnico e econômico.
+Inclusive Levantamento geológico e topográfico. Seleção da direção, dos gradientes do túnel. Seções. Estática. Projeto. Cronograma. Análise de custos.
+624.191.2	Execução de obras de escavação de túneis.
+Métodos de escavação de túneis.
+624.191.21	Escavação a céu aberto.
+624.191.22	Construção de galerias em geral. Inclusive Perfuração de túneis. Madeiramento
+624.191.24	Aberturas de avanço (túneis-piloto).
+624.191.242	Perfuração das aberturas de avanço.
+624.191.244	Alargamento até a seção completa.
+Madeiramento.
+624.191.3	Perfuração do solo. Inclusive Corte. Explosão.
+      624.191.1dividido como622.23
+624.191.5	Construção de poços. Inclusive Poços,
+chaminés de ventilação. Escoramento do poço.
+                                         624.191.5 dividido como622.25
+624.191.6	Métodos especiais de perfuração. Maquinaria
+de escavação de túneis (escudos, escavadores
+rotativos). Perfuração com escudo.
+      -> 622.23.05 Ferramentas. Máquinas
+624.191.7	Remoção, carga e transporte de entulho.
+      624.191.7 dividido como 622.6
+624.191.8	Detalhes estruturais dos túneis.
+624.191.81	Revestimento dos túneis. Escoras, anéis,
+entubamento dos túneis.
+624.191.82	Elementos estruturais dos túneis. Inclusive
+Paredes, muros, partições, nichos dos túneis.
+Pisos, estrados dos túneis. Poços. Entradas,
+portais dos túneis.
+Especificar por meio de . 02... ou:692...
+624.191.86	Câmaras, salas de máquina, oficinas dos túneis.
+624.191.88	Túneis e galerias abandonadas, em desuso.
+624.191.94	Engenharia de climatização de túneis.
+Ventilação, condicionamento de ar etc.
+Iluminação.
+      624.191.94dividido como 622.4
+624.191.947	Iluminação dos túneis.
+624.191.94
+624.191.95	Drenagem dos túneis.
+      624.191.95 dividido como 622.5
+624.195	Túneis de tráfego.
+      -> 625.111 Estudos gerais do plano da linha férrea. Projetos e traçados das linhas, etc.
+      -> 625.712.35 Vias subterrâneas. Vias subterrâneas para tráfego. Vias em túneis
+      -> 626.132 Canais subterrâneos (canais de túnel). Aquedutos
+624.196	Túneis etc. para transporte de líquidos, p. ex., água, óleo.
+      -> 621.643.2 Condutos fechados. Tubos. Tubulações. Canos
+      -> 621.644 Tubulações e sua construção
+      -> 625.745.2 Obras subsidiárias como partes das estradas
+      -> 626.132.4 Canais de túnel (canais subterrâneos)
+      -> 628.2 Eliminação de águas urbanas servidas. Esgotos urbanos. Sistemas de esgotos
+624.2/.8	Construção de pontes.
+      -> 725.95 Pontes. Viadutos. Passarelas. Túneis. Passagens subterrâneas. Outras estruturas associadas ao tráfego
+      Os auxiliares relacionados em 624.210... são aplicáveis em 624.21/.28 
+Subdivisões auxiliares especiais
+624.21	Pontes em geral. Estrutura, partes, etc.
+      -> 625.712.36 Vias elevadas. Viadutos de tráfego
+      -> 625.745.1 Pontes
+624.21.03	Pontes segundo cenas características: tamanho,
+permanência, localização, forma etc.
+Análogo,  em geral,  a 69.03
+624.21.033	Pontes desmontáveis, transportáveis e
+temporárias. Inclusive Pontes de Bailey.
+      -> 624.87 Pontes flutuantes
+624.21.036	Pontes segundo o plano geral, forma básica,
+feitio.
+624.21.036.1	Pontes em plano reto.
+624.21.036.2	Pontes em plano inclinado ou em ângulo.
+624.21.036.3	Pontes em plano curvo.
+624.21.036.4	Pontes de um só vão, de vão único.
+624.21.036.5	Pontes cora diversas superestruturas
+independentes.
+624.21.036.6	Pontes com superestruturas continuas.
+624.21.036.7	Pontes com gradeamento de suporte de carga.
+624.21.036.8	Pontes de múltiplos pavimentos.
+624.21.037	Viadutos.
+624.21.09	Partes das pontes.
+624.21.095	Vias de veículos em pontes.
+624.21.095.2	Posição das vias de veículos em relação às vigas
+o u estrutura de apoio.
+624.21.095.21	Em posição inferior. V ias de veículos rebaixadas
+(p. ex., em pontes de tabuleiro, pontes de
+treliça).
+624.21.095.22	Em posição média. Nível do tabuleiro entre as
+lanças ou cordas superiores e inferiores.
+624.21.095.23	Em posição superior. Nível do tabuleiro acima
+da estrutura de apoio (pontes com tabuleiro
+superior, com superestrutura).
+624.21.095.27       	Tabuleiro em balanço (cantilever) para tráfego de veículos motorizados ou pedestres.
+624.21.095.3	Projeto técnico.
+624.21.095.32	Tabuleiro, sistema de piso, revestimento da
+superfície de vias de veículos.
+624.21.095.323      	Superfície ortotrópica( p laça de tabuleiro, vigas cruzadas) da via de veículos. 
+624.21.095.325      	Trilhos para carris, ferrovias
+      -> 625.14 Superestrutura, linha. Via permanente em geral
+624.21.095.33	Pavimentação das pontes.
+624.21.095.332     	Drenagem.
+624.21.095.334      	Aquecimento.
+624.21.096	Grades, corrimões, parapeitos. balaustradas.
+624.21.097	Acessórios das pontes. Inclusive Dispositivos
+de controle de tráfego nas pontes: sinalizações,
+barreiras, pedágios etc. Equipamento de
+iluminação nas pontes.
+Divisões principais
+624.26	Pontes planas ou de lajes.
+624.27	Pontes de vigas.
+624.271	Pontes de vigas simples.
+624.272	Pontes com vigas principais reforçadas.
+624.273	Pontes com vigas compostas (indentadas ou
+cavílhadas).
+624.275	Pontes de laje e viga. Pontes de vigas em T.
+624.28	Pontes de armação em treliça. Pontes de
+armação em tabuleiro.
+624.281	Pontes de vigas treliçadas com a treliça
+acima do tabuleiro.
+624.282	Pontes de vigas de escora com a treliça
+abaixo do tabuleiro.
+624.283	Pontes treliçadas e escoradas (com o
+tabuleiro entre as treliças).
+624.3	Pontes de treliça (pontes de teia
+aberta, de vigas em treliça).
+624.31	Pontes com vergas ou cordas paralelas.
+Pontes de treliça.
+624.32	Pontes com lanças ou cordas curvas.
+Pontes de arco atirantado.
+624.34	Pontes com elementos ligados por juntas.
+	Pontes com vigas articuladas.
+624.35	Pontes de cantilever.
+
+
+
+51
+
+

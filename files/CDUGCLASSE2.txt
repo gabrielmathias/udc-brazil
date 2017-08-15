@@ -1,0 +1,3274 @@
+﻿2  Religião. Teologia
+ ->124 Teleologia
+ -> 125 Finidade. Finitude. Infinidade. Imensidade. Infinitude. A infinitude e a infinidade.
+ ->322 Relações entre a Igreja e o Estado. Política relativa à religião. Política da igreja
+ ->348 Direito eclesiástico. Direito canônico. Direito religioso (opção)
+
+Subdivisões auxiliares especiais
+2-1		Teoria e filosofia da religião. Natureza da religião. Fenômeno da religião.
+2-11		Escolas de teologia caracterizadas por diferentes atributos.
+		Exemplo(s) de combinação(ões):
+		      2-11:141.72 Teologia feminista
+		      2-11:141.78 Teologia pós-moderna
+2-12	Conceitos em religião. Idéias religiosas. Teologia.
+2-13		O santo. O sacro. O sobrenatural. Objeto(s) da religião/culto.
+2-132		Definição.
+2-133		Origem
+2-134		Natureza. Tabu. Herem. Santidade.
+2-135		Representação. Símbolo. Simbolismo.
+                                    Para símbolos no culto, ver 2-526.6
+2-135.2		Símbolos individuais.
+2-135.3		Letras e números. Numerologia.
+2-136		Manifestação do sobrenatural.
+                                   ->2-166 Encarnações divinas. Manifestações
+2-136.2	Forma do sobrenatural. Morfologia.
+2-136.3	Dinamismo. Pré-animismo.
+2-136.4	Fetichismo. Culto de objetos animados e inanimados.
+2-136.6	Panteísmo. O sobrenatural inerente ao mundo material.
+2-136.7	Animismo.
+2-136.8	Totemismo.
+2-137		Objetos de culto especificamente.
+                        Exemplo(s) de combinação(ões):
+                            2-137:502 Culto da natureza
+                            2-137:52 Corpos astronômicos (celestes)
+                            2-137:523.3 Lua
+                            2-137:523.9 Sol
+                            2-137:536.46 Fogo (pirolatria)
+                            2-137:55 Terra (ctonismo)
+                            2-137:551.5 Fenômenos atmosféricos
+                            2-137:551.51 Céu (firmamento). Uranolatria
+                            2-137:552 Pedras, rochas
+                            2-137:556 Adoração da água
+                            2-137:58 Árvores. Plantas
+                            2-137:59 Animais
+                            -> 2-172.4 Aspectos teológicos dos elementos do mundo material (diferentes de seu
+                            papel como objetos de culto)
+                            ->2-526 Objetos no culto. Mobiliário e decoração
+2-138		Seres humanos e partes de seres humanos
+		Exemplo(s) de combinação(ões):
+		      2-138:616.6 Culto do falo. Falicismo.
+                             2-138:616.7 Adoração do crânio
+2-14		Deus. Deus(es) personalizado(s), distinto(s) dos espíritos imanentes.
+2-141		Existência de Deus.
+2-142		Origem de/dos Deus(es). Obras de/dos Deus(es).
+2-143		Atividade de/dos Deus(es). Obras de/dos Deus(es).
+2-144		Atributos de/dos Deus(es).
+2-144.2	Nome de/dos Deus(es).
+2-144.3	Forma física, aparência.
+                        Exemplo(s) de combinação(ões):
+                            2-144.3:599.61 Deus elefante
+                            2-144.3:599.82 Deus macaco
+2-144.4	Antropomorfismo.
+2-144.5	Representação de/dos Deus(es). Imagens de/dos Deus(es).
+                             -> 2-526.6 Símbolos. Imagens
+2-144.7	Espírito de/dos Deus(es). Essência de Deus.
+2-144.8	Características pessoais, traços. Natureza de/dos Deus(es).
+2-144.81	Domínio. Realeza.
+2-144.82	Benevolência.
+2-144.84	Conhecimento. Onisciência.
+2-144.86	Poder. Onipotência.
+2-144.87	Presença. Onipresença.
+2-145		Papel, função de/dos Deus(es).
+2-145.2	Deus criador. Demiurgo. Deus designador. Deísmo.
+2-145.3	Deus protetor. Teísmo. Providência. Proteção e governo do mundo.
+2-145.4	Deus destruidor.
+2-145.5	Deus controlador. Deus ex machina.
+2-145.55	Intervenção divina. Milagres.
+2-145.6	Responsabilidade. Áreas de influência.
+2-145.8	Deus(es) como juiz(es). Juízo divino.
+		Exemplo(s) de combinação(ões):
+		      2-145.6:551.5 Tempo
+		      1-145.8:57.017.5 Fertilidade
+2-146		Tipologia de/dos Deus(es).
+2-146.2	Pai do Céu.
+2-146.3	Mãe da Terra.
+2-146.5	Deuses guerreiros.
+2-146.6	Deuses ardilosos.
+2-15		Natureza de/dos Deus(es).
+2-154		Deus único. Ser Supremo. Monoteísmo.
+2-156		Deuses adversários. Deuses pares/Pares de deuses. Dualismo.
+2-157		Multiplicidade de deuses. Panteão. Politeísmo.
+2-158		Deuses/deusas com nomes.
+		      Especificar por meio da extensão alfabética A/Z (Tabela Ih)
+2-162		O gênero de/dos Deus(es).
+2-162.2	Sem gênero (Geralmente presumido).
+2-162.4	Deuses.
+2-162.6	Deusas.
+2-162.8	Deuses hermafroditas. Andróginos
+2-163		Hierarquia dos deuses, organização do panteão.
+2-164		Semideuses.
+2-165		Personificações divinas. União hipostática.
+2-166		Encarnação divina. Avatares. Manifestações.
+2-167		Seres sobrenaturais. Espíritos. Gênios.
+2-167.2	Anjos. Angelologia. Hierarquia dos anjos.
+2-167.25	Arcanjos (por função).
+2-167.3	Mensageiros.
+2-167.4	Guardiães (por características).
+2-167.5	Benevolentes.
+2-167.6	Malevolentes.
+2-167.62	Demônios. Diabos.
+2-167.64	Satã. Satanaz. O diabo. O mal.
+2-167.7	Mutáveis. Imprevisíveis.
+2-167.8	Seres semidivinos.
+2-168		Seres deificados, divinizados.
+		Exemplo(s) de combinação(ões):
+		      2-168:321.011.1-051 Soberanos deificados, divinizados.
+		      2-168:599.89 Seres humanos deificados, divinizados.
+2-169		Criaturas míticas.
+2-169.5	Seres teriantrópicos (em parte, humanos; em parte, animais).
+2-17		O universo. Natureza do universo. Cosmologia.
+2-172		O mundo material. O ambiente físico
+2-17.2		Origens. Cosmogonia. Criação do mundo.
+2-17.24	Estado antes da criação. O Caos. O Caos inicial.
+2-17.25	A batalha inicial.
+2-17-27	O eixo do mundo.
+2-172.4	Aspectos teológicos dos elementos do mundo material (diferentes de seu papel como 
+                      objetos de culto).
+                      Exemplo(s) de combinação(ões):
+                            2-172.4:52 Os céus
+                            2-172.4:524 Estrelas
+                            2-172.4:551 Terra
+                            2-172.4:556 Água
+                            2-172.4:556.5 Desastres naturais. Enchentes
+                            2-172.4:57.017.5 Fertilidade.
+                            2-172.4:58 Vegetação 
+2-173		O inferno. O mundo dos mortos.
+		      -> 2-188.7 O inferno. O mundo dos mortos. O hades.O cheol.
+2-174		O reino do espírito. O céu. A morada dos deuses. O mundo do espírito.
+		      Quando percebido como parte do universo material; do contrário, usar 2-188
+2-175		Escatologia. O fim do mundo. Os novíssimos.
+2-175.2	O apocalipse. Apocalíptico.
+2-175.25	Os sinais do fim dos tempos.
+2-175.27	Os acontecimentos do fim dos tempos.
+2-175.3	O juízo final.
+2-175.35	A condenação.
+2-175.4	A aniquilação. A conflagração. A destruição do mundo.
+2-175.5	O crepúsculo dos deuses.
+2-175.6	Restauração cósmica. Apocatástase. Transformação.
+2-175.7	O reino, o governo de/dos Deus(es).
+2-175.75	O Milenarismo. O Quiliasmo.
+2-18		O homem. O gênero humano. A humanidade. Antropologia doutrinal.
+2-181		Origens do homem.
+2-181.5	A criação do homem.
+2-18.7		O paraíso primitivo. O paraíso terrestre.
+2-182		O sentido, o destino do homem.
+2-183		A natureza do homem.
+2-183.5	A alma. O espírito. O espírito humano.
+2-183.7	A liberdade. O livre arbítrio. A predestinação.
+2-184		Relação do homem com Deus(es).
+2-184.2	Sentimentos religiosos. Experiência religiosa.
+2-184.25	Sentimentos anormais. Fanatismo.
+2-184.27	Sentimentos, experiências ilusórias. Ilusões.
+2-184.3	A fé. A crença em Deus.
+2-184.35	O reconhecimento formal da fé. A conversão religiosa.
+                            -> 2-767 Proselitismo. Conversão.
+2-184.4	Dúvida. Descrença.
+2-184.5	Negação. Rejeição. Apostasia.
+2-184.6	A graça.
+2-184.7	Relações baseadas no Pacto.
+2-184.8	A resposta de Deus ao homem.
+2-184.85	As dádivas de Deus ao homem. Os dons do Espírito Santo.
+2-185		A Experiência humana. A vida.
+2-185.2	O sofrimento.
+2-185.3	O mal. O problema do mal ou pecado. O pecado.
+		      Classificar aqui apenas idéias gerais sobre a natureza e o entendimento religioso do que é 
+                              o pecado. A Conformidade com os requisitos específicos do direito e da praxe 
+                              religiosos classifica-se em 2-42 Observância religiosa e teologia moral
+2-185.32	A origem e a natureza do pecado. A natureza do mal.
+2-185.325	O pecado original. A condição inerentemente pecadora da humanidade. A queda do
+                       homem.
+2-185.33	O arrependimento. A contrição.
+2-185.35	A expiação do pecado.
+2-185.36	O perdão. A remissão. A absolvição.
+2-185.5	A salvação. Soteriologia.
+2-185.52	A justificação.
+2-185.53	A redenção.
+2-185.57	A reconciliação.
+2-186		A morte. Os mortos.
+                             Para costumes e ritos fúnebres, ver 2-557
+2-187		A vida após a morte. A vida futura. O porvir.
+2-187.2	Os estados do ser. As formas de existência ininterrupta..
+2-187.3	A imortalidade. A persistência da vida.
+2-187.4	A reintegração (apocatástase) das almas.
+2-187.5	A reincarnação. Metempsicose. Metamorfose.
+2-187.55	Nascimento e renascimento.
+2-187.6	Ressurreição. Rejuvenescimento. Recuperação do corpo físico.
+2-187.7	O corpo espiritual, imaterial. O corpo celestial.
+2-187.8	A separação da alma do corpo.
+2-187.85	Aniquilação. Cessação da existência. O não-ser. Assimilação. O nirvana.
+2-188		Os reinos espirituais. Os mundos não-materiais. O mundo do espírito.
+                            -> 2-173 O inferno. O mundo dos mortos
+                            -> 2-174 Os reinos do espírito. O céu. A morada dos deuses. O mundo do espírito.
+2-188.2	O acesso ao mundo do espírito.
+2-188.25	A preparação.
+2-188.26	O juízo.
+2-188.3	A viagem ao mundo do espírito. Ascensão. Descida.
+2-188.5	O céu. Os céus. O paraíso. A morada dos deuses. O plano astral.
+2-188.55	A morada dos antepassados.
+2-188.6	Estado intermediário. O limbo. O purgatório.
+2-188.7	O inferno. O hades. O cheol.
+2-188.75	A morada dos espíritos.
+2-2		Evidências da religião.
+2-21		Teologia natural. Evidência do mundo natural. Argumentos racionais em favor da fé.
+2-22		Teologia revelada. A revelação de/dos Deus(es).
+2-225		Teofania. Hierofania. Cratofania.
+		      Para revelação dos deuses em forma humana, ver 2-166
+2-23		Livros sagrados. Escrituras. Textos religiosos.
+		      Na maioria das religiões existem livros sagrados centrais (que foram amplamente 
+                              enumerados em cada religião.Tipos secundários de material (leis religiosas,
+                              material litúrgico, etc.) também foram incluídos. Estes materiais não devem ser
+                              confundidos com as próprias escrituras  a Torá, p. ex., é considerada como escritura,
+                              e não como direito religioso, embora possua forma de lei). Os exemplos aqui 
+                              (apresentados)foram colhidos principalmente nas fontes hebraica e cristã e nos textos
+                             religiosos; eles devem servir  de padrão para as obras de outras religiões, as quais se
+                             encontram enumeradas no lugar apropriado da tabela principal
+2-232		Textos originais. Obras canônicas da escritura.
+2-233		Variantes.
+2-234		Traduções (i.e., do texto original).
+		      Usar as Tabelas auxiliares comuns 1c e 1g para especificar a língua e o período, 
+                              conforme necessário).
+		Exemplo(s) de combinação(ões):
+		      2-234"05” A Vulgata
+2-235		Versões.
+		      Formas de texto não traduzido das fontes originais.
+		      Usar as Tabelas auxiliares comuns 1c e 1g para especificar a língua e o período.
+2-236		Textos re-escritos. Paráfrases.
+2-236.5	Resumos de narrativas. Estórias da Bíblia.
+2-236.7	Paródias.
+2-24		Textos específicos. Textos e livros com seus nomes.
+		       Usar para enumerar textos, livros, elementos específicos, etc. dos escritos sagrados
+                               de determinada religião
+2-25		Literatura secundária. Pseudocanônicos.
+2-252		Apócrifos. Pseudo epígrafos (diferentemente de como nomeados).
+2-254		Comentários sobre obras sagradas.
+2-256		Obras interpretativas. Obras para orientação prática.
+2-262		Formas orais. Tradição oral.
+2-264		Mitos e lendas.
+2-265		Outras formas literárias.
+2-265.2	Obras poéticas.
+2-265.3	Epopéias e sagas.
+2-265.4	Obras dramáticas.
+2-265.6	Drama ritual.
+2-266		Lei. Direito. Códigos legais. Textos legais.
+2-268		Textos sobre assuntos “profanos”(p.ex., medicina, ciência).
+2-27		Obras críticas.
+2-271		Auxílios para o estudo.
+2-271.4	Formas paralelas. Textos interlineares. Harmonias.
+2-271.5	Versões anotadas.
+2-272		Concordâncias.
+2-272.4	Concordâncias verbais.
+2-272.5	Concordâncias temáticas.
+2-273		Comentários.
+2-274		Crítica em geral.
+2-274.2	Autoria, origem dos textos.
+2-274.4	Cânone. Canonicidade.
+2-274.6	Autoridade, ausência de erro na escritura.
+2-275		Crítica textual.
+2-275.2	Aparato textual.
+2-276		Crítica literária.
+2-276.2	Origem e formação das escrituras.
+2-276.3	Hipóteses documentais.
+2-276.4	Crítica da forma. Formegeschichte.
+2-276.5	Crítica da redação.
+2-276.6	Conteúdo literário.
+2-276.63	Simbolismo.
+2-276.64	Tipologia.
+2-276.66	Alegoria.
+2-276.7	Crítica histórica. História da salvação. Heilsgeschichte.
+2-277		Interpretação. Compreensão. “Estudos da Bíblia”.
+2-277.2	Exegese. Hermenêutica.
+2-277.3	Eisegesis.
+2-277.4	Interpretação literalista, fundamentalista.
+2-277.6	Interpretação alegórica.
+2-277.7	Desmitologização.
+2-278		Teologia dos textos sagrados. Conteúdo teológico.
+		      Indicar maiores detalhes por meio de combinação com os auxiliares com hífen
+		Exemplo(s) de combinação(ões):
+		      27-278-31 Cristologia do Novo Testamento.
+2-279		A religião conforme demonstrada nos textos sagrados. Prática religiosa.
+		      Indicar maiores detalhes por meio de combinação com os auxiliares com hífen
+		Exemplo(s) de combinação(ões):
+		      26-279-538 O sacrifício no Velho Testamento
+2-28		Outros textos religiosos.
+2-282		Obras litúrgicas. Textos litúrgicos.
+		      Esta classe permite a enumeração dos textos religiosos, se necessário. Normalmente 
+                              os materiais litúrgicos se subordinam ao rito aos quais se referem
+2-282.2	Obras litúrgicas abrangentes.
+2-282.3	Credos e confissões de fé.
+2-282.4	Catecismos.
+2-282.5	Livros de orações. Livros de preces.
+2-282.7	Livros cerimoniais. Missais. Breviários.
+2-283		Documentos históricos. Documentos de evidência. Registros históricos. Relatos 
+                        contemporâneos. Cartas.
+2-284		Obras de doutrina, de dogma. Artigos de fé. Teologia sistemática. Dogmática.
+		      Normalmente a doutrina de, digamos, uma prática, se subordina àquela prática; p.ex 
+                              ex.: 27-549-284 A doutrina da Sagrada Comunhão. 2-284 pode ser usado para reunir 
+                              todas as obras de doutrina, p. ex.: 27-284.549 A doutrina da Sagrada Comunhão.
+2-285		Defesa e exposição da doutrina.
+		      Obras gerais, apenas. Normalmente subordinar ao assunto em discussão, usando 
+                              combinação com hífen. Ver nota acima, em 2-284.
+2-285.2		Apologética.
+2-285.4	Polêmica.
+2-286		Outras formas de texto religioso.
+2-287		Sermões como uma das formas.
+2-29		Literatura religiosa.
+		      Literatura imaginosa, destinada a apoiar a fé, ou contendo assuntos religiosos como
+                              tema.
+2-291		Poesia religiosa.
+2-292		Drama religioso.
+                             Peças religiosas. Ver 2-265.6 para drama ritual.
+2-293.1	Romances religiosos.
+2-3		Pessoas em religião.
+		      Funcionários religiosos, pessoas detentoras de autoridade na fé religiosa, etc., são
+                              apresentadas sob a estrutura institucional da religião, em 2-725/-727. Há,
+                              entretanto, algumas classes gerais de agentes que não se ligam dessa, forma com
+                              determinada atividade religiosa; essas classes são apresentadas aqui.
+		      Geralmente falando, as pessoas deveriam subordinar-se à função que desempenham
+                              por meio dos auxiliares comuns de pessoas, Tabela 1k; p. ex.:
+                              2-468.6-051 Curandeiro = curar + pessoas
+                              2-788-051 Monges = ordens monásticas + pessoas
+2-31		O originador, fundador, figura central da religião.
+2-312		A vida do fundador.
+2-312.3	O nascimento, natividade.
+2-312.4	A família do fundador.
+2-312.45	O pai.
+2-312.47	A mãe.
+2-312.5	Outros indivíduos importantes.
+2-312.55	Primeiros seguidores. Patrocinadores.
+2-312.6	Iniciação. Conversão. Iluminação.
+2-312.7	Ministério. Vida pública.
+2-312.8	Morte.
+2-312.9	Acontecimentos após a morte.
+2-313		Relíquias do fundador.
+2-315		Relatos, material anedótico.
+2-317		Memórias. Ditos. Feitos.
+2-318		O fundador como modelo, exemplo.
+2-32		O Messias.
+2-33		Pessoas inspiradas.
+2-335		Acadêmicos. Eruditos. Pensadores. Filósofos.
+2-337		Reformadores.
+2-34		Mártires.
+2-35		Ascética. Eremitas. Faquires.
+2-36		Santos. Boddhisatvas. Iluminados.
+2-37		Mahatmas. Gurus. Sábios.
+2-38		Carismáticos. Pessoas com poderes sobrenaturais.
+2-382		Xamãs. Curandeiros. Pessoal médico. Feiticeiros.
+		      -> 256 Religião da Ásia central. Xamanismo.
+2-384		Padres do culto. Sumos-sacerdotes.
+2-386		Taumaturgos. Operadores de maravilhas.
+2-39		Soberanos teocráticos. Reis escolhidos pela divindade.
+2-4		Atividades religiosas. Práticas religiosas.
+2-41		Comportamento e atividades sociais. Prática e observância religiosas não-formais.
+2-42		Comportamento moral. Teologia moral. 
+		      A teologia moral se distingue da discussão teológica sobre a natureza do pecado, que
+                             se encontra em 2-185.3. Esta classe diz respeito às ações da ética humana, como as noções 
+                             de certo e errado, virtude e vício, em vez de à condição inerente de pecado
+2-423		Certo e errado. Bem e mal.
+2-423.3	Conhecimento do certo e do errado.
+2-423.35	Consciência. Culpa.
+2-423.4	Liberdade de ação. Livre-arbítrio.
+2-423.42	Influências no exercício do livre-arbítrio.
+2-423.44	Determinismo.
+2-423.45	Predestinação.
+2-423.47	Tentação.
+2-423.5	Malfeito. Pecado.
+2-423.53	Origem, fonte do mal-agir.
+2-423.55	Natureza do mal-agir. Natureza do pecado. Inclusive Gravidade do pecado.
+2-423.57	Pecados específicos. 
+                        Exemplo(s) de combinação(ões):
+                            2-423.57-184.3 Pecado contra a fé
+2-423.58	Os sete pecados capitais. Pecados mortais.
+2-423.59	Pecados veniais.
+2-423.7	Bem. Virtude. O bem.
+2-423.73	Origem do bem.
+2-423.75	Natureza da virtude.
+2-423.77	Virtudes específicas.
+2-423.78	Virtudes cardeais.
+2-423.79	Virtudes teologais. Inclusive A fé. A esperança. A caridade.
+2-425		Sistemas éticos. Teoria da ética.
+		      Devem ser derivados da filosofia
+                       Exemplo(s) de combinação(ões):
+                              2-425:17.023.6 Casuística. Situações éticas
+                              2-425:17.026.4 Imperativo categórico. Ética kantiana
+                              2-425:17.036.2 Utilitarismo
+2-426		Ética religiosa. Ética diretamente derivada de sistemas religiosos.
+2-427		Promoção informal da fé. A ação como exemplo ou embaixadora da fé.
+2-428		Leis religiosas, obrigações, preceitos morais, leis morais. Regulamentos. Deveres
+                        religiosos.
+		      Muitos desses não são particularmente de caráter “moral”, e, se necessário, serão
+                              subordinados à prática religiosa a que se referem; assim, leis dietéticas, à prática
+                              dietética
+2-428.2	Natureza da lei religiosa.
+2-428.3	Exigências da lei.
+2-428.4	Proibições.
+		      Para proibições específicas, usar combinação com dois pontos. P. ex.:
+		      2-428.4:002 Livros proibidos
+2-428.5	Obediência à lei.
+2-428.6	Interpretação da lei.
+		-> 256 Religião da Ásia central. Xamanismo.
+2-428.7	Isenção da lei.
+2-428.8	Transgressão da lei.
+2-428.85	Mitigação.
+2-428.87	Indulgências.
+2-428.9	Emendas, revogação da lei.
+2-43		Costumes e práticas sociais. Teologia social.
+		      Esta classe é vista como abrangendo a teologia pastoral, mas há uma distinção clara
+                              entre comportamento social (como leis de alimento, costumes sexuais) e comportamento
+                              pastoral (esmola, aconselhamento).
+2-44		Comportamento social.
+2-441		Auto-esvaziamento. Kenosis.
+2-442		Alimento e dieta.
+2-442.4	Leis sobre alimentos.
+2-442.45	Requisitos da dieta. Limitações da dieta.
+2-442.47	Abstinência. Jejum. Proibição.
+2-442.5	Regras relativas a comidas e bebidas específicas.
+		Exemplo(s) de combinação(ões):
+                            2-442.5:637.5 Regras relativas a carne
+                            2-442.5:663.2/.5 Regras relativas a bebidas alcoólicas
+2-443		Higiene e aparência pessoais. Conduta pessoal.
+2-443.3	Asseio. Ablução.
+2-443.5	Roupas. Chapéus.
+2-443.7	Corte, uso, arrumação do cabelo.
+2-444		Relações sociais.
+2-444.2		Amizades.
+2-444.4		Conversação.
+2-444.6		Silêncio.
+2-445		Costumes e rotinas domésticos.
+2-446		Cuidados e tratamento médicos.
+Exemplo(s) de combinação(ões):
+      2-446:612.1 Atitudes com respeito a transfusão de sangue
+      2-446:615 Atitudes com respeito a drogas
+2-447		Relações sexuais. Atividade sexual.
+2-447.2		Separação dos sexos.
+2-447.4		Castidade. Pureza.
+2-447.6		Fidelidade sexual. Promiscuidade.
+2-447.7		Abstinência. Celibato.
+2-447.8		Prostituição.
+2-45		O casamento e a família.
+2-452		A corte. Seleção dos parceiros do casamento. Noivado.
+2-452.2	O contrato de casamento.
+2-453		Os parceiros maritais.
+2-453.2	Monogamia.
+2-453.5	Poligamia. Poliandria.
+2-454		Divórcio.
+2-455		Filhos.
+2-456		Gravidez.
+2-456.2	Aborto.
+2-456.5	Parto.
+2-457		Paternidade. Maternidade.
+2-457.5	Adoção.
+2-458		Substituto.
+2-46		Caridade. Auxílio aos outros. Atividades pastorais. Teologia pastoral em sentido lato.
+2-462		Agências, instituições de cuidados pastorais e apoio.
+2-463		Dádiva caridosa.
+2-463.2	Dízimos. Mordomia.
+2-463.4	Assistência aos mendigos.
+2-463.6	Cessão de riqueza, de posses. Pobreza voluntária.
+2-464		Apoio prático. Trabalho voluntário.
+2-465		Aconselhamento.
+2-466		Visitas.
+2-467		Hospitalidade.
+2-468		Cuidados. Cuidados físicos e assistência.
+2-468.2	Cuidados temporários, nas folgas.
+2-468.4	Cuidados em domicílio.
+2-468.45	Abrigo. Alojamento.
+2-468.47	Albergues. Hospícios.
+2-468.5	Cuidados de enfermeiros. Cuidados médicos.
+2-468.6	Cura.
+2-468.65	Imposição das mãos.
+2-47		Educação
+                             -> 2-725:37 Educação.
+2-472		Educação religiosa.
+                        Exemplo(s) de combinação(ões):
+                              2-472-053.2 Educação religiosa para crianças. Escola dominical.
+2-472.3	Preparação para a iniciação. Instrução religiosa. Inclusive Catecismo.
+2-472.5	Educação religiosa contínua(da).
+2-474		Estudo e interpretação das escrituras (para educação).
+                            -> 2-277 Interpretação. Compreensão. “Estudo da Bíblia”
+2-475		Pregação (como educação e instrução).
+                            -> 2-766 Atividade evangélica. Evangelismo
+2-475.2	Homilética. Teoria da pregação.
+2-475.5	Sermões.
+		      Ver 2-287 para sermões como forma.
+2-48		Objetos dos cuidados pastorais. Tipos e grupos sociais.
+2-482		Crianças.
+2-483		Pessoas de idade avançada. Idosos.
+2-484		Vítimas.
+2-484.3	Vítimas de crime.
+2-484.5	Vítimas de guerra.
+2-484.7	Grupos oprimidos. Teologia da libertação.
+2-484.75	Pessoas oprimidas religiosa e politicamente.
+2-485		Grupos minoritários.
+2-485.5	Minoria étnica.
+2-486		Enfermos.
+2-486.3	Doentes mentais.
+2-486.5	Doentes físicos.
+2-486.7	Inválidos.
+2-487		Moribundos.
+2-488		Outros grupos em desvantagem.
+2-488.2	Necessitados. Pobres.
+2-488.3	Sem-teto.
+2-488.4	Sem-emprego.
+2-488.5	Desamparados.
+2-488.6	Prisioneiros.
+2-488.65	Famílias dos prisioneiros.
+2-488.7	Viúvas e órfãos.
+2-488.8	Estrangeiros. Alienígenas. Forasteiros.
+2-488.85	Refugiados.
+2-5		Adoração em sentido amplo. Culto. Ritos e cerimônias.
+2-52		Agentes do culto.
+2-522		Sítios religiosos, lugares. Lugares santos.
+2-522.2	Situação, posição, localização, orientação.
+2-522.4	Lugares de espiritualidade particular, de santidade.
+2-522.5	Lugares associados ao espiritual.
+2-522.52	Lugares de visões.
+2-522.54	Lugares de martírio.
+2-522.58	Lugar do nascimento de pessoas santas.
+2-523		Edifícios para uso religioso.
+2-523.2	Partes dos edifícios. Cômodos. Áreas.
+2-523.3	Monumentos. Santuários.
+2-523.4	Centros de culto (significado religioso).
+		      Para arquitetura religiosa, ver 726.
+2-523.41	Principais centros de culto. Inclusive Principais templos, mesquitas, catedrais.
+2-523.42	Centros de culto locais e da periferia. Inclusive Templos. Mesquitas. Igrejas paroquiais.
+2-523-43	Centros de culto pequenos, simples ou austeros. Inclusive Santuários e capelas 
+                       independentes.
+		      Para santuários que não são constituídos por prédios, ver 2-523.3
+2-523.44	Santuário. Área sagrada.
+2-523.45	Denominação. Dedicação.
+2-523.46	Cômodos laterais. Capelas.
+2-523.47	Anteparos.
+2-523.472	Portas.
+2-523.48	Cômodos funcionais. Cômodos dos paramentos. Sacristia.
+2-523.5	Estruturas auxiliares, anexas
+2-523.6	Mosteiros. Prédios comunitários.
+2-523.8	Prédios com finalidades profanas.
+2-524		Meios para os atos do culto.
+                        Exemplo(s) de combinação(ões):
+                            2-524:536.46 Fogo
+                            2-524:612.1 Sangue
+                            2-524:662 Cinza
+                            2-524-032.2 Água
+                            2-524-035.8 Óleo
+2-525.2 	Incenso.
+2-525.4	Vestes. Roupa. Paramentos.
+2-525.5	Incenso.Máscaras.
+2-525.6	Adornos para a cabeça.
+2-525.7	Tecidos usados na religião. Tapeçarias e ornatos de pano. Têxteis.
+2-526		Objetos do culto. Mobiliário e decoração.
+2-526.1	Móveis. Estrados. Estantes.
+2-526.2	Altares. Mesas.
+2-526.3	Recipientes. Vasos sagrados. Cálices. Píxides.
+2-526.4	Auxílios para o devoto. Rosários. Rodas do orante (caixa cilíndrica giratória com orações
+                        gravadas).
+2-526.5	Luzes.
+2-526.6	Símbolos. Imagens.
+2-526.62	Símbolos pictóricos. Ícones.
+2-526.63	Dispositivos e objetos decorativos.
+2-526.64	Estatuária. Estátuas.
+                       -> 730 Escultura em geral. Estatuária.
+2-526.65	Monumentos funerários. Túmulos e pedras tumulares. Monumentos comemorativos.
+2-526.7	Relíquias. Relicários. Recipientes para objetos religiosos.
+2-526.8	Objetos usados no corpo. Amuletos. Berloques. Talismãs.
+2-526.9	Instrumentos musicais no culto.
+		      Como parte do ritual; p. ex: trompas, sinos, campainhas, shofar. Ver 2-535 para 
+                        música religiosa.
+2-528		Liturgia.
+		      Apenas abordagens gerais da liturgia. Textos litúrgicos devem subordinar-se aos ritos 
+                             e cerimônias a que se referem, usando 2-282. P. ex.: 272-555-282 Textos da cerimônia    
+                             católica do casamento. Alternativamente 2-282 pode ser usado sozinho para reunir todos
+                             os textos litúrgicos de uma religião
+2-528.5	Formas de rito. Ofício.
+2-53		Atos de culto (pelos participantes).
+2-532.2	Culto público. Culto comunitário. Funções (Geralmente presumidas). 
+                       Exemplo(s) de combinação(ões): 
+                            532.2“345” Funções noturnas. Vigílias
+2-532.24	Cerimonial. Cerimônias em escala grandiosa.
+2-532.26	Cerimônias do Estado.
+2-532.28	Parcialmente públicas.
+2-532.3	Observâncias domésticas.Culto familiar. Culto doméstico.
+2-532.4	Culto pessoal. Devoções particulares.
+2-532.5	Culto secreto (por grau de obrigação).
+2-532.6	Compulsório. Obrigatório.
+2-532.7	Recomendado.
+2-532.8	Voluntário. Opcional.
+2-533		(Objeto do culto). 
+		      Usar combinação de dois pontos com os números de toda a classificação.
+		Exemplo(s) de combinação(ões):
+		      2-533-312.47 Mariolatria
+		      271-533-526.62 Veneração de imagens (ícones) na igreja ortodoxa.
+2-534		Forma dos ritos, do culto (oral).
+2-534.2	Chamado ao culto, à prece.
+2-534.3	Prece.
+2-534.35	Preces específicas.
+2-534.4	Leitura de textos.
+2-534.5	Cânticos. Encantamentos. Magias.
+2-534.6	Profecia.
+2-534.7	Glossolalia. Falas em êxtase. Ato (dom) de falar línguas.
+2-535		Música no culto.
+		      O lugar preferido para música religiosa é em 783.
+		      Música segundo a função e o objetivo, em geral subordinada à função; p. ex:,
+                              2-555-535 Música de casamento. Essa localização pode ser usada para reunir obras
+                              de música, se necessário
+2-535.2	Canto solo.
+2-535.3	Música coral.
+2-535.35	Cânticos. Cantochão. Canto gregoriano.
+2-535.36	Cânticos antifonais.
+2-535.4	Música congregacional. Canto público. Canto comunitário.
+2-535.5	Música instrumental.
+2-535.6	Acompanhamentos musicais litúrgicos.
+2-535.65	De textos.
+2-535.67	De cerimônias.
+2-535.7	Hinos.
+		      Esta classe pode ser usada para reunir coleções de hinos e hinologia, se se desejar 
+                             fazê-lo.
+		Exemplo(s) de combinação(ões):
+		         2-535.7:631.5 Hinos da colheita
+		         2-535.7-23 Hinos baseados em textos de livros sagrados.
+		         2-535.7-544.5 Hinos de ação de graças
+2-535.75	Antífonas.
+2-535.8	Salmos.
+2-535.85	Salmos metrificados.
+2-535.9	Obras de música religiosa. Oratórios. Cantatas.
+2-536		Ritos e cerimônias físicos.
+2-536.1	Lavadura. Ablução. Imersão em água.Aspersão com água.
+2-536.2	Emprego de outros materiais e substâncias.
+2-536.25	Óleo. Sagração. Unção.
+2-536.27	Incenso. Queima de incenso. Incensação
+2-536.3	Posturas.
+2-536.32	Orientação.
+2-536.34	Reverência. Flexão.
+2-536.35	Ato de ajoelhar-se. Genuflexão.
+2-536.36	Prostração.
+2-536.37	Imposição das mãos.
+                            -> 2-468.65Imposição das mãos.
+2-536.4	Gestos simbólicos.
+2-536.5	Procissão.
+2-536.6	Dança.
+2-536.65	Drama. Representação simbólica.
+2-536.7	Comida. Ritos e cerimônias associadas a comida.
+2-536.72	Comida compartilhada. Refeição ritual. Fração do pão.
+2-536.74	Jejum ritual. Abstinência de comida.
+		      -> 2-442.7 Abstinência. Jejum. Proibição.
+2-536.76	Bebida.
+2-536.765	Poções.
+2-536.8	Marcas no corpo.
+2-536.82	Marcas e cicatrizes rituais.
+2-536.84	Perfurações no corpo.
+2-536.86	Circuncisão.
+2-536.9	Controle do corpo.
+2-536.92	Resistência à dor.
+2-536.94	Caminhada sobre fogo.
+2-536.96	Levitação.
+2-537		Oferendas.
+		Exemplo(s) de combinação(ões):
+		      2-537:58 Oferendas vegetais
+		      2-537:59 Oferendas de origem animal
+		      2-537:599.89 Humanas
+		      2-537:633.1 Oferendas de alimento
+		      2-537-032.2 Libações
+2-538		Sacrifícios.
+2-538.2	Oferendas queimadas.
+2-538.4	Oferendas inteiras queimadas.
+2-538.6	(Segundo o tema do sacrifício).
+		Exemplo(s) de combinação(ões):
+		      2-538.6:599.89 Sacrifício humano
+		      -> 392.89 Canibalismo. Antropofagia. Ato de comer carne humana.
+2-54		Cerimônias segundo o objetivo.
+2-542.3	Pessoal.
+2-542.5	Altruístico.
+2-542.7	Vicário.
+2-543.2	Homenagem. Adoração. Veneração. Culto em sentido estrito.
+2-543.3	Profissão de fé. Credo. Confissão de fé.
+2-543.4	Intercessão. Influência.
+2-543.5	Propiciação.
+2-543.6	Petição (segundo o assunto do pedido).
+		Exemplo(s) de combinação(ões):
+		      2-543.6:551.578.1 Chuva.
+		      2-543.6:57.017.5 Fertilidade
+2-543.7	Confissão dos pecados.
+2-543.8	Penitência. Arrependimento.
+2-544.2	Expiação. Reparação.
+2-544.25	Bode expiatório
+2-544.3	Absolvição. Perdão.
+2-544.4	Purificação. Catarse.
+2-544.5	Ação de graças.
+2-544.55	Comemoração.
+2-544.6	Dedicação. Votos. Promessa.
+2-544.7	Conhecimento. Iluminação. Discernimento.
+2-544.8	Conhecimento de acontecimentos. Adivinhação. Presságio. Predições. Oráculos.
+2-545		Controle de eventos. Magia.
+2-545.2	Magia simpática.
+2-545.3	Magia contagiosa.
+2-545.5	Homeopática. Ritos imitativos.
+2-545.6	Que prende e que liberta.
+2-545.7	Ritos geradores.
+2-546.2	Bênção. Santificação. Consagração.
+2-546.4	Maldição. Anátema. Excomunhão. Profanação.
+2-546.6	Dessagração
+2-547		Evocação. “Convocação” dos espíritos.
+2-547.5	Evocação dos mortos. Necromancia.
+2-548		Eliminação. Desprofanação. Expulsão.
+		      -> 2-544.25 Bode expiatório
+2-548.5	Exorcismo.
+2-549		Comunicação com a divindade.Comunhão com a divindade.
+2-549.2	Evocação da divindade.
+2-549.3	Chegada da divindade. Presença da divindade.
+2-549.4	Assimilação da divindade.
+2-549.6	Partida da divindade.
+2-55		Sacramentos. Sacramentais.
+		      Conquanto haja diferença de uma religião para outra, o conceito de 
+    		      sacramentos é inerente a muitas crenças. Cada sacramento vem
+		      especificado, mas a lista é mais abrangente do que exige qualquer uma 
+		      das religiões.
+2-552		Ritos de passagem. Estágios na vida.
+2-553		Nascimento.
+2-553.2	Pré-natal. Pré-nascimento.
+2-553.3	Perinatal.
+2-553.4	Pós-natal.
+2-554		Adolescência. Puberdade. Transição para a idade adulta.
+2-555		Noivado. Casamento. Cerimônias de casamento.
+2-555.5	Procriação. Fertilidade. Parto.
+2-556		Velhice.
+2-557		Morte. Cerimônias fúnebres.
+2-557.5	Cerimônias de desembaraço. Sepultamento. Cremação.
+2-558		Estágios da vida espiritual.
+2-558.2	Iniciação.
+2-558.3	Batismo. Cerimônias de atribuição de nome.
+2-558.4	Confirmação. Reinicio da vida adulta.
+2-558.5	Ordenação. Ingresso no sacerdócio.
+2-558.6	Beatificação.
+2-558.7	Canonização.
+2-558.8	Expulsão. Excomunhão.
+2-559		Coroação. Entronização.
+2-56		Celebração.
+2-562		Festas e Festividades. Dias santos.
+		      Por características específicas.
+		      Elaborar a síntese empregando os auxiliares comuns, os auxiliares especiais e
+                              combinação com dois pontos
+		Exemplo(s) de combinação(ões):
+		      2-562:631.5 Festas da colheita
+		      2-562“321” Festas da Primavera
+		      2-562-31 Nascimento do fundador
+2-563		Dias especiais da semana. Dias de descanso. Sábado judaico.
+2-563.5	Tempos especiais do dia. Horas de prece. Horas de culto.
+2-564		Calendário religioso. Ano religioso.
+2-565		Festas pelo nome.
+		      Especificar por meio da extensão alfabética A/Z (Tabela 1h).
+2-567		Anos especiais. Anos santos. Anos sabáticos. Jubileus.
+2-57		Peregrinação.
+		      Lugar da peregrinação: usar os auxiliares comuns de lugar, Tabela 1e.
+		      Objetivo da peregrinação: indicar por meio de combinação com hífen e 
+		      o restante da classe.
+		Exemplo(s) de combinação(ões):
+		      2-57-543.8 Peregrinação penitencial
+		      2-57(532) Peregrinação islâmica a Meca
+		      -> 2-522 Sítios religiosos, localização. Lugares santos
+2-58		Religião de contemplação e reflexão.
+		Exemplo(s) de combinação(ões):
+		      2-58-2 Literatura devocional
+		      2-58-282.5 Livros pessoais de preces.
+2-582		A experiência religiosa.
+2-583		Meditação. Contemplação. Prece no sentido pessoal.
+2-584		A vida espiritual.
+2-584.5	Crescimento e desenvolvimento espirituais.
+2-584.7	Exercícios espirituais.
+2-585		Ascetismo.
+2-585.5	Abnegação.
+2-585.7	Mortificação da carne.
+2-586		Retirada. Recuo.
+2-586.5	Eremitério. Isolamento.
+2-587		Misticismo. Estados alterados da consciência. Experiências místicas.
+                        Exemplo(s) de combinação(ões): 
+                              2-587-184.27 Experiências místicas falsas
+2-587.3	Transes.
+2-587.5	Visões.
+2-587.6	Fenômenos místicos.
+2-587.65	Estigmas.
+2-587.7	Experiência direta do divino.
+2-6		Processos em religião.
+		      A maioria das atividades em religião encontrar-se-á sob os cabe-
+		      çalhos de operações (prática religiosa, observância, ritual, admi-
+		      nistração das igrejas, cuidados pastorais, missões, etc.). Alguns termos muito 
+		      mais gerais que denotam atividade tratam da dinâmica interna das religiões e de
+                             suas relações umas com as outras. Essas ações, bem menos concretas e
+		     internalizadas, são analisadas como “processos”. Embora alguns digam res-
+		     peito a desenvolvimento, não devem, entretanto, ser vistos como históricos
+		     (a história de um assunto está mais do que adequadamente tratada pela CDU 
+		     através da aplicação dos auxiliares comuns e do emprego criterioso dos dois 
+		     pontos).
+2-63		Processos de desenvolvimento. Processos internos.
+2-632		Origem da fé. Gênese.
+2-633		Evolução. Desenvolvimento.
+2-635		Crescimento. Expansão.
+2-636		Reflorescimento. Rejuvenescimento. Renascimento.
+2-637		Morte. Extinção.
+2-64		Processos relativos. Processos externos. Interação entre crenças religiosas.
+2-65		Comparação.
+		      Uma advertência sobre o emprego do termo “Religião comparada”. Esse 
+		      termo geralmente significa abrangente, e não comparada; as obras sobre 
+		      religião comparada ainda são, geralmente, descritivas quanto à natureza,
+		      tradicionalmente usadas quando se lida com religião não-cristã, e a maior
+		      parte da literatura refletirá esse fato. Por conseguinte, o termo “comparação”
+                             deve ser empregado em um sentido conservador
+2-66		Influência.
+2-662		Influência sobre. Efeito sobre.
+2-663		Dependência.
+2-664		Influenciado por.
+2-664.3	Sincretismo. Empréstimo.
+2-664.5	Assimilação.
+2-67		Relações entre religiões, ou delas com a sociedade em geral. Religião e sociedade.
+		      -> 322 Relações entre Igreja e Estado. Política relativa à religião. Política da  
+                             Igreja.
+2-672		Isolamento. Separação.
+2-673		Coexistência.
+2-673.5	Tolerância.
+2-674		Conflito. Antagonismo. Hostilidade.
+2-674.5	Perseguição.
+2-675		Diálogo. Ecumenismo.
+2-676		Cooperação.
+2-677		Intercomunhão.
+2-678		Integração. Fusão. Amálgama.
+2-679		Re-união.
+2-7		Organização e administração religiosas.
+		      Tudo o que tem a ver com a estrutura e a organização de uma religião.
+                              Subordinadas à estrutura estão as atividades associadas ao gerenciamento
+		      e à administração das igrejas, religiões e movimentos.
+2-72		Natureza e estrutura da religião organizada, da igreja. Eclesiologia.
+		Exemplo(s) de combinação(ões):
+		      2-72-1 Doutrina da entidade religiosa, da igreja
+		      2-72-133/-134 Origem e natureza da igreja
+		      2-72-144 Características da igreja
+		      2-72-4 Prática da religião. Costume e tradição religiosos
+2-722		Pessoas em religião.
+		      Normalmente as pessoas em religião, com funções específicas, estarão 
+                             subordinadas à função que desempenham, e serão representadas através 
+                             do emprego dos auxiliares comuns de pessoas, Tabela 1k. P. ex.:
+		     2-544.8 Adivinhos.
+		     2-76-051 Missionários.
+		     Este local é usado para lidar com material sobre o “clero” ou funcionários 
+                            desse grupo, de uma forma geral, e para prover uma única classe onde reunir
+                            tal literatura
+2-725		Funcionários da religião. Padres. Ministros. Líderes.
+		      A maioria dos detalhes nesta classe será fornecida pela combinação com hífen
+                            ou dois pontos e as classes principais apropriadas.
+		Exemplo(s) de combinação(ões):
+		      2-725:331.2 Apoio financeiro. Salários. Estipêndios
+		      2-725:332.8 Apoio físico. Moradia
+		      2-725:37 Educação e treinamento do clero
+		      2-725:377 Escolas de treinamento. Seminários.
+		      2-725-428 Obrigações
+		      2-725-447.7 Celibato dos padres
+		      2-725-45 Casamento dos padres
+		      2-725-544.6 Votos
+		      2-725-584 Vida espiritual
+2-726		Níveis de liderança
+		      -> Chefe da religião
+2-726.1	Arcebispos. Metropolitanos.
+2-726.2	Superior. Bispos. Abades.
+2-726.3	Padres. Ministros.
+2-726.4	Diáconos. Ministros assistentes.
+2-726.5 	Ajudantes leigos.
+2-726.6	Laicato em geral. Pessoas leigas. Aderentes.
+2-726.7	Os mais velhos. Membros mais antigos (leigos ou ministros).
+2-727		Não-adeptos da religião. Não-crentes.
+2-73		Governo da religião.
+2-732		Autoridade da igreja (Agentes da autoridade).
+		Exemplo(s) de combinação(ões):
+		      2-732-31 Autoridade do fundador
+2-732.1	Fonte de autoridade
+2-732.2	Chefe da religião.
+2-732.3	Órgãos reguladores. Sínodos. Assembléias. Reuniões.
+		Exemplo(s) de combinação(ões):
+		      2-732.3-284 Doutrina, julgamento de sínodos e concílios
+2-732.4	Concílios. Órgãos reunidos com objetivos de estabelecer doutrina e prática.
+2-732.5	Autoridade dos funcionários, dos padres.
+2-732.6	Leigos. Adeptos.
+2-733		Profissão religiosa. Vocação.
+2-735		Gerenciamento e administração.
+		      Os detalhes nesta classe serão geralmente proporcionados pela combinação 
+                             com dois pontos
+		Exemplo(s) de combinação(ões):
+		      2-735:336 Bens temporais. Riqueza da igreja
+		      2-735:347.23 Propriedades da igreja, terras, patrimônio
+		      2-735:657 Contabilidade
+		      2-735:658.14/.17 Assuntos financeiros
+		      2-735:658.3 Administração de pessoal
+2-736		Outras instituições, agências, organizações dentro da religião ou da igreja.
+2-737		Congregações. Adoradores.
+2-74		Administração do direito. Direito religioso. Direito canônico.
+		      Em muitos casos, o direito religioso trata apenas da disciplina dentro da
+                             religião; nesse caso, a maioria dos detalhes pode ser obtida pela combinação
+                             de hífen com outras partes da Classe 2. Direito religioso pode também,
+                             entretanto, ser a Lei da  Terra; nesse caso, foram tomadas providências que
+                             permitem anexar detalhes da Classe 34, se desejado.
+		Exemplo(s) de combinação(ões):
+		      2-74-67 O direito religioso e o direito da terra
+		      -> 348 Direito eclesiástico. Direito canônico. Direito religioso.
+2-741		Teoria do direito canônico. Jurisprudência religiosa.
+2-742		Fontes do direito
+		Exemplo(s) de combinação(ões):
+		      2-742-14 Inspiração divina. Deus como fonte
+		      2-742-23 Textos. Textos religiosos
+		      2-742:266 Códigos de leis.
+		      2-742:267 Comentário e interpretação. Textos legais
+2-744		Prática e procedimento legais.
+2-746		Julgamentos religiosos.
+2-747		Sujeitos do direito.
+		Exemplo(s) de combinação(ões):
+		      2-747:342 Direito público
+		      2-747:343 Direito criminal, penal
+		      2-747:347 Direito civil. Direito privado
+		      2-747:347.2 Direito de propriedade
+		      2-747:347.6 Direito de família
+2-747-1/-9	Tópicos do direito religioso.
+		      Em geral o direito de conceitos específicos como os abaixo deve ser 
+                             considerado como indistinguível/indissociável do costume e da praxe, e
+                             colocado junto com a praxe; as exceções devem ser os casos em que 
+                             o assunto em discussão é claramente o próprio direito
+		Exemplo(s) de combinação(ões):
+		2-747-1/-9-442 Leis sobre dieta
+		2-747-1/-9-443 Leis sobre higiene pessoal
+2-75		Educação.
+		      Educação como função da igreja central, da religião.
+		      Para educação no nível local, inclusive instrução religiosa e escolas
+                              dominicais, ver 2-47 e suas subdivisões
+2-752		Educação secular. Escolas, fundações religiosas.
+2-754		Educação terciária. Faculdades associadas à religião.
+2-756		Educação superior. Universidades baseadas em religião.
+2-76		Recrutamento. Atividade missionária. Missões em sentido amplo. Missiologia.
+		Exemplo(s) de combinação(ões):
+		      2-76-051 Missionários
+		      2-76-736 Sociedades missionárias
+2-762		Obra missionária. Formas de atividade missionária.
+2-763		Campanhas. Cruzadas.
+2-764		Missões no estrangeiro. Missões no sentido estrito.
+2-765		Propaganda. Propaganda religiosa. Publicidade.
+2-766		Atividade evangélica. Evangelismo.
+		      -> 2-475 Pregação (como educação e instrução)
+2-767		Proselitismo. Conversão.
+2-768		Conversão forçada. Conversão pela espada. Imposição da fé. Guerra santa.
+2-769		Conquista religiosa.
+2-77		Estrutura organizacional da fé, da religião.
+2-771		Níveis administrativos.
+2-772		Nível mais alto.
+2-773		Intermediário. Organização regional. Diocese. Circunscrição.
+2-774		Local. Paróquias. Comunidades locais. Grupos locais.
+2-775		Vizinhança. Grupos domésticos. Grupos informais.
+2-78		Organizações religiosas. Sociedades e associações religiosas.
+		Exemplo(s) de combinação(ões):
+                              2-78-028.85 Organizações religiosas proibidas, banidas  -> 35.078.17
+                              2-78-05 Organizações religiosas para determinadas pessoas
+                              2-78-055.2 Grupos religiosos femininos
+                              2-78-053.2 Organizações religiosas de crianças
+                            2-78-46 Associações religiosas segundo as atividades ou finalidade
+                            2-784-463 Instituições religiosas beneficentes
+                            2-784-468.5 Agências e organizações religiosas de natureza médica
+                            2-784-488.85 Organizações religiosas para refugiados
+2-784		Grupos religiosos e ordens leigas não definidos pela objetivo ou tipo de membros.
+		      Esses são numerosos. O tratamento preferido deve ser religião – grupos 
+                              religiosos – A/Z
+                       Exemplo(s) de combinação(ões):
+                             233-784VHP Visva Hindu Parisad (VHP)
+                             26-784BNA Bnai Brith
+                             27-784ROS Rosacruz
+2-784.5	Sociedades secretas
+2-788		Ordens religiosas propriamente ditas. Ordens monásticas. Monaquismo.
+            (Pessoas em ordens religiosas)
+                        Exemplo(s) de combinação(ões):
+                              2-788-055.1 Monges
+                              2-788-055.2 Freiras
+2-788-1/-9	Religião e prática monásticas.
+2-788.2	Ordens de clausura. Separadas do mundo.
+2-788.3	Ordens mendicantes.
+2-788.4	Ordens trabalhadoras.
+2-788.435	Militantes, militares.
+2-788.437	Docentes
+2-788.461	Médicas, enfermeiras, assistentes sociais. Hospitalários.
+2-788.5	Ordens celibatárias.
+2-788.6	Ordens silenciosas.
+2-789		Ordens monásticas por nome
+2-79		Seitas. Movimentos sectários.
+		      Geralmente, quando relevantes, serão especificados ou enumerados
+                              como subclasses de determinada religião.Usar este local para obras
+                              gerais sobre movimentos sectários, ou quando a seita em questão não 
+                              estiver especificada de outra forma.
+2-8		Religiões caracterizadas por diferentes propriedades.
+		      Não é recomendável usar esta faceta para a formação de classes
+                              compostas que deveriam, na verdade, ser enumeradas como subclasses
+                              de uma religião;p. ex., Cristandade Ortodoxa, Judaísmo reformado 
+                              deveriam ser vistos como divisões relevantes da religião e ser tratados 
+                              como movimentos independentes.
+                              A sutileza e complexidade das relações entre os movimentos religiosos 
+                              não fazem concessão aos resultados simplistas obtidos por análise de 
+                              faceta excessivamente rigorosa onde claramente ela não cabe
+2-81		Classificação das religiões.
+                             (Propriedades derivadas de facetas anteriores)
+                       Exemplo(s) de combinação(ões):
+                             2-81-154 Religiões monoteístas.
+                             2-81-22 Religiões reveladas
+                             2-81-26-23 “Religiões do Livro”
+2-82		Propriedades relacionadas com o ministério.
+2-823		Religiões com estrutura hierárquica, níveis de ministério. “Episcopaliana”.
+2-824		Religiões com ministros, padres. “Presbiteriana”.
+2-825		Religiões sem ministros, padres. “Congregacional”.
+2-83		Propriedades relacionadas com ortodoxia.
+2-832		Ultra-ortodoxos.
+2-833		Ortodoxos.
+2-834		Heterodoxos 
+2-835		Moderados.
+2-836		Reformados.
+2-837		Liberais.
+2-838		Reconstruídos.
+2-84		Propriedades relacionadas com o estado.
+2-842		Religiões nacionais.
+2-844		Igrejas estabelecidas. Religiões do estado.
+2-846		Religiões de regiões ou países específicos.
+		      Usar auxiliares comuns de lugar, Tabela 1e, para detalhes.
+                      Exemplo(s) de combinação(ões):
+                            2-846(1-773) Religiões do Terceiro Mundo
+                            2-846(519) Religiões da Coréia
+2-85		Propriedades relacionadas com o grau de burocracia.
+2-852		Oficial. Corrente principal.
+2-852.5	Filosofias. Escolas de pensamento.
+		      Usar para facções, grupos reconhecidos dentro de uma religião.
+2-853		Popular. Religião popular. Religiosidade popular.
+2-853.5	Superstição. 
+                             -> 133 O paranormal. O oculto. O fenômeno Psi
+                             -> 398 Folclore no sentido estrito
+2-854		Dissidente.
+2-855		Separatista.
+2-856		Não-oficial.
+2-86		Grupos de facções. Facções.
+		      Grupos que são parte reconhecida de uma religião central, mas que
+                              formam entidade separada distinta e identificável. 
+                              Há uma distinção clara entre facções dissidentes no seio de uma 
+                              religião, e as que se separaram, classificadas em 2-856. Classificar aqui 
+                              as que divergem fortemente em matéria de teologia e de doutrina. As 
+                              últimas devem ser vistas como heresias ou cismas, e devem ser 
+                              classificadas em 2-87
+2-87		Grupos cismáticos. Heresias.
+		      Grupos que estão em disputa com a maior parte da religião ou não 
+                              aceitam doutrinas importantes.
+2-9		História da crença, religião, denominação ou igreja
+Divisões principais
+21/29		Sistemas religiosos. Religiões e crenças.
+                             Existem inúmeros critérios para definir o que constitui uma religião; 
+                             neste arranjo foi considerado que, no nível mais abrangente, uma 
+                             religião é um sistema que possui algum reconhecimento de uma
+                             dimensão espiritual ou  sobrenatural em sua visão do mundo.
+                             O arranjo fundamental é histórico, mas dentro deste as religiões são
+                             organizadas em grupos de famílias, i.e., Hinduismo, Jainismo, 
+                             Sikhismo. Surgem problemas na colocação de grupos “novos” que 
+                             possuem raízes em  religiões antigas, mas que se consideram a si 
+                             próprios como independentes.Isso fica particularmente claro no caso
+                             de movimentos do século XX. Como regra geral, auto-definição é aceita 
+                             como autoridade Para auxiliar o indexador, e para acomodar um 
+                             número enorme de termos  especializados da literatura religiosa, 
+                             proporcionou-se um grande número de exemplos de combinação no 
+                             caso de um grupo de religiões e crenças. 
+                            Pretende-se que o indexador use esses exemplos como padrão para 
+                            o desenvolvimento das classes de todas as outras religiões, caso 
+                            necessário.
+21		Religiões pré-históricas e primitivas.
+212		Religiões pré-históricas.
+213		Religiões primitivas.
+		      Em geral apenas a classe abrangente deve ser usada, e nenhum 
+                             movimento específico deve ser localizado aqui
+22		Religiões que tiveram origem no Extremo Oriente.
+221		Religiões da China.
+                        Exemplo(s) de combinação(ões):
+                             221-853 Religião popular da China. Religião popular chinesa
+221.3		Taoísmo.
+221.5		Confucionismo.
+223		Religiões da Coréia.
+225		Religiões do Japão.
+225.2		Xintoísmo.
+225.22		Seicho-no-ie
+225.24		Sekai Kyuseikyo.
+225.26		Zenrinkai.
+225.27		Tensho Kotai Kingukyo.
+225.28		Ennokyo.
+23		Religiões originárias do subcontinente indiano. Religião hindu em sentido 
+                        amplo.
+		      O Hinduísmo é extremamente difícil de definir. O Vedismo e o
+                             Bramanismo podem ser considerados a religião do período arcaico, e como 
+                             regra geral deve ser usado 233 para obras sobre o Hinduísmo.
+231		Vedismo.
+232		Bramanismo.
+233		Hinduísmo em sentido estrito.
+		      A autoridade em matéria de vocabulário, de ortografia e de 
+                             definições, é Klostermaier, K. Hinduism. Oxford: Oneworld, 1998.
+Subdivisões auxiliares especiais
+233-13		O Santo. Brama. O ser absoluto.
+233-14		Deus(es) e deusa(s).
+Exemplo(s) de combinação(ões):
+      233-158D	Devi.
+      233-158G	Ganesh.
+      233-158K	Kali.
+      233-158S	Siva.
+      233-158V	Vixnu.
+      233-158V-144.2 Milhares de nomes de Vixnu
+      233-158V-144.8 O Senhor Vixnu
+      233-158V-145.25 Vixnu, o protetor
+233-166	Encarnações. Avatares. Manifestações.
+233-166K	Krishna.
+233-166R	Rama.
+233-167	Seres espirituais.
+233-167.62	Asuras. Demônios.
+233-167.8	Seres semidivinos. Apsaras. Ninfas.
+233-17		O universo.
+233-172.4	Asat. Estado antes da criação.
+233-175	O fim do mundo.
+233-175.4	Pralaya. Aniquilação. Dissolução universal.
+233-18		O homem. A humanidade.
+233-183	Atman. A alma individual.
+233-184	Anugraha. A graça.
+233-185	A vida humana.
+233-185.2	O sofrimento.
+233-185.3	Adharma. Falta de retidão. Iniqüidade. Pecado.
+233-186	A morte.
+233-187	A vida após a morte.
+233-187.5	A reencarnação.
+233-187.55	Samsara. O ciclo nascimento e renascimento.
+233-187.6	Mukti. Moksa. A libertação da alma.
+233-187.79	Aprakrta sarira. O corpo imaterial.
+233-187.8	Ananda. Cessação do ser.
+233-188	Reinos espirituais.
+233-188.5	Pitra loka. O mundo dos antepassados.
+233-188.7	Narakas. Infernos.
+233-188.75	Preta loka. O mundo dos espíritos.
+233-23		Textos sagrados do Hinduísmo.
+		      Todos os textos sagrados do Hinduísmo estão reunidos aqui, embora,
+                              rigorosamente falando, os Vedas pudessem ficar subordinados ao 
+                             Vedismo. Numerosos textos antigos são, eles próprios, interpretações,
+                             comentários e desenvolvimento de tradições antigas, e é difícil 
+                             estabelecer a fronteira entre o texto original e o texto desenvolvido
+233-24		Sruti. Escritos revelados. Os Vedas no mais amplo sentido.
+233-242	Os Vedas no sentido mais restrito. Samhitas.
+		      Coleções de material textual; os próprios textos
+233-242.2	Trayi Vidya. A doutrina tríplice.
+233-242.3	Rig Veda.
+233-242.4	Yajur Veda.
+233-242.45	Krsna. A tradição “negra”.
+233-242.452	Taittiriya.
+233-242.454	Maitrayani.
+233-242.455	Kathaka samhitas.
+233-242.46	Sukla. A tradição “branca”.
+233-242.6	Samsa Veda.
+233-242.7	Atharva Veda.
+233-243	Brâmanes.
+		      Manuais para brâmanes; interpretações de textos antigos; inícios da 
+                              tradição hermenêutica.
+233-245	Aranyakas.
+233-247	Upanishads. Vedanta.
+233-247.2	Brhadaranyaka.
+233-247.3	Chandogya.
+233-247.4	Taittiriya.
+233-247.5	Isa.
+233-247.6	Svetasvatara.
+233-247.7	Mahanarayana.
+233-247.8	Mandukya.
+233-25		Smrti. Tradição.
+233-256	Sutras. Textos relacionados com a praxe ritual, os ritos domésticos, os ritos de 
+                        passagem, o direito e as relações sociais.
+233-256.2	Svanta-sutras.
+233-256.4	Gryha-sutras.
+233-256.6	Dharma-sutras.
+233-65.3	Itihasa. Epopéias e sagas.
+233-265.32	Ramayana.
+233-265.33	Mahabharata.
+233-265.34	Bhagavadgita.
+233-265.35	Puranas. 
+		      Vasto material, que inclui mitologias das divindades hindus; possui 
+                              vínculo com o sectarismo e com o Hinduísmo popular.
+233-266	Smrtis. Códigos de leis.
+233-268	Upavedas.
+233-271	Vedangas.
+233-282	Tantras e Agamas. Textos rituais.
+		      Textos sectários, fortemente associados ao Shivaísmo, os Tantras são
+                              textos usados também pelos jainistas e pelos budistas
+233-286	Textos não-sânscritos. Tradições vernáculas.
+233-286.5	Tiravaimoli. ‘Tamil-veda’.
+233-286.7	Outros.
+		      Localizar escrituras sectárias junto ao movimento sectário;p. ex.:
+                              233.2-242Vaisnava 
+                             Usar os auxiliares comuns da Tabela 1c para línguas específicas; p. ex. 
+                              233-291=214.32 Poesia devota em bengali
+233-3		Pessoas no Hinduísmo.
+233-33		Pessoas inspiradas. Vultos principais.
+233-335	Reformadores. 
+            Exemplo(s) de combinação(ões):
+                              233-335G Gandhi.
+                              233-335T Tagore
+233-34		Mártires.
+233-35		Ascetas. Eremitas. Faquires. Sadhus. Sannyasi.
+233-36		Sants. Santos. 
+            Exemplo(s) de combinação(ões):
+                              233-36R Ramakrishna.
+233-37		Mahatmas. Gurus. Eruditos. 
+            Exemplo(s) de combinação(ões):
+                              233-37R Radhakrishnan.
+233-4		Prática religiosa hindu.
+233-42		Comportamento moral. Teologia moral.
+233-423	Certo e errado.
+233-423.5	Adharma. Falta de retidão. Iniqüidade. Improbidade. O mal.
+233-423.57	Aparadha. Pecados específicos.
+		      Detalhar por meio da extensão alfabética A/Z (Tabela Ih)
+                        Exemplo(s) de combinação(ões):
+                              233-423.57A Avidya. Ignorância.
+                              233-423.57H Himsa. Violência.
+233-423.58	Mahapatakas. Grandes pecados. Brahmanahatya. Surapana. Steya. 
+                        Guruvanganagana.
+233-423.7	Dharma. Deus. A virtude. A vida reta.
+233-423.77	Virtudes específicas. Ahimsa. Aparigrapha. Asteya. Vidya.
+233-425	Sistemas éticos. Acara. Regras de vida.
+233-428	Ética religiosa.
+233-428.5	Obrigações. Preceitos morais. Deveres religiosos.
+233-43		Costumes e praxe social.
+233-44		Comportamento social.
+233-442	Comida e dieta.
+233-442.45	Exigências dietéticas.
+233-442.47	Upavasa. Jejum.
+233-45		Vivaha. Casamento.
+233-46		Caridade.
+233-463	Dana. Doação caridosa.
+233-5		Culto no Hinduísmo.
+233-52		Sítios, lugares religiosos.
+                        Exemplo(s) de combinação(ões):
+                             233-52(282) Rios sagrados. Os sete rios. Saptasindhu.
+233-523	Edifícios religiosos.
+233-523.6	Ashrams. Mosteiros. Edifícios comunitários.
+233-524	Veículos dos atos de culto.
+                        Exemplo(s) de combinação(ões):
+                             233-524:662 Bhasma. Cinzas.
+                             233-524:663.2 Soma. Vinho. Álcool.
+233-525.2	Gandha. Perfumes. Incenso.
+233-526	Objetos religiosos.
+233-526.4	Mala.Rosários.
+233-526.5	Dipa. Lâmpadas. Luz.
+233-526.6	Murti. Imagens da divindade. Astamurti.
+233-526.8	Janeu. Adornos pessoais.
+233-53		Atos do culto.
+233-532.6	Nitya. Compulsórios.
+233-522.8	Naimittika. Devoções voluntárias.
+233-533	Objetos do culto.
+                       Exemplo(s) de combinação(ões):
+                            233-526-526.6 Puga. Culto de imagens.
+233-534	Ritos e rituais.
+233-534.3	Preces.
+233-534.35	Preces específicas. Gayatri.
+233-534.4	Leitura de textos.
+233-534.45	Leituras específicas.
+233-534.5	Cânticos.
+233-534.55	Mantras. Japa (repetição do mantra).
+233-535	Música.
+233-535.4	Kirtana. Canto público.
+233-535.7	Stotra. Hinos. Stotramalas. Coleções de hinos.
+233-536	Atos rituais.
+233-536.2	Abhisekha. Unção.
+233-536.3	Posturas.
+233-536.38	Namaskara. Pranama. Prostração.
+233-537	Oferendas.
+                        Exemplo(s) de combinação(ões):
+                            233-537:645 Prasada. Oferendas de comida
+233-538	Medha. Sacrifícios.
+233-538.2	Oferendas queimadas. Agnihotra. Sacrifício do fogo.
+233-538.25	Agnicayana, oferenda do fogo.
+233-538.6	Sacrifícios segundo o assunto. 
+                        Exemplo(s) de combinação(ões):
+                             233-538.6:599.89 Sacrifício humano.
+233-54		Finalidade da cerimônia.
+233-544.6	Vrata.Votos, promessa.
+233-546.2	Asirveda. Bênção.
+233-549.2	Avahana. Invocação da divindade.
+233-549.5	Visarjana. Partida da divindade.
+233-552	Samskara. Ritos de passagem.
+233-553	Jata-karma. Ritual do nascimento.
+233-555	Vivaha. Cerimônias de casamento.
+233-557	Sraddha. Antyesti. Mrtyu-samskara. Últimos ritos. Cerimônias fúnebres.
+233-557.5	Sati. Disposição do corpo.
+233-558.2	Upanayana. Iniciação.
+233-558.5	Diksa. Ingressos em comunidade religiosa.
+233-56		Festas e festividades. Dias santos.
+233-565	Denominação das festas e festejos.
+                       Exemplo(s) de combinação(ões):
+                              233-565DI Divali.
+                              233-565DU Durga puja. Dassehra.
+                              233-565HO Holi.
+                              233-565JA Jagannath.
+                              233-565MA Makara-sankranti.
+                              233-565NA Naga Panchami.
+                              233-565PO Pongal.
+                              233-565RA Ramlila.
+                              233-565VA Vaisakhi.
+233-852.5	Filosofias. Escolas de pensamento. Darsanas. Teorias.
+                        Exemplo(s) de combinação(ões):
+                  233-852.5N Nyaya.
+                              233-852.5P Purva Mimamsa.
+                              233-852.5S Samkhya.
+                              233-852.5U Uttara Mimamsa. Vedanta.
+                              233-855.5V Vaisesika.
+                              233-852.5Y Ioga (Yoga).
+Divisões principais
+233.2		Vixnuísmo.
+233.3		Sivaísmo.
+233.4		Shaktismo. Shakatas.
+233.5		Neo-Hinduísmo. Hinduísmo da Reforma.
+233.7		Virashaivas. Lingayats. 
+                             Consideram-se a si próprios independentes do Hinduísmo, mas 
+                             a maioria dos governos e de outras organizações oficiais os trata como
+                             seitas.
+234		Jainismo.
+234.3		Svetambara.
+234.5		Sthanakavasis.
+234.7		Digambaras.
+235		Sikhismo.
+239		Outras religiões de origem oriental.
+239.4		Teosofia.
+239.6		Sri Chinmoy.
+24		Budismo.
+Subdivisões auxiliares especiais
+24-1		Teoria e filosofia do Budismo. Natureza do Budismo.
+24-17		A visão budista do universo. Cosmologia.
+24-172		O mundo material. O ambiente físico.
+24-172.2	Origens. Cosmogonia. Criação do mundo.
+24-18		O homem. A humanidade.
+24-183		A natureza do homem.
+24-183.2	O corpo material. Rupa.
+24-183.3	O não-material. Nama.
+24-183.4	A consciência.
+24-183.5	Atma. A alma. O espírito. O espírito humano.
+                             -> 24-584.5 Crescimento e desenvolvimento espirituais. Anna. 
+                                  Conhecimento. Gnose.
+24-183.55	Anatta. Anatma. Não-si mesmo. Negação da personalidade.
+24-183.7	Liberdade. Livre-arbítrio. Predestinação.
+24-185		A experiência humana. Vida.
+24-185.2	O sofrimento. Dukkha.
+24-185.325	Karma. Desejo. Apetência.
+24-186		A morte. Os mortos.
+                             -> 24-557 Costumes e ritos fúnebres.
+24-186.5	Fim da vida. Parinirvana (para os iluminados)
+24-187		A vida após a morte. O pós-vida. O futuro. O porvir.
+24-187.2	Estados do ser. Formas de existência contínua(da). Transmigração.
+24-187.5	Renascimento. Reencarnação. Metempsicose. Metamorfose.
+24-187.55	Samsara. Ciclo nascimento e morte.
+24-187.56	Ananda. Geração dependente.
+24-187.6	Libertação da alma.
+24-187.85	Aniquilação. Cessação da existência. Não-ser. Assimilação. Nirvana. Nibbana.
+24-188		Mundo não-material. Reinos espirituais. Planos de vida. Destinos.
+24-188.5	Deva-loka. Mundos Deva.
+24-188.75	Morada dos deuses. Preta-loka.
+24-2		Evidências da religião.
+24-23		Livros sagrados budistas. Escrituras. Textos religiosos.
+24-232		Textos originais. Obras canônicas da escritura
+24-233		Variantes.
+24-234		Traduções (i.e., do texto original)
+		      Indicar a língua e o período por meio das Tabelas auxiliares comuns 
+                              1c e 1g.
+                        Exemplo(s) de combinação(ões):
+                            24-234=111 Escrituras budistas em inglês.
+24-235		Versões. Inclusive a série Devanagari Pali (Sociedade do Texto Pali).
+24-24		O Cânon Pali (cânon da escola Theravada. Tipitaka. Os Três Cestos.
+24-244		Vinaya pitaka. Cesto da disciplina.
+                             -> 24-788 Ordens budistas propriamente ditas. Ordens monásticas. 
+                        Monaquismo.
+24-244.2	Mahavagga.
+24-244.3	Cullavagga.
+24-244.4	Parajika.
+24-244.5	Pacittiya.
+24-244.7	Parivara.
+24-246		Sutta pitaka. Cesto de instruções.
+24-246.2	Digha Nikaya.
+24-246.3	Majjhima Nikaya.
+24-246.4	Samyutta Nikaya.
+24-246.5	Anguttara Nikaya.
+24-246.6	Khuddaka Nikaya.
+24-246.622	Khuddakapatha 
+24-246.624	Dhammapada.
+24-246.625	Udana.
+24-246.626	Itivuttaka.
+24-246.627	Sutta Nipata.
+24-246.632	Vimanavatthu.
+24-246.634	Petavatthu.
+24-246.635	Theragatha.
+24-246.637	Therigatha.
+24-246.642	Jataka.
+24-246.643	Nidessa.
+24-246.644	Patisambhidamagga.
+24-246.652	Apadana.
+24-246.653	Buddhavamsa.
+24-246.654	Carriyapitaka.
+24-248		Abhidhamma Pitaka. Cesto do dhama superior.
+24-248.2	Dhammasangani.
+24-248.3	Vibhanga.
+24-248.4	Dhatukatha.
+24-248.5	Puggalapannatti.
+24-248.6	Kathavatthu.
+24-248.7	Yamaka.
+24-248.8	Patthana.
+24-252		Literatura Pali pós-canônica.
+24-252.2	Dipavamsa.
+24-252.3	Mahavamsa.
+24-252.4	Callavamsa.
+24-252.5	Dhammapada attakatha.
+24-252.6	Milindipanha.
+24-252.7	Nettipakarana.
+24-252.8	Visuddhimagga.
+24-252.9	Vimuttimagga.
+24-253		Literatura budista em sânscrito. Inclusive Textos Mahayana.
+		      Classificar aqui apenas se houver exigência de manter juntos todos 
+                              os textos sagrados. Na dúvida, preferir 242-24/-257
+24-254		Comentários às obras sacras.
+24-256		Obras interpretativas. Obras de orientação sobre a prática.
+24-262		Formas orais. Tradição oral.
+24-264		Mitos e lendas.
+24-265		Outras formas literárias.
+24-265.2	Obras poéticas.
+24-265.3	Epopéias e sagas.
+24-266		Direito. Códigos de leis. Textos legais.
+24-278		Teologia dos textos sagrados. Conteúdo teológico.
+		      Acrescentar a 24-278 detalhes de toda a tabela auxiliar
+24-279		A religião conforme demonstrada nos textos sagrados. Prática religiosa.
+24-28		Outros textos religiosos.
+24-282		Obras litúrgicas. Textos litúrgicos.
+24-283		Documentos históricos. Documentos de evidência. Registros 
+                        históricos.Relatos contemporâneos. Cartas.
+24-284		Obras de doutrina, dogma. Artigos de fé. Teologia sistemática. Dogmática.
+24-285		Quatro verdades nobres. Ariya sacca. Arya satya.
+24-285.2	Sobre a existência do sofrimento.
+24-285.3	Sobre a origem do sofrimento.
+24-285.4	Sobre o conhecimento do término do sofrimento.
+24-285.5	O caminho constituído de oito partes. Magga.
+24-285.52	Sabedoria. Panna.
+24-285.523	Sammaditthi. Opiniões corretas, compreensão correta. Conhecimento.
+                        Nana.
+24-285.524	Sammasamkappa. Aspirações justas, pensamento correto.
+24-285.53	Moralidade. Sila.
+24-285.533	Sammavaca. Fala correta..
+24-285.534	Sammakamanta. Conduta correta, ação correta.
+24-285.535	Sammaajiva. Meio de vida correto.
+24-285.543	Sammavayama. Esforço correto.
+24-285.544	Saammasati. Cuidado justo.
+24-285.545	Sammasamadhi. Contemplação correta.
+24-286		Outras formas de textos religiosos.
+24-287		Sermões como uma forma.
+24-3		Pessoas no Budismo.
+24-31		Buda. Gautama Buda. Adi Buda.
+24-31-1	Teologia do Buda.
+                        Exemplo(s) de combinação(ões):
+                             24-31-144.3 Trikaya. Doutrina dos três corpos 
+                             24-31-144.32 Nirmana-kaya. Corpo temporal
+                             24-31-244.34 Sambhoga-kaya. Buda glorioso
+                             24-31-144.36 Dharma-kaya. Buda essencial
+24-312		A vida de Buda.
+24-312.47	A Mãe de Buda. Mãe adotiva.
+24-312.55	Os primeiros seguidores. Arhants.
+24-312.6	Esclarecimento.
+24-312.9	A volta do Buda [como Maitreya]
+24-315		Relatos, material anedótico.
+24-317		Memórias. Ditos. Feitos.
+24-318		Buda como modelo, exemplo.
+24-35		Ascética. Eremitas.
+24-36		Santos. Baddhisatvas. Pessoas iluminadas. 
+24-365		Arahant (disciplina no estágio final da iluminação).
+24-37		Acariya. Sábios.
+24-4		Atividades religiosas. Prática religiosa.
+24-42		Comportamento moral. Teologia moral.
+24-423.5	Adhamma. Mau procedimento.
+                        Exemplo(s) de combinação(ões):
+                              24-423.5DOS Dosa. Ódio
+                              24-423.5HIM Himsa. Violência
+                              24-423.5LOB Lobha. Gula
+                              24-423.5MOH Moha. Delusão
+24-423.58	Cinco obstáculos. Nivaranani.
+24-423.582	Desejos dos sentidos. Cobiça.
+24-423.583	Malevolência.
+24-423.584	Preguiça.
+24-423.585	Inquietude.
+24-423.586	Dúvidas.
+24-423.7	Dhamma. Bem. Virtude. O bem. Viver corretamente.
+24-423.77	Virtudes específicas.
+                        Exemplo(s) de combinação(ões):
+                              24-423.77AHI Ahimsa. Não-ofensa. Respeito à vida.
+24-423.78	Dez virtudes transcendentais. Paramis.
+24-423.780	Dana. Generosidade.
+24-423.781	Sila. Moralidade.
+24-423.782	Nekkhamma. Renúncia.
+24-423783	Panna. Sabedoria.
+24-423.784	Viriya. Energia.
+24-423.785	Khanti. Paciência.
+24-423.786	 Sacca. Veracidade.
+24-423.787	Adhitthana. Resolução.
+24-423.788	Metta. Afabilidade amorosa.
+24-423.789	Upekkha. Equanimidade.
+24-426		Ética budista.
+24-428		Leis religiosas, obrigações, preceitos morais, leis morais. 
+                       Regulamentos. Deveres religiosos.
+24-43		Costumes e práticas sociais. Teologia social.
+24-442.45	Exigências dietéticas. Limitações dietéticas.
+24-442.47	Abstinência. Jejum. Proibição.
+24-442.5	Regras relativas a alimentos e bebidas específicos.
+                        Exemplo(s) de combinação(ões):
+                                24-442.5:637.5 Regras relativas a carne
+                                24-442.5:663.2/.5 Regras relativas a bebidas alcoólicas.
+24-443		Higiene e aparência pessoais. Conduta pessoal.
+24-443.5	Roupa. Vestuário.
+24-447		Relações sexuais, atividade sexual.
+24-447.7	Abstinência. Celibato.
+24-46		Obrigação para com os outros. Apoio à comunidade monástica.
+24-5		Ritos, cerimônias, etc.
+24-557		Costumes e rituais fúnebres.
+24-58		Contemplação e reflexão.
+24-583		Meditação. Contemplação.
+24-584		Vida espiritual.
+24-584.5	Crescimento e desenvolvimento espiritual. Anna. Conhecimento. Gnose.
+24-584.52/.55  Estágios de desenvolvimento.
+24-584.52	Sotapanna (ingresso).
+24-584.53	Sahadagamin.
+24-584.54	Anagamin (que nunca retorna).
+24-584.55	Arantship.
+24-584.7	Exercícios espirituais.
+24-6		Processos em religião.
+24-64		Processos relativos. Processos externos. Interações entre o Budismo 
+                       e outras religiões.
+24-664.3	Sincretismo. Empréstimo.
+24-664.5	Assimilação.
+24-67		Relações entre o Budismo e a sociedade em geral.
+24-673.5	Tolerância. Irênicos.
+24-674		Conflito. Antagonismo. Hostilidade.
+24-674.5	Perseguição.
+24-7		Organização e administração budistas.
+24-722		Pessoas no Budismo.
+		      Normalmente pessoas em religião com funções específicas ficam 
+                              subordinadas às funções que desempenham, e são indicadas por meio 
+                              dos auxiliares comuns de pessoas (Tabela 1k –05); p. ex.: indicar 
+                              adivinhadores por meio de 24-544.8-051
+24-725		Samgha. Comunidade de discípulos. “Sacerdócio”.
+24-732.2	Chefe de religião.
+24-732.4	Concílios budistas.
+24-732.6	Leigos. Adeptos.
+24-78		Organizações budistas. Sociedades e associações budistas.
+24-788		Ordens budistas propriamente ditas. Ordens monásticas. Monaquismo.
+		Exemplo(s) de combinação(ões):
+                              24-788-05 Pessoas nas ordens religiosas budistas.
+                              24-788-055.1 Monges budistas
+                              24-788-055.2 Freiras budistas
+                              24-788-428 Regras monásticas budistas  -> 24-244
+
+24-79		Seitas. Movimento sectário.
+24-9		História do Budismo.
+24-9-732.4	Concílios budistas. Inclusive Primeiro concílio em Rajagrha, em 544 AC; 
+                        Segundo concílio em Vaisali, em 444 AC; Terceiro concílio em 
+                        Pataliputra, em 247 AC; Quarto concílio em 100 DC; Quinto concílio em 
+                        Rangoon, em 1871 DC; Sexto concílio em Rangoon, em 1954-6 DC.
+24-9852.5	Escolas históricas de pensamento. As dezoito escolas.
+Divisões Principais
+241		Budismo hinayana. O veículo menor. Budismo Theravada. Escola Pali.
+		      Estes termos não são sinônimos, mas são intercambiáveis no uso 
+                            comum. Este é o Budismo “ortodoxo”do mundo budista meridional (Índia, 
+                            Sri-Lanka, Birmânia, Tailândia).
+242		Mahayana. O grande veículo.
+		      O Budismo “reformado”da área setentrional (Tibete, Nepal, Coréia, 
+                              China e  Japão) dá mais ênfase à participação popular e a aspectos 
+                              religiosos tradicionais do que o Budismo Hinayana.Visto que a 
+                              maioria dos exemplos de prática religiosa convencional deve ser 
+                              encontrada no Budismo Mahayana,aqueles conceitos encontram-se 
+                              enumerados neste lugar 
+Subdivisões auxiliares especiais
+242-162.6	Prajnaparamita. Mãe de todos os Budas.
+242-163	Hierarquia panteísta.
+242-24		Textos Mahayana. Literatura budista sânscrita.
+242-253	Sutras.
+242-254	Sastras.
+242-257	Tantras.
+242-31-1	Budologia.
+242-31-169	Budas míticos.
+242-36		Boddhisattvas. Ideal Boddhisattva. 
+242-5		Puja. Culto budista em sentido amplo.
+242-522	Lugares santos budistas.
+242-522.4	Lugares de espiritualidade especial, de santidade.
+242-523	Edifícios para uso religioso.
+242-523.3	Santuários budistas.
+242-523.4	Templos.
+242-523.6	Mosteiros. Edifícios comunitários
+242-524	Veículos dos atos de culto.
+                        Exemplo(s) de combinação(ões):
+                             242-524:536.46 Fogo
+                             242-524:612.1 Sangue
+                             242-524:662 Cinzas
+                             242-524:-032.2 Água
+                             242-524:-035.8 Óleo
+242-526	Objetos no culto. Mobiliário e decorações.
+242-526.4	Auxílios à prece. Rodas do orante.
+242-526.64	Estatuária. Estátuas. Ídolos.
+                        Exemplo(s) de combinação(ões):
+                              242-526.64-31 Representações do Buda
+242-528	Liturgia.
+242-533	Objetos de culto, de devoção.
+                       Exemplo(s) de combinação(ões):
+                             242-533-36 Boddhisattvas como objetos de devoção
+242-534.4	Leitura de textos.
+242-534.5	Mantras. Cânticos. Encantamentos.
+242-536	Ritos e cerimônias físicas.
+242-536.1	Ablução. Imersão em água. Aspersão com água.
+242-536.27	Incenso. Incensação.
+242-536.3	Posturas.
+242-536.4	Gestos simbólicos.
+242-536.5	Procissão. Caminhada em círculo, circum-ambulação.
+242-537	Oferendas.
+                        Exemplo(s) de combinação(ões):
+                            242-537:58 Oferendas de plantas. Oferendas de flores.
+                            242-537:633.1 Oferendas de cereais (refeição)
+                            242-537-537-032.2 Libações
+242-552	Ritos de passagem. Estágios da vida.
+242-553	Nascimento.
+242-554	Adolescência. Puberdade. Transição para a vida adulta.
+242-556	Velhice.
+242-557	Morte. Cerimônias fúnebres.
+242-557.5	Cerimônias de disposição. Enterro. Cremação.
+242-558	Estágios da vida espiritual.
+242-558.2	Iniciação.
+242-558.4	Confirmação. Reiniciação adulta.
+242-558.5	Ordenação.
+242-562	Festas e festividades. Dias santos.
+242-563.5	Tempos especiais do dia. Horas de prece. Horas de culto.
+242-564	Calendário religioso. Ano religioso.
+242-565	Festejos pelo nome
+		      Detalhar por meio de A/Z
+242-9		História do Budismo Mahayana.
+242-9-852.5	Escolas de pensamento.
+		Exemplo(s) de combinação(ões):
+		      242-9-852.5MAD Madhyamaka
+		      242-9-852.5YOG Yogacarins
+Divisões principais
+242.5		Budismo chinês.
+Subdivisões Auxiliares Especiais
+242.5-24	Tipitaka chinês.
+242.5-31-1	Budologia chinesa.
+242.5-36	Boddhisattvas no Budismo chinês.
+		      Indicar por meio de A/Z os Boddhisattvas com nome
+                        Exemplo(s) de combinação(ões):
+                            242.5-36AMI Amitabha
+                            242.5-36BHA Bhaisayyaguru
+                            242.5-36KSH Kshitigarbha Boddhisattva
+242.5-79	Seitas
+242.5-792	Escolas clássicas, incluindo-se Kosa, Fa-hsiang.
+242.5-793	Seitas católicas, incluindo-se T’ien t’ai, Chen-yen.
+242.5-795	Seitas exclusivas.
+242.5-795.2	Terra pura.
+242.5-795.4	Ch’an.
+Divisões principais
+243		Lamaísmo.
+243.2		Tantrayana. Budismo tântrico.
+243.4		Budismo tibetano.
+243.6		Vajrayana (= aspecto tântrico do Mahayana).
+244		Budismo japonês.
+244.2		Seitas Nara.
+244.4		Tendai.
+244.6		Shingon.
+244.8		Kamakara.
+244.82		Zen-budismo.
+25		Religiões da antiguidade. Cultos e religiões menores.
+251		Religião do Egito Antigo.
+252		Religiões da Mesopotâmia.
+252.1		Sumérias.
+252.3		Babilônias.
+252.5		Elamitas.
+253		Outras religiões da Ásia ocidental.
+253.1		Hititas.
+253.4		Canaanitas e fenícias. Religião ugarítica.
+253.6		Aramaica. Religião síria.
+253.8		Árabe pré-islâmica.
+253.89		Religião sabéia.
+254		Religiões do Irã.
+254.2		Zoroastrismo.
+Subdivisões auxiliares especiais
+254.2-24	Avesta. Zend avesta.
+Divisões principais
+254.25		Parsismo (Comunidade indiana).
+254.27		Gabars (Comunidade iraquiana).
+254.4		Maniqueísmo.
+254.6		Mandeísmo.
+254.8		Parseísmo.
+255		Antiguidade clássica.
+255.2		Religião grega.
+255.4		Religião etrusca.
+255.6		Religião romana.
+255.8		Religiões helênicas.
+255.83		Religiões misteriosas.
+255.85		Gnosticismo.
+256		Religião da Ásia central. Xamanismo.
+257		Religiões da Europa.
+257.1		Paganismo.
+257.22		Religião da deusa Wicca. Bruxaria.
+257.4		Religião germânica.
+257.6		Religião celta.
+257.62		Druidismo.
+257.7		Religiões eslavas e bálticas.
+257.8		Religiões nórdicas, escandinavas.
+258		Religiões das Américas do Sul e Central. Religiões indígenas pré-
+                        colombianas.
+258.1		Religião dos maias.
+258.3		Religião dos astecas.
+258.5		Religião dos incas.
+259		Religiões de outras áreas.
+259.2		Religião indígena da América do Norte.
+259.4		Religiões de origem africana.
+259.42		Religião ioruba.
+259.43		Vodu. Religião vodu.
+259.44		Rastafarismo.
+259.6		Religiões australianas.
+259.62		Religião aborígene.
+259.7		Religiões da Oceania.
+26		Judaísmo.
+Subdivisões auxiliares comuns
+26“652” 	Religião do período bíblico. Judaísmo antigo. Antigo Testamento.
+26“652”-1	Conceitos religiosos. Teologia do período bíblico
+26“652”-144.3 Shekinah. Presença de Deus
+26“652”-39	Realeza. Realeza sagrada.
+26“652”-4/-5	Prática religiosa.
+26“652”-522	Lugares religiosos.
+26“652”-522.4	Lugares altos.
+26“652”-523.4	O Templo.
+                        Exemplo(s) de combinação(ões):
+                              26"652”-523.4-051 O Sacerdócio. O Sumo-sacerdote.
+26“652”-526.3	A Arca da Aliança.
+26“652”-538	Sacrifício.
+26“652”-544.7 Profecia ritual.
+26“652”-565 	Festejos no período bíblico.
+                        Exemplo(s) de combinação(ões):
+                              26"652”-565 Rosh haShanah. Festejos do Ano Novo.
+26“652”-86	Escolas. Facções.
+                        Exemplo(s) de combinação(ões):
+                              26"652”-86E Essênios.
+                              26"652”-86E-2 Os Pergaminhos do Mar Morto.
+                              26"652”-86E-24 Textos bíblicos.
+                              26"652”-86E-24 1QM Pergaminho da guerra
+                              26"652”-86E-24Q175 Antologia messiânica
+                              26"652”-86E-24Q186 Calendários e material astronômico
+                              26"652”-86E-24Q258 Regra da Comunidade
+                              26"652”-86E-24Q434 Hinos ao pobre
+                              26"652”-86P Fariseus
+                              26"652”-86S Saduceus
+Subdivisões auxiliares especiais
+26-1		Teologia judaica.
+26-13		Kedushah. O santo. O sagrado.
+26-14		Deus. Compreensão judaica de Deus.
+26-144.2	Os nomes de Deus. Adonai, Eloim, haShem, haKodesh baruch hu, Ribbono
+                        shel olam, Avinu she’ba shamayim.
+26-144.3	A aparência de Deus. Kavod. A glória de Deus.
+26-144.7	Ruah haKodesh.O Espírito Santo. O Espírito de Deus.
+26-167		Seres sobrenaturais.
+26-167.2	Anjos.
+26-167.4	Guardiães. Querubins.
+26-167.6	Seres malevolentes.
+                        Exemplo(s) de combinação(ões):
+                              26-167.6ASM Asmodeus.
+26-167.62	Espírito do mal. Dibbuk.
+26-183		Natureza do homem.
+26-183.5	Nephesh. A alma.
+26-184		Relação do homem com Deus.
+26-184.5	Incredulidade. Renegação. Apostasia.
+26-184.5-05	Meshumad. Apóstata.
+26-184.7	A Aliança.
+26-185.3	Pecado. Mau procedimento.
+26-185.33	Teshuvah. Arrependimento.
+26-185.33-051 Ba’al teshuvah. Penitente.
+26-187		Olam haba. O mundo futuro. Vida após a morte.
+26-187.6	Tehiyat haMetim. Ressurreição dos mortos.
+26-188.7	Gehenna (Geena). Inferno.
+26-22		Nirah. Revelação divina.
+26-23		Textos sagrados.
+26-24		Tanakh. A Bíblia hebraica.
+		      Ver também 27-24 O Antigo Testamento, onde a seqüência dos livros 
+                              obedece à ordem costumeira adotada pela Bíblia cristã
+26-242		Torah (Torá). A Lei. O Pentateuco.
+26-242.2	Gênese.
+26-242.3	Êxodo.
+26-242.4	Levítico.
+26-242.5	Números.
+26-242.6	Deuteronômio.
+26-243		Nebiim. Os Profetas.
+26-243.2	Os Profetas antigos. Hanebiim harishonim.
+26-243.3	Josué.
+26-243.4	Juízes.
+26-243.5	Samuel a
+26-243.6	Samuel b.
+26-243.7	Reis a.
+26-243.8	Reis b.
+26-244/-245	Os Profetas recentes. Hanebiim haacharonim.
+26-244.2	Isaías.
+26-244.3	Jeremias.
+26-244.4	Ezequiel.
+26-244.5	Oséias.
+26-244.6	Joel.
+26-244.7	Amós.
+26-244.8	Obadias.
+26-245.2	Jonas.
+26-245.3	Miquéias.
+26-245.4	Naum.
+26-245.5	Habacuque.
+26-245.6	Sofonias.
+26-245.7	Ageu.
+26-245.8	Zacarias.
+26-245.9	Malaquias.
+26-246/-247	Ketubim. Os escritos. Hagiógrafos.
+26-246.2	Salmos.
+26-246.3	Provérbios.
+26-246.4	Jó.
+26-246.5	Cântico dos Cânticos.
+26-246.6	Rute.
+26-246.7	Lamentações.
+26-246.8	Eclesiastes.
+26-247.2	Ester.
+26-246.3	Daniel.
+26-246.4	Esdras.
+26-246.5	Neemias.
+26-246.6	Crônicas I
+26-246.7	Crônicas II.
+26-248/-249	Os Apócrifos.
+26-248.2	Esdras I.
+26-248.3	Esdras II.
+26-248.4	Tobias.
+26-248.5	Judite.
+26-248.6	Ester.
+26-248.7	Sabedoria de Salomão.
+26-248.8	Eclesiástico.
+26-249.2	Baruque.
+26-249.3	Carta de Jeremias.
+26-249.4	Canto das Três Santas Crianças.
+26-249.5	Susana.
+26-249.6	Bel e o Dragão.
+26-249.7	Oração de Manassés.
+26-249.8	Macabeus I.
+26-249.9	Macabeus II.
+26-252		Pseudo epígrafos.
+26-252.2	Livro dos Jubileus.
+26-252.3	I Esdras.
+26-252.4	III Macabeus.
+26-252.5	IV Macabeus.
+26-252.6	Vida de Adão e Eva.
+26-252.7	Epístola de Aristéias.
+26-252.8	Martírio de Isaías.
+26-252.9	Salmos de Salomão.
+26-253.2	Livro de Enoque.
+26-253.3	Assunção de Moisés.
+26-253.4	Apocalipse de Baruque.
+26-253.5	IV Esdras.
+26-253.6	Oráculos sibilinos.
+26-253.7	Testamento dos Doze Patriarcas.
+26-253.8	Outros pseudo epígrafos da Bíblia hebraica.
+26-254		Literatura rabínica.
+26-254.2	Midrash. Midrashim. Interpretação de texto.
+26-254.22	Halakhah. Midrashim haláquico. Instruções.
+26-254.23	Haggadah. Midrashim haggádico. Estórias. Anedotas.
+26-254.24	Tarlgums. Textos e comentários bíblicos em aramaico.
+26-254.25	Targum onkelos.
+26-254.26	Targum Jonathan.
+26-254.27	Targum Yerushalmi.
+26-254.28	Midrash Rabbah.
+26-254.4	Mishnah (Misná). A tradição oral. O direito oral.
+26-254.42	Seis ordens da Misná. Sedarim.
+26-254.43	Zeraim. Progênie.
+26-254.44	Mo’ed. Festejos.
+26-254.45	Nashim. Mulheres.
+26-254.46	Nezikin. Danos.
+26-254.47	Kodashim. Coisas santas.
+26-254.48	Tohoroth. Purezas.
+26-254.6	Tosefta. Coleções alternativas do direito oral.
+26-256		Talmude.
+26-256.2	Gemara. Comentários da Misná.
+26-256.4	Talmude de Jerusalém. Talmude palestino.
+26-256.6	Talmude babilônio. Talmud babli.
+26-277.2	Hermenêutica bíblica no Judaísmo.
+26-282.5	Siddur. O livro de preces.
+26-284		Dogmática judaica. Ikkarim. Artigos de fé. Princípios da fé.
+26-285.2	Apologética judaica.
+26-285.4	Polêmica judaica.
+26-3		Pessoas no Judaísmo.
+26-32		O Messias.
+26-335		Eruditos.
+                        Exemplo(s) de combinação(ões):
+                              26-335AKI O rabi Akiva.
+                              26-335MAI Maimonides.
+26-4		Prática religiosa judaica, observância. Costumes judaicos. Minhagim.
+26-42		Teologia moral.
+26-423.5	Yetzer hara’. Má intenção.
+26-423.57	Pecados específicos.
+26-423.57G	Gezelah. Roubo.
+26-423.7	Yetzer hatov. Boa intenção. Hesed. Bem. Virtude. Zedakah.
+26-426		Derekh eretz. Comportamento social e moral corretos.
+26-428.6	Mizvah. Mizvoth. Mandamentos. Deveres religiosos. Minhag. Obrigações derivadas 
+                        mais do costume do que da lei.
+26-44		Prática social, comportamento.
+26-442		Leis sobre dieta.
+26-442.45	Kasruth. Regras kosher.
+                       Exemplo(s) de combinação(ões):
+                            26-442.45:637.5 Carne
+                            26-442.45:637.5:339.176-051 Shohet. Açougueiro kosher
+                            26-442.45:637.513 Shehita. Matança ritual
+26-443.3	Asseio. Limpeza.
+26-443.35	Mikvah. Banho ritual.
+		      -> 26-536.1 Rahtzah. Lava-mãos ritual
+26-443.5	Roupa. Chapéu. Kippah. Solidéu.
+26-443.7	Corte, uso, arrumação do cabelo.
+26-443.75	Payoth. Costeletas, suíças. Mechas.
+26-447		Prática sexual.
+26-447.7	Abstinência. Celibato.
+26-45		O casamento e a família.
+26-45-447.7	Niddah. Abstinência no casamento.
+26-452		Corte. Acasalamento. Casamento.
+		Exemplo(s) de combinação(ões):
+		      26-452-051 Shadkhan. Casamenteiro.
+26-454		Get. Divórcio.
+26-363		Zedakah. Dádiva caridosa.
+26-467		Hakhnasat orehim. Hospitalidade em relação a estranhos.
+26-47		Educação.
+26-472		Hinukh. Instrução religiosa. Exercitação na fé.
+26-475		Pregação. 
+		Exemplo(s) de combinação(ões):
+		      26-475-051 Darshan. Pregador.
+26-5		Prática ritual. Culto.
+26-522		Lugares de especial significado.
+		Exemplo(s) de combinação(ões):
+		      26-522(569.4) Israel. Eretz Yisrael.
+26-523		Edifícios religiosos.
+26-523.4	Sinagoga. Beth knesset.
+                       Exemplo(s) de combinação(ões):
+		      26-523.4:37 Beth midrash. Salão de estudo
+                             26-523.4:373.3 Heder. Sala das crianças
+                             26-523.4:643.9 Genizah. Despensa
+                             26-523.4-523.1-055.2 Ezrat nashim. Seção feminina.
+26-525.4	Kittel. Vestimenta religiosa. Inclusive Tallit. Xale.
+26-525.45	Tzitzit. Franjas.
+26-525.7	Parokhet. Cortina de cobrir a arca.
+26-526.1	Bimah, almemar. Plataforma. Shulhan. Mesa. Amud. Estante. Atril.
+26-526.3	Aron kodesh. A Arca Santa.
+26-526.5M	Menorah. O Candelabro.
+26-526.5N	Ner Tamid. A Lâmpada Santa. A “Lâmpada do Santuário”.
+26-526.6	Magen David. A Estrela de Davi (Símbolos religiosos).
+26-526.7	Mezuzah. Mezuzoth.
+26-526.8	Tefillin. Amuletos. Talismãs.
+26-53		Atos do culto.
+26-532.2	Tefilat tzibbur. Culto público. Cerimônias.
+		Exemplo(s) de combinação(ões):
+		      236-532.2"344.3” Shachrit. Culto matutino.
+		      236-532.2"344.7” Minha. Culto vespertino.
+		      236-532.2"345.3” Maariv. Culto ao anoitecer.
+26-532.4	Tefilat yahid. Culto privado.
+26-534.3	Prece. 
+		Exemplo(s) de combinação(ões):
+		      26-534.3-051 Hazzan. Cantor solista. Shaliah. Tzibbur. Entoador.
+26-534.35	Preces específicas.
+		Exemplo(s) de combinação(ões):
+		      26-534.35ALE Alenu
+		      26-534.35AMI Amidah. Shmoneh Esrai. Dezoito bênçãos
+		      26-534.35ANI Ani maarim
+		      26-534.35BIR Birkhat kohanim. Bênção sacerdotal
+		      26-534.35BOR Borchu
+		      26-534.35KAD Kaddish
+26-534.4	Aliyah. Leitura de texto.
+                       Exemplo(s) de combinação(ões):
+                            26-534.4-051 Ba’al Torah. Leitor da Lei (Torá)
+26-534.42	Torah. Torá (Lei).
+26-534.44	Haftarah.
+26-534.5	Recitação. Encantação. Salmodia.
+		Exemplo(s) de combinação(ões):
+		      26-534.5-051 Solista. Hazzan.
+26-535.7	Zmiroth. Hinos. Cânticos.
+26-535.75ADO	Adon olam.
+26-535.8	Salmos.
+		Exemplo(s) de combinação(ões):
+		      26-535.8#113-118 Hallel
+		      26-535.8#136 Hallel haGadol.
+26-536.1	Rahtzah. Lava-mãos ritual/Ritual do lava-mãos.
+26-536.6	Dança no culto.
+26-543.3	Shema. Confissão de fé.
+26-543.8	Penitência. Orações penitenciais. Selihoth.
+26-544.2	Kapparah. Cerimônia de reparação.
+26-546.2	Kiddush. Santificação. Berakhah. Bênção.
+26-546.4	Herem. Anátema. Maldição.
+26-55		Sacramentos. Sacramentais. Ritos de passagem.
+26-553		Cerimônias do nascimento. Cerimônias para atribuir nome (à criança).
+26-553.536.86 Circuncisão. Pacto da circuncisão. Brit milah.
+		Exemplo(s) de combinação(ões):
+		      26-553.536.86-051 Mohel. Executor da circuncisão.
+26-554		Adolescência. Idade madura.
+		Exemplo(s) de combinação(ões):
+		      26-554-055.1 Bar mitzvah
+		      26-554-055.2 Bath mitzvah
+26-555		Nisuin. Casamento. Cerimônia do casamento.
+26-555-526	(Objetos na cerimônia). Inclusive Hupah. Proteção. Pálio.
+26-555-534	(Forma do rito). Ketuba. Contrato de casamento. Kiddushim. Noivado. 
+                        Santificação. Sheva berakhoth. Sete bênçãos. Divórcio. Halitzah. Cerimônia da 
+                        desobrigação. Get. Documento do divórcio. Ptur. Cartas de desobrigação.
+26-557		Morte. Luto.
+		Exemplo(s) de combinação(ões):
+		      26-557-543.3"4” Períodos de luto
+		      26-557-543.3"403” Shiva. Luto de sete dias
+		      26-557-543.3"404” Shloshim. Luto de trinta dias
+		      26-557-543.3"405” Avehuth. Luto de doze meses
+		      26-557-543.3"465” Yahrzeit. Aniversário da morte.
+26-557-534.3	Preces pelos mortos.
+26-558.5	Semikhah. Ordenação ao Rabinato.
+26-558.8	Excomunhão. Expulsão.
+26-562		Festas e festividades.
+26-563		Sábado 
+26-565		Festas principais.
+		Exemplo(s) de combinação(ões):
+		      26-565-282.5 Mazhor. Livro de preces dos festejos.
+26-565.2	Rosh haShanah. Ano Novo.
+26-565.22	Yom haZikaron. Dia da recordação.
+26-565.24	Yom teruah. Dia de soar o sofar.
+                        Exemplo(s) de combinação(ões):
+                              26-565.24-526.9 Sofar (trombeta).
+26-565.26	Y’mai teshuvah. Dez dias de arrependimento.
+26-565.3	Yom Kippur. Dia da reparação.
+		Exemplo(s) de combinação(ões):
+		      26-565.3-53KO Kol nidre
+		      26-565.3-53NE Neilah
+		      26-565.3-543.7 Ashamnu. Confissão do pecado
+26-565.4	Succoth. Festa dos Tabernáculos.
+		Exemplo(s) de combinação(ões):
+                             26-565.4-526 Succah
+                             26-565.4-526.6 Os quatro símbolos. Etrog. Lulav. Hadas. Arava.
+26-565.5	Shmini Atzeret.. Simhat Torah. Festa da assembléia solene
+26-565.6	Pesach. Pão ázimo. Páscoa.
+                        Exemplo(s) de combinação(ões):
+		      26-565.6-524 Símbolos da Páscoa. Ervas amargas, etc.
+		      26-565.6-532.3 Seder da Páscoa. Culto em casa
+		      26-565.6-532.3-282.7 Haggadah da Páscoa
+26-565.7	Sefirat haOmer. Contagem do omer.
+26-565.8	Shavuoth. Festa de semanas
+26-565.9	Festejos menores
+26-565.92	Hanukah.
+26-565.93	Purim.
+26-565.94	Tisha B’av. Destruição do Templo.
+26-565.95	Hamisha Asar. Tu b’Shevat. Ano Novo para árvores.
+26-565.96	Lag b’Omer. Festejos do erudito.
+26-565.97	Yom atzmaut. Dia da independência.
+26-565.98	Yom Yerushalayim. Reunificação de Jerusalém.
+26-565.99	Outros festejos e dias santos.
+26-587		Kabbalah (Cabala). Misticismo.
+26-587.5	Visões. Misticismo merkavah. Misticismo chariot.
+26-67		Relações com a sociedade, com outras religiões.
+26-674		Anti-semitismo.
+26-674.5	Perseguição religiosa aos judeus.
+26-7		Estrutura organizacional do Judaísmo.
+26-725		Líderes. Rabinos.
+26-726.3	Kohanim. Padres.
+26-726.6	Leigos. Gabbai. Chefe leigo da comunidade.
+26-727		Goyim. Não-judeus. Não-adeptos.
+26-74		Direito. Direito religioso.
+26-747.5	Direito de família.
+26-747.527.2	Procedimentos quanto ao divórcio.
+26-747.99	Beth din. Tribunal religioso.
+	`	Exemplo(s) de combinação(ões):
+		      26-747.99-725 Av beth din. Líder do tribunal religioso.
+26-756		Educação secular. Educação religiosa. Yeshiva. Escola diária judaica.
+26-76		Missões judaicas.
+26-768		Conversão forçada.
+		Exemplo(s) de combinação(ões):
+		      26-768(46)-051 Marranos
+		      26-768-051 Anusim. Conversos forçados (geralmente para o Cristianismo
+                              ou o Islamismo).
+26-775		Havuaroth. Grupos informais de culto. Grupos domésticos.
+26-78		Grupos religiosos.
+26-784		Sociedades e associações religiosas.
+		Exemplo(s) de combinação(ões):
+		      26-784BNA Bnai Brith
+		      26-784HAD Hadassah. Movimento Sionista Feminino da América.
+26-8		Escolas e movimentos judaicos de pensamento.
+26-832		Ultra-ortodoxos. Movimento hasídico.
+26-846		O Judaísmo em determinados países
+		Exemplo(s) de combinação(ões):
+		      26-846(63) Falashas (Etiópia)
+26-87		Heresias.
+		Exemplo(s) de combinação(ões):
+		      26-87-051 Apikoros. Heréticos.
+26-87.2	Caraítas.
+26-87.7	Sabetaianismo.
+		Exemplo(s) de combinação(ões):
+		      26-87.7-3 Shabbetai Zevi
+Divisões principais
+262		Judaísmo asquenazita.
+264		Judaísmo sefardita.
+265		Judaísmo ortodoxo.
+265.5		Neo-ortodoxia.
+266		Judaísmo progressista.
+266.2		Judaísmo liberal
+266.4		Judaísmo conservador.
+266.6		Judaísmo reconstrucionista.
+266.8		Judaísmo humanista.
+267		Movimentos modernos originários do Judaísmo.
+267.5		Judeus negros.
+
+27		Cristandade. Igrejas e denominações cristãs.
+Subdivisões auxiliares especiais
+27-1		Teologia cristã
+27-14		Deus. Compreensão cristã de Deus.
+27-141		Existência de Deus. Provas da existência de Deus.
+27-143		Obras de Deus
+27-144		Atributos de Deus.
+27-144.7	Essência de Deus.
+27-144.8	Natureza de Deus.
+27-144.89	A Trindade.
+27-144.892	Deus Pai.
+27-144.894	Deus Filho.
+27-144.896	Deus Espírito Santo. O Paráclito.
+27-145.2	Deísmo. Criação. Deus criador. Deus planejador.
+27-145.3	Teísmo. Providência. Providência e proteção divinas.
+27-145.55	Intervenção divina.
+27-167		Seres sobrenaturais.
+27-167.2	Anjos. A hierarquia angélica. Tronos. Dominações. Principados. Potestades.
+27-167.25	Arcanjos. Miguel. Rafael. Gabriel.
+27-167.4	Anjos da guarda.
+27-167.6	Anjos maus. Seres malevolentes.
+27-167.64	O diabo. Satã. Lúcifer.
+                       Exemplo(s) de combinação(ões:
+                            27-167.64-185.325 A queda dos anjos
+27-175		Novíssimos. Escatologia. Fim do mundo.
+27-175.2	O Apocalipse.
+27-175.27	Eventos. A vinda do Anticristo.
+27-175.3	O juízo final.
+27-175.4	Destruição do mundo.
+27-175.7	Reino eterno de Cristo.
+27-175.75	Quiliasmo. O reino dos mil anos.
+27-18		O homem.
+27-181		Origem do homem.
+27-181.5	Criação do homem.
+27-181.7	O Jardim do Éden.
+27-183.5	A alma.
+27-184		Relação do homem com Deus.
+27-184.2	Sentimentos religiosos. Sentimentos cristãos.
+27-184.3	A fé. Fé em Deus.
+27-184.35	Conversão religiosa. Reconhecimento formal da fé.
+27-184.4	Dúvida. Descrença.
+27-184.6	A graça.
+27-184.8	A resposta de Deus ao homem.
+27-184.85	Dons do espírito.
+27-185.3	O pecado.
+27-185.32	O pecado original. A queda do homem.
+27-185.33	Arrependimento. Penitência. Contrição.
+27-185.36	Remissão dos pecados.
+27-185.5	A salvação. Soteriologia.
+27-185.52	A justificação.
+27-185.53	A redenção.
+27-186		A morte.
+27-187		Vida após a morte. Vida futura.
+27-187.3	A imortalidade da alma.
+27-187.6	Ressurreição do corpo.
+27-187.85	Aniquilação do ser.
+27-188		Reinos espirituais.
+27-188.26	Julgamento do indivíduo.
+27-188.5	Céu. Paraíso celestial.
+27-188.6	Purgatório. Limbo.
+27-188.7	Inferno.
+27-22		Revelação de Deus. Teologia revelada.
+27-225		Teofania. Manifestação de Deus.
+27-23		A Bíblia.
+		      -> 26-23 Textos sagrados.
+27-232		Textos originais.
+27-235		Versões da Bíblia.
+27-236		Paráfrases da Bíblia.
+27-236.5	Estórias da Bíblia.
+27-242		O Antigo Testamento.
+27-242.2	O Heptateuco.
+27-242.3	O Hexateuco.
+27-242.4	O Pentateuco.
+27-242.5	O Gênese.
+27-242.6	Êxodo.
+27-242.7	Levítico.
+27-242.8	Números.
+27-242.9	Deuteronômio.
+27-243.2	Os livros históricos.
+27-243.22	Josué.
+27-243.25	Juízes.
+27-243.27	Rute.
+27-243.32	I Samuel (I Reis).
+27-243.35	II Samuel (II Reis).
+27-243.42	I Reis (III Reis).
+27-243.45	II Reis (IV Reis).
+27-243.46	I Crônicas.
+27-243.47	II Crônicas.
+27-243.55	Esdras.
+27-243.56	Neemias.
+27-243.57	Ester.
+27-243.6	Literatura de sabedoria. Os livros poéticos.
+27-243.62	Jó.
+27-243.63	Salmos.
+27-243.65	Provérbios.
+27-243.66	Eclesiastes.
+27-243.67	Cântico dos Cânticos.
+27-244		Os Profetas.
+27-244.2	Os profetas maiores.
+27-244.22	Isaías.
+27-244.23	Jeremias.
+27-244.24	Lamentações.
+27-244.25	Ezequiel.
+27-244.27	Daniel.
+27-244.32	Os profetas menores.
+27-244.33	Oséias.
+27-244.34	Joel.
+27-244.35	Amós.
+27-244.37	Obadias.
+27-244.42	Jonas.
+27-244.45	Miquéias.
+27-244.47	Naum.
+27-244.48	Habacuque.
+27-244.52	Sofonias.
+27-244.53	Ageu.
+27-244.55	Zacarias.
+27-244.57	Malaquias.
+27-245		Os Apócrifos. Apócrifos do Antigo Testamento.
+27-245.24	Esdras I.
+27-245.26	Esdras II.
+27-245.28	Tobias.
+27-245.32	Judite.
+27-245.34	Ester.
+27-245.36	Sabedoria de Salomão
+27-245.38	Eclesiástico.
+27-245.42	Baruc.
+27-245.44	Epistola de Jeremias.
+27-245.46	Cântico das Três Crianças Santas.
+27-245.48	Susana.
+27-245.52	Bel e o dragão.
+27-245.54	Oração de Manassés.
+27-245.56	Macabeus I.
+27-245.58	Macabeus II.
+27-245.6/.7	Pseudoepígrafos do Antigo Testamento.
+27-245.62	Livro dos Jubileus.
+27-245.63	I Esdras.
+27-245.64	III Macabeus.
+27-245.65	IV Macabeus.
+27-245.66	Vida de Adão e Eva.
+27-245.67	Epístola de Aristéias.
+27-245.68	Martírio de Isaías.
+27-245.69	Salmos de Salomão.
+27-245.72	Livro de Enoque.
+27-245.73	Assunção de Moisés.
+27-245.74	Apocalipse de Baruc.
+27-245.76	Oráculos sibilinos.
+27-245.77	Testamento dos Doze Patriarcas.
+27-245.8	Outros pseudo epígrafos do Antigo Testamento.
+27-246		O Novo Testamento.
+27-247		Os Evangelhos.
+27-247.2	Os Evangelhos Sinóticos.
+27-247.4	Mateus.
+27-247.6	Marcos.
+27-247.7	Lucas.
+27-247.8	João.
+27-248.2	Atos dos Apóstolos.
+27-248.3	Epístolas.
+27-248.4	Epístolas paulinas.
+27-248.42	Romanos
+27-248.44	Coríntios I.
+27-248.46	Coríntios II.
+27-248.48	Gálatas.
+27-248.52	Efésios.
+27-248.54	Filipenses.
+27-248.56	Colossenses.
+27-248.58	Tessalonicenses I.
+27-248.62	Tessalonicenses II.
+27-248.64	Timóteo I.
+27-248.66	Timóteo II.
+27-248.68	Tito.
+27-248.72	Filemon.
+27-248.74	Hebreus.
+27-248.76	Tiago.
+27-248.78	Pedro I.
+27-248.82	Pedro II.
+27-248.83	João I.
+27-248.84	João II.
+27-248.86	João III.
+27-248.88	Judas.
+27-249		A revelação de João.
+27-252		Os apócrifos e pseudoapócrifos do Novo Testamento.
+27-252.2	Evangelhos apócrifos e pseudoapócrifos.
+27-252.4	Epístolas pseudo epígrafas.
+27-252.6	Outros Apócrifos e Pseudo apócrifos do Novo Testamento.
+27-27		Obras críticas. Introdução à Bíblia.
+27-271.4	Formas paralelas. Harmonias bíblicas.
+27-271.5	Versões anotadas.
+27-272		Concordâncias bíblicas.
+27-272.4	Concordâncias verbais.
+27-272.5	Concordâncias temáticas.
+27-273		Comentários à Bíblia.
+27-274.2	Autoria. Origem dos textos.
+27-274.4	Cânon. Canonicidade da Bíblia.
+27-274.6	Autoridade. Ausência de erro na Escritura.
+27-275		Crítica textual.
+27-276		Crítica literária.
+27-277		Estudo da Bíblia. 
+27-277.2	Exegese bíblica. Hermenêutica bíblica.
+27-278		Teologia bíblica.
+27-28		Textos cristãos não-bíblicos.
+27-282		Textos litúrgicos.
+27-282.3	Credos e confissões de fé.
+		Exemplo(s) de combinação(ões):
+		      27-282.3NIC Credo niceno
+		      27-282.3-144.89 A Trindade no Credo. NOTA: classificar aqui 
+                             a questão “Filioque”
+27-282.4	Catecismo.
+27-282.5	Livros de orações.
+27-282.7	Livros de cerimônia.
+27-284		Teologia cristã sistemática. Teologia dogmática.
+27-285.2	Apologética.
+27-285.4	Polêmica cristã.
+		Exemplo(s) de combinação(ões):
+		      27-285.4:26 Contra os judeus
+		      27-285.4:27-87 Contra os hereges
+27-29		Literatura cristã.
+27-31		Jesus Cristo. Cristologia.
+		Exemplo(s) de combinação(ões):
+		      27-31-144.894 Divindade de Cristo
+		      27-31:244.894.2 Cristo como Logos, Verbo de Deus
+		      27-31:144.894.25 Pré-existência do Logos
+		      27-31-166 Encarnação de Cristo. Humanidade de Cristo
+		      27-31-185.53 Cristo e Redenção
+		      27-31-384 Sacerdócio de Cristo
+		      27-31-475 Ensinamento de Cristo
+		      27-31-543.4 Intercessão de Cristo
+27-312		Vida de Jesus.
+27-312.3	Natividade e infância de Cristo.
+27-312.4	A Sagrada Família.
+27-312.45	José.
+27-312.47	Maria. A Virgem Maria. Theotokos (Mãe de Deus). Mariologia.
+27-312.5	João Batista.
+27-312.55	Os discípulos.
+27-312.7	Ministério. Vida pública.
+27-312.8	Paixão de Cristo. Julgamento e Crucifixão. Amortalhamento. 
+                        Sepultamento.
+27-312.9	Ressurreição. Ascensão.
+27-317		Palavras e ditos de Jesus. Feitos de Jesus.
+27-317.3	Parábolas.
+27-317.5	Milagres.
+27-318		Jesus como exemplo para os cristãos. Imitação de Cristo.
+27-32		Jesus como Messias.
+		Exemplo(s) de combinação(ões):
+		      27-32-12 Conceito de Messias. Natureza, compreensão do Messias.
+                              27-32-23 O Messias segundo a Bíblia
+                              27-32-24 Genealogia do Messias
+                              27-32-244 Profecias messiânicas na Bíblia
+27-36		Santos.
+                        Exemplo(s) de combinação(ões):
+                            27-36ATH Santo Atanásio
+                            27-36BAS São Basílio
+                            27-36CYR São Cirilo (Constantino)
+                            27-36IGN Santo Inácio
+                            27-36JOS São José
+                            27-36MAX São Máximo
+                            27-36MET São Métódio
+                            27-36NIL São Nilo
+                            27-36SERA São Serafim
+                            27-36SERG São Sérgio
+27-4		Teologia prática. Prática cristã.
+27-42		Teologia moral.
+27-423		Certo e errado.
+27-423.3	Conhecimento do certo e do errado.
+27-42335	Consciência.
+27-423.4	Livre-arbítrio. Liberdade de ação.
+27-423.42	Fatores que afetam o livre-arbítrio. Ignorância. Medo.
+27-423.45	Predestinação. 
+27-423.5	Mau procedimento.
+		Exemplo(s) de combinação(ões):
+		      27-423.5-051 Pecadores
+27-423.57	Pecados específicos.
+27-423.58	Pecados mortais. Soberba. Avareza. Inveja. Luxúria. Ira. Gula. Preguiça.
+27-423.7	Virtudes.
+27-423.75	Virtudes específicas.
+		      Detalhar por meio da extensão alfabética A/Z (Tabela Ih)
+27-423.77	Virtudes morais. Humildade. Arrependimento. Modéstia. Zelo. Apostolado.
+		Castidade. Continência. Pobreza. Obediência.
+27-423.78	Virtudes cardeais. Justiça. Prudência. Fortaleza. Temperança.
+27-423.79	Virtudes teologais. Fé. Esperança. Caridade.
+27-428		Leis morais, obrigações, regulamentos. Os mandamentos da Igreja.
+27-428-23	Mandamentos derivados da Bíblia.
+27-428-242.6	Os Dez Mandamentos. 
+		      A ordem de apresentação dos mandamentos é a da Igreja Católica
+                             Romana, com o fim de acomodar os detalhes enumerados na tabela 
+                             cancelada. Fica a critério dos usuários interpretar a numeração dos
+                             mandamentos conforme julguem mais útil. 
+27-428-242.6.1 	O primeiro mandamento. Adesão a e transgressão do primeiro 
+                        mandamento. Adoração. Oração. Observância das festas. Superstição.
+                        Idolatria.
+                        Magia. Adivinhação.
+27-428-242.6.2 	Adesão a e transgressão do segundo mandamento. Tentação a Deus.
+                        Sacrifício. Simonia. Blasfêmia. Imprecação. Juramento. Praga.
+27-428-242.6.3 	O terceiro mandamento. Adesão a e transgressão do terceiro
+                        mandamento.
+27-428-242.6.4 	O quarto mandamento. Adesão a e transgressão do quarto mandamento.
+27-428-242.6.5 	O quinto mandamento. Adesão a e transgressão do quinto mandamento.
+                        Suicídio. Homicídio. Assassinato. Aborto. Duelo. Guerra.
+27-428-242.6.6 	O sexto mandamento. Adesão a e transgressão do sexto mandamento.
+27-428-242.6.7 	O sétimo mandamento. Adesão a e transgressão do sétimo mandamento.
+27-428-242.6.8 	O oitavo mandamento. Adesão a e transgressão do oitavo mandamento.
+                        Mentira. Falso juízo. Falso testemunho. Difamação. Calúnia. Insolência.
+                        Contumélia. Obrigação do segredo. Discrição. Hipocrisia. Jactância.
+27-428-242.6.9 	O nono mandamento. Adesão a e transgressão do nono mandamento.
+27-428-242.6.99	O décimo mandamento. Adesão a e transgressão do décimo mandamento.
+27-428.2	Natureza da lei.
+27-428.4	Exigências da lei.
+27-428.6	Interpretação da lei. Epiquéia.
+27-428.7	Isenção da lei.
+27-428.8	Transgressão da lei.
+27-428.85	Mitigação da lei.
+27-428.87	Clemência.
+27-428.9	Emendas, revogação da lei.
+27-43		Costumes e práticas sociais cristãs. Teologia social.
+27-442		Comida e dieta.
+27-442.47	Jejum.
+27-443.5	Traje, aparência.
+27-447		Atividade e prática sexuais.
+27-447.7	Celibato.
+27-45		Casamento e família cristãos.
+27-452		Casamento cristão.
+		Exemplo(s) de combinação(ões):
+		      27-555 Casamentos. Bodas. Núpcias
+27-452.5	Contratos de casamento.
+27-454		Divórcio.
+27-46		Teologia pastoral. Obra pastoral. Caridade cristã.
+27-463		Dádiva caridosa.
+27-463.2	Dízimos. Mordomia.
+27-464		Trabalho voluntário.
+27-468		Caridade. Cuidados e atendimento físicos.
+27-468.5	Enfermagem.
+27-468.6	Cura. Ministério da cura.
+27-47		Educação cristã.
+27-472		Instrução religiosa.
+27-475		Pregação. Oratória religiosa.
+27-475.2	Homilética.
+27-475.5	Sermões.
+		Exemplo(s) de combinação(ões):
+		      27-475.5-23 Sermões baseados na Sagrada Escritura.
+27-48		Beneficiários dos cuidados. Grupos em teologia pastoral.
+27-484.7	Grupos oprimidos. Teologia da libertação.
+27-5		Culto e ritual cristãos.
+27-522		Sítios cristãos. Lugares cristãos.
+27-522.2	Localização, orientação.
+27-523		Eclesiologia. Edifícios da igreja e seu conteúdo.
+		Exemplo(s) de combinação(ões):
+		      27-523:7 Edifícios por período e estilo
+27-523.4	Edifícios de igreja cristã (significado religioso).
+		      Para arquitetura religiosa, ver 726
+		Exemplo(s) de combinação(ões):
+		      27-523.4:7.033.2 Igrejas bizantinas
+		      27-523.4:033.5 Igrejas góticas
+27-523.41	Catedrais.
+27-523.42	Igrejas. Igrejas paroquiais.
+27-523.43	Capelas separadas, independentes, livres. Inclusive Igrejas auxiliares.
+27-524		Veículos dos atos de culto.
+27-525.4	Paramento e objetos pessoais. Casula. Sobrepeliz. Barrete. Mitra. Báculo.
+27-525.7	Roupa branca da igreja. Cortinas. Toalhas do altar.
+27-526.1	Mobiliário. Pia batismal. Atris. Púlpitos. Mesas de oração,
+27-526.2	Altares. Mesas. Mesas de comunhão.
+27-526.22	Tabernáculos. Píxides.
+27-526.24	Armários
+27-526.3	Vasos.  Inclusive Cálices. Cibórios. Ostensórios.
+27-526.5	Luzes. Iluminação.
+27-526.6	Símbolos e imagens cristãs.
+		Exemplo(s) de combinação(ões):
+		     27-526.6-137 Veneração de imagens.
+27-526.62	Ícones. Afrescos. Pinturas. Iconografia.
+27-526.63	Objetos e dispositivos de decoração. Vitrais.
+27-526.64	Imagens. Estátuas.
+27-526.65	Monumentos funerários. Lápides.
+27-526.7	Relíquias.
+27-528		Liturgia cristã.
+		Exemplo(s) de combinação(ões):
+		      27-528:001.4 Linguagem litúrgica.
+		      27-528-274.2 Fontes, origem da liturgia cristã
+		      27-528-274.6 Autoridade da liturgia
+		      27-528-276.63 Simbolismo da liturgia
+		      -276.63:535.6 Cores litúrgicas
+27-528.1/.8	Liturgias cristãs tradicionais.
+                             A maioria data de antes da divisão da Igreja; entretanto, as bibliotecas 
+                             podem preferir subordiná-los a determinadas denominações e igrejas.
+27-528.1	Rito romano antigo.
+27-528.2	Rito gálico.
+27-528.3	Rito moçárabe.
+27-528.4	Ambrosiano.
+27-528.5	Liturgias africanas.
+27-528.55	Liturgias etíope, copta.
+27-528.57	Ritos egípcio, alexandrino.
+27-528.6	Ritos sírio, palestino, antioqueno.
+27-528.7	Ritos britânicos. Inclusive Rito de Sarum. De York. De Hereford.
+27-528.75	Rito celta.
+27-528.8	Rito bizantino. Ritos ortodoxos.
+27-53		Atos cristãos de culto.
+27-532.2	Culto público. Cerimônias. Ofícios.
+		Exemplo(s) de combinação(ões):
+		      27-532.2"345”Cerimônias noturnas. Vigílias.
+		      27-532.2"-282 Livros de ofícios. Livros de cerimônia
+27-532.3	Culto familiar. Culto doméstico. Culto em casa.
+27-532.4	Culto privado. Devoções pessoais.
+27-534.3	Orações. Ladainhas, prefácios.
+27-534.35	Orações específicas.
+		Exemplo(s) de combinação(ões):
+		      27-534.35AVE Ave Maria
+		      27-534.35PAT Pater Noster. Pai Nosso. Oração do Senhor.
+27-534.4	Leitura de textos. Lições.
+27-534.5	Cânticos.
+27-534.6	Profecia.
+27-534.7 	Glossolalia. Dom das línguas.
+27-535		Música.
+27-535.35	Cânticos.
+27-535.7	Hinos.
+                        Exemplo(s) de combinação(ões):
+                              27-535.7-23 Hinários:
+27-535.8	Salmos.
+27-536		Ritos físicos.
+27-536.1	Uso de água. Asperges, aspersão.
+27-536.27	Incensação.
+27-536.3	Posturas corporais.
+27-536.34	Reverência.
+27-536.35	Ato de ajoelhar-se. Genuflexão.
+27-536.36	Prostração.
+27-536.4	Gestos simbólicos.
+27-536.42	Sinal da Cruz.
+27-536.45	Beijo da paz.
+27-536.5	Procissões.
+27-536.7	Imposição das mãos.
+		      -> 27-468.65 Imposição das mãos
+27-537		Oferendas.
+27-54		Cerimônias segundo a finalidade.
+27-543.7	Confissão.
+27-43.8	Penitência.
+27-544.3	Absolvição. Perdão.
+27-544.6	Consagração. Voto. Promessa.
+27-546.2	Bênção.
+27-546.4	Maldição. Anátema. Profanação.
+		Exemplo(s) de combinação(ões):
+		      27-546.4-526.6 Iconoclasmo.
+                              27-546.4-528.82 Eucaristia de São João Crisóstomo.
+                              27-546.4-528.83 Eucaristia de São Basílio.
+                              27-546.4-528.84 Eucaristia de São Tiago, o irmão do Senhor.
+                              27-546.4-528.85 Eucaristia dos pré-santificados.
+27-548.5	Exorcismo.
+27-549		Eucaristia. Comunhão. Santa Comunhão. Missa.
+                        Exemplo(s) de combinação(ões)
+		      27-549-544.55 Comunhão como comemoração.
+27-549.3	Presença de Cristo na comunhão.
+		Exemplo(s) de combinação(ões):
+		      27-549.3-284 Doutrina da presença de Cristo. Transubstanciação. 
+                            Consubstanciação
+27-55		Sacramentos.
+		      A maioria das religiões possui algum conceito de sacramentos, 
+                              embora não coincidam com o que é considerado como sacramental.
+                              Conseqüentemente, esta posição geral é proporcionada para tratamentos
+                              abrangentes dos sacramentos. Os sacramentos individuais não são
+                              necessariamente contíguos quando se trata de determinada religião
+27-555		Casamento. Bodas. Núpcias.
+		Exemplo(s) de combinação(ões):
+		      27-555-546.2 Bênção, consagração de casamentos
+27-557		Funerais. Ritos fúnebres.
+		Exemplo(s) de combinação(ões):
+		      27-557-287 Discursos fúnebres
+		      27-557-536.25 Extrema-unção
+27-558		Estágios da vida religiosa.
+27-558.3	Batismo.
+27-558.4	Confirmação, crisma.
+27-558.5	Ordem.
+27-558.6	Beatificação.
+27-558.7	Canonização.
+27-559		Coroações.
+27-562		Festividades e festas.
+27-563		Domingos. Dia de Sábado. Dia do Senhor.
+		Exemplo(s) de combinação(ões):
+		      27-563:331.311 Trabalho aos domingos.
+	                  27-563:79 Diversão aos domingos
+27-563.4	Observância do domingo.
+27-563.5	Horas especiais. Tempo para oração. Horas canônicas.
+27-564		Ano eclesiástico. Calendário cristão.
+27-565		Festividades e festas mais importantes.
+27-565.2	Advento.
+27-565.3	Natal. Período do Natal.
+27-565.35	Epifania.
+27-565.36	Apresentação no Templo (Candelária, Festividade da Purificação).
+27-565.37	Setuagésima. Sexagésima. Qüinquagésima.
+27-565.4	Quaresma.
+27-565.42	Quarta-feira de cinzas.
+27-565.44	Domingo (Dominga) de Ramos.
+27-565.5	Semana Santa. Período da Paixão.
+27-565.52	Sexta-feira santa.
+27-565.54	Período da Páscoa.
+27-565.6	Dia da Páscoa.
+                        Exemplo(s) de combinação(ões):
+                             27-565.6-549 Comunhão pascal.
+27-565.72	Ascensão.
+27-565.73	Pentecostes.
+27-565.74	Trindade.
+27-565.75	Corpus Christi. Corpo de Deus.
+27-565.76	Todos os Santos.
+27-565.77	Todas as almas. Finados.
+27-565.79	Dias dos santos.
+27-565.8	Festividades de Maria. Anunciação. Assunção. Imaculada Conceição.
+27-565.9	Outras festividades e festas.
+27-57		Peregrinações
+27-58		Religião contemplativa e reflexiva.
+		Exemplo(s) de combinação(ões):
+		      27-58-472 Orientação espiritual
+		      27-58-544.7 Iluminação. Autoconhecimento
+27-583		Meditação. Contemplação. Oração pessoal.
+27-584		Vida espiritual.
+27-584.5	Crescimento e desenvolvimento espirituais.
+27-584.7	Exercícios espirituais.
+27-585		Ascetismo.
+27-586		Retraimento. Retiro.
+27-587		Misticismo. Estados alterados de consciência. Êxtases divinos.
+27-587.7	Experiência direta do Divino.
+27-636		Reavivamentos cristãos.
+27-64		Relações da Cristandade.
+27-662		Influência exercida pelas igrejas cristãs.
+		Exemplo(s) de combinação(ões):
+		      27-662:3 Influência da Igreja na sociedade. Inclusive Movimentos
+                             sociais cristãos.
+27-67		Relações da Cristandade com outras religiões.
+		Exemplo(s) de combinação(ões):
+		      27-67:26 Relações com o Judaísmo.
+		      27-67:27-727 Relações com os não-cristãos.
+27-673.5	Irenismo.
+27-675		Ecumenismo.
+27-676		Cooperação. Unidade da igreja.
+27-72		A Igreja. A igreja Cristã.
+		Exemplo(s) de combinação(ões):
+		      27-72-144 Características da Igreja. Unidade. Santidade. Catolicidade.
+                              Apostolicidade. Visibilidade.
+		      27-72-4 Costumes e tradição da Igreja.
+27-725		Ministros cristãos.
+		Exemplo(s) de combinação(ões):
+		      27-725:37 Educação dos padres
+		      27-725-12 Conceito de sacerdócio
+		      27-725-13 Santidade do sacerdócio
+		      27-725-428.5 Deveres religiosos dos ministros
+		      27-725-443.5 Aparência pessoal do clero
+		      27-725-447.7 Celibato do clero
+		      27-725-46 Papel pastoral do clero
+		      27-725-558.5 Ordenação dos padres
+		      27-725-735 Benefícios eclesiásticos. Meios de vida
+27-726.1	Arcebispos.
+27-726.2	Bispos.
+27-726.25	Sacerdotes mais antigos. Arcediagos. Cônegos. Deões. Arciprestes.
+27-726.3	Padres. Ministros. Vigários.
+27-726.4	Ministros assistentes. Diáconos.
+27-726.6	Leigos. Membros da Igreja. Crentes.
+		Exemplo(s) de combinação(ões):
+		      27-726.6-428.5 Deveres religiosos dos leigos
+		      27-726.6-427 Promoção informal da fé Católica Romana por leigos.
+                              NOTA: classificar aqui o sacerdócio universal da religião, prelazia 
+                              pessoal e movimentos tais como a Opus Dei
+27-727		Não-cristãos. Não-crentes.
+27-732		Autoridade da Igreja.
+27-732.1	Fonte da autoridade. Inclusive Sucessão apostólica.
+27-732.3	Órgãos reguladores das igrejas. Sínodos. Concílios.
+		Exemplo(s) de combinação(ões):
+		      27-732.3"325”Concílio de Nicéia
+		      27-732.3"325”-875.26 O Arianismo e o Concílio de Nicéia.
+		      27-732.3"1438/1439) Concílio de Florença
+27-732.4	Outros concílios diferentes dos órgãos reguladores.
+		Exemplo(s) de combinação(ões):
+		      27-732.4-675 Concílios ecumênicos.
+27-733		Vocação religiosa.
+27-74		Direito religioso. Direito religioso cristão. Direito canônico.
+		Exemplo(s) de combinação(ões):
+		      27-74-725 Pessoas no direito canônico
+27-742-24	A Bíblia como fonte do Direito.
+27-742-266	Código de leis. Inclusive Corpus Iuris Canonici. Código de Direito 
+                        Canônico.
+27-742-267      Comentário e interpretação. Textos legais.
+27-745		Tribunais religiosos cristãos.
+27-75		Educação.
+27-752		Escolas dominicais.
+27-76		Missões cristãs.
+27-76-051	Missionários.
+27-763		Companhias missionárias. Cruzadas.
+27-764		Missões além-mar. Missões no estrangeiro.
+27-767		Proselitismo.
+27-772		Sés. Dioceses.
+27-774		Paróquias.
+		Exemplo(s) de combinação(ões):
+		      27-774-46 Obra pastoral em paróquias
+		      27-774-475 Educação em paróquias.
+		      27-774-735 Gerência e administração em paróquias
+		      27-774-763 Administração da paróquia. Missões. Campanhas 
+                             paroquiais.
+27-784		Associações e organizações cristãs.
+		Exemplo(s) de combinação(ões):
+		      27-784-055.1 Associações cristãs para homens
+		      27-784-055.2 Associações cristãs para mulheres
+		      27-784-055.3 Associações cristãs para crianças, jovens.
+		      27-784-46  Organizações para obra pastoral.
+27-786		Grupos religiosos e ordens leigas.
+27-788		Ordens monásticas. Monaquismo. Ordens religiosas propriamente ditas.
+		Exemplo(s) de combinação(ões):
+		      27-788-056 Funcionários. Pessoas ordenadas.
+		      27-788-055.1 Ordens masculinas. Monges.
+		      27-788-055.2 Ordens femininas. Freiras.
+27-788-1/-9	Religião e prática monásticas.
+27-788-35	Ascética em geral. Inclusive Eremitas. Reclusos. Anacoretas. Estilitas.
+27-788-428.5	Deveres das pessoas ordenadas. Obrigações. Regras.
+27-788-544.6	Votos
+		Exemplo(s) de combinação(ões):
+		      27-788-544.6-428.5 Obediência
+		      27-788-544.6-447.4 Castidade
+		      27-788-544.6-463.6 Pobreza
+27-788-558.2	Noviciado.
+27-788-733	Vocação para as ordens.
+27-788-9	História do monaquismo.
+27-788.4	Ordens cristãs trabalhadoras.
+		Exemplo(s) de combinação(ões):
+		      27-788.435 Ordens militares. Inclusive Cavaleiros Templários.
+		      27-788.461 Ordens médicas, de enfermeiros. Inclusive Cavaleiros 
+                            Hospitalários.
+27-789		Ordens monásticas cristãs específicas.
+		      Uma quantidade de ordens nomeadas aqui só tem representação
+                              na Igreja Católica Romana; entretanto, tal não pode ser dito de 
+                              todas, e, conseqüentemente,  este lugar foi providenciado para uma 
+                              classe una para as ordens monásticas. Ordens individuais
+                              podem, sem dúvida, subordinar-se ao Catolicismo Romano, se 
+                              necessário. P. ex.: 272-789.5 Jesuítas.
+27-789.1	Ordens antigas. Ordens no modelo oriental.
+27-789.15	Regra de São Pacômio.
+		      -> 27-789.2-428 Regra de São Bento.
+27-789.17	Regra de São Basílio.
+		      27-789.17-028.11 Regra mais longa
+		      27-789.17-028.13 Regra mais curta
+27-789.2	Beneditinos.
+		      -> 27-789.2-428 Regra de São Bento.
+27-789.23	Camaldulenses.
+27-789.24	Cartuxos (Cartusianos).
+27-789.25	Cistercienses. “Monges brancos”.
+27-789.255	Trapistas (Cistercienses Reformados).
+27-789.3	Ordens mendicantes em geral.
+27-789.32	Franciscanos. Frades Menores. Frades Cinzentos.
+27-789.325	Capuchinhos.
+27-789.33	Dominicanos. Frades negros. Jacobinos.
+27-789.34	Carmelitas. Frades brancos.
+27-789.35	Servitas.
+27-789.4	Agostinianos.
+27-789.43	Premonstratenses. Norbertinos. Cônegos brancos.
+27-789.45	Ursulinos.
+27-789.5	Jesuítas (Companhia de Jesus).
+27-789.6	Ordens menores.
+27-789.62	Redentoristas.
+27-789.63	Vicentinos.
+27-789.64	Sociedade de São Francisco de Sales. Salesianos.
+27-789.67	Beguinas.
+27-789.9	Outras ordens.
+27-852.5	Escolas cristãs de pensamento, filosofias.
+27-87		Heresia. Heresias.
+27-872		Heresias antigas. Heresias do período patrístico.
+27-873		Antinomianismo.
+27-874		Gnosticismo e heresias com o mesmo relacionados.
+27-874-3	Simão Mago.
+27-874.3	Valentino. Valentinianos.
+27-874.5	Basilidianos.
+27-874.6	Marcion. Marcionitas.
+27-874.7	Mani. Maniqueísmo.
+27-874.8	Priscilianistas.
+27-875.2	Heresias sobre a natureza de Deus e da Trindade.
+27-875.22	Docetismo.
+27-875.23	Montanismo.
+27-875.24	Adocianismo.
+27-875.25	Sabelianismo.
+27-875.26	Aruabusni
+27-875.27	Macedonianismo.
+27-875.5	Heresias sobre a encarnação.
+27-875.53	Ebionitas.
+27-875.54	Elcesaítas.
+27-875.55	Nestorianismo.
+27-875.56	Monofisitas.
+27-875.57	Eutiquianismo.
+27-875.6	Heresias sobre a natureza da Igreja e dos crentes.
+27-875.64	Novacianismo.
+27-875.66	Donatismo.
+27-875.68	Pelagianismo.
+27-876		Heresias na história recente da Igreja.
+27-876.2	Neo-Maniqueísmo. Heresias gnósticas. Credos dualísticos.
+27-876.3	Paulicianos.
+27-876.4	Cátaros.
+27-876.45	Bogomilos.
+27-876.7	Iconoclastas.
+27-877		Heresias dos séculos XIII-XV.
+27-877.2	Hesicastas.
+27-877.3	Joaquimitas.
+27-877.4	Flagelantes.
+27-877.5	Begardos.
+		      -> 27-789.67 Beguinas. Begardos.
+27-877.6	Wiclefitas.
+27-877.7	Lolardos.
+27-878		Heresias do século XVI em diante.
+27-877.2	Jansenistas.
+27-877.3	Utraquistas.
+27-877.4	Hussitas.
+27-877.5	Brethren Boêmios (Irmãos da Boêmia)
+27-879		Outras heresias.
+27-9		História da igreja. História geral da Igreja Cristã.
+27-9“.../1054” História da Igreja até o Grande Cisma.
+27-9“00”	Igreja apostólica primitiva. A Igreja durante o primeiro século.
+27-9“0100/0325”A Igreja no período pré-niceno.
+27-9“01/07”	História do segundo ao oitavo século DC. Período dos padres da Igreja. Período
+                        patrístico.
+27-9“01/07”-284Patrística em sentido estrito. Escritos do período patrístico.
+                               Estes podem ser mais adequadamente organizados por século, e, em seguida,
+                               alfabeticamente por autor.
+		Exemplo(s) de combinação(ões):
+                            27-9“01”CLE Clemente
+                            27-9“01”TER Tertuliano
+                            27-9“01”ORI Orígenes
+                            27-9“01”JER Jerônimo
+27-9“0325/1054”A Igreja no período pós-niceno
+27-9“08/09”	Atividades de São Fócio.
+-36FO
+27-9“0858/1204”Período de desavenças.
+Divisões principais
+271/279	Igrejas e denominações cristãs.
+271		Igreja do Oriente.
+271.2		Igreja Ortodoxa. Ortodoxa do Oriente. Ortodoxa grega e russa..
+		Exemplo(s) de combinação(ões):
+                             271.2-1 A “Tradição” ortodoxa. NOTA: é distinta de tradições, e compreende todo o corpo 
+                             de doutrina da fé, a Bíblia, os Padres, os Concílios, etc. A Tradição abrange a Escritura, 
+                             os Concílios, os Padres, a Liturgia, os Cânones, os Ícones.
+                             271.2-23 A Bíblia ortodoxa. NOTA: esta Bíblia abrange os Setenta, i.e., 39 livros do 
+                             Antigo Testamento, 10 livros deuterocanônicos e o Novo Testamento.                
+                             271.2-282.7-247 O livro do Evangelho
+                             271.2-282.7-247-536.36 Prostração ante o Livro do Evangelho
+                             271.2-284 Declarações doutrinárias. Livros simbólicos
+                             271.2-423.461 Capela da Prothesis, Preparação
+                             271.2-423.463 Diakonikon
+                             271.2-472-022.43 O Catecismo Maior
+                             271.2-523.47 Ikonostasis
+                             271.2-523.472 Porta Santa. Porta Real
+                             271.2-523.472-525.7 Cortina através da Porta Santa
+                             271.2-525.4 Estolas. Epitrachilia
+                             271.2-526.2 Santa Mesa. Santo Trono
+                             271.2-526.3 Colher para distribuir a Comunhão
+                             271.2-526.4 Terços. Rosários. Barbantes do orante
+                             271.2-526.5 Velas
+                             271.2-528-534.5 Ladainhas
+                             271.2-528-549 A Santa Liturgia
+                             271.2-528-549-536.4-022.51 Pequeno Intróito. Sinaxe
+                             271.2-528-549-536.4-022.56 Grande Intróito
+                             271.2-528-549.3 Epiclesis
+                             271.2-528.8 Rito bizantino
+                             271.2-532.4 Antologia de textos ascéticos e místicos. Philokalia
+                             271.2-534.35 Invocação do Nome
+                             271.2-534.35-312 Oração de Jesus
+                             271.2-536.1-032.2 Bênção da água
+                             271.2-536.4 Sinal da Cruz. NOTA: classificar aqui o uso de dois dedos 
+                             (praxe russa) e de três dedos (praxe grega)
+                             271.2-536.72:644.642-024.42 Antidoron. NOTA: restos não-consagrados do
+                             pão usado para a Comunhão, distribuídos no fim da Eucaristia
+                             271.2-55 Sacramentos
+                             271.2-55-543.7-544.3 Penitência
+                             271.2-55-549 Santa Comunhão
+                             271.2-55-555 Matrimônio
+                             271.2-55-557-536.25 Unção dos enfermos
+                             271.2-55-558.3 Batismo
+                             271.2-55-558.4 Crisma
+                             271.2-55-558.5 Ordem
+                             271.2-55-022.51 Sacramentais
+                             271.2-55-022.51-557 Ritos fúnebres
+                             271.2-55-022.51-565.35-536.1-032.2 Bênção da água na Epifania
+                             271.2-55-022.51-788-558.2 Profissão monástica. Vestimenta do religioso
+                             271.2-55-022.51-532.36-536.2 Unção do monarca
+                             271.2-563.5 O ofício divino
+                             271.2 563.51 Primeira hora (Prima)
+                             271.2-563.52 Terceira hora (Terça)
+                             271.2-563.53 Matinas
+                             271.2-563.54 Sexta hora (Sexta)
+                             271.2-563.55 Vésperas
+                             271.2-563.56 Completas
+                             271.2-563.57 Ofício da Meia-Noite
+                             271.2-564.11/.43 O ano ortodoxo. NOTA sobre o calendário: o ano da Igreja 
+                             Ortodoxa começa em 1o de setembro
+                             271.2-564.11-565.8 Natividade de Nossa Senhora (8 de setembro)
+                             271.2-564.12-565.9-312.8 Exaltação da Santa Cruz (14 de setembro)
+                             271.2-564.15-565.2 A festividade do Natal (15 de novembro - 24 de 
+                             dezembro)
+                             271.2-564.17 Entrada de Nossa Senhora no Templo (21 de novembro)
+                             271.2-564.19–565.3 Natal
+                             271.2-564.21-565.35 Epifania (Batismo do Senhor)
+                             271.2-564.23-565.36 Apresentação no Templo (2 de fevereiro)
+                             271.2-564.25-565.4 O Grande Jejum (7 semanas antes da Páscoa)
+                             271.2-564.27-564.17 Anunciação (25 de março)
+                             271.2-564.29-565.44 Domingo de Ramos
+                             271.2-564.31-565.72 Ascensão
+                             271.2-564.33-565.73 Pentecostes
+                             271.2-564.35-565.79PET São Pedro e São Paulo (29 de junho)
+                             271.2-564.37-565.79-442.47 Jejum dos Apóstolos. NOTA: começa na
+                             segunda-feira depois de Pentecostes e termina em 28 de junho
+                             271.2-564.39-565.8ASS-442.47 Jejum da Assunção (1o-14 de agosto)
+                             271.2-564.41-565.9TRA Transfiguração (6 de agosto)
+                             271.2-564.43-565.8ASS Assunção (15 de agosto)
+                             271.2-726.1 Patriarcas
+                             271.2-726.2 Bispos
+                             271.2-726.3 Padres
+                             271.2-726.3-447.7 Padres celibatários. Padres “negros” 
+                             271.2-726.3-45 Padres casados. Padres “brancos”
+                             271.2-726.4 Diáconos
+                             271.2-726.52 Subdiáconos
+                             271.2-726.54 Leitor(es). NOTA: estas são ordens menores distintas na Igreja Ortodoxa
+                             271.2-74 Cônegos da Igreja Ortodoxa
+                             271.2-788 Ordens monásticas
+                             271.2-788(234.425.21) Monte Athos. O Grande Lavra
+                             271.2-788(477.41) Petchersky Lavra. O mosteiro das Grutas
+                             271.2-788-726.7 Os anciãos. Startsy (Singular: starets) 
+Subdivisões auxiliares especiais
+271.2-1	A “Tradição” ortodoxa.
+		      É distinta de tradições, e compreende todo o corpo de doutrina da fé, 
+                             a Bíblia, os Padres, os Concílios, etc. A Tradição abrange a Escritura, 
+                             os Concílios, os Padres, a Liturgia, os Cânones, os Ícones
+271.2-23	A Bíblia ortodoxa.
+                             Esta Bíblia abrange os Setenta, i.e., 39 livros do Antigo Testamento, 10
+                             livros Deuterocanônicos e o Novo Testamento.
+271.2-282.7-247 O Livro do Evangelho.
+		Exemplo(s) de combinação(ões):
+		      271.2-282.7-247-536.36 Prostração ante o livro do Evangelho
+271.2-284	Enunciados doutrinários. Livros simbólicos.
+271.2-423.461 Capela da Prothesis, Preparação.
+271.2-423.463	Diakonikon.
+271.2-472	O catecismo maior
+-022.43
+271.2-523.47	Ikonostasis.
+271.2-523.472	Porta Santa. Porta Real.
+		Exemplo(s) de combinação(ões):
+                             271.2-523.472-525.7 Cortina ao longo da Porta Santa
+271.2-525.4	Estolas. Epitrachilia.
+271.2-526.2	A Santa Mesa. O Santo Trono.
+271.2-526.3	Colher (para distribuir Comunhão).
+271.2-526.4	Terços. Rosários. Barbantes do orante.
+271.2-526.5	Velas.
+271.2-528-534.5	Ladainhas.
+271.2-528-549 	A Santa Liturgia.
+		Exemplo(s) de combinação(ões):
+		      271.2-528-549-536.4-022.51 Pequeno Intróito. Sinaxis (Sinaxe).
+		      271.2-528-549-536.4-022.56 Grande Intróito.
+		      271.2-528-549-536.3 Epiclesis (Epiclese)
+271.2-528.8	Rito bizantino.
+271.2-532.4	Antologia de textos ascéticos e místicos. Philokalia.
+271.2-534.35	Invocação do nome.
+		Exemplo(s) de combinação(ões):
+		      271.2-534.35-312 A oração de Jesus
+271.2-536.1	Bênção da água.
+-032.2
+271.2-536.4	Sinal da Cruz.
+                             Classificar aqui o uso de dois dedos (praxe russa) e dos três dedos (praxe
+                             grega)
+-271.2-537.2:	Antidoron.
+664.642	
+-024.42	
+                              Restos não-consagrados do pão usado para a Comunhão, distribuídos no
+                              fim da Eucaristia
+271.2-55	Sacramentos.
+		Exemplo(s) de combinação(ões):
+		      271.2-55-543.7/-544.3 Penitência.
+		      271.2-55-549 Santa Comunhão
+		      271.2-55-555 Santo Matrimônio
+		      271.2-55-557-536.25 Unção dos enfermos
+		      271.2-55-558.3 Batismo.
+		      271.2-558.4 Crisma. Confirmação.
+		      271.2-55-558.5 Ordem
+		      271.2-55-022.51 Sacramentalia. Sacramentais.
+		      271.2-55-022.51-557 Ritos fúnebres
+		      271.2-55-022.51-565.35-536.1-032.2 Bênção da água na Epifania
+		      271.2-55-022.51-788-558.2 Profissão monástica. Vestimenta do religioso.
+		      271.2-55-022.51-532.36-536.2 Unção do monarca.
+271.2-563.5	Ofício Divino.
+                        Exemplo(s) de combinação(ões):
+                              271.2-563.51 Primeira hora (Prima)
+                              271.2-563.52 Terceira hora (Terça)
+                              271.2-563.53Matinas
+                              271.2-563.54Sexta hora (Sexta)
+                              271.2-563.55 Vésperas
+                              271.2-563.56 Completas
+                              271.2-563.57 Ofício da Meia-Noite
+271.2-		O ano ortodoxo. Calendário.
+564.11/.43	
+                              O ano na Igreja Ortodoxa começa em 1o de setembro
+                        Exemplo(s) de combinação(ões):
+                              271.2-564.11-565.8 Natividade de Nossa Senhora (8 de setembro)
+                              271.2-564.12-565.9-312.8 Exaltação da Santa Cruz (14 de setembro)
+                              271.2-564.15-565.2 O Jejum do Natal(15 de novembro-24 de dezembro)
+                              271.2-564.17 Entrada de Nossa Senhora no Templo (21 de novembro)
+                              271.2-564.19-565.3 Natal
+                              271.2-564.21-565.35 Epifania (Batismo de Nosso Senhor)
+                              271.2-564.23-565.36 Apresentação no Templo (2 de fevereiro)
+                              271.2-564.25-565.4 O Grande Jejum (7 semanas antes da Páscoa)
+                              271.2-564.27-564.17 Anunciação (25 de março)
+                              271.2-564.29-565.44 Domingo de Ramos
+                              271.2-564.31-565.72 Ascensão
+                              271.2-564.33-565.73 Pentecostes
+                              271.2-564.35-565.79PET São Pedro e São Paulo (29 de junho)
+                              271.2-564.37-565.79-442.47 Jejum dos Apóstolos (começa na semana
+                              depois de Pentecostes, e termina em 28 de junho)
+                              271.2-564.39-565.8ASS-442.47 Jejum da Assunção (10-14 de agosto)
+                              271.2-564.41-565.9TRA Transfiguração (6 de agosto)
+                              271.2-564.43-565.8ASS Assunção (15 de agosto)
+271.2-726.2	Bispos.
+271.2-726.3	Padres.
+271.2-726.3	Padres celibatários. Padres “negros”.
+-447.7
+271.2-726.3	Padres casados. Padres “brancos”
+-45
+271.2-726.4	Diáconos.
+271.2-726.52	Subdiáconos.
+		      Subdiáconos e Leitores são ordens menores distintas na Igreja Ortodoxa
+                           . Ver também 271.2-726.54
+271.2-726.54	Leitor.
+		      Ver também 721.2-726.52
+271.2-74	Cônegos da Igreja Ortodoxa.
+271.2-788	Ordens monásticas.
+		Exemplo(s) de combinação(ões):
+                              271.2-788(234.425.21) Monte Athos. O Grande lavra
+                              271.2-788(477.41) PetcherskyLavra. O Mosteiro das Grutas
+                              271.2-788-726.7 Os anciãos.Startsy (Singular: starets)
+Divisões principais
+271.21		Patriarcados orientais.
+                              Exemplo(s) de combinação(ões):
+                                    271.21(560) Constantinopla
+                                    271.21(560)-726.1 Patriarca Ecumênico (Universal)
+                                    271.21(569.1) Antioquia
+                                    271.21(569.4) Jerusalém
+                                    271.2(620) Alexandria
+271.22		Igrejas nacionais.
+		      Usar auxiliares comuns de lugar (Tabela 1e)
+271.222	Igrejas autocéfalas
+		      Usar auxiliares comuns de lugar (Tabela 1e)
+271.222	Igreja Ortodoxa da República Checa e da Eslováquia
+(473.3+473.6)
+271.222(438)	Igreja Ortodoxa Polonesa.
+                       Exemplo(s) de combinação(ões):
+                             271.222(438)-726.1 Arcebispo, Metropolita da Polônia
+271.222	Igreja Ortodoxa Russa.
+(470+571)
+                       Exemplo(s) de combinação(ões):
+                             271.222(470+571)-726.1 Patriarca da Igreja Russa
+                             271.222(470+571) -86 Igrejas no exílio. Diáspora Ortodoxa Russa. Inclusive
+                             1. O Patriarcado de Moscou – paróquias em emigração, que preferiram
+                             manter laços diretos com a Rússia (ca. 300 000/400 000 membros); 2. Igreja
+                             Ortodoxa Russa fora da Rússia (IORFR). Sínodo de Karlotvsky – Sínodo
+                             dos Bispos da Igreja Russa no Exílio, originalmente na Iugoslávia, 
+                             atualmente em Nova Iorque. 3. A Diocese Ortodoxa Russa na Europa 
+                             ocidental. “Jurisdição de Paris” (ca. 50 000 membros); 4. Igreja Católica 
+                             Grega Ortodoxa Russa (IOA) (1 000 000 de membros)
+                             271.222(470+571)"1700/1917”-732.3 Colégio Espiritual. Santo Sínodo.
+                             271.222(470+571)-86"16” Sectários. Velhos Crentes. Raskolniki 
+                             (dissidentes quanto ao ritual, não a doutrina)
+                             271.222(470+571)-86POP Popovtsky. NOTA: esta seita possui padres e
+                             bispos.
+                             271.222(470+571) -86BEZ Bezpopovtsky. NOTA: esta seita não possui 
+                             padres [NB: ambas ainda existem]
+                             271.222(470+571) -9"1917/1925” Anos de luta para preservar a liberdade 
+                             da igreja
+                             271.222(470+571)-9"1918.2.1”-546.4 Anátema de São Tikhon
+                             271.222(470+571)-9-672 A “Igreja Viva”-
+                             271.222(470+571)-9"1925/1943” Anos da tentativa de “modus vivendi” do
+                             Metropolita Sérgio
+                             271.222(470+571)-9"1943/1959” Anos de reavivamento da vida da igreja
+                             sob Stalin. Restauração do Patriarcado
+                             271.222(470+571)-9"1959/1964”Anos de perseguição sob Krushchev
+                             271.222(470+571)-9"1964/1888” Anos de reavivamento, quando o 
+                             movimento dissidente surge e é esmagado
+                             271.222(470+571)-9"1976” Comitê Cristão para a Defesa dos Direitos dos
+                             Crentes
+                             271.222(470-25) Patriarca de Moscou
+271.222(477)	Igreja Ortodoxa Autocéfala da Ucrânia
+		      [NB: dividida em dois grupos, nenhum dos quais é reconhecido por 
+                             nenhuma outra igreja ortodoxa]
+		Exemplo(s) de combinação(ões):
+                             271.222(477.41)-726.1 Patriarca de Kiev. A partir de 1453 subordinado ao
+                             Patriarca de Moscou, anteriormente superior
+271.222	Igreja Ortodoxa da Geórgia.
+(479.22)
+		Exemplo(s) de combinação(ões):
+		      271.222(479.22)-726.1 Patriarca Katholikos
+271.222(495)	Igreja Ortodoxa Grega.
+		Exemplo(s) de combinação(ões):
+		      271.222(495)-726.1 Arcebispo Metropolitano da Grécia
+271.222	Igreja Ortodoxa da Albânia.
+(496.5)		
+            Exemplo(s) de combinação(ões):
+		      271.222(496.5)-726.1 Arcebispo Metropolitano da Albânia
+271.222	Igreja Ortodoxa Sérvia.
+(497.11)	
+            Exemplo(s) de combinação(ões):
+		      271.222(497.11)-726.1 Patriarca da Igreja Sérvia
+271.222	Igreja Ortodoxa Búlgara.
+(497.2)		
+            Exemplo(s) de combinação(ões):
+                              271.222(497.2)-726.1 Patriarca da Igreja Búlgara
+271.222	Igreja Ortodoxa Romena.
+(498)		Exemplo(s) de combinação(ões):
+		      271.222(498)-726.1 Patriarca da Igreja Romena
+271.222	Igreja Ortodoxa de Chipre
+(564.3)		
+            Exemplo(s) de combinação(ões):
+		      271.222(564.3)-726.1 Arcebispo Metropolitano de Chipre
+271.224	Igrejas autônomas.
+                              Usar auxiliares comuns de lugar (Tabela 1e)
+                        Exemplo(s) de combinação(ões):
+                              271.224(480) Igreja Ortodoxa da Finlândia
+                              271.224(510) Igreja Ortodoxa da China
+                              271.224(520) Igreja Ortodoxa do Japão
+                              271.224(620SINAI) Igreja Ortodoxa do Sinai
+271.3		Igrejas separadas.
+271.4		Igrejas uniate .
+271.6		A Igreja do Oriente (Nestoriana).
+271.7		Ritos monofisitas.
+271.72		(Igreja) Armênia. (Igreja) Alexandrina.
+271.722	Igreja Copta.
+271.723	Igreja Etíope. Igreja Abissínia.
+271.74		Igreja Antioquena.
+271.742	Igreja Síria.
+271.744	Igreja Maronita.
+272/279	Igreja Ocidental.
+272/273	Igreja Católica
+272		Igreja Católica Romana.
+Subdivisões auxiliares especiais
+272-282	Obras litúrgicas da Igreja Católica Romana.
+272-282.7	Missais.
+272-549	A Missa.
+                       Exemplo(s) de combinação(ões):
+                             272-549-282 Liturgia da Missa
+272-662	Influência exercida pela Igreja Católica Romana.
+		Exemplo(s) de combinação(ões):
+                             272-662:3 Influência da Igreja Católica Romana na sociedade. Inclusive
+                             Movimentos sociais. Ação Católica.
+272-726.6-427	Promoção informal da fé Católica Romana por parte de leigos.
+                              Classificar aqui o sacerdócio universal do fiel, prelazia pessoal e
+                              movimentos tais como a Opus Dei
+272-732.2	O Papado.
+                        Exemplo(s) de combinação(ões):
+                               272-732.2:321 Poder político, temporal, do Papado
+                                272-732.2-284 Doutrina do Papado
+                                272-732.2-72 Estrutura do Papado
+                                272-732.2-725 Pessoas nos assuntos domésticos do Papa. 
+                                Administração
+                                272-732.2-725.2 Cardeais. Inclusive Colégio de Cardeais. Conclave
+                                272-732.2-725.4 Legados. Núncios. Delegados apostólicos
+                                272-732.2-725.6 Protonotários apostólicos
+272-74		Direito canônico Católico Romano.
+272-742-266	Código de Direito. Inclusive Codex Iuris Canonici (CIC). Código de Direito 
+                        Canônico.
+272-745	Tribunais religiosos. Tribunais papais. Cúria.
+272-745.2	Congregações Romanas.
+272-745.4	Tribunais.
+272-745.5	Deveres da Cúria. Inclusive Chancelaria Apostólica. Câmara Apostólica.
+272-745.6	Comissões.
+Divisões principais
+273		Igrejas episcopais não-Católico-Romanas.
+273.2		Velhos Católicos.
+273.4		Igreja Anglicana.
+273.4(4/9)	Igreja Anglicana em diferentes países.
+		Exemplo(s) de combinação(ões):
+                             273.4(94) Igreja Anglicana na Austrália
+273.6		Aglipayans (Aglipaianos). Igreja Filipina Independente.
+274/278	Igrejas protestantes.
+274		Protestantismo em geral. Protestantes. Dissidentes. Puritanos.
+274.3		Movimentos menores no Protestantismo dos primórdios.
+274.36		Pietismo.
+274.37		Labadistas.
+274.38		Arminianos. Remonstrantes.
+274.5		Igrejas Luteranas. Luteranos.
+275		Igrejas Reformadas.
+275.2		Morávios.
+275.4		Calvinistas.
+275.5		Huguenotes.
+275.6		Presbiterianos.
+276		Anabatistas.
+276.2		Igrejas Menonitas. Menonitas.
+277		Igrejas Livres. Não-conformistas.
+277.2		Congregacionalistas.
+277.4		Batistas.
+277.6		Metodistas. Igrejas metodistas
+278		Outras igrejas protestantes.
+278.15		Unitarianos.
+278.17		Quakers. Sociedade dos Amigos.
+278.19		Exército da Salvação.
+279		Outros movimentos e igrejas cristãs.
+279.12		Movimentos cristãos modernos.
+		      Estes são tratados separadamente dos grupos cristãos “per se”, uma vez
+                             que esses movimentos atravessam fronteiras, e alguns podem incluir 
+                             membros da igreja tradicional. Alguns termos podem também ser aplicados
+                             a outros grupos de fé (p. ex., fundamentalistas)
+279.122	Renascidos.
+279.123	Evangélicos.
+279.124	Fundamentalistas.
+279.125	Pentecostais.
+279.127	Carismáticos.
+279.13		Adventistas.
+279.14		Adventistas do Sétimo Dia.
+279.15		Igrejas pentecostais.
+                              -> 279 Outros movimentos e igrejas cristãs.
+279.153	Assembléias de Deus.
+279.154	Igreja de Deus em Cristo.
+279.156	Igreja Universal do Reino de Deus.
+279.16		Santos do Último Dia. Mórmons.
+279.167	Santos do Último Dia Reorganizados (SUDR).
+279.17		Testemunhas de Jeová.
+279.19		Igrejas apostólicas.
+279.21		Ciência Cristã.
+279.22		Pensamento Novo (derivada da Ciência Cristã).
+279.222	Igreja da Unidade.
+279.224	Ciência Religiosa.
+279.226	Ciência Divina.
+279.228	Movimento de Restauração (Igrejas cristãs e Igrejas de Cristo).
+279.23		Católicos livres.
+279.25		Christengemeinschaft.
+279.27		Swedenborgianos.
+279.28		Seitas indígenas africanas.
+279.285	Igrejas Africanas de Iniciados, Indígenas, Independentes (AICs/IAIs).
+279.287	Igreja Kimbanguista.
+279.99		Outras. Deutsche Christen. Doukhobors.
+                              Especificar por meio da extensão alfabética A/Z (Tabela 1h)
+28		Islamismo.
+282		Sunni. Ismalismo sunita.
+284		Shi’a. Islamismo xiita.
+284.5		Ahmadiya. 
+                              Considerado herético pela corrente principal do Islamismo
+284.55		Grupo de Lahore (Ahmadiya Anjuman-i-Isha’at-i-Islam).
+284.7		Drusos 
+285		Babi-Baha’i.
+285.5		Babismo não-Bahai.
+285.52		Babismo Azali.
+286		Baha’i.
+286.2		BSCP/BUPC (Baha’i está sujeitos às cláusulas do Pacto/Baha’is under the 
+                       provisions of the Covenant).
+286.4		Baha’is ortodoxos.
+286.6		Fé de Deus.
+286.7		Fé Baha’i Ortodoxa sob a Regência.
+286.8		Sociedade Charles Mason Remey.
+29		Movimentos espirituais modernos.
+		      Há deles um grande número, predominantemente do século XX (a maioria
+                              dos da lista precedente são fenômenos do século XIX). Eles,  com
+                              freqüência, não possuem vínculo algum com nenhuma religião particular,
+                              embora alguns tenham surgido no seio de determinado contexto cultural e
+                              possam revelar características da religião dominante daquela cultura 
+                              (p. ex., Idade Nova e Paganismo). Muitos possuem um número avultado de 
+                              adeptos, talvez por serem religião “oficial” do Estado, mas, mesmo assim, 
+                              não são amplamente reconhecidos fora de seus próprios territórios
+299	 	Sistemas filosóficos.
+		      Em geral, discussões sobre o ateísmo, etc., devem ser colocadas em 
+                              filosofia, mas foram previstas aqui, uma vez que elas geralmente tratam do
+                              mesmo assunto (p. ex., existência de Deus, etc.).
+299.2		Ateísmo.
+299.252	Crenças derivadas do Xintoísmo.
+299.252.5	Tenrikyo.
+299.252.6	Omoto-kyo.
+299.3		Agnosticismo.
+299.4		Humanismo.
+299.42		Kyodan da (V)ida (P)erfeita.
+299.5		Ausência de religião. Secularismo.
+299.572	Neo-Paganismo.
+299.6		Irreligião.
+299.7		Movimentos com elementos cristãos.
+299.72		Movimento antroposófico.
+299.725	Comunidade Cristã.
+299.73		Mar de Fé.
+299.92		Cao Dai.
+		      Movimento sincrético e nacionalista do Vietnã.
+299.93		Cientologia.
+299.935	Dianética.
+299.94		Idade Nova.

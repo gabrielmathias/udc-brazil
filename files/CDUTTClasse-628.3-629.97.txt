@@ -1,0 +1,3556 @@
+﻿<01>628.3
+<02>Esgotos. Tratamento, eliminação, utilização de águas de esgoto.
+      628.3.0 dividido como 66.0 
+      -> 628.4 Higiene urbana. Resíduos. Lixo. Coleta e destino do lixo urbano
+Subdivisões auxiliares especiais
+628.3.03	Tipos de águas de esgoto segundo a origem.
+628.3.03 dividido como 628.1.03
+628.3.033	Águas de esgoto residenciais.
+628.3.034.2	Águas de esgoto industriais.
+Divisões principais
+628.31	Propriedades, tratamento e purificação de
+águas de esgoto em geral.
+628.311	Quantidade, volume das águas de esgoto.
+      -> 628.22 Cálculo da forma e tamanho dos esgotos
+628.312	Composição e propriedades das águas de
+esgoto. Elementos constituintes.
+628.312.1	Resíduos sólidos.
+628.312.2	Substâncias em solução.
+628.312.3	Grau de poluição, de toxicidade. Demanda
+bioquímica de oxigênio.
+628.312.4	Demanda química de oxigênio.
+628.312.5	Análise das águas de esgoto. Determinação da
+composição das águas de esgoto.
+Especificar por meio de :546/547
+628.313	Amostragem das águas de esgoto.
+628.315	Sistemas e etapas de tratamento de águas de esgotos.
+628.315.1	Tratamento exaustivo.
+628.315.2	Tratamento primário e secundário.
+628.315.21	Tratamento primário (inclusive preliminar).
+628.315.23	Tratamento secundário (biológico).
+628.315.3	Tratamento terciário.
+628.316	Tratamento pela remoção de poluentes.
+Os tipos de tratamento nas subdivisões que se seguem podem ser mais especificados pelo método, usando os auxiliares .0. Os processos específicos são classificados em 628.33/.35 
+628.316 dividido como 628.16
+Exemplo(s) de combinação(ões):
+628.316.6.094.3 Desinfecção de esgotos pela oxidação
+628.349.094.3 Oxidação de esgotos
+628.316.12	Purificação das águas de esgoto pela remoção de substâncias específicas.
+Exemplo(s) de combinação(ões):
+      628.316.12:546.49 Remoção de mercúrio
+      628.316.12:547.562.1 Remoção de fenol. Desfenolização de águas de esgoto
+628.316.6	Desinfecção de águas de esgoto.
+Exemplo(s) de combinação(ões):
+628.316.6.094.3 Desinfecção de águas de esgoto por oxidação
+628.316.7	Eliminação de odores e ressaibos de águas de esgoto.
+628.32	Estações de tratamento de esgoto, de águas de esgoto. Obras para tratamento de
+esgotos.
+      -> 696.135/.138
+628.33	Tratamento físico e mecânico de águas de
+esgoto.
+628.334	Filtração. Remoção de gordura e areia.
+      -> 621.928 Equipamento para separar, selecionar, peneirar, joeirar
+628.334.1	Filtração.
+628.334.11	Filtros de barra com limpeza manual.
+628.334.12	Crivos de barra com limpeza mecânica.
+628.334.13	Crivos finos.
+628.334.14	Desintegração de sólidos.
+628.334.2	Remoção de areia. Inclusive sifões de areia.
+628.334.21	Sifões de areia.
+628.334.26	Lavagem de areia grossa. Manipulação de areia
+grossa. Destino dado à areia grossa.
+628.334.3	Remoção de gordura. Separação por gravidade,
+por corrente de ar, a vácuo.
+628.334.4	Remoção de espuma.
+628.334.5	Processo de sedimentação. Tanques de
+sedimentação ou deposição.
+628.334.6	Tanques de agitação.
+628.335	Coagulação, floculação (sem acréscimo de
+agentes químicos).
+      -> 628.345 Precipitação. Coagulação química
+628.336	Sedimento, lodo. Manipulação e destino
+dado ao lodo, sedimento lodoso.
+628.336.1	Lodo bruto: composição, propriedades.
+Especificar por meio de :53..., :54..., :57...
+628.336.3	Processamento do lodo em geral. Preparo do lodo. Condicionamento do sedimento lodoso. 
+Indicar os métodos de processamento não especificados em 628.336.3/.5 pelos auxiliares .0
+628.336.31	Concentração de lodo.
+628.336.32	Condição do lodo para filtração ou secagem.
+Inclusive elutriação.
+628.336.4	Desidratação e filtração do lodo. Inclusive leitos
+de secagem.
+Exemplo(s) de combinação(ões): 
+      628.336.4.047 Secagem por calor 
+      628.336.4.067.1 Filtração. Filtros 
+      628.336.4.067.5 Centrifugação
+628.336.5	Digestão do lodo. Tanques de metano.
+Digestores. Tanques sépticos, fossas sépticas.
+Exemplo(s) de combinação(ões):
+628.336.5.098.2	Digestão aeróbica
+628.336.5.098.4 Digestão anaeróbica
+628.336.51	Digestão mesofílica
+Especificar por meio de -95... e -965.8..., de 66
+628.336.52	Digestão termofílica.
+628.336.53	Aquecimento do lodo.
+628.336.54	Circulação do lodo. Descarga do lodo.
+628.336.55	Solução sobrenadante: retirada, destino.
+628.336.56	Adição de outras substâncias aos tanques de
+digestão. Inclusive adição de restos,
+alimpaduras, natas de gordura, excrementos.
+628.336.57	Lodo digerido: composição, propriedades.
+628.336.58	Câmaras de controle para digestão. Galerias de
+tubulação.
+628.336.6	Gás de lodo (mistura de metano/dióxido de
+carbono): quantidade, composição,
+propriedades.
+      -> 628.385 Gás, metano extraído dos esgotos
+628.336.7	Remoção ou destruição do lodo de esgoto.
+      -> 628.381 Utilização das águas de esgoto na agricultura
+628.336.71	Incineração do lodo. Gaseificação do lodo.
+628.336.72	Transporte em barcaças para o mar.
+628.336.73	Aterros. Lagoas.
+628.336.8	Transporte do depósito formado durante e
+depois (resultante) do processamento dos
+esgotos, do lodo e do lodo digerido.
+Exemplo(s) de combinação(ões):
+628.336.8:621.643.2 Por meio de tubulações
+628.337	Tratamento e purificação elétrica de águas de esgoto.
+      -> 628.349.087
+628.34	Tratamento químico de águas de esgoto.
+628.342	Mistura com produtos químicos. Adição de substâncias químicas. Agitadores, misturadores, etc.
+628.345	Precipitação. Coagulação química.
+      -> 628.335 Coagulação, floculação (sem acréscimo de agentes químicos)
+628.349	Outros métodos químicos.
+Exemplo(s) de combinação(ões):
+628.349.081.312.3 Purificação por resinas de troca iônica 
+628.349.087 Purificação eletroquímica
+628.349.087.2	Por eletrorredução
+628.349.087.3	Por eletrooxidação Por eletroflotação
+628.349.087.4	Por eletrocoagulação
+628.349.087.7 Por eletrólise
+628.349.094.3 Oxidação de esgotos
+628.35	Tratamento biológico e bioquímico dos
+esgotos. Equipamento para tratamento
+biológico e bioquímico.
+628.351	Tratamento preliminar de águas de esgoto
+antes da purificação biológica. Preservação
+da atividade da microflora.
+      -> 628.312.3 Grau de poluição, de toxicidade. Demanda bioquímica de oxigênio
+628.352	Tanques sépticos, fossas 
+628.353	sépticas em geral.
+628.354	Biofiltração. Biofiltros.
+628.353.1	Métodos de purificação através de biofiltros
+gotejantes. Biofiltros de gotejamento. 
+      Especificar por meio de -9...,  de 66
+628.353.12	Carga do biofiltro.
+Exemplo(s) de combinação(ões):
+628.353.12-189.2 Dosagem 
+628.353.12-531.3 Controle, regulagem da admissão
+628.353.13	Aplicação de águas de esgoto ao leito de filtro.
+628.353.14	Ventilação de filtros biológicos.
+628.353.15	Meios de filtração.
+628.353.153	Flora bacteriana no meio de filtração
+Biopelícula, biofilme.
+      -> 628.355 Lodo ativado em geral. Flora bacteriana do tratamento biológico de esgotos em geral. Química e fisiologia dos microrganismos
+628.353.16	Tratamento do efluente do filtro.
+Especificar por meio de :628.33...
+628.353.2	Leitos de contato.
+628.353.3	Filtros aerados.
+628.354	Filtração por areia. Filtros de areia.
+628.354.1	Filtros intermitentes de areia.
+628.354.2	Filtros contínuos de areia. Filtros de magnetita.
+628.355	Lodo ativado em geral. Flora bacteriana do
+tratamento biológico de esgotos em geral.
+Química e fisiologia dos microrganismos.
+      -> 628.353.153 Flora bacteriana no meio de filtração. Biopelícula, biofilme
+628.356	Métodos de purificação de esgotos por lodo
+ativado. Aeração em geral.
+628.356.1	Aeração por ar difuso.
+628.356.2	Aeração mecânica.
+628.356.3	Tanques de aeração.
+628.356.4	Reaeração.
+628.356.5	Tanques de deposição secundária.
+628.357	Lagoas biológicas. Lagoas de águas de
+esgotos. Lagoas de sedimentação.
+Autopurifícação.
+628.357.1	Lagoas para tratamento completo das águas de
+esgoto.
+628.357.2	Lagoas para tratamento de efluentes.
+628.357.3	Lagoas de peixe.
+      -> 626.886 Lagos de peixes (para espécies determinadas)
+      -> 639.311 Piscicultura em açudes
+628.357.4	Lagos para tratamento com plantas aquáticas.
+628.358	Processo final de purificação da água de
+esgotos. Purificação profunda de esgotos.
+Purificação fina.
+628.38	Utilização das águas de esgoto e de seus
+componentes. Componentes utilizáveis dos esgotos.
+      -> 628.477 Aproveitamento do lixo e resíduos tratados e não-tratados
+      -> 696.139 Destino do lixo sólido
+628.381	Utilização das águas de esgoto na
+agricultura.
+      -> 626.841 Irrigação por inundação
+      -> 631.863 Excrementos humanos, despejos de esgoto
+628.383	Gorduras e óleos retirados das águas de
+esgoto.
+628.385	Gás metano extraído dos esgotos.
+      -> 628.336.6 Sedimento, lodo. Manipulação e destino dado ao lodo, sedimento lodoso
+628.386	Extração de outras substâncias úteis das
+águas de esgoto.
+628.387	Utilização do efluente final.
+628.388	Uso de resíduos radiativos.
+      -> 621.039.77 Utilização dos resíduos, dos produtos de fissão
+628.39	Destino dado a resíduos não-tratados, a
+resíduos inaproveitáveis,em ambientes naturais. Poluição da água, solo e ar. Medidas preventivas.
+      -> 351.777.6 Poluição do ar, do solo, da água
+      -> 543.3 Amostragem e análise de água
+      -> 574.63 Hidrobiologia sanitária
+      -> 614.7 Higiene do ar, da água, do solo. Poluição e seu controle
+      -> 628.19 Poluição dos mananciais e do abastecimento de água (causas, prevenção e eliminação)
+      -> 628.47 Destino e utilização do lixo urbano
+628.393	Coletores de esgotos. Depósitos de lodo.
+628.394	Lançamento de esgotos em águas naturais
+(mares, rios, lagos).
+Especificar por meio de (26/28) da Tabela 1e
+      -> 556.388 Poluição das águas subterrâneas. Medidas de proteção
+      -> 628.472.7 Despejo de lixo no mar, lagos ou cursos de água
+      -> 628.515 Medidas contra a poluição da água
+      -> 628.541 Descarga de resíduos em cursos de água
+628.395	Lançamento de esgoto na atmosfera.
+      -> 551.510.4 Composição da atmosfera
+      -> 628.511 Medidas contra a poeira
+      -> 628.512 Medidas contra gases e vapores tóxicos
+      ->  628.52 Medidas contra fumaças, emanações, cheiros, odores industriais
+628.396	Lançamento de esgoto no solo, em camadas
+geológicas, em cavernas. Lançamento
+subterrâneo.
+      -> 628.472 Destino dado ao lixo por meio de seu lançamento em aterros, vazadouros
+      -> 628.516 Medidas contra a poluição do solo
+      -> 628.542 Enterramento
+628.398	Destino e aterramento de materiais especialmente nocivos, p. ex. materiais radiativos.
+628.4	Higiene urbana. Resíduos. Lixo. Coleta e destino do lixo urbano. Propulsão.
+Subdivisões auxiliares especiais	
+628.4.02	Projeto, organização, administração, etc.
+628.4.03	Origem e quantidade do lixo.
+628.4.032	Lixo residencial. Inclusive Lixo sólido de residências, hotéis, restaurantes, etc. Refugos de cozinha, sobras de comida, etc. 
+                                Papel velho. Resíduos, cinzas de combustível. Objetos gastos e quebrados.
+628.4.033	Lixo de vias públicas. Inclusive Lixo resultante da limpeza das ruas. Detritos de borracha. Sujeira das ruas. Poeira. Pontas de 
+                                 cigarro. Folhas mortas. Lixo deixado por feiras. Detritos oriundos do lançamento de areia, sal, etc. nas ruas durante o inverno.
+628.4.034	Lixo industrial, comercial (resíduos não resultantes diretamente dos processos de produção). Inclusive Matérias de embalagem.
+Refugos de combustível. Lixo dos escritórios. Resíduos de algodão. Trapos.
+628.4.035	Lixo volumoso (lixo volumoso demais para recipientes comuns). Inclusive Móveis abandonados. Caixas grandes.
+628.4.036	Lixo deixado por construções. Entulho de obras. Entulho de demolição.
+      -> 69.059.6 Demolição. Entulho
+628.4.037	Carros abandonados, destroçados. Pneus. Ferro- velho, sucata.
+628.4.038	Lixo industrial. Resíduos de fábricas (resíduos resultantes dos processos de produção). Inclusive Matérias-primas estragadas. Partidas
+                                    defeituosas. Material refugado. Areia de moldes de fundição. Resíduos de combustível.
+      -> 658.567 Tratamento de resíduos, refugos, sobras
+628.4.04	Tipos de lixo, de resíduos.
+Especificar por meio de -03..., da Tabela 1k, -403/-405, de 62-403/-405, etc.
+628.4.042	Lixo de fácil decomposição. Resíduos
+biodegradáveis. Inclusive Restos de alimentos.
+Resíduos orgânicos. Excrementos. Resíduos de
+jardins e parques. Palha. Têxteis. Couro.
+628.4.043	Lixo de decomposição difícil. Resíduos pouco
+degradáveis e não-degradáveis. Inclusive
+madeira. Produtos de pasta de papel. Escória de
+carvão. Resíduos de construções. Entulho de
+obra. Vidro. Metal. Plástico. Borracha.
+628.4.045	Lixo químico e explosivo. Inclusive Resíduos
+tóxicos, venenosos. Substâncias que contém
+mercúrio, cianeto, cromo, etc. Ácidos e álcalis
+concentrados. Produtos de decomposição
+nociva, p. ex. flúor, cloro, emanações nitrosas.
+      -> 620.26 Produtos ou materiais perigosos
+628.4.046	Lixo que pode transmitir doenças. Lixo
+contaminado. Inclusive Lixo de hospitais,
+clínicas, salas de operação, consultórios
+médicos. Resíduos de laboratórios de patologia e
+bacteriologia. Cadáveres como lixo. Lixo de
+instituições de pesquisa médica e casas de
+repouso.
+      -> 620.266.2 Substâncias patogênicas, infecciosas
+      -> 628.513 Medidas contra infecções, contra emanações
+628.4.047	Lixo radiativo.
+      -> 620.267 Substâncias radiativas
+      -> 621.039.7 Tratamento dos resíduos radiativos
+      -> 628.388 Uso de resíduos radiativos
+628.4.06	Procedimento analítico.
+      Especificar por meio de :543...
+628.4.061	Análise qualitativa.
+628.4.062	Análise quantitativa.
+628.4.08	Medição, determinação, avaliação dos resíduos.
+Cálculo do volume de lixo.
+Divisões principais
+628.42	Latrinas. Fossas. Coleta e destino dado aos
+excrementos.
+628.422	Latrinas de balde.
+628.423	Latrinas de poço. Cloacas. Sentinas.
+628.422	Outras instalações. Sistemas de recobrir
+com terra (privadas de terra), etc.
+628.424	Instalações sanitárias públicas em geral.
+      -> 625.748.2 Pequenas estruturas permanentes
+      -> 696.14 Instalações e acessórios sanitários em construções. Acessórios de sanitários
+      -> 725.1 Edifícios cívicos, edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de serviços públicos
+628.427	Coleta, transporte e destino dado aos
+excrementos.
+628.46	Limpeza urbana. Coleta e remoção de lixo.
+Indicar equipamentos e veículos por meio de :62l.6... e :629...
+628.462	Limpeza urbana. Limpeza de ruas. Inclusive
+Varredura de vias públicas. Irrigação de vias
+públicas. Borrifamento, aspersão.
+      -> 351.777.614 Higiene das ruas
+      -> 625.768.1 Limpeza das estradas. Varredura das estradas
+628.463	Coleta de lixo. Sistemas de coleta do lixo.
+Inclusive coleta (armazenamento) do lixo em recipientes. Latas de lixo. Recipientes para lixo volumoso. Caçambas de lixo.
+      -> 625.748.44 Receptáculos para lixo. Lixeiras
+Exemplo(s) de combinação(ões):
+ 628.463:692.758 Uso de calhas de deslizamento de lixo
+628.464	Coleta de lixo em veículos. Inclusive Carroças, caminhões, caminhonetes de lixo. Barcos, barcaças de lixo.
+628.465	Remoção, transporte do lixo.
+628.468	Depósitos para coleta de lixo.
+628.47                      Destino e utilização do lixo urbano.
+      -> 351.777.61 Lixo, efluentes. Tratamento do lixo
+      -> 614.78 Higiene urbana. Saúde pública das cidades
+628.472	Destino dado ao lixo por meio de seu
+lançamento em aterros, vazadouros.
+628.472.2	Vazadouro público sem controle.
+628.472.3	Vazadouro controlado. Aterros, vazadouros de
+lixo. Aterros sanitários.
+628.472.4	Aterramento do solo com lixo e sedimentos.
+      -> 628.396 Lançamento de esgoto no solo, em camadas geológicas, em cavernas. Lançamento subterrâneo
+628.472.7	Despejo de lixo no mar, lagos ou cursos de água.
+      -> 628.394 Lançamento de esgotos em águas naturais (mares, rios, lagos)
+      -> 628.515 Medidas contra poluição da água
+      -> 628.541 Descarga de resíduos em cursos de água
+628.473	Destino dado ao lixo por meio de
+compostagem.
+628.473.2	Decomposição de matéria orgânica. Estudo da
+putrefação.
+628.473.3	Métodos de compostagem. Inclusive
+compostagem de superfície. Compostagem em
+silos. Compostagem em células de fermentação.
+628.473.4	Projeto e estrutura dos trabalhos de
+compostagem. Processos para decomposição
+separada ou combinada de resíduos sólidos e
+líquidos.
+628.473.6	Biologia e higiene da compostagem.
+628.474	Eliminação de resíduos por queima,
+incineração.
+      -> 662.65 Combustíveis diversos de baixo teor
+      -> 662.734 Carbonização de lixo, resíduos
+628.474.3	Queima em usina de incineração.
+628.474.32	Processos envolvidos na combustão.
+628.474.33	Métodos de combustão do lixo.
+628.474.35	Combustão combinada de lixo e sedimentos.
+628.474.36	Combustão combinada de lixo e combustível sólido.
+628.474.37	Combustão de lixo industrial pesado.
+628.474.38	Aproveitamento do calor produzido pela incineração de lixo.
+628.474.5	Tipos e tamanhos de usinas de incineração. Disposição das fornalhas.
+628.474.7	Operação e detalhes da usina de incineração.
+628.474.72	Depósitos. Equipamento de transporte. Separação da poeira.
+628.474.74	Extração de componentes úteis. Inclusive Separadores de metal.
+628.474.75	Grelha de fornalha. Gás combustível. Transporte de gás de combustão.
+628.474.76	Purificação do gás de exaustão.
+Especificar par meio de  :66.074...
+628.474.77	Tratamento da escória, inclusive equipamento
+para eliminação da escória,
+628.475	Eliminação do lixo por gaseificação (pirólise).
+628.475.3	Processos envolvidos na gaseificação.
+628.475.4	Métodos de gaseificação do lixo.
+628.475.5	Produção de gás.
+628.475.7	Usina de gaseificação.
+      628.475.7 dividido como 628.474.7
+628.477	Aproveitamento do lixo e resíduos tratados e não-tratados.
+      -> 628.38 Utilização das águas de esgoto e de seus componentes. Componentes utilizáveis dos esgotos
+628.477.1	Uso direto de resíduo não-tratado
+628.477.2	Produção de substâncias industrialmente úteis a
+partir do lixo (p. ex. proteína, álcool). Inclusive
+Produção de proteína, de álcool.
+628.477.3	Emprego de composto na agricultura.
+      -> 631.879 Outros resíduos como fertilizantes
+628.477.4	Requisitos de qualidade para o composto.
+Métodos para avaliar o composto.
+628.477.5	Recuperação, reciclagem e reutilização dos
+resíduos e sucata. Reaproveitamento de sucata.
+      -> 658.567 Tratamento de resíduos, refugos, sobras
+628.477.7	Aproveitamento de cinzas, escória, coque e
+alcatrões residuais da gaseificação.
+      -> 662.613 Produtos de combustão. Resíduos de combustão
+628.477.8	Aproveitamento do calor gerado pelo lixo na incineração.
+628.48	Outras questões.
+628.482	Questões concernentes aos materiais.
+      -> 620.2 Materiais comerciais. Mercadorias. Produtos manufaturados
+628.483	Questões concernentes à corrosão.
+      -> 620.197 Proteção de materiais
+628.5	Medidas contra danos causados
+pelas indústrias e outras causas.
+      -> 613.6 Riscos ocupacionais. Higiene e saúde ocupacionais
+      -> 614.7 Higiene do ar, da água, do solo. Poluição e seu controle
+628.51	Medidas contra danos de vários tipos
+causados pelas indústrias.
+628.511	Medidas contra a poeira.
+      -> 543.275 Determinação de constituintes não-gasosos em suspensões, aerossóis, fumaças, poeiras
+      -> 551.510.4 Composição da atmosfera
+      -> 613.633 Contato com poeira
+      -> 614.715 Poluição por poeira, fumaça
+      -> 62-758.31 Recipientes à prova de poeira
+      -> 62-784.4 Controle da poeira, de partículas transportadas pelo ar
+      -> 621.7.014.8 Formação de farpas, flocos, serragem, poeira e outros produtos residuais
+      -> 621.928.9 Separação, extração e coleta de poeira. Extratores de poeira
+      -> 622.23.057 Dispositivos para remoção de aparas, cavacos, poeira
+      -> 622.411.5 Poeira das minas. Fontes de formação de poeira
+      -> 625.097 Formação da poeira
+      -> 662.613.13 Matéria sólida na fumaça e gases de combustão: fuligem, cinza volátil, coque volátil
+      -> 662.96 Dissipação de fumaça. Diminuição de fumaça. Tratamento de produtos da combustão
+      -> 699.87 Proteção contra diversos efeitos tóxicos, nocivos e biológicos
+628.511.1	Poeira em geral.
+628.511.12	Poeira segundo a origem.
+628.511.122	Poeira como produto final de um processo.
+628.511.123	.        Poeira como subproduto indesejável.
+628.511.124	Poeira de origem geológica
+628.511.125	Poeira de origem cósmica.
+628.511.13	Poeira segundo a natureza e o conteúdo.
+628.511.132             Poeiras orgânicas. Inclusive Poeira de açúcar.
+Poeira de cereais. Pólen.
+628.511.133	Poeiras inorgânicas. Inclusive Poeira metálica.
+Poeira de pedra. Poeira mineral.
+628.511.134	Poeira de rua.
+628.511.135	Poeira têxtil.
+628.511.137            Poeiras compostas.
+628.511.2	Prevenção da formação de poeira.
+628.511.4	Precipitação e filtração da poeira.
+628.512	Medidas contra gases e vapores tóxicos.
+Inclusive ductos exaustores.
+      -> Proteção contra a contaminação atmosférica, a poluição atmosférica
+      -> 623.459.8 Descontaminação
+628.513	Medidas contra infecções, contra emanações
+contaminantes. Medidas contra bactérias.
+      -> 620.266.2 Substâncias patogênicas, infecciosas
+      -> 628.4.046 Lixo que pode transmitir doenças. Lixo contaminado
+628.514	Medidas contra incômodos provocados por
+vapor, vapor de água.
+       -> 628.84 Condicionamento de ar: técnica e instalações
+      -> 697.9 Ventilação. Ar-condicionado 
+628.515	Medidas contra poluição da água.
+      -> 614.777 Água. Higiene da água
+      -> 628.394 Lançamento de esgotos em águas naturais (mares, rios, lagos)
+      -> 628.472.7 Despejo de lixo no mar, lagos ou cursos de água
+      -> 628.541 Descarga de resíduos em cursos de água
+628.516	Medidas contra a poluição do solo.
+      -> 351.777.6 Poluição do ar, do solo, da água
+      -> 628.396 Lançamento de esgotos no solo, em camadas geológicas, em cavernas. Lançamento subterrâneo
+628.517	Medidas contra incômodos acústicos.
+628.517.2              Medidas contra ruídos. Controle de ruídos.
+      -> 351.759.4 Medidas contra perturbações da tranqüilidade pública. Diminuição do ruído
+      -> 656.053.7 Restrições quanto ao ruído do trânsito
+      -> 699.844 Isolamento contra efeitos acústicos, ruídos. Construção à prova de som. Isolamento e absorção de som
+628.517.4	Medidas contra vibrações.
+      -> 699.84 Proteção contra vibração e barulho
+628.518	Medidas contra incômodos de origem óptica,
+elétrica e outros. Medidas contra o calor, as
+altas temperaturas.
+Exemplo(s) de combinação(ões):
+628.518:535.21 Contra a luz. Radiação visível 
+628.518:539.16 Contra radioatividade, radiação ionizante
+628.52	Medidas contra fumaças, emanações,
+cheiros, odores industriais.
+      -> 628.512/514
+      -> 66.099.73 Desodorização
+      -> 699.87 Proteção contra diversos efeitos tóxicos, nocivos e biológicos
+628.521	Localização de fábricas.
+      -> 658.21 Escolha do local. Situação. Localização. Relocalização. Remoção
+628.522	Emprego de chaminés altas.
+-> 624.971 Torres de sustentação livre, auto-sustentadas. Pilastras, pilões (torres de cabo). Mastros de sustentação livre. Grupo de chaminés, etc.
+628.523	Condensação de emanações na água.
+628.524	Combustão de emanações em fornalhas.
+628.53	Medidas contra fumaça e fuligem. Medidas
+para diminuição da fumaça.
+628.532	Contra a fumaça de lareiras.
+628.538	Contra a fumaça de geradores a vapor, casas
+de força,
+628.539	Contra a fumaça de determinadas
+indústrias.
+628.54	Tratamento de resíduos sólidos
+industriais.
+628.541	Descarga de resíduos em cursos de água.
+      -> 628.394 Lançamento de esgotos em águas naturais (mares, rios, lagos)
+      -> 628.472.7 Despejo de lixo no mar, lagos ou cursos de água
+      -> 628.515 Medidas contra poluição da água
+628.542	Enterramento.
+628.545                  Incineração.
+628.55	Condicionamento artificial da atmosfera natural. Inclusive controle da cerração e
+da neblina. Dissipação da cerração. Dissipação de nuvens,
+      -> 551.509.6 Influência artificial sobre o tempo
+628.58	Medidas contra outros incômodos.
+628.58 dividido como 699.8
+628.6	Esgotos e instalações sanitárias
+das edificações (especialmente os requisitos exigidos pela saúde pública).
+      -> 351.778.5 Moradias. Habitação
+      -> 613.5 Higiene da habitação
+      -> 644.68 Instalações e acessórios higiênicos e sanitários
+      -> 645.68 Móveis e equipamentos de banheiros, lavatórios, lavabos
+      -> 696.14 Instalações e acessórios sanitários em construções. Acessórios de sanitários
+628.8	Clima interior. Ar-condicionado.
+Calefação. Ventilação.
+      -> 551.584.6 Criptoclima. Climas de espaços fechados
+      -> 62-784.2 Proteção contra a contaminação atmosférica, a poluição atmosférica
+      -> 622.4 Ventilação, condicionamento de ar, aquecimento e iluminação de minas
+      -> 628.23 Ventilação de esgotos
+      -> 644.1 Climatização. Calefação. Ventilação. Ar-condicionado
+      -> 697 Calefação, ventilação e ar-condicionado nas construções
+Principalmente os aspectos de saúde pública, em especial em grandes espaços, p, ex. túneis, arcadas
+Subdivisões auxiliares especiais
+628.8.02		O fator humano. Influências da presença, da
+ocupação humana. 
+Divisões principais
+628.81	Calefação em geral, especialmente de
+grandes espaços.
+628.82	Refrigeração em geral, especialmente de
+grandes espaços.
+628.83	Ventilação, especialmente de grandes
+espaços. Distribuição e movimento do ar.
+628.84	Condicionamento de ar. Técnica e
+instalações.
+628.85	Critérios físicos que determinam os
+climas interiores: definição, natureza, medição.
+628.852	Temperaturas. Inclusive Temperatura do ar.
+Temperatura da parede. Temperatura média
+radiante.
+628.853	Umidade.
+628.853.2	Umidade absoluta.
+628.853.3	Umidade relativa.
+628.854	Movimento do ar. Circulação do ar.
+Ventilação.
+628.854.2	Velocidade do ar.
+628.854.3	Taxa de ventilação.
+628.86	Critérios compostos que determinam os
+climas interiores: definição, natureza,
+medição.
+628.862	Valores diretamente mensuráveis. Inclusive
+Temperaturas, leituras do termômetro. Valor
+cata (velocidade de resfriamento).
+628.863	Valores deriváveis (não-direta mente
+mensuráveis). Inclusive Valor do conforto.
+628.87	Requisitos de conforto. Regulação do clima
+interior e da temperatura do corpo.
+      -> 612.53 Regulação da temperatura do corpo. Termotaxia
+628.88	Climas interiores ligados a diferentes
+tipos de sistema de calefação, resfriamento
+e ventilação. Medições de instalações.
+628.882	Com aquecedores de aposento
+independentes.
+      -> 697.2 Calefação de ambiente por dispositivos isolados geradores de calor nos aposentos
+628.883	Com sistemas de calefação central que
+empregam ar ou gás quente como condutor
+(não emitido nos aposentos).
+      -> 697.385 Aparelhos emissores de calor projetados para sistemas de circulação indireta de ar ou gás quente
+628.884	Com sistemas de calefação central que
+empregam água quente.
+      -> 697.445 Aparelhos emissores de calor projetados para aquecimento central a água quente a pressão alta
+628.885	Com sistemas de calefação central que
+empregam vapor.
+      -> 697.515 Aparelhos emissores de calor projetados para sistemas de aquecimento central a vapor direto
+628.889	Efeito das medições do clima interior sobre
+as instalações de ventilação e ar-condicionado.
+      -> 697.9 Ventilação. Ar-condicionado
+628.89	Influência do projeto e da estrutura do
+edifício sobre o clima interior.
+628.9	Iluminação. Engenharia da
+iluminação.
+      -> 535 Óptica
+      -> 621.32 Fontes de luz elétrica
+      -> 622.47 Iluminação das minas. Lâmpadas de mineiros
+      -> 683.8 Lâmpadas a combustível ou de chama. Lampiões
+Subdivisões auxiliares especiais
+628.9.02	Luz dos corpos celestes e do céu.
+628.9.021	Luz solar. Luz diurna.
+628.9.025	Luz da Lua.
+628.9.026	Luz das estrelas.
+628.9.03	Fontes de luz luminescente. Inclusive
+Quimioluminescência. Fosforescência.
+Fluorescência. Eletroluminescência.
+      -> 535.37 Luminescência. Fluorescência. Fosforescência. Seus espectros. Excitação e amplificação da radiação
+      -> 661.143 Materiais luminescentes (fotoluminescentes) e fosforescentes. Luminóforos
+      -> 667.526 Tintas de impressão para outras finalidades. Tintas de impressão especiais
+      -> 667.637.4 Revestimentos para fins especiais
+628.9.04	Luz de fontes luminosas artificiais.
+628.9.041                   Luz de fontes luminosas elétricas.
+Especificar por meio de :621.32...
+628.9.041.8	Fontes luminosas combinadas.
+628.9.045	Tochas. Archotes. Velas.
+      -> 662.126 Tochas, archotes como sinais
+      -> 665.14 Fabricação de velas em geral
+      -> 665.194 Tochas (archotes)
+628.9.047	Luz de lâmpadas baseadas na combustão ou
+outras reações químicas (lâmpadas com
+combustíveis sólidos, líquidos ou gasosos).
+      -> 683.8 Lâmpadas a combustível ou de chama, lampiões
+628.9.048	Luz de fontes luminosas atômicas.
+628.9.06	Sistemas e métodos de iluminação.
+628.9.061	Iluminação direta.
+628.9.062	Iluminação indireta (iluminação escondida. Iluminação refletida).
+628.9.063	Iluminação semi-indireta.
+628.9.064	Iluminação dirigida ou projetada. Inclusive Iluminação com refletores (spots). Iluminação com holofotes.
+628.9.066	Transiluminação.
+Divisões principais
+628.91	Técnica de produção de luz.
+628.92/.97	Engenharia da iluminação. Técnica de
+aplicação da luz.
+628.92	Iluminação natural. Iluminação de
+interiores com a luz do dia.
+628.921	Generalidades. Projeto e cálculo. Fator da
+luz do dia (fator do céu).
+628.922	Iluminação lateral em geral.
+628.924	Fenestragem. Localização, número,
+dimensões e distribuição de janelas.
+628.925	Influência das propriedades de transmissão
+da luz dos materiais sobre a iluminação
+natural. Tipo de vidraças.
+628.925.2	Vidraças transparentes.
+628.925.3	Vidraças translúcidas.
+628.925.5	Vidraças prismáticas (vidraças caneladas).
+628.925.7	Efeito da poeira sobre a transmissão de luz
+natural.
+628.926	Influência das propriedades de reflexão dos
+materiais sobre a iluminação natural.
+Inclusive efeito da poeira sobre a reflexão da
+luz natural.
+628.927	Influência das propriedades de difusão dos
+materiais (e do vapor, neblina, fumaça, etc.)
+sobre a iluminação natural.
+628.928	Iluminação do alto (de cima). Inclusive Iluminação do telhado. Iluminação por clarabóias.
+628.93	Iluminação artificial.
+628.932	Emprego de fontes focais, fontes lineares,
+fontes em plano ou superfície ou difusores.
+628.932.1	Emprego de fontes em linha. Inclusive
+iluminação com tubos fluorescentes.
+628.932.2	Emprego de fontes no plano ou na superfície ou
+difusores. Inclusive iluminação em painel.
+628.932.3	Uso de fontes focais. Inclusive lâmpadas
+comuns.
+628.933	Uso de difusores tridimensionais.
+Inclusive Globos.
+628.935	Influência das propriedades de transmissão
+de luz dos materiais sobre a iluminação
+artificial. Inclusive efeito da poeira sobre a
+transmissão artificial de luz.
+628.936	Influência das propriedades de reflexão dos
+materiais sobre a iluminação artificial.
+628.937	Influência das propriedades de difusão dos
+materiais (e do vapor, neblina, fumaça, etc.)
+sobre a iluminação artificial.
+628.938	Influência da cor da luz na iluminação
+artificial.
+628.94	Luminárias (lâmpadas, armações de luz). Projetores de luz. Dispositivos de direcionamento do feixe de luz.
+	      Classificar aqui as armações completas. Indicar as fontes e os sistemas de iluminação por .02/.06
+628.941	Luminárias fixas.
+628.941.3	Luminárias de teto.
+628.941.4	Luminárias de parede.
+628.941.6	Luminárias de pé, fixas.
+628.941.8               	Luminárias pendentes.
+628.943	Luminárias móveis ligadas à rede principal (elétrica ou de gás). Inclusive luminárias de
+mesa, abajures de mesa. Luminárias de pé, abajures de pé.
+628.944	Lâmpadas portáteis (a pilhas, baterias, ou com abastecimento de combustível portátil).
+Inclusive Lanternas de mão.
+628.946	Projetores de luz.
+628.946.1	Projetores de espelho, refletores.
+628.946.2	Projetores de lente.
+628.946.3	Projetores combinados de espelho e lente.
+628.946.8                 Acessórios para refletores, projetores e refratores.
+628.947	Refletores sem fonte de luz própria.
+628.948	Arranjos na construção. Dispositivos,
+armações estruturais. Inclusive Nichos.
+Telas. Tetos de vidro.
+628.95	Acessórios para as armações de
+iluminação. Peças, materiais, etc.
+628.952	Abajures. Quebra-luzes. Difusores.
+Armações decorativas para pendurar as
+lâmpadas.
+      -> 535.345.6 Filtros de luz
+628.953	Guias de luz como parte dos dispositivos de iluminação.
+628.955	Materiais para armações de luz.
+Características ópticas dos materiais.
+      -> 666.24/.26
+628.97	Iluminação segundo o objeto iluminado.
+Iluminação para finalidades especiais.
+628.971	Iluminação de exteriores.
+      -> 625.745.8 Suportes para iluminação de ruas.
+      -> 725.94 Monumentos. Memoriais. Ornamento das ruas. Estruturas isoladas diversas (como características
+      arquitetônicas)
+628.971.6	Iluminação fixa de rua.
+628.971.7	Iluminação de praças para eventos públicos.
+Iluminação de quadras desportivas, estádios, etc.
+628.971.8	Iluminação de espaços para transporte e
+comunicação (exceto a iluminação fixa de rua).
+Inclusive Iluminação de áreas de
+estacionamento, pistas de aeroportos, estações
+de terminais ferroviários e rodoviários,
+depósitos.
+628.971.9	Iluminação para trabalho externo.
+628.972	Iluminação de interiores em geral.
+628.973	Iluminação de interiores visando
+principalmente a criar ambiente.
+Iluminação para criar estados de espírito
+especiais. Iluminação para efeito psicológico
+e estético.
+628.973.1	Iluminação doméstica. Iluminação das
+residências, moradias, restaurantes, etc.
+628.973.2	Iluminação de lojas, de vitrinas de lojas, de salas
+de exposições.
+628.973.3	Iluminação de teatros, cinemas, etc.
+628.973.4	Iluminação de museus, galerias de arte, etc.
+628.973.5	Iluminação de igrejas.
+628.974	Iluminação festiva. Iluminação para
+publicidade, propaganda. Uso arquitetônico
+da iluminação.
+628.974.6		Iluminação e luzes festivas (p. ex. de parques, parques de diversões, jardins públicos). Iluminação para realce de 
+                                    edifícios públicos, fontes, etc.
+628.974.7	Iluminação para publicidade, propaganda. Letreiros luminosos (placas, letreiros de neon,
+etc.).
+      -> 659.135 Publicidade e propaganda com emprego de luzes (e efeitos luminosos)
+628.974.8	Uso arquitetônico da iluminação.
+628.975	Iluminação para sinalização, sinais de advertência, avisos, de direção.
+-> 627.71 Instalações de navegação. Equipamento e materiais de apoio para navegação. Marcação das áreas para navegação
+      -> 627.72 Sinalização náutica. Sinais
+      -> 654.91 Sinalização óptica, visual
+      -> 656.054/.055
+      -> 656.25 Medidas de segurança. Sinais
+628.976	Iluminação de áreas de trabalho exceto a
+iluminação de aposentos em geral.
+Iluminação localizada (para trabalhos,
+estudos que requerem concentração).
+Inclusive Lâmpadas de trabalho. Lâmpadas
+de leitura. Lâmpadas de escrivaninha.
+Lâmpadas em máquinas.
+      -> 53.085.49 Iluminação de balanças
+628.977	Iluminação de interior predominantemente para trabalho.
+628.977.1	Iluminação de fábricas, oficinas, salas de trabalho.
+628.977.2	Iluminação de escritórios, escritórios de
+desenho, salas de arte, salas de aula, bibliotecas, bilheterias, etc.
+628.977.4	Iluminação para serviços de saúde e tratamento
+médico. Inclusive Iluminação de hospitais.
+628.977.7	Iluminação de grandes anfiteatros, salas de
+reunião, etc.
+628.977.8	Iluminação interna de veículos. Iluminação de
+instalações de tráfego, garagens, caixas de sinais
+luminosos, etc.
+628.978	Iluminação para fins especiais.
+628.978.3	Iluminação fluorescente.
+625.978.6	Iluminação de emergência. Iluminação de
+segurança com reserva de força (gerador).
+628.978.7	Iluminação preventiva contra ataques aéreos. Iluminação obscurecida em blecautes.
+      -> 355.585 Medidas de defesa passiva
+628.979	Efeitos específicos da iluminação. Efeitos
+sobre os seres humanos, sobre outros
+organismos.
+Exemplo(s) de combinação(ões):
+628.979:159.93 Iluminação e psicologia da percepção sensorial. Efeito psicológico da iluminação sobre os seres humanos 628.979:612.014.44 Efeito fisiológico da iluminação sobre os seres humanos
+628.98		Avaliação da luz (aspectos físicos, técnicos, econômicos, fisiológicos e psicológicos).
+628.981		Avaliação das fontes de luz.
+Exemplo(s) de combinação(ões):
+                                       628.981:621.326 Avaliação da luz de lâmpadas elétricas incandescentes, lâmpadas de filamento
+628.984	Avaliação de luminárias (lâmpadas, instalações de iluminação, armações).
+628.987	Avaliação de instalações de iluminação, de sistemas completos. 
+	Exemplo(s) de combinação(ões):
+628.987:628.977.2:744.2 Avaliação das instalações de iluminação em escritórios de desenho
+ 
+
+629 Engenharia de veículos de transporte
+
+      -> 625 Engenharia civil de transportes terrestres. Engenharia ferroviária. Engenharia rodoviária
+      -> 656 Serviço de transporte e serviços postais. Organização e controle do tráfego
+       Os auxiliares especiais .0 relacionados em 629.0... são aplicáveis em toda a classe 629. Eles
+  fornecem uma estrutura comum para os auxiliares. O mais específicos que estão relacionados
+ em cada divisão principal de 629 e que diferem em detalhes para se adaptarem às categorias
+  principais dos veículos (terrestres, ferroviários, aquáticos, aéreos)
+ Dois ou mais auxiliares .0 podem ser diretamente combinados sob um número principal
+ Os detalhes das características, componentes, operação e comando, fontes de energia, etc. das
+ máquinas podem ser especificados por -1/-9 (de 62-1/-8 e 66-9), quando não estiverem
+ enumerados nos auxiliares .0
+ 
+Subdivisões auxiliares especiais
+629.01	Princípios do projeto do veículo:
+características, possibilidades, testes.
+629.012	Dimensões. Projeto dimensional dos
+veículos.
+629.013	Pesos. Tonelagem. Capacidade. Carga útil.
+629.014	Possibilidades funcionais. Modo de uso.
+Usar os auxiliares 629.014... somente para possibilidades ou usos especiais ou ocasionais que não estiverem previstos nas subdivisões diretas de 629.3/.9
+629.014.1	Possibilidades funcionais gerais. Inclusive Multifuncional. Múltiplas finalidades.
+      -> 629.9 Veículos conversíveis, projetados para uso normal em um ou mais de um meio
+629.014.17	Anfíbios.
+      -> 629.94 Veículos para viagem em terra ou água. Veículos anfíbios
+629.014.2	Veículos ativos. Inclusive Veículos tratores (de reboque), empurradores, carregadores, de
+lançamento.
+629.014.3	Veículos passivos. Inclusive Veículos rebocados,
+empurrados, carregados, lançados.
+629.014.4	Comboios (de veículos ativos e passivos).
+629.014.5	Veículos articulados.
+629.014.6	Veículos de passageiros em geral.
+629.014.7	Veículos de carga em geral.
+629.014.8	Veículos projetados para fins especiais.
+629.015	Mecânica e dinâmica em relação ao meio, ao
+ambiente.
+629.016	Características, capacidade de desempenho.
+Avaliação.
+629.017	Confiabilidade operacional, adequação ao
+uso. Inclusive Estabilidade. Capacidade de
+controle. Capacidade de manobra.
+Capacidade de frenagem.
+629.018	Procedimentos e equipamento para testes de
+veículos.
+      -> 629.072 Operações de direção, navegação, pilotagem em geral. 
+      -> 629.081 Instalações e equipamento de oficinas, galpões ou depósitos de veículos
+      -> 629.086 Equipamento e técnicas de base para controle e testes em viagem: rastreamento, etc.
+629.02	Estrutura, princípios de construção,
+disposição geral e partes dos veículos.
+      -> 674.25 Marcenaria de veículos. Marcenaria de construção de carruagens
+629.021	Princípios e propriedades de construção (do
+todo ou partes).
+629.022	Disposição geral, configuração, relação das
+partes com todo o veículo.
+629.023	Estrutura, chassi do veículo. Partes
+estruturais.
+629.024	Carroceria.
+629.025	Estruturas de veículos especiais.
+629.026	Disposição das estruturas da unidade de
+propulsão.
+      -> 629.03 Sistemas de propulsão
+629.027	Estruturas de suporte, suspensão,
+amortecimento de choques. Rodas, etc.
+629.028	Acessórios. Acoplamentos. Suportes e outras
+estruturas auxiliares.
+629.03	Sistemas de propulsão.
+Especificar por meio de -8..., de 62-8 e/ou :62l...
+      -> 629.026 Disposição das estruturas da unidade de propulsão
+629.031	Sistemas de propulsão que utilizam forças
+musculares e naturais.
+629.032	Sistemas de acionamento ou propulsão das
+rodas.
+629.033	Sistemas de propulsão para tipos especiais
+de veículo, p. ex. propulsão em trilhos e
+cremalheira e pinhão.
+629.034	Sistemas de propulsão para tipos especiais
+de veículo, p. ex. propulsão por cabo,
+corrente e mecanismo do tipo de parafuso
+sem fim.
+629.035	Sistemas de propulsão a hélice.
+629.036	Sistemas de propulsão a foguete ou jato.
+629.038	Sistemas de propulsão combinada.
+629.04	Desenho interno: acomodação, instalações,
+equipamento para passageiros e carga.
+      -> 629.06 Sistemas e dispositivos auxiliares dos veículos
+      -> 674.25 Marcenaria de veículos. Marcenaria de construção de carruagens
+629.042	Desenho interno e acabamento, Compartimentos. Cabines, etc.
+629.043	Instalações, locais e alojamento da tripulação. Compartimento de controle.
+629.044	Dispositivos de entrada e saída. Inclusive Passadiços. Escadas.
+629.045	Carga: dispositivos para carregamento, descarregamento, armazenamento e amarração.
+629.046	Dispositivos para conforto, serviço e higiene dos passageiros.
+Especificar por meio de :64... e :684...
+629.047	Instalações e equipamento de proteção e
+segurança pessoal.
+Especificar por meio de  :614.8...
+      -> 629.067 Sistemas de segurança e proteção de veículos
+629.048	Sistemas de acondicionamento. Iluminação.
+      -> 628.8/.9
+      -> 697 Calefação, ventilação e ar-condicionado nas construções
+629.048.3	Ar-condicionado.
+629.048.4	Ventilação.
+629.048.7	Calefação. Controle de temperatura,
+629.048.8	Iluminação.
+629.05	Sistemas de direção, controle de partida,
+instrumentos e sistemas de navegação
+(instalados no veículo).
+      -> 629.062 Sistemas de ligação e reforço do comando. Servocontroles
+      -> 629.066 Equipamento de observação, sinalização, comunicação e identificação
+629.051	Princípios e finalidade dos sistemas de direção e navegação.
+629.052	Meios de operação dos sistemas de direção.
+629.052.2	Sistemas acústicos. Inclusive Sonar. Sistemas de
+eco.
+-> 681.883 Métodos e equipamento de sonar. Localização de objetos subaquáticos. Sondagem e localização por meio do eco
+629.052.3	Sistemas de rádio, inclusive televisão e radar.
+Sistemas de laser
+	Exemplo(s) de combinação(ões):
+	      629.052.3:621.396.75 Uso de estações radiogoniométricas. Estações de determinação de direção pelo rádio
+	      629.052.3:621.396.93 Radiocomunicação com veículos terrestres, embarcações, aeronaves. Inclusive transmissores de sinais.
+      Radiofaróis. Controle de terra
+      629.052.3:621.396.96 Radar (radiolocalização)
+      629.052.3:621.396.962.3 Radar por onda de pulso modulado
+629.052.4	Sistemas eletromagnéticos.
+629.052.5	Sistemas infravermelhos.
+629.052.6	Sistemas ópticos.
+629.052.7	Sistemas por inércia.
+629.052.9	Outros sistemas ou meios de operação.
+629.053	Sistemas especiais de controle para determinados tipos de veículos.
+629.054	Instrumentos instalados nos veículos.
+      -> 53.08 Princípios gerais e teoria da medição e projeto dos aparelhos de medição. Métodos de medição
+      -> 621.317 Medição elétrica (métodos e aparelhos)
+                                      -> 681.2 Fabricação de instrumentos em geral. Instrumentação. Instrumentos de medição e sua fabricação.
+                                     Balanças. Mecanismos de pesagem
+629.056		Meios de operação de sistemas de navegação.
+629.056.2	Sistemas de navegação astronômica (celeste).
+      -> (083.5) Tabelas de dados técnicos. Tabelas de cálculo. Tabelas de conversão 
+      -> 681.786.3 Medição angular e instrumentos de dividir
+629.056.6	Sistemas de navegação inercial.
+629.056.8	Sistemas de navegação por satélite.
+629.056.82	Sistemas Doppler (p. ex. TRANSIT).
+629.056.84	Sistemas de diferença de tempo.
+629.058                   Características operacionais (dos sistemas e instrumentos).
+629.06                     Sistemas e dispositivos auxiliares dos veículos.
+      -> 629.04 Desenho interno: acomodação, instalações, equipamento para passageiros e carga
+629.062                   Sistemas de ligação e reforço do comando. Servocontroles, etc.
+        -> 629.05 Sistemas de direção, controle de partida, instrumentos e sistemas de navegação (instalados no veículo)
+629.063                   Sistemas auxiliares de abastecimento e alimentação.
+Especificar por meio de -6/-72, de 62, e de : 62!. 6...
+629.063.2                Sistemas de suprimento e alimentação de gás.
+629.063.4                  Sistemas de suprimento e alimentação de água.
+629.063.6                  Sistemas de suprimento e alimentação de combustível.
+629.063.7		Sistemas de suprimento e alimentação de lubrificante.
+629.064                   Sistemas auxiliares de força em geral.
+629.064.2	Sistemas pneumáticos.
+629.064.3	Sistemas hidráulicos.
+629.064.5                Sistemas elétricos.
+                                          Especificar  por meio de :621.3...
+629.064.7                Motores auxiliares.
+629.065	Equipamento para manipulação de
+materiais. Inclusive sistemas e dispositivos
+de reabastecimento de combustível.
+Sistemas e dispositivos de reabastecimento
+de víveres.
+       Especificar por meio de :621-86/-87
+      -> 629.045 Carga: dispositivos para carregamento, descarregamento, armazenamento, e amarração
+629.066		Dispositivos de observação, sinalização, comunicação e identificação.
+      -> 629.05 Sistemas de direção, controle de partida, instrumentos e sistemas de navegação (instalados no 
+                      veículo)
+629.067	Sistemas de segurança e proteção de
+veículos.
+     Especificar por meio de :614.8... e :656.08
+              -> 629.047 Instalações e equipamento de proteção e segurança pessoal
+629.069		Outros sistemas auxiliares que fazem parte
+do veículo. Inclusive Sistemas de armamento.
+629.07	Aspectos técnicos das operações de veículos
+(técnicas operacionais) inclusive
+desempenho.
+      Utilizar .0"...para indicar equipamento.dispositivos, modificações técnicas e/c
+      para as operações relacionadas
+              -> 629.01 Princípios do projeto do veículo: características, possibilidades, testes
+                                               Para os aspectos não-técnicos, usar 656.052
+629.071                    Operações e preparativos preliminares. Operações posteriores à chegada, à parada.
+629.072		Operações de direção, navegação, pilotagem em geral. Inclusive Marchas de ensaio. Marchas de experiência. 
+                               Treinamento.
+629.072.1	Navegação. Planejamento da rota.
+629.072.11	Princípios da navegação.
+629.072.112	Mapeamento da rota.
+629.072.114	Cálculo de posição (sem uso de observações astronômicas).
+629.072.116	Linhas de posição (linhas de Sumner). Fixas.
+629.072.12	Determinação de diferentes características.
+629.072.122	Determinação da posição geográfica.
+629.072.124	Determinação da altura acima do nível do mar.
+629.072.126	Determinação do azimute.
+629.072.128	Determinação da elevação. Inclusive Elevação a partir de um ponto fixo.
+629.072.15	Determinação da posição relativa.
+629.072.152	Direção. Ângulo de direção. Distância.
+629.072.154	Altura acima do solo.
+      Usar com 629.7
+629.072.17	Determinação da velocidade.
+629.072.172	Velocidade no solo. Velocidade no ar. Velocidade no mar.
+629.072.174	Ângulo e taxa de subida ou descida.
+      Usar com 629.7
+629.072.18	Planejamento da rota.
+629.072.182	Navegação de círculo máximo.
+      Usar com 629.5
+629.072.184	Navegação de loxodromia.
+      Usar com 629.5
+629.072.19	Retorno.
+629.073	Técnicas operacionais para condições especiais, p. ex. condições atmosféricas, estado da estrada ou do   
+terreno, falha do motor.
+629.073 dividido como 656.052.5
+629.075                   Técnicas de partida. Operações para começar a se mover, para zarpar, para decolar, ser lançado, etc.
+      -> 629.085 Equipamento e técnicas básicas para partida, decolagem, lançamento
+629.076	Operações durante a viagem, a caminho.
+629.077	Técnicas de chegada. Operações para redução da velocidade e parada, atracação, aterrissagem, etc.
+      -> 629.087 Equipamento e técnicas de base para parada, redução de velocidade, aterrissagem
+629.078	Operações de manutenção do veículo a
+bordo (pela tripulação).
+629.08	Equipamento, instalações de base e
+procedimentos técnicos correspondentes. 
+      -> 656.06 Serviços auxiliares
+      -> 725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de 
+      serviços públicos
+629.081	Instalações e equipamento de oficinas,
+galpões ou depósitos de veículos.
+      -> 629.018 Procedimentos e equipamento para testes de veículos
+629.082	Instalações, depósitos e armazéns para serviços subsidiários ou de abastecimento (para combustível, água, etc.).
+629.083	Manutenção, serviços e conserto de veículo.
+629.084	Peças sobressalentes e reposições. Inclusive Saída do material. Almoxarifado. Controle de estoque.
+      -> 658.78 Administração dos estoques e almoxarifados. Armazenamento. Expedição
+629.085	Equipamento e técnicas básicas para partida:
+decolagem, lançamento.
+      -> 629.075 Técnicas de partida. Operações para começar a se mover, para zarpar, para decolar, ser lançado, etc.
+629.086	Equipamento e técnicas de base para
+controle e testes em viagem: rastreamento, etc.
+      -> 629.018 Procedimentos e equipamentos para testes de veículos
+       -> 629.076 Operações durante a viagem, a caminho.
+629.087	Equipamento e técnicas de base para parada,
+redução de velocidade, aterrissagem.
+      -> 629.077 Técnicas de chegada. Operações para redução da velocidade e parada, atracação, aterrissagem, etc.
+Divisões principais
+629.3	Engenharia de veículos terrestres
+(exceto veículos sobre trilhos).
+      -> 621.86/.87 Tecnologia da manipulação de materiais. Equipamento de transporte
+      -> 623.43 Viaturas e reparos para armas. Viaturas militares
+Subdivisões auxiliares especiais
+629.3.01	Projeto do veículo: princípios, características,
+capacidades, testes.
+629.3.012	Dimensões. Projeto dimensional.
+629.3.012.2	Comprimento.
+629.3.012.21         Base das rodas, distância entre os eixos.
+629.3.012.3	Largura.
+629.3.012.31	Bitola.
+629.3.012.4	Altura.
+629.3.012.5	Medidas de volume.
+629.3.013	Pesos. Capacidade. Tonelagem. Carga útil.
+629.3.013.1	Peso do veículo (peso de construção).
+629.3.013.4	Peso total.
+629.3.013.5	Capacidade de carga. Carga útil. Tonelagem.
+629.3.013.521	Tonelagem Imita.
+629.3.013.522	Tonelagem líquida,
+629.3.013.55	Capacidade de carga.
+629.3.013.56	Carga útil.
+629.3.014	Possibilidades funcionais e modo de utilização
+dos veículos.
+Usar os auxiliares relacionados em 629.014... somente para possibilidades ocasionais ou especiais ou aplicações não discriminadas nas subdivisões diretas de 629.3
+629.3.015	Mecânica e dinâmica em relação ao meio.
+       -> 625.03 Interação entre o veículo e a pista ou rodovia: pesquisa, experiências, etc.
+Para mecânica como tal, usar 531/534
+629.3.015.3	Aerodinâmica.
+629.3.015.4	Requisitos de resistência.
+629.3.015.5	Vibrações. Prevenção e controle de vibrações.
+      -> 629.3.027.3 Molas. Suspensão. Amortecedores de choques.
+629.3.015.6	Ruídos. Prevenção e controle de ruídos.
+629.3.016	Desempenho.
+629.3.016.3	Alcance.
+629.3.016.5	Velocidade.
+629.3.016.8	Características e recursos em condições
+especiais.
+629.3.017	Confiabilidade operacional. Desempenho na
+estrada.
+629.3.017.2	Estabilidade.
+629.3.017.3	Manobrabilidade.
+629.3.017.5	Capacidade de frenagem.
+629.3.018	Procedimentos e equipamento para testes de
+veículos.
+629.3.018.2	Equipamento laboratorial e especial. Bancada de
+testes.
+      -> 629.3.081.3 Equipamento
+629.3.018.4	Testes de resistência: fadiga, vibração, impacto, etc.
+629.3.018.7	Testes de funcionamento e operação.
+629.3.02	Estrutura do veículo.
+      -> 674.25 Marcenaria de veículos. Marcenaria de construção de carruagens
+Os motores estão em 621
+As partes não relacionadas em 629.3.0  podem ser indicadas pelos auxiliares -1/-9 (de 62-1/-8 e 66-9) em combinação com .02 ou suas subdivisões 
+Exemplo(s) de combinação(ões):
+629.3.02-59 Dispositivos de frenagem
+629.3.021	Princípios e propriedades da construção (do
+todo ou das partes).
+629.3.021.2	Tipos de construção de veículos.
+629.3.021.21	Veículos com corpo e infra-estrutura separados,
+629.3.021.24	Construção monocoque ou tubular.
+629.3.021.242	Construção monocoque.
+629.3.021.243	Construção tubular.
+629.3.022	Desenho e configuração geral. Relação das
+partes com o todo. Leiaute.
+629.3.022.4	Veículos segundo o número de rodas, esteiras,
+sapatas, etc.
+Usar especialmente quando o número difere do número usual para o tipo de veículo 
+Exemplo(s) de combinação(ões):
+629.322.022.44 Velocípedes de quatro rodas 
+629.331.022.43 Carros de três rodas
+629.3.022.41	De uma roda, de uma esteira, etc.
+629.3.022.42	De duas rodas, duas esteiras, etc.
+629.3.022.43	De três rodas, três esteiras, etc.
+629.3.022.44	De quatro rodas, quatro esteiras, etc.
+629.3.022.45	De cinco rodas, cinco esteiras, etc.
+629.3.022.46	De seis rodas, cinco esteiras, etc.
+629.3.022.48          Com rodas múltiplas, múltiplas esteiras, etc.
+629.3.023	Chassi, infra-estrutura e elementos estruturais.
+629.3.023.1	Chassi.
+629.3.023.11	Estrutura (completa) do chassi.
+629.3.023.12	Calha longitudinal.
+629.3.023.13	Travessão.
+629.3.023.15         Ligações da estrutura.
+629.3.023.151        Ligações para suspensão do motor.
+629.3.023.153        Ligações para suspensão das rodas.
+629.3.023.2	Corpo e componentes de construção do corpo.
+Exemplo(s) de combinação(ões):
+629.3.023.2-036.5/.8 Corpo de material sintético
+629.3.023.21	Estrutura do corpo como um todo.
+629.3.023.211	Arcos e esteios.
+629.3.023.212	Elementos de conexão (peças de conexão
+transversal).
+629.3.023.22	Tetos. Paredes. Partições. Enchimentos.
+629.3.023.23	Lonas. Capotas dobráveis. Capotas
+conversíveis.
+629.3.023.24	Piso. Escotilhas de piso.
+629.3.023.25	Portas. Escotilhas. Persianas. Fechaduras.
+Degraus. Estribos.
+629.3.023.26	Janelas. Pára-brisas. Vidraças de janela.
+Acessórios de janelas..
+Exemplo(s) de combinação(ões):
+629.3.023.26-787.3 Limpadores de pára-brisas
+629.3.023.27	Peças de conexão do piso. Plataformas.
+Equipamento de transição para veículos
+articulados.
+629.3.023.29         Outras partes do corpo do veículo.
+629.3.023.9	Revestimentos da superfície.
+629.3.024	Formas do corpo (construção).
+629.3.024.1	Formas do corpo.
+629.3.024.11	De um único piso.
+629.3.024.12	De um piso e meio.
+629.3.024.13	De dois pisos.
+629.3.024.18         De pisos múltiplos.
+629.3.024.3	Dianteira.
+629.3.024.4	Parte de cima.
+629.3.024.5	Lado.
+629.3.024.6	Seções.
+629.3.024.61	Seções longitudinais.
+629.3.024.62	Seções transversais.
+629.3.024.7	Traseira.
+629.3.024.8	Fundo.
+629.3.025	Estruturas especiais para veículos terrestres. Placas defletoras de ar.
+629.3.025.2	Estabilizadores.
+629.3.025.3	Spoilers.
+629.3.026	Desenho, posicionamento das unidades de força.
+629.3.026.1	Unidades de força na frente do veículo.
+629.3.026.11	Paralelas à direção.
+629.3.026.12	Unidades de transferência.
+629.3.026.13	Inclinadas no sentido da direção.
+629.3.026.2	Unidades de força no centro do veículo.
+629.3.026.3	Unidades de força na traseira do veículo.
+629.3.026.4	Unidades de força sob o piso.
+629.3.027	Estruturas de apoio, suspensão e amortecedoras
+de choque. Rodas, etc.
+629.3.027.1	Eixos e partes (eixos de apoio, partes rotativas).
+629.3.027.11	Eixo dianteiro.
+629.3.027.12	Eixo traseiro.
+629.3.027.14	Truques.
+629.3.027.18	Garfos de bicicletas ou motocicletas.
+629.3.027.2	Mecanismo de direção.
+      629.3.027.2 dividido como 621.83
+629.3.027.233.8	Direção de parafuso sem fim.
+629.3.027.3	Molas, Suspensão. Amortecedores de choques.
+Especificar por meio de -272... ou -567...
+629.3.027.4	Rodas.
+Indicar os materiais por meio de -03... (Tabela 1k)
+629.3.027.41	Rodas segundo a função.
+629.3.027.412	Rodas de transmissão, rodas motrizes.
+629.3.027.414	Rodas de tração.
+629.3.027.415	Rodas de direção.
+629.3.027.418	Rodas sobressalentes.
+629.3.027.42	Rodas segundo a posição.
+629.3.027.421	Posição em relação ao veículo.
+629.3.027.421.1	Rodas dianteiras.
+629.3.027.421.3	Rodas centrais.
+629.3.027.421.5	Rodas traseiras.
+629.3.027.422	Número de rodas em combinação.
+629.3.027.422.1	Rodas simples, únicas.
+629.3.027.422.3	Rodas duplas, gêmeas. Rodas em ruir.
+629.3.027.422.5	Rodas múltiplas.
+629.3.027.44	Rodas segundo o tipo.
+629.3.027.441	Rodas fixas.
+629.3.027.443	Rodas removíveis, destacáveis.
+629.3.027.445	Rodas com molas, montadas elasticamente.
+629.3.027.45	Rodas segundo a forma.
+629.3.027.451	Rodas retas.
+629.3.027.453	Rodas abauladas.
+629.3.027.454	Rodas em disco.
+629.3.027.455	Rodas com raios.
+629.3.027.48	Componentes de rodas.
+629.3.027.481	Aros.
+629.3.027.481.1	Fixos.
+629.3.027.481.2	Destacáveis.
+629.3.027.481.3	Divididos.
+629.3.027.482	Componentes dos aros.
+629.3.027.483	Raios.
+629.3.027.484	Discos.
+629.3.027.485	Cubos da roda.
+629.3.027.487	Parafusos e porcas da roda.
+629.3.027.5	Pneus.
+629.3.027.51	Pneus segundo o tipo.
+629.3.027.511	Pneus rígidos.
+629.3.027.512	Pneus elásticos.
+629.3.027.513	Pneus sólidos.
+629.3.027.514	Pneus infláveis.
+629.3.027.514.1	Com câmara de ar.
+629.3.027.514.2	Sem câmara de ar.
+629.3.027.514.3	Diagonais.
+629.3.027.514.4	Radiais.
+629.3.027.52	Componentes de pneus.
+629.3.027.521	Cobertura externa, revestimento.
+629.3.027.521.1	De tecido.
+629.3.027.521.2	De borracha com tecido embutido.
+629.3.027.521.3	Com fio, cabo metálico embutido.
+629.3.027.521.4          Com camada interna protetora, resistente a furos.
+629.3.027.522	Flange. Aro.
+629.3.027.523	Perfil. Banda de rodagem.
+629.3.027.523.1	Para muitas finalidades.
+629.3.027.523.2	Perfil para neve.
+629.3.027.523.3	Perfil para terra.
+629.3.027.523.4	Lisos.
+629.3.027.524	Câmaras internas.
+629.3.027.525	Válvulas.
+629.3.027.526	Dispositivos de reparo. Petrechos para remendar furos.
+629.3.027.53	Desenho geral.
+629.3.027.531	Pneus segundo a construção.
+629.3.027.531.1           Pneus moldados em uma só peça.
+629.3.027.531.2	Pneus com proporção entre altura largura.
+629.3.027.531.3	Pneus com banda de rodagem intercambiável.
+629.3.027.532	Pneus segundo a pressão.
+629.3.027.532.1          Pneus de pressão alta.
+629.3.027.532.2	Pneus de pressão média.
+629.3.027.532.3	Pneus de pressão baixa.
+629.3.027.533	Pneus com propriedades especiais para emergências.
+629.3.027.533.1           Pneus cheios de bolas de borracha, molas, etc.
+629.3.027.533.2	Pneus cheios de espuma.
+629.3.027.533.3	Pneus cheios de gás.
+629.3.027.533.4	Pneus cheios de líquido.
+629.3.027.533.5	Pneus de câmaras múltiplas.
+629.3.027.533.6	Proteção contra furos, danos ao pneu. Agarradores de pregos.
+629.3.027.534	Pneus autovedantes.
+629.3.027.535	Pneus com reforços (internos ou externos).
+629.3.027.54	Dispositivos diversos para pneus.
+629.3.027.542	Dispositivos de indicação.
+629.3.027.542.2	Dispositivos para indicar desgaste.
+629.3.027.542.3	Dispositivos para indicar perda de pressão.
+629.3.027.542.4	Dispositivos para indicar temperatura.
+629.3.027.543	Dispositivos para evitar derrapagens.
+629.3.027.543.2	Cravos. Espigões.
+629.3.027.543.3	Correntes.
+629.3.027.6	Apoios. Inclusive Plataformas. Pernas de
+estabilização. Dispositivos de equilíbrio.
+629.3.027.7	Peças que substituem as rodas.
+629.3.027.71	Esquis. Sapatas.
+629.3.027.72	Cilindros.
+629.3.027.73	Esferas.
+629.3.027.74	Esteiras.
+629.3.027.75	Mecanismos de passo.
+629.3.027.8	Tampas e coberturas de proteção contra poeira
+(para rodas, trem de rodas).
+      Especificar por meio de -76... 
+Exemplo(s) de combinação(ões):
+      629.3.027.8-763 Pára-lamas
+629.3.028	Engates, montagens e outras construções
+auxiliares.
+629.3.028.3	Engates. Engate entre o reboque e o caminhão
+(exceto veículos articulados).
+629.3.28.32	Engates de reboque. 
+629.3.028.34               Engates para tubulações de ar, gás, combustível, etc.
+629.3.028.4	Montagens.
+629.3.03	Sistemas de propulsão.
+Indicar outras características dos motores com 62-..., especialmente 62-8..., especificando por meio de .621
+629.3.031	Sistemas de propulsão que utilizam a força
+muscular e forças naturais.
+629.3.031.2	Propulsão pela força muscular.
+629.3.031.3	Propulsão eólica.
+629.3.032	Propulsão por rodas de tração.
+629.3.032.2                Configuração das rodas de tração.
+629.3.032.22              Tração no eixo traseiro. Tração nas rodas
+traseiras. 
+629.3.032.24               Tração no eixo dianteiro. Tração nas rodas
+dianteiras. 
+629.3.032.26               Tração em mais de um eixo. Tração a quatro
+rodas. Tração a seis rodas.
+629.3.033	Sistemas de propulsão por meio de superfície de
+contato exceto rodas, p. ex. esteira.
+629.3.035	Propulsão a hélice.
+      629.3.035 dividido como 629.7.035
+629.3.036	Propulsão a reação ou a jato.
+629.3.036 dividido como 629.7036
+629.3.038	Sistemas combinados de propulsão.
+629.3.04	Desenho interno. Acomodação. Instalações e
+equipamento (para passageiros e carga).
+      -> 674.25 Marcenaria de veículos. Marcenaria de construção de carruagens
+629.3.042	Desenho e acabamento interno.
+629.3.042.1	Compartimentos.
+629.3.042.2	Cabines.
+629.3.043	Instalações para a tripulação. Compartimento de controle. Cabina de direção.
+629.3.044	Dispositivos de entrada/saída. Dispositivos de subir/descer do veículo.
+629.3.045	Dispositivos para carga/descarga, estocagem e amarração da carga.
+629.3.046	Instalações para conforto, serviço e higiene dos passageiros.
+      Especificar por meio de :64... ou de :684... 
+Exemplo(s) de combinação(ões):
+       629.3.046:684.434.7 Assentos
+      -> 656.075 Serviços domésticos nos transportes
+629.3.047	Instalações e equipamento para segurança e proteção pessoal.
+      -> 614.86 Acidentes de trânsito
+      -> 629.3.067 Sistemas de segurança e proteção de veículos
+629.3.047.1	Dispositivos de contenção do corpo.
+629.3.047.12               Bolsas de ar (airbags).
+629.3.047.14	Cintos de segurança.
+629.3.047.16	Contenção de crianças.
+629.3.047.2	Dispositivos de saída de emergência.
+629.3.048	Sistemas de acondicionamento. Iluminação.
+      -> 628.8/.9
+629.3.048.3	Ar-condicionado.
+629.3.048.4	Ventilação.
+629.3.048.7	Aquecimento, calefação.
+629.3.048.8	Iluminação.
+      -> 629.3.066.2 Iluminação externa
+629.3.05	Sistemas e instrumentos (instalados no veículo)
+para partida, orientação e navegação.
+629.3.051	Princípios e finalidade dos sistemas de navegação e orientação.
+629.3.052	Meios de operação.
+                                            Para as subdivisões, ver 629.052...
+629.3.053	Sistemas especiais de controle para determinados tipos de veículos.
+629.3.054	Instrumentos instalados nos veículos.
+      -> 53.08 Princípios gerais e teoria da medição e projeto dos aparelhos de medição. Métodos de medição
+      -> 621.317 Medição elétrica (métodos e aparelhos)
+629.3.054.2	Instrumentos para monitorar o mecanismo de transmissão e o combustível.
+629.3.054.22	Tacômetro.
+       -> 531.775 Acústica arquitetônica
+629.3.054.23	Manômetros.
+      -> 531.787 Aplicações do atrito e do desgaste
+629.3.054.232	Para válvulas de admissão do motor.
+629.3.054.233	Para vácuo no motor.
+629.3.054.234	Para diversos propulsores gasosos.
+629.3.054.235	Para diversos propulsores fluidos.
+629.3.054.236	Para combustível.
+629.3.054.237	Para lubrificantes.
+629.3.054.239        Outros manômetros.
+629.3.054.24	Termômetros.
+      -> 536.5 Temperatura. Escalas de temperatura. Medição da temperatura. Termômetros. Controle da temperatura
+629.3.054.241	Termômetros de ar livre.
+629.3.054.242	Termômetros de ar de entrada.
+629.3.054.243	Termômetros de cabeça de cilindro.
+629.3.054.244/.249   Outros termômetros.
+629.3.054.244/.249 dividido como 629.3.054.234/.239
+629.3.054.25	Instrumentos para medição de diversas
+quantidades físicas ou químicas. Inclusive
+Instrumentos para medição da concentração ou
+composição química.
+629.3.054.26	Instrumentos para medição de energia mecânica
+ou térmica.
+      -> 531.78 Tribologia. Lubrificação. Atrito. Desgaste
+629.3.054.27	Instrumentos para medição de quantidades
+elétricas.
+      -> 621.317.7 Aparelhos e instrumentos de medição elétrica. Indicadores, medidores, registros elétricos
+629.3.054.28	Medidores de consumo.
+629.3.054.284/.289 dividido como 629.3.054.234/.239
+629.3.054.29	Regulagem da quantidade.
+      -> 681.12 Medidores de consumo. Medidores industriais. Medidores de fluxo. Contadores, etc.
+629.3.054.294/. 299 = 629.3.054.234/.239
+629.3.054.3	Instrumentos para monitorização de outros sistemas e mecanismos.
+Especificar por meio de .0... 
+Exemplo(s) de combinação(ões):
+629.3.054.3.027.2 Para o mecanismo de direção 
+629.3.054.3.048.7 Para o sistema de aquecimento 
+629.3.054.3.066.2 Para a iluminação externa
+629.3.054.4	Instrumentos para medição da relação do veículo
+com o ambiente externo.
+629.3.054.4 dividido como 629.7.058.4
+629.3.054.45	Velocímetros.
+629.3.054.5	Instrumentos para monitorar os espaços
+internos do veículo. Inclusive Detectores de
+incêndio.
+629.3.054.6	Instrumentos para detecção de determinadas
+condições externas, p. ex. congelamento.
+629.3.058	Características operacionais dos sistemas e
+instrumentos.
+629.3.058 dividido como 629.7.058, quando apropriado
+629.3.058.85	Painéis. Quadros de instrumentos.
+629.3.06	Sistemas e dispositivos auxiliares do veículo.
+629.3.062	Sistemas de ligação/reforço do controle.
+Servocontrole(s), etc.
+629.3.062.2	Sistemas de lastro.
+629.3.062.22	Sistemas de reposição.
+629.3.062.24	Sistemas de retificação.
+629.3.062.3	Sistemas de controle de usinas de força.
+629.3.063	Sistemas auxiliares de abastecimento e
+alimentação.
+Para as subdivisões, ver 629.063...
+629.3.064	Sistemas auxiliares de força (em geral):
+pneumáticos, hidráulicos, elétricos, etc.
+Para as subdivisões, ver 629.064...
+629.3.065	Equipamento de manipulação de materiais.
+Inclusive Sistemas e dispositivos de
+reabastecimento de combustão. Sistemas e
+dispositivos de reabastecimento de víveres, mantimentos.
+Especificar por meio de :621.86/.87
+      -> 629.3.045 Iluminação externa
+629.3.065.2	Mecanismo de manipulação de carga.
+629.3.065.22	Guinchos.
+629.3.065.23	Guindastes.
+629.3.065.25	Equipamento de suspender.
+629.3.065.5	Tipos especiais de equipamento.
+629.3.066	Equipamento de observação, sinalização,
+comunicação e identificação.
+629.3.066.1	Equipamento de observação.
+629.3.066.2	Iluminação externa.
+      -> 656.057.8 Iluminação e lâmpadas de veículos
+629.3.066.22	Luzes de navegação.
+629.3.066.28	Luzes de busca.
+629.3.066.3	Equipamento de sinalização e comunicação.
+629.3.066.32	Equipamento de rádio.
+629.3.066.34	Equipamento visual.
+629.3.066.342	Bandeirolas.
+629.3.066.345	Lâmpadas de sinalização. Luzes de sinalização.
+629.3.066.347	Equipamento para foguetes de sinalização.
+629.3.066.36	Equipamento acústico.
+629.3.066.362	Apitos.
+629.3.066.363	Sirenas.
+629.3.066.367	Megafones.
+629.3.066.5	Sistemas de intercomunicação.
+629.3.066.51	Sistemas de mão única. Inclusive Sistemas de
+alto-falantes.
+629.3.066.52	Sistemas de duas mãos. Inclusive Telefones.
+629.3.066.8            Marcas de identificação. Inclusive Placas de
+nomes. Placas de números. Placas de nacionalidade.
+629.3.067	Sistemas de segurança e proteção do veículo.
+      -> 629.3.047 Instalações e equipamento para segurança e proteção pessoal
+      -> 656.08 Acidentes. Assistência em acidentes
+629.3.067.2	Pára-choques.
+629.3.067.3	Barras rolantes. Barras laterais.
+629.3.067.4	Área de esmagamento.
+629.3.069	Outros sistemas auxiliares que fazem parte do
+veículo. Inclusive Sistemas de armamento.
+629.3.07	Aspectos técnicos das operações (técnicas
+operacionais) dos veículos, inclusive o
+desempenho.
+Usar as subdivisões de .07 para indicar o equipamento, dispositivos, modificações
+técnicas, etc. para as operações relacionadas 
+Para os aspectos não-técnicos, usar 656.1com .052
+629.3.071	Operações e preparações preliminares.
+Operações após a parada, após a chegada.
+629.3.072	Operações de navegação, direção em geral.
+Inclusive Marchas de ensaio. Marchas de
+experiência. Treinamento.   
+629.3.072.1	Cálculos de navegação.
+629.3.072.2	Técnica de direção.
+629.3.072.4	Técnicas de manobra.
+629.3.072.8	Treinamento de operadores dos veículos.
+629.3.078	Operações de manutenção a bordo do veículo
+(pela tripulação).
+629.3.08	Fábrica, instalações, equipamento e técnicas 
+afins.
+629.3.081	Fábricas e oficinas de veículos.
+629.3.081.1	Fábricas de veículos. Fábrica e instalações para
+construção e montagem de veículos.
+      -> 658.52 Tipos de produção
+629.3.081.2	Oficinas. Garagens. Oficinas de consertos.
+629.3.081.3	Equipamento.
+Especificar por meio de :621...
+      -> 629.3.018.2 Equipamento laboratorial e especial. Bancadas de testes
+629.3.081.4	Técnicas de fabricação e conserto de veículos.
+629.3.081.7           Operações de acabamento.
+629.3.082	Serviços subsidiários ou instalações de
+abastecimento. Depósitos, armazéns (para
+combustível, água etc.).
+629.3.082.1	Indústria subsidiária.
+629.3.083	Manutenção, conserto, modificação de veículos.
+629.3.083.4	Manutenção. Serviços. Assistência técnica.
+629.3.083.5	Consertos. Reparos.
+629.3.083.6	Conversão.
+629.3.083.7	Modernização.
+629.3.083.8	Recuperação do veículo.
+Divisões principais
+629.31	Transporte simples.
+629.311	Meios de transporte carregados por homens
+ou animais. Inclusive Liteiras. Padiolas.
+Cadeirinhas.
+629.312	Meios de transporte sobre rodas
+impulsionados (ou arrastados) por seres
+humanos. Inclusive Carros de mão.
+Carrinhos de mão. Carrinhos de bebê.
+Cadeiras de rodas. Riquixàs. Patinetes.
+629.313	Veículos sobre rodas puxados por animais.
+Inclusive Carretas. Troles. Cabriolés.
+Carruagens.
+	      Indicar os veículos de finalidades especiais por meio de .014.8 e :629.34/.37
+                                     Indicar o número de rodas por meio de .022.4...
+629.314	Meios de transporte com a carga portada
+diretamente pelos eixos. Transportes sobre
+roletes.
+629.316	Meios de transporte montados sobre
+deslizadores. Inclusive Trenós.
+Para os veículos motorizados sobre deslizadores, usar as subdivisões de 629.33/.3 com.02 ".'l
+629.32	Bicicletas. Veículos com selim. Veículos
+com pedal 
+629.322	Veículos de pedal em geral. Bicicletas.
+	      Indicar os veículos de pedal, exceto os de duas rodas,  por meio de .022.4...
+                               Exemplo(s) de combinação(ões):
+                                      629.322.022.41 Monociclos
+                                     629.322.022.43 Triciclos
+629.322.2	Veículos de pedal de passeio e esporte.
+629.322.4	Veículos de pedal para mais de um condutor.
+629.322.42	Veículos de pedal para dois condutores.
+Tandens.
+629.322.48	Veículos de pedal para mais de dois condutores.
+629.322.7	Veículos de pedal com sidecars (carrinhos
+laterais, caçambas) separáveis ou reboques.
+Sidecars e reboques para veículos de pedal.
+629.322.8	Combinações de veículo de pedal/carrinho de
+mão e veículo de pedal/riquixá.
+629.323	Veículos de pedal com assentos ao invés de
+selins.
+629.326	Motocicletas em geral.
+      -> 629.371.1 Veículos de corrida de duas ou três rodas
+629.326.2	Motocicletas leves. Bicicletas motorizadas.
+629.326.3	Motonetas. Lambretas, vespas.
+629.326.5	Motocicletas de passeio e esporte.
+629.327	Combinações de motocicleta.
+629.327.2	Combinações de motocicleta com sidecars.
+Sidecars para motocicletas.
+629.327.4	Combinações de motocicleta/reboque. Reboques
+para motocicletas.
+629.33	Veículos a motor. Engenharia automotiva
+(em geral).
+629.331	Automóveis.
+629.331.1	Automóveis fechados: saloons, sedas, cupês.
+hatchbacks.
+629.331.2	Caminhonetes. Peruas. Utilitários.
+629.331.3	Automóveis conversíveis. Automóveis abertos.
+629.331.4	Automóveis antigos,
+629.331.5	Automóveis experimentais, modelos
+experimentais.
+629.332	Reboques, semi-reboques (pequenos, médios, grandes) e veículos articulados em geral.
+	      Para reboques ou veículos articulados com finalidade especial, acrescentar .014.3 ou .014.5 ao número para o veículo
+629.334	Casas móveis, casas sobre rodas. Trailers.
+Exemplo(s) de combinação(ões):
+629.334.014.3 Reboques do tipo casa. Trailers 
+      -> 728.76 Moradias sobre rodas. Casas móveis. Trailers
+629.34	Veículos para transporte de passageiros.
+629.341	Ônibus.
+629.342	Ônibus para viagens longas.
+629.343	Microônibus.
+629.344	Táxis.
+629.345	Automóveis de aluguel.
+629.346	Ambulâncias.
+629.349	Outros.
+629.35	Veículos para frete. Veículos de transporte
+de mercadorias.
+	      Especificar os tipos de frete ou mercadoria por meio de :...
+629351	Caminhões.
+629.351.1	Caminhões abertos.
+629.351.2	Caminhões fechados.
+Exemplo(s) de combinação(ões):
+629.351.2:636 Caminhões para transporte de gado
+629.352	Peruas. Caminhonetes. Peruas para
+pequenas cargas.
+629353	Pickups. Caminhões basculantes.
+629.354	Caminhões para contêineres. Veículos para
+mercadorias em contêineres.
+629.355	Veículos com dispositivos de refrigeração para mercadorias perecíveis. Caminhonetes
+                                    com refrigeração.
+629.356	Caminhões-tanque e veículos para transporte de mercadorias a granel.
+629.357	Veículos transportadores para cargas muito
+pesadas ou dimensões incomuns. P. ex. transportadores de veículos e barcos (carretas, jamantas), transportadores para madeira e troncos, transportadores de estruturas pesadas.
+629.359	Outros veículos especiais para transporte
+de carga.
+629.36		Veículos para finalidades especiais.
+629.361		Veículos para atividades assistenciais e serviços sociais em geral.
+                                  Exemplo(s) de combinação(ões):
+                                        629.361:027.3 Bibliotecas ambulantes
+                                     629.361:354.74 Veículos de patrulha e da polícia
+                                     629.361:393.92 Carros fúnebres
+                                     629.361:614.846.6 Veículos de bombeiros
+                                     629.361:628.4 Veículos de coleta de lixo
+                                     629.361:791.096 Cinemas móveis
+629.362	Veículos para controle ou segurança do trânsito.
+629.362.1	Veículos para treinamento de motoristas, para
+auto-escolas.
+629.362.2	Veículos de patrulhamento e polícia.
+629.362.5	Veículos para retirar neve.
+629.363	Veículos de socorro de veículos, veículos
+equipados com oficinas de conserto de
+veículos.
+629.363.1	Veículos de socorro de veículos enguiçados.
+Auto-socorros.
+629.363.2	Veículos para medição.
+629.364	Veículos com estruturas especiais.
+629.364.1	Guindastes, guinchos.
+629.364.2	Veículos de elevação.
+629.365	Veículos e máquinas de terraplanagem.
+629.366	Veículos agrícolas.
+      -> 631.3 Máquinas, implementos e equipamentos agrícolas
+629.367	Veículos para assentar trilhos.
+629.369	Outros veículos com finalidades especiais.
+629.37	Veículos de desempenho especial com duas
+ou mais rodas. Veículos para terreno especial com duas ou mais rodas.
+629.371	Veículos para corridas ou finalidades
+desportivas.
+629.371.1	Veículos de corrida de duas ou três rodas.
+629.371.11	Bicicletas de corrida.
+629.371.12	Bicicletas de cross-country.
+629.371.13	Bicicletas motorizadas de corrida.
+629.371.14	Bicicletas motorizadas de cross-country.
+629.371.15	Motocicletas de corrida.
+629.371.16	Motocicletas de cross-country.
+629.371.2	Veículos de corridas, de esportes, com mais de
+três rodas.
+629.371.21	Veículos de corrida.
+629.371.22	Veículos de rali.
+629.371.23	Veículos esportivos.
+629.371.26             	Karts.
+629.373	Veículos para uso especial fora da estrada.
+Veículos para terrenos especiais.
+629.373.1	Veículos de pedal para terrenos especiais.
+Inclusive bicicletas para montanhas. Mountain
+bikes.
+629.373.2	Triciclos.
+629.373.3	Veículos para fora da estrada.
+629.4	Engenharia de veículos sobre trilhos. Locomotivas. Material rodante. Pátios ferroviários. Instalações e
+                          	serviços relativos ao material rodante. 
+      -> 625.1/.5 Ferrovias. Carris. Linhas de cabos
+Subdivisões auxiliares especiais
+629.4.01	Projeto, características e possibilidades dos veículos ferroviários. Testes.
+629.4.012	Dimensões. Bitolas.
+629.4.012.2	Dispositivos para adequação às bitolas das linhas.
+629.4.012.4	Dispositivos para adequação às bitolas de carga.
+629.4.012.5	Dimensões das carrocerias, chassis, etc.
+629.4.013	Pesos. Tonelagem. Capacidade. Cargas úteis.
+629.4.013.2	Carga por peso. Carga por tamanho.
+629.4.013.22	Peso do combustível. Capacidade do paiol de
+combustível.
+629.4.013.24	Cargas de frete. Carga útil.
+629.4.014	Possibilidades funcionais e modo de uso dos veículos
+Usar os auxiliares relacionados em 629.014... somente para possibilidades ou usos especiais ou ocasionais não previstos nas subdivisões diretas de 629.4
+629.4.015	Mecânica e dinâmica do material rodante.
+Inclusive interação do material rodante com os
+trilhos (com referência ao material rodante).
+Para interação entre trilhos e material rodante, com referência ao uso dos trilhos, usar 625.03, especialmente 625.1.03
+629.4.016	Características de desempenho e possibilidade
+dos veículos ferroviários. Avaliação da força,
+velocidade, etc.
+629.4.016.1	Estudos teóricos sobre velocidade e eficiência.
+629.4.016.12         Fórmulas do projeto. 
+629.4.016.15         Testes de consumo. Escolha do combustível ou da fonte de energia.
+629.4.016.2	Energia útil. Força instalada. Eficiência e
+consumo de combustível.
+629.4.016.3	Comparações dos valores técnicos e da
+eficiência segundo o método de tração adotado.
+Alcance.
+629.4.016.5	Velocidade.
+629.4.16.52	Velocidades baixas. Até 50km/h.
+629.4.016.54	Velocidades médias e altas. Entre 51 e 200 km/h.
+629.4.016.56         Velocidades muito altas. Mais de 200 km/h.
+629.4.017	Confiabilidade operacional. Estabilidade.
+Maneabilidade. Capacidade de frenagem.
+      -> 62-592 Freios. Métodos de frenagem
+      -> 629.4.077 Técnicas de chegada. Operações de desaceleração e parada
+629.4.018	Testes: métodos e equipamento.
+629.4.02	Estrutura dos veículos ferroviários. Idéias e
+princípios de construção. Disposição, leiaute geral e componentes.
+629.4.021	Princípios de construção.
+629.4.021.2	Técnicas de construção.
+629.4.021.21	Veículos com corpo e infra-estrutura separados.
+629.4.021.24	Construção monocoque. Construção tubular.
+629.4.021.26	Construção rebitada. Construção soldada.
+629.4.022	Leiaute segundo a bitola.
+629.4.022.2	Para ferrovias de bitola larga.
+629.4.022.4	Para ferrovias de bitola-padrão.
+629.4.022.6	Para ferrovias de bitola estreita.
+629.4.023	Elementos de construção. Casco. Estrutura.
+629.4.023.1	Infra-estrutura. Carroceria. Superestrutura.
+Intercomunicação.
+629.4.023.11	Infra-estrutura.
+629.4.023.14	Corpo. Carroceria.
+629.4.023.15	Teto, cobertura. Superestrutura.
+629.4.023.16	Partes comunicantes.
+629.4.023.163	Chapas de piso para passadiços.
+629.4.023.165	Passadiços.
+629.4.023.17	Elementos de construção para entrada e
+fechamento. Inclusive Portas.
+629.4.023.174       Dispositivos de fechamento automático. 
+629.4.023.176       Degraus. Degraus dobráveis.
+629.4.023.18	Partes laterais dos veículos. Janelas. Venezianas,
+etc.
+629.4.023.2	Elementos que formam a base e estrutura dos
+veículos.
+629.4.024	Estrutura externa. Casco, carroceria, etc.
+      -> 674.25 Marcenaria de veículos. Marcenaria de construção de carruagens
+629.4.025	Estruturas características do material rodante da
+ferrovia.
+629.4.026	Disposição das unidades de propulsão ou força.
+629.4.027	Estruturas de suporte, suspensão e
+amortecimento de choques. Rodas.
+629.4.027.1	Suporte em geral.
+629.4.027.11	Eixos. Inclusive Tipo de eixo. Função e forma
+dos eixos. Partes dos eixos. Caixas de eixo.
+629.4.027.2	Truques.
+629.4.027.23         	Truques de dois eixos.
+629.4.027.25	Truques de mais de dois eixos.
+629.4.027.26	Truques contrabalançados. Equilíbrios de
+compensação.
+629.4.027.27	Ligação entre truques. Guias para truques.
+629.4.027.3	Suspensão. Molas. Amortecedores verticais de
+choque. Amortecedores,
+629.4.027.31	Tipos de mola.
+Exemplo(s) de combinação(ões):
+ 629.4.027.31-272.2 Molas espirais 
+ 629.4.027.31-272.3 Molas laminadas 
+ 629.4.027.31-272,82 Molas pneumáticas
+629.4.027.32	Tipos de suspensão.
+629.4.027.35         Amortecedores de choque. Amortecedores.
+629.4.027.4	Rodas. Pneus.
+629.4.027.41          Tipos de roda.
+629.4.027.412        Rodas motrizes, rodas de transmissão. 
+629.4.027.414        Rodas de suporte de carga. 
+629.4.027.416        Rodas-guia.
+629.4.027.43	Pneus em geral. Tipos de pneu.
+629.4.027.432       	Rodas elásticas. Rodas pneumáticas.
+629.4.027.434       	Pneus de metal. Flanges.
+629.4.027.44	Posicionamento e pressão da roda em relação ao eixo.
+629.4.027.45	Dispositivos de fechamento e segurança para
+fixar as rodas aos eixos.
+629.4.027.5	Conjuntos de rodas. Inclusive Conjuntos de
+rodas de tração. Conjuntos de rodas de
+transporte. Conjuntos de rodas com bitola
+ajustável.
+629.4.028	Dispositivos de acoplamento, engates,
+amortecedores, conectores, etc.
+629.4.028.1	Equipamento de tração. Mecanismos de tração.
+629.4.028.11	Barras de tração.
+629.4.028.12	Engates. Inclusive Engates helicoidais. Engates
+de impacto.
+629.4.028.2	Mecanismo de amortecimento.
+      -> 625.156 Pára-choques e dispositivos semelhantes
+629.4.028.21	Amortecedores (amortecedores horizontais de
+choque).
+629.4.028.22	Engate por pancada nos amortecedores.
+629.4.028.3	Equipamento de tração e amortecimento
+combinados. Engates, acoplamento com
+amortecedores.
+629.4.028.31	Engates automáticos com amortecedor central.
+629.4.028.4	Outros métodos de acoplamento.
+629.4.028.41	Engates entre a máquina e os vagões, entre a
+locomotiva e o tender, etc.
+629.4.028.42	Conectores para serviços (tubos de ar e vapor,
+cabos elétricos, etc.).
+629.4.28.5	Acoplamentos transitórios. Acoplamentos mistos.
+629.4.028.8	Componentes dos engates.
+629.4.028.81	Cabeça do engate.
+629.4.028.82	Dispositivos de fixação.
+629.4.028.83	Dispositivos de desengate e desconexão.
+Dispositivos localizadores para engates.
+629.4.028.84	Braços do engate.
+629.4.03	Sistemas de propulsão. Unidades de força.
+629.4.031	Sistemas de propulsão que usam forças naturais, força muscular, vento, etc.
+629.4.032	Propulsão pelas rodas. Tração pelas rodas.
+629.4.033	Propulsão por esteira. Propulsão por roda denteada. Propulsão por cremalheira e pinhão.
+      -> 625.33 Vias férreas de cremalheira
+      -> 629.421.6 Locomotivas de ferrovias de montanha. Locomotivas de cremalheira e pinhão
+629.4.034	Propulsão por cabos, correntes (ferrovias de
+tração a cabo). Propulsão por parafuso sem fim
+(tração helicoidal).
+       -> 625.39 Outras vias férreas de construção especial
+       -> 625.52 Vias férreas com traçado a cabo (ou corda ou corrente). Planos de gravidade (planos inclinados, autopropulsionados. Funiculares
+629.4.035	Propulsão por hélice.
+      629.4.035 dividido como 6297.035
+629.4.036	Propulsão por pressão de reação.
+Propulsão a jato.
+629.4.036 dividido como 629.7.036
+629.4.038	Sistemas combinados de propulsão.
+629.4.04	Disposição interna dos veículos ferroviários.
+Acomodações, instalações e equipamento (para
+passageiros e carga).
+            -> 674.25 Marcenaria de veículos. Marcenaria de construção de carruagens
+629.4.042	Disposição interna e acabamento em geral.
+Compartimentos. Cabinas. Leitos. Salões.
+629.4.042.2	Divisões internas.
+629.4.042.4	Compartimentos, cabinas. Leitos. Corredores.
+629.4.042.42	Carros sem corredor.
+629.4.042.44	Compartimentos com corredor central.
+629.4.042.46	Compartimentos com corredor lateral.
+629.4.042.5	Isolamento acústico. Isolamento térmico.
+Isolamento contra fogo.
+629.4.042.6	Assoalhos. Revestimentos. Inclusive Linóleo.
+Carpetes. Passadeiras.
+629.4.042.7	Porta-bagagens, bagageiros.
+629.4.043	Acomodações para a tripulação do trem.
+Compartimentos de direção e controle. Cabina
+do maquinista. Plataforma do maquinista.
+629.4.043.2	Disposição das posições de controle para
+diversos tipos de tração.
+629.4.043.4	Disposição de compartimentos, de colocações
+para o pessoal do trem.
+629.4.044	Dispositivos para embarque e desembarque,
+entrada e saída.
+      -> 629.4.023.16 Partes comunicantes
+      -> 629.4.023.17 Elementos de construção para entrada e fechamento
+629.4.045	Manuseio e armazenamento da carga. Dispositivos para carregar, descarregar, armazenar, para estiva. Medidas de segurança e
+                                  precaução contra perdas de materiais soltos.
+629.4.046	Dispositivos para conforto e serviços aos passageiros.
+Especificar por meio de :64... e :684...
+629.4.046.3	Assentos.
+629.4.046.4	Acessórios. Inclusive Enroladores e ajustadores
+da janela. Persianas. Superfícies fixas e
+dobráveis, mesas. Cinzeiros. Espelhos.
+629.4.046.7	Instalações sanitárias. Lavatórios. Banheiros. Outras instalações para higiene.
+629.4.047	Instalações e equipamento para proteção e
+segurança pessoal.
+629.4.047.2	Sinais de alarme. Inclusive fios de comunicação.
+629.4.047.4	Extintores de incêndio.
+629.4.048	Climatização. Ar-condicionado. Calefação.
+Ventilação. Iluminação.
+      -> 628.8/.9
+629.4.048.3	Ar-condicionado.
+629.4.048.4	Ventilação.
+629.4.048.7	Calefação.
+629.4.048.8	Iluminação.
+629.4.05	Sistemas de orientação e controle em veículos
+ferroviários.
+629.4.051	Características e princípios funcionais.
+Finalidade.
+629.4.052	Meios de operação.
+Para as subdivisões, ver 629.052...
+629.4.053	Sistemas especiais de controle para
+determinados tipos de veículos ferroviários.
+629.4.053.3	Controle automático do trem com sinais de
+repetição mostrados na locomotiva.
+629.4.054	Instrumentos instalados no veículo.
+      629.4.054 dividido como 629.3.054
+629.4.054.2	Instrumentos para monitorização dos
+mecanismos de tração e do combustível.
+629.4.054.23	Manômetros.
+629.4.054.3	Instrumentos para monitorização de outros
+sistemas e mecanismos. Inclusive Especificar
+por .0....
+629.4.054.45	Velocímetros. 
+629.4.058	Características operacionais de sistemas e
+instrumentos.
+629.4.06	Sistemas e equipamentos auxiliares montados no
+veículo ou na locomotiva.
+629.4.062	Sistemas de ligação e reforço do comando. Assistência de força (p. ex. servomotores).
+629.4.063	Sistemas auxiliares de abastecimento e alimentação.
+Para as subdivisões  .063.2/.7, ver 629.063...
+629.4.063.8	Equipamento para jogar areia, tintar,
+enxugar os trilhos.
+629.4.064	Sistemas auxiliares de força.
+Para as subdivisões, ver 629.064...
+629.4.065	Sistemas de manipulação de materiais. Inclusive
+Sistemas e dispositivos de reabastecimento de
+combustível. Sistemas e dispositivos de
+reabastecimento de víveres.
+Especificar por meio de  :621.86/.87
+      -> 629.4.045 Manuseio e armazenamento de carga. Dispositivos para carregar, descarregar, armazenar, para estiva. Medidas de segurança e precaução contra perdas de materiais soltos
+629.4.066	Dispositivos de observação, sinalização, 
+comunicação e identificação.
+      -> 654.9 Sinalização. Serviços diversos de telecomunicação. Controle remoto (telecontrole)
+629.4.067	Sistemas de segurança e proteção em veículos
+ferroviários.
+629.4.067.2	Equipamento para iluminação de emergência em
+locomotivas, vagões, trens.
+629.4.067.3	Dispositivos de segurança, de monitoramento 
+automático.
+Exemplo(s) de combinação(ões):
+629.4.067.3-783.52 Dispositivos de frenagem automática de emergência. Manipulador de interrupção automática
+629.4.067.4	Dispositivos antiderrapantes que atuam sobre as rodas.
+629.4.067.5	Dispositivos para retirada de obstáculos.
+Inclusive limpa-trilhos (grelhas dianteiras, saca-
+bois). Removedores de neve, limpa-neve.
+      -> 629.464.22 Vagões removedores de neve
+629.4.067.6	Dispositivos de alerta, de alarme. Inclusive Sirenas. Buzinas.
+629.4.069	Outros sistemas auxiliares que fazem parte do
+veículo. Inclusive Sistemas de armamento.
+629.4.07	Aspectos técnicos das operações (técnicas
+operacionais) inclusive desempenho.
+Usar as subdivisões de .07 para indicar o equipamento, os dispositivos, as modificações técnicas, etc. para as operações listadas
+Para aspectos não-técnicos, usar 656.2 com .052
+629.4.071	Operações e preparações preliminares.
+Operações após a parada, após a chegada.
+629.4.071.2	Adaptação das locomotivas para determinados
+trabalhos: marcha a ré, reboque (único e/ou múltiplo).
+629.4.071.5	Ciclo de serviço das locomotivas.
+629.4.072	Operações de comando e operação em geral. Inclusive Operações de teste e treinamento.
+629.4.073	Técnicas operacionais para condições especiais, p. ex. tempo, clima, terreno, falha da máquina ou da força.
+629.4.073 dividido como 656.052.5
+629.4.075	Técnicas de partida. Operações de saída. Aceleração.
+      -> 629.4.085 Equipamento e procedimentos técnicos essenciais para a partida
+629.4.076	Operações durante a viagem, em movimento de rota.
+629.4.077	Técnicas de chegada. Operações de desaceleração e parada.
+      -> 629.4.087 Equipamento e procedimentos técnicos essenciais para parada, frenagem
+629.4.078	Operações de manutenção a bordo (pela tripulação).
+629.4.08	Instalações na base ou na estação. Equipamento e técnicas para manutenção dos veículos ferroviários.
+       -> 656.06 Serviços auxiliares
+	      As subdivisões  .08 fornecem aspectos gerais que têm equivalentes em outras formas de transporte. Para os aspectos
+                               característicos das ferrovias,  ver 629.47/.48
+629.4.082	Serviços subsidiários e instalações de
+abastecimento. Depósitos e armazéns de
+suprimento.
+629.4.082.2	Abastecimento de combustíveis (sólidos,
+líquidos e gasosos).
+629.4.082.3	Abastecimento de energia elétrica.
+629.4.082.4	Abastecimento de água.
+      -> 621.643.54 Mangueiras de caixa de água (p. ex. à margem das ferrovias)
+629.4.082.5	Abastecimento de lubrificantes. Boxes de
+lubrificação.
+629.4.082.6	Abastecimento de areia. Caixas de areia.
+629.4.083	Manutenção. Conservação, limpeza e reparo
+dos veículos ferroviários.
+      -> 629.48 Grandes oficinas e fábricas ferroviárias. Oficinas de construção, montagem e reparo para veículos ferroviários. Oficinas centrais
+629.4.084	Peças sobressalentes e de reposição. Inclusive
+Controle do estoque e métodos de controle da
+saída. Depósitos e almoxarifados de peças
+sobressalentes.
+      -> 621.796 Guarda. Armazenamento
+629.4.085	Equipamento e procedimentos técnicos
+essenciais para a partida.
+      -> 629.4.075 Técnicas de partida. Operações de saída. Aceleração
+629.4.086	Equipamento e procedimentos técnicos
+essenciais para controle e testes em viagem (p. ex. para ensaios de marcha).
+      -> 629.4.072 Operações de comando e operação em geral
+629.4.087	Equipamento e procedimentos técnicos essenciais
+para parada, frenagem.
+     -> 629.4.077 Técnicas de chegada. Operações de desaceleração e parada
+Divisões principais
+629.41	Setor de força motriz.
+629.42	Tipos de tração. Unidades de força motriz.
+629.421	Unidades de força motriz segundo a
+finalidade e construção.
+629.421.1	Locomotivas para trens de passageiros.
+629.421.2	Locomotivas para trens de carga.
+629.421.3	Locomotivas para finalidades gerais.
+Locomotivas para trens mistos.
+629.421.4	Locomotivas de manobras.
+629.421.5	Locomotivas de trabalho. Locomotivas
+industriais.
+629.421.6	Locomotivas de ferrovias de montanha.
+Locomotivas de cremalheira e pinhão.
+      -> 625.33 Vias férreas de cremalheira
+      -> 629.4.033 Propulsão por esteira. Propulsão por roda dentada. Propulsão por cremalheira e pinhão
+629.421.7	Locomotivas articuladas.
+629.421.8	Locomotivas sem fornalhas. Locomotivas que
+usam água superaquecida. Locomotivas com
+reservatórios de vapor.
+629.422	Locomotivas e tênderes a vapor.
+      -> 621.13 Motores a vapor para locomotivas de estrada de ferro
+629.422.1	Tipos diversos de locomotivas a vapor.
+Especificar por meio de -1/-9 (de 62-1/-8 e 66-9... 
+629.422.1 dividido como 629.421
+629.422.2	Carros ferroviários a vapor, de autopropulsão.
+629.422.3	Componentes das locomotivas a vapor.
+	      Especificar por  meio de :621.134.1/8S e :621.18.... com maiores detalhes por-1/-9 (de 62-1/-8 e 66-9)
+629.422.7	Tênderes.
+629.423	Locomotivas elétricas.
+Especificar por meio de -83... ou :621.3
+629.423.1	Tipos diversos de locomotivas elétricas.
+      629.423.1dividido como 629.421
+629.423.2	Vagões, carros elétricos de autopropulsão. Trens
+elétricos de múltiplas unidades. Unidades
+elétricas de vagão-motor. Litorinas elétricas.
+629.423.3	Componentes de locomotivas elétricas.
+      -> 621.33 Tração, locomoção, propulsão elétricas
+629.423.31		Motores elétricos.
+                                    Exemplo(s) de combinação(ões):
+                                        629.423.31:621.313.2 Motores de corrente contínua
+629.423.32	Transmissão de força. Elementos de
+transmissão. Sistemas de conversão de força.
+Especificar os controles por meio de :621.337...
+629.423.33	Transmissão de energia elétrica. Condutores.
+Coletores. Tomadas de corrente.
+Especificar por meio de :621.3 36...
+629.424	Tração ferroviária por motor de combustão
+interna. Tração ferroviária a óleo diesel.
+Exemplo(s) de combinação(ões):
+629.424-82 Motores de tração hidráulica a óleo diesel
+629.424.1	Tipos diversos de locomotivas diesel.
+      629.424.1 dividido como 629.421
+629.424.2	Carros, vagões diesel de auto-propulsão. Trens
+diesel de unidades múltiplas. Unidades de
+vagão-motor diesel, litorinas diesel.
+629.424.3	Componentes de locomotivas diesel.
+-> 621.436 Motores alternativos a combustão de óleo. Motores a combustível líquido pesado. Motores diesel, tipo diesel, semidiesel
+629.424.4	Equipamento elétrico em locomotivas diesel. 
+Especificar por meio de :621.3...
+629.425	Locomotivas com motores de combustão
+interna exceto diesel.
+Especificar por meio de :621.43...
+629.425 dividido como 629.421
+629.426	Locomotivas com motores de turbinas a gás.
+      -> 621.438 Turbinas de combustão. Turbinas a gás. Turbinas a óleo
+ 629.426 dividido como 629.421
+629.427	Vagões abertos e troles motorizados. Carros
+motorizados sobre trilhos. Carros de linha.
+      -> 621.43 Motores de combustão interna. Motores de combustão explosiva
+629.428	Outros tipos de locomotivas. Locomotivas
+com sistemas de motores especiais. Inclusive
+Locomotivas a reação (foguetes).
+      -> 621.45 Motores a jato
+629.43	Transporte ferroviário que emprega
+locomotivas especiais. Locomotivas e veículos para transporte urbano e suburbano. Veículos ferroviários para transporte de curta distância em geral.
+      -> 625.3/.5
+629.431	Locomotivas e veículos para ferrovias
+elevadas.
+629.432	Locomotivas e veículos para ferrovias
+subterrâneas.
+629.433	Locomotivas e veículos para carris. Bondes.
+629.434	Locomotivas e veículos para ferrovias
+urbanas e suburbanas (de superfície).
+629.435	Locomotivas e veículos para monotrilhos.
+629.435.2	Para monotrilhos de via férrea.
+629.435.4	Para monotrilhos suspensos.
+629.436	Motores e veículos para funiculares
+(ferrovias de cabo).
+629.437	Veículos ferroviários sobre colchão de ar.
+Hovertrains.
+      -> 629.576 Veículos sobre colchão de ar. Hovercraft
+629.438	Locomotivas para sistemas ferroviários
+especiais.
+629.438.2	Veículos para ferrovias de bitola muito larga
+(veículos ferroviários para transporte de veículos rodoviários e outros veículos ferroviários).
+629.438.4	Ferrovias tubulares (movidas a ar comprimido
+ou vácuo). Ferrovias pneumáticas.
+629.439	Locomotivas e veículos para outros sistemas ferroviários especiais. Locomotivas com hélice, volante, 
+                                     giroscópio, comando a ar comprimido, energia nuclear, etc.
+                                          -> 629.4.035 Propulsão por hélice
+629.44	     Carros passivos. Veículos ferroviários rebocados em geral.
+629.45	Carros para passageiros. Carros, vagões
+de passageiros.
+629.451	Carros de passageiros para trens regionais
+(curta distância).
+            -> 629.457 Carros para grande quantidade de passageiros
+629.452	Vagões articulados a um eixo comum ou
+truque. Trens articulados. Sistema Talgo.
+629.454	Carros para trens internacionais. Carros
+para longas distâncias, com acomodações especiais, etc.
+629.454.2	Carros com acomodações especiais
+(para longos percursos).
+629.454.22	Carros-leito.
+629.454.25	Carros com poltronas reclináveis.
+629.454.3	Carro-restaurante. Carros para refeições
+ligeiras.
+629.454.34	Carro-restaurante com máquinas automáticas
+de vender, com auto-serviço.
+629.454.36	Carros-bufê. Carro-bar. Carro-lanchonete.
+629.454.4	      Vagões Pullman. Carro-salão.
+629.454.5	Vagões de plataforma. Vagões de observação.
+Vagões de toldo.
+629.454.52	Vagões de plataforma (vagões com dois andares,
+dois níveis).
+       -> 629.457.4 Vagões de plataforma (vagões de dois andares)
+629.454.54	Vagões de observação.
+629.454.56	Vagões de toldo.
+629.456	Vagões com equipamento especial.
+629.456.2	Vagões com equipamento médico: vagões-
+ambulância, vagão-hospital. Trens-hospital.
+629.456.3	Vagões para divertimento. Inclusive Vagões para
+teatro. Vagões para cinema. Vagões para vídeo.
+Vagões para televisão.
+629.456.5	      Vagões para exposições. Vagões-biblioteca.
+629.456.6	Vagões de instrução. Vagões com equipamento de ensino.
+629.457		Carros para grande quantidade de passageiros.
+629.457.2		Carros para uso de passageiros dos subúrbios.
+629.457.4		Vagões de plataforma (vagões de dois andares).
+629.46		Vagões de carga. Veículos ferroviários mistos.
+629.462		Vagões bagageiros.
+629.462.1		Vagões de bagagem.
+629.462.2	Vagões para transporte de carga.
+629.462.3	Vagões postais, para encomendas postais.
+629.463		Vagões ou carros para mercadorias (vagões de carga).
+629.463.1	Vagões de carga abertos e fechados.
+629.463.12	Vagões com isolamento térmico, aquecidos e
+refrigerados.
+629.463.122	Vagões isotérmicos, com isolamento térmico.
+629.463.123	Vagões aquecidos.
+629.463.124	Vagões refrigerados.
+629.463.125	Vagões frigoríficos (mecanicamente
+refrigerados).
+629.463.2	Vagões cobertos especiais para mercadorias
+(exceto vagões-funil). Inclusive Vagões com
+divisões deslizantes. Vagões com paredes
+traseiras removíveis. Vagões para frutas e
+legumes. Vagões para gado, para transporte de
+animais. Vagão-cocheira (transporte de
+cavalos).
+629.463.3	Vagão-tanque. Vagão-contêiner.
+629.463.32	Vagão-tanque para líquidos.
+629.463.33	Vagão-tanque para gases comprimidos ou
+liquefeitos.
+629.463.34	Vagões para transporte de metais fundidos.
+629.463.36	Vagão-contêiner de material granulado com
+descarga por pressão. Inclusive Vagão-contêiner
+para material pulverulento.
+629.463.37	Vagão-contêiner para material a granel com teto
+que se abre e com autodescarga.
+629.463.4	Vagões para transporte de automóveis.
+Transportadores de carros.
+629.463.5	Vagões com tetos que se abrem.
+629.463.6	Vagões abertos para mercadorias. Outros
+tipos de vagões.
+629.463.62	Vagões planos comuns (truques planos
+ou abertos).
+629.463.63	Vagões para transporte de caminhões, reboques, 
+contêineres. Vagão-contêiner.
+629.463.64	Vagões especiais para transporte de cargas
+pesadas. Vagões para objetos excepcionalmente
+grandes.
+629.463.65	Vagões basculantes.
+629.463.66	Vagões-funil.
+629.464	Veículos de manutenção da ferrovia.
+629.464.2	Veículos para remoção de neve dos trilhos.
+      -> 625.174 Limpeza da linha férrea depois de nevasca
+629.464.22	Vagões removedores de neve.
+629.464.25	Vagões sopradores de neve.
+629.464.26	Limpa-neve rotativo.
+629.464.3	Vagões-guindaste.
+      -> 621.873.2 Guindastes de mobilidade limitada
+629.464.4	Vagões de manutenção da via férrea.
+629.464.42	Vagões para assentamento de trilhos.
+629.464.43	Vagões de lastro.
+      -> 625.173.7 Renovação do lastro. Limpeza do lastro
+629.464.44	Troles para colocar placas.
+      -> 625.173.2 Correção dos trilhos e das vias férreas
+629.464.45	Trens de manutenção. Trens de conserto e
+socorro. Vagões-oficina.
+629.464.46	Vagões para calibração das pontes de tara.
+Vagões de teste das pontes de tara (carros de
+teste da escala do trilho).
+      -> 681.264.3 Balanças de plataforma com elo de Roberval (ou dispositivos semelhantes de compensação)
+629.464.47	Veículos para teste e medição dos trilhos.
+      -> 625.171 Supervisão e inspeção da linha férrea
+629.464.48	Vagões para transporte de veículos ferroviários.
+Plataformas levadiças. Veículos de carga com trilhos.
+      -> 629.4.083 Manutenção. Conservação, limpeza e reparo dos veículos ferroviários
+629.466	Veículos e trens para fins especiais.
+Especificar por meio de :... 
+Exemplo(s) de combinação(ões):
+629.466:659.134.3 Trens para publicidade, propaganda
+629.467	Veículos ferroviários para múltiplas
+finalidades. Veículos para o pessoal da ferrovia.
+629.47	Armazéns ferroviários. Galpões de
+máquinas. Linhas de manobra e seu
+equipamento.
+629.48	Grandes oficinas e fábricas ferroviárias.
+Oficinas de construção, montagem e
+reparo para veículos ferroviários. Oficinas
+centrais.
+                                     -> 629.4.083 Manutenção. Conservação, limpeza e reparo dos veículos ferroviários
+629.482	Para construção e conserto de máquinas, 
+locomotivas.
+629.483	Para construção e conserto de carros de
+passageiros.
+629.484	Pa ra construção e conserto de vagões de
+mercadorias, de vagões de carga.
+629.486	Para conserto de truques e eixos.
+629.487	Equipamento técnico especializado para as
+oficinas ferroviárias.
+629.488	Manutenção, modificação e conserto do
+material rodante (técnicas e tecnologia).
+Freqüência e extensão das operações de
+manutenção.
+629.488.2	Manutenção do material rodante em geral.
+629.488.22	Compartimentos de trabalho.
+629.488.23	Fossos de inspeção e conserto.
+629.488.24	Instalações para remoção e substituição dos
+eixos.
+629.488.25	Instalações de lavagem e limpeza.
+629.488.26	Instalações para desinfecção, fumigação.
+desinfestação (eliminação de insetos),
+descontaminação.
+629.488.27	Operações de regulagem.
+629.488.3	Conservação, preservação, desmantelamento,
+demolição do material rodante.
+629.488.32	Conservação. Manutenção a longo prazo.
+Preservação.
+629.488.36	Desmantelamento. Demolição.
+629.488.4	Equipamento e instalações para conversão de
+bitola.
+      -> 625.112 Bitola da linha. Junção de linhas de bitolas diferentes
+      -> 629.4.012 Dimensões. Bitolas
+629.488.42	Instalações para mudança de eixos e truques.
+629.488.45	Dispositivos para ajuste de bitolas.
+629.488.5	Colocação sobre os trilhos. Encarriladores.
+629.488.6	Remoção dos trilhos. Descarriladores.
+629.5	Engenharia de embarcações.
+Engenharia naval. Barcos. Navios. Construção de barcos e navios.
+      -> 623.8 Construção naval. Bases navais. Navios e outros vasos de guerra
+Subdivisões auxiliares especiais
+629.5.01	Arquitetura naval. Projeto do navio: princípios,
+possibilidades, testes.
+629.5.011	Regras e regulamentos para o projeto e a
+classificação de navios. Medição da tonelagem.
+Exemplo(s) de combinação(ões): 
+629.5.011:061.6 Instituições de classificação
+      -> 351.813.22 Normas do tráfego hidroviário
+629.5.012	Dimensões. Projeto dimensional.
+629.5.012.2	Comprimento.
+629.5.012.22	Comprimento total.
+629.5.012.23	Comprimento entre perpendiculares.
+629.5.012.24	Comprimento da linha d' água.
+629.5.012.3	Largura. Vau.
+629.5.012.32	Largura total.
+629.5.012.33	Largura da forma.
+629.5.012.4	Dimensões da altura.
+629.5.012.42	Altura total.
+629.5.012.44	Profundidade.
+629.5.012.442        Calado.
+629.5.012.444        Bordo livre.
+629.5.012.6	Medidas calculadas.
+629.5.012.62	Centro de flutuabilidade.
+629.5.012.63	Raio metacêntrico.
+629.5.012.64	Centro de gravidade.
+629.5.012.65	Altura metacêntrica.
+629.5.012.7	Coeficientes do navio.
+629.5.012.71	Coeficiente de bloco.
+629.5.012.72	Coeficiente prismático.
+629.5.012.73	Coeficiente do arcabouço, estrutura principal.
+629.5.012.74	Coeficiente do plano d' água.
+629.5.013	Pesos. Deslocamento. Capacidade de carga.
+629.5.013.1	Peso de construção.
+629.5.013.2	Deslocamento leve. Deslocamento cúbico.
+629.5.013.3	Peso do combustível e dos suprimentos.
+629.5.013.4	Peso morto.
+629.5.013.5	Capacidade de carga.
+629.5.013.52         Tonelagem de registro.
+629.5.013.521	Tonelagem bruta
+629.5.013.522	Tonelagem líquida
+629.5.013.55         Capacidade de recipiente.
+629.5.013.57	Linha d'água da carga. Marca da linha d'água.
+629.5.014	Possibilidades funcionais e modo de uso dos veículos.
+Usar os auxiliares relacionados em 629.014... somente para possibilidades ou usos especiais ou ocasionais não previstos nas subdivisões diretas de 629.5
+629.5.015	Mecânica em relação ao meio.
+Para mecânica como tal, usar 531/534
+      -> 629.5.017 Confiabilidade operacional. Navegabilidade. Estabilidade      
+629.5.015.1	Hidrostática que influi no projeto. Estabilidade.
+                                        -> 532.3 Corpos imersos (corpos submersos). Corpos flutuantes
+629.5.015.11	Flutuabilidade.
+629.5.015.12	Estabilidade estática do navio.
+629.5.015.13	Estabilidade dinâmica do navio.
+629.5.015.14	Estabilidade intacta.
+629.5.015.141	Estabilidade transversal.
+629.5.015.142	Estabilidade longitudinal.
+629.5.015.143	Estabilidade com a inclinação do navio em
+ângulos abertos.
+629.5.015.144	Emborcamento. Perda de estabilidade.
+629.5.015.15	Estabilidade de dano e seu cálculo.
+629.5.015.152	Flutuabilidade perdida.
+629.5.015.154	Deslocamento constante.
+629.5.015.17	Inclinação do navio. Adernagem.
+629.5.015.2	Hidrodinâmica que influi no projeto. Resistência.
+      -> 532.5 Movimentos dos líquidos. Hidrodinâmica
+629.5.015.21	Resistência ao atrito.
+629.5.015.22	Resistência à pressão.
+629.5.015.23	Resistência de perfil. Contracorrente.
+629.5.015.24	Resistência às ondas.
+629.5.015.25	Resistência induzida.
+629.5.015.26	Resistência à água rasa.
+629.5.015.3	Aerodinâmica que influi no projeto.
+      -> 533.6 Aerodinâmica
+629.5.015.4	Requisitos de força. Requisitos do projeto
+hidrodinâmico e estrutural.
+      -> 624.04 Projeto estrutural. Estática gráfica e analítica para pesquisa e cálculo de estruturas
+      -> 629.5.018.4 Testes de resistência: fadiga, vibração, impacto, etc.
+      -> 629.5.023.4 Estrutura principal e suas partes
+629.5.015.5	Vibrações do navio. Prevenção e controle das
+vibrações. Proteção contras as vibrações.
+629.5.015.6	Ruído do navio. Prevenção e controle de ruído.
+Proteção contra o ruído.
+629.5.016	Desempenho, possibilidades e características de
+prepulsão do navio.
+629.5.016.2	Profundidade de mergulho.
+629.5.016.3	Alcance do velejamento. Raio do velejamento.
+629.5.016.5	Velocidade do navio.
+629.5.016.51	Especificações da velocidade de projeto.
+Inclusive Velocidade de serviço. Velocidade
+	de testes.
+629.5.016.7	Avaliação da propulsão.
+629.5.016.8	Características e possibilidades em condições
+especiais.
+629.5.017	Confíabilidade operacional. Navegabilidade.
+Estabilidade.
+629.5.017.1	Requisitos de confiabilidade e estabilidade.
+629.5.017.12	Forças dos ventos.
+629.5.017.13	Estabilidade no encalhamento.
+629.5.017.14	Estabilidade no atracamento.
+629.5.017.15	Perda de estabilidade devida à carga volumosa.
+629.5.017.16	Perda de estabilidade devida à água no convés,
+na coberta.
+629.5.017.161	Água na carga do convés.
+629.5.017.162	Superfícies livres da água.
+629.5.017.17	Desconto para congelamento completo.
+629.5.017.2	Manutenção marítima do navio. Estabilidade
+e controlabilidade.
+629.5.017.21	Arfada. Batida.
+629.5.017.22	Balanço.
+629.5.017.23	Guinada.
+629.5.017.24	Deriva.
+629.5.017.25	Estabilidade e dirigibilidade em caso de
+pane do motor.
+629.5.017.26	Forças e momentos de amortecimento.
+Movimento de ondulação.
+629.5.017.28	Forças de controle.
+629.5.017.3	Manobrabilidade.
+629.5.017.5	Capacidade de frenagem.
+629.5.018	Testes: procedimentos, instrumentos, equipamento.
+629.5.018.1	Bacias-modelo e seu equipamento. Inclusive
+Produtores de ondas e equipamentos similares.
+629.5.018.12	Tanques de reboque. Inclusive Tanques de
+ondas. Tanques de reboque despressurizados.
+629.5.018.13	Bacias para finalidades especiais.
+629.5.018.15	Túneis de cavitação.
+629.5.018.2	Equipamento e instrumentos de laboratório para
+realização de experiências e testes.
+629.5.018.22	Modelos de navios com ou sem agentes de
+propulsão.
+629.5.018.23	Dispositivos de reboque.
+629.5.018.26	Equipamento e instrumentos especiais de
+monitoramento e medição para realizar experiências e testes.
+629.5.018.4	Testes de resistência: fadiga, vibração,
+impacto, etc.
+629.5.018.7	Testes.
+629.5.018.71	Testes de modelos.
+629.5.018.72	Teste em escala real.
+629.5.018.75         Testes de navios.
+629.5.018.8	Efeitos de escala. Influência das paredes da bacia
+do modelo.
+629.5.02	Estrutura da embarcação ou navio.
+Leiaute e partes.
+629.5.021	Princípios e propriedades de construção.
+Indicar os navios segundo o material de construção principal por meio de .021-03... com o emprego da Tabela 1k
+629.5.021.1	Definição do tipo e projeto arquitetônico
+do navio.
+629.5.021.12	Navios de escantilhão completo.
+629.5.021.122	Navios de convés, deque liso.
+629.5.021.123	Navios de três ilhas.
+629.5.021.125       	Navios de deque de transbordo.
+629.5.021.127        	Navios de convés, deque elevado ou de parte do tombadílho elevado.
+629.5.021.13	Navios com excessiva amurada livre. Navios
+com conveses cobertos.
+629.5.021.15	Navios de um só convés.
+629.5.021.16	Navios com dois ou mais tombadilhos.
+629.5.021.17	Navios com convés iluminado.
+629.5.021.18	Navios construídos para navegação no gelo
+(com reforço contra gelo no casco), exceto
+quebra-gelos.
+      -> 629.561.5 Navios quebra-gelo
+629.5.021.5	Embarcações infláveis.
+629.5.022	Disposição, leiaute e configuração geral.
+629.5.022.1		Embarcação de um único casco.
+629.5.022.2	Embarcações de casco duplo.
+629.5.022.22         Catamarãs.
+629.5.022.25	Pequenas embarcações hidroplanas
+de casco duplo.
+629.5.022.3	Embarcações de casco tríplice e múltiplo.
+Trimarãs.
+629.5.022.5	Navios articulados, p. ex. embarcações para
+transporte e despejo de lixo no mar.
+629.5.023	Casco, arcabouço e partes estruturais.
+629.5.023.1	Sistemas de arcabouço.
+629.5.023.12         Sistema de arcabouço longitudinal.
+629.5.023.121        Vigas.
+629.5.023.121.1     Vigas centrais.
+629.5.023.121.2	Vigas laterais.
+629.5.023.122	Longitudinais do fundo.
+629.5.023.123	Longitudinais do lado.
+629.5.023.124	Traves de ponta.
+629.5.023.125	Longitudinais de convés.
+629.5.023.13	Sistema de arcabouço transversal.
+629.5.023.131	Assoalhos de prateleiras de fundo duplo.
+629.5.023.17	Sistema de arcabouço composto.
+629.5.023.2	Colocação de placas de revestimento do casco.
+629.5.023.21	Quilha.
+629.5.023.22	Casco do fundo.
+629.5.023.23	Casco de porão.
+629.5.023.24	Casco lateral.
+629.5.023.241	Carreiras de tábuas da curvatura do convés.
+629.5.023.242	Cinto de gelo.
+629.5.023.243	Costado.
+629.5.023.27	Aberturas no casco.
+629.5.023.3	Tipos de convés.
+629.5.023.311	Coberta entre deques superior.
+629.5.023.312	Coberta entre deques inferior.
+629.5.023.313	Alhetas elevadas.
+629.5.023.38	Cobertura do convés.
+629.5.023.4	Estrutura principal e suas partes.
+629.5.023.44	Partes longitudinais, traves.
+629.5.023.441	Traves laterais.
+629.5.23.46	Partes transversais: botalós, suportes, braceamentos.
+629.5.023.461	Transversais laterais.
+629.5.023.462	Arcabouços em teia como suporte de traves laterais.
+629.5.023.463	Anteparas.
+629.5.023.463.1	Anteparas de colisão.
+629.5.023.463.2	Antepara depois do pique.
+629.5.023.463.7	Enrijecedores da antepara.
+629.5.023.463.8	Portas da antepara.
+629.5.023.5	Aberturas do convés, tombadilho.
+629.5.023.53	Escotilhas de apoio. Inclusive
+Braço da escotilha.
+629.5.023.54	Clarabóias.
+629.5.023.7	Ajustamentos do casco.
+629.5.023.71	Luzes de vigias. Janelas.
+629.5.023.72	Aberturas de inspeção. Alçapões.
+629.5.023.73	Portas. Vigias.
+629.5.023.731	Portas estanques, à prova d'água.
+629.5.023.734	Orifícios, vigias de carga.
+629.5.023.735	Portas de carga. Portas de luz.
+629.5.023.736	Rampas.
+629.5.023.737	Cobertas de escotilhas. Cobertas com orifícios.
+629.5.023.8	Assoalhos, pisos.
+629.5.023.82	Pisos contínuos.
+629.5.023.84	Pisos impenetráveis.
+629.5.023.86	Pisos de suporte triangular.
+629.5.023.9	Revestimentos da superfície.
+629.5.024	Casco e superestrutura.
+629.5.024.1	Formas do casco.
+629.5.024.11	Em forma de V.
+629.5.024.12	Em forma de U.
+629.5.024.3	Metade dianteira do casco.
+629.5.024.31	Proa.
+629.5.024.32	Proa bulbosa.
+629.5.024.5	Forma do casco na seção mediana.
+629.5.024.7	Estrutura na seção traseira, da popa.
+629.5.024.71	Disposições da hélice.
+629.5.024.711	Hélice única.
+629.5.024.712	Hélice geminada.
+629.5.024.715	Disposições especiais de hélice.
+629.5.024.72	Limpeza do casco propulsor.
+629.5.024.75	Formas especiais de popa.
+629.5.024.752	Popa bulbosa.
+629.5.024.755	Configuração retorcida da cauda.
+629.5.025	Estruturas especiais. Estabilizadores,
+hidrofólios, etc.
+      -> 629.5.062.2 Sistemas de lastro
+629.5.025.1	Hidrofólios em geral.
+629.5.025.2	Estabilizadores.
+629.5.025.22	Estabilizadores de balanço.
+629.5.025.24	Estabilizadores giroscópicos.
+629.5.025.26	Tanques de balanço.
+629.5.025.4	Projeto de hidrofólios ou estabilizadores. Retangular.
+Exemplo(s) de combinação(ões):
+      629.5.025.4-023.221 Arqueados
+      629.5.025.4-023.3V Em forma de V
+      629.5.025.4-023.44 Retangulares
+      629.5.025.4-023.446 Em forma de trapézio
+      629.5.025.4-023.711 Planos
+629.5.025.5	Leiaute do hidrofólio ou estabilizador em relação ao casco.
+629.5.025.6	Ângulos do hidrofólio ou estabilizadores.
+629.5.025.7	Características da superfície.
+629.5.025.72	Área.
+629.5.025.73	Perfil. Curvatura.
+629.5.025.74	Retorção.
+629.5.025.76	Proporção do aspecto.
+629.5.025.8	Elementos do hidrofólio.
+629.5.026	Estruturas da unidade de controle e da unidade de propulsão.
+629.5.026.1	Número de unidades de propulsão (motores).
+629.5.026.11	Motor único.
+629.5.026.12	Motor duplo.
+629.5.026.13	Três motores.
+629.5.026.14	Quatro ou mais motores.
+629.5.026.2	Casa de máquinas. Compartimento da fornalha. Oficinas e departamentos da casa de máquina.
+629.5.026.22	À popa.
+629.5.026.23	Na parte central do navio.
+629.5.026.24	À proa.
+629.5.026.3	Estações de controle de máquinas.
+629.5.026.4	Túneis. Ductos.
+629.5.026.41	Túnel do eixo propulsor.
+629.5.026.42	Túneis de canalização. Túneis de canos.
+629.5.026.47	Funis. Saídas de exaustão.
+629.5.026.5	Instalações suspensas.
+629.5.026.53	Placas protetoras.
+629.5.026.57	Dispositivos de pás de hélices.
+629.5.026.8	Mastros e mastreamento.
+629.5.028	Fixadores, acoplamentos, montagens e outras estruturas auxiliares.
+629.5.028.2	Dispositivos de compressão.
+629.5.028.3	Dispositivos de reboque.
+629.5.028.5	Dispositivos de quebrar gelo.
+      -> 629.561.5 Navios quebra-gelo
+629.5.028.7	Âncoras e mecanismos de atracamento.
+629.5.028.71	Mecanismos, engrenagens da âncora.
+629.5.028.711	Âncoras.
+629.5.028.712	Correntes, cordas e acessórios de âncora.
+629.5.028.714	Equipamento para levantar a âncora. Cabrestantes. Molinetes.
+      -> 621.864 Guinchos. Sarilhos. Cabrestantes
+629.5.028.715	Tubo de escovem.
+629.5.028.717        Bocas da amarra.
+629.5.028.72	Equipamento de atracação.
+629.5.028.721	Abitas. Postes de amarração. Cabeços.
+629.5.028.722	Cabos de atracamento.
+629.5.028.724        Dispositivos de amortecimento. Amortecedores.
+629.5.03	Sistemas de propulsão do navio.
+Indicar maiores particularidades dos motores por meio de 62-..., especialmente 62-8.... com detalhes através de :621... .
+629.5.031	Sistemas de propulsão que utilizam força
+muscular, forças naturais.
+629.5.031.2	Propulsão à força muscular.
+629.5.031.21	Remos.
+629.5.031.22	Pás de remos.
+629.5.031.3	Propulsão pelo vento.
+629.5.031.32	Velas.
+629.5.031.34	Rotores Flettner.
+629.5.032	Propulsão por roda motriz.
+629.5.032.1	Roda de pá única.
+629.5.032.2	Roda de pá dupla.
+629.5.34	Propulsão por corrente ou cabo.
+629.5.35	Propulsão a hélice.
+629.5.035.5	Tipos e projetos de hélice.
+629.5.035.55	Inclinação ajustável. Inclinação controlável.
+629.5.035.58	Hélices de contra-rotação.
+629.5.035.6	Propulsão Voíth-Schneider.
+629.5.035.8	Eixos de hélice.
+629.5.36	Propulsão por reação ou jato de água.
+629.5.37	Tipos especiais de propulsão, p. ex. propulsão
+por hélice aérea, unidades de propulsão dos
+veículos sobre colchão de ar.
+629.5.38	Sistemas combinados de propulsão.
+629.5.04	Disposição interior. Acomodação. Instalações e
+equipamento.
+629.5.042	Disposição interior e acabamento.
+Compartimentos, cabinas, etc.
+629.5.042.2	Cabinas.
+Exemplo(s) de combinação(ões):
+      629.5.042.2-057.1 Cabinas da tripulação
+	     629.5.042.2-057.68 Cabinas de passageiros
+629.5.042.3	Salões. Refeitórios.
+Exemplo(s) de combinação(ões):
+                                      629.5.042.3-057.1 Salões para os funcionários
+                                      629.5.042.3-057.68 Salões para os passageiros
+629.5.042.5 	Compartimentos de serviço.
+Exemplo(s) de combinação(ões):
+                                      629.5.042.5:643.3 Cozinhas
+                                      629.5.042.5:643.37 Copas
+                                      629.5.042.5:643.42 Bares
+                                      629.5.042.5:643.47 Almoxarifados para mantimentos
+                                      629.5.042.5:643.53 Saguões
+                                      629.5.042.5:643.554 Lavanderias
+                                      629.5.042.5:643.9 Espaços para armazenamento
+                                      629.5.042.5:687.53 Salões de cabeleireiros. Barbearias
+629.5.042.8            Áreas de circulação.
+629.5.042.82	Portas. Saídas.
+629.5.042.84          Corredores.
+629.5.042.86	Escadas.
+629.5.043	Acomodações, postos e alojamento da
+tripulação. Compartimentos de controle.
+629.5.043.1	Áreas, espaços da navegação,
+629.5.043.12	Ponte. Casa do leme.
+629.5.043.122	Postos de observação.
+629.5.043.13	Sala dos mapas.
+629.5.043.14	Sala de rádio. Sala de telecomunicação.
+629.5.043.15	Estação, posto de controle.
+      -> 629.5.026.3 Estações de controle de máquinas
+629.5.043.16	Centro de comando.
+629.5.043.17	Salas do leme de direção.
+629.5.043.2	Salas para pilotos e autoridades portuárias.
+Salas dos oficiais.
+629.5.043.3	Áreas de trabalho da tripulação.
+629.5.043.32         Salas de trabalho.
+629.5.043.34         Espaços destinados a serviços. Áreas de armazéns, depósitos, despensas.
+629.5.043.36         Armários, p. ex. para lâmpadas, tinta, bandeiras.
+629.5.043.4	Áreas para detenção. Celas.
+629.5.44	Dispositivos de entrada/saída, embarque/
+desembarque: escadas, passadiços,
+pranchas, etc.
+629.5.45	Dispositivos para carga/descarga, porão e
+amarração da carga.
+629.5.045.2	Compartimentos de carga. Porões.
+629.5.045.22	Porões para carga seca.
+629.5.045.23	Porões refrigerados.
+629.5.045.24	Compartimentos de bagagem.
+629.5.045.25	Compartimentos para mala postal.
+629.5.045.26	Compartimentos para transporte de
+carga valiosa.
+629.5.045.27	Compartimentos para transporte de carga
+explosiva ou inflamável.
+629.5.045.3	Porões para transporte de animais.
+629.5.045.4	Tanques para carga. Tanques removíveis.
+629.5.045.6	Compartimentos para provisões do navio, para
+mantimentos.
+629.5.045.61	Pique de vante.
+629.5.045.62	Pique de popa.
+629.5.045.63	Tanques de fundo duplo.
+629.5.045.64	Tanques de água potável.
+629.5.045.65	Compartimentos de combustível.
+629.5.045.651	Depósitos de carvão.
+629.5.045.652	Tanques de combustível.
+629.5.046.6	Instalações para serviço médico e de saúde.
+Inclusive enfermarias.
+629.5.046.7	Instalações de higiene.
+Exemplo(s) de combinação(ões):
+                      629.5.046.7:643.521 Banheiros
+                                      629.5.046.7:643.523 Quarto de banho
+                                      629.5.046.7:643.524 Lavatórios
+629.5.047	Instalações e equipamento para proteção e segurança pessoal.
+      -> 629.5.067 Sistemas de segurança e proteção do navio
+629.5.047.2	Dispositivos de saída de emergência.
+629.5.047.5	Provisões para coletes salva-vidas, escaleres
+infláveis, etc.
+629.5.048	Sistemas de climatização. Iluminação.
+      -> 697 Calefação, ventilação e ar-condicionado nas construções
+629.5.048.3	Ar-condicionado.
+629.5.048.4	Ventilação.
+629.5.048.7	Sistemas de calefação e refrigeração para
+todo o navio.
+629.5.048.72	Calefação a vapor.
+629.5.048.73	Calefação a água.
+629.5.048.75         Calefação elétrica.
+629.5.048.78	Refrigeração.
+629.5.048.8	Iluminação.
+      -> 628.9 Iluminação. Engenharia da iluminação
+      -> 629.5.066.2 Iluminação externa
+629.5.05	Sistemas e instrumentos de orientação, controles de iniciação de navegação (instalados no veículo).
+629.5.051	Princípios e objetivo dos sistemas de navegação.
+629.5.051.5	Controle durante a viagem. Inclusive Piloto automático.
+629.5.051.53	Escape de colisões.
+629.5.051.8	Controle e orientação final (aproximação da
+costa, do porto).
+629.5.052	Meios de operação.
+Para as subdivisões, ver 629. 052...
+629.5.053	Sistemas especiais de controle para
+determinados tipos de navio.
+629.5.054	Instrumentos a bordo.
+Exemplo(s) de combinação(ões):
+                                       629.5.054.03 Instrumentos para sistemas de propulsão (usina de força)
+629.5.058	Características operacionais dos sistemas e instrumentos.
+629.5.058 dividido como 629.7.058, quando apropriado
+629.5.058.42	Medição da profundidade. Sondagem.
+629.5.06	Sistemas e dispositivos auxiliares do navio.
+629.5.061	Sistemas e dispositivos de controle de direção.
+629.5.061.1            Mecanismo de pilotagem.
+629.5.061.11	Lemes.
+629.5.061.112	Lemes comuns.
+629.5.061.113	Lemes semibalanceados, semi-equilibrados.
+629.5.061.114	Lemes balanceados, equilibrados.
+629.5.061.115	Lemes de cozinha.
+629.5.061.116	Lemes de Flettner.
+629.5.061.117	Lemes de hidrofólio.
+629.5.061.117.2     Contralemes.
+629.5.061.12	Elementos do leme.
+629.5.061.13	Tipos de projeto de leme.
+629.5.061.131	Ocos (lemes de duas camadas).
+629.5.061.132	Sólidos (lemes de uma camada).
+629.5.061.14	Controles de pilotagem. Inclusive Timões.
+Rodas de pilotagem.
+629.5.061.15	Lemes de ação.
+629.5.061.16	Motores do leme.
+629.5.061.17	Empuxadores em arco.
+629.5.061.2	Elevadores (para controlar o mergulho de um
+submarino).
+629.5.062	Sistemas de controle de ligação/reforço. Sistemas
+de servocontrole.
+629.5.062.2	Sistemas de lastro.
+629.5.062.22	Sistemas de substituição. Sistemas de
+submersão e emersão.
+629.5.062.23	Sistemas de inclinação do navio.
+629.5.062.24	Sistemas de estivação.
+629.5.062.26         	Sistema de lastreamento em tanque de fundo duplo.
+629.5.062.3	Sistemas de controle da usina de força. Inclusive
+Reversores.
+629.5.062.7	Sistemas de controle especial para atracamento e
+ancoragem, amarração (p. ex. para barcas).
+629.5.063	Sistemas auxiliares de abastecimento e
+alimentação.
+Para as subdivisões, ver 629.063...
+629.5.064	Sistemas auxiliares de força (em geral):
+pneumáticos, hidráulicos, elétricos, etc.
+Para as subdivisões, ver 629.064...
+629.5.065	Equipamento de manuseio de material. Inclusive
+Sistemas e dispositivos de reabastecimento de
+combustível. Sistemas e dispositivos de
+reabastecimento de víveres.
+Especificar por meio de :621.86/.87
+      -> 629.5.045 Dispositivos para carga/descarga, estiva e amarração da carga
+629.5.065.2	Mecanismo de manipulação de carga.
+629.5.065.22	Guindastes de carga e seu mastreamento.
+629.5.065.23	Guindastes de convés, de tombadilho.
+629.5.065.25	Linhas de elevação.
+629.5.065.26	Blocos de carga.
+629.5.065.5	Tipos especiais de equipamento.
+629.5.066	Equipamento de observação, sinalização,
+comunicação e identificação.
+629.5.066.1	Dispositivos de observação. Inclusive
+Periscópios.
+629.5.066.2	Iluminação externa.
+629.5.066.22              Luzes de navegação.
+629.5.066.28	Luzes, holofotes de busca.
+629.5.066.3	Equipamento de sinalização e comunicação.
+629.5.066.32	Equipamento de rádio.
+629.5.066.34	Equipamento visual.
+Exemplo(s) de combinação(ões):
+                                      629.5.066.34:683.8 Lâmpadas de sinalização. Luzes de sinalização
+                                      629.5.066.34:929.4 Bandeiras, flâmulas
+                                      629.5.066.34:929.929:003.292.6SEM Semáforo
+629.5.066.347         Equipamento para foguetes e clarões de sinalização. 
+629.5.066.36           Equipamento acústico.
+629.5.066.362	Apitos.
+629.5.066.363	Sirenas.
+629.5.066.364	Buzinas, sirenas de neblina.
+629.5.066.366	Typhons, fones para tufões.
+629.5.066.367	Megafones.
+629.5.066.5	Sistemas de intercomunicação.
+629.5.066.51	Sistemas de mão única, p. ex. sistemas de alto-
+falantes.
+629.5.066.52	Sistemas de mão dupla, p. ex. telefones, tubos
+de comunicação.
+629.5.066.54	Telégrafos da sala de máquinas.
+629.5.066.8	Marcas de identificação.
+629.5.067	Sistemas de segurança e proteção do navio.
+      -> 627.77 Salvamento marítimo, salva-vidas. Segurança e sobrevivência dos marinheiros
+      -> 629.5.047 Instalações e equipamento para proteção e segurança pessoal
+      -> 656.08 Acidentes. Assistência em acidentes
+629.5.067.2	Botes salva-vidas (como parte do equipamento).
+629.5.067.3	Mecanismos de manipulação dos botes.
+Inclusive Turcos, serviola para içar escaleres.
+629.5.067.7	Trilhos e toldos.
+629.5.067.8	Sistemas para proteção contra incêndio e
+combate a incêndio. Equipamento contra
+incêndios.
+Especificar por meio de :614.84...
+629.5.068	Sistemas auxiliares especiais que fazem parte do
+navio.
+629.5.068.2	Sistemas para provisão de água.
+629.5.068.3	Sistemas de esgoto e drenagem.
+629.5.068.4	.         Sistemas para descarte de lixo.
+629.5.069	Outros sistemas auxiliares que fazem parte da
+embarcação.
+629.5.07	Aspectos técnicos das operações navais
+(técnicas operacionais), inclusive desempenho. 
+Usar as subdivisões de .07 para indicar equipamento, dispositivos, modificações técnicas, etc. para as operações relacionadas
+Para os aspectos não-técnicos, usar 656.6 com .052
+629.5.071	Operações e preparações preliminares para navegar. Operações após a atracação, a ancoragem.
+629.5.072	Operações de navegação e pilotagem em geral. Inclusive Testes de navio.
+629.5.072.1	Cálculos de navegação. Mapeamento da rota.
+629.5.072.182	Navegação de círculo máximo
+629.5.072.184	Navegação de loxodromia
+629.5.072.4	Técnicas de manobras. Manobras.
+629.5.072.8	Instrução. Treinamento dos oficiais de
+navegação.
+629.5.073	Técnicas operacionais para condições especiais.
+629.5.073 dividido como 656.052.5
+629.5.073.2	Manobras às cegas.
+629.5.073.4	Navegação em condições de gelo.
+629.5.073.5	Navegação com mau tempo.
+629.5.073.7	Navegação com mudanças súbitas nas condições, p. ex. pane do motor, 
+629.5.075	Técnicas de partida. Operações para se por em
+movimento, para dar partida.
+      -> 629.5.085 Equipamento e técnicas de terra, cais ou porto para partida do porto, desatracar, zarpar. Manutenção final antes de zarpar
+629.5.075.1	Saída do porto. Desatracação.
+629.5.075.2	Zarpar de um cais ou eclusa.
+629.5.075.3	Levantar ferros.
+629.5.076	      Técnicas operacionais durante a viagem.
+629.5.077	Técnicas de chegada. Operações de atracação,
+amarração e ancoragem.
+-> 629.5.087 Equipamento e técnicas de base ou de terra para entrada, atracamento, amarração, ancoragem, etc. Botalós
+629.5.077.1	Chegada do mar. Pilotagem em hidrovias 
+confinadas. Atracação.
+629.5.077.2	Entrada no cais. Alçar ao plano inclinado.
+629.5.077.3	Ancoragem.
+629.5.078	Operações de manutenção a bordo (pela tripulação).
+629.5.078.4	No porto.
+629.5.078.6	Em viagem, no mar, etc.
+629.5.08	Equipamento, instalações e técnicas relacionadas 
+com o porto, o ancoradouro.
+      -> 627.3 Instalações portuárias internas. Docas. Desembarcadouros. Cais. Instalações e equipamento
+629.5.081	Estaleiros e fábricas de construção de navios:
+equipamento e técnicas de produção.
+629.5.081.2	Dispositivos para construção e reparo de
+navios.
+629.5.081.22	Picadeiros de carreira.
+629.5.081.24	Dispositivos de lançamento de navios ao mar.
+629.5.081.3	Instalações do cais.
+629.5.081.32	Cais secos.
+629.5.081.322	Cais de construção. Diques secos.
+629.5.081.323	Ferrovias para instalações marítimas.
+629.5.081.324	Cais de levantamento mecânico.
+629.5.081.326	Cais secos flutuante.
+Exemplo(s) de combinação(ões):
+629.5.081.326-214.3 Cais secos flutuantes seccionais
+629.5.081.328       Equipamento e maquinaria para diques secos.
+Exemplo(s) de combinação(ões):
+629.5.081.3 28:621.65 Bombas para diques secos 
+629.5.081.328:626.422 Comportas, portões de inundação para diques secos
+629.5.081.34         Docas para armação de navios. Docas de carga e descarga.
+629.5.081.4	Técnicas de construção e reparo de navios.
+629.5.081.5	Lançamento.
+629.5.081.52	Preparo do navio para lançamento.
+629.5.081.53	Lançamento por plano inclinado.
+629.5.081.532	Lançamento de proa à popa, longitudinal.
+629.5.081.534	Lançamento transversal, do lado da largura.
+629.5.081.54	Flutuação numa doca de construção.
+629.5.081.7	Operações de arremate e acabamento.
+629.5.082	Instalações de abastecimento em terra, na base:
+abastecimento e fornecimento de combustível,
+lubrificante, água, etc.
+629.5.083	Vistoria e manutenção. Reparo. Modificações.
+Para técnicas, ver 629.5.081...
+629.5.083.2	Vistoria de classificação.
+629.5.083.4	Manutenção.
+629.5.083.5	Reparos no navio.
+629.5.083.6	Conversão.
+629.5.083.65           Adaptação de navios mercantes em tempo de guerra.
+629.5.083.7	Modernização.
+629.5.084	Peças sobressalentes e de reposição. Inclusive
+Saída. Almoxarifados. Controle do estoque.
+629.5.085	Equipamento e técnicas de terra, cais ou porto
+para partida do porto, desatracar, zarpar.
+Manutenção final antes de zarpar.
+629.5.086	Equipamento e técnicas da base ou de terra para
+controle das navegações e marchas de ensaio em
+viagem.
+629.5.087	Equipamento e técnicas de base ou de terra para
+entrada, atracamento, amarração, ancoragem, etc. 
+Botalós, etc..
+Divisões principais
+629.51/.58	Tipos de embarcações e sua construção.
+Barcos e navios.
+629.51	Estruturas flutuantes sem meios
+específicos de propulsão.
+629.512	Estruturas aquáticas móveis simples.
+Inclusive Jangadas. Balsas de troncos.
+629.514	Estruturas estacionárias. Inclusive Casas
+flutuantes. Barcos que servem de moradia.
+Hotéis flutuantes. Plataformas.
+      -> 629.563.2 Plataformas de perfuração
+      -> 728.77 Moradias flutuantes (barcos, balsas, etc.). Casas em barcos. Casa-barco
+629.516	Bóias.
+      -> 627.713 Marcadores, indicadores e guias flutuantes. Bóias
+629.516.2	Bóias de atracação.
+629.516.4	Bóias para armazenamento de líquidos.
+629.52	Embarcações e botes de pequeno porte.
+629.521	Botes pequenos primitivos e simples.
+Inclusive pirogas. Canoas de um só tronco
+escavado.
+629.522	Botes impelidos por vara ou remo de popa.
+629.522.2	Barcos de fundo chato impelidos por vara.
+629.522.4             Gôndolas.
+629.523	Botes impulsionados por remo.
+629.523.2	Caiaques.
+629.523.4	Canoas.
+629.524	Barcos a remo, escaleres a remo, barcos a
+remo de corrida.
+629.524.2	Do tipo comum.
+629.524.4	Tipo de corrida ou esporte.
+629.525	Veleiros, barquinhos a vela e pequenos iates
+a vela.
+629.525.2	Veleiros de mar aberto. Esquifes leves.
+629.525.3	Barcos pequenos a vela.
+629.525.4	Barcos a vela de corrida (com casco único,
+catamarã, trimarã).
+629.526	Barcos a motor e pequenas lanchas a motor
+(com motor interno ou externo).
+629.526.2	Barcos a motor com cabina.
+629.526.4	Barcos a motor de corrida ou esportes. Barcos
+de velocidade.
+629.527	Barcos salva-vidas.
+629.527.2	Barcos salva-vidas comuns.
+629.527.3	Barcos insubmergíveis.
+629.527.4	Acessórios de barcos salva-vidas.
+629.528	Lanchas a motor para vários passageiros
+(principalmente para hidrovias). Barcas de
+passageiros.
+629.53	Embarcações a vela. Navios a vela grandes.
+629.532	Navios a vela antigos (com ou sem remos).
+Inclusive Galeões. Caravelas.
+629.533	Veleiros pequenos de alto-mar. Inclusive
+Cúteres. Chalupas. Brigues. Dhows.
+629.534	Veleiros grandes.
+629.534.2	Veleiros completos de panos redondos.
+Inclusive Brigues. Fragatas.
+629.534.3	Navios de panos mistos. Inclusive Barcas.
+Bergantins. Brigues-escuna.
+629.534.4	Navios de panos da proa à popa. Escunas.
+629.535	Veleiros com motores auxiliares.
+629.535.2	Vapores com velas.
+629.535.4	Navios a motor com velas.
+629.54	Navios a motor em geral. Embarcações a motor para viajar no mar. Embarcações a motor para grandes cursos de águas 
+                      interiores. Navios costeiros. 
+629.541                  Embarcações que transportam passageiros e carga.
+629.541.2		Barcas. Balsas.
+		Exemplo(s) de combinação(ões):
+                                        629.541.2:629.331 Barcas, balsas para transporte de automóveis.
+                                     629.541.2:629.4 Barcas, balsas para transporte de trens
+629.541.4	Navios de passageiros.
+629.541.41	Navios de carreira.
+629.541.42	Navios de cruzeiro.
+629.541.6	Navios-hospital.
+629.542	Navios cargueiros. Navios mercantes.
+629.542.2              Navios cargueiros em geral.
+629.542.4               Navios cargueiros com refrigeração.
+629.542.6              Navios para transporte de madeira.
+629.543	Navios-tanque.
+629.544	Navios de contêineres.
+629.545	Navios com equipamentos especiais para
+manuseio de carga.
+629.545.2	Navios roll-on/roll-off.
+629.545.4	Transportadores de barcaças.
+629.545.6	Navios-dique.
+629.546	Navios para transporte de mercadorias
+volumosas.
+629.546.2	Transportadores de cargas volumosas, a granel.
+629.546.4	Transportadores de minérios.
+629.546.6	Transportadores de cargas de minérios, cargas a
+granel e cargas de líquidos.
+629.55	Embarcações de hidrovias (rios e canais).
+629.552	Barcas de rios e canais.
+629.553	Navios de passageiro (para cruzeiros,
+turismo) de rios e canais.
+629.555	Barcaças a motor. Cargueiros a motor em
+hidrovias (rios e canais).
+629.556	Navios-tanque de hidrovias (rios e canais).
+629.56	Vasos e embarcações para fins especiais.
+629.561	Embarcações de serviço.
+629.561.1	Rebocadores.
+629.561.11	Rebocadores de porto.
+629.561.12	Rebocadores de alto-mar.
+629.561.2	Impulsores, empurradores, propulsores.
+629.561.4	Navios de combate a incêndios.
+	      -> 614.846.9 Embarcações de combate a incêndios. Barcos de bombeiros 
+629.561.5	Navios quebra-gelo.
+      -> 629.5.028.5 Dispositivos de quebrar gelo
+629.561.7	Embarcação-piloto. Embarcações de serviços administrativos do porto.
+629.562	Embarcações de pesca.
+629.562.2	Traineiras.
+629.562.3	Embarcações com redes de arrasto.
+629.562.4	Lugres.
+629.562.5	Barcos de pesca de cavalinhas.
+629.562.6	Barcos de pesca à deriva.
+629.562.7	Baleeiros.
+629.562.8	Navios-fábrica.
+629.563	Embarcações para trabalhos na plataforma
+continental.
+629.563.2	Plataformas de perfuração.
+629.563.21	Semi-submersíveis.
+629.563.22	Plataformas de içar.
+629.563.23	Plataformas de gravidade.
+629.563.24	Plataformas de suporte de tensão.
+629.563.25	Torres com cabos de sustentação.
+629.563.3	Navios com sonda de perfuração.
+629.563.4	Navios para manutenção e marcação de rotas de
+navegação.
+629.563.42	Dragas. Embarcações de desassoreamento.
+629.563.422	Dragas de nora.
+629.563.424	Dragas de sucção.
+629.563.44	Navios de colocação de bóias.
+629.563.45	Navios-farol.
+629.563.5	Navios-guindaste.
+629.563.6	Navios de colocação de cabos. Navios de
+colocação de tubos.
+629.563.7	Embarcações de recuperação de óleo.
+Escumadores de óleo.
+629.563.8	Embarcações auxiliares de assistência e
+abastecimento.
+629.563.82	Embarcações de abastecimento.
+629.563.84	Navios mergulhadores.
+629.564	Navios meteorológicos, navios para
+pesquisas, explorações e expedições.
+629.564.2	Navios para pesquisa espacial ou cósmica.
+629.564.3	Navios de pesquisa oceanográfica.
+629.564.4	Embarcações de pesquisa hidrográfica.
+629.564.5	Embarcações de pesquisa de biologia marinha.
+629.564.7	Navios de explorações e expedições, p. ex.  
+embarcações de pesquisa polar.
+629.565	Embarcações especiais para serviços
+portuários, manuseio de carga, reparos de
+navios.
+629.565.1	Guindastes flutuantes.
+629.565.2	Docas flutuantes.
+629.565.3	Pontões e barcaças.
+629.566	Embarcações de salvamento e recuperação
+marítima.
+      -> 627.76 Salvamento marítimo. Salvamento, desencalhe de navios 
+629.57	Embarcações de escumar a superfície.
+      Indicar a embarcação de finalidade especial por meio de : 629.5 4/.56
+629.572	Embarcações de hidrofólio. Hidroplanos.
+629.574	Navios com efeito de superfície.
+629.576	Veículos sobre colchão de ar. Hovercraft.
+      -> 629.437 Veículos ferroviários sobre colchão de ar. Hovertrains
+629.58	Embarcações subaquáticas. Submersíveis.
+Submarinos,
+      -> 623.827 Embarcações submarinas. Submersíveis
+629.582	Sinos de mergulho.
+629.584	Dispositivos submersíveis. Inclusive
+Batisferas. Batiscafos.
+629.585	Submarinos.
+629.7	Engenharia de transporte aéreo e
+espacial. Aeronáutica e aeronaves. Foguetes e mísseis. Astronáutica e astronaves.
+      -> 347.823.34 Aeronavegabilidade
+      -> 351.814 Fiscalização do tráfego aéreo
+      -> 623.7 Aviação militar e naval. Camuflagem, etc.
+      -> 656.7 Transporte aéreo. Tráfego aéreo
+Subdivisões auxiliares especiais
+629.7.01	Princípios, características e testes de projetos de veículos aéreos/espaciais.
+                             	      -> 533.6 Aerodinâmica
+                                      -> 629.7.021 Princípios e propriedades de construção (do todo ou das partes)
+629.7.012	Dimensões. Projeto dimensional.
+629.7.012.2	Comprimento total.
+629.7.012.3	Largura ou vão.
+629.7.012.5	Profundidade ou diâmetro.
+629.7.013	Pesos (pesos totais ou brutos, cargas úteis etc.).
+629.7.013.1	Peso de construção.
+629.7.013.2	Peso vazio. Peso de tara.
+629.7.013.3	Peso do combustível.
+629.7.013.5	Peso da carga útil.
+629.7.014	Finalidades funcionais e modo de uso.
+                      Usar os auxiliares relacionados em 629.014... apenas para finalidades ocasionais ou especiais,  ou para usos não 
+                                         previstos nas subdivisões diretas de 629.7  As subdivisões adicionais de .014.1 para uso em 629.7 estão relacionadas 
+                                        aqui 
+629.7.014.16         Decolagem e aterrissagem vertical (VTOL, Vertical Take-Off and Landing). Decolagem e aterrissagem em pista curta{STOL, 
+                               Short Take-Off and Landing). 
+629.7.014.18         Tripulado.
+629.7.015	Mecânica e dinâmica em relação ao meio.
+Inclusive Problemas do projeto aerodinâmico.
+Requisitos de força.
+629.7.015.3	Problemas aerodinâmicos que influem no projeto.
+Especificar os problemas por meio de  :533.6...
+629.7.015.4	Requisitos de força. Requisitos aerodinâmicos e
+estruturais do projeto.
+Especificar por meio de  :539.4...
+      -> 629.7.018.4 Testes de resistência estrutural
+629.7.015.7	Problemas aeromecânicos (mecânica de vôo) que
+afetam o projeto.
+629.7.016	Características e recursos de vôo (considerações
+do projeto). Desempenho. Avaliações.
+629.7.016.2	Altitude.
+629.7.016.3	Alcance.
+629.7.016.5	Velocidade.
+629.7.016.52	Subsônica (até Mach 1).
+629.7.016.53	Trans-sônica (Mach 0,8 até Mach 1,3).
+629.7.016.54	Supersônica (Mach l até 4,99).
+629.7.016.55	Hipersônica (Mach 5 para cima).
+629.7.016.7	Avaliação da propulsão.
+629.7.016.8	Características e recursos em condições especiais.
+629.7.016.82         A grandes ângulos de ataque. 
+629.7.016.84         Características de flutuação no espaço. 
+629.7.016.86         Características de transição.
+629.7.017	Confiabilidade operacional. Capacidade de vôo.
+Capacidade espacial.
+      -> 533.6.013 Dinâmica das máquinas aeronáuticas
+	      -> 656.085.1 Acidentes devido a defeitos intrínsecos do veículo. Inadequação para uso na estrada, no mar,
+	      no ar. Desgaste de veículos pelo uso
+629.7.017.1	Confiabilidade, eficácia. Vulnerabilidade.
+Precisão. Durabilidade. Efeitos do uso, etc.
+629.7.017.2	Estabilidade. Controlabilidade.
+      -> 533.6.013.4 Estabilidade
+      -> 629.7.062.2 Sistemas de controle de altitude
+629.7.017.21                Ângulo de inclinação. Estabilidade longitudinal.
+629.7.017.22	Giro. Estabilidade lateral.
+629.7.017.23	Guinada.
+629.7.017.25	Estabilidade e controlabilidade em caso
+de pane do motor.
+629.7.017.26	Forças e momentos de amortecimento.
+629.7.017.27	Derivados da estabilidade.
+629.7.017.28	Forças de controle.
+629.7.017.3	Manobrabilidade.
+629.7.017.5	Capacidade de frenagem.
+      -> 629.7.062.5 Sistemas de controle dos freios pneumáticos
+629.7.018	Procedimentos e equipamento de teste do
+veículo. Equipamento de laboratório aeronáutico. Modelos de aeronaves.
+629.7.018.1	Túneis de vento. Tubos de choque.
+      -> 533.6.071 Túneis de vento: desenho, construção, ajuste
+629.7.018.2	Equipamento de laboratório para modelos
+móveis e testes de vôo livre.
+629.7.018.3	Raios de ação aerobalísticos. Trenós de
+foguetes. Outras instalações e dispositivos de
+teste de vôo.
+629.7.018.4	Testes de resistência estrutural. Inclusive Testes
+de fadiga, vibração, impacto.
+Especificar por  :620.17...
+      -> 629.7.015.4 Requisitos de força. Requisitos aerodinâmicos e estruturais do projeto
+629.7.018.7	Testes de vôo.
+629.7.018.72              Testes confinados.
+629.7.018.74               Testes de modelo voador.
+629.7.018.77               Laboratórios e veículos de pesquisa volantes.
+629.7.02	Estrutura do veículo aéreo/espacial. Princípios
+de construção. Disposição, leiaute geral e partes.
+629.7.021	Princípios e propriedades de construção
+(do todo ou das partes).
+629.7.021.1	Monocoque.
+629.7.021.2	Semimonocoque (revestimento protendido).
+629.7.021.3	Estruturas espaciais.
+629.7.021.4	Sólidas.
+629.7.021.5	Infláveis.
+629.7.021.6	Retráteis.
+629.7.022	Disposição, leiaute e configuração geral. Relação
+das partes com o todo.
+629.7.023	Casco. Arcabouço. Partes estruturais.
+629.7.023.2	Cobertura. Revestimentos, painéis, aberturas, etc. Portas externas. Janelas. Capotas transparentes, etc. 
+629.7.023.22              Revestimentos. Superfícies.
+629.7.023.24	Coberturas, carenagens, frisos. Nacelas.
+629.7.023.25	Painés, coberturas removíveis. Painéis
+articulados. Portas externas.
+629.7.023.26	Painéis, janelas, coberturas transparentes.
+629.7.023.27	Aberturas na superfície externa, no
+revestimento, p. ex. para ductos de refrigeração,
+ductos de combustível, antenas.
+629.7.023.4	Elementos estruturais. Arcabouços. Nervuras,
+apoios, esteios, etc.
+629.7.023.42	Nervuras. Moldadores.
+629.7.023.44               Elementos longitudinais. Inclusive Longarinas.
+Traves.
+629.7.023.46	Elementos transversais. Inclusive Longarinas de
+asas. Suportes. Esteios. Pontos fortes.
+629.7.023.8	Ligações entre os elementos estruturais.
+629.7.024	Corpos.
+629.7.024.1	Formas do corpo. Tipos de fuselagem.
+629.7.024.11	Fuselagem única, simples.
+629.7.024.12	Fuselagem dupla, gêmea.
+629.7.024.15              Cápsulas.
+629.7.024.18               Formas complexas. Inclusive Aglomerados.
+629.7.024.2	Corpos e asas fundidos. Inclusive Estruturas de
+reentrada projetadas para decolagem/
+lançamento e reentrada.
+629.7.024.3	Partes dianteiras da fuselagem. Inclusive
+Narizes. Cones.
+629.7.024.5	Partes principais da fuselagem. Seções centrais.
+629.7.024.7	Partes traseiras da fuselagem. Lanças de cauda.
+629.7.024.8	Bases.
+629.7.025	Superfícies de elevação e controle. Aerofólios.
+Asas. Estabilizadores, etc.
+629.7.025.1	Asas em geral.
+629.7.025.11	Asa única: monoplano.
+629.7.025.12	Asas duplas, múltiplas: biplano, triplano, etc.
+629.7.025.14	Asas mestras: do nariz à cauda, para
+configurações sem cauda.
+629.7.025.15	Asas mestras para outras configurações.
+629.7.025.16	Asas dianteiras.
+629.7.025.17	Asas traseiras.
+629.7.025.2	Estabilizadores em geral.
+629.7.025.3	Superfícies de controle em geral.
+629.7.025.32	Controles gerais.
+629.7.025.33	Slats. Spoilers.
+629.7.025.34	Ailerons.
+629.7.025.35	Flaps. Freios. Pára-quedas de aço.
+629.7.025.36	Lemes de profundidade. Elevons.
+629.7.038	Superfícies de controle auxiliar. Inclusive Asas.
+629.7.025.4	Perfil de asas e estabilizadores. Recuo e avanço.
+Formatos: cones, triângulos, deltas, etc.
+629.7.025.5	Disposição das asas, estabilizadores, etc. em
+relação às fuselagens.
+Indicar a posição vertical, horizontal, inclinada,  por meio de 111...
+629.7.025.52	Acima e separada da fuselagem.
+629.7.025.522           Montantes rígidos. 
+629.7.025.524          Asas de Rogallo.
+629.7.025.54	Posição de asa alta sobre a fuselagem.
+629.7.025.55	Posição de asa média, normal em relação à
+superfície.
+629.7.025.56	Posição de asa baixa.
+629.7.025.58	Em volta da fuselagem e separado dela: anular,
+semi-anular.
+629.7.025.6	Ângulos das asas, dos estabilizadores, etc.
+629.7.025.7	Características de superfícies das asas,
+estabilizadores, etc. Inclusive Área, perfil,
+curvatura, torção. Relação de conicidade.
+Relação de envergadura (razão vão-corda).
+629.7.025.8	Elementos das asas, estabilizadores, etc.
+629.7.025.82	Arestas.
+629.7.025.84	Pontas. Pontas das asas.
+629.7.025.86             Raiz, base. 
+629.7.025.88             Bordos de fuga.
+629.7.026	Estruturas dinâmicas de elevação e controle.
+Estruturas da unidade de propulsão.
+629.7.026.1	Número de unidades ou motores.
+629.7.026.11	Unidade única. Monomotor.
+629.7.026.12	Duas unidades. Bimotor.
+629.7.026.13	Três unidades. Trimotor.
+629.7.026.14	Quatro unidades. Quadrimotor,
+629.7.026.5	Dispositivos rotativos de elevação e controle.
+      -> 629.7.035 Propulsão por hélice: hélice propulsora, rotor
+629.7.026.55           Dispositivos do propulsor, da hélice. 
+629.7.026.56           Dispositivos do rotor.
+629.7.026.57	Dispositivos da pá de hélice.
+629.7.026.58	  Estabilizadores rotativos.
+629.7.026.6	Estruturas da unidade de propulsão segundo a posição.
+629.7.026.62	Acima e separadas da asa.
+629.7.026.63	Ligadas diretamente à asa.
+629.7.026.64	Dentro da asa.
+629.7.026.65	Ligadas diretamente à fuselagem.
+629.7.026.66	Dentro da fuselagem.
+629.7.026.67	Separadas da fuselagem.
+629.7.026.68	Nas pontas do rotor.
+629.7.027	Trens de aterrissagem. Dispositivos de
+decolagem, aterrissagem e atracação nos
+veículos.
+      -> 629.7.085/.087
+629.7.027.2	Conjunto principal do trem de pouso,
+roda e truque.
+629.7.027.23	Rodas. Unidades de lançamento. Truques, etc.
+629.7.027.24	Trens de pouso especiais. Inclusive Acessórios
+especiais, amortecedores de choque para
+trens de pouso.
+Exemplo(s) de combinação(ões):
+629.7.027.24-182.8 Trens de pouso destacáveis 
+629.7.027.24.021.6 Trens de pouso retráteis
+629.7.027.3	Patins, esquis e acessórios, no avião, etc.
+629.7.027.4	Bóias e acessórios no avião, etc. Hidrofólio no avião, etc.
+      -> 629.572 Embarcações de hidrofólio. Hidroplanos
+629.7.027.5	Dispositivos de proteção para fuselagem,
+caudas e pontas das asas durante a decolagem e
+aterrissagem.
+629.7.027.6	Ganchos de parada no avião, etc. Dispositivos
+semelhantes para aterrissagem em pista curta.
+      -> 629.7.087.22 Mecanismos de retenção
+629.7.027.7	Dispositivos e mecanismos de atracação em
+aeronaves, etc.
+      -> 629.7.087.27 Dispositivos de atracação
+629.7.028	Ligações. Engates. Acoplamentos. Estruturas
+auxiliares.
+629.7.028.2	Ligações (externas). Mecanismos de separação.
+629.7.028.3	Dispositivos de reboque na aeronave, etc.
+629.7.028.4	Montagens e traves, lanças ou braços
+acessórios. Inclusive Montagens, etc. para placas
+de baterias solares em astronave.
+629.7.028.6	Estruturas auxiliares. Torres, redomas
+de radar, etc.
+629.7.03	Sistemas de propulsão em veículos
+aéreos/espaciais.
+629.7.031	Propulsão da aeronave com uso de forças
+naturais, força muscular, etc.
+629.7.031.2	Propulsão pela força muscular.
+629.7.031.7	Pressão de radiação.
+629.7.031.8	Efeitos elétricos e magnéticos.
+Eletrogravitacionais.
+629.7.035	Propulsão por hélice: hélice propulsora, rotor.
+      -> 62-8 Máquinas segundo a força motriz, a força propulsora. Fonte de energia da máquina
+      -> 621.4 Máquinas térmica (exceto máquinas a vapor)
+      -> 629.7.026.5 Dispositivos rotativos de elevação e controle
+629.7.035.2	Propulsão por hélice com motor de pistão.
+629.7.035.25/.27 dividido como 629.7.035.5/.7
+629.7.035.25	Propulsão por hélice-pistão.
+629.7.035.26         Propulsão por pistão-rotor.
+629.7.035.3	Propulsão por hélice e turbomotor.
+                      629.7.035.35/.37 dividido como 629.7.035.5/.7  
+629.7.035.35         Propulsão por turbina. Turbopropulsão.
+629.7.035.37	Propulsão turbo-hélice.
+629.7.035.5	Hélices: tipos e desenho.
+629.7.035.52	Hélices de tração.
+629.7.035.53	Hélices de empuxo.
+629.7.035.55	Hélices de inclinação, passo variável. Hélices
+com passo ajustável ou controlável.
+Passo-bandeira, etc.
+629.7.035.56	Hélices de reversão. Hélices de frenagem.
+629.7.035.58	Hélices de contragiro.
+629.7.035.6	Rotores.
+629.7.035.62	Rotores principais.
+629.7.035.67	Rotores de cauda.
+629.7.035.7	Ventoinhas.
+629.7.036	Propulsão por pressão de reação. Propulsão a
+jato. Propulsão de foguete, etc.
+      -> 621.45 Motores a jato
+      -> 629.76 Engenharia de foguetes e mísseis. Foguetes. Mísseis
+629.7.036.2	Tubo propulsor.
+629.7.036.22           Motor à reação, estatorreator.
+629.7.036.24              Jatopulso.
+629.7.036.3	Turbojato.
+629.7.036.5	Propulsão a foguete.
+629.7.036.7	Propulsão elétrica e eletromagnética.
+629.7.036.72	Propulsão eletrotérmica. Arco-jato
+(arco de plasma).
+629.7.036.73	Propulsão eletrostática, iônica. Propulsão
+fotônica, etc.
+629.7.036.74	Propulsão eletrodinâmica. Jato de plasma
+(plasma comprimido que utiliza as forças
+magnetoidrodinâmicas).
+629.7.036.8	Propulsão nuclear.
+      -> 621.039.578 Reatores para propulsão
+629.7.038	Sistemas combinados de propulsão.
+629.7.04	Disposição interna dos veículos aéreos/
+espaciais. Acomodações. Instalações.
+Equipamento.
+629.7.042	Disposição interna e acabamento.
+Compartimentos, cabinas, etc.
+629.7.042.2	Revestimento interno. Inclusive Forros,
+revestimentos. Anteparas. Portas internas.
+629.7.043	Acomodações da tripulação. Compartimentos do capitão, do piloto. Convés de vôo. Carlinga, etc.
+629.7.044	Dispositivos para embarque e desembarque, entrada e saída. Escadas. Pranchas de embarque e desembarque, etc. (instaladas 
+                                     no veículo).
+629.7.045	Manuseio e estocagem da carga. Disposições para carga, descarga, armazenamento da carga. Amarração da carga, fixação.
+629.7.046	Dispositivos para conforto e serviços aos passageiros.
+Especificar por meio de -64... e :684...
+629.7.046.2	Dispositivos do salão principal.
+629.7.046.5	Instalações de cozinha, de copa.
+629.7.046.7	Instalações higiênicas, sanitárias. Inclusive
+Lavatórios. Instalações para banho.
+629.7.047	Instalações e equipamento para proteção e
+segurança pessoal.
+629.7.047.2	Dispositivos de saída de emergência. Inclusive
+Assentos ejetáveis. Cápsulas.
+629.7.047.4	Cintos de segurança.
+629.7.047.5	Cintos salva-vidas. Coletes salva-vidas. Barcos
+infláveis, etc. (em caso de amerissagem forçada).
+629.7.047.8	Roupa de proteção. Inclusive Trajes
+pressurizados. Trajes antigravidade. Trajes espaciais.
+629.7.048	Sistemas de sustentação da vida. Climatização
+(sistemas instalados no avião). Ar-condicionado.
+Pressurização da cabina. Suprimento de
+oxigênio. Calefação. Refrigeração. Iluminação.
+629.7.048.3	Sistemas de ar-condicionado, de pressurização
+nas cabinas.
+629.7.048.4	Sistemas de abastecimento de oxigênio, de
+purificação do ar.
+629.7.048.7	Sistemas de controle da temperatura, de
+aquecimento, de resfriamento.
+629.7.048.8	Iluminação.
+      -> 628.9 Iluminação. Engenharia da iluminação
+629.7.05	Sistemas e instrumentos de orientação, iniciação
+do controle e navegação (instalados no avião).
+629.7.051	Princípios. Finalidade.
+629.7.051.2	Sistemas de controle inicial e orientação
+(para decolagem e ascensão).
+629.7.051.5	Sistemas de controle e orientação em viagem.
+Inclusive Piloto automático.
+629.7.051.53	Prevenção de colisão. Escape do mau tempo.
+629.7.051.56	Escape de má rota.
+629.7.051.8	Sistemas de orientação e controle final, de  
+chegada. Aproximação, aterrissagem,
+acoplamento.
+629.7.052	Meios de operação.
+Para as subdivisões, ver 629 052...
+629.7.054	Instrumentos a bordo.
+      629.7.054 dividido como 629.3.054
+629.7.054.2	Instrumentos para monitorar o mecanismo de
+propulsão e o combustível.
+629.7.054.23	Manômetros.
+629.7.054.3	Instrumentos para monitorar outros sistemas e
+mecanismos.
+Especificar por meio de .0... 
+629.7.054.4	Instrumentos para medir as relações do veículo
+com o ambiente externo.
+629.7.054 dividido como 629.7.058.4
+629.7.054.42	Altímetros.
+629.7.054.45	Indicadores de velocidade aérea.
+629.7.054.47	Horizontes artificiais.
+629.7.058	Características básicas da operação dos
+dispositivos de observação e indicação.
+629.7.058.4	Finalidades funcionais dos sistemas e instrumentos.
+629.7.058.42	Medição da altura ou altitude.
+                                    	       -> 531.717.3 Mensuração da altura. Mensuração da profundidade. Mensuração do grau
+629.7.058.43	Medição da distância ou alcance.
+629.7.058.44	Indicação de direção.
+629.7.058.45	Medição da velocidade.
+629.7.058.47	Indicação da atitude (inclinação, ângulo, guinada).
+629.7.058.48	Deriva.
+629.7.058.5	Funções de operação.
+629.7.058.52	Nem transmissão nem recepção (independente).
+629.7.058.53	Recepção apenas. Inclusive Navegação passiva.
+629.7.058.54	Transmissão e recepção. Inclusive Radar.
+629.7.058.55	Transmissão apenas. Inclusive Com sistemas de
+radiofarol que localizam o veículo para indicação
+de pista, etc.
+629.7.058.6	Métodos de comparação dos parâmetros
+medidos ou dados recebidos.
+629.7.058.62	Comparação da amplitude, inclusive dos  
+sistemas direcionais.
+629.7.058.64	Comparação de freqüência.
+629.7.058.66	Comparação de fase.
+629.7.058.68	Comparação do tempo de viagem,
+629.7.058.7	Saída da operação. Exposição da operação.
+629.7.058.72          Sistemas acústicos. Inclusive Sistemas de
+aterrissagem por 'diálogo'.
+629.7.058.74	Exposição visual. Inclusive exposição de mapa
+pictórico. Exposição simulada.
+629.7.058.75	Sistemas diretos ao controle.
+629.7.058.76	Sistemas via telemetria.
+629.7.058.77	Saída da operação registrada.
+629.7.058.8	Elementos. Montagens. Painéis.
+629.7.058.82           Elementos. Unidades giro-inerciais. Montagens.
+629.7.058.85	Painéis. Painéis de instrumentos, etc.
+629.7.06	Sistemas e dispositivos auxiliares em veículos
+aéreos/espaciais.
+629.7.062	Sistemas de ligação e reforço do controle.
+Servocontrole, etc.
+629.7.062.2	Sistemas de controle de altitude.
+629.7.062.21/.23 dividido como 629.7.017.21/.23
+629.7.062.22	Sistemas de controle de rolagem.
+629.7.062.3	Sistemas de controle da usina de força. Inclusive
+Empuxo. Reversor.
+629.7.062.4	Sistemas de controle do fluxo de ar (exceto os
+freios). Fluxo laminar.
+629.7.062.5	Sistemas de controle dos freios pneumáticos.
+      -> 629.7.017.5 Capacidade de frenagem
+629.7.062.7	Sistemas de controle do trem de aterrissagem,
+trem de pouso.
+629.7.063	Sistemas auxiliares de suprimento e alimentação.
+Para subdivisões, ver 629.063...
+629.7.064	Sistemas auxiliares de força em geral.
+Para as subdivisões, ver 629.064...
+629.7.065	Equipamento de manuseio de material. Inclusive
+sistemas e dispositivos de reabastecimento de
+combustíveis. Sistemas e dispositivos de
+reabastecimento de víveres.
+-> 629.7.045 Manuseio e estocagem da carga. Disposições para carga, descarga, armazenamento da carga. Amarração da carga, fixação.
+Especificar por meio de :621.86/.87
+629.7.066	Equipamento e dispositivos de observação,
+sinalização, comunicação e identificação.
+      -> 654.9 Sinalização. Serviços diversos de telecomunicação. Controle remoto (telecontrole)
+629.7.066.1	Dispositivos de observação. Inclusive
+Periscópios. Astródomos.
+629.7.066.3	Dispositivos indicadores, de sinalização.
+629.7.066.5	Sistemas de intercomunicação.
+629.7.066.8	Marcas de identificação. Marcas de
+instrução.
+629.7.067	Sistemas de segurança e proteção nos veículos aéreos/espaciais. Inclusive Prevenção contra acúmulo de gelo. 
+                               Dispositivos para remover o gelo e a chuva. Sistemas de combate a incêndios.
+                              	      -> 614.8 Acidentes. Riscos. Proteção contra acidentes. Proteção pessoal. Segurança
+                                       -> 62-776 Dispositivos de limpeza
+                                       -> 62-787 Meios e dispositivos de assegurar visibilidade
+629.7.067.5	Contra acúmulo de gelo e chuva. Inclusive
+Sistemas de remoção.
+629.7.067.8	Contra acidentes. Inclusive Sistemas para
+supressão de explosão. Sistemas de combate a incêndios.
+Especificar por meio de  :614.8...
+629.7.069	Outros sistemas auxiliares que fazem parte do
+veículo. Inclusive Sistemas de armamento.
+629.7.07	Aspectos técnicos das operações (técnicas
+operacionais), inclusive desempenho.
+Usar as subdivisões de  .07 para indicar o equipamento, os dispositivos, as modificações técnicas, etc. para as operações relacionadas 
+Para os aspectos não-técnicos, usar 656.7com  .052
+629.7.071	Operações preliminares e preparativos. Operações após a aterrissagem e a parada.
+629.7.072	Operações de pilotagem, navegação em geral. Inclusive Vôos de teste, vôos de prova. Treinamento.
+       629.7.072 dividido como 656.052,  exceto 656.052.5
+629.7.072.116	Fixação de posição em aeronave.
+629.7.072.154	Altura acima do solo, da aeronave.
+629.7.072.172	Velocidade no ar, da aeronave.
+629.7.072.174	Ângulo e taxa de subida ou descida
+629.7.073	Técnicas operacionais para condições especiais.
+629.7.073 dividido como 656.052.5
+629.7.073.2	Vôo cego.
+629.7.073.6	Vôo em áreas difíceis, regiões montanhosas, etc.
+629.7.073.7	Vôo com mudanças súbitas nas condições,  
+p. ex. pane do motor.
+629.7.075	Técnicas de decolagem ou lançamento.
+-> 629.7.085 Equipamento de base e procedimento técnico para decolagem, lançamento
+629.7.075.4	Separação da plataforma.
+629.7.075.6	Separação dos estágios.
+629.7.076	Operações em vôo. Desempenho em vôo.
+629.7.076.2	Fase de subida, ascensão. Manobras
+de ascensão.
+629.7.076.4	Fase de cruzeiro. Manobras de mudança
+de curso.
+629.7.076.46	Curso de colisão. Curso de interceptação.
+629.7.076.6	Fase orbital. Manobras orbitais.
+      -> 521.3 Determinação da órbita
+629.7.076.66	Encontro, acoplamento.
+629.7.076.8	Fase de reentrada. Cálculos, manobras para
+reentrada.
+629.7.077	Técnicas de descida e aterrissagem.
+      -> 629.7.087 Equipamento de base e procedimento técnico
+629.7.078	Operações de manutenção a bordo (pela
+tripulação).
+629.7.08	Equipamento, instalações e técnicas de
+solo ou base.
+      -> 625.717 Áreas pavimentadas para campos de aviação e aeroportos. Pistas de aeroportos
+      -> 656.71 Locais de aterrissagem. Campos de pouso. Aeródromos. Aeroportos e serviços auxiliares
+      -> 725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de 
+      serviços públicos
+629.7.081	Instalações e equipamento dos hangares e oficinas em geral.
+629.7.082	Instalações de serviços auxiliares e de abastecimento. Depósitos e armazéns para combustível, água, gás de inflar, etc.
+629.7.083	Manutenção. Serviço, assistência e reparo de veículos aéreos/espaciais.
+629.7.084	Peças sobressalentes e de reposição. Controle do estoque, de saída, etc. Depósitos e almoxarifados de peças sobressalentes.
+      -> 621.796 Guarda. Armazenamento
+629.7.085	Equipamento de base e procedimento técnico
+para decolagem, lançamento.
+629.7.085.2	Para decolagem a partir do solo ou de nave.
+Inclusive trilhos, cabos, catapultas. Troles de decolagem. Rampas de lançamento. Silos.
+629.7.085.22	Trilhos.
+629.7.085.23	Cabos.
+629.7.085.24	Catapultas.
+629.7.085.25	Troles de decolagem.
+629.7.085.26	Rampas de lançamento.
+629.7.085.27	Silos.
+629.7.085.4	Para decolagem a partir do mar ou outra
+superfície aquática.
+629.7.085.5	Para decolagem subaquática.
+629.7.085.6	Para decolagem a partir de uma aeronave.
+629.7.085.7	Para decolagem a partir de balões.
+629.7.085.8	Para decolagem a partir de base extraterrestre.
+Inclusive A partir de satélites artificiais,
+estações espaciais, superfície lunar ou outros
+corpos celestes.
+629.7.86	Equipamento de base e procedimento técnico
+para vôos de prova e de teste. Equipamento de
+rastreamento.
+629.7.87	Equipamento de base e procedimento técnico
+para aterrissagem, parada, atracação.
+629.7.087.2	Para aterrissagem na atmosfera, na superfície do 
+solo ou em embarcação. 
+629.7.087.22          Mecanismos de retenção. Inclusive redes de retenção. Barreiras de retenção. Cabos de
+retenção.
+       -> 629.7.027.6 Ganchos de parada no avião, etc. Dispositivos semelhantes para aterrissagem em pista curta
+629.7.087.27         Dispositivos de atracação. Inclusive Mastros de atracação. Pilastras de atracação. Torres
+de atracação.
+      -> 629.7.027.7 Dispositivos e mecanismos de atracação em aeronaves, etc.
+629.7.087.4	Para amerissagem ou pouso sobre outra
+superfície aquática.
+629.7.087.6	Para recuperação por dispositivos
+aéreos de agarrar.
+629.7.087.8	Para aterrissagem em lugares extraterrestres.
+Inclusive Em satélites artificiais, estações
+espaciais, superfície lunar, ou outros corpos
+celestes.
+Divisões principais
+629.73	Engenharia aeronáutica. Aeronaves.
+	      -> 533.61/.66
+629.733	Aeronaves mais leves do que o ar
+(aeróstatos).
+629.733.3	Balões.
+629.733.5	Balões dirigíveis.
+629.734/.735           Aeronaves mais pesadas do que o ar (aeródinos).
+629.734	Aeródinos sem propulsão.
+629.734.3	De asa fixa (inclusive de forma variável,
+flexível, etc.).
+629.734.33	Planadores. Aeronaves a vela
+629.734.333	Planadores.
+629.734.334	Aeronaves a vela. Asas-delta.
+629.734.34	Pipas, papagaios.
+629.734.4	Asas móveis. Inclusive Rotorchutes.
+629.734.5	Híbridos (combinação de asas fixas e móveis).
+629.734.7	Sem asas. Inclusive Pára-quedas.
+629.735	Aeródinos motorizados. Aeroplanos.
+Aeronaves de rotor.
+629.735.3	Aeroplanos de asa fixa (inclusive asa basculante,
+de forma variável, etc.).
+629.735.33	Aviões terrestres (apenas para distinguir dos
+hidroplanos).
+629.735.35	Hidroplanos. Hidroaviões.
+629.735.4	Dispositivos de asas móveis, dinâmicas.
+Aeronaves de rotor.
+629.735.43	Autogiros. Giroplanos.
+629.735.45	Helicópteros.
+629.735.47	Ornitópteros.
+629.735.5	Híbridos (combinação de asas fixas e móveis).
+629.735.7	Aeronave motorizada sem asas, com exceção de 
+foguetes e mísseis. Inclusive 'Estrados voadores.' Plataforma voadora.
+629.76	Engenharia de foguetes e mísseis.
+Foguetes. Mísseis.
+	      	Exemplo(s) de combinação(ões):
+                                       629.76.038 Foguetes e mísseis (de propulsão) com estágios múltiplos
+                                     -> 621.454 Foguetes químicos
+629.762	Mísseis (balísticos e não-balísticos).
+      -> 623.4.08 Peças, cargas e acessórios de projéteis, foguetes e mísseis teleguiados
+      -> 623.46 Mísseis teleguiados. Foguetes. Sistemas de direção, curvas de vôo, lançamento. Ogivas
+629.762.2	Mísseis balísticos.
+629.762.5	Mísseis não-balísticos.
+629.764	Foguetes de lançamento de veículos
+espaciais.
+629.765	Foguetes de sondagem de alta altitude e
+sondas quase espaciais.
+629.78	Engenharia de vôo espacial. Astronáutica.
+Naves espaciais.
+629.782	Espaçoplanos com asas para vôo na camada
+limite da atmosfera (projetados para vôo
+controlado na atmosfera, para manobras
+orbitais e retorno à Terra).
+629.783	Satélites artificiais. Inclusive Satélites de
+navegação. Satélites de comunicação ou
+retransmissão.
+629.784	Veículos espaciais para transporte de
+pessoal e equipamento para estações
+orbitais e interplanetárias, etc.
+629.785	Sondas espaciais (para a Lua, circunlunar,
+planetária, circunplanetária, para o Sol e
+para vôo circunsolar).
+629.786	Estações espaciais (orbitais, para pesquisa,
+não para aterrissagem ou retorno).
+629.786.2	Estações espaciais orbitais (próximas da Terra).
+629.787	Veículos interplanetários e lunares para
+aterrissagem, sem retorno.
+629.788	Veículos interplanetários e lunares para
+aterrissagem e retorno.
+629.9	Veículos conversíveis, projetados 
+para uso normal em um ou mais de um meio.
+Os veículos projetados para uso fundamentalmente num único meio são classificados em 629.1/.7
+629.92	Veículos para viagem sobre trilhos ou em
+estradas de rodagem. Veículos para ferrovias e rodovias.
+629.94	Veículos para viagem em terra ou água.
+Veículos anfíbios.
+629.95	Veículos para viagem na terra ou no ar.
+629.97	Veículos para viagem na água ou no ar.
+      -> 629.735.35 Hidroplanos. Hidroaviões
