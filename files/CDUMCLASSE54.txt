@@ -98,7 +98,7 @@ Daltonídeos.
 54-381	Sais básicos.
 54-383	Sais neutros.
 54-384	Sais ácidos.
-54-384.l	Sais ácidos primários.
+54-384.1	Sais ácidos primários.
 54-384.2	Sais ácidos secundários.
 54-384.3	Sais ácidos terciários.
 54-386	Sais duplos. Compostos complexos.
@@ -254,7 +254,7 @@ Concentração.
 542.74	Purificação e solução de gases. Inclusive Frascos de lavar. Frascos de Woulfe.
 542.74 dividido como  66.074
 542.743.1	Secagem de gases.
-542.745.l	Lavagem de gases. Purificação de gás de absorção.
+542.745.1	Lavagem de gases. Purificação de gás de absorção.
 542.76	Armazenamento de gás. Gasômetros.
 542.76 dividido como 66.076
 542.762.3	Gasômetros de mercúrio.
@@ -276,7 +276,7 @@ Os auxiliares de 54-I3/-16 não são usados em 542.9
 reações
 542.913	Síntese.
 Exemplo(s) de combinação(ões): 
-542.913-977Pirossintese
+542.913-977 Pirossintese
 542.92	Decomposição. Craqueamento
 Exemplo(s) de combinação(ões):
 542.92’43 Decomposição oxidativa
@@ -328,7 +328,7 @@ Subdivisões auxiliares especiais
 543.061	Análise qualitativa. Detecção. Identificação.
 543.062	Análise quantitativa. Estimativa.
 543.063	Procedimentos microquímicos.
-543.063.l                   Semi microprocedimentos.
+543.063.1                   Semi microprocedimentos.
 543.063.2	Microprocedimentos.
 543.063.21	Submicroprocedimento.
 543.063.22	Ultramicroprocedimento.
@@ -420,7 +420,7 @@ Titulação de redox.
 543.242.87	Com ácido ascórbico. Ascorbinometria.
 543.242.89	Com outros agentes redutores.
 543.243	Titulação de precipitação.
-543.243.l	Com nitrato de prata. Argentometria.
+543.243.1	Com nitrato de prata. Argentometria.
 543.243.2	Com rodaneto de amônio. Rodanidometria.
 Método de Volhard.
 543.243.3	Com sais de óxido (superiores e inferiores) de mercúrio.
@@ -448,7 +448,7 @@ Exemplo(s) de combinação(ões):
 543.272	Absorção seletiva de gases. Determinação dos
 constituintes gasosos específicos. Unidades e conjuntos de absorção.
 ->543.544.33 Cromatografia a gás sólido
-543.272.l	Determinação do oxigênio.
+543.272.1	Determinação do oxigênio.
 543.272.2	Determinação do hidrogênio.
 543.272.3	Determinação do nitrogênio total. Inclusive Determinação de óxidos de nitrogênio.
 Informações sobre métodos, instrumentação, equipamento etc. podem ser indicadas pelos
@@ -489,9 +489,9 @@ Especificar por meio de .0...
 543.273 dividido como 543.272
 543.275	Determinação de constituintes não-gasosos em
 suspensões, aerossóis, fumaças, poeiras.
-543.275.l	Umidade. Conteúdo de água.
+543.275.1	Umidade. Conteúdo de água.
 Exemplo(s) de combinação(ões):
-543.275.l.08 Medidores de umidade. Higrômetros. Psicrômetros
+543.275.1.08 Medidores de umidade. Higrômetros. Psicrômetros
 -> 533.275 Umidade. Higrometria
 543.275.2	Partículas líquidas, gotículas (exceto de água). Inclusive Óleo.
 543.275.3	Partículas sólidas. Inclusive Poeira. Areia.
@@ -550,7 +550,7 @@ Espectrometria. Espectrofotometria.
 Indicar o tipo de radiação por meio de -7 
 Exemplo(s) de combinação(ões):
 	      543.422.3-74 Espectrometria infravermelha
-       543.422.3-76Espectrometria ultravioleta
+       543.422.3-76 Espectrometria ultravioleta
 543.422.7	Análise colorimétrica. Análise fotocolorimétrica.
 543.423	Análise de emissão.
 543.423.1	Análise atômica.
@@ -559,7 +559,7 @@ Exemplo(s) de combinação(ões):
 543.424.2	Analise dos espectros de Raman. Espectroscopia de Raman.
 543.424.4	Análise dos espectros de reflexão. Espectroscopia de reflexão.
 543.426	Análise luminescente.
-543.426.l	Análise espectral de íluorescência atômica.
+543.426.1	Análise espectral de íluorescência atômica.
 543.427	Análise espectral de raios X.
 543.427.2	Análise espectral de absorção de raios X.
 543.427.3	Análise de emissão de raios X.
@@ -767,7 +767,7 @@ da substância.
 543.621.323	Determinação da água de hidratação cristalina
 nas substâncias inorgânicas.
 543.63	Análise de substâncias orgânicas.
-543.63l	Determinação da composição de substâncias orgânicas.
+543.631	Determinação da composição de substâncias orgânicas.
 543.631 dividido como 543.61
 543.632	Métodos específicos de análise de substâncias orgânicas.
 543.632.2	Constituintes e propriedades obtidas pelo aquecimento a altas temperaturas.
@@ -955,7 +955,7 @@ Subdivisões auxiliares especiais
 544.016.2	Relação composição/temperatura. Análise térmica. Diagramas de composição/temperatura.
  Exemplo(s) de combinação(ões):
 544.016.2:543.572.3 Análise térmica diferencial
-544.0l6.2’.543.573 Termogravimetria 
+544.016.2’.543.573 Termogravimetria 
 544.016.2:543.575 Dilatometria
 544.016.3	Relação composição/pressão. Diagramas de composição/pressão.
 544.016.4	Relação de composição/solubilidade. Diagramas de composição/solubilidade.
@@ -968,7 +968,7 @@ Subdivisões auxiliares especiais
 544.021	Composição e fórmulas gerais. Inclusive Fórmulas e símbolos moleculares, estruturais.
 gerais, empíricos. Simbólica química.
 544.022	Estrutura.
-544.022.l	Seqüência posicional dos átomos numa molécula.
+544.022.1	Seqüência posicional dos átomos numa molécula.
 544.022.11	Átomos primários.
 544.022.12	Átomos secundários.
 544.022.13	Átomos terciários.
@@ -1515,11 +1515,11 @@ Exemplo(s) de combinação(ões):
                                           por meio de :53...
 543.3.031 Condições-padrão e estados-padrão
 543.3.032 Variações das condições e dos estados. Efeito das condições variantes sobre um estado e as propriedades de um sistema
-543.3.032 .1Estabilidade. Constância
-543.3.032 .2Ação de efeitos mecânicos
-543.3.032 .3Ação de efeitos da pressão (volume)
-543.3.032 .4Efeitos da temperatura
-543.3.032 .5Efeitos elétricos e magnéticos
+543.3.032.1 Estabilidade. Constância
+543.3.032.2 Ação de efeitos mecânicos
+543.3.032.3 Ação de efeitos da pressão (volume)
+543.3.032.4 Efeitos da temperatura
+543.3.032.5 Efeitos elétricos e magnéticos
 544.3.032.7 Efeitos físico-químicos
 544.3.032.72	Efeitos de concentração
 544.3.032.73	Efeitos de solvente e soluto. Efeitos da parede do vaso
@@ -1545,7 +1545,7 @@ Exemplo(s) de combinação(ões):
 544.313.2	Potencial isobárico-isotérmico. Energia livre.
 Energia de Gibbs (G, ΔG).
 Exemplo(s) de combinação(ões):
-544.313.2.03l Energia livre-padrão de formação
+544.313.2.031 Energia livre-padrão de formação
 544.313.3	Potencial isocórico-isotérmieo. Energia de
 Helmholtz (F, ΔF).
 544.313.4	Potencial químico. Potencial isobárico molar
@@ -1648,7 +1648,7 @@ Exemplo(s) de combinação(ões):
 544.344.014	Sistemas de quatro fases e multifásicos.
 544.344.015	Estado de fase.
 Exemplo(s) de combinação(ões):
-544.344.015.032. l Estabilidade de fase 
+544.344.015.032.1 Estabilidade de fase 
 544.344.015.032.1.032.4 Efeitos da temperatura. Estabilidade térmica
 544.344.015.2	Formação da fase. Nucleação.
 -> 542.65 Solidificação. Espessamento
@@ -1711,10 +1711,10 @@ Exemplo(s) de combinação(ões):
       544.35.032.1 Estabilidade da solução 
       544.35.032.72 Efeitos da concentração nas propriedades da solução. Lei de Raoult-Van’t Hoff 
       544.35.038 Volumetria da solução 
-      544.35.038.1Volume molar. 
-      544.35.038.2Volume molal. 
-      544.35.038.3Volume excluído 
-      544.35.038.4Volume de excesso
+      544.35.038.1 Volume molar. 
+      544.35.038.2 Volume molal. 
+      544.35.038.3 Volume excluído 
+      544.35.038.4 Volume de excesso
       544.35.038.5 Pressão interna. Compressibilidade da solução
 -> 54-145 Soluções (fase líquida homogênea)
       -> 544.342 Equilíbrio de sistemas homogêneos. Equilíbrio homogêneo
@@ -1885,7 +1885,7 @@ intermolecular.
 544.431.122	Excitação. Estado excitado. Ativação. Estado
 ativado. Complexo ativado.
 Exemplo(s) de combinação(ões):
-544.431.122:544.15Energia de ativação 
+544.431.122:544.15 Energia de ativação 
 544.431.122.032.1 Estabilidade. Meia-vida
 544.431.122.2	Estado de transição.
 544.431.122.3	Estado quente. Estado de solo quente.
@@ -2008,8 +2008,8 @@ Inibidores. Retardantes.
 544.478	Catalisadores.
 Exemplo(s) de combinação(ões):
                                           544.478.03 Catalisadores por composição
-544.478.01Composição de fase de um catalisador
-544.478.02Estrutura e textura do catalisador
+544.478.01 Composição de fase de um catalisador
+544.478.02 Estrutura e textura do catalisador
 544.478.023.5 Dispersividade do catalisador 
 544.478.023.57 Superfície especifica do catalisador
 544.478.l	Atividade do catalisador. Ativação do
@@ -2892,7 +2892,7 @@ Exemplo(s) de combinação(ões):
 546.284-31 Dióxido de silício SiO2 
 546.284-325 Ácido silícico H2SiO3 
 546.284:161 Tetrafluoreto de silício SiF4
-        546.284’161-32 Ácido fluorsílicico H2SiF6
+546.284’161-32 Ácido fluorsílicico H2SiF6
 546.286	Derivados do silício hexavalente.
 546.287	Compostos do silício orgânico. Ácido silico-oxálico HOOSi-SiOOH.
 ->547’1128 Compostos orgânicos de silicone
@@ -2921,12 +2921,12 @@ Metais do primeiro grupo.
 546.311	Generalidade sobre os metais alcalinos.
 546.32	Potássio K.
 Exemplo(s) de combinação(ôes):
-      546.32-31 Óxido de potássio K2O
+546.32-31 Óxido de potássio K2O
       546.32-36 Hidróxido de potássio KOH
       546.32-39 Peróxido de potássio K2O2
       546.32’131 Cloreto de potássio KCI
       546.32’135 Clorato de potássio KCIO3
-      546.32’l73 Nitrito de potássio KNO2
+      546.32’173 Nitrito de potássio KNO2
       546.32’175 Nitrato de potássio KNO3
       546.32’185 Fosfatos de potássio
       546-32’226 Sulfato de potássio K2SO4
@@ -2937,7 +2937,7 @@ Exemplo(s) de combinação(ôes):
       546.32’273 Borato de potássio K24O7
       546.32’273-39 Perborato de potássio KO2.H2O2.3H20
       546.32’2S4 Silicatos de potássio K2O.xSiO2
-	      546.32’284'16I Fluorsilicato de potássio K2SiF6
+	546.32’284'161 Fluorsilicato de potássio K2SiF6
 546.33	Sódio Na.
 Exemplo(s) de combinação(ões):
       546.33’131 Cloreto de sódio NaCl. Sal de cozinha
@@ -3367,12 +3367,12 @@ Inclusive Álcool caprílico.
 547.268.19	Hexadecanóis (álcoois hexadecílicos)
 C16H33OH. Inclusive Álcool cetílico
 (palmitílico).
-547.268.3l		Hexacosanóis C26H53OH. Inclusive Álcool
+547.268.31		Hexacosanóis C26H53OH. Inclusive Álcool
 cerílico. Cerotina.
 547.269	Derivados monossubstituídos de
 hidrocarbonetos saturados que contêm enxofre
 diretamente ligado ao carbono.
-547.269.l	Mercaptanos CnH2n+1SH.
+547.269.1	Mercaptanos CnH2n+1SH.
       546.269.1 dividido como 547.26
 547.269.3	Ácidos sulfônicos. Ácidos sulfônicos.
 substituídos no grupo –SO3H.
@@ -3399,7 +3399,7 @@ Exemplo(s) de combinação(ões):
 Análogos que contêm enxofre.
 547.281	Monoaldeídos saturados [CnH2no]
 547.281 dividido como 547.21
-547.281.l	Formaldeído HCHO.
+547.281.1	Formaldeído HCHO.
 547.281.2	Acetaldeído.
 547.281.21	Acetaldeído monômero.
 547.281.22	Paraldeído.
@@ -3413,7 +3413,7 @@ Análogos que contêm enxofre.
 547.286.2 dividido como 547.21
 547.288	Produtos da condensação de aldeídos e de
 cetonas com amônia, hidrazina, etc.
-547.288.l	Compostos de amônio.
+547.288.1	Compostos de amônio.
 547.288.15	Hexamina (hexametilenetetramina).
 547.288.2	Compostos de amina.
 547.288.3	Compostos de hidrazina. Hidrazonas.
@@ -3612,7 +3612,7 @@ diretamente ligado ao carbono.
 547.411	Compostos polialogenados em geral.
 547.412	Derivados polialogenados de hidrocarbonetos
 saturados.
-547.412.l	Derivados polialogenados do metano.
+547.412.1	Derivados polialogenados do metano.
 547.412.11	Derivados dialogenados CH2Hlg2
 547.412.12	Derivados trialogenados CHHlg3
 547.412.122	Trifluorometano CHF3
@@ -3682,14 +3682,14 @@ Exemplo(s) de combinação(ões):
 dois átomos separados de carbono.
 547.425	Compostos de enxofre bivalente.
 547.426	Álcoois triídricos e seus derivados.
-547.426.l               Glicerol (glicerina) C3H8O3.
+547.426.1               Glicerol (glicerina) C3H8O3.
 547.426.2              Éteres e ésteres de glicerol.
 547.426.24	Ésteres de ácidos inorgânicos.
 Exemplo(s) de combinação(ões):
 547.426.24’171 Nitroglicerina C3H5(ONO2)3
 547.427	Álcoois poliídricos superiores. Suas relações
 com os açúcares. Compostos sulfurosos superiores.
-547.427.l	Álcoois tetraídricos. Eritritol C4H10O4.
+547.427.1	Álcoois tetraídricos. Eritritol C4H10O4.
       547.427.1 dividido como 547. 21
 547.427.2	Álcoois pentaídricos. Adonitol C3,H12:O5.
 547.427.3	Álcoois hexaídricos. Manitol C6H14O6 .
@@ -3768,7 +3768,7 @@ Indicar os derivados de açúcar pela combinação de apóstrofo
 547.455.8	Octoses.
 547.455.9	Monossacarídeos superiores.
 547.458	Polissacarídeos.
-547.458.l	Açúcares polissacarídeos em geral.
+547.458.1	Açúcares polissacarídeos em geral.
 547.458.2	Bissacarídeos. Inclusive Sucrose (Sacarose.
 Açúcar de cana). Maltose. Trealose.
 547.458.3	Trissacarídeos. Inclusive Dextrose.

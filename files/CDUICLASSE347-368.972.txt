@@ -859,7 +859,7 @@ empréstimo. Ágio.
 347.728.6	Posição jurídica de empresas estrangeiras.
 347.728.7	Penalidades.
 347.73	Instituições comerciais. Direito financeiro.
-347.73l	Instituições intermediárias entre produtores e
+347.731	Instituições intermediárias entre produtores e
 consumidores,  inclusive para proteção de seus
 interesses.
 347.731.l	Bolsas. Inclusive Bolsas de valores. Bolsas de

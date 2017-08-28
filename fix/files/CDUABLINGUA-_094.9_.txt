@@ -113,22 +113,22 @@ pode exigir entradas de classificação separadas, como as seguintes
 <09>Subdivisões auxiliares comuns
 
 =00	Multilíngüe. Poliglota
-      → 81`246.3 Multilingüismo. Plurilingüismo) em geral. Trilingüismo (em particular)
-      → 81`374.8-022.218  Dicionários segundo o número de línguas
+<09>81`246.3 Multilingüismo. Plurilingüismo) em geral. Trilingüismo (em particular)
+<09>81`374.8-022.218  Dicionários segundo o número de línguas
 =02	Originais ou suas adaptações
 (não traduzidos)
 =021		Versões originais (não adaptadas, sem alterações)
 =025	Versões adaptadas, alteradas, corrigidas
-      → (0.046) Edições revistas.  Novas  edições
-      → (0.074)  Emendas.  Adendos.  Pós-escritos
+<09>(0.046) Edições revistas.  Novas  edições
+<09>(0.074)  Emendas.  Adendos.  Pós-escritos
 
 =030		Documentos traduzidos. Traduções
-                →  81`25 Teoria da tradução
-		        →  81`322 Lingüística computacional
+<09>81`25 Teoria da tradução
+<09>81`322 Lingüística computacional
   Indicar a língua fonte por .030.1 /.9 e a língua-alvo diretamente por =1/=9, p. ex.:
-<06>61=030.161.1 Documentos médicos traduzidos do russo.
-<06>61=030.161.1= 133.1 Documentos médicos traduzidos do russo para o francês (arquivados junto com outras traduções médicas do russo)
-<06>61= 133.1=030.161.1 Documentos médicos traduzidos do russo para o francês (arquivados
+  61=030.161.1 Documentos médicos traduzidos do russo.
+  61=030.161.1= 133.1 Documentos médicos traduzidos do russo para o francês (arquivados junto com outras traduções médicas do russo)
+  61= 133.1=030.161.1 Documentos médicos traduzidos do russo para o francês (arquivados
   junto com outros documentos médicos em francês)
 
 =1/=9  Linguagens  (naturais e artificiais).
@@ -426,7 +426,7 @@ alfabética - Tabela 1h)
 =371	Burushaski
 =41	Línguas afro-asiáticas (camito semíticas).
 =411                       Línguas semíticas.
-=41l.l	Línguas semíticas setentrionais.
+=411.1	Línguas semíticas setentrionais.
 =411.11	Acadiano (acádio).
 =411.111	Babilônico.
 =411.112	Assírio.
@@ -477,7 +477,7 @@ alfabética - Tabela 1h)
 =411.45	Tigrina.
 =411.49	Outras línguas etíope-semíticas.
 =412	Egípcio-copta.
-       =412`0l Egípcio antigo 
+       =412`01 Egípcio antigo 
       =412`04 Egípcio médio 
       =412`05 Egípcio novo 
       =412`07 Egípcio ulterior (demótico) 
@@ -1242,7 +1242,7 @@ central).
 =621.252.9	Outras línguas de Sumatra.
 =621.253	Línguas javanesas.
 =621.253.1	Javanês.
-       =62l.253`01 Kawi
+       =621.253`01 Kawi
 =621.253.2 Madurês.
 =621.253.3 Sundanês.
 =621.254 Línguas balinesas.
@@ -1547,15 +1547,15 @@ internacionais (interlínguas).
 <09>Linguagens de programação. Linguagens de computador.
       Usar apenas quando se desejar indicar a língua em que está escrito o documento em processo de classificação (p. ex., um programa 
       de computador
-     → 004.912=93c++ Programa de processamento de texto escrito em C++
-     → 004.43 Linguagens de computador
-     → 004.655 Linguagens de bases de dados
+<09>004.912=93c++ Programa de processamento de texto escrito em C++
+<09>004.43 Linguagens de computador
+<09>004.655 Linguagens de bases de dados
       Especificar por meio da extensão alfabética
 
 (0...) TABELA 1d. AUXILIARES COMUNS DE FORMA
 
 <09>OBJETIVO. Os auxiliareS comuns de forma indicam o formato ou a apresentação dos documentos. Não são usados para indicar o assunto de que tratam os documentos As formas literárias poesia, peças de teatro, ficção, etc.) são classificadas em 82-1/-9. Tipos de formas que não estejam relacionados na Tabela 1d podem ser indicados por meio de (0:...). p, ex.:
-<06>929(0:82-31) Biografia apresentada em forma de romance
+<06>82-31) Biografia apresentada em forma de romance
 <09>ORDEM DE CITAÇÃO. Estes auxiliares são normalmente usados em seguida a uma notação de assunto, mas, se desejado, todos os documentos que compartilham um mesmo formato ou apresentação (ou seus sucedâneos) podem ser agrupados sob o auxiliar de forma apropriado, p. ex. :
 
 <01>54
@@ -1595,7 +1595,7 @@ outras listas de preços)
       (0.023) subdividido como -03 (Tabela Ik)
 (0.023.552)	Documentos em couro trabalhado, pergaminho.
 (0.024)	Documentos segundo a disposição espacial da impressão.
-      → (086.4) Representações sólidas, tridimensionais
+<09>(086.4) Representações sólidas, tridimensionais
 (0.024.3)	Documentos com impressão estereográfica. Inclusive Anáglifos.
 (0.024.5)	Documentos com impressão em perspectiva.
 (0.024.7)	Documentos com impressão panorâmica.
@@ -1610,10 +1610,10 @@ outras listas de preços)
 (0.027)	Tipo de edição.
 (0.027.2)	Edições-padrão.
 (0.027.3)	Edições populares.
-      → (0.062) Exposição de caráter popular, de nível elementar
+<09>(0.062) Exposição de caráter popular, de nível elementar
 (0.027.5)	Edições em brochura.
 (0.027.6)	Edições de luxo. Edições artísticas. Edições para bibliófilos e colecionadores.
-      → 094.3 Edições de arte. Edições refinadas
+<09>094.3 Edições de arte. Edições refinadas
 (0.027.8)	Edições não-autorizadas. Edições piratas.
 (0.028)	Documentos defeituosos.
 (0.028.1)	Documentos incompletos. Exemplares em que faltam páginas.
@@ -1634,10 +1634,10 @@ computador, etc.
 perfuradas. Fita magnética. Disco magnético.
 (0.034.1)	Documentos digitais
 	      Especificar o tipo de documento acrescentando o sufixo do arquivo, combinando com (084 ...)
-	      (0.034.2:084.122A/Z) Documentos digitais audiovisuais. Arquivos de animação de software  
-	      (0.034.2:084.122FLA) Flash (pacote de animação on line usando gráficos de vetor)
-	      (0.034.2:084.122PPT) Power Point Documents 
-	      (0.034.2:084.122SCR) Windows Screen Saver
+<06>(0.034.2:084.122A/Z) Documentos digitais audiovisuais. Arquivos de animação de software  
+<06>(0.034.2:084.122FLA) Flash (pacote de animação on line usando gráficos de vetor)
+<06>(0.034.2:084.122PPT) Power Point Documents 
+<06>(0.034.2:084.122SCR) Windows Screen Saver
 	      (0.034.2A/Z) Documentos digitais principalmente texto
 	      (0.034.2ASP) Active Server Page (Microsoft)
 	      (0.034.2DOC) Word Document 
@@ -1649,23 +1649,23 @@ perfuradas. Fita magnética. Disco magnético.
 	      (0.034.2SGML) Standard Generalized Markup Language
 	      (0.034.2TXT) ASCII Text
 	      (0.034.2XML) Extensive Markup Language
-	      (0.034.2:084.12A/Z) Fotografias imóveis digitais (imagens)
-	      (0.034.2:084.12BMP) Bitmap image
+<06>(0.034.2:084.12A/Z) Fotografias imóveis digitais (imagens)
+<06>(0.034.2:084.12BMP) Bitmap image
 	      (0.034.2 084.12GIF) Graphic Interchange Format GIF (apenas 256 cores)
 	      (0.034.2 084.12JPEG) Joint Photographic Expert Group. NOTA: usar, alternativamente, (0.084.2:084.12JPG)
-	      (0.034.2:084.12TIFF) TIFF Tag Image File Format
+<06>(0.034.2:084.12TIFF) TIFF Tag Image File Format
 	      (0.034.2 084.12PNG) PNG Portable Network Graphics
-	      (0.034.2:084.12PSD) Photoshop Document (Adobe Photoshop)
-	      (0.034.2:084.122A/Z)  Documentos digitais audiovisuais
-	      (0.034.2:084.122MPEG) Moving Picture Expert Group. 
-	      (0.034.2:084.122AVI) Audiovisual Interface
-	      (0.034.2:084.122QT) Apple Quick Time
-	      (0.034.2:086.7A/Z) Documentos áudio digitais
-	      (0.034.2:086.7MP3) MPEG-1 Audio Layer-3
-	      (0.034.2:086.7AU) Audio (formato para arquivos sonoros em UNIX)
-	      (0.034.2:086.7WAV) Windows sound file (arquivo de som do Windows)
-	      (0.034.2:086.7RA) Real Audio
-	      → 004.22 Representação de dados
+<06>(0.034.2:084.12PSD) Photoshop Document (Adobe Photoshop)
+<06>(0.034.2:084.122A/Z)  Documentos digitais audiovisuais
+<06>(0.034.2:084.122MPEG) Moving Picture Expert Group. 
+<06>(0.034.2:084.122AVI) Audiovisual Interface
+<06>(0.034.2:084.122QT) Apple Quick Time
+<06>(0.034.2:086.7A/Z) Documentos áudio digitais
+<06>(0.034.2:086.7MP3) MPEG-1 Audio Layer-3
+<06>(0.034.2:086.7AU) Audio (formato para arquivos sonoros em UNIX)
+<06>(0.034.2:086.7WAV) Windows sound file (arquivo de som do Windows)
+<06>(0.034.2:086.7RA) Real Audio
+<09>004.22 Representação de dados
 (0.034.4)	Meios magnéticos e óticos
 (0.034.42)	Meios magnéticos. Inclusive Fita magnética. Disco magnético. Disquete (floppy disk).
 (0.034.44)	Meios óticos. Inclusive CD (disco compacto)
@@ -1678,7 +1678,7 @@ perfuradas. Fita magnética. Disco magnético.
 (0.035.3)	Fotocópias. Inclusive Cópias diazo, xerográficas, eletrográficas.
 (0.035.5)	Cópias mimeografadas, hectografadas e similares.
 (0.036)	Documentos impressos.
-→ (0.033) Documentos datilografados. Documentos produzidos por máquinas datilográficas, teleimpressoras (telex), processadores de texto, impressoras de linhas, terminal de computador, etc.
+<09>(0.033) Documentos datilografados. Documentos produzidos por máquinas datilográficas, teleimpressoras (telex), processadores de texto, impressoras de linhas, terminal de computador, etc.
 (0.036.2)	Provas impressas. Inclusive Provas de galé ou paquê. Provas de página.
 (0.036.4)	Pré-publícações (preprints).
 (0.036.6)	Separatas.
@@ -1698,30 +1698,30 @@ perfuradas. Fita magnética. Disco magnético.
 (0.046.6)	Edições adaptadas.
 (0.05)	Documentos para determinados tipos de usuários.
 	      (0.05) subdividido como -05 (Tabela 1k)
-	      → 087.2 Publicações para categorias específicas de leitores
-	      → 087.5 Publicações para jovens
+<09>087.2 Publicações para categorias específicas de leitores
+<09>087.5 Publicações para jovens
 (0.053.2)	Documentos para crianças.
 (02.053.2) Livros infantis
 (0.055.2)	Documentos para mulheres.
 (051.055.2) Revistas femininas
 (0.06)	Documentos segundo o nível de apresentação e a disponibilidade.
 (0.062)	Exposição de caráter popular, de nível elementar.
-→ (0.027.3) Edições populares
-→ (075.2) Textos didáticos elementares. Cartilhas
+<09>(0.027.3) Edições populares
+<09>(075.2) Textos didáticos elementares. Cartilhas
 (0.063)	               Exposição de nível médio, intermediário.
 (0.064)	Exposição de nível elevado, avançado.
-→ (035) Compêndios. Manuais
-	      → (075.8) Texto para o ensino universitário, a educação superior
+<09>(035) Compêndios. Manuais
+<09>(075.8) Texto para o ensino universitário, a educação superior
 (0.067)	Documentos de disponibilidade, distribuição e ou armazenamento limitado ou especial.
 <09>Documentos da “literatura cinzenta”.
 (0.067.2)	Documentos sigilosos (confidenciais ou secretos).
 (0.067.4)	Documentos banidos.
 (0.067.6)	Documentos apenas para uso interno.
 (0.068)	Documentos raros. Documentos únicos. Únicos exemplares existentes. Única.
-→ 094.2 Exemplares únicos. Únicos exemplares existentes. Unica
+<09>094.2 Exemplares únicos. Únicos exemplares existentes. Unica
 (0.07)	Material suplementar editado junto com um documento.
 (0.072)	Comentários. Explicações. Anotações. Aparato crítico. 
-      → (048.2) Anotações
+<09>(048.2) Anotações
 (0.074)	Emendas. Adendos. Pós-escritos.
 (0.076)	Correções. Erratas. Corrigenda.
 (0.078)	Encartes suplementares. Apêndices. Anexos.
@@ -1729,33 +1729,33 @@ perfuradas. Fita magnética. Disco magnético.
                                      (0.08) subdividido como (0.07)
 <09>Subdivisões auxiliares comuns
 (01)	Bibliografias.
-→ (048) Descrições bibliográficas. Resumos. Sinopses. Revisões.
-→ 016 Bibliografias de assuntos específicos
+<09>(048) Descrições bibliográficas. Resumos. Sinopses. Revisões.
+<09>016 Bibliografias de assuntos específicos
 (02)	Livros em geral.
 <09>Classificação abrangente para todos os documentos em formato de livro que não possam ser classificados amais especificamente em (03)/(09)
 (03)	Obras de referência.
 	     Classificar aqui em (03) ou em suas subdivisões todos os livros que contenham
       informações sobre uma pluralidade de assuntos diferentes ou sobre a totalidade
       do conhecimento (seja em ordem alfabética, sistemática ou qualquer outra)
-      → (07) Documentos destinados à instrução, ensino, estudo, treinamento
-	      → (083) Documentos técnicos e normativos. Tabelas, listas, etc.
-	      → 030 Obras gerais de referência.
+<09>(07) Documentos destinados à instrução, ensino, estudo, treinamento
+<09>(083) Documentos técnicos e normativos. Tabelas, listas, etc.
+<09>030 Obras gerais de referência.
 (031)	Enciclopédias.
 (031.021.4) Enciclopédias pequenas, concisas 
 (031.038) Enciclopédias em vários volumes
 (035)	Compêndios. Manuais.
 <09>Obras de referência concisas que cobrem determinado assunto ou campo do conhecimento.
 <09>Para manuais do usuário (instruções sobre modo de usar, equipamento, instrumentos, documentos especializados, software de computador,  etc.), usar (083.31)
-→ (076) Documentos para instrução prática, treinamento.
+<09>(076) Documentos para instrução prática, treinamento.
 (036)	Guias (com informações práticas e descritivas).
 (038)	Dicionários. Inclusive Dicionários lingüísticos. Dicionários especializados e técnicos.
         (038)=111 Dicionário de inglês 
-<06>54(038)=134.2 Dicionário espanhol de química, ou
+        54(038)=134.2 Dicionário espanhol de química, ou
                                        (038)54=134.2 Dicionário espanhol de química.
 		       Classificar dicionários especializados no assunto, com (038), p. ex., 
-<06>54(038)=134.2 Química – dicionário – espanhol.
+		       54(038)=134.2 Química – dicionário – espanhol.
 		       (038)54=134.2 Dicionário – Química – espanhol.
-<06>811.111(038) Inglês – Dicionário.
+		       811.111(038) Inglês – Dicionário.
 		       Opcionalmente,  dicionários gerais monolíngües podem ser indicados apenas com o emprego dos auxiliares comuns,
         p. ex.:
 		      (038)=111 Dicionário inglês
@@ -1763,45 +1763,45 @@ perfuradas. Fita magnética. Disco magnético.
 <06>811.135.1`373.421(038) Romeno – Sinônimos - Dicionário
 <06>81`373,421=135.1(038) Sinônimos – Romeno - Dicionário
 		       Quando for feita uma escolha, seguir uma opção com consistência.
- 		      →  8l`373 Lexicologia
-     →  8l`374 Lexicografia. Compilação e organização de dicionários
+<09>81`373 Lexicologia
+<09>81`374 Lexicografia. Compilação e organização de dicionários
        O segundo e o terceiro exemplos são notações alternativas para a mesma obra.
 (04)	             Publicações avulsas não-seriadas. Separata.
-→ 82-4 Ensaios
+<09>82-4 Ensaios
 (041)                           Folhetos. Opúsculos.
 (042)                        Discursos. Conferências. Palestras.
-→ (07) Documentos destinados à instrução, ensino, estudo, treinamento
+<09>(07) Documentos destinados à instrução, ensino, estudo, treinamento
 (042.3)	Conferências.
 (042.4)	Cursos sob a forma de conferências.
 (042.5)	Discursos. Orações.
-→ 82-5 Oratória. Discursos
+<09>82-5 Oratória. Discursos
 (043)	Teses. Dissertações.
 (043.2)	Teses. Teses universitárias.
 (043.3)	Dissertações.
 (043.5)	Aulas inaugurais (universitárias).
 (044)	Documentos pessoais. Correspondência. Cartas. Circulares.
-→ 82-6 Cartas. Arte de escrever cartas. Correspondência. Cartas genuínas. Outras obras em forma 
+<09>82-6 Cartas. Arte de escrever cartas. Correspondência. Cartas genuínas. Outras obras em forma 
                                  epistolar.
-→ 82-94 História como gênero literário. Escritos históricos. Historiografia. Crônicas. Anais. Memórias. Periódicos.
+<09>82-94 História como gênero literário. Escritos históricos. Historiografia. Crônicas. Anais. Memórias. Periódicos.
                                              Diários. Biografia. Autobiografia.
-→ 929 Estudos biográficos e afins.
+<09>929 Estudos biográficos e afins.
 (044.2)	Cartas pessoais. Correspondência particular.
 (044.3)	Outros documentos pessoais. Inclusive Expressões de vontade (semelhante a testamento, porém sem força legal)
-	      → 347.69 Expressões de vontade (semelhante a testamento, porém sem força legal)
+<09>347.69 Expressões de vontade (semelhante a testamento, porém sem força legal)
 (044.4)	Cartas comerciais. Correspondência oficial.
 (044.6)	Cartas circulares.
 (045)	Artigos em publicações seriadas, coleções, etc. Colaborações.
-→ (05) Publicações seriadas. Periódicos. 
-→ (08) Coleções e poligrafias. Formulários. Listas. Ilustrações. Publicações comerciais.
+<09>(05) Publicações seriadas. Periódicos. 
+<09>(08) Coleções e poligrafias. Formulários. Listas. Ilustrações. Publicações comerciais.
 (046)	Artigos de jornal.
 (047)		 Relatórios. Notícias. Boletins.
-     → (055) Boletins de notícias. Noticiosos (Newsletters). Boletins informativos.
+<09>(055) Boletins de notícias. Noticiosos (Newsletters). Boletins informativos.
 (047.1)	Relatórios de acompanhamento. Relatórios
 sobre o estado de um problema.
 (047.2)	Relatórios de viagem (comerciais, de estudo etc).
 (047.3)	Relatórios especiais.
 (047.31)	Relatórios de pesquisa. Relatórios de testes, experimentos, projetos, etc.
-	      → (083.94) Projetos.
+<09>(083.94) Projetos.
 (047.32)	Relatórios administrativos.
 (047.33)	Relatórios sobre acidentes, avarias ou obras de reconstrução.
 (047.34)	Relatórios sobre produção, processos técnicos.
@@ -1810,7 +1810,7 @@ sobre o estado de um problema.
 (047.53)	Entrevistas.
 (047.6)	Relatórios breves, notas. Notícias. Recortes de jornais.
 (048)	Descrições bibliográficas. Resumos. Sinopses. Revisões.
-→ (01) Bibliografias
+<09>(01) Bibliografias
 (048.1)	Descrições bibliográficas.
 (048.2)	Anotações.
 (048.3)	Resumos.
@@ -1846,7 +1846,7 @@ sobre o estado de um problema.
 (054)	Jornais.
 <09>Jornais no sentido estrito, i.e., publicações freqüentes que apresentam, fundamentalmente, notícias gerais e informações correntes
 (055)	Boletins de notícias. Noticiosos (newsletters). Boletins informativos.
-→ (047) Relatórios. Notícias. Boletins
+<09>(047) Relatórios. Notícias. Boletins
 (058)	Anuários. Guias.
 (058.7)	Guias de endereços. Catálogos que relacionam moradores, ruas etc. Indicadores comerciais.
 (059)	Almanaques. Calendários (de todos os tipos).
@@ -1864,10 +1864,10 @@ sobre o estado de um problema.
 (062.5351)               Relatórios de atividades. Boletins
 (062.552)	Coleções regulares de obras publicadas. Inclusive “Atas ...”. “Resoluções ...” 
 (07)	Documentos destinados à instrução, ensino, estudo, treinamento.
-→ 371.67 Materiais didáticos tradicionais (impressos, geralmente)
+<09>371.67 Materiais didáticos tradicionais (impressos, geralmente)
 (072)	Materiais documentais destinados ao ensino. Materiais didáticos.
-→ (084) Imagens. Documentos pictóricos. Documentos gráficos.
-→ (086) Documentos tridimensionais (sólidos). Documentos sonoros e audiovisuais.
+<09>(084) Imagens. Documentos pictóricos. Documentos gráficos.
+<09>(086) Documentos tridimensionais (sólidos). Documentos sonoros e audiovisuais.
 (073)	Programas. Roteiros de cursos.
 (075)	Textos didáticos. Livros escolares. Textos para estudantes.
 (075.2)	Textos didáticos elementares. Cartilhas.
@@ -1876,28 +1876,28 @@ sobre o estado de um problema.
 (075.8)	Texto para o ensino universitário, educação superior.
 (075.9)	Textos para cursos de curta duração, cursos intensivos, cursos de atualização.
 (076)	Documentos para instrução prática, treinamento.
-→ (035) Compêndios. Manuais.
-→ (083.13) Instruções sobre modo de usar. Orientações. Instruções.
+<09>(035) Compêndios. Manuais.
+<09>(083.13) Instruções sobre modo de usar. Orientações. Instruções.
 (076.1)	Documentos com problemas ou perguntas.
 (076.2)	Documentos com soluções ou respostas.
 (076.3)	Documentos com perguntas e respostas.
-→ 27-282.3 Credos e confissões de fé. 
+<09>27-282.3 Credos e confissões de fé. 
 (076.5)	Exercícios práticos. Inclusive Exercícios de laboratório. Práticas de campo.
 (076.6)	Textos de ensino programado. Manuais com texto não-seqüencial e com esquemas de
 programas.
-      → 37.018.43 Educação à distância.
-      → 37.091.315.7 Instrução programada.
+<09>37.018.43 Educação à distância.
+<09>37.091.315.7 Instrução programada.
 (078)	Documentos e material didático não relacionados em outra parte.
 (078.7)	Estudos de casos (como forma).
-→ 001.87 Estudos de caso (como assunto), sua compilação e uso.
+<09>001.87 Estudos de caso (como assunto), sua compilação e uso.
 (078.9)	Modelos (na acepção teórica)
 (079)	Documentos relacionados com concursos, testes, exames, etc.
 (079.1)	Perguntas e exercícios para provas, concursos, competições. Trabalhos Finais de curso.
 (079.2)	Documentos de qualificação. Diplomas. Títulos
 e graus. Certificados de capacitação etc.
 (08)	Coleções e poligrafias. Formulários. Listas. Ilustrações. Publicações comerciais.
-→ 08 Poligrafias. Obras de autoria coletiva.
-→ 82-82 Poligrafias. Seleções, extratos. Antologias. Coletâneas de curiosidades.
+<09>08 Poligrafias. Obras de autoria coletiva.
+<09>82-82 Poligrafias. Seleções, extratos. Antologias. Coletâneas de curiosidades.
 (081)	Poligrafías individuais. Obras reunidas de um mesmo autor.
 (081.1)	Coletâneas. Obras reunidas.
 (081.2)	Obras selecionadas.
@@ -1913,21 +1913,21 @@ bibliotecas.
 (083.1)	Receitas. Prescrições. Instruções.
 (083.12)	Receitas. Prescrições.
 (083.13)	Instruções sobre modo de usar. Orientações. Instruções.
-      → (076) Documentos para instrução prática, treinamento.
+<09>(076) Documentos para instrução prática, treinamento.
 (083.131)	Instruções sobre modo de usar. Guias do usuário. Manuais do usuário (instruções sobre uso de equipamento, instrumentos,
 	documentos especializados, software de computador, etc. Instruções sobre modo de operar).
-	      → (035) Compêndios. Manuais.
+<09>(035) Compêndios. Manuais.
 (083.132)	Conselhos práticos, soluções práticas.
 (083.133)	Instruções.
 (083.15)	Regras. Regulamentos.
-                                       → (094.58) Decisões de uma autoridade central decorrentes da aplicação de uma lei. Promulgações. Regulamentos.
+<09>(094.58) Decisões de uma autoridade central decorrentes da aplicação de uma lei. Promulgações. Regulamentos.
 (083.17)	Horários (quadros).
 (083.2)	Formulários. Formulários impressos.
 (083.4)	Tabelas (exceto as exclusivamente numéricas).
 (083.41)	Tabelas estatísticas.
 (083.44)	Tabelas de classificação.
 (083.5)	Tabelas de dados técnicos. Tabelas de cálculo. Tabelas de conversão.
-→ 519.66 Tabelas matemáticas e sua compilação
+<09>519.66 Tabelas matemáticas e sua compilação
 (083.53)	Tabelas numéricas. Tabelas de percentagens. Tabelas de cálculo imediato,
 (083.57)	Nomogramas.
 (083.58)	Diagramas em rede. Diagramas de caminho crítico (diagramas em flecha).
@@ -1942,8 +1942,8 @@ bibliotecas.
 (083.77)	Apresentações comparadas.
 (083.78)	Estimativas de custo. Licitações, tomadas de preço.
 (083.8)	Registros enumerativos.
-→ (01) Bibliografia. Catálogos.
-→ 01 Bibliografia e bibliografias. Catálogos.
+<09>(01) Bibliografia. Catálogos.
+<09>01 Bibliografia e bibliografias. Catálogos.
 (083.81)	Listas em geral.
 (083.82)	Inventários.
 (083.822)	Inventários (registros de coleções permanentes).
@@ -1953,9 +1953,9 @@ bibliotecas.
 (083.84)	Registros de estoques. Listas de material. Listas de almoxarifado.
 (083.86)	Sumários. Índices de nomes, lugares, assuntos.
 (083.87)	Concordâncias.
-→ 001.86 Concordâncias.
-→ 014.5 Concordâncias.
-→ 27-272 Concordâncias bíblicas.
+<09>001.86 Concordâncias.
+<09>014.5 Concordâncias.
+<09>27-272 Concordâncias bíblicas.
 (083.89)	Registros de pessoas em determinada categoria.
 (083.9)	Planos. Projetos. Programas,
 (083.92)	Planos.
@@ -1972,7 +1972,7 @@ bibliotecas.
 (084.127)	Levantamentos fotográficos. Fotogramas (com
 orientação interna conhecida).
 (084.14)	Imagens gravadas magneticamente. Gravações em vídeo.
-→ (086.8) Gravações em vídeo.
+<09>(086.8) Gravações em vídeo.
 (084.17)	Clichês de impressão (clichês de fotogravura, etc). Eletrótipos.
 (084.18)	Impressões a partir de clichês. Provas de
 clichês.
@@ -1980,39 +1980,39 @@ clichês.
 (084.21)	Diagramas. Gráficos.
 (084.28)	Perfis (bidimensionais).
 (084.29)	Diagramas de bloco (bidimensionais). Fluxogramas.
-→ (086.45) Diagramas de bloco (tridimesionais).
+<09>(086.45) Diagramas de bloco (tridimesionais).
 (084.3)	Imagens cartográficas. Inclusive Mapas. Plantas. Cartas. Cartogramas.
-                                  → (086.43) Globos. 
-      → 912 Representações não-literárias, não-textuais de uma região.
+<09>(086.43) Globos. 
+<09>912 Representações não-literárias, não-textuais de uma região.
 <09>Subdivisões auxiliares  especiais
 
-(084.3-1)	Mapas etc. segundo a escala.
-(084.3-12)	1:5 000 a 1:20 000.
-(084.3-14)	1:75 000 a 1:250 000 (mapas de levantamentos topográficos).
-(084.3-16)	1:1 000 000 a 1:20 000 000 (mapas de países, de continentes).
-(084.3-18)	1:100 000 000 e menores (mapas-múndi).
-(084.3-2)	Segundo a forma de representação.
-(084.3-21)	Formas não-pictóricas. Mapas de contorno. Mapas com hachuras, com curvas de nível.
-(084.3-22)	Formas pictóricas. Mapas de perspectiva.
-(084.3-223)	Mosaicos aerofotogramétricos.
-(084.3-3)	Segundo o tipo de representação.
-(084.3-32)	Mapas mudos. Mapas de distribuição.
-(084.3-34)	Mapas estatísticos segundo o método de pontos. Mapas pontilhados.
-(084.3-35)	Cartogramas, Cartodiagramas.
-(084.3-36)	Mapas estruturais. Mapas de divisão espacial complexa.
-(084.3-37)	Mapas de levantamentos topográficos.
-(084.3-4)	Segundo o método de produção, impressão, reprodução.
-(084.3-41)	Originais. Esboços, desenhos de mapas.
-(084.3-42)	Produzidos por processos fotográficos de traçado.   Inclusive Cópias heliográficas (cianocópias). Diazocópias.
-(084.3-43)	Cópias multicoloridas em plástico (folhas de prova).
-(084.3-44)	Originais para impressão (em metal, lito etc).
-(084.3-45)	Mapas impressos.
-→528.927 Reprodução cartográfica.
-→ 655.3.026 Impressão de determinado tipo de produto.
-(084.3-5)	Segundo o tipo de armazenamento.
-(084.3-52)	Não-montados. Em folhas. Em rolos.
-(084.3-54)	Em formato de livro.
-(084.3-56)	Montados.
+<06>(084.3-1)	Mapas etc. segundo a escala.
+<06>(084.3-12)	1:5 000 a 1:20 000.
+<06>(084.3-14)	1:75 000 a 1:250 000 (mapas de levantamentos topográficos).
+<06>(084.3-16)	1:1 000 000 a 1:20 000 000 (mapas de países, de continentes).
+<06>(084.3-18)	1:100 000 000 e menores (mapas-múndi).
+<06>(084.3-2)	Segundo a forma de representação.
+<06>(084.3-21)	Formas não-pictóricas. Mapas de contorno. Mapas com hachuras, com curvas de nível.
+<06>(084.3-22)	Formas pictóricas. Mapas de perspectiva.
+<06>(084.3-223)	Mosaicos aerofotogramétricos.
+<06>(084.3-3)	Segundo o tipo de representação.
+<06>(084.3-32)	Mapas mudos. Mapas de distribuição.
+<06>(084.3-34)	Mapas estatísticos segundo o método de pontos. Mapas pontilhados.
+<06>(084.3-35)	Cartogramas, Cartodiagramas.
+<06>(084.3-36)	Mapas estruturais. Mapas de divisão espacial complexa.
+<06>(084.3-37)	Mapas de levantamentos topográficos.
+<06>(084.3-4)	Segundo o método de produção, impressão, reprodução.
+<06>(084.3-41)	Originais. Esboços, desenhos de mapas.
+<06>(084.3-42)	Produzidos por processos fotográficos de traçado.   Inclusive Cópias heliográficas (cianocópias). Diazocópias.
+<06>(084.3-43)	Cópias multicoloridas em plástico (folhas de prova).
+<06>(084.3-44)	Originais para impressão (em metal, lito etc).
+<06>(084.3-45)	Mapas impressos.
+<09>528.927 Reprodução cartográfica.
+<09>655.3.026 Impressão de determinado tipo de produto.
+<06>(084.3-5)	Segundo o tipo de armazenamento.
+<06>(084.3-52)	Não-montados. Em folhas. Em rolos.
+<06>(084.3-54)	Em formato de livro.
+<06>(084.3-56)	Montados.
 <09>Subdivisões auxiliares comuns
 (084.31)	Mapas esquemáticos. Desenhos de mapas.
 (084.32)	Mapas em folhas. Folhas de mapas.
@@ -2027,7 +2027,7 @@ comercial.
 (085.2)	Catálogos comerciais. Catálogos industriais.
                                         Classificar aqui catálogos de linhas de itens ou de capital de comércio.
                                         Para catálogos de itens raros ou individuais (reunidos,  permanente ou temporariamente),  ver (083.822/.824). 
-<06>658.872(085.2) Catálogos de venda por reembolso postal.    
+                                       658.872(085.2) Catálogos de venda por reembolso postal.    
 (085.3)	Jornais e revistas de empresa.
 (085.5)	Prospectos. 
 (085.6)	L istas de preços de mercadorias.
@@ -2036,14 +2036,14 @@ comercial.
 (086)	Documentos tridimensionais (sólidos). Documentos sonoros e audiovisuais.
 (086.3)	Espécimes, objetos como documentos. Inclusive Lâminas para microscopia. Peças de museu.
 (086.4)	Representações sólidas, tridimensionais.
-→ (0.024) Documentos segundo a disposição espacial da impressão.
+<09>(0.024) Documentos segundo a disposição espacial da impressão.
 (086.42)	Folhas de modelagem. Desenhos planos para modelos recortados. Telas marcadas para modelos geométricos sólidos.
 (086.43)	Globos.
-→ (084.3) Imagens cartográficas.
-→ 912 Representações não-literárias, não-textuais de uma região.
+<09>(084.3) Imagens cartográficas.
+<09>912 Representações não-literárias, não-textuais de uma região.
 (086.44)	Relevos (sólidos). Inclusive Modelos em relevo. Mapas em relevo.
 (086.45)	Diagramas de bloco (tridimensionais).
-→ (084.29) Ddiagramas de bloco (bidimensionais). Fluxogramas.
+<09>(084.29) Ddiagramas de bloco (bidimensionais). Fluxogramas.
 (086.48)	Modelos.
 (086.7)	Documentos sonoros. Gravações sonoras.
 (086.72)	Gravações sonoras mecânicas.   Inclusive Gravações para gramofones, vitrolas (discos etc).
@@ -2067,11 +2067,11 @@ escrituras etc.
 (088.7)	Marcas comerciais, timbres (logomarcas, logotipos, marcas-símbolo, selos, etc.) e outros
 símbolos e emblemas comerciais.
 (088.72)	Marcas registradas. Marcas e emblemas comerciais.
-                                        → 347.772 Marcas registradas. Registro, controle
+<09>347.772 Marcas registradas. Registro, controle
 (088.77)	Marcas e certificados de quantidade e qualidade de mercadorias.
-→ (083.74/.76)
+<09>(083.74/.76)
 (088.8)	Patentes e documentos similares.
-→ 347. 771 Patentes: concessão, controle, confirmação.
+<09>347. 771 Patentes: concessão, controle, confirmação.
 (088.82)	Solicitações de registro de patentes e certificados de invenção.
 (088.823)	Solicitações de registro de patentes.
 (088.825)	Solicitações de certificados de invenção.
@@ -2081,25 +2081,25 @@ símbolos e emblemas comerciais.
 (088.86)	Descrições de invenções para certificados de invenção.
 (088.87)	Propostas de inovações.
 (088.88)	Licenças (patentes etc).
-→ (088.2) Certificados, licenças etc. emitidos por autoridades.
+<09>(088.2) Certificados, licenças etc. emitidos por autoridades.
 (089.3)	Curiosidades. Miscelâneas. Anedotas. Chistes. Aforismos. Máximas etc.
 (089.5)	Fraudes. Imposturas. Embustes literários, artísticos e científicos. Certificados, licenças etc. emitidos por autoridades.
-                                        → 001.94/.98
+<09>001.94/.98
 (089.7)	Mensagens de cumprimentos e para ocasiões especiais (cartões, folhetos etc). 
                                      Especificar períodos ou datas especiais por "..." especialmente "38..." 
-#ERRO2(Texto orfao sem tag ?)  (089.7)"38Ano Novo"  Mensagens de Ano Novo (cartões, etc.).
+(089.7)"38Ano Novo"  Mensagens de Ano Novo (cartões, etc.).
 (09)	Apresentação em forma histórica. Fontes legais e históricas.
 (091)	Apresentação histórica em sentido estrito.
-→ 93/94 História.
+<09>93/94 História.
 (092)	Apresentação em forma biográfica.
-→ 929 Estudos biográficos e afins.
+<09>929 Estudos biográficos e afins.
 (093)	Fontes históricas.
 (093.2)	Fontes oficiais. Registros, documentos, atos públicos.
 (093.3)	Fontes literárias. Crônicas. Diários.
 (093.4)	Testamentos.
 (094)	Fontes legais. Documentos legais.
-→ 340.13 Direito positivo. Norma jurídica. Lei promulgada. Estatuto legal. Ius scriptum. Aplicação da norma jurídica. Regras de sua aplicação.
-→ 340.14 Direito não-escrito. Lei não-estatutária. Ius non scriptum. Outras fontes do direito.
+<09>340.13 Direito positivo. Norma jurídica. Lei promulgada. Estatuto legal. Ius scriptum. Aplicação da norma jurídica. Regras de sua aplicação.
+<09>340.14 Direito não-escrito. Lei não-estatutária. Ius non scriptum. Outras fontes do direito.
 (094.1)	Atos de governo absoluto em geral. Inclusive Decretos reais, editos, ordenações.
 (094.2)	Acordos e tratados internacionais. Leis internacionais. Atos legais entre Estados
 independentes.

@@ -22,7 +22,7 @@ Exemplo(s) de combinação(ões):
 801.615	Harmonia do verso.
 801.63	Metro. Medidas métricas, pés.
 801.631	Medidas métricas em geral.
-801.631.l	Ársis e tese. Elevação e queda. Inclusive Anacrase.
+801.631.1	Ársis e tese. Elevação e queda. Inclusive Anacrase.
 801.631.2	Pausa. Cesura. Pausa central e terminal.
 801.631.3	Enjambement.
 801.631.4	Hiato.
@@ -44,7 +44,7 @@ sílabas).
 801.653	Acentuação. Ársis. Verso rítmico. Inclusive Diarsis, triarsis, etc.
 801.654	Quantidade métrica. Verso clássico ou quantitativo. Inclusive Pentâmetros, hexâmetros, trimétricos iâmbicos, etc.
 801.655	Versos segundo o número de sílabas. Verso silábico.
-801.655.l	Versos de menos de dez sílabas.
+801.655.1	Versos de menos de dez sílabas.
 801.655.2	Decassílabos.
 801.655.3	Dodecassílabos. Alexandrinos.
 801.655.5	Verso branco, verso livre.
@@ -73,13 +73,13 @@ sílabas).
 801.673.2	Formas de verso inglesas.
 801.673.3	Formas de verso germânicas. Inclusive Estâncias Nibelungen, Minnesänger.
 801.675	Formas de verso românicas.
-801.675.l                Formas de verso francesas. Inclusive Quadra. Rondó. Rondel. Vilanela.
+801.675.1                Formas de verso francesas. Inclusive Quadra. Rondó. Rondel. Vilanela.
 801.675.2	Formas de verso italianas. Inclusive Rima na oitava, ottava rima. Rima na terceira, terza rima. Madrigal. Canção. 
 	Soneto.Triolé.
 801.675.3	Formas de verso espanholas. Inclusive Décima. Glosse. Canción.
 801.676	Formas de verso eslavas. Outras formas ocidentais de verso.
 801.677	Formas de verso orientais (das literaturas indo- européias e semíticas).
-801.677.l	Formas de verso índicas.
+801.677.1	Formas de verso índicas.
 801.677.3	Formas de verso persas.
 801.677.6	Formas de verso árabes.
 801.678	Outras formas de verso asiáticas. Formas de verso africanas.
@@ -100,7 +100,7 @@ Exemplo(s) de combinação(ões):
                                       801.82:821.112.2-2 Schiller Obras dramáticas de Schiller como fonte filológica
 801.83	Fontes mistas.
 808		Retórica. O uso eficaz da linguagem.
-808.l		Autoria. Atividade e técnica literária. Inclusive Escrita criativa. Escrita em forma publicável.
+808.1		Autoria. Atividade e técnica literária. Inclusive Escrita criativa. Escrita em forma publicável.
 Classificar aqui os trabalhos gerais sobre preparo e apresentação de originais
 -> 070.4 Administração editorial
 -> 655.251(035) Manuais de estilo
@@ -158,7 +158,7 @@ dois pontos
 Exemplo(s) de combinação(ões):
                          81:005 Classificações das línguas (como assunto), p. ex. por área. Tipológica, genética, funcional
        81:1 Filosofia da lingüística
-          8l:39 Etnolingüística
+          81:39 Etnolingüística
            81:572 Línguas e antropologia
           811.11-112 Filologia das línguas germânicas
 Subdivisões auxiliares especiais
@@ -247,7 +247,7 @@ Segunda língua. Falantes não-nativos.
 Estado.
 81’246	Mono e multilingüismo. Mono e
 poliglotismo.
-81’246.l	Monolingüismo, monoglotismo.
+81’246.1	Monolingüismo, monoglotismo.
 81’246.2	Bilingüismo,
 81’246.3	Multilingüismo (plurilingüismo), poliglotismo em geral. Trilingüismo em particular.
 81’25	Teoria da tradução.
@@ -269,7 +269,7 @@ língua. Padronização da língua.
 -> 81’272 Sociolingüística aplicada. Política da língua
 81’27	Sociolingüística. Uso da língua.
 81’271	Uso e pureza da língua.
-81’271.l	Uso correto e incorreto das formas faladas e escritas da língua.
+81’271.1	Uso correto e incorreto das formas faladas e escritas da língua.
 81’271.12	Uso correto.
 81’271.14	Desvios (incorreções). Solecismos. Lapsos (inadvertências).
 81’271.16	Aceitabilidade de formas faladas e escritas. Expressões aceitáveis (segundo avaliação dos
@@ -291,15 +291,15 @@ Exemplo(s) de combinação(ões):
 81’276.16	Língua polida, refinada, de castas, tribunais ou outras hierarquias.
 81’276.2	Modo de falar vulgar, chulo. Gíria em geral,
 -> 81-25 Línguas (apenas) faladas. Línguas sem literatura
-8l’276.3	Língua ou idioma de determinado grupo etário ou sexo.
+81’276.3	Língua ou idioma de determinado grupo etário ou sexo.
 Especificar por meio de -053... e -055... 
 Exemplo(s) de combinação(ões):
 81’276.3-053.2 Fala de bebê ou criança. Fala, conversa infantil da mãe ou da babá
-8l’276.3-053.5 Fala de crianças escolares 
+81’276.3-053.5 Fala de crianças escolares 
 81’276.3-053.6 Língua, idioma ou gíria de adolescentes 
 81’276.3-055.1 Língua ou modo de falar de homens 
-8l’276.3-055.2 Língua ou modo de falar de mulheres
-8l’276.4	Língua secreta, jargão ou gíria.
+81’276.3-055.2 Língua ou modo de falar de mulheres
+81’276.4	Língua secreta, jargão ou gíria.
 81’276.45	Língua ou jargão de ladrões. Argot. Rotwelsch, etc.
 81’276.5	Gírias de grupos profissionais.
  Exemplo (s) de combinação(ões):
@@ -327,7 +327,7 @@ Exemplo(s) de combinação (ões):
       delas substituindo o sinal de igual por 811 e um ponto . 
 Exemplo(s) de combinação(ões):
                             	     811.111.8 Pidgins e crioulos baseados no inglês derivado de = 111.8
-8l’286	Lingüística geográfica. Geografia dos dialetos. Distribuição em áreas de línguas
+81’286	Lingüística geográfica. Geografia dos dialetos. Distribuição em áreas de línguas
 específicas.
 Exemplo(s) de combinação(ões):
                                  	      81’286(084.42) Atlas vocabulares e lingüísticos
@@ -345,7 +345,7 @@ Exemplo(s) de combinação(ões):
 81’342	Fonética.
 -> 801.6 Prosódia: metro, ritmo, rima e padrão de verso
 -> 81’35 Grafemia. Ortografia
-81’342.l	Fonética acústica. Análise e propriedades do som (vocal). Inclusive Inflexão. Intensidade. Quantidade. Timbre.
+81’342.1	Fonética acústica. Análise e propriedades do som (vocal). Inclusive Inflexão. Intensidade. Quantidade. Timbre.
                                             -> 534 Vibrações. Acústica
 81’342.2	Fonética articulatória. Fonação, articulação, emissão de sons (vocais).
                                           ->159.946.3 Expressão vocal
@@ -368,7 +368,7 @@ Exemplo(s) de combinação(ões):
 81’342.57	Nasais.
 81’342.6	Alterações (de som), mutações e leis fonéticas.
 81’342.61	Leis fonéticas (mudanças devidas a fatores de articulação modificada). Inclusive Lei de Grimm. Lei de Verner.
-8l’342.62	Mudanças fonéticas sem fatores de articulação modificada.
+81’342.62	Mudanças fonéticas sem fatores de articulação modificada.
 -> 801.631.5 Licença prosódica
 81’342.621	Mudanças gerais. Inclusive Analogia. Assimilação. Aférese. Apócope. Síncope. Metátese.
 81’342.622	Mudanças vocálicas. Inclusive Alongamento. Trema. Crase. Monotongação e ditongação. 
@@ -377,7 +377,7 @@ Exemplo(s) de combinação(ões):
                                 Sândi e elisão consonantal.
 81’342.7	Sílabas e silabação.
 81’342.8	Coesão da palavra. Eufonia. Acento da palavra. Tom da palavra. Inclusive Ênclise. Próclise.
-                                        -> 801.61Generalidades
+                                        -> 801.61 Generalidades
 81’342.9	Modulação da oração e da frase. Ritmo e entonação da fala.
 -> 801.61 Generalidades
 -> 808.5 Retórica do discurso. Arte ou técnica da expressão oral
@@ -404,7 +404,7 @@ Exemplo(s) de combinação(ões):
 -> 003.08 Características da escrita
 -> 003.2/.3
 -> 81’342 Fonética
-81’35l	Alfabeto (em geral).
+81’351	Alfabeto (em geral).
 -> 003.23 Sistemas alfabéticos de escrita
 -> 003.33/.34 Escritas alfabéticas
 81’352	Representação de vogais e ditongos.
@@ -495,7 +495,7 @@ modulação.
 81’367.333	Complementos de oração: objeto, atributos (substantivo, adjetivo).
 81’367.334	Orações incompletas. Equivalentes de oração.
 81’367.335	Orações compostas. Frases (com orações coordenadas e subordinadas).
-81’367.335.l         	Parataxe. Coordenação.
+81’367.335.1         	Parataxe. Coordenação.
 81’367.335.2         	Hipotaxe. Subordinação.
 81’367.335.3      	Elipse.
 81’367.4	Frases do ponto de vista sintático. Inclusive Agrupamentos e grupos de palavras. Tipos e elementos de frases.
@@ -521,7 +521,7 @@ orações principais e subordinadas nas frases compostas. Inclusive Ordem lógic
 81’367.622.19         Nomina temporis.
 81’367.622.21         Substantivos coletivos.
 81’367.622.22        Diminutivos. Hipocorísticos.
-8l’367.622.23        Aumentativos.
+81’367.622.23        Aumentativos.
 81’367.623           Adjetivos.
 81’367.623.1          Adjetivos concretos.
 81’367.623.2        Adjetivos abstratos.
@@ -545,7 +545,7 @@ orações principais e subordinadas nas frases compostas. Inclusive Ordem lógic
 81’367.625.45       Substantivos verbais. Gerúndios.
 81’367.625.5         Verbos auxiliares.
 81’367.626          Pronomes.
-81’367.626.l         Pronomes pessoais.
+81’367.626.1         Pronomes pessoais.
 81’367.626.2         Pronomes possessivos.
 81’367.626.3         Pronomes demonstrativos.
 81’367.626.4         Pronomes relativos.
@@ -565,7 +565,7 @@ orações principais e subordinadas nas frases compostas. Inclusive Ordem lógic
                                -> 81’366.5 Classes gramaticais
                                -> 81’373 Lexicologia 
 81’3                      Semântica.
-81’37l                Tipos de significado. Inclusive Denotação (significado referencial). Conotação (significado emotivo. Significado 
+81’371                Tipos de significado. Inclusive Denotação (significado referencial). Conotação (significado emotivo. Significado 
                            contextual).
 81’372                Semântica gerativa. Estrutura profunda e
                              superficial.
@@ -649,7 +649,7 @@ Exemplo(s) de combinação(ões):
  81’374.2-029:81`373.6 Dicionários etimológicos (como assunto)
 81’374.7	Dicionários segundo sua ordenação (arranjo).
 81’374.72	Ordem formal.
-81’374.72l	Ordem alfabética.
+81’374.721	Ordem alfabética.
 81’374.722	Ordem pela raiz das palavras.
 81’374.73	Ordem conceitual (semântica).
 81’374.74	Ordem segundo a estrutura gráfica dos caracteres.
@@ -666,7 +666,7 @@ Exemplo(s) de combinação(ões):
 81’442.2	Línguas vocálicas (línguas que têm menos de 70 por cento de fonemas consonantais).
 81’442.3	Línguas consonantais (línguas que têm mais de 70 por cento de fonemas consonantais).
 81’443	Tipos de língua segundo a classificação morfológica.
-8l’443.2	Línguas isolantes.
+81’443.2	Línguas isolantes.
 81’443.3	Línguas aglutinantes.
 81’443.4	Línguas flexionadas.
 81’443.5	Línguas polissintéticas.
@@ -679,7 +679,7 @@ Exemplo(s) de combinação(ões):
 811.111-26 Inglês como língua literária 
 811.124’02’36 Gramática do latim clássico 
 811.134.2’24 Conhecimento prático de espanhol
-811.163. l’366.53 Número (singular, dual. plural) no antigo eslavo eclesiástico
+811.163.1’366.53 Número (singular, dual. plural) no antigo eslavo eclesiástico
 811.1/.9  dividido como =1/=9 (Tabela 1c)
 811.1/.2	Línguas indo-européias.
 811.1	Línguas indo-européias em geral.
@@ -1236,7 +1236,7 @@ assentamentos.
 911.372.9	Assentamentos abandonados. Abandono, despovoamento de assentamentos.
 911.373	Assentamentos humanos no meio rural (seu estudo e geografia).
 911.374	Tipos especiais de assentamentos.
-911.374.l	Assentamentos suburbanos pequenos.
+911.374.1	Assentamentos suburbanos pequenos.
 911.374.2	Assentamentos rurais que funcionam como centros.
 911.374.3	Centros comerciais não-integrados. Fora de áreas construídas.
 911.374.4	Centros industriais e manufatureiros (fora de áreas construídas).
@@ -1337,8 +1337,8 @@ geografia como ciência)
             929:27-36 Vidas de santos. Hagiografia. NOTA: usar 27-36:929, se for preferível um arranjo Assunto – biografia.
             929:272-732.2 Biografia de papas
             929:75 Biografias de pintores
-            929Grotius Biografias de Hugo Grotius (Huig de Groot)
-            929Charles(44)5 Biografias do rei Carlos V da França
+            929 Grotius Biografias de Hugo Grotius (Huig de Groot)
+            929 Charles(44)5 Biografias do rei Carlos V da França
            -> (092) Apresentação em forma biográfica
            -> 012 Bibliografias de autores, de escritores. Bibliografias individuais
            -> 82-94 História como gênero literário. Escritos de natureza histórica. Crônicas. Anais. Memórias. Diários. Biografia.
@@ -1386,7 +1386,7 @@ Exemplo(s) de combinação(ões):
 929.622	Pintura heráldica. Cores armoriais.
 929.623	As divisões do campo heráldico.
 929.624                      Divisas. Motes. Timbres. Figuras.
-929.624.l	Divisas ordinárias e comuns. Inclusive Asnas, losangos.
+929.624.1	Divisas ordinárias e comuns. Inclusive Asnas, losangos.
 929.624.2	Divisas naturais. Figuras humanas, animais, plantas.
 929.624.3		Objetos feitos pelo homem, artefatos, como divisas. Inclusive Castelos, armas.
 929.624.5		Formas fantásticas como divisas. Inclusive Dragões.
@@ -1764,7 +1764,7 @@ da colonização, até 1548.
 94(81).017	Divisão do Brasil em capitanias hereditárias. 1534.
 94(81).019	Atividade econômica: o açúcar.
 94(81).02	Período colonial (lª fase. 1548-1715).
-94(8l).02l	Criação do governo-geral, 1548. Primeiros governadores. Estado do Maranhão e Estado
+94(81).021	Criação do governo-geral, 1548. Primeiros governadores. Estado do Maranhão e Estado
 do Brasil.
 94(81).023	Implantação da pecuária. Expansão e unidade territorial.
 94(81).024	A Igreja no Brasil: sua atividade colonizadora.
@@ -1803,10 +1803,10 @@ Sabinada, 1837; Balaiada, 1838.
 94(81).053	Maioridade de D. Pedro II. Política interna do Segundo Reinado (lª fase). Parlamentarismo.
 Revoluções de 1842; Praieira, 1848-1849.
 94(81).055	Tráfico africano. Posição da Inglaterra. Leis de extinção da escravidão.
-94(8l).056	Política econômico-financeira, 1831-1844: tratados de comércio, atividade cafeeira. Mão-de-obra escrava.
+94(81).056	Política econômico-financeira, 1831-1844: tratados de comércio, atividade cafeeira. Mão-de-obra escrava.
 94(81).057	Propaganda abolicionista.
 94(81).059	Política externa: questões com a Santa Sé, com Cuba, com Rosas, fronteiriças.
-94(8l).06	Segundo Reinado (2ªfase. 1854-1889).
+94(81).06	Segundo Reinado (2ªfase. 1854-1889).
 94(81).061	Afirmação da política de conciliação.
 94(81).062	Transportes. Viação: caminhos, estradas. navegação.
 94(81).063	Leis abolicionistas. A Abolição (1888).

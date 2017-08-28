@@ -4,376 +4,138 @@
 <09>550.4 Geoquímica
 <09>66 Tecnologia química. Indústrias química e afins
 <09>Subdivisões auxiliarem especiais
-
-<01>54
-<02>-1	Estado da matéria.
+<06>54-1	Estado da matéria.
 <09>62-403/405 Estado de agregação dos materiais
-
-<01>54
-<02>-11	Estado em relação à ocorrência e tratamento.
-
-<01>54
-<02>-112	Estado natural. Nativo. Bruto. Não-tratado.
-
-<01>54
-<02>-114	Estado de fabricado. Sintético. Artificial. Preparado.
-
-<01>54
-<02>-116	Estado de processado. Tratado. Convertido. Modificado.
-
-<01>54
-<02>-12	Estado da matéria em relação à estrutura atômica ou molecular.
-
-<01>54
-<02>-121	Elementar.
-
-<01>54
-<02>-122	Molecular.
-
-<01>54
-<02>-123	Atômico.
-
-<01>54
-<02>-124	Monomérico.
-
-<01>54
-<02>-125	Isomérico.
-
-<01>54
-<02>-126	Polimérico. Oligomérico.
-
-<01>54
-<02>-127	Policondensado.
-
-<01>54
-<02>-128	Iônico. Ionizado.
-
-<01>54
-<02>-128.2	Ânions.
-
-<01>54
-<02>-128.4	Cátions.
-
-<01>54
-<02>-13	Estado gasoso.
-
-<01>54
-<02>-132	Rarefeito.
-
-<01>54
-<02>-133	Comprimido.
-
-<01>54
-<02>-134	Estado de vapor.
-
-<01>54
-<02>-135	Fase gasosa homogênea que contém mais de um componente.
-
-<01>54
-<02>-135.1/.5 dividido como 54-145.1/.5
-
-<01>54
-<02>-138	Estado coloidal com fase gasosa contínua. Inclusive Névoas. Fumaças. Aerossóis.
+<06>54-11	Estado em relação à ocorrência e tratamento.
+<06>54-112	Estado natural. Nativo. Bruto. Não-tratado.
+<06>54-114	Estado de fabricado. Sintético. Artificial. Preparado.
+<06>54-116	Estado de processado. Tratado. Convertido. Modificado.
+<06>54-12	Estado da matéria em relação à estrutura atômica ou molecular.
+<06>54-121	Elementar.
+<06>54-122	Molecular.
+<06>54-123	Atômico.
+<06>54-124	Monomérico.
+<06>54-125	Isomérico.
+<06>54-126	Polimérico. Oligomérico.
+<06>54-127	Policondensado.
+<06>54-128	Iônico. Ionizado.
+<06>54-128.2	Ânions.
+<06>54-128.4	Cátions.
+<06>54-13	Estado gasoso.
+<06>54-132	Rarefeito.
+<06>54-133	Comprimido.
+<06>54-134	Estado de vapor.
+<06>54-135	Fase gasosa homogênea que contém mais de um componente.
+<06>54-135.1/.5 dividido como 54-145.1/.5
+<06>54-138	Estado coloidal com fase gasosa contínua. Inclusive Névoas. Fumaças. Aerossóis.
 <09>544.772 Colóides com fase (meio) gasosa de dispersão. Aerossóis
-
-<01>54
-<02>-139	Estado fluido supercrítico.
-
-<01>54
-<02>-14	Estado líquido.
-
-<01>54
-<02>-143	Derretido.
-
-<01>54
-<02>-144	Estado mesomórfico, paracristalino.
-
-<01>54
-<02>-145	Soluções (fase líquida homogênea).
-
-<01>54
-<02>-145.1	Grau de concentração, acidez etc.
-
-<01>54
-<02>-145.11	Diluído.
-
-<01>54
-<02>-145.12	Concentrado.
-
-<01>54
-<02>-145.13	Saturado.
-
-<01>54
-<02>-145.14	Supersaturado.
-
-<01>54
-<02>-145.15	Solução ácida.
-
-<01>54
-<02>-145.16	Solução básica.
-
-<01>54
-<02>-145.17	Solução neutra.
-
-<01>54
-<02>-145.2	Solução aquosa. Água pura como solvente.
-
-<01>54
-<02>-145.3	Líquido inorgânico (exceto água) como solvente.
-
-<01>54
-<02>-145.5	Meios de expressar a concentração.
-
-<01>54
-<02>-145.51	Concentração molar. Molaridade.
-
-<01>54
-<02>-145.52	Concentração molal. Molalidade.
-
-<01>54
-<02>-145.53	Concentração normal. Normalidade.
-
-<01>54
-<02>-145.54	Fração de mol.
-
-<01>54
-<02>-145.55	Atividade. Coeficiente de atividade.
-
-<01>54
-<02>-145.56	Volatilidade. Transitoriedade. Pressões parciais.
-
-<01>54
-<02>-145.561	Volatilidade. Transitoriedade.
-
-<01>54
-<02>-145.562	Pressões parciais.
-
-<01>54
-<02>-145.8	Solvente. Soluto.
-
-<01>54
-<02>-145.82	Solvente.
-
-<01>54
-<02>-145.83	Soluto.
-
-<01>54
-<02>-148	Estado coloidal com fase líquida contínua. Inclusive Suspensões. Emulsões. Sóis. Géis.
+<06>54-139	Estado fluido supercrítico.
+<06>54-14	Estado líquido.
+<06>54-143	Derretido.
+<06>54-144	Estado mesomórfico, paracristalino.
+<06>54-145	Soluções (fase líquida homogênea).
+<06>54-145.1	Grau de concentração, acidez etc.
+<06>54-145.11	Diluído.
+<06>54-145.12	Concentrado.
+<06>54-145.13	Saturado.
+<06>54-145.14	Supersaturado.
+<06>54-145.15	Solução ácida.
+<06>54-145.16	Solução básica.
+<06>54-145.17	Solução neutra.
+<06>54-145.2	Solução aquosa. Água pura como solvente.
+<06>54-145.3	Líquido inorgânico (exceto água) como solvente.
+<06>54-145.5	Meios de expressar a concentração.
+<06>54-145.51	Concentração molar. Molaridade.
+<06>54-145.52	Concentração molal. Molalidade.
+<06>54-145.53	Concentração normal. Normalidade.
+<06>54-145.54	Fração de mol.
+<06>54-145.55	Atividade. Coeficiente de atividade.
+<06>54-145.56	Volatilidade. Transitoriedade. Pressões parciais.
+<06>54-145.561	Volatilidade. Transitoriedade.
+<06>54-145.562	Pressões parciais.
+<06>54-145.8	Solvente. Soluto.
+<06>54-145.82	Solvente.
+<06>54-145.83	Soluto.
+<06>54-148	Estado coloidal com fase líquida contínua. Inclusive Suspensões. Emulsões. Sóis. Géis.
 <09>Espumas.
 <09>544.773 Colóides com fase (meio) de dispersão líquida. Dispersões
-
-<01>54
-<02>-149	Suspensões pesadas.
-
-<01>54
-<02>-16	Fase sólida.
-
-<01>54
-<02>-161	Estado amorfo.
-
-<01>54
-<02>-162	Estado cristalino.
-
-<01>54
-<02>-165	Soluções sólidas. Fase sólida homogênea.
-
-<01>54
-<02>-165.2	Soluções sólidas substitutivas (subtrativas),
-
-<01>54
-<02>-165.3	Soluções sólidas intersticiais.
-
-<01>54
-<02>-168	Estado coloidal em meio sólido.
+<06>54-149	Suspensões pesadas.
+<06>54-16	Fase sólida.
+<06>54-161	Estado amorfo.
+<06>54-162	Estado cristalino.
+<06>54-165	Soluções sólidas. Fase sólida homogênea.
+<06>54-165.2	Soluções sólidas substitutivas (subtrativas),
+<06>54-165.3	Soluções sólidas intersticiais.
+<06>54-168	Estado coloidal em meio sólido.
 <09>544.774 Colóides com fase (meio) sólido de dispersão. Corpos capilares porosos. Colóides sólidos
-
-<01>54
-<02>-169	Sólidos indefinidos.
-
-<01>54
-<02>-17	Estados alotrópicos. Estados polimórficos.
-
-<01>54
-<02>-171	Estável.
-
-<01>54
-<02>-172	Metaestável.
-
-<01>54
-<02>-173	Modificações enantiotrópicas.
-
-<01>54
-<02>-174	Modificações monotrópicas.
-
-<01>54
-<02>-18	Estados especiais em relação às
+<06>54-169	Sólidos indefinidos.
+<06>54-17	Estados alotrópicos. Estados polimórficos.
+<06>54-171	Estável.
+<06>54-172	Metaestável.
+<06>54-173	Modificações enantiotrópicas.
+<06>54-174	Modificações monotrópicas.
+<06>54-18	Estados especiais em relação às
 propriedades.
-
-<01>54
-<02>-182	Estado coloidal em geral.
+<06>54-182	Estado coloidal em geral.
 <09>544.77 Sistemas dispersos e coloidais. Química dos colóides
-
-<01>54
-<02>-183	Adsorvido.
+<06>54-183	Adsorvido.
 <09>544.72 Fenômenos de superfície em sistemas de contato (em interfaces)
-
-<01>54
-<02>-185	Misturas. Sistemas heterogêneos em mais
+<06>54-185	Misturas. Sistemas heterogêneos em mais
 de uma fase.
-
-<01>54
-<02>-188	Ativados.
-
-<01>54
-<02>-19	Compostos intermetálicos.
+<06>54-188	Ativados.
+<06>54-19	Compostos intermetálicos.
 <09>Intermetalídeos. Metalídeos. Bertolídeos.
 <09>Daltonídeos.
-
-<01>54
-<02>-3	Tipos específicos de compostos.
-
-<01>54
-<02>-31	Óxidos.
-
-<01>54
-<02>-32	Ácidos.
-
-<01>54
-<02>-323	Tipo metácido.
-
-<01>54
-<02>-324	Tipo piroácido.
-
-<01>54
-<02>-325	Tipo ortoácido.
-
-<01>54
-<02>-328	Poliácidos. Ácidos heteropólicos.
-
-<01>54
-<02>-36	Bases. Hidróxidos.
-
-<01>54
-<02>-38	Sais. Compostos análogos.
-
-<01>54
-<02>-381	Sais básicos.
-
-<01>54
-<02>-383	Sais neutros.
-
-<01>54
-<02>-384	Sais ácidos.
-
-<01>54
-<02>-384.1 Sais ácidos primários.
-
-<01>54
-<02>-384.2	Sais ácidos secundários.
-
-<01>54
-<02>-384.3	Sais ácidos terciários.
-
-<01>54
-<02>-386	Sais duplos. Compostos complexos.
-
-<01>54
-<02>-39	Compostos de peróxido.
-
-<01>54
-<02>-4	Substâncias químicas. Reagentes.
-
-<01>54
-<02>-41	Reagentes em geral.
-
-<01>54
-<02>-412	Agentes precipitantes.
-
-<01>54
-<02>-414	Sorventes. 
+<06>54-3	Tipos específicos de compostos.
+<06>54-31	Óxidos.
+<06>54-32	Ácidos.
+<06>54-323	Tipo metácido.
+<06>54-324	Tipo piroácido.
+<06>54-325	Tipo ortoácido.
+<06>54-328	Poliácidos. Ácidos heteropólicos.
+<06>54-36	Bases. Hidróxidos.
+<06>54-38	Sais. Compostos análogos.
+<06>54-381	Sais básicos.
+<06>54-383	Sais neutros.
+<06>54-384	Sais ácidos.
+<06>54-384.1	Sais ácidos primários.
+<06>54-384.2	Sais ácidos secundários.
+<06>54-384.3	Sais ácidos terciários.
+<06>54-386	Sais duplos. Compostos complexos.
+<06>54-39	Compostos de peróxido.
+<06>54-4	Substâncias químicas. Reagentes.
+<06>54-41	Reagentes em geral.
+<06>54-412	Agentes precipitantes.
+<06>54-414	Sorventes. 
 <09>Mais desenvolvido para cromatografia em 543.544-414
-
-<01>54
-<02>-415		Fase móvel.
+<06>54-415		Fase móvel.
       Mais desenvolvido para cromatografia em 543.544-415
-
-<01>54
-<02>-42	Soluções-padrão.
-
-<01>54
-<02>-43	Indicadores.
-
-<01>54
-<02>-44	Catalisadores.
-
-<01>54
-<02>-45	Tampões. Soluções-tampão.
-
-<01>54
-<02>-48	Grau de pureza dos produtos químicos.
-
-<01>54
-<02>-481	Grau analítico.
-
-<01>54
-<02>-482	Muito puro.
-
-<01>54
-<02>-483	Puro.
-
-<01>54
-<02>-484	Purificado. Técnico.
-
-<01>54
-<02>-485	Comercial. Grosseiro.
-
-<01>54
-<02>-7	Tipos de radiação (ondular e corpuscular).
-
-<01>54
-<02>-71	Íons.
-
-<01>54
-<02>-72	Partículas elementares.
-
-<01>54
-<02>-722	Núcleos. Partículas alfa.
-
-<01>54
-<02>-723	Núcleons.
-
-<01>54
-<02>-723.4	Prótons.
-
-<01>54
-<02>-723.5	Nêutrons.
-
-<01>54
-<02>-724	Elétrons.
-
-<01>54
-<02>-73	Ondas de rádio.
-
-<01>54
-<02>-732	Microondas.
-
-<01>54
-<02>-74	Raios infravermelhos.
-
-<01>54
-<02>-75	Luz visível (radiação visível).
-
-<01>54
-<02>-76	Raios ultravioleta.
-
-<01>54
-<02>-77	Raios X.
-
-<01>54
-<02>-78	Raios gama (radiação gama).
-
-<01>54
-<02>-79	Outros tipos de radiação.
+<06>54-42	Soluções-padrão.
+<06>54-43	Indicadores.
+<06>54-44	Catalisadores.
+<06>54-45	Tampões. Soluções-tampão.
+<06>54-48	Grau de pureza dos produtos químicos.
+<06>54-481	Grau analítico.
+<06>54-482	Muito puro.
+<06>54-483	Puro.
+<06>54-484	Purificado. Técnico.
+<06>54-485	Comercial. Grosseiro.
+<06>54-7	Tipos de radiação (ondular e corpuscular).
+<06>54-71	Íons.
+<06>54-72	Partículas elementares.
+<06>54-722	Núcleos. Partículas alfa.
+<06>54-723	Núcleons.
+<06>54-723.4	Prótons.
+<06>54-723.5	Nêutrons.
+<06>54-724	Elétrons.
+<06>54-73	Ondas de rádio.
+<06>54-732	Microondas.
+<06>54-74	Raios infravermelhos.
+<06>54-75	Luz visível (radiação visível).
+<06>54-76	Raios ultravioleta.
+<06>54-77	Raios X.
+<06>54-78	Raios gama (radiação gama).
+<06>54-79	Outros tipos de radiação.
 
 <01>54.01
 <02>Substâncias e sistemas químicos. Origem. Ocorrência. Fases.
@@ -393,8 +155,8 @@ de uma fase.
 <01>54.027
 <02>Isótopos (em geral).
 <09>Os isótopos específicos são designados pela adição de 0.27 ao número 546 para o elemento, seguido de um asterisco com o número de massa 
-<06>546.26.027*14 Carbono 14 
-<06>546. 791.027*235 Urânio 235
+      546.26.027*14 Carbono 14 
+      546. 791.027*235 Urânio 235
 
 <01>54.03
 <02>Propriedades e constantes físicas.
@@ -720,31 +482,19 @@ calafetagem, para embalagem.
 
 <01>542.9
 <02>dividido como 66.09
-
-<01>542.9
-<02>-9 dividido como 66-9
-
-<01>542.9`1/
-<02>’7 dividido como 542.91/.97,  é usado para combinar dois ou mais métodos ou
+<06>542.9-9 dividido como 66-9
+<06>542.9`1/’7 dividido como 542.91/.97,  é usado para combinar dois ou mais métodos ou
 reações
 
 <01>542.913
 <02>Síntese.
-
-<01>542.913
-#ERRO2(Texto orfao sem tag ?)  <02>-977Pirossintese
+<06>542.913-977 Pirossintese
 
 <01>542.92
 <02>Decomposição. Craqueamento
-
-<01>542.92`43
-<02>Decomposição oxidativa
-
-<01>542.92`7
-<02>Decomposição catalítica
-
-<01>542.92`73
-<02>Catalisadores de decomposição
+<06>542.92`43 Decomposição oxidativa
+<06>542.92`7 Decomposição catalítica
+<06>542.92`73 Catalisadores de decomposição
 <09>Especificar por meio de :66-92...
 
 <01>542.93
@@ -761,9 +511,7 @@ reações
 
 <01>542.943
 <02>Oxidação.
-
-<01>542.943
-<02>-92 Por reagentes. Oxidantes 
+<06>542.943-92 Por reagentes. Oxidantes 
 
 <01>542.943
 <02>'7 Oxidação catalítica 
@@ -797,18 +545,10 @@ reações
 <06>543:662.6 Análise de combustíveis 
 <06>669.14:546.26.06 Determinação do carbono no aço
 <09>Subdivisões auxiliares especiais
-
-<01>543
-<02>-41	Reagentes (materiais) para cromatografia.
-
-<01>543
-<02>-414	Sorventes.
-
-<01>543
-<02>-415	Fase móvel.
-
-<01>543
-<02>-43	Indicadores.
+<06>543-41	Reagentes (materiais) para cromatografia.
+<06>543-414	Sorventes.
+<06>543-415	Fase móvel.
+<06>543-43	Indicadores.
 
 <01>543.05
 <02>Amostragem e preparação de amostras para análise. Separação e concentração
@@ -857,7 +597,7 @@ reações
 <01>543.063
 <02>Procedimentos microquímicos.
 
-<01>543.063.l
+<01>543.063.1
 <02>Semi microprocedimentos.
 
 <01>543.063.2
@@ -927,7 +667,7 @@ impurezas.
 
 <01>543.08
 <02>Princípios, métodos e aparelhos de medição Registro e resultados do processamento.
-<06>543.08  dividido como 53.08                              
+                                       543.08  dividido como 53.08                              
 <06>543.08:004.384 Com computador
 
 <01>543.084.852
@@ -1161,7 +901,7 @@ reagentes secos. Inclusive Copelação.
 <01>543.272
 <02>Absorção seletiva de gases. Determinação dos
 constituintes gasosos específicos. Unidades e conjuntos de absorção.
-->543.544.33 Cromatografia a gás sólido
+<09>543.544.33 Cromatografia a gás sólido
 
 <01>543.272.1
 <02>Determinação do oxigênio.
@@ -1273,8 +1013,8 @@ suspensões, aerossóis, fumaças, poeiras.
 <01>543.275.1
 <02>Umidade. Conteúdo de água.
 
-<01>543.275.1
-<02>08 Medidores de umidade. Higrômetros. Psicrômetros
+<01>543.275.1.08
+<02>Medidores de umidade. Higrômetros. Psicrômetros
 <09>533.275 Umidade. Higrometria
 
 <01>543.275.2
@@ -1412,7 +1152,7 @@ potássio e manganês.
 <02>Análise espectrofotométrica.
 <09>Indicar o tipo de radiação por meio de -7 
 <06>543.422.3-74 Espectrometria infravermelha
-#ERRO2(Texto orfao sem tag ?)  <06>543.422.3-76Espectrometria ultravioleta
+<06>543.422.3-76 Espectrometria ultravioleta
 
 <01>543.422.7
 <02>Análise colorimétrica. Análise fotocolorimétrica.
@@ -1579,30 +1319,14 @@ ativas. Análise polarimétrica.
 <02>Análise cromatográfica. Cromatografia. 
                                           Especificar pelos auxiliares especiais (inclusive as subdivisões separadas de-414 e-415 para uso em 543.544)
 <09>Subdivisões auxiliares especiais
-
-<01>543.544
-<02>-414.2       Suporte sólido. 
-
-<01>543.544
-<02>-414.4        Fase estacionária. 
-
-<01>543.544
-<02>-414.5         Sorventes de tipo misto (absorvente + fase estacionária).
-
-<01>543.544
-<02>-414.6        Sorvente com grupos ligados.
-
-<01>543.544
-<02>-414.7        Sorvente modificado.
-
-<01>543.544
-<02>-415.2       Gás portador.
-
-<01>543.544
-<02>-415.3        Solvente. Eluente.
-
-<01>543.544
-<02>-415.4       Mistura a ser analisada.
+<06>543.544-414.2       Suporte sólido. 
+<06>543.544-414.4        Fase estacionária. 
+<06>543.544-414.5         Sorventes de tipo misto (absorvente + fase estacionária).
+<06>543.544-414.6        Sorvente com grupos ligados.
+<06>543.544-414.7        Sorvente modificado.
+<06>543.544-415.2       Gás portador.
+<06>543.544-415.3        Solvente. Eluente.
+<06>543.544-415.4       Mistura a ser analisada.
 <09>Divisões principais
 
 <01>543.544.1
@@ -1665,7 +1389,7 @@ de separação.
 
 <01>543.544.3
 <02>Cromatografia a gás.
-<06>543.544.3 dividido como 543.544.1
+                                    543.544.3 dividido como 543.544.1
 
 <01>543.544.32
 <02>Cromatografia a gás líquido.
@@ -1696,9 +1420,9 @@ de separação.
 
 <01>543.544.7.08
 <02>Métodos e instrumentos de medição. Detectores
-<06>543.544.7.082/.083 Técnicas de medição. Projetos de detectores 
-<06>543.544.7.087.6 Registro. Cromatogramas 
-<06>543.544.7.087.9 Cálculo (decodificação) doscromatogramas. Dispositivos para cálculo
+ 543.544.7.082/.083 Técnicas de medição. Projetos de detectores 
+ 543.544.7.087.6 Registro. Cromatogramas 
+ 543.544.7.087.9 Cálculo (decodificação) doscromatogramas. Dispositivos para cálculo
 
 <01>543.544.72
 <02>Cromatógrafos de coluna.
@@ -1753,7 +1477,7 @@ de separação.
 
 <01>543.544.943.3
 <02>Camada fina.
-<06>543.544.943.3.068.7 Cromatografia de camada fina de alto desempenho
+                                       543.544.943.3.068.7 Cromatografia de camada fina de alto desempenho
 
 <01>543.545
 <02>Análise eletroforética. Eletrocromatografia.
@@ -1821,7 +1545,7 @@ de separação.
 
 <01>543.554.2.08
 <02>Medidores de pH
-<06>543.554.4.08 Tituladores potenciométricos
+                               	543.554.4.08 Tituladores potenciométricos
 
 <01>543.554.2
 <02>Determinação da concentração de íons de
@@ -1980,7 +1704,7 @@ nas substâncias inorgânicas.
 <01>543.63
 <02>Análise de substâncias orgânicas.
 
-<01>543.63l
+<01>543.631
 <02>Determinação da composição de substâncias orgânicas.
 
 <01>543.631
@@ -2124,7 +1848,7 @@ hidroxílicos aminoácidos.
 
 <01>543.632.538
 <02>Grupos hidoxila em compostos que contêm outros grupos funcionais.
-      ->543.635.2 Determinação de carboidratos
+<09>543.635.2 Determinação de carboidratos
 
 <01>543.632.54
 <02>Determinação dos grupos epóxi e peróxido.
@@ -2344,7 +2068,7 @@ sintética).
 
 <01>543.641
 <02>Determinação da composição.
-<06>543.641 dividido como 543.61
+      543.641 dividido como 543.61
 
 <01>543.645
 <02>Determinação de grupos particulares de substâncias bioquímicas.
@@ -2422,30 +2146,14 @@ bioquímicas. Métodos biológicos utilizados para fins analíticos.
 <01>544
 <02>Química física.
 <09>Subdivisões auxiliares especiais
-
-<01>544
-<02>-931.2	Direta.
-
-<01>544
-<02>-931.4	Indireta. Reversa.
-
-<01>544
-<02>-971	Características termodinâmicas.
-
-<01>544
-<02>-971.2	Exotérmicas.
-
-<01>544
-<02>-971.4	Endotérmicas.
-
-<01>544
-<02>-971.6	Reversíveis. Irreversíveis.
-
-<01>544
-<02>-971.62	Reversíveis.
-
-<01>544
-<02>-971.63	Irreversíveis. Espontâneas.
+<06>544-931.2	Direta.
+<06>544-931.4	Indireta. Reversa.
+<06>544-971	Características termodinâmicas.
+<06>544-971.2	Exotérmicas.
+<06>544-971.4	Endotérmicas.
+<06>544-971.6	Reversíveis. Irreversíveis.
+<06>544-971.62	Reversíveis.
+<06>544-971.63	Irreversíveis. Espontâneas.
 
 <01>544.01
 <02>Substâncias e sistemas químicos. Origem. Estado natural. Fases.
@@ -2498,9 +2206,7 @@ bioquímicas. Métodos biológicos utilizados para fins analíticos.
 <01>544.016.2
 <02>Relação composição/temperatura. Análise térmica. Diagramas de composição/temperatura.
 <06>544.016.2:543.572.3 Análise térmica diferencial
-
-<01>544.0l6.2`.543.573
-<02>Termogravimetria 
+<06>544.016.2`.543.573 Termogravimetria 
 <06>544.016.2:543.575 Dilatometria
 
 <01>544.016.3
@@ -2514,7 +2220,7 @@ bioquímicas. Métodos biológicos utilizados para fins analíticos.
 
 <01>544.018
 <02>Sistemas eletroquímicos. Eletrólitos.
-<06>0 auxiliar é para ser utilizado principalmente em 544.6. As subdivisões detalhadas estão relacionadas em 544.6.018
+                                         0 auxiliar é para ser utilizado principalmente em 544.6. As subdivisões detalhadas estão relacionadas em 544.6.018
 
 <01>544.018.2
 <02>Sistemas eletroquímicos.
@@ -3253,10 +2959,10 @@ nuclear e relaxação. Interações superfinas. Interações spin/spin e spin/or
 química e capacidade de rotação óptica e rotação magnética da luz polarizada.
 <09>Atividade óptica.
       Indicar os efeitos específicos por meio de .032 
-<06>544.164.032.4 Termocromismo 
-<06>544.164.032.52 Eletrocromismo 
-<06>544.164.032.6 Fotocromismo 
-<06>544.164.032.732 Solvatocromismo 
+      544.164.032.4 Termocromismo 
+      544.164.032.52 Eletrocromismo 
+      544.164.032.6 Fotocromismo 
+      544.164.032.732 Solvatocromismo 
 
 <01>544.165
 <02>Relações entre estrutura química e propriedades biológicas. Relações estrutura/'
@@ -3605,8 +3311,8 @@ eletrônico em cristais.
 <02>Estrutura da superfície e propriedades da
 superfície dos cristais.
 <09>Indicar os defeitos da superfície por meio de . 022.3 
-<06>544.227.022.342.2 Lacunas na monocamada de superfície 
-<06>544.227.022.343 Defeitos de impureza nas superfícies. Adátomos 
+      544.227.022.342.2 Lacunas na monocamada de superfície 
+                                       544.227.022.343 Defeitos de impureza nas superfícies. Adátomos 
 
 <01>544.227.022.344.2
 <02>Rupturas (saliências) nos degraus de crescimento
@@ -3634,8 +3340,8 @@ vítreos).
 
 <01>544.23.022.51
 <02>Estrutura cristalino-amorfa. Estrutura do cristalito 
-<06>544.23.022.522 Estrutura globular
-<06>544.23.022.524 Estrutura fibrilar
+  544.23.022.522 Estrutura globular
+  544.23.022.524 Estrutura fibrilar
 
 <01>544.232
 <02>Teorias e modelos de estados amorfos e vítreos.
@@ -3719,9 +3425,7 @@ anisotrópicos). Estado mesomorfo (paracristalino). Mesomorfismo. Mesofases.
 
 <01>544.25.022.79
 <02>Outras texturas 
-
-<01>544.25.03
-<02>-173 Enantiotropismo. Fases enantiotrópicas. Fases de reversão 
+<06>544.25.03-173 Enantiotropismo. Fases enantiotrópicas. Fases de reversão 
 <06>544.25.03-174 Monotropismo. Fases monotrópicas
 <09>548.33 Polimorfismo
 
@@ -3869,9 +3573,9 @@ cibotáticos.
 <06>544.3-931.4 Processos reversos (para trás) 
 <06>544.3-971.2 Mudanças exotérmicas 
 <06>544.3-971.4 Mudanças endotérmicas 
-<06>544.3.01 Fases. Estados de fase. Fases. Estados de fase. NOTA: as subdivisões de .01 podem ser especificadas como se 
+      544.3.01 Fases. Estados de fase. Fases. Estados de fase. NOTA: as subdivisões de .01 podem ser especificadas como se 
       indica  em 544.344
-<06>544.3.03 Propriedades físicas e físico-químicas. Condições e estados. NOTA: indicar propriedades físicas individuais 
+      544.3.03 Propriedades físicas e físico-químicas. Condições e estados. NOTA: indicar propriedades físicas individuais 
                                           por meio de :53...
 
 <01>543.3.031
@@ -3880,20 +3584,20 @@ cibotáticos.
 <01>543.3.032
 <02>Variações das condições e dos estados. Efeito das condições variantes sobre um estado e as propriedades de um sistema
 
-<01>543.3.032
-#ERRO2(Texto orfao sem tag ?)  <02>.1Estabilidade. Constância
+<01>543.3.032.1
+<02>Estabilidade. Constância
 
-<01>543.3.032
-<02>.2Ação de efeitos mecânicos
+<01>543.3.032.2
+<02>Ação de efeitos mecânicos
 
-<01>543.3.032
-<02>.3Ação de efeitos da pressão (volume)
+<01>543.3.032.3
+<02>Ação de efeitos da pressão (volume)
 
-<01>543.3.032
-#ERRO2(Texto orfao sem tag ?)  <02>.4Efeitos da temperatura
+<01>543.3.032.4
+<02>Efeitos da temperatura
 
-<01>543.3.032
-#ERRO2(Texto orfao sem tag ?)  <02>.5Efeitos elétricos e magnéticos
+<01>543.3.032.5
+<02>Efeitos elétricos e magnéticos
 
 <01>544.3.032.7
 <02>Efeitos físico-químicos
@@ -3918,13 +3622,13 @@ em combinação de dois pontos com os números da CDU para os compostos químico
      Especificar pelos auxiliares especiais 
 <06>546.131.03:544.31 Funções termodinâmicas - cloreto de hidrogênio
 <06>542.948:544.323.2 Neutralização da energia livre
-<06>544.31:546.264-31 Funções termodinâmicas do bióxido de carbono 
-<06>544.31.031 Funções-padrão termodinâmicas
+<06>546.264-31 Funções termodinâmicas do bióxido de carbono 
+ 544.31.031 Funções-padrão termodinâmicas
 <09>544.332  Calor (entalpia) dos processos químicos. Mudança de entalpia na reação química ( HΔ). Atividade dos calaores de reação . Lei de Hess
 
 <01>544.312
 <02>Entropia de formação. Entropia absoluta (terceira lei).
-<06>544.312.03 l Entropia de formação-padrão (S°298)
+                                       544.312.03 l Entropia de formação-padrão (S°298)
 
 <01>544.313
 <02>Potenciais termodinâmicos de formação.
@@ -3933,7 +3637,7 @@ em combinação de dois pontos com os números da CDU para os compostos químico
 <02>Potencial isobárico-isotérmico. Energia livre.
 <09>Energia de Gibbs (G, ΔG).
 
-<01>544.313.2.03l
+<01>544.313.2.031
 <02>Energia livre-padrão de formação
 
 <01>544.313.3
@@ -3952,7 +3656,7 @@ parcial (μ).
 <02>Funções termodinâmicas de processos químicos.
 <09>544.332 Calor (entalpia) dos processos químicos. Mudança de entalpia na reação química (ΔH).  Atividade dos calores de reação. Lei de Hess
       Ver a nota metodológica em 544.31
-<06>544.32 dividido como 544.31
+      544.32 dividido como 544.31
 <09>544.332  Calor (entalpia) dos processos químicos. Mudança de entalpia na reação química (ΔH).
 <09>Aditividade dos calores de reação. Lei de Hess
 
@@ -3987,12 +3691,8 @@ combinação de dois pontos: com 544.332
 <09>Especificar por meio dos auxiliares especiais 
 <06>542.942.5:544.332 Hidrogenação - calor 
 <06>544.332:542.942.5 Calor da hidrogenação 
-
-<01>544.332
-<02>-971.2 Reações exotérmicas 
-
-<01>544.332
-<02>-971.4 Reação endotérmica 
+<06>544.332-971.2 Reações exotérmicas 
+<06>544.332-971.4 Reação endotérmica 
 
 <01>544.332.031
 <02>Entalpia-padrão dos processos químicos. Calor-padrão da reação (ΔH°298)
@@ -4002,15 +3702,9 @@ combinação de dois pontos: com 544.332
 
 <01>544.332.2
 <02>Calores de formação dos compostos químicos,
-
-<01>544.332.2
-<02>-123 Calor atômico de formação 
-
-<01>544.332.2
-<02>-971.2 Compostos exotérmicos 
-
-<01>544.332.2
-<02>-971.4 Compostos endotérmicos 
+<06>544.332.2-123 Calor atômico de formação 
+<06>544.332.2-971.2 Compostos exotérmicos 
+<06>544.332.2-971.4 Compostos endotérmicos 
 
 <01>544.332.2.031
 <02>Calores-padrão de formação. Entalpia-padrão de formação (ΔfH°298)
@@ -4057,8 +3751,8 @@ térmica e métodos para sua acumulação.
 
 <01>544.341.2.032.4
 <02>Efeitos da temperatura sobre a constante de equilíbrio. Equação de reação isobárica. Equação de reação isocórica
-<06>544.354.081.7 Constante de dissociação. Constante de ionização
-<06>544.421.081.7 Constante da taxa de reação. Resistência cinética de processo
+                                     544.354.081.7 Constante de dissociação. Constante de ionização
+                                     544.421.081.7 Constante da taxa de reação. Resistência cinética de processo
 
 <01>544.341.3
 <02>Extensão da reação. Grau de mudança dos
@@ -4085,48 +3779,24 @@ homogêneo.
 
 <01>544.344.011
 <02>Sistemas de fase única, monofásicos.
-
-<01>544.344.011
-<02>-13 Fase gasosa 
-
-<01>544.344.011
-<02>-14 Fase líquida 
-
-<01>544.344.011
-<02>-16 Fase sólida
+<06>544.344.011-13 Fase gasosa 
+<06>544.344.011-14 Fase líquida 
+<06>544.344.011-16 Fase sólida
 
 <01>544.344.012
 <02>Sistemas de duas fases.
-
-<01>544.344.012
-<02>-14 Líquidos 
-
-<01>544.344.012
-<02>-14-13 Líquido e gás 
-
-<01>544.344.012
-<02>-16-14 Sólido e líquido
+<06>544.344.012-14 Líquidos 
+<06>544.344.012-14-13 Líquido e gás 
+<06>544.344.012-16-14 Sólido e líquido
 
 <01>544.344.013
 <02>Sistemas de três fases.
-
-<01>544.344.013
-<02>-14 Líquidos 
-
-<01>544.344.013
-<02>-14-13 Líquidos e gases 
-
-<01>544.344.013
-<02>-16 Sólidos 
-
-<01>544.344.013
-<02>-16-13 Sólidos e gases 
-
-<01>544.344.013
-<02>-16-14 Sólidos e líquidos 
-
-<01>544.344.013
-<02>-16-14-13 Fases sólidas, líquidas e gasosas
+<06>544.344.013-14 Líquidos 
+<06>544.344.013-14-13 Líquidos e gases 
+<06>544.344.013-16 Sólidos 
+<06>544.344.013-16-13 Sólidos e gases 
+<06>544.344.013-16-14 Sólidos e líquidos 
+<06>544.344.013-16-14-13 Fases sólidas, líquidas e gasosas
 
 <01>544.344.014
 <02>Sistemas de quatro fases e multifásicos.
@@ -4134,8 +3804,8 @@ homogêneo.
 <01>544.344.015
 <02>Estado de fase.
 
-<01>544.344.015.032.
-#ERRO1( l usado no lugar do 1 ?) <02>l Estabilidade de fase 
+<01>544.344.015.032.1
+<02>Estabilidade de fase 
 
 <01>544.344.015.032.1.032.4
 <02>Efeitos da temperatura. Estabilidade térmica
@@ -4170,9 +3840,7 @@ singularidade.
 
 <01>544.344.015.4
 <02>Transições (mudanças) de fase.
-
-<01>544.344.015.4
-<02>-17 Transições estruturais. Mudanças alotrópicas. Transformações polimórficas
+<06>544.344.015.4-17 Transições estruturais. Mudanças alotrópicas. Transformações polimórficas
 
 <01>544.344.015.5
 <02>Troca de fase. Troca de interfase. Distribuição de interfase.
@@ -4220,9 +3888,7 @@ principalmente com 546/547
 
 <01>544.344.3
 <02>Sistemas de três componentes (ternários).
-
-<01>544.344.3.012
-<02>-14 Sistemas ternários partidos em duas fases líquidas
+<06>544.344.3.012-14 Sistemas ternários partidos em duas fases líquidas
 
 <01>544.344.4
 <02>Sistemas de quatro componentes (quaternários).
@@ -4234,18 +3900,18 @@ mais de 4 componentes).
 <01>544.35
 <02>Química de soluções (fase líquida
 homogênea). Soluções em geral. Soluções verdadeiras.
-<06>544.35.03 Propriedades físicas das soluções. NOTA: indicar propriedades não listadas em .03 por meio 
+      544.35.03 Propriedades físicas das soluções. NOTA: indicar propriedades não listadas em .03 por meio 
       de :53
 <06>544.35.03:535.6 Cor da solução 
 <06>544.35.03:537.311 Condutividade elétrica da solução
-<06>544.35.032.1 Estabilidade da solução 
-<06>544.35.032.72 Efeitos da concentração nas propriedades da solução. Lei de Raoult-Van`t Hoff 
-<06>544.35.038 Volumetria da solução 
-#ERRO2(Texto orfao sem tag ?)  <06>544.35.038.1Volume molar. 
-#ERRO2(Texto orfao sem tag ?)  <06>544.35.038.2Volume molal. 
-#ERRO2(Texto orfao sem tag ?)  <06>544.35.038.3Volume excluído 
-#ERRO2(Texto orfao sem tag ?)  <06>544.35.038.4Volume de excesso
-<06>544.35.038.5 Pressão interna. Compressibilidade da solução
+      544.35.032.1 Estabilidade da solução 
+      544.35.032.72 Efeitos da concentração nas propriedades da solução. Lei de Raoult-Van`t Hoff 
+      544.35.038 Volumetria da solução 
+      544.35.038.1 Volume molar. 
+      544.35.038.2 Volume molal. 
+      544.35.038.3 Volume excluído 
+      544.35.038.4 Volume de excesso
+      544.35.038.5 Pressão interna. Compressibilidade da solução
 <09>54-145 Soluções (fase líquida homogênea)
 <09>544.342 Equilíbrio de sistemas homogêneos. Equilíbrio homogêneo
 <09>544.773.42 Liossóis. Soluções coloidais. Sóis em geral
@@ -4254,12 +3920,8 @@ homogênea). Soluções em geral. Soluções verdadeiras.
 <02>Processo de solução.
 <06>544.351:544.332 Calor da solução 
 <06>544.351:544.43... Cinética e mecanismos da solução
-
-<01>544.351
-<02>-145.82 Solvente em geral 
-
-<01>544.351
-<02>-145.83 Soluto em geral
+<06>544.351-145.82 Solvente em geral 
+<06>544.351-145.83 Soluto em geral
 
 <01>544.351.2
 <02>Diluição.
@@ -4282,11 +3944,11 @@ homogênea). Soluções em geral. Soluções verdadeiras.
 
 <01>544.352.2
 <02>Rebaixamento do ponto de congelamento da solução. Crioscopia.
-<06>544.352.2.081.7 Constante da depressão do ponto de congelamento molal
+                                            544.352.2.081.7 Constante da depressão do ponto de congelamento molal
 
 <01>544.352.3
 <02>Elevação do ponto de ebulição da solução. Ebulioscopia.
-<06>544.352.3.081.7 Constante de elevação do ponto de ebulição molal
+                                            544.352.3.081.7 Constante de elevação do ponto de ebulição molal
 
 <01>544.352.4
 <02>Osmose. Pressão osmótica. Soluções hipertônicas. hipotônicas e isotônicas.
@@ -4320,18 +3982,10 @@ envoltório do hidrato. Água de hidratação.
 <02>Dissociação eletrolítica. ionização em soluções.
 <06>544.354:544.332 Calor de ionização 
 <06>544.354:544.34 Equilíbrio iônico 
-
-<01>544.354
-<02>-128 íons 
-
-<01>544.354
-<02>-128.2 Ânions 
-
-<01>544.354
-<02>-128.4 Cátions 
-
-<01>544.354
-<02>-931.4 Molarização 
+<06>544.354-128 íons 
+<06>544.354-128.2 Ânions 
+<06>544.354-128.4 Cátions 
+<06>544.354-931.4 Molarização 
 
 <01>544.354.081.7
 <02>Constante de dissociação. Constante de ionização
@@ -4359,51 +4013,25 @@ pH e pH. Reação do meio.
 
 <01>544.355
 <02>Tipos de solução.
-
-<01>544.355
-<02>-122 Soluções não-eletrolíticas 
-
-<01>544.355
-<02>-128 Soluções eletrolíticas 
-
-<01>544.355
-<02>-13 Soluções de gases nos líquidos 
+<06>544.355-122 Soluções não-eletrolíticas 
+<06>544.355-128 Soluções eletrolíticas 
+<06>544.355-13 Soluções de gases nos líquidos 
 
 <01>544.35
 <02>5-14 Soluções de líquidos 
-
-<01>544.355
-<02>-145.1 Natureza da concentração  de soluções 
-
-<01>544.355
-<02>-145.11 Insaturadas. Fracas. Diluídas
-
-<01>544.355
-<02>-145.12 Concentradas. Fortes 
-
-<01>544.355
-<02>-145.13 Saturadas 
-
-<01>544.355
-<02>-145.14 Supersaturadas 
+<06>544.355-145.1 Natureza da concentração  de soluções 
+<06>544.355-145.11 Insaturadas. Fracas. Diluídas
+<06>544.355-145.12 Concentradas. Fortes 
+<06>544.355-145.13 Saturadas 
+<06>544.355-145.14 Supersaturadas 
 
 <01>544.3
 <02>55-145.5 Meios de expressar a concentração 
-
-<01>544.355
-<02>-145.51 Concentração molar. Molaridade 
-
-<01>544.355
-<02>-145.52 Concentração molal. Molalidade 
-
-<01>544.355
-<02>-145.53 Concentração normal. Normalidade
-
-<01>544.355
-<02>-145.54 Fração de mol 
-
-<01>544.355
-<02>-145.55 Atividade. Coeficiente de atividade
+<06>544.355-145.51 Concentração molar. Molaridade 
+<06>544.355-145.52 Concentração molal. Molalidade 
+<06>544.355-145.53 Concentração normal. Normalidade
+<06>544.355-145.54 Fração de mol 
+<06>544.355-145.55 Atividade. Coeficiente de atividade
 <06>544.355-145.561 Volatilidade. Fugitividade
 <06>544.355-145.562 Pressões parciais
 <06>544.355-16 Soluções de sólidos em líquidos
@@ -4462,23 +4090,23 @@ basicidade. Função de acidez.
 <01>544.363
 <02>Polibasicidade de ácidos e bases. Ácidos e
 bases polipróticas.
-<06>544.3 63.081.7 Constantes de ionização de segunda ordem e superior (dissociação)
+      544.3 63.081.7 Constantes de ionização de segunda ordem e superior (dissociação)
 
 <01>544.364
 <02>Anfoterismo.
 
 <01>544.4
 <02>Cinética química. Catálise.
-<06>544.4.032.7 Ação química sobre o progresso da reação
+      544.4.032.7 Ação química sobre o progresso da reação
 
 <01>544.41
 <02>Classificação da reação química.
       Indicar os diversos aspectos pela combinação de dois pontos ou pelos auxiliares especiais 
 <06>544.41:544.342 Reações homogêneas 
-<06>544.41:544.342-13 Na fase gasosa 
-<06>544.41:544.342-145 Nas soluções 
+<06>544.342-13 Na fase gasosa 
+<06>544.342-145 Nas soluções 
 <06>544.41:544.344 Reações heterogêneas. Reações nas interfaces 
-<06>544.41:544.344-16 Reações heterogêneas nas interfaces sólidas
+<06>544.344-16 Reações heterogêneas nas interfaces sólidas
 
 <01>544.412
 <02>Reações químicas segundo a natureza da mudança.
@@ -4512,7 +4140,7 @@ concentração da reação
 <02>Dependência da taxa de reação da estrutura química dos reatantes. Efeitos de substituição.
                                        Relações de correlação. Efeitos indutivos e mesoméricos. Efeito isotópico 
 <06>544.421.032.76:544.323.2 Relações (lineares) (equações) de energia livre. Equações de Hammett, Taft, Brown etc
-<06>544.421.081.7 Constante da taxa de reação. Resistência cinética de processo  
+                                       544.421.081.7 Constante da taxa de reação. Resistência cinética de processo  
 <09>544.435.3 Seção transversa da reação. Probabilidade da reação
 
 <01>544.421.2
@@ -4587,7 +4215,7 @@ intermolecular.
 <01>544.431.122
 <02>Excitação. Estado excitado. Ativação. Estado
 ativado. Complexo ativado.
-#ERRO2(Texto orfao sem tag ?)  <06>544.431.122:544.15Energia de ativação 
+<06>544.431.122:544.15 Energia de ativação 
 
 <01>544.431.122.032.1
 <02>Estabilidade. Meia-vida
@@ -4737,8 +4365,8 @@ reação.
 
 <01>544.45
 <02>Combustão. Explosão. Cinética da combustão e da explosão.
-<06>542.943 Oxidação
-<06>544.431.7 Reações em cadeia  (autopropagantes). Início, diversificação e inibição (terminação) da cadeia
+                                542.943 Oxidação
+                                544.431.7 Reações em cadeia  (autopropagantes). Início, diversificação e inibição (terminação) da cadeia
 
 <01>544.452
 <02>Combustão.
@@ -4776,7 +4404,7 @@ completa. Deflagração.
 
 <01>544.454
 <02>Explosão.
-<06>544.454.032 Limites (alcance) da explosividade. Parâmetros críticos da explosão
+      544.454.032 Limites (alcance) da explosividade. Parâmetros críticos da explosão
 
 <01>544.454.2
 <02>Explosão térmica.
@@ -4821,15 +4449,9 @@ dos catalisadores.
 materiais -05 da Tabela 1k
 <06>544.473:544.77 Catálise coloidal (micelar) micro-heterogênea 
 <06>544.473:577.15 Biocatalisadores. Catálise enzimática
-
-<01>544.473
-<02>-039.61 Catálise por não-metais 
-
-<01>544.473
-<02>-039.63 Catálise por metais 
-
-<01>544.473
-<02>-039.63-386 Catálise metalocomplexa
+<06>544.473-039.61 Catálise por não-metais 
+<06>544.473-039.63 Catálise por metais 
+<06>544.473-039.63-386 Catálise metalocomplexa
 
 <01>544.474
 <02>Autocatálise.
@@ -4849,7 +4471,7 @@ materiais -05 da Tabela 1k
 
 <01>544.478
 <02>Catalisadores.
-<06>544.478.03 Catalisadores por composição
+                                          544.478.03 Catalisadores por composição
 
 <01>544.478.01
 <02>Composição de fase de um catalisador
@@ -4879,9 +4501,7 @@ catalisador.
 
 <01>544.478.32
 <02>Catalisadores adsortivos ou apoiados.
-
-<01>544.478.32
-<02>-039.662 Aluminas ativadas
+<06>544.478.32-039.662 Aluminas ativadas
 
 <01>544.478.34
 <02>Apoiadores do catalisador.
@@ -4924,7 +4544,7 @@ químicos) em fotobiologia
 
 <01>544.522.1
 <02>Ato fotoquímico primário. Formação dos fotoprodutos primários.
-<06>544.522.1 dividido como 544.431.1
+      544.522.1 dividido como 544.431.1
 
 <01>544.522.12
 <02>Transferência, conversão e relaxação da energia de fotoexcitação.
@@ -5149,7 +4769,7 @@ radiação ionizante.
       Especificar as radiações ionizantes por meio de :539. l 
 <06>544.542.l:539.122 Radiólise gama. Radiólise de raios X 
 <06>544.542.l:539.124 Radiólise de impacto de elétrons
-<06>544.542.1:539-125 Radiólise de bombardeamento por partículas pesadas
+<06>539-125 Radiólise de bombardeamento por partículas pesadas
 <06>544.542.l:539.164 Radiólise por partículas pesadas, formadas no decaimento radioativo
 
 <01>544.542.122
@@ -5194,7 +4814,7 @@ induzidos por radiação (maleabilidade de radiação).
 
 <01>544.55
 <02>Química do plasma.
-<06>544.552/.556 dividido como 544.522/.526 
+      544.552/.556 dividido como 544.522/.526 
 <09>533.9 Física do plasma
 
 <01>544.552
@@ -5361,9 +4981,7 @@ simples, complexos, duplos.
 
 <01>544.6.018
 <02>,42-13 Eletrólitos gasosos 
-
-<01>544.6.018.42
-<02>-14 Eletrólitos líquidos
+<06>544.6.018.42-14 Eletrólitos líquidos
 <06>544.6.018.42-16 Eletrólitos sólidos
 
 <01>544.6.018.43
@@ -5415,15 +5033,9 @@ alcalino, etc.).
 
 <01>544.6.018.47
 <02>Eletrólitos segundo sua composição.
-
-<01>544.6.018.47
-<02>-036.5 Poliméricos. Polieletrólitos
-
-<01>544.6.018.47
-<02>-039.6 Eletrólitos inorgânicos  
-
-<01>544.6.018.47
-<02>-039.7 Eletrólitos orgânicos
+<06>544.6.018.47-036.5 Poliméricos. Polieletrólitos
+<06>544.6.018.47-039.6 Eletrólitos inorgânicos  
+<06>544.6.018.47-039.7 Eletrólitos orgânicos
 
 <01>544.6.018.48
 <02>Eletrólitos segundo as aplicações.
@@ -5451,9 +5063,7 @@ alcalino, etc.).
 
 <01>544.6.076.224.4
 <02>Células segundo o catodo.
-
-<01>544.6.076.224.4
-<02>-14 Células com catodo líquido 
+<06>544.6.076.224.4-14 Células com catodo líquido 
 
 <01>544.6.076.228.2
 <02>Células bipolares.
@@ -5470,24 +5080,12 @@ eletroquímicas.
 
 <01>544.6.076.32
 <02>Eletrodos.
-
-<01>544.6.076.32
-<02>-033.5 Eletrodos de vidro 
-
-<01>544.6.076.32
-<02>-034.791 Eletrodos de mercúrio 
-
-<01>544.6.076.32
-<02>-034.791.5 Eletrodos de amálgama 
-
-<01>544.6.076.32
-<02>-039.61 Eletrodos não-metálicos 
-
-<01>544.6.076.32
-<02>-13 Eletrodos gasosos em geral
-
-<01>544.6.076.32
-<02>-43 Eletrodos de referência. Eletrodos indicadores
+<06>544.6.076.32-033.5 Eletrodos de vidro 
+<06>544.6.076.32-034.791 Eletrodos de mercúrio 
+<06>544.6.076.32-034.791.5 Eletrodos de amálgama 
+<06>544.6.076.32-039.61 Eletrodos não-metálicos 
+<06>544.6.076.32-13 Eletrodos gasosos em geral
+<06>544.6.076.32-43 Eletrodos de referência. Eletrodos indicadores
 
 <01>544.6.076.321
 <02>Eletrodos do primeiro tipo em geral.
@@ -5573,7 +5171,7 @@ transporte. Números de transferência.
 <02>Condutância elétrica do eletrólito.
 <09>Condutividade iônica.
 <09>Especificar os efeitos por meio de . 032 
-<06>544.623.032.52 Dependência da força do campo. Efeito de Wien. Dependência da
+       544.623.032.52 Dependência da força do campo. Efeito de Wien. Dependência da
 freqüência. Dispersão da condutância. Efeito de Debye-Falkenhagcn 
 
 <01>544.623.032.73
@@ -5614,22 +5212,14 @@ eletrodo.
 
 <01>544.634.076.32
 <02>Potenciais do eletrodo segundo a composição e as propriedades do eletrodo
-
-<01>544.634.076.32
-<02>-034 Potenciais dos sistemas de eletrodo de íon-metal
-
-<01>544.634.076.32
-<02>-039.6 Sistemas de eletrodo inorgânico 
-
-<01>544.634.076.32
-<02>-039.7 Sistemas de eletrodo orgânico 
-
-<01>544.634.076.32
-<02>-386 Sistemas de eletrodo dos complexos compostos 
+<06>544.634.076.32-034 Potenciais dos sistemas de eletrodo de íon-metal
+<06>544.634.076.32-039.6 Sistemas de eletrodo inorgânico 
+<06>544.634.076.32-039.7 Sistemas de eletrodo orgânico 
+<06>544.634.076.32-386 Sistemas de eletrodo dos complexos compostos 
 
 <01>544.634.076.34
 <02>Potencial da membrana. Potencial de Donnan 
-<06>544.634.081 Escalas de potencial. Escalas de hidrogênio, absoluto ou Ostwald, correlativo ou de ponto nulo
+                                       544.634.081 Escalas de potencial. Escalas de hidrogênio, absoluto ou Ostwald, correlativo ou de ponto nulo
 <09>544.632.4 Potencial eletroquímico interior. Potencial de Galvani. Diferenças potenciais nas interfaces. Potencial 
                                de Nernst
 
@@ -5706,7 +5296,7 @@ equilíbrio em geral.
 secundária).
       Indicar as reações produtoras de corrente por  meio de :542.9... 
       Especificar por meio de .0... 
-<06>544.643.076.2 Células galvânicas. Acumuladores
+      544.643.076.2 Células galvânicas. Acumuladores
 
 <01>544.65
 <02>Transformações na interface eletrólito-
@@ -5718,7 +5308,7 @@ eletrodo. Processos do eletrodo.
 
 <01>544.651.1
 <02>Estágios elementares.
-<06>544.651.1 dividido como 544.431.1
+      544.651.1 dividido como 544.431.1
 
 <01>544.651.11
 <02>Transporte (entrega, remoção) de espécies reatantes para ou da interface eletrodo-eletrólito.
@@ -5743,10 +5333,10 @@ do eletrodo.
 <01>544.652
 <02>Polarização. Força eletromotiva de polarização.
 <09>Superpotencial. Infrapotencial. 
-<06>544.652.1/.2 dividido como 544.651.1/.2
+      544.652.1/.2 dividido como 544.651.1/.2
 <06>544.652:546.11 Superpotencial de hidrogênio
-<06>544.652.076.324.2 Superpotencial anódico
-<06>544.652.076.324.4 Superpotencial catódico
+                                      544.652.076.324.2 Superpotencial anódico
+                                      544.652.076.324.4 Superpotencial catódico
 
 <01>544.652.11
 <02>Superpotencial de transporte. Superpotencial
@@ -5828,8 +5418,8 @@ eletroquímico.
 <01>544.72
 <02>Fenômenos de superfície em sistemas de
 contato (em interfaces). 
-<06>544.72.02 Estrutura.  Composição 
-<06>544.72.023 Estrutura das camadas e
+      544.72.02 Estrutura.  Composição 
+      544.72.023 Estrutura das camadas e
 películas-limite. Grau de dispersão 
 
 <01>544.72.023.2
@@ -5952,7 +5542,7 @@ películas-limite. Grau de dispersão
 
 <01>544.723.2.023.221
 <02>Adsorção monomolecular (monocamada) 
-<06>544.723.2.023.223 Adsorção polimolecular (policamadas)
+      544.723.2.023.223 Adsorção polimolecular (policamadas)
 
 <01>544.723.21
 <02>Adsorventes. Adsorvedores.
@@ -6044,8 +5634,8 @@ troca de íons.
 <02>Sistemas dispersos e coloidais. Química dos colóides.
 <06>544.77:535 Propriedades ópticas dos colóides
 <06>544.77:537 Propriedades elétricas dos colóides
-<06>544.77.022 Estrutura dos sistemas dispersos 
-<06>544.77.022.52 Estruturas globulares, fibrilares
+       544.77.022 Estrutura dos sistemas dispersos 
+       544.77.022.52 Estruturas globulares, fibrilares
 
 <01>544.77.022.522
 <02>Estrutura globular 
@@ -6332,17 +5922,11 @@ coloidais.
 <09>A maioria dos compostos químicos deve ser considerada como resultado de uma reação real ou hipotética entre dois óxidos, ou de um óxido com um hidreto. Desta forma, pode-se designar um composto químico pelos radicais óxidos ou hidretos de que é derivado.
 <09>O composto químico é indicado por meio do apóstrofo. Um composto binário é indicado pelo número do radical metal (cátion), acrescentando-se a ele o número para o radical ácido (ânion). No segundo número, os dígitos 546 são substituídos pelo apóstrofo. Assim: 546.561`131 Cloreto de cobre CuCl obtido de 546. 561 Cobre monovalente e 546.131 (cloretos).  Os compostos químicos que contêm diversos radicais metálicos (cátions) ou radicais ácidos (ânions) são indicados pela menção dos números mais elevados dos metais, acrescentando-se os dos outros metais e os números dos ácidos em ordem decrescente.
        Assim: 546.62 `32’226 Sulfato de potássio e alumínio, de 546.623 Alumínio trivalente e 546.32 Potássio e 
-<06>546.226 Sulfatos
+       546.226 Sulfatos
 <09>Os compostos químicos semelhantes com o  mesmo número principal da CDU podem ser indicados pelos auxiliares especiais de 54-3 p. ex.
-
-<01>546.33`185
-<02>-384.1 Ortofosfato de diidrogênio sólido NaH2PO
-
-<01>546.33`185
-<02>-384.2 Ortofosfato de hidrogênio de dissódio Na2HPO
-
-<01>546.33`185
-<02>-384.3 Ortofosfato de sódio Na3PO4
+<06>546.33`185-384.1 Ortofosfato de diidrogênio sólido NaH2PO
+<06>546.33`185-384.2 Ortofosfato de hidrogênio de dissódio Na2HPO
+<06>546.33`185-384.3 Ortofosfato de sódio Na3PO4
 <09>Os óxidos simples são sempre indicados por 54-31 p.ex.:
 
 <01>546
@@ -6359,29 +5943,17 @@ coloidais.
 <01>546.791.027
 <02>*238 Urânio 238 a 238AU
 <09>Subdivisões auxiliares especiais
-
-<01>546
-<02>-1	Estado da substância.
+<06>546-1	Estado da substância.
       Especificar por meio de  -1 como em 54-1
 <06>546-1-123 Elementos (estado atômico)
-
-<01>546
-<02>-3	Compostos. Tipos de compostos.
+<06>546-3	Compostos. Tipos de compostos.
       Especificar por meio de -3 como em 54-3
-
-<01>546
-<02>-3-32 Ácidos
-
-<01>546
-<02>-3-328 Poliácidos. Ácidos isopólicos. Heteropólicos
-
-<01>546
-<02>-4		Substâncias químicas. Reagentes.
+<06>546-3-32 Ácidos
+<06>546-3-328 Poliácidos. Ácidos isopólicos. Heteropólicos
+<06>546-4		Substâncias químicas. Reagentes.
 <09>Especificar por -4 como em 54-4
 <09>Para os reagentes para análise,  use 543-4 
-
-<01>546
-<02>-4-482 Substâncias químicas muito puras
+<06>546-4-482 Substâncias químicas muito puras
 <09>Divisões principais
 
 <01>546.1
@@ -6418,9 +5990,7 @@ coloidais.
 <01>546.133.1
 <02>Oxido de cloro monovalente e seus derivados,
 pocloritos. 
-
-<01>546.133.l
-<02>-32 Ácido hipocloroso HOC1
+<06>546.133.l-32 Ácido hipocloroso HOC1
 
 <01>546.133.2
 <02>Óxido hipotético de cloro bivalente.
@@ -6435,18 +6005,14 @@ do ácido cloroso HC1O2. Cloritos.
 
 <01>546.135
 <02>Derivados do cloro pentavalente. Cloratos.
-
-<01>546.135
-<02>-32 Ácido clórico HCIO3
+<06>546.135-32 Ácido clórico HCIO3
 
 <01>546.136
 <02>Derivados hipotéticos do cloro hexavalente.
 
 <01>546.137
 <02>Derivados do cloro heptavalente. Percloratos.
-
-<01>546.137
-<02>-32 Ácido perclórico HCIO4
+<06>546.137-32 Ácido perclórico HCIO4
 
 <01>546.14
 <02>Bromo Br.
@@ -6506,12 +6072,8 @@ do ácido cloroso HC1O2. Cloritos.
 
 <01>546.173
 <02>Derivados do nitrogênio trivalente. Derivados do trióxido de nitrogênio. Nitritos.
-
-<01>546.173
-<02>-31 Trióxido de nitrogênio N2 O3
-
-<01>546.173
-<02>-325 Ácido nitroso HNO2
+<06>546.173-31 Trióxido de nitrogênio N2 O3
+<06>546.173-325 Ácido nitroso HNO2
 
 <01>546.173
 <02>'131 Tricloreto de nitrogênio NC13
@@ -6552,7 +6114,7 @@ de nitrogênio NO2. Tetróxido de dinitrogênio
 
 <01>546.212
 <02>Água H2O.
-<06>546.212*2 Água pesada D2O
+ 546.212*2 Água pesada D2O
 
 <01>546.214
 <02>Ozônio O3.
@@ -6591,37 +6153,23 @@ monovalente. Subóxido de enxofre S2O.
 <02>Derivados do óxido hipotético de enxofre
 divalente. Monóxido de enxofre  SO.
 <09>Tiossulfatos.
-
-<01>546.223.2
-<02>-325 Ácido hipossulfuroso H2SO2
+<06>546.223.2-325 Ácido hipossulfuroso H2SO2
 
 <01>546.223.3
 <02>Derivados do óxido de enxofre trivalente.
-
-<01>546.223.3
-<02>-31 Sesquióxido de enxofre  S2O3
+<06>546.223.3-31 Sesquióxido de enxofre  S2O3
 
 <01>546.224
 <02>Derivados do enxofre tetravalente. Sulfitos.
-
-<01>546.224
-<02>-31 Dióxido de enxofre SO2,
-
-<01>546.224
-<02>-325 Ácido sulfuroso H2SO3
+<06>546.224-31 Dióxido de enxofre SO2,
+<06>546.224-325 Ácido sulfuroso H2SO3
 
 <01>546.226
 <02>Trióxido de enxofre SO3, e seus derivados.
 <09>Sul fatos.
-
-<01>546.226
-<02>-31 Trióxido de enxofre SO3, 
-
-<01>546.226
-<02>-324 Ácido pirossulfúrico H2S2O7
-
-<01>546.226
-<02>-325 Ácido sulfúrico H2SO4
+<06>546.226-31 Trióxido de enxofre SO3, 
+<06>546.226-324 Ácido pirossulfúrico H2S2O7
+<06>546.226-325 Ácido sulfúrico H2SO4
 
 <01>546.227
 <02>Ácido persulfúrico H2S2O8. Ácido
@@ -6678,9 +6226,7 @@ seus derivados.
 
 <01>546.264
 <02>Carbono tetravalente. Carbonatos.
-
-<01>546.264
-<02>-31 Dióxido de carbono CO2
+<06>546.264-31 Dióxido de carbono CO2
 
 <01>546.265
 <02>Compostos de carbono com enxofre, selênio,
@@ -6717,9 +6263,7 @@ contêm oxigênio e halogêneos.
 
 <01>546.271
 <02>Hidretos de boro e seus derivados. Boranos. Boretos.
-
-<01>546.271
-<02>-386 Hidreto de boro. Boranatos
+<06>546.271-386 Hidreto de boro. Boranatos
 
 <01>546.272
 <02>Boróxidos baixos. Boróxidos insaturados. Inclusive Boróxido B2O2. Monóxido
@@ -6727,18 +6271,10 @@ de boro BO.
 
 <01>546.273
 <02>Boro trivalente e seus derivados. Boratos.
-
-<01>546.273
-<02>-31 Trióxido de boro B2O3 
-
-<01>546.273
-<02>-324 Ácido tetrabórico H2407
-
-<01>546.273
-<02>-325 Ácido bórico H3O3. Borácico 
-
-<01>546.273`131
-<02>Tricloreto de boro BC13
+<06>546.273-31 Trióxido de boro B2O3 
+<06>546.273-324 Ácido tetrabórico H2407
+<06>546.273-325 Ácido bórico H3O3. Borácico 
+<06>546.273`131 Tricloreto de boro BC13
 
 <01>546.28
 <02>Silício Si.
@@ -6746,30 +6282,24 @@ de boro BO.
 <01>546.281
 <02>Hidreto de silício e seus derivados. Silanos.
 <09>Silicietos.
-
-<01>546.281`261
-<02>Carboneto de silício SiC
+<06>546.281`261 Carboneto de silício SiC
 
 <01>546.282
 <02>Óxidos baixos de silício. Óxidos insaturados de silício.
 
 <01>546.284
 <02>Anidrido silícico e seus derivados, Silicatos.
-
-<01>546.284
-<02>-31 Dióxido de silício SiO2 
-
-<01>546.284
-#ERRO2(Texto orfao sem tag ?)  <02>-325 Ácido silícico H2SiO3 
+<06>546.284-31 Dióxido de silício SiO2 
+<06>546.284-325 Ácido silícico H2SiO3 
 <06>546.284:161 Tetrafluoreto de silício SiF4
-#ERRO2(Texto orfao sem tag ?)  <06>546.284`161-32 Ácido fluorsílicico H2SiF6
+<06>546.284`161-32 Ácido fluorsílicico H2SiF6
 
 <01>546.286
 <02>Derivados do silício hexavalente.
 
 <01>546.287
 <02>Compostos do silício orgânico. Ácido silico-oxálico HOOSi-SiOOH.
-->547`1128 Compostos orgânicos de silicone
+<09>547`1128 Compostos orgânicos de silicone
 
 <01>546.289
 <02>Germânio Ge.
@@ -6809,9 +6339,7 @@ de boro BO.
 <02>Metais de transição.
       Classificar aqui os compostos de metais de transição específicos. Para os próprios metais de transição,  utilizar
       as  seções aplicáveis dos metais específicos. Para os invólucros eletrônicos dos metais de transição,  ver 544 
-
-<01>546.302`221.l
-<02>Sulfeto dos metais de transição
+<06>546.302`221.l Sulfeto dos metais de transição
 
 <01>546.303
 <02>Metalóides. Semi metais.
@@ -6832,7 +6360,7 @@ de boro BO.
 <06>546.32-39 Peróxido de potássio K2O2
 <06>546.32`131 Cloreto de potássio KCI
 <06>546.32`135 Clorato de potássio KCIO3
-<06>546.32`l73 Nitrito de potássio KNO2
+<06>546.32`173 Nitrito de potássio KNO2
 <06>546.32`175 Nitrato de potássio KNO3
 <06>546.32`185 Fosfatos de potássio
 <06>546-32`226 Sulfato de potássio K2SO4
@@ -6843,7 +6371,7 @@ de boro BO.
 <06>546.32`273 Borato de potássio K24O7
 <06>546.32`273-39 Perborato de potássio KO2.H2O2.3H20
 <06>546.32`2S4 Silicatos de potássio K2O.xSiO2
-#ERRO2(Texto orfao sem tag ?)  <06>546.32`284'16I Fluorsilicato de potássio K2SiF6
+<06>546.32`284'161 Fluorsilicato de potássio K2SiF6
 
 <01>546.33
 <02>Sódio Na.
@@ -7078,9 +6606,7 @@ do sétimo grupo. Grupo do manganês.
 
 <01>546.717
 <02>Manganês heptavalente. Permanganatos.
-
-<01>546.717`32
-<02>Permanganato de potássio KMnO4
+<06>546.717`32 Permanganato de potássio KMnO4
 
 <01>546.718
 <02>Tecnécio Tc.
@@ -7215,12 +6741,8 @@ elemento
 
 <01>546.795.4
 <02>Tório tetravalente
-
-<01>546.795.4
-<02>-36 Hidróxido de tório
-
-<01>546.795.4`131
-<02>Cloreto de tório ThCl4
+<06>546.795.4-36 Hidróxido de tório
+<06>546.795.4`131 Cloreto de tório ThCl4
 
 <01>546.796.4
 <02>Protactínio pentavalente
@@ -7335,9 +6857,7 @@ atômico 107).
 
 <01>546.819
 <02>Chumbo tetravalente.
-
-<01>546.819`817
-<02>Ortoplumbato de chumbo Pb304
+<06>546.819`817 Ortoplumbato de chumbo Pb304
 
 <01>546.82/.83
 <02>Grupo do titânio em geral.
@@ -7493,16 +7013,10 @@ da platina).
 (b)	por meio dos auxiliares especiais -1-4 relacionados em 54
 (c)	por meio dos auxiliares especiais .01/.08 listados sob 54
 (d)	por meio da fórmula condensada acrescentada diretamente a 547, p.ex. 547CH4O Metanol (álcool metílico) Cf. 547.261
-
-<01>547`11/
-<02>’19 dividido como 546.1/.9
-
-<01>547`2/
-<02>’8 dividido como 547.2/.8
+<06>547`11/’19 dividido como 546.1/.9
+<06>547`2/’8 dividido como 547.2/.8
 <09>Subdivisões auxiliares especiais
-
-<01>547
-<02>-3	Tipos de compostos orgânicos.
+<06>547-3	Tipos de compostos orgânicos.
 <09>Os auxiliares -3 podem ser utilizados com as subdivisões 547.1/.9, mas não com o próprio 547
 <09>Para os compostos orgânicos como um todo,  utilizar 54 7.1-3... (ver  nota  em 547.1-3) 
 <09>Os auxiliares -3 de 54 são aplicáveis acrescentando-se os números indicados abaixo
@@ -7510,85 +7024,39 @@ da platina).
 <06>547-3-38 Sais e compostos análogos 
 <06>547-3-3 86 Compostos orgânicos complexos 
 <06>547-3-39 Compostos de peróxido
-
-<01>547
-<02>-30	                Compostos livres de oxigênio.
-
-<01>547
-<02>-302	Derivados dos halogêneos.
-
-<01>547
-<02>-304	Compostos nitrogenosos (C-N).
+<06>547-30	                Compostos livres de oxigênio.
+<06>547-302	Derivados dos halogêneos.
+<06>547-304	Compostos nitrogenosos (C-N).
 <06>547.1-32-304.2 Aminoácidos
-
-<01>547
-<02>-304.1 Derivados do nitrogênio, derivados nitro.
+<06>547-304.1 Derivados do nitrogênio, derivados nitro.
 <09>Derivados nitrosos.
-
-<01>547
-<02>-304.2	Aminas. Iminas. Bases de amônio. Sais de
+<06>547-304.2	Aminas. Iminas. Bases de amônio. Sais de
 amônio.
-
-<01>547
-<02>-304.3	Hidrazinas. Derivados hidrazo. Sais de
+<06>547-304.3	Hidrazinas. Derivados hidrazo. Sais de
 hidrazônio.
-
-<01>547
-<02>-304.4	Derivados azo. Derivados diazo. Sais de
+<06>547-304.4	Derivados azo. Derivados diazo. Sais de
 diazônio.
-
-<01>547
-<02>-304.5	Hidroxilaminas.
-
-<01>547
-<02>-304.6	Oximas. Hidrazonas. Semicarbazonas. Azinas
+<06>547-304.5	Hidroxilaminas.
+<06>547-304.6	Oximas. Hidrazonas. Semicarbazonas. Azinas
 (aldazinas, cetazinas).
-
-<01>547
-<02>-304.7	Nitrilos. Isonitrilos.
-
-<01>547
-<02>-304.9	Outros compostos. Inclusive Triazinas.
+<06>547-304.7	Nitrilos. Isonitrilos.
+<06>547-304.9	Outros compostos. Inclusive Triazinas.
 <09>Triazenas. Tetrazenas.
-
-<01>547
-<02>-305	Compostos que contêm o enxofre ligado
+<06>547-305	Compostos que contêm o enxofre ligado
 diretamente ao carbono.
-
-<01>547
-<02>-31/-39	Compostos que contêm oxigênio (C-O).
-
-<01>547
-<02>-311	Óxidos. Compostos epóxi.
-
-<01>547
-<02>-312	Anidridos.
-
-<01>547
-<02>-313	Lactídeos.
-
-<01>547
-<02>-314	Lactonas.
-
-<01>547
-<02>-315	Ésteres de ácidos inorgânicos em geral.
-->547-326 Ésteres em geral
-
-<01>547
-<02>-316	Aldeídos. Cetonas. Acetais. Cetais.
-
-<01>547
-<02>-317	Dicetopiperazidas.
-
-<01>547
-<02>-318	Lactames.
-
-<01>547
-<02>-326	Ésteres em geral.
+<06>547-31/-39	Compostos que contêm oxigênio (C-O).
+<06>547-311	Óxidos. Compostos epóxi.
+<06>547-312	Anidridos.
+<06>547-313	Lactídeos.
+<06>547-314	Lactonas.
+<06>547-315	Ésteres de ácidos inorgânicos em geral.
+<09>547-326 Ésteres em geral
+<06>547-316	Aldeídos. Cetonas. Acetais. Cetais.
+<06>547-317	Dicetopiperazidas.
+<06>547-318	Lactames.
+<06>547-326	Ésteres em geral.
 <09>547.315 Ésteres de ácidos inorgânicos em geral
-
-<01>547
-<02>-327	Amidas. Imidas. Amidinas. Ácidos
+<06>547-327	Amidas. Imidas. Amidinas. Ácidos
 hidroxâmicos. Outras substituições por nitrogênio no grupo carboxilo.
 
 <01>547.022
@@ -7609,9 +7077,7 @@ de vista da ligação dos átomos de carbono.
 
 <01>547.022.14
 <02>Átomos de carbono quaternário.
-
-<01>547`0
-<02>Detalhes da estrutura de compostos orgânicos
+<06>547`0		Detalhes da estrutura de compostos orgânicos
                                       Estes auxiliares especiais são desenvolvidos em diversos luares do 547, p. ex.em 547.52
 <09>Divisões principais
 
@@ -7619,9 +7085,7 @@ de vista da ligação dos átomos de carbono.
 <02>Classificação dos compostos orgânicos.
 <09>Compostos elemento-orgânicos.
 <09>Subdivisões auxiliares especiais
-
-<01>547.1
-<02>-3	Tipos de compostos orgânicos.
+<06>547.1-3	Tipos de compostos orgânicos.
       Especificar o tipo utilizando os auxiliares -3... em 54 e adições em 547. Utilizar o número mais alto no caso em que mais de 
       uma subdivisão seja aplicável; o segundo grupo pode ser indicado acrescentando-se um outro auxiliar com hífen. Os 
       derivados são indicados do mesmo modo que os próprios grupos funcionais 
@@ -7632,35 +7096,17 @@ de vista da ligação dos átomos de carbono.
 <06>547.1-32 Ácidos
 <06>547.1-326 Ésteres
 <06>547.1-315 Ésteres de ácidos inorgânicos
-
-<01>547.l`1
-<02>Compostos elemento-orgânicos.
+<06>547.l`1	Compostos elemento-orgânicos.
 <09>Compostos orgânicos de carbono com elementos diferentes dos halógenos, do nitrogênio, do oxigênio ou do enxofre (que são classificados sob 547.2/.9)
 <09>A classificação de compostos de elemento orgânico baseia-se na notação do elemento em 546. A parte orgânica é especificada pelo acréscimo de ‘2/`8
-
-<01>547.1`1
-<02>dividido como 546
-
-<01>547.l`11
-<02>Compostos orgânicos de ametais em geral.
-
-<01>547.l`123
-<02>Compostos orgânicos de selênio.
-
-<01>547.1`124
-<02>Compostos orgânicos de telúrio.
-
-<01>547.l`127
-<02>Compostos orgânicos de boro.
-
-<01>547.l`128
-<02>Compostos orgânicos de silício.
-
-<01>547.l`13
-<02>Compostos organometálicos.
-
-<01>547.l`147
-<02>Compostos orgânicos de zinco.
+<06>547.1`1 dividido como 546
+<06>547.l`11	Compostos orgânicos de ametais em geral.
+<06>547.l`123	Compostos orgânicos de selênio.
+<06>547.1`124	Compostos orgânicos de telúrio.
+<06>547.l`127	Compostos orgânicos de boro.
+<06>547.l`128	Compostos orgânicos de silício.
+<06>547.l`13	Compostos organometálicos.
+<06>547.l`147	Compostos orgânicos de zinco.
 <09>Divisões principais
 
 <01>547.14
@@ -7682,7 +7128,7 @@ ciclosiloxanas. Fosfazenos.
 <01>547.21
 <02>Hidrocarbonetos saturados. Alcanos (parafinas) CnH2n+2.
 <09>Especificar por meio dos auxiliares especiais em 54
-<06>547.21.024 Grupos alquila
+      547.21.024 Grupos alquila
 
 <01>547.211
 <02>Metano CH4
@@ -7819,11 +7265,11 @@ nitrogênio diretamente ligado ao carbono.
 
 <01>547.233.3
 <02>Aminas terciárias.
-<06>547.233.3 dividido como 547.21
+      547.233.3 dividido como 547.21
 
 <01>547.233.4
 <02>Compostos de amônio quaternário.
-<06>547.233.4 dividido como 547.21
+      547.233.4 dividido como 547.21
 
 <01>547.234
 <02>Hidrazinas.
@@ -7866,12 +7312,8 @@ contêm quatro ou mais átomos de nitrogênio.
 
 <01>547.26
 <02>Álcoois monoídricos saturados [CnH2n+1OH].
-
-<01>547.26`11
-<02>Derivados ácidos em geral. Ésteres 
-
-<01>547.26`127
-<02>Ésteres de ácidos que contém boro (’l27, de 546.27)
+<06>547.26`11 Derivados ácidos em geral. Ésteres 
+<06>547.26`127 Ésteres de ácidos que contém boro (’l27, de 546.27)
 
 <01>547.260.2
 <02>Grupos -OH em geral.
@@ -7910,7 +7352,7 @@ contêm quatro ou mais átomos de nitrogênio.
 <09>C16H33OH. Inclusive Álcool cetílico
 (palmitílico).
 
-<01>547.268.3l
+<01>547.268.31
 <02>Hexacosanóis C26H53OH. Inclusive Álcool
 cerílico. Cerotina.
 
@@ -7921,7 +7363,7 @@ diretamente ligado ao carbono.
 
 <01>547.269.1
 <02>Mercaptanos CnH2n+1SH.
-<06>546.269.1 dividido como 547.26
+      546.269.1 dividido como 547.26
 
 <01>547.269.3
 <02>Ácidos sulfônicos. Ácidos sulfônicos.
@@ -8047,21 +7489,11 @@ cetonas com amônia, hidrazina, etc.
 <02>Ácidos carboxílicos monobásicos saturados [CnH2nO2.]
 <09>Indicar os ésteres por meio de ` (apóstrofo) e subdivisões de 547.26; indicar os anidridos e os peróxidos por meio de -312 e -39
 <09>Subdivisões auxiliares especiais
-
-<01>547.29`05
-<02>Derivados dos ácidos carboxílicos.
-
-<01>547.29`051
-<02>Isonitrilas.
-
-<01>547.29`052
-<02>Nitrilas.
-
-<01>547.29`053
-<02>Halogenetos de acila.
-
-<01>547.29`054
-<02>Ácidos carboxílicos que são substituídos no
+<06>547.29`05	Derivados dos ácidos carboxílicos.
+<06>547.29`051	Isonitrilas.
+<06>547.29`052	Nitrilas.
+<06>547.29`053	Halogenetos de acila.
+<06>547.29`054	Ácidos carboxílicos que são substituídos no
 	grupo carboxilo por amônia, hidrazina, etc.
 <09>Divisões principais
 
@@ -8191,7 +7623,7 @@ seus derivados monossubstituídos.
 <01>547.315.1
 <02>Hidrocarbonetos com ligações duplas
 acumuladas. Aleno.
-<06>547.315.1 dividido 547.21
+     547.315.1 dividido 547.21
 
 <01>547.315.2
 <02>Hidrocarbonetos com ligações duplas
@@ -8220,7 +7652,7 @@ conjugadas. Inclusive Divinil. Piperileno.
 <01>547.32
 <02>Derivados monoalógenos de
 hidrocarbonetos insaturados.
-<06>547.32 dividido como 547.31
+      547.32 dividido como 547.31
 
 <01>547.321
 <02>Derivados fluoro.
@@ -8240,11 +7672,11 @@ hidrocarbonetos insaturados.
 
 <01>547.331
 <02>Derivados nitrosos.
-<06>547.331 dividido como 547.31
+      547.331 dividido como 547.31
 
 <01>547.332
 <02>Derivados nitro.
-<06>547.332 dividido como 547.31
+      547.332 dividido como 547.31
 
 <01>547.333
 <02>Aminas.
@@ -8343,7 +7775,7 @@ insaturados.
 <01>547.381
 <02>Aldeídos da série etileno. Acroleína.
 <09>Crotonaldeído. Critronelal.
-<06>547.381 dividido como 547.21
+      547.381 dividido como 547.21
 
 <01>547.382
 <02>Aldeídos menos saturados. Citral.
@@ -8375,21 +7807,11 @@ insaturados com amônia, hidrazina, etc.
 <02>Ácidos carboxílicos monobásicos
 insaturados.
 <09>Subdivisões auxiliares especiais
-
-<01>547.39`05
-<02>Derivados de ácidos.
-
-<01>547.39`051/
-<02>’054 dividido como 547.46‘051/’054
-
-<01>547.39`052
-<02>Nitrilos.
-
-<01>547.39`053
-<02>Halogenetos de acila.
-
-<01>547.39`054.4
-<02>Amidas.
+<06>547.39`05	Derivados de ácidos.
+<06>547.39`051/’054 dividido como 547.46‘051/’054
+<06>547.39`052	Nitrilos.
+<06>547.39`053	Halogenetos de acila.
+<06>547.39`054.4        Amidas.
 <09>Divisões principais
 
 <01>547.391
@@ -8443,7 +7865,7 @@ elaidínico Cl8H24O2.
 
 <01>547.392.6
 <02>Ácidos com mais de vinte átomos de carbono.
-<06>547.392.6 dividido como 547.296
+      547.392.6 dividido como 547.296
 
 <01>547.392.611
 <02>Ácidos C21.
@@ -8467,7 +7889,7 @@ brassidínico, ácidos cetoleínicos.
 
 <01>547.394/395
 <02>Ácidos insaturados com duas ligações duplas. 
-<06>547.394/.395 dividido como 547.391/.392
+      547.394/.395 dividido como 547.391/.392
 
 <01>547.394
 <02>Ácidos insaturados com duas ligações duplas,
@@ -8512,7 +7934,7 @@ saturados.
 <02>Derivados polialogenados do metano.
 
 <01>547.412.11
-#ERRO2(Texto orfao sem tag ?)  <02>Derivados dialogenados CH2Hlg2
+<02>Derivados dialogenados CH2Hlg2
 
 <01>547.412.12
 <02>Derivados trialogenados CHHlg3
@@ -8554,7 +7976,7 @@ dicloreto de isopropilideno.
 
 <01>547.412.4
 <02>Compostos do tipo de l, 2-dicloroetano.
-#ERRO2(Texto orfao sem tag ?)  <09>Cloreto de etileno C2H4Cl2
+<09>Cloreto de etileno C2H4Cl2
 
 <01>547.412.5
 <02>Compostos do tipo de 1,3-dicloropropano e
@@ -8609,7 +8031,7 @@ nitrosonitrados.
 
 <01>547.415.1
 <02>Diaminas.
-<06>547.415.1 dividido como 547.21
+      547.415.1 dividido como 547.21
 
 <01>547.415.3
 <02>Iminas.
@@ -8643,13 +8065,11 @@ derivados em geral.
 
 <01>547.422.2
 <02>Etanediol e seus homólogos.
-<06>547.422.2 dividido como 547.21
+      547.422.2 dividido como 547.21
 
 <01>547.422.22
 <02>Glicol de etileno (etanediol) C2H6O2.
-
-<01>547.422.22
-<02>-31 Óxido de etileno
+<06>547.422.22-31 Óxido de etileno
 
 <01>547.422.23
 <02>Propilglicol C3H8O2.
@@ -8667,7 +8087,7 @@ dois átomos separados de carbono.
 <01>547.426
 <02>Álcoois triídricos e seus derivados.
 
-<01>547.426.l
+<01>547.426.1
 <02>Glicerol (glicerina) C3H8O3.
 
 <01>547.426.2
@@ -8675,9 +8095,7 @@ dois átomos separados de carbono.
 
 <01>547.426.24
 <02>Ésteres de ácidos inorgânicos.
-
-<01>547.426.24`171
-<02>Nitroglicerina C3H5(ONO2)3
+<06>547.426.24`171 Nitroglicerina C3H5(ONO2)3
 
 <01>547.427
 <02>Álcoois poliídricos superiores. Suas relações
@@ -8685,7 +8103,7 @@ com os açúcares. Compostos sulfurosos superiores.
 
 <01>547.427.1
 <02>Álcoois tetraídricos. Eritritol C4H10O4.
-<06>547.427.1 dividido como 547. 21
+      547.427.1 dividido como 547. 21
 
 <01>547.427.2
 <02>Álcoois pentaídricos. Adonitol C3,H12:O5.
@@ -8936,51 +8354,27 @@ elemento.
 <01>547.46
 <02>Ácidos policarboxílicos.
 <09>Subdivisões auxiliares especiais
-
-<01>547.46`05
-<02>Ácidos policarboxílicos nos quais um ou mais grupos carboxilo são substituídos por grupos
+<06>547.46`05	Ácidos policarboxílicos nos quais um ou mais grupos carboxilo são substituídos por grupos
 nitrilo ou por grupos halogenetos de acila. Ou que são substituídos em um ou mais grupos
 carboxilo por amônia, hidrazina, etc.
-
-<01>547.46`051
-<02>Isonitrilos de ácidos policarboxílicos.
-
-<01>547.46`052
-<02>Nitrilos de ácidos policarboxílicos em geral.
-
-<01>547.46`053
-<02>Halogenetos de acila dos ácidos
+<06>547.46`051	Isonitrilos de ácidos policarboxílicos.
+<06>547.46`052	Nitrilos de ácidos policarboxílicos em geral.
+<06>547.46`053	Halogenetos de acila dos ácidos
 policarboxílicos em geral.
-
-<01>547.46`054
-<02>Ácidos policarboxílicos que são substituídos
+<06>547.46`054	Ácidos policarboxílicos que são substituídos
 em um ou mais grupos carboxilo pela amônia,
 hidrazina, etc.. 
-
-<01>547.46`054.4
-<02>Amidos. 
-
-<01>547.46`054.5
-<02>Imidas. Ácidos imídicos. Imidoéteres.
+<06>547.46`054.4           Amidos. 
+<06>547.46`054.5            Imidas. Ácidos imídicos. Imidoéteres.
 <09>Imidoalogenetos. 
-
-<01>547.46`054.6
-<02>Amidinas. 
-
-<01>547.46`054.7
-<02>Derivados da hidroxilamina. Inclusive Ácidos
+<06>547.46`054.6           Amidinas. 
+<06>547.46`054.7            Derivados da hidroxilamina. Inclusive Ácidos
 hidroxâmicos. Ácidos hidroxímicos. Amidoximas 
-
-<01>547.46`054.8
-<02>Derivados da hidrazina. Inclusive Hidrazidaminas. 
-
-<01>547.46`054.9
-<02>Derivados dos ácidos hidrazóicos e outros
+<06>547.46`054.8           Derivados da hidrazina. Inclusive Hidrazidaminas. 
+<06>547.46`054.9            Derivados dos ácidos hidrazóicos e outros
 derivados que são substituídos pelo nitrogênio
 no grupo carboxilo.
-
-<01>547.46`055
-<02>Derivados dos ácidos policarboxílicos que
+<06>547.46`055	Derivados dos ácidos policarboxílicos que
 contêm dois ou mais dos vários grupos
 presentes nas subdivisões 547.46`052/’054.
 <09>Divisões principais
@@ -9191,7 +8585,7 @@ policarboxílicos. Ácido cítrico.
 <01>547.478
 <02>Ácidos hidrocarboxílicos que contém
 halogêneos, nitrogênio ou outros ametais diretamente ligados ao carbono. 
-<06>547.47S.4/.7 dividido como 547.464/.467
+      547.47S.4/.7 dividido como 547.464/.467
 
 <01>547.478.9
 <02>Ácidos carboxílicos que contêm enxofre, mas
@@ -9240,7 +8634,7 @@ não pertencentes ao grupo carboxilo.
 <02>Derivados de ácidos aldeídicos e cetoácidos que
 contêm halogêneos, nitrogênio ou enxofre
 diretamente ligados ao carbono.
-<06>547.488 dividido como 547.478
+      547.488 dividido como 547.478
 
 <01>547.49
 <02>Derivados de cianogênio, do ácido carbônico.
@@ -9348,37 +8742,17 @@ contém mais de sete átomos de carbono.
 <02>Compostos aromáticos em geral. Núcleo do
 benzeno em geral.
 <09>Subdivisões auxiliares especiais
-
-<01>547.52`02/
-<02>’04       Posições relativas dos substitutivos.
+<06>547.52`02/’04       Posições relativas dos substitutivos.
 <09>Aplicáveis em 547.52/.59
-
-<01>547.52`021
-<02>Orto.1,2-dialquilarenos.
-
-<01>547.52`022
-<02>Meta.1,3-dialquilarenos.
-
-<01>547.52`023
-<02>Para.1,4-dialquilarenos.
-
-<01>547.52`031
-<02>Vicinal.1,2,3-trialquilarenos.
-
-<01>547.52`032
-<02>Assimétrica.1,2,4-trialquilarenos.
-
-<01>547.52`033
-<02>Simétrica.1,3,5-trialquilarenos.
-
-<01>547.52`041
-<02>1,2,3,4-tetralquilarenos.
-
-<01>547.52`042
-<02>1,2,3,5-tetralquilarenos.
-
-<01>547.52`043
-<02>1,2,4,5-tetralquilarenos.
+<06>547.52`021	Orto.1,2-dialquilarenos.
+<06>547.52`022	Meta.1,3-dialquilarenos.
+<06>547.52`023	Para.1,4-dialquilarenos.
+<06>547.52`031	Vicinal.1,2,3-trialquilarenos.
+<06>547.52`032	Assimétrica.1,2,4-trialquilarenos.
+<06>547.52`033	Simétrica.1,3,5-trialquilarenos.
+<06>547.52`041	1,2,3,4-tetralquilarenos.
+<06>547.52`042	1,2,3,5-tetralquilarenos.
+<06>547.52`043	1,2,4,5-tetralquilarenos.
 <09>Divisões principais
 
 <01>547.521
@@ -9509,7 +8883,7 @@ arilsulfônico.
 <01>547.541.1
 <02>Ácidos monossulfônicos. Ácido
 benzenessulfônico. Ácido benzilsulfônico.
-<06>547.541.2	      Ácidos dissulfônicos.
+       547.541.2	      Ácidos dissulfônicos.
 
 <01>547.541.3
 <02>Ácidos arilsulfônicos com mais de dois grupos
@@ -10067,11 +9441,9 @@ pseudofenóis.
 <01>547.595
 <02>Ácidos carboxílicos hidroaromáticos.
 <09>Subdivisões auxiliares especiais
-
-<01>547.595`05
-<02>Derivados dos ácidos carboxílicos
+<06>547.595`05	Derivados dos ácidos carboxílicos
 hidroaromáticos segundo o grupo carboxila. 
-<06>547.595'05 dividido como 547.46'05
+      547.595'05 dividido como 547.46'05
 <09>Divisões principais
 
 <01>547.595.2
@@ -10676,9 +10048,7 @@ anel de pirrol.
 
 <01>547.753
 <02>Homólogos do indol. Inclusive 2-metilindol,
-
-<01>3
-<02>-metilindol (escatol), alquilindolinas.
+<06>3-metilindol (escatol), alquilindolinas.
 alquilidoleninas.
 
 <01>547.754
@@ -11352,9 +10722,7 @@ origem animal.
 <01>548
 <02>Cristalografia.
 <09>Indicar o estado da substância pelos auxiliares -1 de 54
-
-<01>548
-<02>-144 Estado mesomórfico
+<06>548-144 Estado mesomórfico
 <09>Subdivisões auxiliares especiais
 
 <01>548.0
@@ -11662,7 +11030,7 @@ minerais.
 
 <01>549.08
 <02>Pesquisa, determinação e medição dos minerais e suas propriedades. Instrumentação
-<06>549.086 Determinação e investigação microscópicas  
+      549.086 Determinação e investigação microscópicas  
 <09>552.08 Pesquisa, determinação e medição das rochas, sua natureza e propriedades 
 <09>553.08 Exame dos minérios e minerais
 <09>553 Geologia econômica. Depósitos minerais
@@ -12615,7 +11983,7 @@ que contêm oxigênio. Inclusive Asfalto.
 <01>549.902
 <02>Classificação dos minerais pelas características
 cristalográficas.
-<06>549.902 dividido como 548.1.02
+      549.902 dividido como 548.1.02
 
 <01>549.903
 <02>Classificação segundo as propriedades físicas.

@@ -1353,7 +1353,7 @@ inferior de argamassa grossa.
 <01>625.731.86
 <02>Aproveitamento de estradas já existentes como
 fundação para uma nova superfície.
-<06>625. 731.86 dividido como 625.8
+      625. 731.86 dividido como 625.8
 
 <01>625.731.87
 <02>Emprego de materiais fibrosos, papei
@@ -1460,7 +1460,7 @@ fechados. Canais. Galerias. Bueiros.
 
 <01>625.745.4
 <02>Escoadouros. Poços de inspeção. Alçapões. Poços. Respiradouros.
-<06>625.745.4 dividido como  628.2.
+      625.745.4 dividido como  628.2.
 
 <01>625.745.5
 <02>Limites e barreiras de segurança. Sinalização de
@@ -1977,38 +1977,20 @@ vulcanizada.
 <09>556 Hidrosfera. Água em geral. Hidrologia
 <09>711.76 Canais. Hidrovias
 <09>Subdivisões auxiliares especiais
-
-<01>626
-<02>-3	Partes seccionais transversais de
+<06>626-3	Partes seccionais transversais de
 construções hidráulicas.
-
-<01>626
-<02>-31	Vias de acesso e partes a montante.
+<06>626-31	Vias de acesso e partes a montante.
 <06>626-31dividido como 626-33
-
-<01>626
-<02>-33	Vias de acesso e partes a jusante.
-
-<01>626
-<02>-331	Muros laterais oblíquos.
-
-<01>626
-<02>-332	Solo permeável.
-
-<01>626
-<02>-333	Solo impermeável.
-
-<01>626
-<02>-335	Instalações de controle da corrente.
+<06>626-33	Vias de acesso e partes a jusante.
+<06>626-331	Muros laterais oblíquos.
+<06>626-332	Solo permeável.
+<06>626-333	Solo impermeável.
+<06>626-335	Instalações de controle da corrente.
 <09>Inclusive Estacas em cortina.
 <09>Comportas. Poços.
-
-<01>626
-<02>-337	Dissipadores de energia. Inclusive Paredes
+<06>626-337	Dissipadores de energia. Inclusive Paredes
 defletoras. Blocos.
-
-<01>626
-<02>-338	Limpeza de fundações com água corrente.
+<06>626-338	Limpeza de fundações com água corrente.
 <09>Acomodação do solo e do escudo.
 <09>Divisões principais
 
@@ -2701,8 +2683,8 @@ ou elevações. Canais marítimos de nível elevado.
 
 <09>Especificar os trabalhos nas hidrovias e nos portos e as instalações de portas e de usinas de 
  energia  hidráulica pro meio de –1/-9 (de 62-1-8 e 66-9) 
-<06>627(26) Obras e instalações marítimas, oceânicas
-<06>627(28) Obras e instalações de águas interiores, rios e lagos
+      627(26) Obras e instalações marítimas, oceânicas
+      627(28) Obras e instalações de águas interiores, rios e lagos
 <09>Subdivisões auxiliares especiais
 
 <01>627.01
@@ -2724,7 +2706,7 @@ ou elevações. Canais marítimos de nível elevado.
 
 <01>627.033
 <02>Construção temporária, transportável, desmontável. Estruturas infláveis.
-<06>62 7.033 dividido como 69.033
+      62 7.033 dividido como 69.033
 
 <01>627.033.15
 <02>Instalações infláveis.
@@ -2743,7 +2725,7 @@ ou elevações. Canais marítimos de nível elevado.
 
 <01>627.05
 <02>Local, organização e instalações. Métodos de construção.
-<06>62 7.05 dividido como 69.05
+       62 7.05 dividido como 69.05
 
 <01>627.06
 <02>Características especiais (iluminação, construção etc.).
@@ -3062,8 +3044,8 @@ dos rios. Efeito das correntes de maré. Inclusive formação de bancos, barreir
 <01>627.224
 <02>Regime de gelo nos portos.
                                  Exemplo de combinação(ões):
-<06>627.224”321/324" Fatores sazonais 
-<06>627.224"332" Meses individuais
+                                          627.224”321/324" Fatores sazonais 
+                                          627.224"332" Meses individuais
 <09>624.145 Danos causados pelo gelo flutuante (precauções, prevenção e controle)
 
 <01>627.224.2
@@ -3251,7 +3233,7 @@ barcas.
 <01>627.34
 <02>Equipamento de atracação e desembarque
 em cais, ancoradouros e píeres.
-<06>627.34.06 Características especiais. P. ex., instalações de controle de atracação.
+                                        627.34.06 Características especiais. P. ex., instalações de controle de atracação.
 
 <01>627.341
 <02>Equipamento de amarração e defensa.
@@ -3777,15 +3759,15 @@ em canais. Inclusive Atracamentos de bóias.
 <02>Faróis e navios-farol (posicionamento,
 equipamento etc.).
 <09>Exemplo (s) de combinação(ões:
-<06>627.715(210) No continente (promontório. costa)
+      627.715(210) No continente (promontório. costa)
 
 <01>627.715
 <02>(26) No mar. No mar aberto 
 
 <01>627.715
 <02>(28) Em águas interiores (rios, canais, lagos) 
-<06>627.715.032 Estruturas fixas. Faróis 
-<06>627.715.034 Estruturas flutuantes.Navios-farol
+       627.715.032 Estruturas fixas. Faróis 
+       627.715.034 Estruturas flutuantes.Navios-farol
 <09>725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração publica. Edifícios de empresas de
       serviços públicos
 
@@ -3834,12 +3816,8 @@ intensificação da luz.
 <01>627.715.88
 <02>Equipamento de ignição e extinção.
 <09>Exemplo (s) de combinação(ões:
-
-<01>627.715.88
-<02>-519 Dispositivos de controle remoto
-
-<01>627.715.88
-<02>-523 Dispositivos elétricos automáticos
+<06>627.715.88-519 Dispositivos de controle remoto
+<06>627.715.88-523 Dispositivos elétricos automáticos
 
 <01>627.717
 <02>Pilotagem. Estações e equipamento do piloto. Técnicas e regulamentos de manobra.
@@ -4027,8 +4005,8 @@ têm condições de volta r a flutuar).
 
 <01>627.768
 <02>Reboque, desencalhe de embarcações (relativamente pouco danificadas) em terra.
-<06>627.768.082 Durante a maré. Com auxílio da maré
-<06>627.768.084 Sem auxílio da maré
+      627.768.082 Durante a maré. Com auxílio da maré
+      627.768.084 Sem auxílio da maré
 <09>627.718 Instalações de reboque em canais navegáveis
 
 <01>627.77
@@ -4084,7 +4062,7 @@ energia hidráulica.
 
 <01>627.8.01
 <02>Represas etc. segundo o material e método de construção.
-<06>627.8.01 dividido como 624.01
+      627.8.01 dividido como 624.01
 
 <01>627.8.03
 <02>Represas etc. em condições especificas.
@@ -4131,7 +4109,7 @@ baixa, a forma.
 
 <01>627.8.04
 <02>Projeto estrutural. Estática gráfica. Estática analítica.
-<06>627.8.04 dividido como 624.04
+        627.8.04 dividido como 624.04
 
 <01>627.8.05
 <02>Organização do local para construção da
@@ -4299,7 +4277,7 @@ saída ou descarga.
 <02>Abastecimento de água.
 <09>Tratamento da água. Consumo de água.
 <06>628.1(1-2) Sistemas locais 628. l (l -21) Sistemas urbanos 
-<06>62 8.l(l-22} Sistemas rurais 62 8.1( 1-28) Sistemas intercomunais 
+      62 8.l(l-22} Sistemas rurais 62 8.1( 1-28) Sistemas intercomunais 
 <06>628.1(1-3) Sistemas regionais
 <09>556.18 Administração dos recursos hídricos. Hidrologia aplicada. Controle humano das condições hidrológicas
 <09>614.777 água. Higiene da Água
@@ -4364,64 +4342,28 @@ fins agrícolas.
 <01>628.1.038
 <02>Água de qualidade melhorada, de maior pureza.
 Água destilada.
-
-<01>628.1`1
-<02>Características especiais dos sistemas de 
+<06>628.1`1	Características especiais dos sistemas de 
 abastecimento de água, p. ex., dos condutos de água e das redes de tubulação de água.
-
-<01>628.1`11
-<02>Segundo o modo de adução de água.
-
-<01>628.1`112
-<02>Adução forcada.
-
-<01>628.1`113
-<02>Adução por gravidade.
-
-<01>628.1`12
-<02>Por regime hidráulico.
-
-<01>628.1`122
-<02>Pressão.
-
-<01>628.1`123
-<02>Sem pressão.
-
-<01>628.1`13
-<02>Por formato.
-
-<01>628.1`132
-<02>Ramificado (sem saída).
-
-<01>628.1`133
-<02>Anular (fechada).
-
-<01>628.1`14
-<02>Por zona. Sistemas zonais de abastecimento de
+<06>628.1`11	Segundo o modo de adução de água.
+<06>628.1`112	Adução forcada.
+<06>628.1`113	Adução por gravidade.
+<06>628.1`12	Por regime hidráulico.
+<06>628.1`122	Pressão.
+<06>628.1`123	Sem pressão.
+<06>628.1`13	Por formato.
+<06>628.1`132	Ramificado (sem saída).
+<06>628.1`133	Anular (fechada).
+<06>628.1`14	Por zona. Sistemas zonais de abastecimento de
 água.
-
-<01>628.1`15
-<02>Sistemas de fluxo único. Sistemas de passo
+<06>628.1`15	Sistemas de fluxo único. Sistemas de passo
 único.
-
-<01>628.1`16
-<02>Sistemas repetidos de utilização da água.
-
-<01>628.1`17
-<02>Sistemas de retorno.
-
-<01>628.l`18
-<02>Por função do reservatório.
+<06>628.1`16	Sistemas repetidos de utilização da água.
+<06>628.1`17	Sistemas de retorno.
+<06>628.l`18	Por função do reservatório.
 <09>Usado principalmente em 628.13
-
-<01>628.l`181
-<02>Regulagem.
-
-<01>628.l`182
-<02>De reserva (para armazenagem).
-
-<01>628.1`183
-<02>Regulagem de reserva
+<06>628.l`181	Regulagem.
+<06>628.l`182	De reserva (para armazenagem).
+<06>628.1`183	Regulagem de reserva
 <09>Divisões principais
 
 <01>628.11
@@ -4646,9 +4588,7 @@ respectivo equipamento.
 
 <01>628.16.065.2
 <02>Precipitação com reagentes. Coagulação.
-
-<01>628.16.065.2
-<02>-926 Precipitação com coagulantes inorgânicos 
+<06>628.16.065.2-926 Precipitação com coagulantes inorgânicos 
 <06>628.16.065.2-926.62'226 Com sulfato de alumínio
 
 <01>628.16.067.1
@@ -4696,46 +4636,36 @@ respectivo equipamento.
 <02>Purificação da água com reagentes específicos.
 <09>Usar para indicar os pontos genéricos sobre o uso de reagentes na purificação da água
 <09>Classificar na operação ou método o emprego de reagentes em operações ou métodos específicos de purificação 
-
-<01>628.16.065.2
-<02>-926.62'226 Coagulação com sulfato de alumínio
-
-<01>628.164
-<02>-926.3 3'264 Abrandamento com carbonato de sódio
+<06>628.16.065.2-926.62'226 Coagulação com sulfato de alumínio
+<06>628.164-926.3 3'264 Abrandamento com carbonato de sódio
 
 <01>628.164
 <02>Abrandamento da água. Redução da dureza. Prevenção de depósitos carbonatados.
-
-<01>628.164
-<02>-92 Método de reagente para abrandamento da água 
-
-<01>628.164
-<02>-926.33 '264 Tratamento com carbonato de sódio calcinado. Eliminação da dureza de não-carbonatos 
-
-<01>628.164
-<02>-926.41 Tratamento por oxido de cálcio hidratado. Método de carbonato de sodio-óxido de cálcio. Eliminação da
+<06>628.164-92 Método de reagente para abrandamento da água 
+<06>628.164-926.33 '264 Tratamento com carbonato de sódio calcinado. Eliminação da dureza de não-carbonatos 
+<06>628.164-926.41 Tratamento por oxido de cálcio hidratado. Método de carbonato de sodio-óxido de cálcio. Eliminação da
 dureza de carbonato 
-<06>62 8.164.046 Métodos térmicos de eliminação da dureza 
-<06>628.164.081.312.32 Método catiônico
+      62 8.164.046 Métodos térmicos de eliminação da dureza 
+      628.164.081.312.32 Método catiônico
 
 <01>628.165
 <02>Dessalinização e destilação da água.
 <09>628.161.2 Purificação da água pela Moção de substâncias específicas
       Indicar os reagentes por meio -92...,  e os método, s por meio de .0... 
-<06>628.165.048 Destilação 
-<06>628.165.081.312.32 Método catiônico
+      628.165.048 Destilação 
+      628.165.081.312.32 Método catiônico
 
 <01>628.166
 <02>Desinfecção da água.
 <09>Indicar os reagentes por meio de -92. ., .e os métodos,  po por meio de r.O...
 <06>628.166-926.57 Com prata
-<06>628.166.085 Com irradiação 
+                                            628.166.085 Com irradiação 
 <06>628.166.094.3-926.214 Com ozônio. Por ozonização
 
 <01>628.167
 <02>Remoção de odores e ressaibos da água.
       Indicar os reagentes por meio de -92...,  e os métodos,  por meio de .0... 
-<06>628.167.069.84 Desgaseificação
+       628.167.069.84 Desgaseificação
 
 <01>628.168
 <02>Outros tipos de tratamento da água.
@@ -4766,15 +4696,15 @@ melhorar as qualidade de potabilidadc.
 <01>628.171
 <02>Necessidades e consumo de água. Equilíbrio
 entre o abastecimento e a descarga. 
-<06>628.171 “313” Consumo esperado (necessidade) de água 
-<06>628.171.001.24 Cálculo da ta\a de consumo 
-<06>628.171.03 3 Consumo (necessidade) de água potável nas residências 
-<06>628.171.034.2 Consumo (necessidade) de água nas indústrias
+      628.171 “313” Consumo esperado (necessidade) de água 
+      628.171.001.24 Cálculo da ta\a de consumo 
+      628.171.03 3 Consumo (necessidade) de água potável nas residências 
+      628.171.034.2 Consumo (necessidade) de água nas indústrias
 
 <01>628.179
 <02>Economia de água. Perdas, desperdício de 
 água e sua prevenção. 
-<06>628.179.0 dividido como 66.0
+      628.179.0 dividido como 66.0
 
 <01>628.179.2
 <02>Uso múltiplo da água. Retorno e reutilização de água. Uso de esgoto no retomo e

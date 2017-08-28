@@ -3251,7 +3251,7 @@ construção.
       -> 528 Geodésia. Agrimensura. Levantamento topográfico. Fotogrametria. Sensoriamento remoto. Cartografia
 624.132	Remoção e transporte do solo. Operações de
 movimentação de terra, de terraplenagem.
-      Para equipamento de terraplenagem, ver 62l.77/.879
+      Para equipamento de terraplenagem, ver 621.77/.879
 624.132.1	Afofamento e remoção manual do solo.
 624.132.3	Afofamento e remoção mecânica do solo,
 Exemplo(s) de combinação(ões):

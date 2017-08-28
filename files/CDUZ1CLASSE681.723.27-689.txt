@@ -1650,7 +1650,7 @@ Exemplo(s) de combinação(ões):
 687.53.053.5	Escovas de cabelo. Grampos. Pinças de cabelo.
 Presilhas. Objetos decorativos para sustentar o
 penteado já acabado.
--> 672.81Alfinetes
+-> 672.81 Alfinetes
 687.53.054	Equipamento para lavar e secar o cabelo.
 Dispositivos par pintar o cabelo. Pentes.
 687.53.054.2	Equipamento para lavar o cabelo. Equipamento para ensaboar.

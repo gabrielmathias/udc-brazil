@@ -6,10 +6,10 @@
 (24)	Abaixo do nível do mar. Abaixo da superfície. Subterrâneo.
       Especificar profundidade pela combinação de dois pontos com (181) 
 <06>(24:181m200) 200 metros abaixo do nível do mar
-      → 551.44 Espeleologia. Cavernas. Fendas. Águas subterrâneas
+<09>551.44 Espeleologia. Cavernas. Fendas. Águas subterrâneas
 (25)	           	Terreno plano natural (no, acima ou abaixo do nível do mar). O solo em seu estado natural, 
                          	cultivado ou habitado.
-→ 551.43 Formas de relevo da superfície da Terra.. Formas terrestres. Morfoestruturas. 
+<09>551.43 Formas de relevo da superfície da Terra.. Formas terrestres. Morfoestruturas. 
 (251)	               Estepes. Pampas. Planícies. Prados. Savanas. Charnecas.
 (251.1)		Estepes propriamente ditas.
 (251.2)		Pampas.
@@ -21,14 +21,14 @@
 (252.32)	Desertos de pedra.
 (252.33)                    Desertos de areia.
 (252.331)	                  Dunas. Areia movediça.
-		      → (212) Regiões intermediárias e subpolares. Zonas temperadas. Regiões climáticas de
+<09>(212) Regiões intermediárias e subpolares. Zonas temperadas. Regiões climáticas de
 
 <01>l
 <02>atitude média
-                   → (213) Regiões subtropical e tropical em geral
+<09>(213) Regiões subtropical e tropical em geral
 (252.47)	Terreno de estuários.
-                                     → (282.05) Foz de rio. Descargas. Cursos e braços de descarga. Deltas
-                                    → (285.3) Charcos. Pântanos. Brejos. Banhados
+<09>(282.05) Foz de rio. Descargas. Cursos e braços de descarga. Deltas
+<09>(285.3) Charcos. Pântanos. Brejos. Banhados
 (252.6)	Pântanos. Charcos. Turfeiras. Outras formações de água doce.
 (252.8)	Áreas cobertas de lava.
 (253)	Bosques e florestas virgens (primitivas). Selvas. Matas.
@@ -38,23 +38,23 @@
 (257)	Terra habitada. Áreas construídas.
 (258)	Terreno fortificado.
 (26)	Interconexões entre oceanos e mares. Canais marítimos.
-→ (285) Águas paradas e estagnadas. Lagos.Açudes. Pântanos
-                               → 551.46 Oceanografia física. Topografia submarina. Fundo do mar  
+<09>(285) Águas paradas e estagnadas. Lagos.Açudes. Pântanos
+<09>551.46 Oceanografia física. Topografia submarina. Fundo do mar  
 <09>Subdivisões auxiliares especiais
 (26.02)	                    Mar aberto. Alto-mar.
 (26.03)	                    Zona abissal. Profundidades do mar. Submarino.
 (26.04)	                    Golfos. Baias. Enseadas. Angras. Portos naturais. Ancoradouros.
 (26.05)	                      Lagoas. Lagunas. Lagos de água salgada.
 (26.06)	                     Interconexoes entre oceanos e mares. Canais marítimos.
-                                   → (282.5) Canais.Vias navegáveis artificiais
-                                   → 626.9 Canais marítimos. Canais de navegação
+<09>(282.5) Canais.Vias navegáveis artificiais
+<09>626.9 Canais marítimos. Canais de navegação
 (26.07)	Correntes oceânicas e marinhas.
 <09>Subdivisões auxiliares comuns
 (261)	Oceano Atlântico.
 (261.1)	Oceano Atlântico Norte.
 	      (261.1.07) Corrente do Golfo
 (261.2)	Atlântico norte-oriental.
-→ (258.4) Oceano Ártico europeu
+<09>(258.4) Oceano Ártico europeu
 (261.24)	MarBáltico. Inclusive Golfos de Bótnia, da Finlândia, de Riga, de Gdansk.
 (261.247)	Belts e Sund.
 (261.248)	Kattegat.
@@ -98,7 +98,7 @@
 (261.56)		Mares e águas da costa norte-oriental da América do Sul.
 (261.565)		Golfo do Amazonas.
 (261.6)		Oceano Atlântico sul
-                                      → (269.4) Setor Atlântico do Oceano meridional. Mar de Scotia. Mar de Lazarev.
+<09>(269.4) Setor Atlântico do Oceano meridional. Mar de Scotia. Mar de Lazarev.
 (261.67)	Mares e águas da costa do Brasil.
 (261.68)	Mares e águas da costa sudeste da América do Sul.
 (261.683)                    Rio de la Plata (rio da Prata).
@@ -106,7 +106,7 @@
 (261.685)		Golfo San Matias.
 (261.686)		Golfo San Jorge.
 (261.687)	Bahia Grande.
-→ (269.528) Estreito de Magalhães
+<09>(269.528) Estreito de Magalhães
 (261.7)	Atlântico oriental e do sudeste.
 (261.74)	Mares e águas da costa da África ocidental.
 (261.76)	Golfo da Guiné.
@@ -270,7 +270,7 @@
 (269.9)	Oceano Antártico (histórico).
 (28)		Águas continentais.
 (282)	Águas correntes. Cursos d'agua. Vias navegáveis. Rios.
-#ERRO2(Texto orfao sem tag ?)  → 556.5Hidrologia das águas de superfície. Hidrologia de 
+<09>556.5Hidrologia das águas de superfície. Hidrologia de 
 superfície. 
 <09>Tabela sistemática
 <09>Subdivisões auxiliares especiais
@@ -395,7 +395,7 @@ superfície.
 (282.247.366)	Manaych.
 (282.247.38)	Kuban (Hypanis).
 (282.247.4)	Rios da Europa e do Cáucaso que desembocam no mar Cáspio. 
-		    → (282.255) Rios das bacias continentais de drenagem da Ásia
+<09>(282.255) Rios das bacias continentais de drenagem da Ásia
 média e central que correm para os mares do Aral ou Cáspio
 (282.247.41)	Volga.
 (282.247.412)	Oka.
@@ -548,7 +548,7 @@ média e central que correm para os mares do Aral ou Cáspio
 (282.272.964)	Río General.
 (282.272.965)	Río Santa María.
 (282.272.966)	Río Chagres. Lago Madden.
-		      → (265.159) Canal do Panamá
+<09>(265.159) Canal do Panamá
 (282.272.967)	Río Chepo.
 (282.272.968)	Río Chucunaque. Río Tuira.
 (282.272.969)	Río Balsas.
@@ -630,15 +630,15 @@ média e central que correm para os mares do Aral ou Cáspio
 (282.296)		Rios da Polinésia.
 (282.3)		Quedas d`água. Corredeiras. Cataratas. Cascatas.
 (282.5)	Canais. Vias navegáveis artificiais.
-→ (26.06) Interconexões entre oceanos e mares. Canais marítimos
-                                    → 626.1 Vias aquáticas interiores navegáveis. Canais. Rios canalizados
-                                    → 656.628 Tração em rios e canais.Navegação interior com reboque. Reboques e barcaças em águas 
+<09>(26.06) Interconexões entre oceanos e mares. Canais marítimos
+<09>626.1 Vias aquáticas interiores navegáveis. Canais. Rios canalizados
+<09>656.628 Tração em rios e canais.Navegação interior com reboque. Reboques e barcaças em águas 
 interiores.
 (285)	Águas paradas e estagnadas. Lagos. Açudes. Pântanos.
 (285.2)	Lagos não associados a sistemas de rios..
-→ 556.55 Limnologia. Lagos. Reservatórios. Represas. Açudes. Lagoas
+<09>556.55 Limnologia. Lagos. Reservatórios. Represas. Açudes. Lagoas
 (285.3)	Charcos. Pântanos. Brejos. Banhados.
-→ 556.56 Pântanos. Brejos. Banhados
+<09>556.56 Pântanos. Brejos. Banhados
 (285.32)	Pântanos de água salgada. Charcos de água
 salgada.
 (285.33)	Pântanos e charcos de água doce.
@@ -654,42 +654,42 @@ salgada.
 <09>Se necessário, as áreas listadas aqui poderão ser expandidas da forma costumeira, através de combinação dos dois pontos com os demais números de (2) e de (4/9).
 <09>Se essa tabela alternativa for usada, o auxiliar –92 (ver 1-92) não deverá ser usado, e nenhum outro número em (2) poderá ser usado, a menos que esteja unido por dois pontos a um número listado em (29), e mesmo assim, só com o objetivo de obter maior detalhamento.
 (292.2)		Regiões árticas
-      → (98) Territórios árticos
+<09>(98) Territórios árticos
 (292.21)	Ilhas do Ártico europeu.
 (292.22)	Ilhas do Ártico asiático
 (292.23/.24)	Ilhas do Ártico ocidental (Setor americano).
-      → (987) Ártico norte-americano. Inclusive as ilhas.
+<09>(987) Ártico norte-americano. Inclusive as ilhas.
 (292.23)	Ilhas do Ártico canadense.
 (292.24)	Groenlândia.
-      → (988) Groenlândia (Gronland) (Dinamarca).
+<09>(988) Groenlândia (Gronland) (Dinamarca).
 (292.3)		Regiões antárticas. Antártida.
-      → (99) Territórios antárticos. Regiões do Pólo Sul.
+<09>(99) Territórios antárticos. Regiões do Pólo Sul.
 (292.31)	Platô antártico.
 (292.32)	Regiões da Antártida ocidental.
 (292.33)	Antártida do oeste.  Antártida menor
 (292.34)	Ilhas subantárticas.
 (292.4/.5)		Regiões físicas da Eurásia.
 (292.4)		Regiões físicas da Europa. A Europa como região física.
-                                	      → (4) Europa
+<09>(4) Europa
 (292.41)		Europa setentrional.
 (292.411)	Islândia.
-      → (491.1) Islândia. República da Islândia
+<09>(491.1) Islândia. República da Islândia
 (292.412)	Jan Mayen.
-      → (984) Ilhas do Ártico europeu
+<09>(984) Ilhas do Ártico europeu
 (292.413)	Faeroes
-      → Féroe. Ilhas Féroe. Faeroerne/Foroyar (Dinamarca)
+<09>Féroe. Ilhas Féroe. Faeroerne/Foroyar (Dinamarca)
 (292.414)	Península Escandinava.
-      → (48) Países escandinavos
+<09>(48) Países escandinavos
 (292.415)	Finlândia e Carélia.
-      → Finlândia. República Finlandesa. Suomi
+<09>Finlândia. República Finlandesa. Suomi
 (292.416)	Península de Kola.
 (292.42/.43)	Europa centro-ocidental e centro-setentrional.
 (292.421)		Ilha da Irlanda.
-                                 	      → (410.7) Irlanda do Norte
-                                 	      → (415) Irlanda (o todo geográfico)
-                                 	      → (417) Irlanda. República da Irlanda. Eire
+<09>(410.7) Irlanda do Norte
+<09>(415) Irlanda (o todo geográfico)
+<09>(417) Irlanda. República da Irlanda. Eire
 (292.421/.422)	lhas britânicas.
-                                 	      → (410) Reino Unido da Grã-Bretanha e Irlanda do Norte
+<09>(410) Reino Unido da Grã-Bretanha e Irlanda do Norte
 (292.422)		Grã-Bretanha e ilhas menores.
 (292.423)		França Atlântica.
 (292.43)		Europa centro-setentrional
@@ -697,39 +697,39 @@ salgada.
 (292.432)		Europa central herciniana.
 (292.44/.45)	Alpes e regiões dos Cárpatos.
 (292.441)		Jura
-                                         → (234.313.2) Jura
+<09>(234.313.2) Jura
 (292.442)		Promontório alpino setentrional.
 (292.443)		Alpes.
-                                         → (234.3) Alpes
+<09>(234.3) Alpes
 (292.444)		Planície lombarda (Planícies veneziana e do Pó.
 (292.45)		Europa central sul-oriental.
 (292.451/.454)	Cárpatos.
 (292.451)		Cárpatos ocidentais.
-                                          → (234.472.3) Cárpatos ocidentais
+<09>(234.472.3) Cárpatos ocidentais
 (292.452)		Cárpatos orientais.
-		       → (234.421.1) Cárpatos orientais
+<09>(234.421.1) Cárpatos orientais
 (292.453)		Cárpatos meridionais.
 (292.454)		Montanhas do oeste da Romênia. Transilvânia. Alpes transilvanos.
-                                 	      → (234.421) Montanhas da Romênia.
+<09>(234.421) Montanhas da Romênia.
 (292.455)		Bacia da Panônia.
 (292.456)		Planícies do baixo Danúbio. Walachia. Dobruja.
 (292.457)		Stara Planina. Montanhas balcânicas.
-                                 	      → (234.42) Montanhas da península balcânica
+<09>(234.42) Montanhas da península balcânica
 (292.46)		Europa meridional mediterrânea.
 (292.461)		Península Ibérica e ilhas Baleares.
-                                 	      → (46) Penínsusla Ibérica
-		       → (469) Portugal. República Portuguesa
+<09>(46) Penínsusla Ibérica
+<09>(469) Portugal. República Portuguesa
 (292.462)		Ilhas do Mediterrâneo central.
 (292.463)		Península dos Apeninos
-                                	      → (234.41) Montanhas da Península italiana
-		      → (450) Itália. República da Itália. República Italiana
+<09>(234.41) Montanhas da Península italiana
+<09>(450) Itália. República da Itália. República Italiana
 (292.464)		Península dos Balcãs.
-		      → (234.42) Montanhas da península dos Balcãs.
+<09>(234.42) Montanhas da península dos Balcãs.
 (292.471)		Criméia.
-	      → (477.75) Krymskaia oblast`. Criméia.
+<09>(477.75) Krymskaia oblast`. Criméia.
 (292.472/.476)	Cáucaso.
-	       → (234.9) Cáucaso. Cadeia do Cavkaz
-	       → (479) O Cáucaso como um todo
+<09>(234.9) Cáucaso. Cadeia do Cavkaz
+<09>(479) O Cáucaso como um todo
 (292.472)	Planícies pré-caucasianas.
 (292.473)	Cáucaso maior (Bol`shoy Kavkaz).
 (292.474)	Planícies da Cólquida (Rion).
@@ -745,8 +745,8 @@ salgada.
 (292.485)	Região de floresta-estepe.
 (292.486)	Região de estepe.
 (292.49)	Região dos urais.
-                                      → (234.85) Urais
-                                      → (574.11) Ural`skaia oblast’
+<09>(234.85) Urais
+<09>(574.11) Ural`skaia oblast’
 (292.491)	Tundra e tundra de floresta da cadeia de Pay-Khoy e dos urais polares	
 (292.493)	Taiga dos Urais subpolar e setentrional.
 (292.495)	Florestas dos Urais médios.
@@ -755,7 +755,7 @@ salgada.
 (292.5)	Regiões físicas da Ásia. A Ásia como região física.
 (292.51)	Ásia setentrional.
 (292.511/.516	Sibéria.
-                                 	      → (571.l/.5) Sibir` (Sibéria )
+<09>(571.l/.5) Sibir` (Sibéria )
 (292.511)	Planície siberiana do oeste.
 (292.511.1)	Tundra e tundra de floresta do oeste da Sibéria (Região de Yamal-Gydan).
 (292.511.2)	Zona de taiga e pântano do oeste da Sibéria.
@@ -767,157 +767,157 @@ salgada.
 (292.512.2)	Parte setentrional dos altiplanos da média Sibéria.
 (292.512.3)	Sibéria central (Parte meridional dos altiplanos da Média Sibéria).
 (292.513)	Bacia do Lena. Yakutia central (Bacia de Yakutia).
-                                 	      → (282.256.6) Lena
+<09>(282.256.6) Lena
 (292.514)	Sibéria norte-oriental).
 (292.515)	Montahas Altaia e Sayan)
-                                	      → (571.15) Altai
+<09>(571.15) Altai
 (292.516)	Região de Baikal e de Transbaikal.
 (292.517)	Região de Amur e de Primor`ye
 (292.518)	Kamchatka. Kuriles.
-                                 	      → (571.66) Kamchatskaia oblast`.
+<09>(571.66) Kamchatskaia oblast`.
 (292.52) 	Ásia média montanhosa. 
 (292.524)	Região montanhosa do Cazaquistão-Dzungar.
-                                 	      → (574) (Cazaquistão. República do Cazaquistão)
+<09>(574) (Cazaquistão. República do Cazaquistão)
 (292.525)	Tien Shan ocidental.
-                                 	      → (235.216) Tien Shan
+<09>(235.216) Tien Shan
 (292.526)	Região montanhosa de Gissar-Alay.
 (292.527)	Região de altas montanhas de Pamir.
-                                 	      → (235.211) Pamir
-                                 	      → (575.32) Gorno-Badakhsanskaia avtonomnaia oblast`. Pamir
+<09>(235.211) Pamir
+<09>(575.32) Gorno-Badakhsanskaia avtonomnaia oblast`. Pamir
 (292.53)	Ásia central.
-                                 	      → (235.2) Montanhas da Ásia central (Planalto asiático)
+<09>(235.2) Montanhas da Ásia central (Planalto asiático)
 (292.535)	Tibete.
-                                 	      → (515) Xizang Zizhigu. Região autônoma do Tibete.
+<09>(515) Xizang Zizhigu. Região autônoma do Tibete.
 (292.536)	Himalaias.
-                                	      → (235.243) Himalaias. 
+<09>(235.243) Himalaias. 
 (292.54/.55)	Ásia ocidental.
 (292.54)	Planalto anatólio-iraniano.
 (292.541)	Planalto anatólio.
 (292.542)	Planalto armênio.
 (292.543)	Montanhas de Elburz e da costa cáspia do sul.
-                                 	      → (235.131) Elburz (Montanhas de Alborz). Montanhas de Damavand
+<09>(235.131) Elburz (Montanhas de Alborz). Montanhas de Damavand
 (292.544)	Planalto iraniano.
-                                 	      → (235.15) Montanhas do Irã meridicional. Montanhas de Zagros
+<09>(235.15) Montanhas do Irã meridicional. Montanhas de Zagros
 (292.545)	Kush hindu.
-                                 	      → (235.212) Kush hindu
+<09>(235.212) Kush hindu
 (292.55)	Ásia sul-ocidental (Região árabe-mesopotâmica).
 (292.551)	Levante.
-                              	      → (56) Levante. Ásia menor
+<09>(56) Levante. Ásia menor
 (292.552)	Mesopotâmia. Iraque.
-                              	       → 567) Iraque. República do Iraque (Al Jumhuriyah al ‘Iraqiyah)
+<09>567) Iraque. República do Iraque (Al Jumhuriyah al ‘Iraqiyah)
 (292.553)	Península arábica.
 (292.554)	Península do Sinai.
 (292.56)	Ásia meridional. Subcontinente indiano (exceto o Himalaia).
-                              	      → (54) Estados do subcontinente indiano
+<09>(54) Estados do subcontinente indiano
 (292.561)	Planície do Indo-Ganges. Planícies indo-gangéticas.
-                               	      → (282.253.21) Sistema do Ganges
-                               	      → (282.2253.24) Sistema do Indo
+<09>(282.253.21) Sistema do Ganges
+<09>(282.2253.24) Sistema do Indo
 (292.562)	Península indiana. Inclusive Deccan.
-                               	      → (235.511) Planalto de Deccan
+<09>(235.511) Planalto de Deccan
 (292.563)	Sri Lanka (Ceilão).
-                               	      → (548.7) Sri Lanka. República Social e Democrática de Sri Lanka.
+<09>(548.7) Sri Lanka. República Social e Democrática de Sri Lanka.
 (292.57)	Ásia do leste.
 (292.571)	Arquipélago Japonês.
-                                     → (52) Japão e ilhas adjacentes
+<09>(52) Japão e ilhas adjacentes
 (292.573)	China norte-oriental e Coréia.
 (292.575)	China oriental.
 (292.58)	Indochina.
 (292.59)	Ilhas asiáticas do sudeste.
 (292.591)	Filipinas.
-                               	      → (599) Filipinas. República das Filipinas
+<09>(599) Filipinas. República das Filipinas
 (292.592)	Arquipélago malaio.
 (292.593)	Ilhas Sunda menores.
-                                     → (594.71/.73)
+<09>(594.71/.73)
 (292.6)	Regiões físicas da África. A África como região física.
-                               	      → (6) África
+<09>(6) África
 (292.61)	Região do Mediterrâneo ocidental africano.
 (292.611)	Montanhas Atlas.
-                               	      → (236.1) Montes Atlas
+<09>(236.1) Montes Atlas
 (292.612)	Ilhas dos Açores, da Madeira e Selvagens.
-                                     → (649.8/.9)
+<09>(649.8/.9)
 (292.613)	Ilhas Canárias (Espanha) como parte da África.
 (292.62)	Saara. Vale do Nilo.
-                                     → (282.631.1) Nilo
+<09>(282.631.1) Nilo
 (292.63/.69)	África subsaariana.
-                                     → Países e territórios ao sul do Saara. África subsaariana
+<09>Países e territórios ao sul do Saara. África subsaariana
 (292.63)	Região margeando o sul do Saara. Inclusive Sahel. Sudão (região).
 (262.64/.65)	África equatorial
 (292.64)	Alta Guiné.
 (292.65)	Bacia do Congo e áreas circunjacentes. Ilhas do golfo da Guiné. Santa Helena. 
                                Ascensão.
-                              	      → (282.262.4) Congo. (Zaire)
+<09>(282.262.4) Congo. (Zaire)
 (292.66)		Planaltos da Abissínia. Somália
 (292.67)		Planaltos africanos do leste. Rift valley (Grande fossa africana).
-                              	      → (676.1/.2)
+<09>(676.1/.2)
 (292.68)		África meridional. Planícies de Moçamabique e do Natal.
-                                     → (68 ...)
+<09>(68 ...)
 (292.69)		Madagascar. Ilhas no Oceano Índico ocidental.
-                                     → (267.23) Mares e águas costeiras do leste de Madagascar.
+<09>(267.23) Mares e águas costeiras do leste de Madagascar.
 (292.7)		Regiões físicas das Américas do Norte e Central. Américas do Norte e Central 
                                como regiõoes físicas.
 (292.71)		Cordilheiras do Alasca.
-                                     → (237.11) Cadeia do Alasca
+<09>(237.11) Cadeia do Alasca
 (292.72)		Cordilheiras canadenses (Rochosas setentrionais).
 (292.73)		Cordilheiras centrais (Rochosas meridionais).
 (292.74)		Cordilheiras meridionais (Planaltos mexicanos)
 (292.75)		Bacia do Mackenzie. Escudo canadense. Planalto laurenciano. Labrador.
-                               	      → (261.43) Mar do Labrador.
-                               	      → (261.44) Golfo de São Lourenço e águas costeiras adjacentes de
+<09>(261.43) Mar do Labrador.
+<09>(261.44) Golfo de São Lourenço e águas costeiras adjacentes de
                                Newfoundland e da Nova Escócia do sudoeste.
-                                     → (282.273.2) Mackenzie
+<09>(282.273.2) Mackenzie
 (292.76)		Planícies interiores. Grandes planícies. Grandes lagos. Região de São Lourenço.
-                                     → (282.272.1) São Lourenço
+<09>(282.272.1) São Lourenço
 (292.77)		Apalaches.
-                              	      → (237.2) Montanhas Apalaches.
+<09>(237.2) Montanhas Apalaches.
 (292.78)		Planícies costeiras da América do Norte.
 (292.79)		Região do Caribe. América Central. Índias ocidentais. Bermudas.
-                                     → (729) Territórios caribenhos. Índias ocidentais (Antilhas)
+<09>(729) Territórios caribenhos. Índias ocidentais (Antilhas)
 (292.792)		Hispaniola.
 (292.797)		Granadinas como um todo.
 (292.8)		Regiões físicas da América do Sul. A América do Sul como região física.
-                               	      → (238.1) América do Sul, área ocidental. Cordilheira sul-americana. Andes.
+<09>(238.1) América do Sul, área ocidental. Cordilheira sul-americana. Andes.
 (292.81)		Andes setentrionais.
 (292.82)		Andes centrais.
 (292.83)		Andes subtropicais
 (292.84)		Andes patagões. Arquipélago da Terra do Fogo.
-                                     → (238.15) Montanhas da Terra do Fogo.
-                               	      → (828.9) Província de Tierra del Fuego, Antártida e ilhas do Atlântico sul nacional.
+<09>(238.15) Montanhas da Terra do Fogo.
+<09>(828.9) Província de Tierra del Fuego, Antártida e ilhas do Atlântico sul nacional.
 (292.85)		Patagônia. Ilhas Falkland. Ilhas Malvinas.
-                               	      → (828) Região da Patagônia
-                               	      → (829.1) Ilhas Malvinas (Falkland). Ilhas Malvinas (Falkland) e Dependências (R.U.)
+<09>(828) Região da Patagônia
+<09>(829.1) Ilhas Malvinas (Falkland). Ilhas Malvinas (Falkland) e Dependências (R.U.)
 (292.86)		Planícies interiores do sudeste da América da Sul. Inclusive Sierras pampas.
                         	Planícies de La Plata. Marmoré. Mojos e planícies do Pantanal.
 (292.88)		Bacia amazônica.
-                               	      → (282.281.3) Amazonas
+<09>(282.281.3) Amazonas
 (292.89)		América do Sul nas fronteiras com o mar do Caribe. Bacia do Orinoco. Planalto
                                das Guianas.
 (292.9)		Regiões físicas da Austrália e da Oceania. A Austrália e a Oceania como regiões físicas.
 (292.91/.93)	Austrália
-                               	      → (94) Austrália. Commonwealth da Austrália
+<09>(94) Austrália. Commonwealth da Austrália
 (292.91)		Planalto australiano do oeste.
-                               	      → (941) Austrália ocidental
+<09>(941) Austrália ocidental
 (292.92)		Depressão interior da Austrália. Altos de Selwyn.
 (292.93)		Planalto australiano do leste. Tasmânia.
 (292.94/.99)	Oceania.
 (292.94)		Nova Zelândia e ilhas adjacentes.
-                              	      → (931) Nova Zelândia
+<09>(931) Nova Zelândia
 (292.95)		Nova Guiné.
-                               	      → (954) Papua Nova Guiné. Estado Independente de Papua Nova Guiné.
+<09>(954) Papua Nova Guiné. Estado Independente de Papua Nova Guiné.
 (292.95/.96)	Melanésia.
-                               	      → (932/935) Melanésia. Estados e regiões da Melanésia
+<09>(932/935) Melanésia. Estados e regiões da Melanésia
 (292.96)		Arquipélago melanésio. Ilhas da Melanésia
 (292.97)		Micronésia.
-                               	      → (966/968) Micronésia. Estados e regiões da Micronésia
+<09>(966/968) Micronésia. Estados e regiões da Micronésia
 (292.98)		Polinésia. Ilha da Páscoa.
-                               	      →(961/964)Polinésia. Estados e regiões da Polinésia
+<09>(961/964)Polinésia. Estados e regiões da Polinésia
 (292.99)		Ilhas havaianas.
-                               	      → (739.9) Havaí.
+<09>(739.9) Havaí.
 (3)		Lugares do mundo antigo e medieval.
 <09>Inclusive países conhecidos pela antiguidade greco-romana até à queda do Império Romano do ocidente (cerca de 476 DC), e outros lugares (p. ex., a América pré-colombiana) até o século XV. Nos casos de países em que esta distinção não faz sentido, toda informação pode ser classificada, opcionalmente, em (4/9); p. ex.: China em (510)
 (309)	Países lendários. Países imaginários. Lugares de existência incerta, p. ex.: Atlântida. Terras fabulosas.
- → (1-08) Regiões e zonas desconhecidas, inexploradas
- → (2/7)
- → 572.4 Lugar e momento de origem da espécie humana
+<09>(1-08) Regiões e zonas desconhecidas, inexploradas
+<09>(2/7)
+<09>572.4 Lugar e momento de origem da espécie humana
 (31)	Antiga China e Japão.
 (315)	Cinarum regio. China antiga.
 (32)	Aegyptus. Egito antigo.
@@ -976,24 +976,24 @@ salgada.
 <09>Unidades administrativas secundárias e de menor importância podem ser classificadas por meio dos auxiliares especiais (1-2) e (1-3) ou pela extensão alfabética (Tabela 1h).
 <09>Subdivisões auxiliares comuns
 (4+7)	Oeste (Ocidente) definido convencionalmente.
-      → (1-15) Oeste. Ocidental
+<09>(1-15) Oeste. Ocidental
 (4)	Europa.
 <09>Subdivisões auxiliares especiais
-(4-01)	Regiões da Europa.
-(4-11)	Europa oriental. Inclusive (470) Federação Russa na Europa. (474.2) Estônia. (474.3) Letônia. (474.5) Lituânia. (476) Bielorússia. (477) Ucrânia. (478.9) Moldávia. (479.22) Geórgia. (479.24) Azerbaidjão (479.25). Armênia.
-→ (474) Estados bálticos
-(4-13)	Europa meridional. Inclusive (449.49) Mônaco. (450) Itália. (454.4) San Marino. (456.31 )  Cidade do Vaticano. (458.2) Malta. (460) Espanha. (467.2) Andorra. (468.2) Gibraltar. (469) Portugal. (495) Grécia.
-(4-15)	Europa ocidental. Inclusive (410) Reino Unido. (417) Irlanda. (430) Alemanha. (435.9) Luxemburgo. (44) França. (492). Países Baixos. (493) Bélgica.
-(4-17)	Europa setentrional.   Inclusive (480) Finlândia. (481) Noruega. (485) Suécia. (489) 
+<06>(4-01)	Regiões da Europa.
+<06>(4-11)	Europa oriental. Inclusive (470) Federação Russa na Europa. (474.2) Estônia. (474.3) Letônia. (474.5) Lituânia. (476) Bielorússia. (477) Ucrânia. (478.9) Moldávia. (479.22) Geórgia. (479.24) Azerbaidjão (479.25). Armênia.
+<09>(474) Estados bálticos
+<06>(4-13)	Europa meridional. Inclusive (449.49) Mônaco. (450) Itália. (454.4) San Marino. (456.31 )  Cidade do Vaticano. (458.2) Malta. (460) Espanha. (467.2) Andorra. (468.2) Gibraltar. (469) Portugal. (495) Grécia.
+<06>(4-15)	Europa ocidental. Inclusive (410) Reino Unido. (417) Irlanda. (430) Alemanha. (435.9) Luxemburgo. (44) França. (492). Países Baixos. (493) Bélgica.
+<06>(4-17)	Europa setentrional.   Inclusive (480) Finlândia. (481) Noruega. (485) Suécia. (489) 
                                Dinamarca. (491.1) Islândia.  (491.2) Ilhas Faroe.
-                                        → (48) Estados escandinavos
-(4-191.2)	Europa central. Inclusive (436) Áustria.(437.1/.2) República Tcheca. (437.6) República Eslovaca (438) Polônia. (439) Hungria. (494) Suíça. (494.9) Liechtenstein. (496.5) Albânia. (497.1) Iugoslávia. (497.2) Bulgária. (497.4) Eslovênia.(497.5) Croácia. (497.6) Bósnia-Herzegovina. (498) Romênia.
+<09>(48) Estados escandinavos
+<06>(4-191.2)	Europa central. Inclusive (436) Áustria.(437.1/.2) República Tcheca. (437.6) República Eslovaca (438) Polônia. (439) Hungria. (494) Suíça. (494.9) Liechtenstein. (496.5) Albânia. (497.1) Iugoslávia. (497.2) Bulgária. (497.4) Eslovênia.(497.5) Croácia. (497.6) Bósnia-Herzegovina. (498) Romênia.
 <09>Subdivisões auxiliares comuns
 (41)	lhas Britânicas (Grã-Bretanha, Irlanda e ilhas menores). 
       Classificar aqui obras abrangentes sobre as ilhas britânicas e as ilhas do Canal
-(41-44) Comunidade (Commonwealth) e Império Britânico em geral). NOTA: para   dependências específicas, ver os números individuais (4/9)
-→ (423.4) Ilhas do Canal
-→ (428.9) Ilha de Man
+<06>(41-44) Comunidade (Commonwealth) e Império Britânico em geral). NOTA: para   dependências específicas, ver os números individuais (4/9)
+<09>(423.4) Ilhas do Canal
+<09>(428.9) Ilha de Man
 (410)	Grã-Bretanha. Reino Unido da Grã-Bretanha e Irlanda do Norte.
       Classificar aqui também a Grã-Bretanha (Inglaterra, Escócia e País de Gales)
 (410.1)	Inglaterra.
@@ -1032,7 +1032,7 @@ salgada.
 (410.154)	North Yorkshire.
 (410.156)	Condado metropolitano de West Yorkshire.
       Classificar aqui também o condado metropolitano de Yorkshire ocidental, 1974-
-<06>1986.
+	      1986.
 (410.158)	Condado metropolitano de South Yorkshire.
 <09>Classificar aqui também o condado metropolitano de Yorkshire meridional, 1974-1986.
 (410.16)	Região norte.
@@ -1048,7 +1048,7 @@ salgada.
 (410.174)	Condado metropolitano de Mersey side.
 (410.176)	Condado metropolitano da Grande Manchester.
       Classificar aqui também o condado metropolitano da Grande Manchester, 1974-
-<06>1986.
+	      1986.
 (410.178)	Cheshire.
 (410.18)	Região das West Midlands.
 (410.181)	Staffordshire.
@@ -1085,7 +1085,7 @@ salgada.
                                       Classificar aqui também o condado de Gwyned., 1974-1996.
 (410.318)	Dyfed.
                                     Classificar aqui também o condado de Dyfed, 1974-
-<06>1996.
+	       1996.
 (410.5)	Escócia.
 (410.511)	Região da Lothia.
       Classificar aqui também a região de Lothia, 1975-1996.
@@ -1180,9 +1180,9 @@ salgada.
 (414.92)	Kirkcudbrightshire.
 (414.95)	Wigtownshire.
 (415)	Irlanda (como um todo geográfico).
-                                     → (292.421) Ilha da Irlanda
-                                     → (410.7) Irlanda do Norte
-                                     → (417) Irlanda. República da Irlanda. Eire
+<09>(292.421) Ilha da Irlanda
+<09>(410.7) Irlanda do Norte
+<09>(417) Irlanda. República da Irlanda. Eire
 (416)	Irlanda do Norte: divisões tradicionais do condado.
       O nome Ulster é, às vezes, empregado livremente como sinônimo de Irlanda do Norte; classificar esse tipo de
 (417)	      informação em (416). Mas historicamente Ulster foi uma área mais ampla; na dúvida, preferir (417-89ULS).
@@ -1193,13 +1193,13 @@ salgada.
 (416.6)	Armagh.
 (416.8)	Fermanagh.
 (417)	Irlanda. República da Irlanda. Eire.
-      (417-89) Divisões históricas e tradicionais da Irlanda. Inclusive Províncias. Reinos.
+<06>(417-89) Divisões históricas e tradicionais da Irlanda. Inclusive Províncias. Reinos.
 		      Domínios (absolutos).
-      (417-89CON) Connacht
-      (417-89LEI) Leinster
-#ERRO2(Texto orfao sem tag ?)        (417-89Mun) Munster
-      (417-89ULS) Ulster
-      → (415) Irlanda (como um todo geográfico). 
+<06>(417-89CON) Connacht
+<06>(417-89LEI) Leinster
+<06>(417-89Mun) Munster
+<06>(417-89ULS) Ulster
+<09>(415) Irlanda (como um todo geográfico). 
 (417.7)		Autoridade regional do sul e do leste
 (417.71)		Região de Dublin.
                       Classificar aqui o antigo condado de Dublin.
@@ -1255,8 +1255,8 @@ salgada.
 (422.1)	Surrey.
 (422.3)	Kent.
 (422.5)	Sussex.
-(422.5-11)East Sussex
-(422.5-15) West Sussex
+<06>(422.5-11)East Sussex
+<06>(422.5-15) West Sussex
 (422.7)	Hampshire.
 (422.8)	Ilha de Wight.
 (422.9)	Berkshire.
@@ -1288,9 +1288,7 @@ salgada.
 (425.45)	Rutland.
 (425.5)	Northamptonshire.
 (425.62)	Huntingdon e Peterborough (condado único.
-
-<01>1965
-<02>-1974). Huntingdonshire (até 1965). Soke of Peterborough (situação de condado. 1888-
+<06>1965-1974). Huntingdonshire (até 1965). Soke of Peterborough (situação de condado. 1888-
 
 <01>1965
 <02>).
@@ -1306,9 +1304,9 @@ salgada.
 (427.2)	Lancashire.
 (427.4)	Yorkshire.
 <09>Exemples) de combinação(ões):
-                                   (427.4-11) East Riding
-(427.4-15) West Riding
-(427.4-17) North Riding
+<06>(427.4-11) East Riding
+<06>(427.4-15) West Riding
+<06>(427.4-17) North Riding
 (428.1)	Durham, condado.
 (428.2)	Northumberland.
 (428.5)	Cumberland.
@@ -1330,7 +1328,7 @@ salgada.
 (430)		Alemanha. República Federal da Alemanha (Bundesrepublik Deutschland).
       Classificar aqui informação sobre a República Federal da Alemanha a partir de 1990, 
        e sobre a Alemanha como um todo em qualquer período.
-      → (430-25) Berlim como capital da Alemanha (opção). NOTA: classificar aqui se  buscar 
+<09>(430-25) Berlim como capital da Alemanha (opção). NOTA: classificar aqui se  buscar 
        o posicionamento em seguida a (430). Na dúvida,  preferir (430.131).
 (430.1)		Länder ocidentais e meridionais
       Classificar aqui também informação sobre a Alemanha a partir de 1945 e sobre a República
@@ -1341,7 +1339,7 @@ salgada.
 
 <01>430.117
 <02>)	Land Niedersachsen (Baixa Saxônia)
-      (430.117):210.FRI) Ilhas da Frísia oriental.
+<06>(430.117):210.FRI) Ilhas da Frísia oriental.
 (430.117.1)	Regierungsbezirk Weser-Ems.
 (430.117.3)	Regierungsbezirk Lûneburg.
 (430.117.5)	Regierungsbezirk Braunschweig.
@@ -1400,10 +1398,10 @@ salgada.
 (430.3)	Alemanha Oriental: entidades históricas.
                                        Esta seção é uma opção que pode ser usada se se buscar uma seqüência histórica de informação 
                                        sobre a Alemanha Oriental, 1945-1990, particularmente a República Democrática Alemã, 1949- 
-<06>1990. Na dúvida, preferir (430.2) para informação a respeito da Alemanha Oriental como um 
+                                       1990. Na dúvida, preferir (430.2) para informação a respeito da Alemanha Oriental como um 
                                        todo.
                                        Usar as subdivisões de (430.3) apenas para informação especificamente sobre a RDA e suas partes.
-                                      (430.3-25) Berlim oriental. Berlim oriental como capital da República Democrática Alemã.   
+<06>(430.3-25) Berlim oriental. Berlim oriental como capital da República Democrática Alemã.   
                                       NOTA: na dúvida, classificar Berlim oriental em (430.131.2)
 (430.313)                 Bezirk Rostock
 (430.315)                 Bezirk Neubrandenburg
@@ -1520,7 +1518,7 @@ salgada.
 (437.7)	Zakarpatska Ukrajina (Ucrânia Transcarpaciana/Cárpato-Rússia/Rutênia) (1918-1938).
 (438)	Polônia. República Polonesa.
                             	      Divisões administrativas primárias: Wojewodztwa.
-→ (475) Polônia: período de dominação russa (da partilha até 1918)
+<09>(475) Polônia: período de dominação russa (da partilha até 1918)
                                    Wojewodztwa (divisões administrativas primárias)
 (438.11)	Wojewodztwo warszawskie. Warszawa (Varsóvia).
 (438.12)	 Wojewodztwo lodzkie. Lodz.
@@ -1528,14 +1526,14 @@ salgada.
 (438.14)	 Wojewodztwo lubelskie. Lublin.
 (438.15)	 Wojewodztwo bialostockíe. Bialystok.
 (438.16)	 Wojewodztwo gdanskie. Gdansk (Danzig).
-→ (431.25) Cidade livre de Danzig
+<09>(431.25) Cidade livre de Danzig
 (438.18)	Wojewodztwo olsztynskíe. Olsztyn (Allenstein).
 (438.19)	Wojewodztwo opolskie. Opole (Oppeln).
 (438.21)	Wojewodztwo bydgoskie. Bydgoszcz (Bromberg).
 (438.22)	Wojewodztwo poznanskie. Poznan (Posen).
-→ (431.3) Posen
+<09>(431.3) Posen
 (438.23)	Wojewodztwo katowickie, aanteriormente Slask (Silésia). Katowice.
-→ (431.4) Schlesien (Silésia)
+<09>(431.4) Schlesien (Silésia)
 (438.24)	Wojewodztwo rzeszowskie. Rzeszow.
 (438.25)	Wojewodztwo szczecinskie. Szczecin (Stettin).
 (438.26)	Wojewodztwo wroclawskie. Wroclaw (Breslau).
@@ -1644,13 +1642,13 @@ salgada.
 (443.73)	Aube.
 (443.74)	Haute-Marne.
 (443.82)	Lorraine (Lorena). Région.
-→ (434.4) Alsácia-Lorena.
+<09>(434.4) Alsácia-Lorena.
 (443.821)	Meuse.
 (443.822)	Meurthe-et-Moselle.
 (443.823)	Moselle.
 (443.824)	Vosges.
 (443.83)	Alsace (Alsácia). Région.
-→ (434.4) Alsácia-Lorena.
+<09>(434.4) Alsácia-Lorena.
 (443.831)	Bas-Rhin (baixo Reno).
 (443.832)	Haut-Rhin (alto Reno).
 (444.1/.4)	Bourgogne (Borgonha). Région.
@@ -1722,7 +1720,7 @@ salgada.
 (449.42)	Alpes-de-Haute-Provence.
 (449.43)	Hautes-Alpes.
 (449.45)	Corse (Córsega). Région.
-                                  → (459.9) Córsega como parte da Itália até 1768
+<09>(459.9) Córsega como parte da Itália até 1768
 (449.452)	Haute-Corse.
 (449.453)	Corse-du-Sud.
 (449.49)	Mônaco. Principado de Mônaco.
@@ -1860,7 +1858,7 @@ salgada.
 (456.31)	Cidade-Estado do Vaticano. Stato della Città del Vaticano.
 (458.2)	Malta. República de Malta.
 (459.9)	Córsega como parte da Itália, até 1768.
-                                  → (449.45) Córsega. Região.
+<09>(449.45) Córsega. Região.
 (46)                        Península Ibérica
 (460)	Espanha. Reino da Espanha. Reino de España.
 <09>Subdivisão administrativa em comunidades autônomas e províncias, autorizada pela Constituição de 1978.
@@ -1922,8 +1920,8 @@ salgada.
 (460.357)	Granada.
 (460.358)	Almeria.
 (460.41)	Islas Canarias (Espanha). Ilhas Canárias.
-                                      → (649.1/.7) Ilhas Canárias como parte da África
-                                      → (649.1/.7) 
+<09>(649.1/.7) Ilhas Canárias como parte da África
+<09>(649.1/.7) 
 (460.411)	Santa Cruz de Tenerife.
 (460.412)	Gran Canaria.
 (460.413)	Las Palmas.
@@ -1984,8 +1982,8 @@ salgada.
 (470+571)	Rússia. Federação Russa.
       Antiga República Socialista Federativa Soviética da Rússia (RSFSR).
 (470)	Federação Russa na Europa.
-(470-25) Moscou. Moskva
-→ (571) Federaçãoa Russa na Ásia.
+<06>(470-25) Moscou. Moskva
+<09>(571) Federaçãoa Russa na Ásia.
 <09>Subdivisões auxiliares especiais
 (470.0)	Região de terras não-tchemoziom (terras não- negras) da Rússia. 
                                      Inclui (470.1/.319); (470.33/.345); (470.51/.54).
@@ -2001,12 +1999,12 @@ salgada.
 (470.22)	Carélia. República Carélia.
       Anteriormente Karel` skaia ASSR.
 (470.23)	Leningradskaia oblast'.
-(470.23-25) Sankt Peterburg. São Petersburgo
+<06>(470.23-25) Sankt Peterburg. São Petersburgo
 (470.24)	Novgorodskaia oblast'.
 (470.25)	Pskovskaia oblast'.
       Capital Pskov.
 (470.26)	Kaliningradskaia oblast`.
-→ (474) Estados bálticos
+<09>(474) Estados bálticos
 (470.3)	Região central da Rússia européia.
 (470.31)	Região industrial central da Rússia européia.
 (470.311)	Moscovskaia oblast'.
@@ -2034,7 +2032,7 @@ salgada.
 (470.333)	Brianskaia oblast'.
 (470.34)	Região do Volga-Vyatka.
 (470.341)	Nizhegorodskaia oblast'.
-(470.341-25) Nizhnii Novgorod
+<06>(470.341-25) Nizhnii Novgorod
 (470.342)	Kirovskaia oblast'.
 (470.343)	República Marii-El.
       Anteriormente Marüskaia ASSR.
@@ -2062,7 +2060,7 @@ salgada.
 (470.53)	Permskaia oblast'
 (470.531)		Komi-Permiatskii avtonomnyi okrug.
 (470.54/.56+58)    Zaural'e.
-                                 → (571) Federação Russa na Ásia
+<09>(571) Federação Russa na Ásia
 (470.54)	Sverdlovskaia oblast
 (470.55/.58)	Região dos Urais meridionais.
 (470.55)	Cheliabinskaia oblast'.
@@ -2071,10 +2069,10 @@ salgada.
 <09>Anteriormente Bashkirskaia ASSR.
 (470.58)	Kurganskaia oblast'.
 (470.6)	Cáucaso setentrional e baixo Don.
-→ (571) Federação Russa na Ásia
+<09>(571) Federação Russa na Ásia
 (470.61)	Rostovskaia oblast'. Baixo Don.
 (470.62/.67)	Cáucaso setentrional.
-→ (571) Federação Russa na Ásia
+<09>(571) Federação Russa na Ásia
 (470.62)	Kubanskaia oblast'. Região de Kuban'.
 (470.620)	Krasnodarskiikrai.
 (470.621)	Adygea. República Adyge.
@@ -2094,9 +2092,9 @@ salgada.
 (470.67)	Daguestão. República Daguestã.
       Anteriormente Dagestanskaia ASSR.
 (474)	Estados bálticos.
-→ (470.26) Kaliningradskaia oblast'.
+<09>(470.26) Kaliningradskaia oblast'.
 (474.2)                      Estônia. República da Estônia.. 
-                                         (474.2-25) Tallinn
+<06>(474.2-25) Tallinn
 (474.211)               Harjumaa.
 (474.212)                Lääne-Virumaa.
 (474.213)                 Ida-Virumaa
@@ -2116,7 +2114,7 @@ salgada.
 (474.3)                    Letônia. República da Letônia.
 (474.5)	                Lituânia. República da Lituânia.
 (475)	Polônia: período de dominação russa (da partilha até 1918).
-      → (438) Polônia. República Polonesa
+<09>(438) Polônia. República Polonesa
 (475.1)	Warszawa (Varsóvia).
 (475.2)	Kalisz.
 (475.3)	Kielce.
@@ -2169,7 +2167,7 @@ salgada.
 (478)	Moldova
 (479)	Cáucaso como um todo.
                                           Inclusive (460.62/.67) Cáucaso setentrional.
-                                   → (57) Antiga URSS asiática
+<09>(57) Antiga URSS asiática
 (479.2)	Zakavkaz'e. Transcaucásia.
 (479.22)	Geórgia. República da Geórgia. Sakartvelo.
 (479.223)	Adzhariia.
@@ -2184,7 +2182,7 @@ salgada.
 (479.243)	Nagorno-Karabakh.
 (479.25)	Armênia. Republica da Armênia. Hayastan.
 (48)	Estados escandinavos.
-→ (4-17) (Europa setentrional)
+<09>(4-17) (Europa setentrional)
 (480)	Finlândia. República da Finlândia. Suomi.
 <09>Forma finlandesa/sueca do nome
 (480*1/*9)	Divisão tradicional: províncias históricas de 1 a 9.
@@ -2309,8 +2307,8 @@ salgada.
 (485.88)	Norrbotten.
 (485.89)	Lappland (Lapônia sueca).
 (489)	Dinamarca. Reino da Dinamarca.
-                                  → (491.2) Faroes. As ilhas Faroes (Dinamarca) 
-                                  → (988) Groenlândia (Gronland (Dinamarca)
+<09>(491.2) Faroes. As ilhas Faroes (Dinamarca) 
+<09>(988) Groenlândia (Gronland (Dinamarca)
 (489.1)	Sjæland og Lolland-Falster.
 (489.10)	SjœUand.
 (489.11)	Hovedstadsområdet.
@@ -2335,7 +2333,7 @@ salgada.
 (489.51)	Arhusamt.
 (489.53)	Vejle amt
 (489.6)	Sonderjylland. Sonderjyllands amt.
-                                       (489.6:210.7FRI) As ilhas da Frísia setentrional
+<06>(489.6:210.7FRI) As ilhas da Frísia setentrional
 (489.7)	Bornholm. Bomholms amt.
 (491.1)	Islândia. República da Islândia.
       Indicar Syslur (divisões administrativas primárias): subdividir por meio de A/Z (Tabela 1h)
@@ -2536,21 +2534,21 @@ salgada.
 (496.574)	Sarandë.
 (497)	Estados balcânicos em geral.
 (497.1)	Iugoslávia (Jugoslavija). República Federal da Iugoslávia  -1991.
-                                →  (497.11+497.11)  Sérvia e Montenegro Srbija i Crna Gora
+<09>(497.11+497.11)  Sérvia e Montenegro Srbija i Crna Gora
 (497.11+497.16)		Sérvia e Montenegro. Srbija i Crna Gora.
 	     Conhecidos como Iugoslávia, 1991-2003.
 (497.11)                 Srbije (Sérvia).
 (497.113)	Vojvodina.
 (497.115)	Kosovo.
 (497.12)	Eslovênia. Slovenija, -1991.
-                                           → (497.4) Eslovênia. República da Eslovênia. Slovenija, -1991 
+<09>(497.4) Eslovênia. República da Eslovênia. Slovenija, -1991 
 (497.13)	Croácia. Hrvatska, -1991.
-                                           → (497.5) Croácia. República da Croácia. Hrvatska
+<09>(497.5) Croácia. República da Croácia. Hrvatska
 (497.15)	Bósnia e Herzegovina. Bosna i Hercegovina, -1991.
-→ (497.6) Bósnia-Herzegovina. República da Bósnia-Herzegovina. Bosna i Hercegovina.
+<09>(497.6) Bósnia-Herzegovina. República da Bósnia-Herzegovina. Bosna i Hercegovina.
 (497.16)	Crna Gora (Montenegro).
 (497.17)	          Macedônia.. Makedonija., -1991.
-              → (497.7) Macedônia. Antiga República da Macedônia. Makedonija.
+<09>(497.7) Macedônia. Antiga República da Macedônia. Makedonija.
 (497.2)	Bulgária. República da Bulgária.
 (497.21)	Bulgária setentrional.
 (497.211)	Varna.
@@ -2574,10 +2572,10 @@ salgada.
 (497.4)            	Eslovênia. República da Eslovênia. Slovenija, 1991-.
                                             A Eslovênia é dividida em 12 regiões administrativas (estatísticas) e em 193 
                                      municipalidades.(fonte: "Municipalities and statistical regions of Republic of Slovenia, 
-<06>1 January 2004", por  Geodetska uprava Republike Slovenije in Statisticni urad Republike 
+                                    1 January 2004", por  Geodetska uprava Republike Slovenije in Statisticni urad Republike 
                                     Slovenije 
                                     http://www.stat.si/doc/pub/slo_figures_04.pdf, p. 78)
-                    → (497.12) Eslovênia. Slovenija
+<09>(497.12) Eslovênia. Slovenija
 (497.41)		Regiões da Eslovênia norte-oriental.
 (497.411)                Pomurska, Murska Sobota (cidade)
                                      Classificar aqui: Prekmurje, Goricko.
@@ -2681,7 +2679,7 @@ salgada.
 (498.31)	Iasi.
 (498.32)	Covurlui. Galati.
 (498.4)                    Transylvania
-→ (439.21) Erdély (Transilvânia)
+<09>(439.21) Erdély (Transilvânia)
 (498.41)	Maramures (Maramaros). Sighet.
 (498.42)	Cojocna (Kolozs). Cluj (Kolozsvar/Klausenburg).
 (498.43)	Bihor. Oradea (Nagyvarad/Grosswardein).
@@ -2692,7 +2690,7 @@ salgada.
 (498.6)	Bukovina (até 1940). Bukovina meridional (a partir de 1940).
                                      (477.8) Ucrânia ocidental 
 (498.7)	Bessarábia (até 1940).
-→ (478) Móldova
+<09>(478) Móldova
 (498.71)	               Chisinau (atual Kishinev).
 (498.72)	Akkerman (atual Belgorod Dnestrovskiy).
 (498.8)	Dobrogea
@@ -2703,14 +2701,14 @@ salgada.
 
 <09>Subdivisões Auxiliares especiais
 <09>Classificar aqui também o Oriente em geral.
-(5-11)	Ásia oriental. Extremo Oriente. Inclusive (510) China. (512.317) Hong Kong. (512.318) Macau. (517.3)
+<06>(5-11)	Ásia oriental. Extremo Oriente. Inclusive (510) China. (512.317) Hong Kong. (512.318) Macau. (517.3)
 <09>Mongólia. (519.3) Coréia do Norte. (519.5) Coréia do Sul. (520) Japão. (529) Taiwan.
-(5-12)	Sudeste da Ásia. Inclusive (591) Mianmar. (592.3) Cingapura. (592.6) Brunei. (593) Tailândia. (594) Indonésia. (595) Malásia. ((596) Camboja. (597) Vietnã. (598) Laos. (599) Filipinas.
-(5-13)	Ásia meridional.
+<06>(5-12)	Sudeste da Ásia. Inclusive (591) Mianmar. (592.3) Cingapura. (592.6) Brunei. (593) Tailândia. (594) Indonésia. (595) Malásia. ((596) Camboja. (597) Vietnã. (598) Laos. (599) Filipinas.
+<06>(5-13)	Ásia meridional.
 <09>Inclusive (540) Índia. (541.31) Butão. (541.35) Nepal. (548.82) Maldivas. (548.7) Sri Lanka. (549.1) Paquistão. (549.3) Bangladesh.
-(5-15)	Ásia ocidental. Oriente Próximo e/ou Oriente Médio.
+<06>(5-15)	Ásia ocidental. Oriente Próximo e/ou Oriente Médio.
 <09>Inclusive (532) Arábia Saudita. (536.2) Emirados Árabes Unidos. (533/534) Iêmen. (535) Omã. (536.4) Qatar. (536.5) Bahrein, (536.8) Kuweit. (55) Irã. (564.3) Chipre. (567) Iraque. (569.1) Síria. (569.3) Líbano. (569,4) Israel. (569.5) Jordânia.
-(5-191.2)	Ásia central. Inclusive (574) Cazaquistão. (575.1) Uzbequistão. (575.2) Quirguízia. (575.3) Tadjiquistão. (575.4) Turcomenistão. (581) Afeganistão.
+<06>(5-191.2)	Ásia central. Inclusive (574) Cazaquistão. (575.1) Uzbequistão. (575.2) Quirguízia. (575.3) Tadjiquistão. (575.4) Turcomenistão. (581) Afeganistão.
 <09>Subdivisões auxiliares comuns
 (510)	China. República Popular da China.
 <09>Os nomes dos lugares são dados principalmente em transliteração Pinvin (se disponível) seguida por outras palavras, entre parênteses, com algum uso atual
@@ -2729,7 +2727,7 @@ salgada.
 (511.32)	Anhui (Anhwei). Inclusive Anqing (Anchintg, Anking,Huaining
 (511.33)	Jiangxi (Kiangsi). Inclusive Nanchang
 (512)	China sul-oriental.
-→(529) Taiwan. República da China
+<09>(529) Taiwan. República da China
 (512.1)	Min-Che.
 (512.11)	Fujian (Fuchien, Fukien). Inclusive Fuzhou (Fuchow, Foochowe
 (512.12)	Zhejiang (Chechiang. Chekiangi). Inclusive Hangzhou (Hiangchow)
@@ -2751,7 +2749,7 @@ salgada.
 (513.21)	Yunnan.
 (513.22)	Guizhou(Kueichow).
 (514)	China norte-ocidental
-→(516)  Xinjiang Uygur Zizhiqu. Região autônoma de Sinkiang Uighur
+<09>(516)  Xinjiang Uygur Zizhiqu. Região autônoma de Sinkiang Uighur
                                      (Turquestão chinês)
 (514.1)	Região de Shaan-Gan (Shen-kan).
 (514.11)	Shaanxi (Shensi).
@@ -2860,9 +2858,9 @@ salgada.
 (524.728)	Habomai e Shikotan (Sikotan).
 (527)	      Territórios insulares ao norte do território do Japão (até 1945).
 (527.1)	Curilas (Chishima-retto) (até 1945).
-                                  → 571.64) Sakhalinskaia oblast`
+<09>571.64) Sakhalinskaia oblast`
 (527.5)	Karafuto.
-                                     → 571.64) Sakhalinskaia oblast` 
+<09>571.64) Sakhalinskaia oblast` 
 (528)	Territórios insulares ao sul do território do Japão.
 (528.1)	Ogasawara-gunto (ilhas Bonin). Kazan-retto (ilhas Volcano).
 (528.3)	Ilhas Ryukyu.
@@ -2969,7 +2967,7 @@ salgada.
 (536.42)                 Al Ghuwariyah
 (536.43)                 Al Khawr (Al Khor)
 (536.44)                 Al Jumaliyah (Al Gummaylah, Al Jumayliyah). Dukhan. Inclusive Hawar Islands (disputadas)
-                                     → (536.552) Mintaqat Juzur Hawar (Ilhas de Huwar,  ilhas de Howar) (disputadas)
+<09>(536.552) Mintaqat Juzur Hawar (Ilhas de Huwar,  ilhas de Howar) (disputadas)
 (536.45)                 Umm Salal (Um Salal, Umm Salal)
 (536.46)                 Ar Rayyan
 (536.47)                 Ad Dawhah (Doha) (capital do estado)
@@ -2991,7 +2989,7 @@ salgada.
 (536.55)                 Governadoria meridional
 (536.551)               Ar Rifa' wa Mintaqah al Janubiyah (Rifaa, Rufaa, Rifa'a), Ar Rifa al Gharbi (capital)
 (536.552)                Mintaqat Juzur Hawar (Huwar Islands, Howar Islands) (disputed)
-                                     → (536.44) Al Jumaliyah (Al Gummaylah, Al Jumayliyah). Dukhan
+<09>(536.44) Al Jumaliyah (Al Gummaylah, Al Jumayliyah). Dukhan
 (536.553)                Al Mintaqah al Gharbiyah
 (536.554)                Madinat Hamat
 
@@ -3008,7 +3006,7 @@ salgada.
 <02>)                 Al Ahmadi 
 
 (54)		Estados do subcontinente indiano.
-                            → (54-076) Território disputado no Subcontinente indiano. Inclusive a região da Cachemira.
+<09>(54-076) Território disputado no Subcontinente indiano. Inclusive a região da Cachemira.
 (540)	Índia. República da Índia.
 (540.11/.73)	Estados e territórios unidos da Índia.
 (540.11)	Jammu e Cachemira.
@@ -3044,7 +3042,7 @@ salgada.
 (540.73)	Ilhas Andaman e Nicobar (território).
 (541)	índia oriental e Estados vizinhos.
 (541.2)	Bengala (histórica).
-→ (549.3) Bangladesh. República Popular de Bangladesh (Bangladesh. Gana Praja-tantri Bangladesh)
+<09>(549.3) Bangladesh. República Popular de Bangladesh (Bangladesh. Gana Praja-tantri Bangladesh)
 (541.31)	Butão. Reino do Butão. Druk-yul.
 (541.31A/Z)	Subdivisões administrativas do Butão. Inclusive Bumthang. Chirang. Chukha. Dagana. Gasa/Punakha. 
 	Gaylegphug. Ha. Lhuntsi. Mongar. Paro. Pema Gatshel. Samchi. Samdrup. Jonghkar. Shemgamg.
@@ -3054,7 +3052,7 @@ salgada.
 	Mechi. Marayani. Rapti. Sagarmatha. Seti
 (543)	Índia central.
 (544)	Madhya Bharat. Rajasthan.
-                                       → (540.25) Rajasthan
+<09>(540.25) Rajasthan
 (544.63)	Jaipur.
 (544.64)	Jodhpur.
 (544.65)	Bikaner.
@@ -3062,16 +3060,16 @@ salgada.
 (545)	índia setentrional.
 (545.2)	Punjab oriental (histórico).
                                        Atualmente dividido em Punjab e Haryana. O Punjab ocidental é parte do Paquistão (549.1)
-                                       → (540.15) Punjab
-→ (540.21) Haryana
+<09>(540.15) Punjab
+<09>(540.21) Haryana
 (545.3)	Uniào dos Estados do Punjab oriental e Patiala
 (PEPSU) (histórica).
 (547)	Índia ocidental.
 (547.1)	Estado de Bombaim. Presidência de Bombaim
 (histórica).
                                      Atualmente dividido em Gujarat e Maharashtra
-                                    → (540.51) Gujarat
-                                     → (540.53) Maharashtra
+<09>(540.51) Gujarat
+<09>(540.53) Maharashtra
 (548)	Índia meridional e ilhas adjacentes.
 (548.23)	Andhra Desha.
 
@@ -3122,7 +3120,7 @@ salgada.
 (549)	            Paquistão (1947-1971).
 (549.1)	Paquistão. República Ismâmica do Paquistão. Islam-i Jamhuriya-e
 <09>Paquistan, 1971-
-                                    (549.1-076) Território disputado, sob o controle do Paquistão. Inclusive: Azad Kashmir. Áreas
+<06>(549.1-076) Território disputado, sob o controle do Paquistão. Inclusive: Azad Kashmir. Áreas
                                     setentrionais.
 (549.14)                 Província Fronteiriça do Noroeste. Inclusive Peshawar (capital provincial)
 (549.15)                Áreas tribais de administração federal.
@@ -3308,7 +3306,7 @@ arqueológico).
 (569.36)                  Líbano meridional (Sayda). Inclusive Jezzine. Saida (Sidon). Sour (Tiro)
 (569.4)	Israel. Estado de Israel.
       Palestina até 1948.
-      (569.4-076) Territórios disputados relacionados com Palestina e Israel. 
+<06>(569.4-076) Territórios disputados relacionados com Palestina e Israel. 
       Inclusive: Faixa de Gaza. Banco ocidental da Jordânia.
 (569.44)	Distrito de Jerusalém.
 (569.441)	Subdistrito de Jerusalém.
@@ -3351,11 +3349,11 @@ arqueológico).
 (569.524)               Aqaba. Inclusive Rum.
 
 (57)	Ex-URSS asiática.
-→ (47)Ex-URSS européia
+<09>(47)Ex-URSS européia
 (571)	Federação Russa na Ásia.
-                                      → (470) Federação Russa na Europa
-                                      → (470.54/.56+470.58) Zaural'e
-                                       → (470.62/.67) Cáucaso setentrional
+<09>(470) Federação Russa na Europa
+<09>(470.54/.56+470.58) Zaural'e
+<09>(470.62/.67) Cáucaso setentrional
 (571.1/.5)       •       Sibir`. Sibéria.
 (571.1)	Sibéria ocidental.
 (571.12)	Tiumenskaia oblast`
@@ -3365,7 +3363,7 @@ arqueológico).
 (571.14)	Novosibirskaiaobiasf.
 (571.15)		Altai.
 (571.150)	'         Altaiskii krai.
-(571.150-25) Barnaul
+<06>(571.150-25) Barnaul
 (571.151)	República de Altai.
 (571.16)	Tomskaia oblast`.
 (571.17)	Kemerovskaia oblast`.
@@ -3388,19 +3386,19 @@ arqueológico).
 (571.568)                Novosibirskiye Ostrova.
 (571.6)	Extremo oriente russo.
 (571.61)	Amurskaia oblast`.
-(571.61-25) Blagoveshchensk
+<06>(571.61-25) Blagoveshchensk
 (571.62)	Khabarovskii krai e Evreiskaia avtonomaia oblast`.
 (571.620)	khabarovskii krai.
 (571.621)	Evreiskaiaavtonomnaia oblast`. Oblast autônomo judaico.
 (571.63)	Primorskii krai.
-(571.63-25) Vladivostok
+<06>(571.63-25) Vladivostok
 (571.64)	Sakhalinskaia oblasf.
-(571.64-25) Iuzhno-Sakhalinsk
+<06>(571.64-25) Iuzhno-Sakhalinsk
 (571.65)	Magadanskaia oblast`.
 (571.651)               Chukotskii avtonomnyi okrug.
 (571.651.8)	Ostrov Vrangelya (ilha de Wrangel).
 (571.66)	Kamchatskaia oblast'.
-(571.66-25) Petropavlovsk-Kamchatski
+<06>(571.66-25) Petropavlovsk-Kamchatski
 (571.661)	Koriakskii natsional' nyi okrug.
 
 (574)	Cazaquistão. República do Cazaquistão
@@ -3546,9 +3544,9 @@ arqueológico).
 (592.36)		City.
 (592.38)		Katong.
 (592.4)                   Ilha Christmas (Austrália).
-                                    → (948) Ilhas remotas da Austrália
+<09>(948) Ilhas remotas da Austrália
 (592.5)                   Ilhas Cocos (Ilhas Keeling) (Austrália).
-                                    → (948) Ilhas remotas da Austrália
+<09>(948) Ilhas remotas da Austrália
 (592.6+594.1	Bornéu.
 +595.41/.43)
 (592.6)	Brunei. Estado de Brunei Darussalam.
@@ -3930,18 +3928,18 @@ arqueológico).
 (6=111) África anglófona 
        (6=133.1) África francóFona
 <09>Subdivisões auxiliares especiais
-(6-11)	África oriental. Inclusive (676.1) Uganda. (676.2) Quênia. (678) Tanzânia.
-(6-13)	África meridional. Inclusive (673) Angola. (679) Moçambique. (680) África do Sul. (688.1) 
+<06>(6-11)	África oriental. Inclusive (676.1) Uganda. (676.2) Quênia. (678) Tanzânia.
+<06>(6-13)	África meridional. Inclusive (673) Angola. (679) Moçambique. (680) África do Sul. (688.1) 
                                  Namíbia. (688.3) Botsuana. (688.5) Lesoto. (688.7) Suazilândia.
-(6-15)	África ocidental. Inclusive (661.1) Mauritânia. (662.2). Mali. (662.5) Burkina Fasso. (662.6) 
+<06>(6-15)	África ocidental. Inclusive (661.1) Mauritânia. (662.2). Mali. (662.5) Burkina Fasso. (662.6) 
                                 Níger. (663) Senegal. (664) Serra Leoa. (665.1) Gâmbia. (665.2) Guiné. (665. 7) Guiné Bissau.
                                 (665.8) Cabo Verde. (666.2) Libéria. (666.8) Costa do Marfim. (66y) Gana. (668.1) Togo. (668.2) 
                                 Benin. (669) Nigéria. (669.95) São Tome e Príncipe. (671.1).  Camarões (671.8). Guiné Equatorial. 
                                  (699.2) St. Helena e dependências.
-(6-17)	África setentrional. Inclusive (611) Tunísia. (612) Líbia. (620) Egito. (64) Marrocos. (65) Argélia.
-(6-18)	Nordeste da África. Inclusive (642) Sudão. (63) Etiópia. (635) Eritréia. (677) Somália. (677.l) 
+<06>(6-17)	África setentrional. Inclusive (611) Tunísia. (612) Líbia. (620) Egito. (64) Marrocos. (65) Argélia.
+<06>(6-18)	Nordeste da África. Inclusive (642) Sudão. (63) Etiópia. (635) Eritréia. (677) Somália. (677.l) 
                                  Djibuti.
-(6-191.2)	África central. Inclusive (672.1) Gabão. (672.4) Congo. (673.13) Zaire. (674.1) República Centro-
+<06>(6-191.2)	África central. Inclusive (672.1) Gabão. (672.4) Congo. (673.13) Zaire. (674.1) República Centro-
                                 Africana. (674.3) Chade. (675.97) Burundi. (675.98) Ruanda. (689.1) Zimbábue. (689.4) Zâmbia. 
                                 (689.7) Malavi.
 <09>Subdivisões auxiliares comuns
@@ -4157,8 +4155,8 @@ em prefeituras e províncias. As prefeituras tendem a ser as divisões mais urba
 
 (647)	Possessões espanholas da costa norte da África (históricas).Inclusive
 <09>Albucemas. Ceuta. Chafarinas. Melilla. Penon de Velez de la Gomera.
-      → (460.37) Ceuta
-     → (460.38) Melilla
+<09>(460.37) Ceuta
+<09>(460.38) Melilla
 
 (648)	Possessões espanholas na África ocidental (históricas).
 <09>Ver notas em Marrocos (64) com relação ao Saara ocidental (anteriormente Saara Espanhol) e Sidi Ifni.

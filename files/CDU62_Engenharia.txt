@@ -1,7 +1,8 @@
-﻿                        62 Engenharia. Tecnologia em geral
+﻿<01>62
+<02>Engenharia. Tecnologia em geral
 
 Subdivisões auxiliares especiais
-62-1/-9 Características e detalhes das máquinas, equipamento, aparelhagem, processos e produtos
+<09>62-1/-9 Características e detalhes das máquinas, equipamento, aparelhagem, processos e produtos
 Características e detalhes de máquinas, equipamentos, instalações, processos e produtos
 O termo “máquina” é empregado em 62-1/-9 por amor à brevidade para incluir quaisquer instrumentos, equipamentos e instalações e seus componentes
 Os auxiliares –9 estão listados em 66-9...
@@ -946,7 +947,7 @@ do controlador.
 de ação-D).
 62-551.452	Controladores proporcionais-derivados
 (controladores - PD).
-62-55l.453	Controladores integrais-derivados
+62-551.453	Controladores integrais-derivados
 (controladores-ID).
 62-551.454	Controladores proporcionais-integrais-
 derivados (controladores - PID).
@@ -1840,7 +1841,7 @@ aspereza de superfícies.
 620.179.141	Ensaios de pó magnético. Detecção de defeitos
 com partículas magnéticas.
 Exemplo(s) de combinação(ões):
-620.179.14l:620.l91.33 Detecção de rachaduras com pó magnético
+620.179.141:620.191.33 Detecção de rachaduras com pó magnético
 620.179.142            Ensaios por medição do fluxo magnético.
 620.179.143            Técnica de sonda magnética. Técnica de
 vazamento magnético.
@@ -3986,7 +3987,7 @@ Comutação. Interrupção de circuito. Proteção.
 Os auxiliares .051... e.052... podem ser usados em 621.316.1, substituindo-se 'distribuição’ 'por 'transmissão' nos textos .051/.052:
 Indicar o tipo de corrente por meio de .02... 
 Exemplo(s) de combinação(ões):
-621.316. l .024 Redes de corrente direta
+621.316.1.024 Redes de corrente direta
 621.316.1.025 Redes de corrente alternada
                                         → 621.311.1 Redes de abastecimento de energia elétrica do
 ponto de vista da distribuição. Redes regionais. 

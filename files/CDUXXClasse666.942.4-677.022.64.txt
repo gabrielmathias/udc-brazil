@@ -2,7 +2,7 @@
 Cimentos Portland ricos em óxido de manganês,
 666.942.5	Cimento Portland rico em argila, rico em
  alumina
--> 666.948Cimentos com alto teor de alumina
+-> 666.948 Cimentos com alto teor de alumina
 666.942.6	Cimento Portland rico em sílica.
 666.942.7	Cimento Portland rico em argila. Outros
 cimentos Portland ricos em cal. Cimento
@@ -992,7 +992,7 @@ Subdivisões auxiliares especiais
 669.09	Outros processos metalúrgicos.
 Subdividir como em 66.09... 
 Exemplo(s) de combinação(ões):
-669.094. l Redução de metais em geral. Hidrogenação
+669.094.1  Redução de metais em geral. Hidrogenação
 669.094.22	Redução com uso de carvão, coque e outras substâncias com alto teor de carbono
 669.094.23	Redução usando metais em geral (p.ex.,com alumínio. Aluminotermia, processo de termite)
 Divisões principais
@@ -1180,7 +1180,7 @@ Número de alcaravizes e de alcaravizes de
 emergência
 669.162.23	Aquecimento do jato de ar. Fornos de jato de ar
 quente.
-669.162.23l	             Fornos de tijolo com aquecimento intermitente.
+669.162.231	             Fornos de tijolo com aquecimento intermitente.
 669.162.232	Fornos de ferro fundido de jato de ar quente.
 669.162.233	Fornos de tubos contínuos.
 669.162.236	Equalizadores.
@@ -1409,7 +1409,7 @@ Divisões principais
 669.187.24	Tetos e revestimentos de forno. Lancetas para
 injeção de oxigênio.
 669.187.25	Processos de fusão.
--> 669.046Processos e instalações térmicas na metalurgia. Processos de aquecimento e 
+-> 669.046 Processos e instalações térmicas na metalurgia. Processos de aquecimento e 
                                   fusão
 669.187.28	Escórias da eletrossiderurgia.
 669.187.3	eletrofornos de aço ácido. Processo elétrico
@@ -1789,7 +1789,7 @@ Somente do ponto de vista de sua influência sobre os metais e ligas. Classifica
 669.872	Índio.
 669.873	Tálio.
 669.88	Metais alcalinos.
--> 661.3Produção de solda e potassa, de álcalis
+-> 661.3 Produção de solda e potassa, de álcalis
 669.882	Potássio.
 669.883	Sódio.
 669.884	Lítio.
@@ -1819,7 +1819,7 @@ materiais.
 67.04	Materiais complementares.
 67.05	Máquinas. Instalações. Ferramentas.
 -> 621.7 Tecnologia mecânica em geral: processos, ferramentas, máquinas, equipamento
--> 621.9Trabalho ou usinagem com formação de cavacos, aparas. Usinagem com abrasivos. Martelos e prensas
+-> 621.9 Trabalho ou usinagem com formação de cavacos, aparas. Usinagem com abrasivos. Martelos e prensas
 67.06	Produtos.
 67.08	Subprodutos. Refugos, resíduos.
  
@@ -1879,12 +1879,12 @@ Subdivisões auxiliares especiais
 Divisões principais
 671.41	Moedas.
 671.411/.418              Moedas de metal.
-671.41l/.4l8 dividido como 669.l/.8
+671.411/.418 dividido como 669.l/.8
 671.412.1	Moedas de ouro.
 671.419	Moedas não-metálicas.
 671.42	Medalhas. Medalhões. Placas.
 Plaquetas.
-67l.42 dividido como 67l.4
+671.42 dividido como 671.4
 -> 355.134.2 Insígnias. Distintivos de honra. Honras militares
 -> 671.128 Distintivos e condecorações semelhantes
 
@@ -2162,7 +2162,7 @@ Máquinas para trabalho em madeira.
                         	      -> 621.93 Serras, serração e técnicas semelhantes de corte
                                        -> 621.968 Máquinas e utensílios para fender, rachar e separar
                                        -> 621.342 Ferramentas de corte
-                                       -> 672.719Outros instrumentos de corte
+                                       -> 672.719 Outros instrumentos de corte
 674.054	Ferramentas, máquinas para entalhar, escavar. Inclusive Cinzéis. Goivas.
       -> 621.911.7 Cinzéis para trabalhar madeira. Formões. Goivas
 674.055	Ferramentas, máquinas para raspar, limar, perfurar. Inclusive Limas, grosas, . Brocas. Braçadeiras,
@@ -2677,7 +2677,7 @@ refugos de lã,
 -> 677.3 Fibras animais 
 675.84	Indústria de processamento dos refugos de penas.
       -> 637.63 Penas. Lanugem. Peles de pássaros
-      -> 677.3Fibras animais
+      -> 677.3 Fibras animais
 675.85	Indústrias baseadas no processamento dos
 refugos de tecidos moles (vísceras, etc.). Inclusive Processamento de sangue, intestinos, gordura.
       -> 637.661/.663

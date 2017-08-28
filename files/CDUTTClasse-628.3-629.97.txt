@@ -295,7 +295,7 @@ com terra (privadas de terra), etc.
 628.427	Coleta, transporte e destino dado aos
 excrementos.
 628.46	Limpeza urbana. Coleta e remoção de lixo.
-Indicar equipamentos e veículos por meio de :62l.6... e :629...
+Indicar equipamentos e veículos por meio de :621.6... e :629...
 628.462	Limpeza urbana. Limpeza de ruas. Inclusive
 Varredura de vias públicas. Irrigação de vias
 públicas. Borrifamento, aspersão.
@@ -822,7 +822,7 @@ amortecimento de choques. Rodas, etc.
 629.028	Acessórios. Acoplamentos. Suportes e outras
 estruturas auxiliares.
 629.03	Sistemas de propulsão.
-Especificar por meio de -8..., de 62-8 e/ou :62l...
+Especificar por meio de -8..., de 62-8 e/ou :621...
       -> 629.026 Disposição das estruturas da unidade de propulsão
 629.031	Sistemas de propulsão que utilizam forças
 musculares e naturais.

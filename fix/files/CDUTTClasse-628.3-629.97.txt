@@ -1,6 +1,6 @@
 ﻿<01>628.3
 <02>Esgotos. Tratamento, eliminação, utilização de águas de esgoto.
-<06>628.3.0 dividido como 66.0 
+      628.3.0 dividido como 66.0 
 <09>628.4 Higiene urbana. Resíduos. Lixo. Coleta e destino do lixo urbano
 <09>Subdivisões auxiliares especiais
 
@@ -174,9 +174,9 @@ dado ao lodo, sedimento lodoso.
 <01>628.336.4
 <02>Desidratação e filtração do lodo. Inclusive leitos
 de secagem.
-<06>628.336.4.047 Secagem por calor 
-<06>628.336.4.067.1 Filtração. Filtros 
-<06>628.336.4.067.5 Centrifugação
+      628.336.4.047 Secagem por calor 
+      628.336.4.067.1 Filtração. Filtros 
+      628.336.4.067.5 Centrifugação
 
 <01>628.336.5
 <02>Digestão do lodo. Tanques de metano.
@@ -306,12 +306,8 @@ gotejantes. Biofiltros de gotejamento.
 
 <01>628.353.12
 <02>Carga do biofiltro.
-
-<01>628.353.12
-<02>-189.2 Dosagem 
-
-<01>628.353.12
-<02>-531.3 Controle, regulagem da admissão
+<06>628.353.12-189.2 Dosagem 
+<06>628.353.12-531.3 Controle, regulagem da admissão
 
 <01>628.353.13
 <02>Aplicação de águas de esgoto ao leito de filtro.
@@ -587,7 +583,7 @@ excrementos.
 
 <01>628.46
 <02>Limpeza urbana. Coleta e remoção de lixo.
-<09>Indicar equipamentos e veículos por meio de :62l.6... e :629...
+<09>Indicar equipamentos e veículos por meio de :621.6... e :629...
 
 <01>628.462
 <02>Limpeza urbana. Limpeza de ruas. Inclusive
@@ -729,7 +725,7 @@ para eliminação da escória,
 
 <01>628.475.7
 <02>Usina de gaseificação.
-<06>628.475.7 dividido como 628.474.7
+      628.475.7 dividido como 628.474.7
 
 <01>628.477
 <02>Aproveitamento do lixo e resíduos tratados e não-tratados.
@@ -1601,7 +1597,7 @@ estruturas auxiliares.
 
 <01>629.03
 <02>Sistemas de propulsão.
-<09>Especificar por meio de -8..., de 62-8 e/ou :62l...
+<09>Especificar por meio de -8..., de 62-8 e/ou :621...
 <09>629.026 Disposição das estruturas da unidade de propulsão
 
 <01>629.031
@@ -2082,9 +2078,7 @@ testes.
 <09>674.25 Marcenaria de veículos. Marcenaria de construção de carruagens
 <09>Os motores estão em 621
 <09>As partes não relacionadas em 629.3.0  podem ser indicadas pelos auxiliares -1/-9 (de 62-1/-8 e 66-9) em combinação com .02 ou suas subdivisões 
-
-<01>629.3.02
-<02>-59 Dispositivos de frenagem
+<06>629.3.02-59 Dispositivos de frenagem
 
 <01>629.3.021
 <02>Princípios e propriedades da construção (do
@@ -2167,9 +2161,7 @@ sapatas, etc.
 
 <01>629.3.023.2
 <02>Corpo e componentes de construção do corpo.
-
-<01>629.3.023.2
-<02>-036.5/.8 Corpo de material sintético
+<06>629.3.023.2-036.5/.8 Corpo de material sintético
 
 <01>629.3.023.21
 <02>Estrutura do corpo como um todo.
@@ -2198,9 +2190,7 @@ conversíveis.
 <01>629.3.023.26
 <02>Janelas. Pára-brisas. Vidraças de janela.
 <09>Acessórios de janelas..
-
-<01>629.3.023.26
-<02>-787.3 Limpadores de pára-brisas
+<06>629.3.023.26-787.3 Limpadores de pára-brisas
 
 <01>629.3.023.27
 <02>Peças de conexão do piso. Plataformas.
@@ -2309,7 +2299,7 @@ de choque. Rodas, etc.
 
 <01>629.3.027.2
 <02>Mecanismo de direção.
-<06>629.3.027.2 dividido como 621.83
+      629.3.027.2 dividido como 621.83
 
 <01>629.3.027.233.8
 <02>Direção de parafuso sem fim.
@@ -2657,7 +2647,7 @@ contato exceto rodas, p. ex. esteira.
 
 <01>629.3.035
 <02>Propulsão a hélice.
-<06>629.3.035 dividido como 629.7.035
+      629.3.035 dividido como 629.7.035
 
 <01>629.3.036
 <02>Propulsão a reação ou a jato.
@@ -3131,8 +3121,8 @@ com pedal
 <01>629.322
 <02>Veículos de pedal em geral. Bicicletas.
 	      Indicar os veículos de pedal, exceto os de duas rodas,  por meio de .022.4...
-<06>629.322.022.41 Monociclos
-<06>629.322.022.43 Triciclos
+                                      629.322.022.41 Monociclos
+                                     629.322.022.43 Triciclos
 
 <01>629.322.2
 <02>Veículos de pedal de passeio e esporte.
@@ -3746,7 +3736,7 @@ tração a cabo). Propulsão por parafuso sem fim
 
 <01>629.4.035
 <02>Propulsão por hélice.
-<06>629.4.035 dividido como 6297.035
+      629.4.035 dividido como 6297.035
 
 <01>629.4.036
 <02>Propulsão por pressão de reação.
@@ -3881,7 +3871,7 @@ repetição mostrados na locomotiva.
 
 <01>629.4.054
 <02>Instrumentos instalados no veículo.
-<06>629.4.054 dividido como 629.3.054
+      629.4.054 dividido como 629.3.054
 
 <01>629.4.054.2
 <02>Instrumentos para monitorização dos
@@ -3947,9 +3937,7 @@ ferroviários.
 <01>629.4.067.3
 <02>Dispositivos de segurança, de monitoramento 
 automático.
-
-<01>629.4.067.3
-<02>-783.52 Dispositivos de frenagem automática de emergência. Manipulador de interrupção automática
+<06>629.4.067.3-783.52 Dispositivos de frenagem automática de emergência. Manipulador de interrupção automática
 
 <01>629.4.067.4
 <02>Dispositivos antiderrapantes que atuam sobre as rodas.
@@ -4136,7 +4124,7 @@ reservatórios de vapor.
 
 <01>629.423.1
 <02>Tipos diversos de locomotivas elétricas.
-<06>629.423.1dividido como 629.421
+      629.423.1dividido como 629.421
 
 <01>629.423.2
 <02>Vagões, carros elétricos de autopropulsão. Trens
@@ -4164,13 +4152,11 @@ transmissão. Sistemas de conversão de força.
 <01>629.424
 <02>Tração ferroviária por motor de combustão
 interna. Tração ferroviária a óleo diesel.
-
-<01>629.424
-<02>-82 Motores de tração hidráulica a óleo diesel
+<06>629.424-82 Motores de tração hidráulica a óleo diesel
 
 <01>629.424.1
 <02>Tipos diversos de locomotivas diesel.
-<06>629.424.1 dividido como 629.421
+      629.424.1 dividido como 629.421
 
 <01>629.424.2
 <02>Carros, vagões diesel de auto-propulsão. Trens
@@ -4196,7 +4182,7 @@ interna exceto diesel.
 <01>629.426
 <02>Locomotivas com motores de turbinas a gás.
 <09>621.438 Turbinas de combustão. Turbinas a gás. Turbinas a óleo
-<06>629.426 dividido como 629.421
+ 629.426 dividido como 629.421
 
 <01>629.427
 <02>Vagões abertos e troles motorizados. Carros
@@ -5705,7 +5691,7 @@ determinados tipos de navio.
 
 <01>629.5.054
 <02>Instrumentos a bordo.
-<06>629.5.054.03 Instrumentos para sistemas de propulsão (usina de força)
+                                       629.5.054.03 Instrumentos para sistemas de propulsão (usina de força)
 
 <01>629.5.058
 <02>Características operacionais dos sistemas e instrumentos.
@@ -5869,7 +5855,7 @@ comunicação e identificação.
 <02>Equipamento visual.
 <06>629.5.066.34:683.8 Lâmpadas de sinalização. Luzes de sinalização
 <06>629.5.066.34:929.4 Bandeiras, flâmulas
-<06>629.5.066.34:929.929:003.292.6SEM Semáforo
+<06>929.929:003.292.6SEM Semáforo
 
 <01>629.5.066.347
 <02>Equipamento para foguetes e clarões de sinalização. 
@@ -6071,9 +6057,7 @@ navios.
 
 <01>629.5.081.326
 <02>Cais secos flutuante.
-
-<01>629.5.081.326
-<02>-214.3 Cais secos flutuantes seccionais
+<06>629.5.081.326-214.3 Cais secos flutuantes seccionais
 
 <01>629.5.081.328
 <02>Equipamento e maquinaria para diques secos.
@@ -7056,9 +7040,7 @@ roda e truque.
 <02>Trens de pouso especiais. Inclusive Acessórios
 especiais, amortecedores de choque para
 trens de pouso.
-
-<01>629.7.027.24
-<02>-182.8 Trens de pouso destacáveis 
+<06>629.7.027.24-182.8 Trens de pouso destacáveis 
 
 <01>629.7.027.24.021.6
 <02>Trens de pouso retráteis
@@ -7142,7 +7124,7 @@ naturais, força muscular, etc.
 
 <01>629.7.035.3
 <02>Propulsão por hélice e turbomotor.
-<06>629.7.035.35/.37 dividido como 629.7.035.5/.7  
+                      629.7.035.35/.37 dividido como 629.7.035.5/.7  
 
 <01>629.7.035.35
 <02>Propulsão por turbina. Turbopropulsão.
@@ -7336,7 +7318,7 @@ acoplamento.
 
 <01>629.7.054
 <02>Instrumentos a bordo.
-<06>629.7.054 dividido como 629.3.054
+      629.7.054 dividido como 629.3.054
 
 <01>629.7.054.2
 <02>Instrumentos para monitorar o mecanismo de
@@ -7554,7 +7536,7 @@ operacionais), inclusive desempenho.
 
 <01>629.7.072
 <02>Operações de pilotagem, navegação em geral. Inclusive Vôos de teste, vôos de prova. Treinamento.
-<06>629.7.072 dividido como 656.052,  exceto 656.052.5
+       629.7.072 dividido como 656.052,  exceto 656.052.5
 
 <01>629.7.072.116
 <02>Fixação de posição em aeronave.
@@ -7814,7 +7796,7 @@ foguetes e mísseis. Inclusive 'Estrados voadores.' Plataforma voadora.
 <01>629.76
 <02>Engenharia de foguetes e mísseis.
 <09>Foguetes. Mísseis.
-<06>629.76.038 Foguetes e mísseis (de propulsão) com estágios múltiplos
+                                       629.76.038 Foguetes e mísseis (de propulsão) com estágios múltiplos
 <09>621.454 Foguetes químicos
 
 <01>629.762

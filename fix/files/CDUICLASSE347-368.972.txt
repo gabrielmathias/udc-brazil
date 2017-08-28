@@ -132,7 +132,7 @@ judiciais.
 
 <01>347.132.142
 <02>Ações inadmissíveis.
-      ->347.51 Responsabilidade civil em geral
+<09>347.51 Responsabilidade civil em geral
 
 <01>347.132.144
 <02>Ações penais.
@@ -148,7 +148,7 @@ emergência.
 <02>Transações legais. Declaração de intenção.
 <09>Essentia naturalia, accidentalia negotii.
 <09>Interpretação. Imprecisão.
-<06>347.132.6 dividido como 347.441 
+      347.132.6 dividido como 347.441 
 
 <01>347.133
 <02>Tipos de ação jurídica.
@@ -1375,7 +1375,7 @@ móveis. Inclusive Por veículos.
 <02>Atos ilegais e ofensivos específicos. Delitos
 que não se classificam em outro lugar. 
       Muitos atos que constituem ou podem causar danos aparecem em outros lugares em 34. P .ex.:  invasão de domicílio em
-<06>343.44 e calúnia em 343.63. Se necessário, reunir aqui por meio da combinação com dois pontos
+      343.44 e calúnia em 343.63. Se necessário, reunir aqui por meio da combinação com dois pontos
 
 <01>347.55
 <02>Quase-contratos. Obrigação implícita.
@@ -1744,19 +1744,19 @@ empresas.
 <01>347.728.1
 <02>Contas. Livros contábeis. Balanços.
 <09>Inventários. Contas de lucros e perdas. Reservas. Avaliações. Anulação de perdas.
-<06>347.728.1.028 Publicação de contas, balanço demonstrativo de lucros e perdas da empresa
-<06>347.719 Contabilidade comercial. Livros, inventários, balanços
+      347.728.1.028 Publicação de contas, balanço demonstrativo de lucros e perdas da empresa
+      347.719 Contabilidade comercial. Livros, inventários, balanços
 <09>657 Contabilidade
-<06>347.728. l .028 Publicação de contas, balanço, demonstrativos de lucros e perdas da empresa
+      347.728. l .028 Publicação de contas, balanço, demonstrativos de lucros e perdas da empresa
 
 <01>347.728.2
 <02>Ações.
-<06>347.728.2 dividido como 336.763.2 
+      347.728.2 dividido como 336.763.2 
 <09>347.72.032 Natureza social da empresa
 
 <01>347.728.3
 <02>Debêntures. Obrigações ao portador.
-<06>347.728.3 dividido como 336.763.3 
+      347.728.3 dividido como 336.763.3 
 
 <01>347.728.4
 <02>Emissões públicas. Venda de certificados de
@@ -1775,7 +1775,7 @@ empréstimo. Ágio.
 <01>347.73
 <02>Instituições comerciais. Direito financeiro.
 
-<01>347.73l
+<01>347.731
 <02>Instituições intermediárias entre produtores e
 consumidores,  inclusive para proteção de seus
 interesses.
@@ -2213,10 +2213,10 @@ forçada.
 <06>347.793:331.106 Contratos de trabalho. Engajamento
 <06>347.793:355.054.1 Capitão naval
 <06>347.793:355.055 Oficiais navais inferiores
-<06>347.793:355.058:61-051 Médicos navais. Oficiais-médicos navais
-<06>347.793:61-051 Médicos do navio em geral
+<06>61-051 Médicos navais. Oficiais-médicos navais
+<06>61-051 Médicos do navio em geral
 <06>347.793:656.071.4 Pessoal baseado em terra
-<06>347.793:656.071.7-051 Pilotos
+<06>656.071.7-051 Pilotos
 <06>347.793-057.17 Capitão. Comandante
 <06>347.793-057.175 Oficiais. Marinheiros. Pessoal de serviço
 <06>347.793-057.2 Tripulação
@@ -2325,7 +2325,7 @@ aéreo.
 <01>347.823.21
 <02>Aeroportos. Regulamentos de aeroportos.
 <09>Pessoal de aeroporto. Pessoal de terra. Inclusive Aeródromos. Campos de aviação. Pistas de aterrissagem. Lugares para a prática de vôo com planador.
-<06>347.823.21:656.071.4-051 Pessoal de terra
+<06>656.071.4-051 Pessoal de terra
 
 <01>347.823.3
 <02>Aeronave. Inclusive Situação legal. Tipos de aeronave.
@@ -2794,7 +2794,7 @@ exigidas.
 
 <01>347.963
 <02>Promotores públicos.
-<06>347.963 dividido como 347.962 
+      347.963 dividido como 347.962 
 <09>343.163 Promotores públicos e pessoal auxiliar
 
 <01>347.964
@@ -2802,7 +2802,7 @@ exigidas.
 
 <01>347.964.1
 <02>Advogados. Procuradores.
-<06>347.964.1 dividido como 347.961 
+      347.964.1 dividido como 347.961 
 
 <01>347.964.2
 <02>Funcionários da corte. Escrivães.
@@ -2976,8 +2976,8 @@ e cortes especiais ou extraordinárias.
       número da religião, acrescentando os auxiliares com hífen apropriados.
 <09>Se se preferir, obras sobre direito religioso e direito canônico podem ser classificadas aqui, indicando-se os  detalhes por meio da combinação com dois pontos
 <09>Seguir consistentemente uma ou outra das opções
-<06>348:272-74 Direito canônico da Igreja Católica Romana
-<06>348:273.4-74 Direito canônico da Igreja Anglicana, Igreja da Inglaterra
+<06>272-74 Direito canônico da Igreja Católica Romana
+<06>273.4-74 Direito canônico da Igreja Anglicana, Igreja da Inglaterra
 <06>348:347 Relação entre o direito canônico e o direito civil
 <09>2-74-67 O direito religioso e o direito da terra
 
@@ -3225,7 +3225,7 @@ no direito civil.
 
 <01>35.073.512
 <02>Patrimônio em imóveis. Direitos reais.
-<06>35.073.512 dividido como 347.2 
+      35.073.512 dividido como 347.2 
 
 <01>35.073.513
 <02>Locação. Aluguel.
@@ -3718,8 +3718,8 @@ fiscal, impostos, taxas.
 
 <01>351.72
 <02>Finanças públicas. Legislação financeira.
-      ->336.1 Finanças públicas, finanças do governo em geral
-      ->346.62 Regulamentação das finanças, créditos e contas
+<09>336.1 Finanças públicas, finanças do governo em geral
+<09>346.62 Regulamentação das finanças, créditos e contas
 
 <01>351.74
 <02>Polícia. Observância pública das leis.
@@ -3797,7 +3797,7 @@ marítima. Guarda costeira.
 <01>351.751
 <02>Manutenção da liberdade civil, liberdade de
 pensamento, liberdade de expressão, liberdade de imprensa.
-<06>342.732 Liberdade de imprensa
+       342.732 Liberdade de imprensa
 
 <01>351.751.5
 <02>Censura. imprimatur. Permissão para publicar.
@@ -4609,7 +4609,7 @@ e da indústria.
 <01>351.83
 <02>Administração pública de mão-de-obra e
 emprego. Fiscalização da legislação social.
-<06>351.83.072.6 Inspeção das condições de trabalho. Fiscalização de fábricas
+      351.83.072.6 Inspeção das condições de trabalho. Fiscalização de fábricas
 <09>Fiscalização das condições de trabalho. Superintendência da fábrica
 <09>331 Trabalho. Emprego. Economia do trabalho. Organização do trabalho
 <09>342.734 Direito do trabalho. Direito ao bem-estar social
@@ -4783,15 +4783,15 @@ primeiro grau. Governo local, municipal. Administração municipal. Autoridades,
 <06>352:351.88 Relações internacionais no nível da autoridade local, municipal. Cidades
         gêmeas NOTA: especificar por meio da Tabela 1e, p. ex:
 <06>352:351.88(410.188COV:430.24DRE) Coventry e Dresden como cidades gêmeas
-<06>352.07 Estruturas das administrações municipais. Autoridades e instituições de governo municipal
-<06>352.071 Criação e desenvolvimento de instituições da administração local, municipal
-<06>352.075 Órgãos administrativos, departamentos, autoridades da administração municipal
-<06>352.075.1 Assembléias, conselhos locais. Assembléias, câmaras, conselhos municipais. Conselhos distritais. 
+       352.07 Estruturas das administrações municipais. Autoridades e instituições de governo municipal
+       352.071 Criação e desenvolvimento de instituições da administração local, municipal
+       352.075 Órgãos administrativos, departamentos, autoridades da administração municipal
+       352.075.1 Assembléias, conselhos locais. Assembléias, câmaras, conselhos municipais. Conselhos distritais. 
        Conselhos paroquiais
-<06>352.075.2 Comitês executivos. Prefeitos e vereadores
-<06>352.075.26 Vereadores. Conselheiros
-<06>352.075.31 Presidente do conselho. Prefeito. Burgomestre
-<06>352.08 Funcionários do governo local
+        352.075.2 Comitês executivos. Prefeitos e vereadores
+       352.075.26 Vereadores. Conselheiros
+       352.075.31 Presidente do conselho. Prefeito. Burgomestre
+       352.08 Funcionários do governo local
 
 <01>352.9
 <02>Órgãos autônomos da administração local, municipal.
@@ -4834,7 +4834,7 @@ sob mandato. Território ocupado.
 <01>353.9
 <02>Administração independente das regiões
 de um país. Ministérios das regiões.
-<06>353.9 dividido como 354 
+      353.9 dividido como 354 
 
 <01>354
 <02>Nível superior de administração.
@@ -4869,7 +4869,7 @@ associados, antigas colônias.
 <01>354.23
 <02>Ministério do orçamento.
 
-<01>354.3l
+<01>354.31
 <02>Ministério dos negócios interiores.
 
 <01>354.32
@@ -4959,7 +4959,7 @@ estar, da assistência social, da previdência social.
 <09>Subdivisões auxiliares especiais
 [355/359].07	Estrutura administrativa
       Auxiliares como em 35.07...
-<06>355.077.6 Regulamentos militares
+      355.077.6 Regulamentos militares
 [355/359].08	Questões de pessoal
       Auxiliares como em 35.08...
 <09>Divisões principais
@@ -5109,14 +5109,14 @@ guerra. Militarismo.
 
 <01>355.088
 <02>Pessoal civil nas forces armadas.
-<06>355.088:005.92-051 Arquivistas do Estado-maior, escreventes
-<06>355.088:02-051 Bibliotecários
-<06>355.088:27-726.3 Capelães militares. Padres. Ministros
-<06>355.088:37-051 Professores
-<06>355.088:61-051 Médicos. Oficiais médicos. Atendentes médicos
-<06>355.088:614.88-051 Ordenanças médicos. Pessoal de ambulância
-<06>355.088:615-051 Farmacêuticos
-<06>355.088:81`25-051 Intérpretes. Tradutores
+<06>005.92-051 Arquivistas do Estado-maior, escreventes
+<06>02-051 Bibliotecários
+<06>27-726.3 Capelães militares. Padres. Ministros
+<06>37-051 Professores
+<06>61-051 Médicos. Oficiais médicos. Atendentes médicos
+<06>614.88-051 Ordenanças médicos. Pessoal de ambulância
+<06>615-051 Farmacêuticos
+<06>81`25-051 Intérpretes. Tradutores
 <06>355.088-057.16 Empregados
 <06>355.088-057.2 Trabalhadores braçais
 <06>355.088-057.3 Pessoal administrativo
@@ -5135,7 +5135,7 @@ guerra. Militarismo.
 <06>355.1-058.57-054.65 Ex-prisioneiros de guerra
 <06>355.1-058.65 Vítimas de guerra
 <06>355.1-058.862“364” Órfãos de guerra
-<06>355.1.089“701” Ex-membros da resistência, de oposição secreta.
+                                    355.1.089“701” Ex-membros da resistência, de oposição secreta.
 
 <01>355.11
 <02>Soldados. Pessoal militar em geral.
@@ -5381,7 +5381,7 @@ científica para os oficiais não-comissionados.
 
 <01>355.236
 <02>Seleção de oficiais.
-<06>355.236 dividido como 355.33 
+      355.236 dividido como 355.33 
 
 <01>355.237
 <02>Treinamento de oficiais. Especialização,
@@ -5422,9 +5422,9 @@ transporte. Inclusive Ferrovias. Viaturas privadas.
 <01>355.244.1
 <02>Manutenção do moral, do espírito de luta, da
 vontade de vencer. Censura. Propaganda.
-      ->070.14 Censura em tempo de guerra
-      ->351.862.8 Medidas relativas à manutenção da vida social e à defesa do moral nacional
-      ->355.405.7 Censura para proteção de segredos. Censores militares
+<09>070.14 Censura em tempo de guerra
+<09>351.862.8 Medidas relativas à manutenção da vida social e à defesa do moral nacional
+<09>355.405.7 Censura para proteção de segredos. Censores militares
 
 <01>355.244.2
 <02>Proteção de civis.
@@ -5638,17 +5638,17 @@ atribuições educacionais.
 <01>355.343
 <02>Especialidades comuns a todos os serviços e a
 vários postos.
-<06>355.343:02-051 Bibliotecários
-<06>355.343:355.424.3-051 Pessoal de comunicação
-<06>355.343:629.3.015-051 Mecânicos de motores
-<06>355.343:629.3.072-051 Motoristas
-<06>355.343:641.5-051 Cozinheiros
-<06>355.343:687.53-051 Barbeiros
-<06>355.343:785.13-051 Membros de bandas
-<06>355.343:796-051 Instrutores de esportes
-<06>355.343:796.41-051 Instrutores de ginástica
-<06>355.343:797.2-051 Instrutores de natação
-<06>355.343:81`25-051 Tradutores e intérpretes
+<06>02-051 Bibliotecários
+<06>355.424.3-051 Pessoal de comunicação
+<06>629.3.015-051 Mecânicos de motores
+<06>629.3.072-051 Motoristas
+<06>641.5-051 Cozinheiros
+<06>687.53-051 Barbeiros
+<06>785.13-051 Membros de bandas
+<06>796-051 Instrutores de esportes
+<06>796.41-051 Instrutores de ginástica
+<06>797.2-051 Instrutores de natação
+<06>81`25-051 Tradutores e intérpretes
 <06>355.343-057.214 Artífices
 <06>355.343-057.3 Pessoal administrativo
 
@@ -5938,7 +5938,7 @@ antitanques.
       Especificar por meio de :636...
 <06>355.424.6:636.596 Pombos-correio
 <06>355.424.6:636.7 Cães
-<06>355.683 Animais utilizados no exército
+      355.683 Animais utilizados no exército
 
 <01>355.424.7
 <02>Remuniciamento. Suprimento de munição,
@@ -6111,8 +6111,8 @@ tropas. Saltos de pára-quedas. Bloqueio aéreo,
 
 <01>355.47
 <02>Geografia militar.
-<06>355.47(450) Geografia militar da Itália
-<06>623.64 Topografia. Cartografia. Levantamentos topográficos
+       355.47(450) Geografia militar da Itália
+       623.64 Topografia. Cartografia. Levantamentos topográficos
 <09>91 Geografia. Exploração da terra e dos diversos países. Viagens. Geografia regional  
 
 <01>355.48
@@ -6133,9 +6133,9 @@ independentemente dos países beligerantes.
 <02>Classificação segundo o.s lideres militares,
 generais etc..
       Especificar os líderes militares por meio da  extensão alfabética ( Tabela 1h) 
-<06>355.484 Wel História das campanhas de Wellington
+      355.484 Wel História das campanhas de Wellington
       As guerras de um dirigente que não é líder militar são classificadas em 355.48, segundo o país que o líder dirige 
-<06>355.48(44)“1643/1715” As guerras de Luís XIV     “     ”
+      355.48(44)“1643/1715” As guerras de Luís XIV     “     ”
 <09>929 Histórias biográficas e afins
 
 <01>355.486
@@ -6522,9 +6522,7 @@ intrinsecamente militares.
 suprimentos.
 <09>358.234 Corpo de transporte: por ferrovias, estradas, por água
 <09>Subdivisões auxiliares especiais
-
-<01>355.69`1/
-<02>’9	Questões técnicas relativas ao transporte militar.
+<06>355.69`1/’9	Questões técnicas relativas ao transporte militar.
 <06>355.69`1/’9 dividido como 656.01/.09 
 <09>Divisões principais
 
@@ -6682,9 +6680,7 @@ barracas, tendas.
 <01>356
 <02>Serviços do exército em geral.
 <09>Infantaria. Soldados infantes.
-
-<01>356
-<02>-055.2 Mulheres servindo no exército. Corpo feminino
+<06>356-055.2 Mulheres servindo no exército. Corpo feminino
 
 <01>356.1
 <02>Infantaria: pessoal, organização.
@@ -6747,8 +6743,8 @@ aerotransportadas.
 
 <01>356.2
 <02>Estado-maior; pessoal, organização.
-<06>356.2:005.92-051 Administradores de registros
-<06>356.2:930.25-051 Arquivistas
+<06>005.92-051 Administradores de registros
+<06>930.25-051 Arquivistas
 
 <01>356.21
 <02>Oficiais de estado-maior.
@@ -6769,13 +6765,13 @@ aerotransportadas.
 
 <01>356.3
 <02>Serviços administrativos e auxiliares: pessoal, organização.
-<06>356.3:27-725-051 Capelães
-<06>356.3:37-051 Pessoal de ensino
-<06>356.3:61-051 Médicos. Oficiais médicos
-<06>356.3:614.88-051 Pessoal de ambulância
-<06>356.3:615-051 Farmacêuticos
-<06>356.3:619-051 Veterinários
-<06>356.3:81`25-051 Tradutores e intérpretes
+<06>27-725-051 Capelães
+<06>37-051 Pessoal de ensino
+<06>61-051 Médicos. Oficiais médicos
+<06>614.88-051 Pessoal de ambulância
+<06>615-051 Farmacêuticos
+<06>619-051 Veterinários
+<06>81`25-051 Tradutores e intérpretes
  
 
 <01>356.31
@@ -6822,9 +6818,9 @@ cavalos. Coudelarias.
 <01>357.5
 <02>Tropas motorizadas. Ciclistas.
 <09>Motociclistas. Tropas de viaturas motorizadas.
-<06>357.5:629.32-051 Ciclistas
-<06>357.5:629.326-051 Motociclistas
-<06>357.5:629.33-051 Tropas em viaturas motorizadas
+<06>629.32-051 Ciclistas
+<06>629.326-051 Motociclistas
+<06>629.33-051 Tropas em viaturas motorizadas
 
 <01>357.56
 <02>Corpo técnico. Serviços de reparo e
@@ -6975,9 +6971,9 @@ militares. Engenheiros de obras militares.
 
 <01>359.11
 <02>Pessoal das embarcações. Tripulação.
-<06>359.11:621-051 Pessoal de engenharia mecânica
-<06>359.11:623.44-051 Armeiros
-<06>359.11:627.2-051 Pessoal de porto, cais, docas
+<06>621-051 Pessoal de engenharia mecânica
+<06>623.44-051 Armeiros
+<06>627.2-051 Pessoal de porto, cais, docas
 <06>359.11-057.115 Pessoal da reserva
 <06>359.11-057.22 Operários
 
@@ -6999,10 +6995,10 @@ navais. Fuzileiros. Torpedistas.
 <01>359.3
 <02>Tropas, praças e outro tipo de pessoal no serviço naval, a bordo ou na defesa costeira.
 <06>359.3:355.353.5 Defesa costeira
-<06>359.3:355.424.3-051 Sinaleiros
+<06>355.424.3-051 Sinaleiros
 <06>359.3:356 Infantaria da Marinha. Fuzileiros navais
 <06>359.3:358 Artilharia da Marinha
-<06>359.3:629.5.02-051 Construtores navais. Arquitetos navais
+<06>629.5.02-051 Construtores navais. Arquitetos navais
 
 <01>359.38
 <02>Corpo de aviadores navais. Frota aérea da  marinha.
@@ -7022,12 +7018,12 @@ navais. Fuzileiros. Torpedistas.
 
 <01>359.5
 <02>Serviços de administração e fiscalização naval.
-<06>359.5:27-725-051 Capelães navais
+<06>27-725-051 Capelães navais
 <06>359.5:342.56 Justiça e serviço judiciário navais
-<06>359.5:61-051 Médicos. Oficiais médicos. Atendentes médicos
-<06>359.5:614.88-051 Pessoal de ambulância
-<06>359.5:615-051 Farmacêuticos
-<06>359.5:785.13-051 Músicos de banda
+<06>61-051 Médicos. Oficiais médicos. Atendentes médicos
+<06>614.88-051 Pessoal de ambulância
+<06>615-051 Farmacêuticos
+<06>785.13-051 Músicos de banda
 <06>359.5-057.15 Pessoal de recrutamento
 <06>359.5-057.17 Pessoal administrativo
 <06>359.5-057.212 Superintendentes. Supervisores
@@ -7048,12 +7044,8 @@ complexos. Alguns  dos exemplos apresentados são muito detalhados, e, conseqüe
 <09>Recomenda-se que literatura sobre pessoas que enfrentam problemas de bem-estar social seja subordinada aos problemas.
 <09>O emprego dos auxiliares comuns –05, da tabela 1k, está, na maioria dos casos, restrito à indicação de grupos etários, enquanto que a combinação com dois dígitos deve ser usada para tipos de condição, de incapacidade, ou  para determinadas causas dos problemas sociais.
 <09>Eventualmente será necessário alterar a ordem de citação padrão. O grupo etário das pessoas que  enfrentam determinados problema, particularmente,  deve ser citado antes de ser indicado o tipo de atividade de bem-estar adequado. São exemplos:
-
-<01>364.63
-<02>-053.2-73:351.755 Registro de crianças mal-tratadas 
-
-<01>364.696
-<02>-053.9-783.442:648.5 Serviços de ajuda aos mais velhos na limpeza da casa
+<06>364.63-053.2-73:351.755 Registro de crianças mal-tratadas 
+<06>364.696-053.9-783.442:648.5 Serviços de ajuda aos mais velhos na limpeza da casa
 <09>Para detalhes sobre providências administrativas em geral, no campo do bem-estar social, devem ser usados os  auxiliares especiais 3.07/.086 e 35.07/.088.7, enquanto não  se complete a nova tabela de administração
 <06>364-12:316.323.6 Capitalismo do bem-estar
 <06>364-12:328.182 Teoria do grupo de interesse
@@ -7079,8 +7071,8 @@ complexos. Alguns  dos exemplos apresentados são muito detalhados, e, conseqüe
 <06>364-781.3:303.621.32 Avaliação do cliente do bem-estar por meio de entrevista
 <06>364-781.3:303.63 Avaliação do cliente do bem-estar por meio de observação
 <06>364-781.3:303.643.2 Avaliação do cliente do bem-estar por meio de análise de material escrito
-<06>364-781.8:616-036.83 Encerramento do caso por recuperação do cliente
-<06>364-781.8:616-036.88 Encerramento do caso por morte do cliente
+<06>616-036.83 Encerramento do caso por recuperação do cliente
+<06>616-036.88 Encerramento do caso por morte do cliente
 <06>364-782-022.326.5 Intervenção de emergência. Intervenção em crise
 <06>364-783.2“405” Cuidados residenciais de longo prazo
 <06>364-787.4:373.22 Provisão de creches
@@ -7088,499 +7080,175 @@ complexos. Alguns  dos exemplos apresentados são muito detalhados, e, conseqüe
 <06>364-787.6:654.924 Provisão de alarmes
 <09>376 Educação, ensino, treinamento de grupos especiais de pessoas. Escolas especiais.
 <09>Subdivisões auxiliares especiais
-
-<01>364
-<02>-1		Teorias sobre o bem-estar social
-
-<01>364
-<02>-11		Teorias da causação.
-
-<01>364
-<02>-112		Teoria da desorganização social.
-
-<01>364
-<02>-12		Escolas de pensamento.
-
-<01>364
-<02>-122		Teoria da difusão.
-
-<01>364
-<02>-124		Teoria da industrialização do bem-estar.
-
-<01>364
-<02>-126		Hipótese da convergência do bem-estar. Consenso do bem-estar.
-
-<01>364
-<02>-14		Concepções representacionais. Tipologias do bem-estar.
+<06>364-1		Teorias sobre o bem-estar social
+<06>364-11		Teorias da causação.
+<06>364-112		Teoria da desorganização social.
+<06>364-12		Escolas de pensamento.
+<06>364-122		Teoria da difusão.
+<06>364-124		Teoria da industrialização do bem-estar.
+<06>364-126		Hipótese da convergência do bem-estar. Consenso do bem-estar.
+<06>364-14		Concepções representacionais. Tipologias do bem-estar.
       Usar a extensão alfabética para os autores de tipologias não listadas
-
-<01>364
-<02>-142		Concepções residuais.
-
-<01>364
-<02>-144		Concepções mistas. Pluralismo do bem-estar.
-
-<01>364
-<02>-146		Concepções institucionais.
-
-<01>364
-<02>-146.2	Estado do bem-estar.
-
-<01>364
-<02>-15		Teorias normativas.
-
-<01>364
-<02>-152		Abordagem individual. Abordagem da empresa.
-
-<01>364
-<02>-154		Abordagem comunitária. Abordagem reformista.
-
-<01>364
-<02>-156		Abordagem coletivista. Abordagem estrutural.
-
-<01>364
-<02>-17		Teorias críticas.
-
-<01>364
-<02>-172		Lei do cuidado inverso.
-
-<01>364
-<02>-174		Cultura de dependência.
-
-<01>364
-<02>-176		Armadilha da pobreza.
-
-<01>364
-<02>-18		Teorias do bem-estar internacional.
-
-<01>364
-<02>-182		Teoria da dependência.
-
-<01>364
-<02>-184		Teoria dos sistemas mundiais.
-
-<01>364
-<02>-186		Reciprocidade.
-
-<01>364
-<02>-2		Princípios da assistência.
-
-<01>364
-<02>-21		Objetivos da assistência.
-
-<01>364
-<02>-212		Preventivos.
-
-<01>364
-<02>-214		Remediadores.
-
-<01>364
-<02>-216		Promocionais.
-
-<01>364
-<02>-22		Pessoas como beneficiários de assistência. Pessoas seguradas. Usuários do serviço. Clientes do bem-estar
-
-<01>364
-<02>-23		Direitos à assistência.
-
-<01>364
-<02>-232		Pré-condições para a assistência.
-
-<01>364
-<02>-232.2	Pagamento regular da contribuição como pré-condição para a assistência.
-
-<01>364
-<02>-234		Restrição (ões) quanto à assistência.
-
-<01>364
-<02>-234.2	Assistência repagável. Empréstimos.
-
-<01>364
-<02>-236		Requisitos para a assistência.
-
-<01>364
-<02>-25		Exclusões da assistência, das contribuições. Recusa de assistência.
-
-<01>364
-<02>-26		Influências sobre os níveis de assistência ou de contribuições.
-
-<01>364
-<02>-262		Garantia de um mínimo de nível de subsistência.
-
-<01>364
-<02>-262.2	Definição de um mínimo de nível de subsistência. Linha da pobreza.
-
-<01>364
-<02>-264		Indexação.
-
-<01>364
-<02>-266		Influência de rendas extra, de pensões, de benefícios nos níveis de assistência.
-
-<01>364
-<02>-27		Estabelecimento de objetivos da assistência
-
-<01>364
-<02>-28		Conseqüências da assistência
-
-<01>364
-<02>-3		Agências de bem-estar social. Organizações de bem-estar social
+<06>364-142		Concepções residuais.
+<06>364-144		Concepções mistas. Pluralismo do bem-estar.
+<06>364-146		Concepções institucionais.
+<06>364-146.2	Estado do bem-estar.
+<06>364-15		Teorias normativas.
+<06>364-152		Abordagem individual. Abordagem da empresa.
+<06>364-154		Abordagem comunitária. Abordagem reformista.
+<06>364-156		Abordagem coletivista. Abordagem estrutural.
+<06>364-17		Teorias críticas.
+<06>364-172		Lei do cuidado inverso.
+<06>364-174		Cultura de dependência.
+<06>364-176		Armadilha da pobreza.
+<06>364-18		Teorias do bem-estar internacional.
+<06>364-182		Teoria da dependência.
+<06>364-184		Teoria dos sistemas mundiais.
+<06>364-186		Reciprocidade.
+<06>364-2		Princípios da assistência.
+<06>364-21		Objetivos da assistência.
+<06>364-212		Preventivos.
+<06>364-214		Remediadores.
+<06>364-216		Promocionais.
+<06>364-22		Pessoas como beneficiários de assistência. Pessoas seguradas. Usuários do serviço. Clientes do bem-estar
+<06>364-23		Direitos à assistência.
+<06>364-232		Pré-condições para a assistência.
+<06>364-232.2	Pagamento regular da contribuição como pré-condição para a assistência.
+<06>364-234		Restrição (ões) quanto à assistência.
+<06>364-234.2	Assistência repagável. Empréstimos.
+<06>364-236		Requisitos para a assistência.
+<06>364-25		Exclusões da assistência, das contribuições. Recusa de assistência.
+<06>364-26		Influências sobre os níveis de assistência ou de contribuições.
+<06>364-262		Garantia de um mínimo de nível de subsistência.
+<06>364-262.2	Definição de um mínimo de nível de subsistência. Linha da pobreza.
+<06>364-264		Indexação.
+<06>364-266		Influência de rendas extra, de pensões, de benefícios nos níveis de assistência.
+<06>364-27		Estabelecimento de objetivos da assistência
+<06>364-28		Conseqüências da assistência
+<06>364-3		Agências de bem-estar social. Organizações de bem-estar social
 <09>Usar a Tabela 1e de auxiliares comuns para indicar a abrangência geográfica das atividades da organização.  Para indicar determinadas agências de bem-estar, usar a extensão alfabética
-
-<01>364
-<02>-32		Agências voluntárias.
-
-<01>364
-<02>-322		Escritórios voluntários.
-
-<01>364
-<02>-34		Agências de bem-estar cooperativas.
-
-<01>364
-<02>-36		Agências de bem-estar de auto-ajuda
-
-<01>364
-<02>-362		Grupos de apoio.
-
-<01>364
-<02>-4		Pessoas como provedoras de assistência ao bem-estar social 
-
-<01>364
-<02>-42		Os próprios indivíduos. Auto-ajuda.
-
-<01>364
-<02>-43		Trabalhadores sociais. Trabalhadores em bem-estar social.
-
-<01>364
-<02>-45		Trabalhadores em assistência.
-
-<01>364
-<02>-46		Visitadores.
-
-<01>364
-<02>-47		Assistentes.
-
-<01>364
-<02>-48		Advogados.
-
-<01>364
-<02>-482		Protetores ad litem.
-
-<01>364
-<02>-5		Comodidades do bem-estar social.
-
-<01>364
-<02>-52		Centros de avaliação.
-
-<01>364
-<02>-53		Centros diários. Centros de passagem.
-
-<01>364
-<02>-54		Casa para inválidos crônicos, incuráveis.
-
-<01>364
-<02>-55		Acomodação coberta.
-
-<01>364
-<02>-56		Refúgios.
-
-<01>364
-<02>-57		Centros de reabilitação.
-
-<01>364
-<02>-58		Hospícios.
-
-<01>364
-<02>-6		Contribuições e pagamentos.
-
-<01>364
-<02>-62		Quantias pagáveis. Prêmios. Contribuições.
-
-<01>364
-<02>-622		Níveis de prêmio pagáveis.
-
-<01>364
-<02>-624		Pagáveis por quem. Responsabilidade pelo seguro social. Financiamento dos benefícios sociais. Financiamento do 
+<06>364-32		Agências voluntárias.
+<06>364-322		Escritórios voluntários.
+<06>364-34		Agências de bem-estar cooperativas.
+<06>364-36		Agências de bem-estar de auto-ajuda
+<06>364-362		Grupos de apoio.
+<06>364-4		Pessoas como provedoras de assistência ao bem-estar social 
+<06>364-42		Os próprios indivíduos. Auto-ajuda.
+<06>364-43		Trabalhadores sociais. Trabalhadores em bem-estar social.
+<06>364-45		Trabalhadores em assistência.
+<06>364-46		Visitadores.
+<06>364-47		Assistentes.
+<06>364-48		Advogados.
+<06>364-482		Protetores ad litem.
+<06>364-5		Comodidades do bem-estar social.
+<06>364-52		Centros de avaliação.
+<06>364-53		Centros diários. Centros de passagem.
+<06>364-54		Casa para inválidos crônicos, incuráveis.
+<06>364-55		Acomodação coberta.
+<06>364-56		Refúgios.
+<06>364-57		Centros de reabilitação.
+<06>364-58		Hospícios.
+<06>364-6		Contribuições e pagamentos.
+<06>364-62		Quantias pagáveis. Prêmios. Contribuições.
+<06>364-622		Níveis de prêmio pagáveis.
+<06>364-624		Pagáveis por quem. Responsabilidade pelo seguro social. Financiamento dos benefícios sociais. Financiamento do 
                                 bem-estar social.
-
-<01>364
-<02>-626		Resgate de prêmios.
-
-<01>364
-<02>-64		Quantias a receber. Benefícios a receber. Assistência recebível.
-
-<01>364
-<02>-642		Níveis recebidos.
-
-<01>364
-<02>-644		Recebíveis por quem.
-
-<01>364
-<02>-644.2	Benefícios ao indivíduo segurado.
-
-<01>364
-<02>-644.4	Benefícios à família do segurado.
-
-<01>364
-<02>-644.6	Benefícios aos dependentes sobreviventes do segurado.
-
-<01>364
-<02>-646		Tipos de benefícios. Tipos de desconto.
-
-<01>364
-<02>-646.2	Benefícios financeiros. Ajuda financeira. Descontos financeiros. Pensões.
+<06>364-626		Resgate de prêmios.
+<06>364-64		Quantias a receber. Benefícios a receber. Assistência recebível.
+<06>364-642		Níveis recebidos.
+<06>364-644		Recebíveis por quem.
+<06>364-644.2	Benefícios ao indivíduo segurado.
+<06>364-644.4	Benefícios à família do segurado.
+<06>364-644.6	Benefícios aos dependentes sobreviventes do segurado.
+<06>364-646		Tipos de benefícios. Tipos de desconto.
+<06>364-646.2	Benefícios financeiros. Ajuda financeira. Descontos financeiros. Pensões.
 <09>316.43 Desenvolvimento social planejado.
-
-<01>364
-<02>-646.3	Benefícios em espécie.
-
-<01>364
-<02>-646.4	Reembolso de custos.
-
-<01>364
-<02>-646.6	Bem-estar financeiro cooperativo.
-
-<01>364
-<02>-646.8	Bem-estar fiscal. Bem-estar do sistema de impostos.
-
-<01>364
-<02>-7		Operações do bem-estar social. Esforço do bem-estar. Provisão de serviço.
-
-<01>364
-<02>-72		Atividade de estabelecimento de políticas.
-
-<01>364
-<02>-72.2		Transferências de política.
-
-<01>364
-<02>-73		Atividade executiva. Administração social
-
-<01>364
-<02>-734		Revisão.
-
-<01>364
-<02>-78		Trabalho social. Trabalho aplicado a problemas sociais.
-
-<01>364
-<02>-781		Trabalho de caso. Trabalho social clínico.
-
-<01>364
-<02>-781.1	Encaminhamento do cliente.
-
-<01>364
-<02>-781.12	Auto-encaminhamento
-
-<01>364
-<02>-781.14	Encaminhamento por terceiros.
-
-<01>364
-<02>-781.2	Avaliação de riscos.
-
-<01>364
-<02>-781.22	Risco para si próprio.
-
-<01>364
-<02>-781.24	Risco para os outros. Periculosidade.
-
-<01>364
-<02>-781.3	Avaliação de necessidades.
-
-<01>364
-<02>-781.4	Declaração de necessidades.
-
-<01>364
-<02>-781.5	Designação de administrador de assistência.
-
-<01>364
-<02>-781.6	Pacote de serviços. Plano de assistência.
-
-<01>364
-<02>-781.7	Revisão de necessidades de serviços
-
-<01>364
-<02>-781.72	Conferências de caso.
-
-<01>364
-<02>-781.8	Encerramento de caso. Desengajamento.
-
-<01>364
-<02>-781.82	Transferência de cliente. Encaminhamento adiante.
-
-<01>364
-<02>-781.9	Trabalho de acompanhamento.
-
-<01>364
-<02>-782		Intervenção.
-
-<01>364
-<02>-782.2	Remoção de clientes do ambiente normal.
-
-<01>364
-<02>-782.4	Colocação de clientes.
-
-<01>364
-<02>-782.42	Proteção.
-
-<01>364
-<02>-782.44	Adoção.
-
-<01>364
-<02>-783		Trabalho de assistência.
-
-<01>364
-<02>-783.2	Assistência residencial. Assistência institucional.
-
-<01>364
-<02>-783.4	Assistência não-residencial. Assistência institucional.
-
-<01>364
-<02>-783.42	Assistência diária.
-
-<01>364
-<02>-783.44	Assistência em casa.
-
-<01>364
-<02>-783.442	Auxílio em casa. Serviços sociais pessoais.
-
-<01>364
-<02>-784		Trabalho de aconselhamento. Serviços de informação sobre bem-estar.
-
-<01>364
-<02>-785		Trabalho terapêutico. Terapia. Aconselhamento.
+<06>364-646.3	Benefícios em espécie.
+<06>364-646.4	Reembolso de custos.
+<06>364-646.6	Bem-estar financeiro cooperativo.
+<06>364-646.8	Bem-estar fiscal. Bem-estar do sistema de impostos.
+<06>364-7		Operações do bem-estar social. Esforço do bem-estar. Provisão de serviço.
+<06>364-72		Atividade de estabelecimento de políticas.
+<06>364-72.2		Transferências de política.
+<06>364-73		Atividade executiva. Administração social
+<06>364-734		Revisão.
+<06>364-78		Trabalho social. Trabalho aplicado a problemas sociais.
+<06>364-781		Trabalho de caso. Trabalho social clínico.
+<06>364-781.1	Encaminhamento do cliente.
+<06>364-781.12	Auto-encaminhamento
+<06>364-781.14	Encaminhamento por terceiros.
+<06>364-781.2	Avaliação de riscos.
+<06>364-781.22	Risco para si próprio.
+<06>364-781.24	Risco para os outros. Periculosidade.
+<06>364-781.3	Avaliação de necessidades.
+<06>364-781.4	Declaração de necessidades.
+<06>364-781.5	Designação de administrador de assistência.
+<06>364-781.6	Pacote de serviços. Plano de assistência.
+<06>364-781.7	Revisão de necessidades de serviços
+<06>364-781.72	Conferências de caso.
+<06>364-781.8	Encerramento de caso. Desengajamento.
+<06>364-781.82	Transferência de cliente. Encaminhamento adiante.
+<06>364-781.9	Trabalho de acompanhamento.
+<06>364-782		Intervenção.
+<06>364-782.2	Remoção de clientes do ambiente normal.
+<06>364-782.4	Colocação de clientes.
+<06>364-782.42	Proteção.
+<06>364-782.44	Adoção.
+<06>364-783		Trabalho de assistência.
+<06>364-783.2	Assistência residencial. Assistência institucional.
+<06>364-783.4	Assistência não-residencial. Assistência institucional.
+<06>364-783.42	Assistência diária.
+<06>364-783.44	Assistência em casa.
+<06>364-783.442	Auxílio em casa. Serviços sociais pessoais.
+<06>364-784		Trabalho de aconselhamento. Serviços de informação sobre bem-estar.
+<06>364-785		Trabalho terapêutico. Terapia. Aconselhamento.
 <09>615.85 Terapias diversas.
-
-<01>364
-<02>-785.1	Terapia de objetivos.
-
-<01>364
-<02>-785.12	Conciliação.
-
-<01>364
-<02>-785.14	Ajustamento social.
-
-<01>364
-<02>-785.2	Segundo o número de pessoas.
-
-<01>364
-<02>-785.22	Terapia individual. Aconselhamento individual.
-
-<01>364
-<02>-785.24	Terapia de grupo.
-
-<01>364
-<02>-785.4	Tipos de terapia.
-
-<01>364
-<02>-785.6	Métodos de terapia.
-
-<01>364
-<02>-785.62	Terapia do comportamento.
-
-<01>364
-<02>-785.64	Terapia da experiência.
-
-<01>364
-<02>-786		Trabalho de reabilitação. Trabalho de integração.
-
-<01>364
-<02>-786.2	Desinstitucionalização.
-
-<01>364
-<02>-786.4	Reabilitação ocupacional. Reabilitação do emprego.
-
-<01>364
-<02>-787		Trabalho de apoio.
-
-<01>364
-<02>-787.2	Apoio social.
-
-<01>364
-<02>-787.22	Apoio a indivíduos.
-
-<01>364
-<02>-787.222	Serviços de visitas.
-
-<01>364
-<02>-787.224	Serviços de cuidados em casa.
-
-<01>364
-<02>-787.226	Passeios. Excursões.
-
-<01>364
-<02>-787.228	Repouso.
-
-<01>364
-<02>-787.24	Apoio às famílias.
-
-<01>364
-<02>-787.242	Providências para reuniões ou visitas de família.
-
-<01>364
-<02>-787.26	Apoio a comunidades. Trabalho comunitário. Trabalho com a vizinhança.
-
-<01>364
-<02>-787.3	Apoio emocional. Bem-estar emocional.
-
-<01>364
-<02>-787.32	Proteção.
-
-<01>364
-<02>-787.34	Apoio a vítimas.
-
-<01>364
-<02>-787.4	Apoio no emprego.
-
-<01>364
-<02>-787.42	Esquemas de trabalho abrigado.
-
-<01>364
-<02>-787.422	Oficinas de trabalho abrigadas.
-
-<01>364
-<02>-787.424	Lugares abrigados
-
-<01>364
-<02>-787.5	Apoio para movimentação. Ajuda na satisfação das necessidades de movimentação
-
-<01>364
-<02>-787.52	Provisão de acesso ao incapaz.
-
-<01>364
-<02>-787.522	Adaptações.
-
-<01>364
-<02>-787.54	Esquemas de mobilidade.
-
-<01>364
-<02>-787.6	Apoio técnico.
-
-<01>364
-<02>-787.7	Apoio educacional. Serviços de bem-estar educacional.
-
-<01>364
-<02>-787.8	Atividade para promover oportunidade. Atividade de oportunidades iguais.
-
-<01>364
-<02>-787.82	Defesa
-
-<01>364
-<02>-787.84	Ação positiva. Discriminação positiva.
-
-<01>364
-<02>-787.842	Sistema de cotas.
-
-<01>364
-<02>-787.86	Mobilização política e social.
-
-<01>364
-<02>-787.862	Conscientização.
-
-<01>364
-<02>-787.9	Apoio em matéria de saúde. Serviços de bem-estar-social em matéria de saúde
-
-<01>364
-<02>-788		Provisão de abrigo de emergência.
+<06>364-785.1	Terapia de objetivos.
+<06>364-785.12	Conciliação.
+<06>364-785.14	Ajustamento social.
+<06>364-785.2	Segundo o número de pessoas.
+<06>364-785.22	Terapia individual. Aconselhamento individual.
+<06>364-785.24	Terapia de grupo.
+<06>364-785.4	Tipos de terapia.
+<06>364-785.6	Métodos de terapia.
+<06>364-785.62	Terapia do comportamento.
+<06>364-785.64	Terapia da experiência.
+<06>364-786		Trabalho de reabilitação. Trabalho de integração.
+<06>364-786.2	Desinstitucionalização.
+<06>364-786.4	Reabilitação ocupacional. Reabilitação do emprego.
+<06>364-787		Trabalho de apoio.
+<06>364-787.2	Apoio social.
+<06>364-787.22	Apoio a indivíduos.
+<06>364-787.222	Serviços de visitas.
+<06>364-787.224	Serviços de cuidados em casa.
+<06>364-787.226	Passeios. Excursões.
+<06>364-787.228	Repouso.
+<06>364-787.24	Apoio às famílias.
+<06>364-787.242	Providências para reuniões ou visitas de família.
+<06>364-787.26	Apoio a comunidades. Trabalho comunitário. Trabalho com a vizinhança.
+<06>364-787.3	Apoio emocional. Bem-estar emocional.
+<06>364-787.32	Proteção.
+<06>364-787.34	Apoio a vítimas.
+<06>364-787.4	Apoio no emprego.
+<06>364-787.42	Esquemas de trabalho abrigado.
+<06>364-787.422	Oficinas de trabalho abrigadas.
+<06>364-787.424	Lugares abrigados
+<06>364-787.5	Apoio para movimentação. Ajuda na satisfação das necessidades de movimentação
+<06>364-787.52	Provisão de acesso ao incapaz.
+<06>364-787.522	Adaptações.
+<06>364-787.54	Esquemas de mobilidade.
+<06>364-787.6	Apoio técnico.
+<06>364-787.7	Apoio educacional. Serviços de bem-estar educacional.
+<06>364-787.8	Atividade para promover oportunidade. Atividade de oportunidades iguais.
+<06>364-787.82	Defesa
+<06>364-787.84	Ação positiva. Discriminação positiva.
+<06>364-787.842	Sistema de cotas.
+<06>364-787.86	Mobilização política e social.
+<06>364-787.862	Conscientização.
+<06>364-787.9	Apoio em matéria de saúde. Serviços de bem-estar-social em matéria de saúde
+<06>364-788		Provisão de abrigo de emergência.
 <09>Classificar aqui situações em que é necessário o abrigo de emergência. Para condição de pessoas sem-teto, ver
-<06>364.682.42.
+      364.682.42.
 <09>Divisões principais
 
 <01>364.2
@@ -7636,7 +7304,7 @@ complexos. Alguns  dos exemplos apresentados são muito detalhados, e, conseqüe
 
 <01>364.324
 <02>Seguro contra invalidez.
-<06>364.324-642:364.694-022.1 Níveis da pensão por invalidez a receber com base no grau de incapacidade
+<06>364.694-022.1 Níveis da pensão por invalidez a receber com base no grau de incapacidade
 <06>364.324-642-26:336.72 Influência da poupança nos níveis de pensão por invalidez
 
 <01>364.326
@@ -7728,9 +7396,7 @@ complexos. Alguns  dos exemplos apresentados são muito detalhados, e, conseqüe
 
 <01>364.612
 <02>Injustiça social. Privação social.
-
-<01>364.612
-<02>(1-21)-78-22 Trabalho social preventivo aplicado à privação urbana. Privação nos centros das grandes  cidades
+<06>364.612(1-21)-78-22 Trabalho social preventivo aplicado à privação urbana. Privação nos centros das grandes  cidades
 <06>364.612(1-21)-787.6:061.237 Provisão de clubes sociais nas áreas centrais das grandes cidades
 <06>364.612(1-21)-787.6:791.7 Provisão de quadros de recreação, de pátios nos centros das grandes cidades
 <06>364.612(1-22)-78-24 Trabalho social terapêutico aplicado à privação rural
@@ -7740,7 +7406,7 @@ complexos. Alguns  dos exemplos apresentados são muito detalhados, e, conseqüe
 <02>Desvantagem. Desvantagem social. Desprivilegiados.
 <06>364.614:316.647.832 Desvantagem social devido a discriminação
 <06>364.614:323.1 Desvantagem social devido a racismo
-<06>364.614:81`243 Desvantagem social devido a barreiras lingüísticas
+<06>81`243 Desvantagem social devido a barreiras lingüísticas
 <06>364.614:323.12 Trabalho de aculturação
 <06>364.614`234 Promoção de oportunidades através da pedagogia social
 
@@ -7763,8 +7429,8 @@ complexos. Alguns  dos exemplos apresentados são muito detalhados, e, conseqüe
 <06>364.622-53 Centros diários para pessoas com problemas de saúde mental
 <06>364.622-73-53:005.585 Avaliação dos centros diários para pessoas com problemas de saúde mental
 <06>364.622-73-54:005.584.1 Inspeção das casas residenciais de saúde mental
-<06>364.622-73-54:005.584.1-022.345.2 Inspeção regular, inspeção anunciada das casas residenciais de saúde  mental
-<06>364.622-73-54:005.584.1-022.345.4 Inspeção irregular, inspeção não-anunciada das casas residenciais de saúde 
+<06>005.584.1-022.345.2 Inspeção regular, inspeção anunciada das casas residenciais de saúde  mental
+<06>005.584.1-022.345.4 Inspeção irregular, inspeção não-anunciada das casas residenciais de saúde 
       mental
 <06>364.622-78-73:005.334.3 Lidando com as queixas sobre os serviços sociais de saúde mental
 <06>364.622-78-734-022.326.5 Revisão de incidente crítico de saúde mental
@@ -7809,7 +7475,7 @@ complexos. Alguns  dos exemplos apresentados são muito detalhados, e, conseqüe
 
 <01>364.632
 <02>Ofensa física. Violência.
-<06>364.632:616.89-008.441.45 Dano a si próprio, auto-mutilação como tema do bem-estar
+<06>616.89-008.441.45 Dano a si próprio, auto-mutilação como tema do bem-estar
 <09>343.615 Dano físico. Ferimento corporal. Assalto e agressões físicas
 
 <01>364.633
@@ -7900,9 +7566,9 @@ complexos. Alguns  dos exemplos apresentados são muito detalhados, e, conseqüe
 
 <01>364.67
 <02>Bem-estar educacional
-<06>364.67:373-021.161:336 Oportunidade educacional dependente dos recursos financeiros
-<06>364.67:373-021.161:347.156 Oportunidade educacional de acordo com o gênero
-<06>364.67:373-021.161-053 Oportunidade educacional dependente da idade
+<06>373-021.161:336 Oportunidade educacional dependente dos recursos financeiros
+<06>373-021.161:347.156 Oportunidade educacional de acordo com o gênero
+<06>373-021.161-053 Oportunidade educacional dependente da idade
 <09>37 Educação
 
 <01>364.672
@@ -7917,8 +7583,8 @@ complexos. Alguns  dos exemplos apresentados são muito detalhados, e, conseqüe
 <01>364.682
 <02>Problemas do bem-estar ambiental
 <06>364.682:551.577.38 Problemas do bem-estar como conseqüência de secas
-<06>364.682-787.9:641.16:551.577.38 Fornecimento de água potável a vítimas da seca
-<06>364.682-788:685.531:556.166 Fornecimento de barracas como acomodação de emergência a vítimas de enchentes
+<06>641.16:551.577.38 Fornecimento de água potável a vítimas da seca
+<06>685.531:556.166 Fornecimento de barracas como acomodação de emergência a vítimas de enchentes
 
 <01>364.682.4
 <02>Problemas de moradia.
@@ -7929,8 +7595,8 @@ complexos. Alguns  dos exemplos apresentados são muito detalhados, e, conseqüe
 
 <01>364.682.44
 <02>Acomodação insatisfatória. Inclusive Acomodação esquálida. Cortiços
-<06>364.682.44:621.311-021.146.4 Acomodação sem energia
-<06>364.682.44:644.61-021.146.4 Acomodação sem água potável
+<06>621.311-021.146.4 Acomodação sem energia
+<06>644.61-021.146.4 Acomodação sem água potável
 <06>364.682.44-787.9:644.61 Fornecimento de água potável
 
 <01>364.682.442
@@ -7941,8 +7607,8 @@ complexos. Alguns  dos exemplos apresentados são muito detalhados, e, conseqüe
 
 <01>364.69
 <02>Bem-estar sanitário.
-<06>364.69:616-08-021.161 Disponibilidade ou indisponibilidade de tratamento médico
-<06>364.69-787.9:613:37 Fornecimento de serviços de educação sanitária
+<06>616-08-021.161 Disponibilidade ou indisponibilidade de tratamento médico
+<06>613:37 Fornecimento de serviços de educação sanitária
 <09>61 Ciências médicas
 
 <01>364.692
@@ -7950,11 +7616,11 @@ complexos. Alguns  dos exemplos apresentados são muito detalhados, e, conseqüe
 <09>Usar a Tabela 1k-02 de auxiliares comuns para aspereza das condições;  p. ex:  -022.15 moderado, -022.18 
       excessivo, grave
 <06>364.692:613.391 Inanição e subnutrição como temas do bem-estar
-<06>364.692:615.2:615.015.6 Vício das drogas como tema do bem-estar
-<06>364.692:616-006 Problemas de bem-estar de pessoas que sofrem de câncer
-<06>364.692:663.51:615.015.6 Alcoolismo como problema do bem-estar
-<06>364.692:665.931:615.015.6 Abuso de substâncias como problema do bem-estar
-<06>364.692-787.9:641:613.391 Fornecimento de comida aos famintos. Apoio nutricional
+<06>615.2:615.015.6 Vício das drogas como tema do bem-estar
+<06>616-006 Problemas de bem-estar de pessoas que sofrem de câncer
+<06>663.51:615.015.6 Alcoolismo como problema do bem-estar
+<06>665.931:615.015.6 Abuso de substâncias como problema do bem-estar
+<06>641:613.391 Fornecimento de comida aos famintos. Apoio nutricional
 
 <01>364.694
 <02>Incapacidade física
@@ -7963,10 +7629,10 @@ complexos. Alguns  dos exemplos apresentados são muito detalhados, e, conseqüe
 <06>364.694-783.442:646.7 Serviços de assistência pessoal. Inclusive: Asseio, vestir, despir
 <06>364.694-787.4:377 Treinamento de pessoas inválidas
 <06>364.694-787.522:692.65 Provisão de rampas de acesso
-<06>364.694-787.54:636.044:617.751.98 Provisão de cães-guia para os cegos
+<06>636.044:617.751.98 Provisão de cães-guia para os cegos
 <06>364.694-787.54:656.015 Esquemas especiais de estacionamento para motoristas inválidos
 <06>364.694-787.54:656.132 Serviços de ônibus especiais para os inválidos
-<06>364.694-787.54:656.132-027.565 Viagem de ônibus grátis para os inválidos
+<06>656.132-027.565 Viagem de ônibus grátis para os inválidos
 
 <01>364.696
 <02>Fragilidade física. Dificuldades de movimentação
@@ -8119,13 +7785,9 @@ habitabilidade. Inclusive Remodelação de construções antigas.
 
 <01>366
 <02>Defesa do consumidor.
-#ERRO2(Texto orfao sem tag ?)        Indicar os consumidores segundo as características pessoais por -05... (Tabela1Ik) 
-
-<01>366
-<02>-053.2 Crianças como consumidores 
-
-<01>366
-<02>-058 Consumidores segundo a classe social e as condições da família 
+      Indicar os consumidores segundo as características pessoais por -05... (Tabela1Ik) 
+<06>366-053.2 Crianças como consumidores 
+<06>366-058 Consumidores segundo a classe social e as condições da família 
 <09>Subdivisões auxiliares especiais
 
 <01>366.01
@@ -8185,7 +7847,7 @@ perigosos, da falta de segurança do produto.
 <01>366.44
 <02>Riscos do consumidor decorrentes dos preços dos produtos.
                                       Indicar os conceitos macroeconômicos e mesoeconômicos de preços, tais como preços monopolísticos, por meio de 
-<06>338.5...
+                                      338.5...
 
 <01>366.46
 <02>Riscos do consumidor decorrentes de 
@@ -8953,7 +8615,7 @@ danos.
 <01>368.212
 <02>Seguro de veículos motorizados. Seguro de
 automóveis.
-<06>368.212.032.5 Responsabilidade
+      368.212.032.5 Responsabilidade
 
 <01>368.212.1
 <02>Seguro abrangente.
@@ -8969,15 +8631,15 @@ automóveis.
 
 <01>368.213
 <02>Seguro de motocicletas.
-<06>368.213 dividido como 368.212
+      368.213 dividido como 368.212
 
 <01>368.214
 <02>Seguro de veículos de transporte de mercadorias.
-<06>368.214 dividido como 368.212 
+      368.214 dividido como 368.212 
 
 <01>368.216
 <02>Seguro de ferrovias.
-<06>368.216 dividido como 368.212
+     368.216 dividido como 368.212
 
 <01>368.22
 <02>Seguro de transporte nas vias aquáticas interiores.
@@ -9081,7 +8743,7 @@ falta de pagamento do locatário.
 <01>368.86
 <02>Seguro de responsabilidades civis. Seguro
 de responsabilidade de terceiros.
-<06>368.86 dividido como 347.5
+      368.86 dividido como 347.5
 
 <01>368.87
 <02>Seguro contra danos e perdas indiretas.
@@ -9202,7 +8864,7 @@ membros da família. Pensões do parceiro.
 
 <01>368.941.2
 <02>Por doença.
-<06>368.941.2 dividido como 364.32 
+      368.941.2 dividido como 364.32 
 
 <01>368.941.4
 <02>Por acidente.
@@ -9212,7 +8874,7 @@ membros da família. Pensões do parceiro.
 
 <01>368.942
 <02>Seguro privado de saúde.
-<06>368.942 dividido como 364.32 
+      368.942 dividido como 364.32 
 
 <01>368.943
 <02>Seguro privado contra acidentes.

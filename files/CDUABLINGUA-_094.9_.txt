@@ -409,7 +409,7 @@ Exemplo(s) de combinação(ões):
 =371	Burushaski
 =41	Línguas afro-asiáticas (camito semíticas).
 =411                       Línguas semíticas.
-=41l.l	Línguas semíticas setentrionais.
+=411.1	Línguas semíticas setentrionais.
 =411.11	Acadiano (acádio).
 =411.111	Babilônico.
 =411.112	Assírio.
@@ -465,7 +465,7 @@ Exemplo(s) de Combinação(ões):
 =411.49	Outras línguas etíope-semíticas.
 =412	Egípcio-copta.
 Exemplo(s) de combinação(õex):
-       =412’0l Egípcio antigo 
+       =412’01 Egípcio antigo 
       =412’04 Egípcio médio 
       =412’05 Egípcio novo 
       =412’07 Egípcio ulterior (demótico) 
@@ -1232,7 +1232,7 @@ Exemplo(s) de Combinação(ões):
 =621.253	Línguas javanesas.
 =621.253.1	Javanês.
 Exemplo(s) de combinação(ões):
-       =62l.253’01 Kawi
+       =621.253’01 Kawi
 =621.253.2 Madurês.
 =621.253.3 Sundanês.
 =621.254 Línguas balinesas.
@@ -1755,8 +1755,8 @@ Para manuais do usuário (instruções sobre modo de usar, equipamento, instrume
 		       811.135.1’373.421(038) Romeno – Sinônimos - Dicionário
 		       81’373,421=135.1(038) Sinônimos – Romeno - Dicionário
 		       Quando for feita uma escolha, seguir uma opção com consistência.
- 		      →  8l’373 Lexicologia
-     →  8l’374 Lexicografia. Compilação e organização de dicionários
+ 		      →  81’373 Lexicologia
+     →  81’374 Lexicografia. Compilação e organização de dicionários
        O segundo e o terceiro exemplos são notações alternativas para a mesma obra.
 (04)	             Publicações avulsas não-seriadas. Separata.
 → 82-4 Ensaios

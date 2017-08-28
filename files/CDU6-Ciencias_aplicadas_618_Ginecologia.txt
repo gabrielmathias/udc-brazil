@@ -1,4 +1,5 @@
-﻿6 Ciências aplicadas. Medicina. Tecnologia.
+﻿<01>6
+<02>Ciências aplicadas. Medicina. Tecnologia.
       Classificar aqui generalidades sobre as ciências aplicadas e a tecnologia. 
 
 60 Biotecnologia.
@@ -306,7 +307,7 @@ Divisões principais
 611.1/8	Anatomia sistemática. Órgãos.
 611.1	Angiologia. Sistema cardiovascular.
 Vasos sangüíneos.
-      611.1 dividido como 616.11/.l4
+      611.1 dividido como 616.11/.14
 611.11	Perícárdio. Epicárdio.
 611.12	Coração. Endocárdio. Miocárdio.
 611.13	Artérias. Aorta.
@@ -384,7 +385,7 @@ genito-urinário). Órgãos urinários e sexuais.
 611.631	Testículos.
 611.632	Epidídimo.
 611.633	Appendix testis. Paradídimo.
-61l.634	Vas deferens. Canal deferente.
+611.634	Vas deferens. Canal deferente.
 611.635	Trato ejaculatório.
 611.636	Glândula vesiculosa. Glândula vesiculosa.
 611.637	Próstata.
@@ -402,7 +403,7 @@ ovarianos. Folículos de Graaf.
 611.654	Corpus albicans.
 611.656	Ovidutos. Trompas de Falópio.
 611.66	Uterus. Útero.
-61l.663	Cervix uteri. Colo uterino.
+611.663	Cervix uteri. Colo uterino.
 611.664	Endometrium. Endométrio (membrana mucosa
 uterina). Myometrium. Miométrio (revestimento muscular uterino).
 611.667	Mesometrium. Mesométrio. Órgãos
@@ -1166,7 +1167,7 @@ nascido. Fisiologia do desenvolvimento e
 teratológica.
       Especificar por meio de : 612 
 Exemplo(s) de combinação(ões):
-       6l2.64:612.17 O coração durante o desenvolvimento
+       612.64:612.17 O coração durante o desenvolvimento
 612.646	Embrião.
 612.647	Feto.
 612.648	O recém-nascido (neonato). Inclusive Viabilidade.
@@ -3710,7 +3711,7 @@ sintomas. Exame. Diagnóstico. Propedêutica.
 616-071.2	Aparência. Inclusive Expressão facial. Exame.
 Tipo. Fisionomia. Compleição. Posição. Postura, decúbito. 
 Exemplo(s) de combinação(ões):
-                                          616-056.44-07l.2 Fácies escrofulosa
+                                          616-056.44-071.2 Fácies escrofulosa
                                           616.12-071.2 Fácies cardíaca
 616-071.3	Topografia clínica. Inclusive Índices antropométricos. Medição. Goniometria.
 Antropometria.
@@ -3980,7 +3981,7 @@ Exemplo(s) de combinação(ões):
 618.4-72 Instrumentos para operações obstétricas
 616-74	Materiais e equipamento de reforço e reparação. 
                                 	Exemplo(s) de combinação(ões):
-616.3l4-74 Obturações dentais
+616.314-74 Obturações dentais
 616-76	Utensílios, dispositivos, etc. de correção e proteção. 
                               Exemplo(s) de combinação(ões):
 616 28-76 Aparelhos para surdez
@@ -4237,7 +4238,7 @@ Cordas vocais. Glote.
 Exemplo(s) de combinação(ões):
 616.231-089.85 Traqueotomia
 Subdivisões auxiliares especiais
-6116.23l-003.6  	Corpos estranhos na traquéia.
+6116.231-003.6  	Corpos estranhos na traquéia.
 616.231-008.41 	Tosse traqueal.
 616.232           	Bifurcação da traquéia.
 616.233           	Brônquios.
@@ -5182,7 +5183,7 @@ Divisões principais
 616.831.1	Vias de condução.
 616.831.2	Localizações. Distúrbios de determinados
 centros funcionais no cérebro.
-616.83l.3	Prosencéfalo (parte anterior do cérebro).
+616.831.3	Prosencéfalo (parte anterior do cérebro).
 Telencéfalo. Inclusive Córtex cerebral.
 616.831.4	Diencéfalo (talamencéfalo). Inclusive
 Comissuras brancas.
@@ -5234,21 +5235,21 @@ Subdivisões auxiliares especiais
 616.833-002	Neurite periférica. Inflamação dos nervos periféricos.
 616.833-009.7       	Neuralgia periférica.
 Divisões principais
-616.833.l	Nervos cranianos. Nervos sensoriais.
+616.833.1	Nervos cranianos. Nervos sensoriais.
 616.833.11	Nervos olfativos.
-616.833.l3	Nervo oculomotor.
-616.833.l4	Nervo troclear.
-616.833.l5	Nervo trigêmeo.
+616.833.13	Nervo oculomotor.
+616.833.14	Nervo troclear.
+616.833.15	Nervo trigêmeo.
 Subdivisões auxiliares especiais
 616.833.15-009.7  	Neuralgia do trigêmeo. Prosopalgia.
 Divisões principais
-616.833.l6	Nervo oculomotor externo (nervo abducente).
-616.833.l7	Nervo facial.
+616.833.16	Nervo oculomotor externo (nervo abducente).
+616.833.17	Nervo facial.
 Subdivisões auxiliares especiais
 616.833.17-009.11	Prosopoplegia. Paralisia do nervo facial. Paralisia de Bell.
 Divisões principais
-616.833.l8	Nervo auditivo.
-616.833.l9	Nervo glossofaríngeo.
+616.833.18	Nervo auditivo.
+616.833.19	Nervo glossofaríngeo.
 616.833.2	Nervos espinhais. Inclusive Raízes dos nervos
 espinhais. Afecções radiculares.
 616.833.3	Nervos cervicais.

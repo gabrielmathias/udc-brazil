@@ -4,7 +4,7 @@
 <01>666.942.5
 <02>Cimento Portland rico em argila, rico em
  alumina
-#ERRO2(Texto orfao sem tag ?)  <09>666.948Cimentos com alto teor de alumina
+<09>666.948 Cimentos com alto teor de alumina
 
 <01>666.942.6
 <02>Cimento Portland rico em sílica.
@@ -114,11 +114,11 @@ diatomáceas (Diatomita. Kieselguhr).
 produtos de pedra artificial (para primeira mão de emboço, revestimento final,
 camadas de suporte, enchimento, ligação, etc.). 
 	Indicar os agregados por meio de .022.32 (listado sob 66) e dos auxiliares comuns de materiais (Tabela 1k –03)
-<06>666.96 .022.32 Agregados para composições de assentamento duro
+	      666.96 .022.32 Agregados para composições de assentamento duro
 <06>666.96.022.32-032 Agregados minerais
-<06>666.96 022.32-032.7 Agregados betuminosos
+      666.96 022.32-032.7 Agregados betuminosos
 <06>666.96.022.32-035 Agregados de origem orgânica (vegetal, animal)
-<06>666.96.022.32035.3 Agregados de madeira, cortiça, serragem, etc.
+      666.96.022.32035.3 Agregados de madeira, cortiça, serragem, etc.
 <09>666.914.5 Composições para primeira mão de emboço, revestimento final
 <09>691.3/.5
 <09>692.53 Assoalhos. Acabamentos de assoalhos (superfícies de desgaste), inclusive os rodapés e molduras 
@@ -456,12 +456,8 @@ isolante.
 <09>678.029.8 Decoração. Alvejamento. Tingimento. Coloramento
  
 <09>Subdivisões auxiliares especiais
-
-<01>667
-<02>-12	Cores. Matizes.
-
-<01>667
-<02>-12 dividido como 535-2
+<06>667-12	Cores. Matizes.
+<06>667-12 dividido como 535-2
 	Grupo da cor vermelha.
 <09>Divisões principais
 
@@ -1112,7 +1108,7 @@ atmosféricas.
 <01>667.637.8
 <02>Revestimentos para produção de determinados
 efeitos na superfície.
-<06>667.637.8 dividido como 667.629.8
+      667.637.8 dividido como 667.629.8
 
 <01>667.638
 <02>Revestimentos segundo a função no sistema de revestimento.
@@ -1146,7 +1142,7 @@ intermediárias. Niveladores. Massa corrida.
 <01>667.646
 <02>Técnica de revestimento segundo o
 substrato (material a ser pintado).
-<06>667.646 dividido como 667.636
+      667.646 dividido como 667.636
 
 <01>667.647
 <02>Técnica de revestimento segundo as propriedades do revestimento.
@@ -1243,7 +1239,7 @@ pigmentos.
 <01>667.657.8
 <02>Camadas finais com efeito especial de
 superfície.
-<06>667.65 7.8 dividido como 667.629.8
+      667.65 7.8 dividido como 667.629.8
 
 <01>667.658
 <02>Camadas, revestimentos específicos.
@@ -1276,7 +1272,7 @@ de tintas. Dispositivos para misturar tintas, etc.
 
 <01>667.661.2
 <02>Equipamento para aplicar o revestimento. Inclusive Brochas, pincéis de tinta. Pistolas de borrifamento. Sprays.
-<06>667.661.2 dividido como 667.634
+                                           667.661.2 dividido como 667.634
 <09>687.978 Pincéis de pintura. Pincéis para artistas
 <09>75.022.2 Para aplicação de pigmento
 
@@ -1294,7 +1290,7 @@ de tintas. Dispositivos para misturar tintas, etc.
 
 <01>667.661.34
 <02>Dispositivos para produção de efeitos de ranhura, craquelê , etc. 
-<06>667.661.3
+	       667.661.3
 
 <01>667.661.4
 <02>Equipamento para produção de padrões, desenhos, letreiros. Inclusive Estênceis. Rolos.
@@ -1390,226 +1386,98 @@ plásticos.
 <09>622 Mineração
 <09>661.8 Compostos metálicos em geral. Sais. Compostos minerais
 <09>Subdivisões auxiliares especiais
-
-<01>669
-<02>-1	Estado do metal ou liga, segundo o tratamento.
+<06>669-1	Estado do metal ou liga, segundo o tratamento.
                                           Os auxiliares de 62-1... não são aplicáveis em 669 e suas subdivisões. Para o estado, a condição ou a forma dos
       produtos metalúrgicos ou dos materiais semiacabados, usar -4... (de 62-4...)
-
-<01>669
-<02>-11	Metais em estado natural.
-
-<01>669
-<02>-122	Metais laminados.
+<06>669-11	Metais em estado natural.
+<06>669-122	Metais laminados.
 <09>669-177 Metais enrijecidos por trabalho. Metais enrijecidos por tensão
-
-<01>669
-<02>-124	Metais trefilados.
-
-<01>669
-<02>-126	Metais extrudados.
-
-<01>669
-<02>-13	Metais trabalhados, forjados ou batidos.
+<06>669-124	Metais trefilados.
+<06>669-126	Metais extrudados.
+<06>669-13	Metais trabalhados, forjados ou batidos.
 <09>Metais moldados a quente.
-
-<01>669
-<02>-131	Metais trabalhados, forjados ou batidos em
+<06>669-131	Metais trabalhados, forjados ou batidos em
 geral.
-
-<01>669
-<02>-132	Metais batidos.
-
-<01>669
-<02>-133	Metais martelados.
-
-<01>669
-<02>-134	Metais forjados.
-
-<01>669
-<02>-135	Metais prensados.
+<06>669-132	Metais batidos.
+<06>669-133	Metais martelados.
+<06>669-134	Metais forjados.
+<06>669-135	Metais prensados.
 <09>669-126 Metais extrudados
-
-<01>669
-<02>-136	Metais estampados, esmagados com
+<06>669-136	Metais estampados, esmagados com
 estampa.
-
-<01>669
-<02>-138	Metais preparados pela metalurgia do pó. Inclusive Compactos de limalha. Compactos sinterizados.
+<06>669-138	Metais preparados pela metalurgia do pó. Inclusive Compactos de limalha. Compactos sinterizados.
 <09>621.762 Metalurgia do pó
-
-<01>669
-<02>-14	Metais fundidos.
+<06>669-14	Metais fundidos.
 <09>621.74 Fundição. Instalações e equipamento de fundição. Moldagem e fundição
-
-<01>669
-<02>-141	Metais fundidos a areia, em moldes de arenito.
-
-<01>669
-<02>-142	Metais fundidos por centrifugação.
-
-<01>669
-<02>-143	Metais fundidos em matrizes, moldados por injeção.
-
-<01>669
-<02>-144	Metais fundidos por resfriamento.
-
-<01>669
-<02>-145	Metais de fundição precisa. Inclusive Metais moldados com moldes próprios (de cera, p. ex.,que se derretem depois de 
+<06>669-141	Metais fundidos a areia, em moldes de arenito.
+<06>669-142	Metais fundidos por centrifugação.
+<06>669-143	Metais fundidos em matrizes, moldados por injeção.
+<06>669-144	Metais fundidos por resfriamento.
+<06>669-145	Metais de fundição precisa. Inclusive Metais moldados com moldes próprios (de cera, p. ex.,que se derretem depois de 
                                  copiados).
-
-<01>669
-<02>-146	Metais de fundição composta.
-
-<01>669
-<02>-147	Metais de fundição contínua.
-
-<01>669
-<02>-15	Metais tratados a calor.
+<06>669-146	Metais de fundição composta.
+<06>669-147	Metais de fundição contínua.
+<06>669-15	Metais tratados a calor.
 <09>Especificar por meio de :621.785...
 <09>669.97 Metais tratados a calor
-
-<01>669
-<02>-151	Metais aquecidos em geral.
-
-<01>669
-<02>-151.6	Velocidade de aquecimento.
-
-<01>669
-<02>-151.7	Metais submetidos a banho.
-
-<01>669
-<02>-151.8	Mal aquecidos. Aquecidos defeituosamente.
-
-<01>669
-<02>-151.82	Queimados.
-
-<01>669
-<02>-151.83	Superaquecidos.
-
-<01>669
-<02>-151.84	Descarburizados.
-
-<01>669
-<02>-151.86	Modificados na composição da superfície. Inclusive Deszincados.
-
-<01>669
-<02>-153	Metais temperados.
-
-<01>669
-<02>-153.3	De têmpera negra (preto recozido).
-
-<01>669
-<02>-153.4	De têmpera brilhante, vermelho brilhante.
-
-<01>669
-<02>-153.6	Temperados por processos que envolvem
+<06>669-151	Metais aquecidos em geral.
+<06>669-151.6	Velocidade de aquecimento.
+<06>669-151.7	Metais submetidos a banho.
+<06>669-151.8	Mal aquecidos. Aquecidos defeituosamente.
+<06>669-151.82	Queimados.
+<06>669-151.83	Superaquecidos.
+<06>669-151.84	Descarburizados.
+<06>669-151.86	Modificados na composição da superfície. Inclusive Deszincados.
+<06>669-153	Metais temperados.
+<06>669-153.3	De têmpera negra (preto recozido).
+<06>669-153.4	De têmpera brilhante, vermelho brilhante.
+<06>669-153.6	Temperados por processos que envolvem
 transformação de fase.
-
-<01>669
-<02>-153.7	Temperados sem transformação de fase.
-
-<01>669
-<02>-154	Metais derretidos.
-
-<01>669
-<02>-155	Metais de cementação carburante. Metais de
+<06>669-153.7	Temperados sem transformação de fase.
+<06>669-154	Metais derretidos.
+<06>669-155	Metais de cementação carburante. Metais de
 superfície enrijecida.
-
-<01>669
-<02>-155.1 Metais de cementação carburante sem
+<06>669-155.1 Metais de cementação carburante sem
 enrijecimento.
-
-<01>669
-<02>-155.2	Com cementação enrijecida
-
-<01>669
-<02>-155.3	Nitridados. Carbo-nitridados. Metais
+<06>669-155.2	Com cementação enrijecida
+<06>669-155.3	Nitridados. Carbo-nitridados. Metais
 cianidados.
-
-<01>669
-<02>-155.4	De superfície enrijecida por aquecimento
+<06>669-155.4	De superfície enrijecida por aquecimento
 
 <01>l
 <02>ocalizado. Enrijecimento a chama
 <09>621.785.54 Têmpera superficial por aquecimento localizado
-
-<01>669
-<02>-156	Metais enrijecidos, temperados.
-
-<01>669
-<02>-156.2	Endurecido por jato de ar.
-
-<01>669
-<02>-156.3	Enrijecido em água ou solução aquosa.
-
-<01>669
-<02>-156.4	Enrijecido em ar líquido ou meio similar.
-
-<01>669
-<02>-156.5	Enrijecido em óleo.
-
-<01>669
-<02>-156.6	Enrijecido em metais derretidos ou sais.
-
-<01>669
-<02>-156.7	Enrijecidos em meios sólidos. Inclusive em areia
-
-<01>669
-<02>-157	Metais temperados e envelhecidos.
-
-<01>669
-<02>-157.2	Metais temperados.
-
-<01>669
-<02>-157.8	Metais envelhecidos. Metais endurecidos pelo
+<06>669-156	Metais enrijecidos, temperados.
+<06>669-156.2	Endurecido por jato de ar.
+<06>669-156.3	Enrijecido em água ou solução aquosa.
+<06>669-156.4	Enrijecido em ar líquido ou meio similar.
+<06>669-156.5	Enrijecido em óleo.
+<06>669-156.6	Enrijecido em metais derretidos ou sais.
+<06>669-156.7	Enrijecidos em meios sólidos. Inclusive em areia
+<06>669-157	Metais temperados e envelhecidos.
+<06>669-157.2	Metais temperados.
+<06>669-157.8	Metais envelhecidos. Metais endurecidos pelo
 tempo. Metais endurecidos por precipitação.
-
-<01>669
-<02>-157.9	Metais tratados por processos combinados.
-
-<01>669
-<02>-158	Metais resfriados.
-
-<01>669
-<02>-158.8	Velocidade de resfriamento.
-
-<01>669
-<02>-159.2	Metais tratados a baixa-temperatura.
-
-<01>669
-<02>-17	Metais estruturalmente modificados
+<06>669-157.9	Metais tratados por processos combinados.
+<06>669-158	Metais resfriados.
+<06>669-158.8	Velocidade de resfriamento.
+<06>669-159.2	Metais tratados a baixa-temperatura.
+<06>669-17	Metais estruturalmente modificados
 (principalmente a estrutura cristalina) por
 outros meios que não apenas o calor.
-
-<01>669
-<02>-172	Metais de cristal único, monocristalinos.
-
-<01>669
-<02>-174	Metais recristalizados.
-
-<01>669
-<02>-175	Metais com tamanho anormal de grão.
-
-<01>669
-<02>-176	Metais com orientação definida.
-
-<01>669
-<02>-177	Metais enrijecidos por trabalho. Metais
+<06>669-172	Metais de cristal único, monocristalinos.
+<06>669-174	Metais recristalizados.
+<06>669-175	Metais com tamanho anormal de grão.
+<06>669-176	Metais com orientação definida.
+<06>669-177	Metais enrijecidos por trabalho. Metais
 enrijecidos por tensão.
 <09>669-122 Metais laminados
-
-<01>669
-<02>-178	Metais eletromagneticamente modificados,
+<06>669-178	Metais eletromagneticamente modificados,
 enrijecidos, etc..
-
-<01>669
-<02>-19	Metais caracterizados por outras
+<06>669-19	Metais caracterizados por outras
 características especiais.
 <09>Desenvolvido em 669.15-19... e 669 35-19...
-
-<01>669
-<02>-2/-9	Detalhes de maquinaria, instalações e produtos.
+<06>669-2/-9	Detalhes de maquinaria, instalações e produtos.
       Os auxiliares -2/-9 (de 62-1/-8 e 66-9) são aplicáveis por todo o 669 
 <06>669-2 Componentes de máquinas, aparelhos, equipamento 
 <06>669-4 Estado, condição, forma dos produtos metalúrgicos (e dos materiais semiacabados)
@@ -1632,7 +1500,7 @@ características especiais.
 <01>669.01/.09
 <02>Propriedades, processos e equipamento metalúrgicos
 	      Para as subdivisões, ver 66.01/.09; o .05 é mais desenvolvido aqui
-<06>669.01/.09 dividido como 66.01/.09
+	      669.01/.09 dividido como 66.01/.09
 
 <01>669.01
 <02>Metalurgia em geral. Inclusive Produção e importância dos metais
@@ -1868,7 +1736,7 @@ níquel).
 
 <01>669.018.8
 <02>Metais e ligas resistentes á corrosão.
-<06>669.018.8 dividido como 620.193
+      669.018.8 dividido como 620.193
 
 <01>669.018.821
 <02>Metais e ligas resistentes a efeitos climáticos em geral.
@@ -1904,8 +1772,8 @@ níquel).
 <02>Processos e instalações de aquecimento,
 fusão e refinação.
 <09>Subdividir como em 66.04... 
-<06>669.046 Processos e instalações térmicas na metalurgia. Processos de aquecimento e fusão 
-<06>669.049.4 Separação das fases metálicas sólida e líquida por fusão parcial
+                                        669.046 Processos e instalações térmicas na metalurgia. Processos de aquecimento e fusão 
+                                        669.049.4 Separação das fases metálicas sólida e líquida por fusão parcial
 
 <01>669.05
 <02>Processos metalúrgicos gerais e fundamentais. 
@@ -1925,7 +1793,7 @@ misturas de minério.
 <01>669.053
 <02>Extração de minérios. Metalurgia de extração
                                      Para as subdivisões, ver os metais individuais em 669.2/.8
-<06>669.3.053 Metalurgia de extração do cobre. Extração do cobre
+                      669.3.053 Metalurgia de extração do cobre. Extração do cobre
 
 <01>669.053.2
 <02>Extração de metais a seco. Pirometalurgia.
@@ -1949,7 +1817,7 @@ similares.
 <01>669.054.3
 <02>Processos especiais de refinação para determinados metais
                                              Para as subdivisões, ver os metais específicos em 669.2/.8
-<06>669.054. dividido como 669.2/.8
+                                             669.054. dividido como 669.2/.8
 
 <01>669.054.7
 <02>Refinação de metais por meios químicos e similares.
@@ -1968,21 +1836,21 @@ similares.
 
 <01>669.055
 <02>Ligas
-<06>1. Para indicar ligas segundo as propriedades, acrescentar .018 e suas subdivisões ao número para a liga ou grupo de ligas,
+                                            1. Para indicar ligas segundo as propriedades, acrescentar .018 e suas subdivisões ao número para a liga ou grupo de ligas,
                                             p. ex.: 
-<06>669.14.018.841 Aços resistentes a ácidos
+                                           669.14.018.841 Aços resistentes a ácidos
                                            [669.21/.23].055.018 Ligas de metais nobres segundo as propriedades.
-<06>669.3.055.018.24 Ligas de cobre como metais suportes
+                                           669.3.055.018.24 Ligas de cobre como metais suportes
                                            [669.85/.86].055.018 Ligas de metais raros segundo as propriedades.
-<06>2. para indicar ligas segundo a composição, classificar no número do elemento principal, seguido de .055; indicar novos 
+                                          2. para indicar ligas segundo a composição, classificar no número do elemento principal, seguido de .055; indicar novos 
 		    componentes 
                                           por meio da combinação de dois pontos com as subdivisões de 669.2/.8, em ordem decrescente de quantidade (ou na ordem da 
 		  CDU,  se for a preferida, ou se não se conhecer a razão dos componentes)
                                          [669.21/.23].055 Ligas de metais nobres
                                         [669.21.055:669.22 Ligas de ouro e prata
-<06>669.21.055 Ligas de ouro
-<06>669.3.055:669.5:669.6 Ligas de cobre, zinco e estanho
-<06>669.3.055 Ligas de cobre
+		  669.21.055 Ligas de ouro
+<06>669.5:669.6 Ligas de cobre, zinco e estanho
+		 669.3.055 Ligas de cobre
 <09>669.017.1 Sistemas de ligas
 <09>669.018 Metais e ligas segundo suas propriedades gerais
 
@@ -1990,7 +1858,7 @@ similares.
 <02>Fabricação e acabamento de metais e ligas. 
                                          Indicar os detalhes por meio de :...
 <06>669.3.056:621.771.2 Laminação do cobre
-<06>669.3.056 Acabamento do cobre
+	      669.3.056 Acabamento do cobre
 
 <01>669.056.9
 <02>Acabamento da superfície, colorimentos, etc. sobre metais em geral. Metais com acabamento de superfície.
@@ -2023,7 +1891,7 @@ similares.
 <02>Usos, aplicações de metais e ligas específicos.
 	      Indicar detalhes por meio de :...
 <06>669.3.057:663.4 Aplicações de cobre no fabrico de cerveja
-<06>669.3.057 Aplicações do cobre
+	      669.3.057 Aplicações do cobre
 
 <01>669.058
 <02>Metais aplicados como acabamento (sobre metal ou qualquer outro material). Inclusive Revestimentos, 
@@ -2041,7 +1909,7 @@ similares.
 <01>669.058.4
 <02>Revestimento do metal e/ou suas ligas em materiais não-metálicos.
 <06>669.71.058.4:676 Revestimento de alumínio em papel e papelão
-<06>669.71.058.4 Revestimento de alumínio em não-metais
+	      669.71.058.4 Revestimento de alumínio em não-metais
 
 <01>669.058.5
 <02>Revestimento do metal e/ou ligas no mesmo metal ou suas ligas.
@@ -2071,8 +1939,8 @@ similares.
 <02>Outros processos metalúrgicos.
 <09>Subdividir como em 66.09... 
 
-<01>669.094.
-#ERRO1( l usado no lugar do 1 ?) <02>l Redução de metais em geral. Hidrogenação
+<01>669.094.1
+<02>Redução de metais em geral. Hidrogenação
 
 <01>669.094.22
 <02>Redução com uso de carvão, coque e outras substâncias com alto teor de carbono
@@ -2339,67 +2207,27 @@ pneumáticos. Inclusive Processo rotor. Processo Kaldo.
 exceto carbono. Aço-liga. Ferro fundido com liga. Ferro-ligas.
                                 Indicar os componentes das ligas pela combinação com apóstrofo, conforme as instruções em 669.5
 <09>Subdivisões auxiliares especiais
-
-<01>669.15
-<02>-192	Ligas de ferro sem carbono.
-
-<01>669.15`24
-<02>’25-192 Ligas de ferro-níquel-cobalto sem carbono
-
-<01>669.15
-<02>-194	Ligas de ferro com baixo teor de carbono. Aços-liga
-
-<01>669.15`24
-<02>’26-194 Ligas de aço. Níquel e cromo com baixo teor de carbono. Aço cromo-niquel.
-
-<01>669.15`28
-<02>-194 Aço de molibdênio
-
-<01>669.15
-<02>-194.2            Aços de baixa liga.
-
-<01>669.15
-<02>-194.3	Aços de alta liga.
-
-<01>669.15
-<02>-194.5            Aços segundo a estrutura. 
-
-<01>669.15
-<02>-194.52          Hipoeutectóide. Hipoperlítica. 
-
-<01>669.15
-<02>-194.53          Eutectóide. Perlítica. 
-
-<01>669.15
-<02>-194.54           Hipereutectóide. Hiperperlítica. 
-
-<01>669.15
-<02>-194.55           Martensílica. 
-
-<01>669.15
-<02>-194.56           Austenítica. 
-
-<01>669.15
-<02>-194.57           Ferrítica. 
-
-<01>669.15
-<02>-194.58           Ledeburítica. 
-
-<01>669.15
-<02>-194.591         Bainítica
-
-<01>669.15
-<02>-196	 Ligas ferrosas de alto carbono. Ferro fundido com liga.
-
-<01>669.15`24
-<02>’25-196 Ferro-fundido com níquel-cobalto
+<06>669.15-192	Ligas de ferro sem carbono.
+<06>669.15`24’25-192 Ligas de ferro-níquel-cobalto sem carbono
+<06>669.15-194	Ligas de ferro com baixo teor de carbono. Aços-liga
+<06>669.15`24’26-194 Ligas de aço. Níquel e cromo com baixo teor de carbono. Aço cromo-niquel.
+<06>669.15`28-194 Aço de molibdênio
+<06>669.15-194.2            Aços de baixa liga.
+<06>669.15-194.3	Aços de alta liga.
+<06>669.15-194.5            Aços segundo a estrutura. 
+<06>669.15-194.52          Hipoeutectóide. Hipoperlítica. 
+<06>669.15-194.53          Eutectóide. Perlítica. 
+<06>669.15-194.54           Hipereutectóide. Hiperperlítica. 
+<06>669.15-194.55           Martensílica. 
+<06>669.15-194.56           Austenítica. 
+<06>669.15-194.57           Ferrítica. 
+<06>669.15-194.58           Ledeburítica. 
+<06>669.15-194.591         Bainítica
+<06>669.15-196	 Ligas ferrosas de alto carbono. Ferro fundido com liga.
+<06>669.15`24’25-196 Ferro-fundido com níquel-cobalto
 <09>669.13 Ferro fundido
-
-<01>669.15
-<02>-198	Ferroligas.
-
-<01>669.15
-<02>'74-198 Ferromanganês
+<06>669.15-198	Ferroligas.
+<06>669.15'74-198 Ferromanganês
 <09>Divisões principais
 
 <01>669.16
@@ -2522,7 +2350,7 @@ emergência
 <02>Aquecimento do jato de ar. Fornos de jato de ar
 quente.
 
-<01>669.162.23l
+<01>669.162.231
 <02>Fornos de tijolo com aquecimento intermitente.
 
 <01>669.162.232
@@ -2672,11 +2500,11 @@ exceto enxofre ou silício de ferro-gusa.
 
 <01>669.162.3
 <02>Alto-fornos a carvão vegetal.
-<06>669.162. 3 dividido como 669.162.2
+      669.162. 3 dividido como 669.162.2
 
 <01>669.162.4
 <02>Altos-fomos elétricos.
-<06>669.162.4 dividido como 669.162.2
+      669.162.4 dividido como 669.162.2
 
 <01>669.162.6
 <02>Produção de ferro-gusa sintético.
@@ -2723,7 +2551,7 @@ exceto enxofre ou silício de ferro-gusa.
 
 <01>669.18
 <02>Produção de aço.
-<06>669.18.013 Usinas de produção de aço. Usinas siderúrgicas
+                                            669.18.013 Usinas de produção de aço. Usinas siderúrgicas
 
 <01>669.181
 <02>Processos diretos para produção de ferro
@@ -2804,9 +2632,7 @@ aberta modificados.
 
 <01>669.183.211.2
 <02>Soleiras.
-
-<01>669.183
-<02>-211.3            Paredes de fornos. Coroa. Teto.
+<06>669.183-211.3            Paredes de fornos. Coroa. Teto.
 
 <01>669.183.211.4
 <02>Orifícios de carga. Portas de fornos.
@@ -2819,9 +2645,7 @@ aberta modificados.
 
 <01>669.183.212.2
 <02>Blocos para combustão de gás.
-
-<01>669.183
-<02>-212.3            Queimadores para óleo combustível.
+<06>669.183-212.3            Queimadores para óleo combustível.
 
 <01>669.183.212.4
 <02>Tomadas de gás.
@@ -2838,9 +2662,7 @@ descarburização, etc.
 
 <01>669.183.213.l
 <02>Projeto, arranjo de regeneradores.
-
-<01>669.183
-<02>-213.2            Controladores. Grades de controladores. Tijolos de controladores.
+<06>669.183-213.2            Controladores. Grades de controladores. Tijolos de controladores.
 
 <01>669.183.213.3
 <02>Tamanhos de câmaras de gás e câmaras de ar.
@@ -2905,11 +2727,11 @@ de fusão.
 
 <01>669.183.3
 <02>Processo ácido de soleira aberta.
-<06>669.183.3 dividido como 669.183.2
+      669.183.3 dividido como 669.183.2
 
 <01>669.183.4
 <02>Processo básico de soleira aberta.
-<06>669.183.4 dividido como 669.183.2
+      669.183.4 dividido como 669.183.2
 
 <01>669.183.5
 <02>Processos múltiplex. Processos dúplex.
@@ -3060,9 +2882,7 @@ conversor (e processos similares).
 
 <01>669.187.2.036
 <02>Partes dos eletrofornos siderúrgicos.
-
-<01>669.187.2.036`621.3.036
-<02>
+<06>669.187.2.036`621.3.036 
 <09>Divisões principais
 
 <01>669.187.23
@@ -3074,7 +2894,7 @@ injeção de oxigênio.
 
 <01>669.187.25
 <02>Processos de fusão.
-#ERRO2(Texto orfao sem tag ?)  <09>669.046Processos e instalações térmicas na metalurgia. Processos de aquecimento e 
+<09>669.046 Processos e instalações térmicas na metalurgia. Processos de aquecimento e 
                                   fusão
 
 <01>669.187.28
@@ -3453,24 +3273,12 @@ de cobre maleável.
 <01>669.356
 <02>Ligas de cobre e estanho. Bronzes
 <09>Subdivisões auxiliares especiais
-
-<01>669.35
-<02>-191	Estrutura alfa.
-
-<01>669.35`6
-<02>-191 Bronze alfa
-
-<01>669.35
-<02>-192	Estrutura beta.
-
-<01>669.35`6
-<02>-l 92 Bronze beta
-
-<01>669.35
-<02>-193	Estrutura gama.
-
-<01>669.35`5
-<02>-193 Latão gama 
+<06>669.35-191	Estrutura alfa.
+<06>669.35`6-191 Bronze alfa
+<06>669.35-192	Estrutura beta.
+<06>669.35`6-l 92 Bronze beta
+<06>669.35-193	Estrutura gama.
+<06>669.35`5-193 Latão gama 
 <09>Divisões principais
 
 <01>669.369
@@ -3658,9 +3466,7 @@ revestimento de estanho.
 
 <01>669.65.018.24
 <02>Metal branco de mancal (metal de Babbit)  
-
-<01>669.65`4
-<02>Ligas de estanho e chumbo. Soldas macias (do ponto de vista metalúrgico)
+<06>669.65`4 Ligas de estanho e chumbo. Soldas macias (do ponto de vista metalúrgico)
 <09>621.791.3 Soldagem. Soldagem com latão, soldagem forte. Soldagem com bronze
 
 <01>669.68
@@ -3681,7 +3487,7 @@ revestimento de estanho.
 
 <01>669.7
 <02>Metais leves em geral.
-<06>669.7.018 Metais leves segundo suas propriedades gerais. Ligas de metais leves em geral
+                                           669.7.018 Metais leves segundo suas propriedades gerais. Ligas de metais leves em geral
 
 <01>669.71
 <02>Alumínio.
@@ -3983,7 +3789,7 @@ produtos intermediários e resíduos.
 
 <01>669.88
 <02>Metais alcalinos.
-#ERRO2(Texto orfao sem tag ?)  <09>661.3Produção de solda e potassa, de álcalis
+<09>661.3 Produção de solda e potassa, de álcalis
 
 <01>669.882
 <02>Potássio.
@@ -4051,7 +3857,7 @@ materiais.
 <01>67.05
 <02>Máquinas. Instalações. Ferramentas.
 <09>621.7 Tecnologia mecânica em geral: processos, ferramentas, máquinas, equipamento
-#ERRO2(Texto orfao sem tag ?)  <09>621.9Trabalho ou usinagem com formação de cavacos, aparas. Usinagem com abrasivos. Martelos e prensas
+<09>621.9 Trabalho ou usinagem com formação de cavacos, aparas. Usinagem com abrasivos. Martelos e prensas
 
 <01>67.06
 <02>Produtos.
@@ -4184,7 +3990,7 @@ diversas.
 <01>671.411/.418
 <02>Moedas de metal.
 
-<01>671.41l/.4l8
+<01>671.411/.418
 <02>dividido como 669.l/.8
 
 <01>671.412.1
@@ -4197,8 +4003,8 @@ diversas.
 <02>Medalhas. Medalhões. Placas.
 <09>Plaquetas.
 
-<01>67l.42
-<02>dividido como 67l.4
+<01>671.42
+<02>dividido como 671.4
 <09>355.134.2 Insígnias. Distintivos de honra. Honras militares
 <09>671.128 Distintivos e condecorações semelhantes
 
@@ -4330,7 +4136,7 @@ diversas.
 
 <01>672.711
 <02>Armas para cortar, furar, cravar. Inclusive  Adagas, facas de combate. 
-<06>672.711 dividido como 623.444
+                                         672.711 dividido como 623.444
 
 <01>672.712
 <02>Facas de bolso. Inclusive  Canivetes. Canivetes de mola. Canivetes grandes.
@@ -4493,30 +4299,14 @@ sistemas de tubulação.
 <02>Indústria da madeira e de trabalhos com madeira
 
 <09>Indicar o estado e forma dos produtos d emadeira por meio de -4... de 62- 4...
-
-<01>674
-<02>-412 Madeira cilíndrica. Troncos, toras, etc.
-
-<01>674
-<02>-413 Chapas grossas. Tábuas, pranchas, etc.
-
-<01>674
-<02>-414 Chapas médias. Pranchas, tábuas finas, etc.
-
-<01>674
-<02>-415 Chapas finas, p. ex., chapas para trabalho ornamentado
-
-<01>674
-<02>-416 Chapas muito finas. Folheados
-
-<01>674
-<02>-419 Tábuas e placas compostas. Tábua laminada
-
-<01>674
-<02>-419.3 Madeira compensada
-
-<01>674
-<02>-422 Perfis convexos. Seções sólidas. Toros. Ripas. Tarugos. Varas. Molduras. Cornijas, etc.
+<06>674-412 Madeira cilíndrica. Troncos, toras, etc.
+<06>674-413 Chapas grossas. Tábuas, pranchas, etc.
+<06>674-414 Chapas médias. Pranchas, tábuas finas, etc.
+<06>674-415 Chapas finas, p. ex., chapas para trabalho ornamentado
+<06>674-416 Chapas muito finas. Folheados
+<06>674-419 Tábuas e placas compostas. Tábua laminada
+<06>674-419.3 Madeira compensada
+<06>674-422 Perfis convexos. Seções sólidas. Toros. Ripas. Tarugos. Varas. Molduras. Cornijas, etc.
 <06>674-423 Perfis côncavos. Moldes ocos. Seções angulares, etc.
 <09>630*83 Indústrias madeireiras e seus produtos. Usos da madeira. Fabricação de objetos de madeira
 <09>684 Indústria do mobiliário e indústrias afins. Fabricação de móveis. Estofamento
@@ -4600,7 +4390,7 @@ decíduas, latifoliadas.
 
 <01>674.031.5/.9
 <02>Madeiras duras segundo as famílias botânicas.
-<06>674.031.5/.9  dividido como 582.5/.9,  mas aqui ocorrem especificações adicionais
+                                         674.031.5/.9  dividido como 582.5/.9,  mas aqui ocorrem especificações adicionais
 
 <01>674.031.628.2
 <02>Jungladáceas. Inclusive  Nogueira norte-americana (Carya).
@@ -4610,7 +4400,7 @@ decíduas, latifoliadas.
 
 <01>674.031.632.1
 <02>Betuláceas. Inclusive  Bétula (Betula)
-<06>674.031.5/.9
+                                             674.031.5/.9
 
 <01>674.031.632.2
 <02>Fagáceas. Inclusive Faia (Fagus). Castanheiro (Castanea). Carvalho (Quercus). 674.Q31.5/.9
@@ -4669,7 +4459,7 @@ decíduas, latifoliadas.
 
 <01>674.032.3/.4
 <02>Madeiras macias, segundo as famílias botânicas.
-<06>674.032.3/.4 dividido como 582.3/.4,  mas aqui ocorrem especificações adicionais
+      674.032.3/.4 dividido como 582.3/.4,  mas aqui ocorrem especificações adicionais
 
 <01>674.032.471
 <02>Taxáceas. Inclusive Teixo (Taxus).
@@ -4810,7 +4600,7 @@ a combustão.
 <09>621.93 Serras, serração e técnicas semelhantes de corte
 <09>621.968 Máquinas e utensílios para fender, rachar e separar
 <09>621.342 Ferramentas de corte
-#ERRO2(Texto orfao sem tag ?)  <09>672.719Outros instrumentos de corte
+<09>672.719 Outros instrumentos de corte
 
 <01>674.054
 <02>Ferramentas, máquinas para entalhar, escavar. Inclusive Cinzéis. Goivas.
@@ -4833,7 +4623,7 @@ a combustão.
 <01>674.058
 <02>Ferramentas, máquinas para bater,
 pregar, vergar, unir.
-<06>674.058 dividido como  674.028
+      674.058 dividido como  674.028
 
 <01>674.058.5
 <02>Dispositivos para pregar. Martelos. Máquinas de pregar. 
@@ -4899,9 +4689,7 @@ de serraria.
 
 <01>674.2
 <02>Marcenaria.
-
-<01>674.2
-<02>-419.3 Marcenaria com madeira compensada
+<06>674.2-419.3 Marcenaria com madeira compensada
 
 <01>674.21
 <02>Marcenaria de construção. Inclusive  Marcenaria para instalações de edifícios, divisórias, portas, janelas.
@@ -5007,9 +4795,7 @@ de madeira.
 
 <01>674.812
 <02>Madeira prensada. Madeira densificada.
-
-<01>674.812
-<02>-419.3 Madeira compensada prensada
+<06>674.812-419.3 Madeira compensada prensada
 
 <01>674.815
 <02>Materiais de aparas de madeira prensada em forma de tábuas, pranchas, armações, etc..
@@ -5022,9 +4808,7 @@ plástica.
 <01>674.817
 <02>Produtos da polpa prensada de madeira.
 <09>Materiais de fibra de madeira.
-
-<01>674.817
-<02>-415 Chapa de fibra de madeira
+<06>674.817-415 Chapa de fibra de madeira
 
 <01>674.82
 <02>Lã de madeira. Aparas de madeira. Serragem.
@@ -5033,12 +4817,8 @@ plástica.
 
 <01>674.83
 <02>Processamento de cortiça. Inclusive Rolhas de cortiça. 
-
-<01>674.83
-<02>-41 Cortiça em chapas, blocos, etc. 
-
-<01>674.83
-<02>-493 Flocos de cortiça
+<06>674.83-41 Cortiça em chapas, blocos, etc. 
+<06>674.83-493 Flocos de cortiça
 
 <01>674.84
 <02>Cortiça sintética. Substituto de cortiça.
@@ -5224,11 +5004,11 @@ cru e acabado), sua detecção e conserto.
 
 <01>675.019.1
 <02>Defeitos visíveis (defeitos na superfície).
-<06>675.019.1 dividido como 620.191
+      675.019.1 dividido como 620.191
 
 <01>675.019.2
 <02>Defeitos internos. Inclusive Consistência. Encolhimento.
-<06>675.019.2 dividido como 620.192
+ 675.019.2 dividido como 620.192
 
 <01>675.019.3
 <02>Defeitos, falhas, danos devidos a influências
@@ -5280,8 +5060,8 @@ curtimento).
 
 <01>675.023.5
 <02>Remoção de cal.
-<06>675.023.5:54-32 Remoção de cal com ácidos 
-<06>675.023.5:54-38 Remoção de cal com sais
+<06>54-32 Remoção de cal com ácidos 
+<06>54-38 Remoção de cal com sais
 
 <01>675.023.6
 <02>Maceração.
@@ -5337,7 +5117,7 @@ diferentes por processos diferentes.
 <02>Tratamento e processamento mecânico de
 peles, de couro (especialmente após o
 curtimento).
-<06>675.025 dividido como 675.055
+      675.025 dividido como 675.055
 
 <01>675.026
 <02>Acabamento de peles, de couro.
@@ -5662,7 +5442,7 @@ especiais.
 
 <01>675.075
 <02>Couros com propriedades físicas especiais. Inclusive Propriedades ópticas, térmicas. elétricas.
-<06>675.075 dividido como 675.017.55
+      675.075 dividido como 675.017.55
 
 <01>675.076
 <02>Couros com propriedades de proteção
@@ -5879,7 +5659,7 @@ refugos de lã,
 <01>675.84
 <02>Indústria de processamento dos refugos de penas.
 <09>637.63 Penas. Lanugem. Peles de pássaros
-#ERRO2(Texto orfao sem tag ?)  <09>677.3Fibras animais
+<09>677.3 Fibras animais
 
 <01>675.85
 <02>Indústrias baseadas no processamento dos
@@ -6046,7 +5826,7 @@ de calor, critérios, etc.).
 
 <01>675.92.032
 <02>Coagulados. Inclusive  Borracha natural crua. Borracha em bloco. Crepe. Borracha em folhas.
-<06>675.92.032 dividido como 678.032
+                                      675.92.032 dividido como 678.032
 
 <01>675.92.033
 <02>Matérias-primas da borracha. Compostos de
@@ -6058,7 +5838,7 @@ moldagem.
 
 <01>675.92.04
 <02>Aditivos. Materiais complementares.
-<06>675.92.05 dividido como 678.04
+      675.92.05 dividido como 678.04
 
 <01>675.92.049.9
 <02>Outros aditivos menos importantes. Inclusive Agentes de reforço. Inihidores de envelhecimento. Agentes de 
@@ -6360,7 +6140,7 @@ embalagem, de ser moldado.
 
 <01>676.019.1
 <02>Defeitos de superfície. Falhas visíveis.
-<06>676.019.1 dividido como 620.191
+      676.019.1 dividido como 620.191
 
 <01>676.019.2
 <02>Defeitos internos. Falhas internas.
@@ -6368,7 +6148,7 @@ embalagem, de ser moldado.
 <01>676.019.3
 <02>Danos causados por agentes diversos.
 <09>Resistência a ataques.
-<06>676.019.3 dividido como 620.193
+      676.019.3 dividido como 620.193
 
 <01>676.02
 <02>Processos de fabricação.
@@ -7017,12 +6797,12 @@ propriedades especificas.
 <01>676.062
 <02>Produtos segundo a estabilidade e
 durabilidade total. Papel permanente durável, etc.
-<06>676.062.014.362 pH de produtos permanentes/duráveis 
+      676.062.014.362 pH de produtos permanentes/duráveis 
 <06>676.062.017.42:539.416 Resistência à dobragem de produtos permanentes duráveis
 
 <01>676.64
 <02>Produtos segundo as principais características físicas e químicas. Produtos segundo a composição.
-<06>676.064. l e 676.064.2 devem ser usados apenas quando o número principal não fizer distinção entre papel e papelão 
+      676.064. l e 676.064.2 devem ser usados apenas quando o número principal não fizer distinção entre papel e papelão 
 
 <01>676.237.064.2
 <02>Papelão de desenhar
@@ -7737,92 +7517,36 @@ de gordura, passíveis de ir a fervura.
       Especificar as máquinas e processos têxteis por meio de  -1/-9 (de 62-1/-8 e 66-9). As subdivisões de -48
       estão indicadas aqui.
 <09>Subdivisões auxiliares especiais
-
-<01>677
-<02>-48	Formas e moldes de materiais têxteis.
-
-<01>677
-<02>-485	Solução para fiação.
-
-<01>677
-<02>-486	Formas e tipos das fibras e filamentos.
-
-<01>677
-<02>-486.1 Fibras curtas naturais ou fibras têxteis
+<06>677-48	Formas e moldes de materiais têxteis.
+<06>677-485	Solução para fiação.
+<06>677-486	Formas e tipos das fibras e filamentos.
+<06>677-486.1 Fibras curtas naturais ou fibras têxteis
 cortadas.
-
-<01>677
-<02>-486.2	Filamentos contínuos.
-
-<01>677
-<02>-486.3	Materiais fibrosos perfilados e ocos.
-
-<01>677
-<02>-486.31	Perfilados.
-
-<01>677
-<02>-486.32	Ocos.
-
-<01>677
-<02>-486.4	Formas de material fibroso.
-
-<01>677
-<02>-486.411         Reto. Esticado.
-
-<01>677
-<02>-486.412	Enrugado. Enrolado.
-
-<01>677
-<02>-486.5	Material fibroso em forma de flocos.
-
-<01>677
-<02>-486.6	Materiais fibrosos em forma de velo. Trama.
-
-<01>677
-<02>-486.7	Materiais Fibrosos em forma de fibras soltas.
-
-<01>677
-<02>-486.8	Fios preliminares. Fiação preliminar.
-
-<01>677
-<02>-487	Formas e tipos dos fios.
-
-<01>677
-<02>-487.1	Monofilamento.
-
-<01>677
-<02>-487.2	Multifilamento.
-
-<01>677
-<02>-487.5	Formas de embalagem dos fios.
-
-<01>677
-<02>-487.51	Soltos.
-
-<01>677
-<02>-487.511	Em rolos.
-
-<01>677
-<02>-487.512	Novelos.
-
-<01>677
-<02>-487.513	Tortas.
-
-<01>677
-<02>-487.52	Embalagens formadas em tubos, cilindros do
+<06>677-486.2	Filamentos contínuos.
+<06>677-486.3	Materiais fibrosos perfilados e ocos.
+<06>677-486.31	Perfilados.
+<06>677-486.32	Ocos.
+<06>677-486.4	Formas de material fibroso.
+<06>677-486.411         Reto. Esticado.
+<06>677-486.412	Enrugado. Enrolado.
+<06>677-486.5	Material fibroso em forma de flocos.
+<06>677-486.6	Materiais fibrosos em forma de velo. Trama.
+<06>677-486.7	Materiais Fibrosos em forma de fibras soltas.
+<06>677-486.8	Fios preliminares. Fiação preliminar.
+<06>677-487	Formas e tipos dos fios.
+<06>677-487.1	Monofilamento.
+<06>677-487.2	Multifilamento.
+<06>677-487.5	Formas de embalagem dos fios.
+<06>677-487.51	Soltos.
+<06>677-487.511	Em rolos.
+<06>677-487.512	Novelos.
+<06>677-487.513	Tortas.
+<06>677-487.52	Embalagens formadas em tubos, cilindros do
 tear, etc.
-
-<01>677
-<02>-488	Formas do tecido, inclusive película.
-
-<01>677
-<02>-488.2	Tecido simples.
-
-<01>677
-<02>-488.3	Tecido felpudo.
-
-<01>677
-<02>-489	Misturas de fibras.
+<06>677-488	Formas do tecido, inclusive película.
+<06>677-488.2	Tecido simples.
+<06>677-488.3	Tecido felpudo.
+<06>677-489	Misturas de fibras.
 
 <01>677.01
 <02>Generalidades sobre a indústria têxtil.
@@ -8031,15 +7755,15 @@ fungos, insetos, etc.).
 
 <01>677.019.1
 <02>Falhas, defeitos visíveis. Inclusive Felpas. emaranhados, irregularidades. Desbotamentos. impurezas. 
-<06>677.019.1 dividido como 620.191
+                                           677.019.1 dividido como 620.191
 
 <01>677.019.2
 <02>Defeitos internos. Defeitos organolépticos: odor. 
-<06>677.019.2 dividido como 620.192
+                                       677.019.2 dividido como 620.192
 
 <01>677.019.3
 <02>Defeitos, falhas, avarias segundo a causa.
-<06>677.019.3 dividido como 620.193
+      677.019.3 dividido como 620.193
 
 <01>677.019.5
 <02>Detecção de defeitos, falhas, danos.
@@ -8143,7 +7867,7 @@ estimulantes.
 
 <01>677.021.125.52
 <02>Tratamento posterior com líquidos. Inclusive Alvejamento. Lavagem. Lubrificação.
-<06>677.021.125.54     Engomação. Marcação.
+ 677.021.125.54     Engomação. Marcação.
 <09>677.023.7 Urdidura, engomação, disposição de fios nos cilindros de teares, etc.
 
 <01>677.021.125.56

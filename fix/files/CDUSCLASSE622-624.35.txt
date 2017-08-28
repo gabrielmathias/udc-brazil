@@ -20,7 +20,7 @@ engenharia de mineração.
 
 <01>622.011.4
 <02>Propriedades e classificação do solo.
-<06>622.011.4 dividido como  631.4
+      622.011.4 dividido como  631.4
 
 <01>622.012
 <02>Empresas de mineração.
@@ -126,9 +126,7 @@ explodida. Para ser escavada.
 
 <01>622.03
 <02>Características geológicas dos depósitos.
-
-<01>622.03`116
-<02>Horizontais. Levemente inclinados
+<06>622.03`116 Horizontais. Levemente inclinados
 
 <01>622.03
 <02>'117 Inclinados 
@@ -208,70 +206,32 @@ minas. Inclusive Armação principal. Máquina. Andar.
 <09>622.69 Armazenamento, manipulação e transporte de minerais
    (nas instalações da mina, boca da mina, poço, pedreira ou moinho,
 	inclusive transporte por tubulação)
-
-<01>622`1
-<02>Estado do mineral, minério ou
+<06>622`1	Estado do mineral, minério ou
 rocha.
 <09>622.02 Propriedades físicas do mineral, do minério ou da rocha
-
-<01>622`11
-<02>Depósitos em estado natural.
-
-<01>622`112
-<02>Rocha de parede ou ganga.
-
-<01>622`112.2
-<02>Teto.
-
-<01>622`112.4
-<02>Chão.
-
-<01>622`113
-<02>Massa do minério ou filão.
-
-<01>622`116
-<02>Horizontal ou quase horizontal.
+<06>622`11	Depósitos em estado natural.
+<06>622`112	Rocha de parede ou ganga.
+<06>622`112.2	Teto.
+<06>622`112.4	Chão.
+<06>622`113	Massa do minério ou filão.
+<06>622`116	Horizontal ou quase horizontal.
 <09>Ligeiramente inclinado.
-
-<01>622`117
-<02>Inclinado.
-
-<01>622`118
-<02>Vertical ou quase vertical.
-
-<01>622`12
-<02>Minério bruto.
-
-<01>622`13
-<02>Esmagado. Triturado.
-
-<01>622`14
-<02>Mecanicamente selecionado, medido,
+<06>622`117	Inclinado.
+<06>622`118	Vertical ou quase vertical.
+<06>622`12	Minério bruto.
+<06>622`13	Esmagado. Triturado.
+<06>622`14	Mecanicamente selecionado, medido,
 classificado.
-
-<01>622`15
-<02>Concentrados segundo o tamanho da
+<06>622`15	Concentrados segundo o tamanho da
 partícula.
-
-<01>622`152
-<02>Súper-rico. P. ex., carvão limpo e
+<06>622`152	Súper-rico. P. ex., carvão limpo e
 superlimpo.
-
-<01>622`153
-<02>Areias (submersas, sob o fluxo).
-
-<01>622`156
-<02>Lamas (acima do fluxo).
-
-<01>622`16
-<02>Materiais de segunda. Produtos
+<06>622`153	Areias (submersas, sob o fluxo).
+<06>622`156	Lamas (acima do fluxo).
+<06>622`16	Materiais de segunda. Produtos
 intermediários.
-
-<01>622`17
-<02>Refugos. Restos. Resíduos.
-
-<01>622`18
-<02>Tratados termicamente. Inclusive Ustulados. Calcinados. Sinterizados, etc.
+<06>622`17	Refugos. Restos. Resíduos.
+<06>622`18	Tratados termicamente. Inclusive Ustulados. Calcinados. Sinterizados, etc.
 <09>Aglomerados moldados.
 <09>Divisões principais
 
@@ -1393,7 +1353,7 @@ ex. de depósitos de sal). Derretimento.
 <01>622.279
 <02>Extração de depósitos de gás natural
 (hidrocarboneto gasoso).
-<06>622.279 dividido como 622.276 
+      622.279 dividido como 622.276 
 <09>622.24 Perfuração. Técnica de perfuração. Tecnologia de perfuração
 <09>Subdivisões Auxiliares Especiais
 
@@ -1416,7 +1376,7 @@ de sifão.
 <01>622.28
 <02>Escora mento e escoras. Revestimento.
 <09>622.22 Abertura. Trabalho de desenvolvimento
-<06>622.245 Montagem do furo de sondagem. 
+    622.245 Montagem do furo de sondagem. 
     Revestimentos. Entrada em produção, etc. 
     Abandono do furo de sondagem.
 <09>Subdivisões Auxiliares Especiais
@@ -1960,7 +1920,7 @@ por cabo e corrente.
 
 <01>l
 <02>inhas férreas.
-<06>622.625.1 dividido como 625.1
+      622.625.1 dividido como 625.1
 
 <01>622.625.2
 <02>Material rodante. Locomotivas, etc.
@@ -2159,7 +2119,7 @@ elevadores. Patamares.
 <01>622.676
 <02>Dispositivos de levantamento e suspensão
 diversos.
-<06>622.676 dividido como 621.876
+      622.676 dividido como 621.876
 
 <01>622.678
 <02>Uso de monta-cargas. Subida e descida.
@@ -2221,17 +2181,13 @@ tubulação).
 <02>Armazenamento, transporte, etc. de gases
 naturais. Inclusive Depósitos de gás.
 <09>Gasodutos.
-<06>622.691 dividido como 622.692
+      622.691 dividido como 622.692
 
 <01>622.691.2
 <02>Armazenamento de gases naturais.
-
-<01>622.691.2
-<02>-404 Armazenamento de gases naturais 
+<06>622.691.2-404 Armazenamento de gases naturais 
 em estado líquido, liquefeito 
-
-<01>622.691.2
-<02>-405 Armazenamento de gases naturais 
+<06>622.691.2-405 Armazenamento de gases naturais 
 em estado sólido, solidificado
 
 <01>622.692
@@ -2303,7 +2259,7 @@ não são aplicáveis em 622.7 e suas subdivisões
 
 <01>622.7.012
 <02>Consumo. Rendimento. Eficiência.
-<06>622.7.012 dividido como 66.012
+      622.7.012 dividido como 66.012
 
 <01>622.7.016
 <02>Composição química e textural dos minerais.
@@ -2877,7 +2833,7 @@ paliativas, p. ex. modificação nos métodos
 de trabalho, controle das condições
 ambientais.
 <06>622.87:613.633 Efeitos patogênicos da poeira das minas
-<06>613.633:616.24-003.6 Poeira das minas como causa de pneumoconiose
+<06>616.24-003.6 Poeira das minas como causa de pneumoconiose
 <06>622.87:613.644 Efeitos prejudiciais do ruído e vibrações na mineração 
 <06>622.87:613.65 Postura ou posição de trabalho defeituosa na mineração.
 <09>613.6 Riscos ocupacionais. Higiene e saúde ocupacionais
@@ -2891,7 +2847,7 @@ dos danos provocados pela mineração.
 <09>Indenização. Restauração da
 mineração.
 
-<06>623 Engenharia militar
+                                                        623 Engenharia militar
 
 <09>355/359 Assuntos militares. Arte da guerra. 
       Ciência militar. Defesa. Forças armadas
@@ -3929,7 +3885,7 @@ estilhaços.
 
 <01>623.451.4.081.2
 <02>Granadas perfuradoras de blindagem 
-<06>623.451.4.083.1 Granadas de alta carga explosiva
+                                             623.451.4.083.1 Granadas de alta carga explosiva
 
 <01>623.451.5
 <02>Projéteis de morteiro.
@@ -3996,9 +3952,7 @@ e uso incendiário, para geração de fumaça, sinalização e demolição.
 
 <01>623.454.22
 <02>Dispositivos de ignição que contêm explosivos.
-
-<01>623.454.22
-<02>-83 Dispositivos elétricos de ignição
+<06>623.454.22-83 Dispositivos elétricos de ignição
 
 <01>623.454.23
 <02>Dispositivos de disparo, p. ex. para
@@ -4926,9 +4880,7 @@ balões de barragem). Balões rebocados,
 
 <01>623.746
 <02>Aeronaves mais pesadas do que o ar (aeródinas). 
-
-<01>623.746
-<02>-519 Aeronaves mais pesadas do que o ar com controle remoto. Aeronaves não-tripuladas, sem piloto
+<06>623.746-519 Aeronaves mais pesadas do que o ar com controle remoto. Aeronaves não-tripuladas, sem piloto
 
 <01>623.746.1
 <02>Aeronaves mais pesadas do que o ar
@@ -5293,12 +5245,8 @@ fixas de canhões. Proteções laterais.
 
 <01>623.946
 <02>Torpedos navais, tubos e acessórios.
-
-<01>623.946
-<02>-5 Mecanismos de controle. Mecanismo de direção, descarga. controle de profundidade 
-
-<01>623.946
-<02>-8 Tipo de propulsão, de comando 
+<06>623.946-5 Mecanismos de controle. Mecanismo de direção, descarga. controle de profundidade 
+<06>623.946-8 Tipo de propulsão, de comando 
 
 <01>623.946.082
 <02>Ogivas
@@ -5397,25 +5345,15 @@ detectores de submarinos). Inclusive Asdic. Sonar.
 <01>624
 <02>Engenharia civil e estrutural em geral. Inclusive subestruturas. Obras de terra. Fundações. Túneis. Construção de pontes. Superestruturas
 <09>Em 624 classificam-se as informações sobre a prática da engenharia civil e estrutural, enquanto que 
-<06>69 está reservado para materiais de construção, ofícios e construção, e 72 está destinada ao projeto 
+                69 está reservado para materiais de construção, ofícios e construção, e 72 está destinada ao projeto 
                 arquitetônico e tipos de edificações, segundo a dês t inação
 <09>Subdivisões auxiliares especiais
-
-<01>624
-<02>-1	Pormenores da engenharia civil.
+<06>624-1	Pormenores da engenharia civil.
 -11 e -18...,  de 62-11 e 62-1 8 são aplicáveis em 624 e subdivisões 
-
-<01>624
-<02>-1 dividido como 624.1,  exceto para –11/-18
-
-<01>624
-<02>-15	Fundações.
-
-<01>624
-<02>-1
-
-<01>624
-<02>-2/-9	Pormenores sobre maquinaria e
+<06>624-1 dividido como 624.1,  exceto para –11/-18
+<06>624-15	Fundações.
+<06>624-1
+<06>624-2/-9	Pormenores sobre maquinaria e
 equipamento de construção.
       Especificar por meio de -2/-9 (de 62-2/-8 e 66-9)
 
@@ -5556,7 +5494,7 @@ tijolos comuns e tijolos refratários.
 
 <01>624.014.2
 <02>Estruturas de aço.
-<06>624.014.2.078.4 Estruturas de aço articulado (rebitadas, soldadas, aparafusadas)
+ 624.014.2.078.4 Estruturas de aço articulado (rebitadas, soldadas, aparafusadas)
 
 <01>624.014.27
 <02>Estruturas de aço tubular.
@@ -6338,7 +6276,7 @@ de solos. Teste de solos.
 
 <01>624.131.34
 <02>Perfurações experimentais. Furos de sondagem.
-<06>624.131.34 dividido como 622.24
+      624.131.34 dividido como 622.24
 
 <01>624.131.35
 <02>Testes de bate-estacas.
@@ -6495,7 +6433,7 @@ construção.
 <01>624.132
 <02>Remoção e transporte do solo. Operações de
 movimentação de terra, de terraplenagem.
-      Para equipamento de terraplenagem, ver 62l.77/.879
+      Para equipamento de terraplenagem, ver 621.77/.879
 
 <01>624.132.1
 <02>Afofamento e remoção manual do solo.
@@ -6875,21 +6813,11 @@ escora.
       Indicar as funções e aplicações por meio de :...; outras características por meio dos  auxiliares com
       hífen
 <06>624.154:624.131.384 Estacas de teste 
-
-<01>624.154
-<02>-4 Forma, seção transversal etc. das estacas
-
-<01>624.154
-<02>-428 Estacas helicoidais 
-
-<01>624.154
-<02>-462 Estacas quadradas 
-
-<01>624.154
-<02>-8 Força motriz ou fonte de energia das máquinas perfuratrizes, de estaquear
-
-<01>624.154
-<02>-81 Estacas colocadas a vapor
+<06>624.154-4 Forma, seção transversal etc. das estacas
+<06>624.154-428 Estacas helicoidais 
+<06>624.154-462 Estacas quadradas 
+<06>624.154-8 Força motriz ou fonte de energia das máquinas perfuratrizes, de estaquear
+<06>624.154-81 Estacas colocadas a vapor
 
 <01>624.154.1
 <02>Fundações com estacas. Características do local e do solo.
@@ -7200,10 +7128,10 @@ articuladas.
 
 <01>624.19
 <02>Túneis. Escavação de túneis. Galerias. Construção de galerias.
-<06>624.19.034.5 Túneis subaquáticos
-<06>624.19.035.2 Túneis de montanha 
-<06>624.19.035.4 Túneis subterrâneos 
-<06>624.19.074.353 Abóbadas de encabeçamento
+      624.19.034.5 Túneis subaquáticos
+      624.19.035.2 Túneis de montanha 
+      624.19.035.4 Túneis subterrâneos 
+      624.19.074.353 Abóbadas de encabeçamento
 <09>622.25/.28 
 <09>625.712.35 Vias subterrâneas. Vias subterrâneas para tráfego. Vias em túneis
 
@@ -7237,12 +7165,12 @@ de galerias.
 
 <01>624.191.3
 <02>Perfuração do solo. Inclusive Corte. Explosão.
-<06>624.191.1dividido como622.23
+      624.191.1dividido como622.23
 
 <01>624.191.5
 <02>Construção de poços. Inclusive Poços,
 chaminés de ventilação. Escoramento do poço.
-<06>624.191.5 dividido como622.25
+                                         624.191.5 dividido como622.25
 
 <01>624.191.6
 <02>Métodos especiais de perfuração. Maquinaria
@@ -7252,7 +7180,7 @@ rotativos). Perfuração com escudo.
 
 <01>624.191.7
 <02>Remoção, carga e transporte de entulho.
-<06>624.191.7 dividido como 622.6
+      624.191.7 dividido como 622.6
 
 <01>624.191.8
 <02>Detalhes estruturais dos túneis.
@@ -7278,7 +7206,7 @@ portais dos túneis.
 <02>Engenharia de climatização de túneis.
 <09>Ventilação, condicionamento de ar etc.
 <09>Iluminação.
-<06>624.191.94dividido como 622.4
+      624.191.94dividido como 622.4
 
 <01>624.191.947
 <02>Iluminação dos túneis.
@@ -7288,7 +7216,7 @@ portais dos túneis.
 
 <01>624.191.95
 <02>Drenagem dos túneis.
-<06>624.191.95 dividido como 622.5
+      624.191.95 dividido como 622.5
 
 <01>624.195
 <02>Túneis de tráfego.
