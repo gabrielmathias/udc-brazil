@@ -1,0 +1,4312 @@
+﻿63 Agricultura e ciências e técnicas afins. Silvicultura. Agronomia. Aproveitamento da vida selvagem
+Os auxiliares –1/-9, de 62-1/-8 e 66-9, são também aplicáveis em 63, com exceção de -1... e-2... em633/635
+630 Silvicultura
+
+As subdivisões de 630 foram extraídas da Forest Decimal Classification (IUFRO, Vienna) 
+Para o cultivo de árvores frutíferas,  ver 634.1/.6
+630*1		Fatores ambientais na Silvicultura.
+Biologia florestal.
+630*11	Fatores locais na Silvicultura.
+      → 631.96 Tipos de plantação. Avaliação do solo
+630*111	Clima e microclima das florestas. Inclusive
+A atmosfera. Meteorologia.
+      → 551.5 Meteorologia
+		      → 630*42 Danos provocados por agentes inorgânicos (exceto fogo)
+630*113	Situação. Topografia florestal. 
+Gradiente e aspecto.
+                                      → 55.4 Geomorfologia. Estudo da configuração física da terra
+630*114	Solo florestal.
+→ 631.4 Ciência do solo. Pedologia. Pesquisa do solo
+630*116	Hidrologia florestal. Conservação da água,
+conservação do solo e erosão.
+	      → 556 Hidrosfera. Água em geral. Hidrologia
+630*12	Biologia florestal.
+→ 57 Ciências biológicas em geral
+630*13	Zoologia florestal em geral.
+	      → 59 Zoologia
+630*14	Zoologia sistemática de florestas.
+      → 592/599 Zoologia sistemática
+630*15	Ecologia animal de florestas. Inclusive
+Administração da caça e da pesca. Caça. Pesca.
+                      → 591.5 Ecologia. Etologia. O animal e o meio ambiente. Bionomia
+                      → 639 Caça. Pesca. Piscicultura
+630*16	Botânica florestal em geral.
+                                      → 581 Botânica geral
+630*17	Botânica sistemática de florestas.
+→ 582 Botânica sistemática
+630*18	Ecologia vegetal de florestas.
+→ 581.5 Hábitos dos vegetais. Comportamento vegetal. Etologia vegetal. O vegetal e seu meio ambiente. Bionômica dos vegetais
+630*2	Silvicultura.
+→ 631.962 Tipos de formações vegetais e de matas
+630*22	Sistemas de Silvicultura.
+630*221	Sistemas de floresta densa. Inclusive
+Sistema de abate de árvores. Abates de gerações sucessivas de árvores. Florestas contínuas.
+630*222	Sistemas de capoeira, de decotação (corte
+das árvores por cima) de poda (corte de
+ramos).
+630*226	Mudanças do sistema de Silvicultura.
+Conversão (por sistema ou espécie).
+630*228	Constituição e composição de formações
+florestais. Tipos de formações.
+630*23	Regeneração e constituição das formações
+florestais.
+630*231	Regeneração natural.
+630*232	Regeneração artificial. Inclusive Prática de
+viveiros de árvores. Semeadura, plantação e
+propagação de árvores. Mudas de árvores.
+630*233	Reflorestamento de tipos específicos
+de solo.
+→ 627.414 Arborização das margens. Plantações de árvores e arbustos
+→ 627.524 Estruturas de proteção contra o acúmulo de areia e pedregulhos. Estruturas para estabilização  da praia. 
+→ 630*9 Silvicultura do ponto de vista nacional. Política florestal. Política de arborização. Economia social
+630*234	Formação de florestas por sucessão natural.
+630*235	Plantio intercalar (de árvores, plantas
+menores sob outras já existentes, mais
+altas). Plantio antecipado, etc. Viveiros.
+Formação de misturas.
+630*236	Cuidado com as plantações de florestas nos
+estágios iniciais.
+630*237	Melhoria dos locais de florestas.
+→ 631.6 Engenharia rural
+630*24	Cuidados com as árvores e formações
+florestais.
+630*241	Limpeza.
+630*242	Desbastamento.
+630*245	Cuidados com as árvores, inclusive Poda.
+→ 631.542 Desbaste. Poda
+630*25	Tratamento de formações florestais
+defeituosas, decadentes ou muito abertas.
+630*26	Combinação de Silvicultura com
+agricultura e pecuária. Florestas
+irrigadas e de terras inundadas.
+Cinturões de árvores, etc., e seu
+tratamento.
+630*27	Arboricultura ornamental. Parques, arboretos. Sebes e plantas para sebes. Cercas vivas,
+→ 635.055 Árvores (plantas lenhosas com tronco)
+→ 712 Planejamento da paisagem (natural e projetada). Parques. Jardins
+630*28	Economia florestal. Cultivo e coleta de
+produtos da floresta exceto madeira. Extrativismo. Inclusive Produção de cascas, frutos e sementes. Seivas. Produção de folhas. Plantação de vime, bambu, taquara.
+630*3	Estudo científico e racionalização
+do trabalho florestal. Corte de madeira.
+630*31	Derrubada e transporte: aspectos gerais.
+630*32	Derrubada e operações afins.
+→ 621.93 Serras, serração e técnicas semelhantes de corte
+630*33	Grau de utilização e desperdício. Limpeza
+do local de derrubada.
+630*34	Armazenamento da madeira na floresta.
+Armazenamento em depósitos de toras ou em locais de embarque.
+630*35	Medições de desempenho (para determinar
+a proporção de peças na derrubada e operações afins).
+630*36	Ferramentas, máquinas e equipamento
+para derrubada e operações afins.
+630*37	Transporte.
+Para o equipamento de manuseio dos materiais, ver 621.86/.87
+630*38	Engenharia florestal. Inclusive Construções, estradas e pontes nas florestas. Obras de proteção. Treinamento em drenagem, irrigação, hidrovias nas florestas.
+      → 626.8 Hidráulica agrícola. Engenharia de irrigação, drenagem e recuperação de terras
+      → 627.42 Trabalhos de correção. Melhoramento dos rios pela modificação do leito ou canal
+      → 627.53 Terras baixas sujeitas a inundação e sua proteção
+      → 630*26 Combinações de silvicultura com agricultura e pecuária. Florestas irrigadas e terras inundadas. 
+      Cinturões de árvores e seu tratamento
+630*4	Danos às florestas e proteção contra os mesmos.
+→ 368.55 Seguro de florestas. Seguro de árvores madeireiras
+                                     → 502.172 Proteção de elementos vivos ameaçados
+                                     → 632 Danos e lesões das plantas. Doenças das plantas. Pragas, organismos nocivos às plantas. Proteção das
+plantas
+630*41	Técnicas gerais de proteção à floresta.
+Tipos de danos. Métodos de controle de
+danos e pragas.
+630*42	Danos provocados por agentes
+inorgânicos (exceto fogo).
+630*43	Incêndios florestais.
+→ 614.841.42 Incêndios e proteção contra incêndios em paisagens naturais
+                                      → 631.588 Agricultura com utilização de fenômenos especiais
+630*432	Prevenção e controle dos incêndios
+florestais.
+630*433	Recuperação e destino dado à madeira
+danificada por fogo.
+630*434	Replantio, etc., de áreas queimadas.
+630*436	Efeitos benéficos dos incêndios. Usos do
+fogo na silvicultura e em outras formas de
+agricultura.
+630*44	Danos provocados por plantas daninhas.
+Doenças viróticas.
+630*45	Danos provocados por animais.
+630 * 46	Danos ao crescimento das árvores
+causados pelo homem.
+630*5	Medições das árvores.
+Crescimento, incremento das árvores. Desenvolvimento e estrutura das formações florestais. 
+      → 528.48 Levantamentos de engenharia. Campos especiais de levantamento
+630*51	Sistemas e unidades de medida (inclusive
+Tabelas de conversão).
+630*52	Medidas das dimensões e volume dos
+caules (de árvores, formações florestais, florestas e madeira cortada).
+630*53	Medidas especiais de árvores e formações
+florestais. Inclusive Dimensões da copa, da coroa. Densidade da formação.
+630*54	Avaliação da qualidade da área florestal.
+630*55	Determinação da idade das árvores.
+→ 902.67 Técnicas paleontológicas (paleobotânicas e paleozoológicas) de datar
+630*56	Incremento. Desenvolvimento e estrutura
+das formações florestais.
+630*6	Administração florestal Empresas
+econômicas de silvicultura. Administração e organização de empresas de silvicultura.
+→ 631.16 Finanças e avaliação econômica de estabelecimentos agrícolas
+630*62	Métodos de administração. Planos de
+obras. Rendimento anual ou periódico.
+Regulação do rendimento.
+630*64	Silvicultura como atividade econômica.
+630*65	Problemas econômicos especiais relativos
+ao cultivo de árvores produtoras de
+madeira.
+630*66	Custo das operações de derrubada, corte e
+produção de toras.
+630*67	Avaliação dos resultados financeiros.
+Contabilidade. Estatística econômica da
+empresa. Planejamento e financiamento a
+curto prazo.
+630*68	Administração e organização de empresas
+florestais.
+630*681	Serviços e administração nacional (federal,
+estadual) de florestas.
+630*682	Administração privada de florestas.
+Questões de pessoal na silvicultura privada.
+630*7	Comercialização de produtos das
+florestas. Economia do transporte em florestas e das indústrias madeireiras.
+630*8	Produtos florestais e sua utilização.
+→ 674 Indústria da madeira e de trabalhos com madeira
+630*81	Madeira e casca: sua estrutura e
+propriedades.
+630*82	Conversão, moldagem, montagem e
+acabamento da madeira.
+630*83	Indústrias madeireiras e seus produtos.
+Usos da madeira. Fabricação de objetos de
+madeira.
+630*84	Conservação e outros tratamentos para melhorar as propriedades da madeira.
+Danos por agentes biológicos e seu
+controle. Secagem. Práticas madeireiras
+(manuseio e armazenamento).
+630*85	Classificação da madeira e de seus
+produtos. Qualidade da madeira.
+630*86	Indústrias de polpa de madeira. Materiais
+compostos feitos inteira ou parcialmente
+de madeira. Utilização química da
+madeira.
+630*88	Economia no uso da madeira. Substituição
+da madeira por materiais análogos
+competitivos.
+630*89	Outros produtos (secundários) das
+florestas.
+630*9	Florestas e silvicultura do ponto de
+vista nacional. Política florestal.
+Política de reflorestamento.
+Economia social da silvicultura.
+→ 332.3 Uso, utilização da terra
+                                      →630*233 Reflorestamento de tipos específicos de solo
+630*92	Propriedade e política de propriedade de
+florestas.
+630*93	Supervisão e regulamentação pública da
+silvicultura, inclusive a Legislação
+pertinente.
+630*94	Outros métodos para implementar uma
+política florestal. Inclusive Subsídios.
+Créditos. Seguro florestal. Serviços de
+orientação. Publicidade. Educação.
+Pesquisas. Associações.
+630*95	Imposto florestal.
+630*96	Questões trabalhistas na silvicultura.
+Questões trabalhistas no transporte da
+madeira e nas indústrias madeireiras.
+630*97	Política florestal internacional. Outras
+colaborações internacionais.
+
+631/635  Administração de estabelecimentos agrícolas. Agronomia. Horticultura
+
+631	Agricultura em geral
+
+631.1		Administração e organização de fazendas, de propriedades agrícolas.
+→ 332 Economia regional. Economia territorial Economia da terra
+Subdivisões auxiliares especiais
+631.l.016	Formação, crescimento, declínio de fazendas ou propriedades agrícolas. Fusões, conversões, etc.
+      631.1.016 dividido como 65.016
+631.1.017	Área e extensão da fazenda ou propriedade agrícola
+      631.1.017 dividido como 65.017
+631.1.017.1	Fazendas, estâncias, etc. estabelecimentos agrícolas de grande porte.
+631.1.017
+631.l.017.3	Fazendas pequenas. Sítios. Pequenas propriedades agrícolas, chácaras.
+631.1.017
+	Exemplo(s) de combinação(ões):
+                                          631.1.017.3(410.58) Pequenas propriedades agrícolas e sua organização nos highlands escoceses.
+                                          Chácaras e arrendamento de chácaras
+631.l.02	Condições especiais, acordos, etc.
+631.1.02 dividido como 65.02
+631.l.07	Condições de comercialização e distribuição.
+631.1.02
+Divisões principais
+631.11	Fazendas, propriedades agrícolas e
+sistemas de exploração agrícola. 
+Exemplo(s) de combinação(ões):
+      631.11 (l-772) Fazendas em áreas subdesenvolvidas
+631.111	Localização, área e características do terreno, do solo. 
+                                Exemplo(s) de combinação(ões):
+631.111(23.01) Fazendas em montanhas
+631.111.l	Teoria sobre a localização das fazendas.
+631.111.2	Situação e adequabilidade da propriedade
+agrícola (para plantios específicos, etc,).
+Exemplo(s) de combinação(ões):
+631.111.2:633.63 Adequabilidade para produção de beterraba
+631.111.3	Qualidade da terra da propriedade agrícola.
+631.111.4	Localização da fazenda em áreas especiais.
+Exemplo(s) de combinação(ões):
+631.111.4:502.4 Fazendas em reservas naturais
+631.112	Aquisição de fazendas. Compra, venda de fazendas.
+Especificar por meio de :658.6/.8
+631.115	Fazendas segundo o título de posse,
+propriedade e supervisão. Sistemas de administração.
+631.115.1	Fazendas particulares.
+631.115.11	Fazendas de propriedade familiar.
+631.115.13	Fazendas em sociedade.
+631.115.17	Fazendas de arrendamento. Fazendas
+arrendadas. Fazendas de parceria. 
+→ 347.453.1 Locação de terra, de propriedade rural. Arrendamentos agrícolas. Tipos diversos de arrendamento agrícola. Parceria na safra. Colonato
+631.115.2	Fazendas com administrador. Fazendas tipo empresa.
+631.115.6	Fazendas coletivas.
+631.115.7	Fazendas de propriedade pública. Fazendas
+federais, estaduais e municipais.
+631.115.71	Fazendas nacionais.
+631.115.73	Fazendas comunais. Fazendas municipais.
+631.115.75	Fazendas de empresa mista.
+631.115.8	Cooperativas agrícolas.
+      → 334.732 Cooperativas para apoio e assistência
+      → 631.173 Organização do equipamento agrícola e serviços especiais
+631.115.9	Fazendas segundo outros sistemas de
+administração ou operação. Inclusive Fazendas
+de contrato. Fazendas-prisão.
+631.117	Fazendas para instrução, pesquisa e demonstração.
+631.117.2	Fazendas para instrução. Fazendas-escola.
+Fazendas de treinamento.
+	      → 378.663 Universidade agrícola
+631.117.4	Fazendas de pesquisa. Fazendas experimentais.
+Estações de pesquisa agrícola.
+631.117.6	Fazendas de demonstração. Fazendas-modelo.
+631.12	Equipamento e materiais das fazendas em
+geral (seleção, aquisição, manutenção,
+etc.).
+→ 631.2 Prédios, estruturas e instalações agrícolas. Prédios para animais, produtos, maquinaria e equipamento
+→ 631.3 Máquinas, implementos e equipamentos agrícolas
+→ 631.8 Fertilizantes, adubos animais e enriquecimento do solo. Estímulo ao crescimento. Estimulantes de plantas
+631.14	Lavoura e fazendas segundo os produtos e
+a produção.
+631.143	Fazendas sem pecuária.
+631.145	Fábrica e empresas agrícolas combinadas.
+Agricultura industrializada, empresa
+agroindústria! em geral.
+→ 631.17 Tecnologia agrícola
+631.147	Fazendas biotécnicas, ecológicas (para
+tecnologia alternativa, intermediária e
+leve). Lavoura e fazendas orgânicas.
+Agricultura orgânica.
+631.15	Produção da fazenda. Organização de
+fazendas. Administração de fazendas.
+631.151	Sistemas de produção e administração
+agrícola, da fazenda.
+631.151.1	Sistema de agricultura extensiva.
+631.151.2	Sistema de agricultura intensiva
+631.151.3	Sistema de agricultura especializada.
+631.151.4	Sistema de agricultura diversificada.
+631.151.6	Sistema de agricultura integrada.
+631.151.61	Sistema de agricultura verticalmente integrada
+631.151.62	Sistema de agricultura horizontalmente
+integrada.
+631.152	Princípios de administração da agricultura.
+Inclusive Expansão. Modernização.
+Inovações técnicas. Reagrupamento.
+Modificações administrativas.
+      Especificar por meio de :65...
+631.153	Planejamento da produção agrícola.
+→ 631.58 Sistemas específicos de cultura
+631.153.3	Escolha do sistema de cultivo e administração.
+Exemplo(s) de combinação(ões):
+631.153.3:631.582 Rotação de culturas 
+631.153.3:631.584 Cultivo intercalado
+631.153.4	Escolha do método de trabalho. Divisão do
+trabalho. Inclusive Emprego do trabalho
+manual, animal ou mecânico.
+631.153.5	Supervisão dos planos de produção.
+631.153.7	Mudanças no cultivo e na produção. Conversão
+para outros sistemas.
+631.155	Controle da produção agrícola.
+631.155.1	Metas e quotas da produção agrícola.
+631.155.12	Metas da produção agrícola.
+631.155.13	Quotas de produção agrícola.
+631.155.2	Estoques de produtos.
+631.155.3	Perdas de produtos.
+631.155.4	Excedentes de produtos.
+631.155.6	Subsídios.
+Exemplo(s) de combinação(ões):
+631.155.6:633.1 Subsídio para cereais
+631.157	Administração de empresas agrícolas, de fazendas.
+631.158	Administração das atividades e do pessoas.
+      Especificar por meio de  :65...
+631.16	Finanças e avaliação econômica de
+estabelecimentos agrícolas.
+631.162	Administração financeira de fazendas.
+Contabilidade, etc.
+      Especificar por meio de :657...
+631.164	Estimativa e avaliação agrícolas.
+631.164.2	Princípios de estimativa.
+631.164.23	Investimento de capital produtivo.
+631.164.24	Avaliação das culturas (inclusive o
+valor da terra).
+631.164.27	Avaliação de subprodutos e resíduos.
+631.164.28	Estimativa de prejuízos.
+631.164.6	Estimativa e avaliação de empresas agrícolas como um todo.
+631.165	Estimativa de safras e quebras de safra.
+631.17	Tecnologia agrícola.
+
+      → 631.145 Fábricas e empresas agrícolas combinadas. Agricultura industrializada, empresa agroindustrial
+     em geral.
+→ 631.348 Máquinas e equipamento para proteção das plantas
+→ 631.53 027.2 Métodos químicos
+→ 632.934 Métodos químicos de controle de doenças e pragas
+631.171	Mecanização e automação do trabalho
+agrícola.
+631.172	Uso de maquinaria motorizada.
+→ 631.37 Máquinas e equipamento para produção de energia e tração. Equipamento de transporte agrícola
+631.173	Organização do equipamento agrícola e
+serviços especiais.
+631.173.2	Estações de tratores.
+631.173.4	Oficinas técnicas e de reparo.
+631.173.6	Serviços para uso conjunto de máquinas.
+631.2	Prédios, estruturas e instalações
+agrícolas. Prédios para animais, produtos, maquinaria e equipamento.
+→ 624.9 Superestruturas (exceto pontes). Superestruturas completas em si mesmas
+→ 628 Engenharia de saúde pública. Engenharia sanitária. Água. Saneamento. Engenharia de iluminação
+→ 69 Indústria da construção. Materiais de construção. Práticas e procedimentos de construção 
+→ 72.059 Espaços complementares, anexos, etc.
+631.21	Casas de fazenda. Sedes de
+estabelecimentos agrícolas. Inclusive
+Conjuntos de prédios da fazenda. Eiras.
+Construções fora da sede. Construções
+agrícolas para múltiplas finalidades.
+Exemplo(s) de combinação(ões):
+631.21:628.4 Instalações sanitárias em prédios de fazendas
+631.22	Edificações e estruturas para animais.
+Estábulos e congêneres.
+      → 636.083.1 Administração e manutenção de instalações para criação de animais
+                    →728.96 Anexos externos para animais
+631.222	Estábulos. Construções similares para
+animais de casco.
+631.223	Estrebarias. Construções similares para
+animais fissípedes. Inclusive Estábulos para
+vacas. Currais para bois. Currais para
+ovinos e caprinos. Chiqueiros.
+631.224	Canis. Outras construções para animais
+de caça.
+631.225	Abrigos e estruturas para coelhos
+e outros roedores.
+631.227	Abrigos e estruturas para galináceos e
+outras aves. Estruturas para aviários.
+631.229		Abrigos e estruturas para outros tipos de
+animais de criação.
+631.23	Estruturas para cultivo e desenvolvimento
+de plantas.
+                                      → 631.344 Dispositivos para cobrir e proteger as plantas
+                                      → 631.544 Proteção e abrigo de plantas. Cultivo em lugares cobertos
+                                      → 635.03 Plantas jovens (mudas, plântulas) e seus cuidados. Viveiros
+                                      → 728.98 Estufas. Varandas
+631.234	Estufas.
+631.236	Viveiros. Instalações para amadurecimento
+forçado.
+631.24	Construções para armazenamento,
+manuseio e processamento de produtos
+agrícolas. Inclusive Armazéns. Celeiros.
+Paióis. Tulhas. Silos.
+                                     → 621.796.4 Guarda. Armazenamento
+                                    → 631.56 Preparo do produto agrícola. Tratamento após a colheita
+                                     →725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de 
+	     serviços públicos
+631.248	Fossas e outros depósitos para esterco e
+lixo. Inclusive Fossas de esterco. Tanques de esterco. Fossas de compostagem. Pilhas de composto. Fossas de lixo.
+→ 631.333.92 Equipamento para picar esterco natural. Poços de armazenamento de esterco. Instalações de tratamento para o esterco natural e líquido
+631.25	Galpões e outros prédios para maquinaria
+e equipamento agrícola. Inclusive Galpões
+de tratores, etc. Oficinas agrícolas. Forjas.
+Barracões de ferramentas.
+631.27	Divisas das terras da fazenda. Cercas.
+631.271	Sebes. Cercas vivas.
+      → 712.41 Árvores. Arbustos. Moitas
+631.272	Muros.
+      → 692.212 Paredes limitantes que circundam espaços abertos, jardins, etc. (inclusive portões)
+631.273	Cercas. Grades. Porteiras. Roletas,
+torniquetes. Inclusive Cercas eletrificadas.
+      → 692.88 Grades. Gradis. Cercas. Catracas, roletas. Grades para entrada
+631.274	Fossos. Valas. Passagens sobre valas.
+Inclusive Mata-burros.
+631.3	Máquinas, implementos e
+equipamentos agrícolas.
+Especificar por meio de -1/-9 (de 62-1/-8 e 66-9) 
+Subdivisões auxiliares especiais
+631.3.02	Componentes de máquinas e implementos
+agrícolas. Ferramentas. Partes de máquinas. Acessórios.
+Maiores detalhes em 631.312.02..., 631.33.02..., 631.352.02..., 631.354.02..., 631.361.02...
+631.3.05	Máquinas e implementos com dispositivos
+para medir, calibrar, colher amostras, etc.
+631.06	Combinações de máquinas e implementos.
+Conjuntos de máquinas, etc. para uso em
+seqüência.
+Exemplo(s) de combinação(ões):
+631.356.2.06 Combinados para arrancar, levantar, juntar e transportar tubérculos
+631.3.07	Máquinas e implementos agrícolas segundo o tipo de tração e transmissão de força.
+→ 62-8 Máquinas segundo a força motriz, a força propulsora. Fontes de energia da máquina
+631.071	Implementos de tração animal (p. ex., tirados
+por cavalo, por boi). Implementos manuais.
+631.3.072	Implementos rebocados por tratores de três, de
+quatro rodas e de esteira.
+631.3.074	Implementos rebocados por tratores
+de duas rodas.
+631.3.075	Equipamentos montados sobre veículos ou
+embarcações.
+Indicar os tipos de veículo por meio de :629...
+631.3.076	Implementos com força motriz própria.
+Máquinas e implementos autopropulsionados,
+exceto tratores. Dispositivos motorizados.
+631.3.077	Implementos de tração por cabo
+(transmissão por cabo ou corrente, operados
+por manivela, etc.).
+Divisões principais
+631.31	Máquinas e implementos para cultivo do
+solo. Máquinas e implementos auxiliares 
+      → 631.51 Preparo e aradura do solo
+631.311	Máquinas e implementos gerais.
+631.311.3	Escavadoras de buracos de postes. Furadoras
+de buracos de plantas.
+631.311.5	Escavadoras de valas e fossos. Equipamento
+para escavar valas. Máquinas para simultaneamente cavar e assentar tubos. Outras máquinas para melhoramento do solo.
+631.311.7	Máquinas e implementos para arrancar raízes,
+tocos, touceiras, etc. Destocadores. Máquinas
+para recolher pedras.
+631.311.8	Dispositivos para revolver, misturar,
+regenerar e esterilizar o solo.
+631.312	Arados.
+Subdivisões auxiliares especiais
+631.312.02	Componentes de arados.
+631.312.021           Corpos de arados. Inclusive Armaduras de
+arados. Reinas. Dentes. Aivecas. Dispositivos para abrir sulcos. Discos do arado.
+631.312.024	Peças acessórias dos arados. Inclusive Segas de
+faca. Segas de disco. Segas raspadoras. Segas que enterram o esterco.
+631.312.07	Arados segundo a força motriz.
+Exemplo(s) de combinação(ões):
+                                      631.312.076 Arados a motor, motorizados 
+                                      631.312.077 Arados de tração a cabo 
+Divisões principais
+631.312.2	Arados de tração animal com relhas.
+631.312.3	Arados mecânicos. Arados com ferramentas
+móveis. Inclusive Arados rotativos. Máquinas
+escavadeiras.
+631.312.4	Arados de trator com relhas.
+631.312.5	Arados de subsolagem. Subsoladores. Arados
+para cavar em profundidade.
+631.312.6	Arados especiais.
+631.312.62	Arados modificados para revolver a terra,
+arrotear batatas, arrancar tubérculos, traçar
+sulcos, sachar.
+631.312.63	Arados com relhas para abrir canais de irrigação
+e drenagem. Implementos para abrir canais.
+631.312.68	Arados desmatadores. Arados para limpar o
+terreno.
+631.312.69	Arados mondedores ou desbastadores. Arados
+desmatadores. Arados destocadores.
+631.312.8	Arados de disco.
+631.313	Grades.
+631.314	Rolos para tratamento do solo. Inclusive
+Compressores de torrões de terra.
+Escovadores.
+631.315	Ferramentas manuais para tratamento do
+solo. Ferramentas para arrancar ervas daninhas. Ferramentas de jardim.
+631.315.1	Enxadas. Enxadas estreitas e curtas.
+631.315.2	Enxadas de puxar. Enxadões manuais. Grades
+manuais rotativas. Ferramentas de abrir sulcos.
+Ganchos de cavar.
+631.315.4	Ferramentas para limpeza de ervas daninhas.
+Sachos.
+631.315.6	Ancinhos de solo. Ancinhos de jardim.
+Rastelos.
+631.315.7	Pás. Espátulas de jardim. Forcados para
+escavar.
+631.316	Capinadeiras. Escavadoras.
+631.316.2	Capinadeiras (p. ex., capinadeiras rotativas).
+631.316.4	Escavadoras (para trabalhar o solo em fileiras e
+entre as fileiras). Máquinas e implementos para
+desbastar e isolar plantas.
+631.316.5	Aeradores de pastos. Cortadores de turfa.
+631.316.6	Máquinas para arrancar ou cortar ervas
+daninhas. Máquinas mondadoras.
+631.317	Trituradoras.
+631.319	Máquinas e implementos para cultivo do
+solo para plantio e cuidado das plantas.
+631.319.2	Máquinas e implementos para fazer canais,
+regos, sulcos (para plantar, semear, estercar).
+Implementos para abrir sulcos.
+631.319.3	Máquinas e implementos para cavar e cobrir
+buracos de semeadura. Implementos para
+sachar (para plantio e cuidado das semeaduras
+em fileiras).
+631.319.4	Máquinas para cobrir com palha plantios
+novos.
+ → 631.544.7 Cultivo sob diferentes abrigos. Proteção e cobertura do solo
+631.33	Máquinas e implementos para semear e
+plantar. Adubadeiras.
+Subdivisões auxiliares especiais
+631.33.02	Componentes. Detalhes.
+631.33.021	Recipientes para sementes e fertilizantes.
+Inclusive Caixas de sementes para regos de
+sementeiras. Tremonhas para distribuidores de
+fertilizantes.
+631.33.022	Mecanismos alimentadores e distribuidores de
+sementes.
+631.33.024	Dispositivos para introduzir a semente no solo.
+Inclusive Segas. Tubos de semente. Rodas de
+prensagem. 
+Divisões principais
+631.331	Máquinas para semear. Semeadeiras.
+631.331.1                   Lançadoras de sementes.
+631.331.4	Rolos de anel para fazer sulcos.
+631.331.5	Semeadeiras mecânicas. Furadeiras para
+semente. Inclusive Máquinas para semear em faixas. 
+Máquinas para furar em filas. 
+Máquinas para semear em aglomerados e grupos.
+631.331.92	Equipamento para preparo da semente.
+631.331.93	Máquinas para produzir fitas de semente.
+631.332	Máquinas e equipamentos para plantar.
+Plantadeiras. Dispositivos para preparo de
+plantinhas e mudas. Máquinas para fazer
+blocos de solo.
+631.332.5	Máquinas para transplantar mudas,
+plantar em vasos, etc.
+631.332.7	Plantadeiras de batatas.
+631.332.8	Máquinas e equipamento para plantios
+especiais.
+631.332.81	Máquinas para plantar em sulcos.
+631.332.87	Bastões plantadores.
+631.333	Distribuidores de fertilizante.
+Espalhadoras de adubo. Máquinas e
+equipamento para preparação e distribuição
+de fertilizantes.
+→ 631.816.3 Método de aplicação
+631.333.4	Equipamento para espalhar esterco líquido.
+Tanques, bombas, borrifadores de esterco.
+Tanques de lodo de esterco.
+631.333.5	Máquinas para espalhar fertilizantes
+em pó e em grãos.
+631.333.6	Espalhadores de estéreo animal. Máquinas para
+espalhar estéreo, composto e turfa.
+631.333.7	Distribuidores de sementes e fertilizantes
+combinados a unidades suplementares
+alimentadoras. Máquinas de plantar com unidades suplementares alimentadoras. Equipamento para abastecer as raízes das plantas com nutrientes.
+631.333.92	Equipamento para picar esterco natural. Poços
+de armazenamento de esterco. Instalações de tratamento para o esterco natural e líquido.
+      → 621.927 Cominuição de materiais moles
+      → 628.473 Destino dado a lixo por meio de compostagem
+      → 631.248 Fossas e outros depósitos para esterco e lixo
+631.334	Máquinas de semear e plantar combinadas
+a distribuidoras de fertilizantes.
+Plantadeiras combinadas.
+631.335	Equipamento para propagação,
+multiplicação de plantas por mergulhia,
+enxertia, etc.
+631.336	Equipamento para transplante. Inclusive
+Para transplante de árvores.
+631.338	Equipamento para cultivo de plantas em
+outros lugares exceto o solo. Inclusive Equipamento para cultivo de plantas sem solo, p. ex., hidropônica.
+631.34	Máquinas e equipamento para cuidado e
+proteção das plantas.
+631.342	Ferramentas de corte. Inclusive Tesouras.
+Podões. Facas de bota. Foices para cuidado
+das plantas. Machados. Machadinhas.
+Serrotes.
+→ 621.93 Serras, serração e técnicas semelhantes de corte
+→ 621.96 Corte sem formação de cavacos, aparas
+→ 672.71 Instrumentos e armas de cortar e furar
+631.343	Equipamento de tratamento do solo para
+cuidar e proteger plantas. Inclusive
+Dispositivos de aquecimento do solo.
+→ 624.143 Medidas contra congelamento e formação de gelo
+      → 631.344.8 Equipamento de aquecimento, ventilação e aguamento para estufas, locais onde se apressa o
+crescimento das plantas, etc.
+631.344	Dispositivos para cobrir e proteger as
+plantas.
+      → 631.23 Estruturas para cultivo e desenvolvimento de plantas
+      → 631.544 Proteção e abrigo de plantas. Cultivo em lugares cobertos
+631.344.1	Campânulas.
+631.344.2	Armações contra o frio.
+631.344.3	Canteiros quentes. Armações aquecidas.
+Canteiros para apressar o crescimento
+da planta.
+631.344.4	Estufas frias (de vidro).
+631.344.5	Estufas aquecidas. Estufas para apressar o
+crescimento das plantas.
+631.344.7	Dispositivos para sombreamento. Esteiras.
+631.344.8	Equipamento de aquecimento, ventilação e
+aguamento para estufas, locais onde se apressa
+o crescimento das plantas, etc.
+Especificar por meio de :621.647... e :628.8...
+631.345	Tutores para plantas. Inclusive Varas,
+estacas. Arames e cordas. Dispositivos para
+orientar e amarrar as plantas.
+631.346	Vasos, caixas, etc.
+631.347	Dispositivos de rega, aguamento.
+Equipamento de irrigação.
+631.347.1	Tubulações. Mangueiras. Veículos para
+transporte das mangueiras. Carretéis
+de enrolar mangueira.
+631.347.2	Dispositivos de aguamento. Regadores,
+irrigadores.
+631.347.3	Equipamento de aspersão. Aspersores,
+aspersores em jatos.
+631.347.4	Aspersores giratórios.
+631.347.8	Dispositivos para aguamento das raízes ou
+suprimento de nutrientes. Dispositivos de alimentação das raízes.
+631.348	Máquinas e equipamento para proteção das
+plantas. Inclusive Repelentes de pragas,
+espantalhos, etc. Armadilhas. Controle
+químico de pragas e doenças. Fumigadores.
+Geradores de fumaça. Aspersores de
+herbicidas e pesticidas. Equipamento para
+extinção de ervas daninhas. Lança-chamas.
+Especificar por meio de :632.93...
+631.35	Equipamento de colheita. Colheitadeiras.
+→ 631.55 Colheita
+631.351	Ferramentas manuais para colheita.
+Ferramentas simples de colheita. Inclusive
+Foices e alfanjes para colheita. Gadanhos.
+Forcados para feno e palha.
+631.352	Máquinas ceifadeiras em geral. Segadeiras.
+→ 631.354 Máquinas para corte das colheitas de cereal. Enfeixadeiras. Colheitadeiras combinadas
+Subdivisões auxiliares especiais
+631.352.02	Componentes das ceifadeiras.
+631.352.022	Mecanismos de corte.
+631.352.027	Acessórios de ceifa e dispositivos de coleta.
+Divisões principais
+631.352.92	Segadeiras para plantas aquáticas. Cortadores
+de caniço. Segadeiras de caniços.
+Cortadores de junco.
+631.352.93	Cortadores de grama. Aparadores de grama.
+631.352.94	Segadeiras para trabalho em valas,
+regos e encostas.
+631.352.95	Máquinas para aparar sebes.
+631.353	Máquinas para fenação (exceto segadeiras).
+631.353.2	Ancinhos de feno. Reviradores de
+feno.Varredores de feno. Ancinhos manuais.
+Ancinhos puxados a cavalo. Ancinhos tipo
+carretéis. Ancinhos e reviradores combinados.
+Reviradores de ancinhos laterais e ceifadores.
+631.353.3	Máquinas para carregar feno. Máquinas para
+espalhar feno com dispositivo de amarrar.
+Guinchos para feixes de feno.
+→ 631.364 Equipamento para empacotar, atar, amarrar, etc. Máquinas ensacadoras. Máquinas embaladoras
+631.354	Máquinas para corte das colheitas de
+cereal. Enfeixadeiras. Colheitadeiras
+combinadas.
+Subdivisões auxiliares especiais
+631.354.02	Componentes de máquinas.
+631.354.022	Mecanismos de corte. Dedos mecânicos. Barras
+de dedos mecânicos. Facas. Seções de facas.
+631.354.024	Dispositivos para enfeixar. Enfeixadoras.
+Enfardadoras. Agulhas. Atadores de nós.
+631.354.025	Elevadores para enfardadciras. Lonas
+transportadoras. Transportadoras de corrente.
+Carregadores. Coletores, latas para grãos
+631.354.026	Mecanismos para debulhagem.
+63l.354.028	Levantadoras. dedos para seara. Divididores
+de seara. Contadores de feixes. Dispositivos para proteção animal.
+Divisões principais
+631.354.1	Enfardadeiras.
+631.354.2	Colheitadeiras combinadas.
+631.354.3	Catadoras. Descabeçadoras. Máquinas para
+colher as cabeças de trevo, etc.
+631.354.4	Atadores de feixes. Enfeixadeiras.
+631.355	Colheitadeiras de milho. Inclusive
+Catadoras. Descorticadoras. Debulhadoras.
+631.356	Máquinas e implementos para coleta de
+culturas em fileira.
+631.356.2	Colheitadeiras de raízes. Inclusive Dispositivos
+para arrancar do chão. Dispositivos para cortar a parte de cima (p. ex., da beterraba).
+      → 631.3.06 Combinações de máquinas e implementos. Conjuntos de máquinas, etc. para uso em seqüência
+631.356.4	Colheitadeiras de batatas.
+631.358	Colheitadeiras para outras culturas.
+Indicar as culturas especificas por meio de :633/635
+631.359	Equipamento e máquinas para medir a
+produtividade da colheita.
+631.36	Máquinas e equipamento para o preparo e
+armazenamento das culturas e produtos agrícolas. Máquinas e equipamento para o preparo de rações.
+      → 631.56 Preparo do produto agrícola. Tratamento após a colheita
+      → 664.7 Tecnologia dos cereais. Moagem de trigo e de milho. Beneficiamento de grãos
+631.361	Máquinas e equipamento para debulhar,
+descascar, descaroçar, etc.
+Subdivisões auxiliares especiais
+631.361.02	Componentes.
+631.361.022	Dispositivos, tambores, peneiras, etc. de
+debulha.
+631.361.025	Dispositivos, agitadores, etc. de limpeza.
+631.361.026	Enfardadeiras de grãos. Ceifadeiras,-
+enfardadeiras. Prensas de enfardar.
+631.361.027	Transportadores de palha. 
+Divisões principais
+631.361.1	Ferramentas manuais para enfeixar, limpar,
+debulhar. Inclusive Mangual.
+631.361.2	Máquinas de debulhagem (debulhadoras).
+631.361.3	Joeiradoras.
+631.361.4	Descascadoras de trevo (sementes).
+Removedores de cascas de vagens,
+debulhadoras.
+631.361.5	Máquinas para polir, etc. semente ou grão.
+631.361.7	Máquinas e equipamento para tratamento
+de frutas.
+631.361.72	Máquinas para dividir e separar a polpa das
+sementes. Para retirada da semente. Para retirada do caroço. Para descascar nozes, etc.
+631.361.8	Máquinas e equipamento para cortar vegetais e
+frutas. Inclusive Máquinas de cortar. Máquinas
+de fatiar. Máquinas de triturar. Raladores,
+espremedores. Extratores de suco.
+      → 621.927 Cominuição de materiais moles
+      → 664.7 Tecnologia dos cereais. Moagem de trigo e de milho. Beneficiamento de grãos
+631.361.9	Máquinas de remover a casca de vegetais e
+frutas. Inclusive Máquinas de descascar.
+Máquinas de remover os talos.
+631.362	Máquinas e equipamento para limpeza
+e seleção do produto. Recipientes, peneiras, etc.
+      → 621.928 Equipamento para separar, selecionar, peneirar, joeirar
+      → 66.047 Secagem industrial. Secadores
+      → 66.067 Refino e purificação de líquidos em geral
+631.362.l		Dispositivos simples. Pás. Peneiras. Tanques.
+631.362.3		Máquinas para limpeza e seleção. Inclusive
+Foles, separadores centrífugos, etc. Selecionadores e classificadores.
+631.362.5	Máquinas de retirar cascas dos produtos em
+grãos (remoção de cascas, palhas, farelo, etc.).
+Máquinas para catar e processar lúpulo.
+631.362.6	Máquinas de lavagem do produto. Máquinas
+centrífugas. Máquinas de remoção de resíduos
+químicos (p. ex., pesticidas em frutas).
+      → 632.95.028 Persistência dos pesticidas e seus efeitos. Resíduos dos pesticidas
+631.363	Máquinas e equipamento para preparo de
+rações para animais.
+631.363.1		Equipamentos para ensilagem, fermentação.
+Silos para forragem.
+631.363.2	Máquinas trituradoras. Moedoras,
+esmagadoras, espremedoras (para forragem).
+Máquinas para picar forragem.
+	      → 621.927 Cominuição de materiais moles
+                                          664.7 Tecnologia dos cereais. Moagem de trigo e de milho. Beneficiamento de grãos
+631.363.5	Equipamento para tratamento térmico da
+forragem. Inclusive Caldeiras para forragem.
+631.364	Equipamento para empacotar, atar, amarrar,
+etc. Máquinas ensacadoras. Máquinas
+embaladoras.
+631.365	Equipamento para secagem, arejamento,
+ventilação de produtos agrícolas. Secadores.
+Ventiladores de produtos agrícolas.
+      → 664.723 Limpeza do grão antes do armazenamento. Aspiração e secagem do grão
+631367	Equipamento e mecanismo para cobrir montões, recipientes, etc. para armazenamento de produtos agrícolas.
+631.37	Máquinas e equipamento para produção de
+energia e tração. Equipamento de transporte agrícola.
+      → 631.656 Transporte
+631.371	Máquinas e equipamento para produzir
+força motriz, tração.
+      → 62-8 Máquinas segundo a força motriz, a força propulsora. Fontes de energia da máquina
+631.372	Veículos motorizados. Inclusive Tratores.
+Especificar por meio de :629...
+      → 629.366 Veículos agrícolas
+631.373	Veículos não motorizados. Carroças. Reboques.
+Especificar por meio de :629...
+631.374	Equipamento de transporte. Equipamento
+para carregar e descarregar (exceto equipamentos fixos).
+      → 621.86/.87 Tecnologia da manipulação de materiais. Equipamento de transporte
+631.4	Ciência do solo. Pedologia.
+Pesquisa do solo.
+      → 622.011.4 Propriedades e classificação do solo
+      → 624.131.4 Propriedades do solo
+      → 626.8 Hidráulica agrícola. Engenharia de irrigação, drenagem e recuperação de terras
+631.41	Propriedades químicas e físico-químicas
+do solo.
+Exemplo(s) de combinação(ões):
+631.41:631.811 Propriedades do solo relativamente a nutrição das plantas. Teor de nutrientes do solo
+631.412	Propriedades físico-químicas do solo em geral.
+631.413	Propriedades eletroquímicas do solo. Troca iônica.
+631.413.2	Fixação.
+631.413.3	Acúmulo de sal. Teor de sal.
+631.413.4	Troca catiônica.
+631.414	Propriedades coloidais do solo.
+631.414.2	Estado coloidal. Endurecimento.
+Afrouxamento. Camadas impenetráveis.
+631.414.3	Absorção. Adsorção.
+631.415	Reação do solo. Acidez e alcalinidade do
+solo. Concentração do íon de hidrogênio
+(valor de pH) do solo.
+→ 543.241 Titulação baseada em ácido. Alcalimetria
+→ 543.554.2 Determinação da concentração de íons de hidrogênio. Valor do pH (acidez, alcalinidade). pHmetria
+631.415.2	Acidez. Solos ácidos.
+631.415.3	Alcalinidade. Solos alcalinos.
+631.415.7	Plantas silvestres indicadoras da
+reação do solo.
+631.416	Química inorgânica do solo. Natureza dos
+vários componentes do solo.
+631.416.1	Nitrogênio.
+631.416.2	Ácido fosfórico.
+631.416.3	Outros ametais e seus compostos.
+      631.416.3 dividido como 546,  conforme apropriado
+631.416.4	Potássio.
+631.416.5	Sódio.
+631.416.7                   Cálcio.
+631 416.8	Outros metais e seus compostos.
+      631.416.8 dividido como 546,  conforme apropriado
+631.417	Química orgânica do solo.
+631.417.1	Teor de carbono.
+631.417.2	Teor de humo.
+631.417.4	Proporção de carbono/nitrogênio.
+631.417.7	Outros compostos orgânicos.
+      631.417.7 dividido como 547
+631.417.8	Compostos organometálicos. Quelatos.
+631.418	Solução do solo.
+631.42	Análises e experimentos de solo.
+631.421	Experimentos no campo e em vasos.
+Métodos estatísticos. Lisimetria.
+631.422	Análise qualitativa do solo.
+      631.422 dividido como 631.423
+631.423	Análise quantitativa do solo
+                                        → 54.062 Pesquisa quantitativa. Determinação da quantidade
+                                     → 543.06 Procedimento analítico. Tipos e técnicas especiais
+631.423.2	Teor de água. Teor de umidade.
+      → 631.432.2 Umidade do solo
+631.423.5	Sais dissolvidos.
+631.423.6	Composição do ar do solo.
+631.423.7	Determinação de bases intercambiáveis.
+631.425	Análise física do solo.
+631.425 dividido como 631.43
+631.427	Análise biológica do solo.
+→ 631.46 Bacteriologia do solo. Biologia do solo
+631.427.l	Análise macrobiológica Inclusive
+Plantas indicadoras.
+631.427.2	Análise microbiológica. Exame da microflora e
+da microfauna.
+631.427.3	Métodos de análise que usam plantas vivas.
+Inclusive Técnica de Neubauer.
+631.427.4	Análise por meio de micróbios. Bioensaio.
+631.43	Propriedades físicas e mecânicas do solo.
+631.431	Propriedades mecânicas do solo.
+631.431.1	Densidade.
+631.431.2	Deformação. Cisalhamento.
+631.431.3	Resistência à lavra. Resistência à aragem.
+631.431.4	Coesão. Compressibilidade.
+631.431.5	Plasticidade. Viscosidade. Ponto de
+viscosidade.
+631.431.6	Intumescimento e encolhimento. Rachadura.
+631.431.7	Compactação.
+631.432	Água subterrânea. Hidrologia agrícola.
+      → 556.3 Hidrologia das águas subterrâneas. Geoidrologia. Hidrogeologia
+      → 626.8 Hidráulica agrícola. Engenharia de irrigação, drenagem e recuperação de terras
+      → 628.1 Abastecimento de água. Tratamento da água. Consumo de água
+631.432.l		Lençol de água. Lençol freático.
+631.432.2	Umidade do solo.
+→ 556.142 Umidade do solo
+→ 631.423.2 Teor de água. Teor de umidade
+631.432.3	Permeabilidade. Lixiviação. Mobilidade dos
+constituintes do solo.
+631.433	Atmosfera do solo.
+631.433.l		Aeração do solo.
+631.433.2	Condições de anaerobiose. Redução do solo.
+631.433.3	Respiração do solo.
+631.433.5	Composição da atmosfera do solo.
+631.434	Estrutura do solo. Inclusive
+Porosidade do solo.
+631.435	Composição granulométrica do solo.
+Textura do solo.
+631.436	Propriedades térmicas do solo.
+631.436.1	Transferência de calor.
+631.436.2	Calor específico.
+631.436.5	Efeito do calor.
+631.436.6	Efeito do frio, do congelamento.
+→ 551.34 Efeitos do congelamento sobre as rochas e solos. Crioturbação
+631.437	Propriedades elétricas e magnéticas do solo.
+Especificar por meio de :537...
+631.438	Radioatividade do solo.
+631.44	Classificação dos solos.
+Detalhes fisiográficos e geológicos por  meio der :55... 
+Exemplo(s) de combinação(ões):
+631.44:5 51.432 Solos de montanha
+631.44:552.524 Solos de loesse
+Subdivisões auxiliares especiais
+631.44.06	Catenas. Associações de solos.
+Divisões principais
+631.442	Classificação tradicional dos solos
+(principalmente segundo a textura e a
+composição química).
+Os solos mistos podem ser indicados pela combinação das subdivisões que se seguem por meio do apóstrofo
+631.442.1	Solo arenoso.
+Exemplo(s) de combinação(ões):
+631.442.!'2 Solo sílico-calcário. Areias calcárias
+631.442.2	Solos calcários.
+631.442.3	Solo calcário-argilosos. Marga.
+631.442.4	Solos argiláceos.
+Exemplo(s) de combinação(ões):
+631.442.4’l Solo de argila-areia (solo argilo-arenáceo). Solo alítico. Argila arenosa
+631.442.4’2 Solo de argila calcária. Marga
+631.442.5	Solos orgânicos.
+631.442.6	Solos pedregosos.
+631.445	Classificação genética dos solos.
+631.445.1	Solos hidromórficos. Inclusive Solos de tundra.
+Solos pantanosos, de brejos. Turfeiras. Gleis,
+Solos de lei.
+631.445.2	Solos podzóticos. Podzóis.
+631.445.3	Solos castanhos. Terras castanhas.
+631.445.4	Solos chernozêmicos. Chernozem (terra preta).
+631.445.5	Solos áridos. Solos desérticos.
+631.445.6	Solos mediterrâneos. Inclusive Krasnozems
+(solos vermelhos). Terra rossa.
+631.445.7	Solos tropicais e subtropicais. Inclusive Margas
+tropicais vermelhas. Solos subtropicais pretos
+(tirs, regur, grumusol).
+631.445.8	Rendzinas. Solos calcários castanhos.
+631.445.9	Outros tipos de solo. Inclusive Solos marinhos.
+Solos esqueléticos (litossolo. regossolo,
+neossolo, pressolo).
+631.45	Fertilidade e toxicidade do solo.
+      → 632.12 Condições desfavoráveis do solo
+631.452	Fertilidade do solo.
+631.453	Toxicidade do solo.
+631.454	Necessidade de adubação do solo.
+      → 631.8 Fertilizantes, adubos animais e enriquecimento do solo. Estímulo ao crescimento. Estimulantes de plantas
+631.458	Empobrecimento do solo. Esgotamento
+do solo.
+      → 631.584.9 Colheita exaustiva
+631.459	Erosão.
+      → 551.3.053 Erosão Corrosão. Intemperismo
+      → 632.125 Degradação do solo
+631.46	Bacteriologia do solo. Biologia do solo.
+→ 631.427 Análise biológica do solo
+631.461	Micróbios zimóticos do solo. Bactérias do
+solo. Microbiologia do solo.
+→ 679.64 Microbiologia agrícola
+→ 579.8 Classificação e sistemática dos microorganismos
+→ 582.231 Esquizomicetos (Bacteriophyta). Bactérias (como vegetais)
+631.461.l	Bactérias amonificantes. Bactérias ureolíticas.
+Proteólise. Amonificação.
+631.461.2	Bactérias formadoras de nitritos.
+631.461.3	Bactérias formadoras de nitrato. Nitrificação.
+631.461.4	Desnitrificação.
+631.461.5	Bactérias fixadoras de nitrogênio.
+Fixação do nitrogênio.
+631.461.6	Decomposição de compostos não-
+nitrogenosos. Inclusive Decomposição da
+celulose, de outros carboidratos.
+631.461.7	Conversão de substâncias inorgânicas, de
+minerais. Inclusive Bactérias de enxofre.
+Bactérias de ferro. Bactérias de fosfato.
+631.462	Esterilização, desinfecção do solo.
+631.463	Antibióticos. Antagonismo microbiano.
+631.464	Vitaminas no solo.
+631.465	Enzimas no solo.
+631.466	Outras microfloras. Inclusive Fungos.
+Micorrizas. Lêvedos. Bactérias em forma de
+bastonete (actinomicetales).
+631.467	Microfauna. Inclusive Protozoários.
+Nematóides.
+631.468	Macrofauna e mesofauna. Animais do solo.
+→ 59 Zoologia
+631.47	Levantamento topográfico, classificação e
+utilização do solo.
+631.472	Perfis de solos. Desenvolvimento do
+perfil do solo.
+631.472.5	Camada humífera. Horizontes orgânicos.
+631.472.6	Solo mineral em geral. Horizontes A-C.
+631.472.7	Camadas do solo. Inclusive Camada superficial
+do solo, solo arável. Subsolo.
+631.472.8	Micropedologia.
+631.473	Levantamentos do solo.
+631.48	Pedogênese. Formação do solo.
+→ 551.435.1 Formas de relevo criadas pela ação erosiva de cursos de água permanentes
+→ 551.435.2 Formas de relevo criadas pelo intemperismo, por enxurradas, lavagem, pelo movimento volumoso de detritos
+631.482	Formação do solo por processos físicos e
+mecânicos. Inclusive Solos aluviais. Solos diluviais.
+      → 551.311.234 Formação do solo
+631.483	Formação do solo por meios químicos.
+631.484	Formação do solo por meios biológicos.
+Inclusive Ação de plantas, bactérias, animais.
+631.485	Solo transportado e deslocado.
+       → 551.311.24 Processo de desnudação. Transporte
+631.5	Trabalhos agrícolas.
+631.51	Preparo e aradura do solo.
+       → 631.31 Máquinas e implementos para cultivo do solo Máquinas e implementos auxiliares
+Subdivisões auxiliares especiais
+631.51.02	Época de trabalho no solo.
+631.51.021	Amanho básico.
+631.51.022	Trabalho preparatório à semeadura ou plantio.
+631.51.023	Trabalho durante o crescimento.
+Divisões principais
+631.511	Preparo do solo sem dispositivos mecânicos.
+Inclusive Com pá, enxada, ancinho
+631.512	Preparo do solo com ferramentas mecânicas. Inclusive Com força animal ou mecânica.
+631.513	Preparo do solo com explosivos.
+431.52	Melhoramento das variedades das plantas.
+431.522	Biologia da reprodução vegetal.
+      631.522  dividido como 581.16
+631.524	Variação dai características.
+  → 581.15 Variações
+631.526	Grupos e tipos de plantas cultivadas.
+631.526.1	Gênero.
+631.526.2	Espécie e subespécie.
+631.526.3	Variedade.
+631.526.4	Linhagem genética,
+631.527	Melhoramento por seleção (natural e
+artificial). Reprodução seletiva de plantas.
+631.527.2	Seleção em massa. Métodos rápidos de seleção.
+631.527.3	Seleção por pedigree.
+631.527.5	Híbridos, cruzamento endógeno e heterose.
+631.527.6	Seleção clonal.
+631.527.7	Seleção de espécies poliplóides
+631.527.8	Métodos de seleção.
+631.527.81	Castração.
+631.527.82	Polinização.
+631.528	Melhoramento por mutação (mutação natural e induzida).
+      → 575 Genética geral. Citogenética geral
+631.528.l	Mutação de genes e cromossomos.
+Mutagênese.
+631.528.2	Poliploidízação.
+631.528.6	Produção de mutações. Modificação genética.
+                                    Exemplo(s) de combinação(ões):
+                                          631.528.6:633 Modificação genética de colheitas
+                                          631.528.6:633.34 Modificação genética da soja
+631.529	Aclimatação.
+631.53	Propagação vegetal. Propagação
+vegetativa.
+→ 581.165 Órgãos de reprodução vegetal
+Subdivisões auxiliares especiais
+631.53.01	Semente.
+631.53.02	Produção de sementes. Coleta, armazenamento
+e tratamento de sementes.
+631.53.027	Tratamento de semente.
+631.53.027.2	Métodos químicos.
+631.53.027.3	Métodos físicos.
+631.53.027.32	Que utilizam a temperatura. Inclusive
+Vernalização.
+631.53.027.33	Que utilizam a eletricidade
+631.53.027.34	Que utilizam a radiação.
+631.53.03	Cultivo de plantas novas, mudas. Inclusive
+Transplantes. Viveiros.
+→ 635.03 Plantas jovens (mudas, plântulas) e seus cuidados. Viveiros
+631.53.04	Semeadura. Plantio. Transplante.
+631.53.042	Semeadura à mão.
+631.53.048	Velocidade de semeadura. Quantidade de sementes
+Divisões principais
+631.531	Sementes e esporos.
+                                     → 631.576.3 Sementes como produtos. Cereais. Nozes descascadas
+631.532/.535        	Propagação vegetativa.
+631.532		Propagação por separação de parte de uma planta em crescimento
+      → 581.165.7 Métodos especiais
+631.532.1	Que utiliza bulbos.
+631.532.2	Que utiliza tubérculos. Divisão de tubérculos em partes com um olho cada uma.
+631.532.3	Divisão ou separação de pedaços.
+631.533	Dissociação de plantas separadas.
+631.533.1	Brotos do colo ou da raiz.
+631.533.2	Estolhos.
+631.533.3	Brotos terminais e prolíferos. Inclusive Plântulas. Bulbilhos.
+631.534	Propagação por mergulhia.
+631.535	Propagação por corte, estacas.
+631.538	Renovação de pomares e vinhedos, etc.
+Rejuvenescimento.
+631.54	Cuidados com as plantas.
+→ 635.04 Plantas adultas e seus cuidados. Jardins e hortas: localização, traçado, etc.
+631.541	Enxertia.
+631.541.l	Escolha do cavalo, do porta-enxerto, e do
+enxerto. Compatibilidade.
+631.541.3	Métodos de enxertia. Inclusive Enxerto de
+garfo, corte, sela e encostia. Enxerto de mosaico
+na coroa. Enxerto herbáceo.
+631.541.4	Enxertia segundo a posição do enxerto no
+	porta-enxerto. Inclusive Enxerto na raiz, coroa,
+caule, ápice.
+631.541.5	Enxerto de borbulha.
+631.541.6	Enxerto de encostia.
+631.541.7	Amarração e proteção do enxerto.
+631.541.8	Enxerto interno.
+631.542	Desbaste. Poda.
+→ 630*245 Cuidados com as árvores
+631.542.1	Poda de inverno.
+631.542.2	Poda de verão.
+631.542.3	Poda de plantas com finalidades especiais.
+Inclusive Moldagem da planta. Poda para
+crescimento. Remoção de partes doentes.
+631.543	Plantio.
+→ 631.53.04 Semeadura. Plantio. Transplante
+631.543.l	Questões gerais. Inclusive Posicionamento,
+situação da planta. Efeito de luz e sombra.
+631.543.2	Densidade do plantio. Espaçamento.
+631.543.3	Métodos de plantio.
+631.543.5	Remoção de plantas excedentes. Limpeza.
+Esparsamento.
+631.543.8	Tipos de plantio. Local em geral. Espaçamento
+(de fileiras, de plantas). Plantio para
+sombreamento, como abrigo. Cuidado e
+proteção das plantações.
+→ 630*26 Combinação de silvicultura com agricultura e pecuária. Florestas irrigadas e terras inundadas. Cinturões de árvores, etc. e seu tratamento
+→ 630*8 Produtos florestais e sua utilização
+→ 631.544.7 Cultivo sob diferentes abrigos. Proteção, cobertura do solo
+631.544	Proteção e abrigo de plantas. Cultivo em
+lugares cobertos.
+      → 631.23 Estruturas para cultivo e desenvolvimento de plantas
+      → 631.344 Dispositivos para cobrir e proteger as plantas
+631.544.1	Cultivo sob campânulas.
+631.544.2	Cultivo em canteiros aquecidos. Cultivo em
+estufins quentes e frios.
+631.544.4	Cultivo em estufas.
+Exemplo(s) de combinação(ões):
+631.544.4-977 Cultivo em estufas quentes
+631.544.7	Cultivo sob diversos abrigos. Proteção e cobertura do solo. Inclusive Coberturas transparentes. Cobertura com palha e palha de	cobertura. Plantas de abrigo. Quebra-ventos.
+→ 626.846 Vários métodos para conservar a umidade na terra irrigada
+→ 631.319.4 Máquinas para cobrir com palha plantios novos
+→ 631.543.8 Tipos de plantio. Local em geral. Espaçamento (de fileiras, de plantas). Plantio para sombreamento,  como abrigo. Cuidado e proteção das plantações
+631.546	Formas naturais e artificiais. Inclusive
+Formas estaqueadas, verticais, eretas.
+Formas em espaldeira. Formas em treliça.
+Trepadeiras em paredes. Caramanchões.
+Pérgulas. Orientação das plantas em
+cordão horizontal.
+631.547	Fases e controle do crescimento da planta.
+631.547.l	Germinação. Plantas novas.
+631.547.2	Crescimento.
+631.547.3	Desenvolvimento completo.
+631.547.4	Florescimento. Floração. Inclusive Estimulo
+artificial do florescimento.
+      → 631.811.98 Estimulantes de plantas (para estímulo artificial do crescimento sem adubo). Reguladores do crescimento das plantas
+631.547.5	Frutificação.
+631.547.6	Amadurecimento.
+631.547.66	Maturação.
+6.31.547.67	Amadurecimento artificial.
+631.55	Colheita.
+      → 631.35 Equipamento de colheita. Colheitadeiras
+Subdivisões auxiliares especiais
+631.55.03	Métodos especiais de colheita.
+631.55.032	Colheita antes da maturidade. Colheita
+ainda verde.
+631.55.034	Colheita múltipla. Primeira, segunda saíra etc.
+631.55.035	Respiga.
+Divisões principais
+631.552	Corte. Ceifa. Gadanha.
+631.553	Produção de feno. Construção da
+meda de feno.
+631.554	Colheita de cereais, colheita de grãos.
+631.555	Colheita de milho.
+631.558	Colheita de outros cultivos.
+Especificar por meio de :633/635
+631.559	Produtividade da colheita, safra.
+631.56	Preparo do produto agrícola. Tratamento
+após a colheita.
+631.561	Debulha. Separação do fruto das cascas.
+Descascamento, etc.
+      631.561 dividido como 631.361
+631.562	Limpeza e seleção do produto. Joeiramento,
+Penetração. Descascamento. Lavagem, etc.
+      631.562 dividido como 631.362
+631.563	Preparo e armazenamento do produto.
+      → 631.24 Construções para armazenamento, manuseio e processamento de produtos agrícolas
+631.563.2	Secagem.
+      → 66.04 Operações e equipamento de tratamento térmico
+631.563.3	Redução de tamanho. Cominuição.
+      → 621.926/.927
+631.563.4	Mistura.
+	      → 621.929 Mistura de sólidos ou semi-sólidos. Amálgama de sólidos com líquidos
+631.563.6	Fermentação.
+	      → 577.151 Estudos gerais das enzimas
+631.563.8	Preparo e preservação para armazenamento.
+	      → 664 Produção e conservação de alimentos sólidos
+631.563.9	Armazenamento. Inclusive em silos.
+      → 621.796 Guarda. Armazenamento
+631.564	Embalagem.
+      → 621.798 Equipamento de acondicionamento e embalagem. Invólucros, recipientes, materiais, máquinas, etc.	
+                                   → 631.364 Equipamento para empacotar, atar, amarrar, etc. Máquinas ensacadoras. Máquinas embaladoras
+631.565	Transporte.
+      → 629 Engenharia de veículos de transporte
+      → 631.37 Máquinas e equipamento para produção de energia e tração. Equipamento de transporte agrícola
+      → 656 Serviços de transporte e serviços postais. Organização de controle do tráfego
+631.57	Produtos, subprodutos e produtos semi-
+acabados da agricultura.
+                                    → 630*8 Produtos florestais e sua utilização
+                                    → 635.07 Produtos das plantas (inteiras, partes, etc.)
+631.571	Madeira. Casca de árvores.
+631.572	Caules. Fibras. Palha.
+631.573	Raízes. Tubérculos. Bulbos.
+631.574	Folhas. Folhagem.
+631.575	Flores. Florescências.
+631.576	Frutos. Partes do fruto.
+631.576.2	Frutos e nozes inteiras.
+631.576.3	Sementes como produtos. Cereais. Nozes
+descascadas.
+      → 631.531 Sementes e esporos
+631.576.4	Cascas, pele das frutas. Fibras. Farelo.
+631.577	Sucos, resinas, gomas, essências, etc. de
+plantas.
+631.58	Sistemas específicos de cultura.
+      → 631.153 Planejamento da produção agrícola
+631.581	Pousio.
+631.582	Rotação de culturas.
+631.582.1	Monocultura.
+631.582.2	Cultura em turnos. Rotação da terra.
+631.582.3	Rotações de três estágios.
+631.582.9	Outros sistemas. Inclusive Pastoreio tosco.
+631.583	Cultura intensiva.
+631.584	Cultura intercalada. Cultura de rodízio.
+Cultura exaustiva.
+631.584.2	Sistema de cultura de rodízio.
+631.584.4	Sistema de cultura de cobertura.
+631.584.5	Cultura mista. Cultura intercalada.
+631.584.9	Cultura exaustiva.
+631.585	Sistema pastoral. Transumância.
+631.586	Agricultura de sequeiro. Uso de solos
+mais profundos.
+631.587	Agricultura em terra irrigada.
+631.588	Agricultura com utilização de fenômenos
+especiais. Inclusive Uso de eletricidade,
+ondas de rádio e acústicas, luz artificial,
+calor (aquecimento do solo), fogo.
+→ 630*43 Incêndios florestais
+631.589	Cultura em meios artificiais.
+631.589.2	Cultura hidropônica.
+631.589.3	Culturas em areia. Em outros meios inertes.
+631.589.5	Em meios plásticos.
+631.6	Engenharia rural.
+                                     → 556.18 Administração dos recursos hídricos. Hidrologia aplicada. Controle humano das condições hidrológicas
+                                     → 626.8 Hidráulica agrícola. Engenharia de irrigação, drenagem e recuperação de terras
+                                     → 627.5 Outros trabalhos de proteção e melhoramento das hidrovias. Diques. Proteção da costa. Drenagem e 
+		      recuperação das margens
+                                     → 628.1 Abastecimento de água. Tratamento da água. Consumo de água
+                              	      → 630*237 Melhoria dos locais de florestas
+                              	      → 630*38 Engenharia florestal
+Subdivisões auxiliares especiais
+631.6.02	Conservação do solo e da água.
+Controle da erosão.
+631.6.03	Água: composição e propriedades.
+Divisões principais
+631.61	Limpeza e utilização de tipos especiais
+de solos.
+      → Recuperação de terrenos baldios, terras estéreis
+631.611	Recuperação e aproveitamento de terras
+marginais em geral, pastos, urzes,
+charnecas, etc.
+631.612	Recuperação e aproveitamento de solos
+pedregosos e rochosos. Recuperação de
+dunas.
+631.613	Recuperação de solos em encostas.
+Inclusive Formação de terraços.
+631.614	Recuperação de florestas e matas virgens.
+631.615	Recuperação de pântanos e charnecas.
+631.616	Recuperação de solos abaixo do nível do
+mar. Formação de pôlderes.
+      → 627.53 Terrenos baixos, sujeitos a inundação e sua proteção
+631.617	Recuperação de solos desérticos e áridos.
+631.618	Recuperação de solos onde houve indústrias e minas.
+631.62	Drenagem.
+→  626.86 Remoção da água. Drenagem
+→ 627.532 Drenagem. Secagem completa
+→ 628.2 Eliminação de águas urubus
+→ 631.432 Águas subterrâneas. Hidrologia agrícola
+→ 632.123 Umidade
+631.67	Irrigação.
+      → 626.81/.84 Irrigação
+      → 628.1 Abastecimento de água. Tratamento da água. Consumo de água
+631.671	Necessidade de água.
+631.672	Abastecimento de água.
+      631.672 dividido como 628.1
+631.674	Métodos de irrigação.
+631.674.1	Irrigação da superfície.
+631.674.2	Irrigação por inundação.
+631.674.3	Desvio de cursos de água.
+631.674.4	Irrigação da subsuperfície.
+631.674.5	Irrigação por aspersão.
+631.674.6	Irrigação por filete de água. Irrigação
+por gotejamento.
+631.675	Regime e tempo de irrigação. Parâmetros
+de irrigação.
+631.8	Fertilizantes, adubos animais e
+enriquecimento do solo. Estímulo ao crescimento. Estimulantes de plantas.
+                                    → 631.454 Necessidade de adubação do solo
+                                          → 661.152 Fertilizantes. Fertilizantes inorgânicos em geral
+Subdivisões auxiliares especiais
+631.8.022.3	Aditivos.
+631.8.022.3 dividido como 66.022.3
+Divisões principais
+631.81	Generalidades. Nutrientes vegetais.
+Produção e uso de fertilizantes, adubos.
+Subdivisões auxiliares especiais
+631.81.031	Absorção, consumo de nutrientes.
+631.81.033	Conversão e distribuição na planta.
+631.81.036	Processos biodinâmicos.
+631.81.095.337	Necessidades de certos elementos.
+Micronutrientes essenciais. Oligoelementos.
+631.81.095.338	Falta de certos elementos. Deficiência mineral.
+Divisões principais
+631.811	Nutrição vegetal.
+Indicar os nutrientes por meio de :631.416... e 631.417...
+631.811.98	Estimulantes de plantas (para estímulo
+artificial do crescimento sem adubo). Reguladores do crescimento de plantas. Hormônios.
+→ 581.192 Composição química dos vegetais
+      → 661.152 Florescimento. Floração
+631.812	Produção, preparo, armazenamento, etc. de
+fertilizantes. Composição e forma de
+apresentação dos fertilizantes.
+Indicar o estado de agregação por meio de -403/-405 e -492...  de 62
+631.813	Composição, reação (valor do pH),
+toxicidade e reações recíprocas dos
+fertilizantes.
+      → 543 Química analítica
+631.814	Perda dos princípios fertilizadores.
+Alterações no valor do adubo.
+631.815	Aspectos econômicos.
+631.816	Aplicação e distribuição de fertilizantes.
+631.816.1	Dosagens. Taxas de aplicação.
+631.816.2	Época da aplicação (p. ex., antes, durante, depois da semeadura).
+Indicar as estações ou meses específicos por meio de "32... " ou "33... ",  da Tabela Ig
+631.816.3	Método de aplicação. Inclusive Aplicação à
+mão. Colocação no solo. Injeção. Aspersão (em
+solução aquosa). Pulverização (aplicação
+aérea).
+→ 631.333 Distribuidores de fertilizantes. Espalhadoras de adubo. Máquinas e equipamento para preparação e     distribuição de fertilizantes
+631.82	Corretivos minerais. Fertilizantes
+artificiais em geral.
+631.821	Calcário. Greda. Gipsita.
+→ 666.92 Indústria de cal. Cal e produtos de cal
+631.822	Marga.
+631.823	Polieletrólitos. Condicionadores do solo.
+631.824	Magnésio.
+631.825	Sulfato de ferro.
+631.826	Sedimentos de inundações. Aluvião.
+      → 627.533.1 Recuperação da terra. Acumulação de sedimentos. Pôlderes
+631.828	Outros corretivos minerais. Inclusive Sal.
+Iodo. Cobre.
+631.829	Gases de combustão. Dióxido de carbono.
+631.83	Fertilizantes potássicos.
+631.831	Cinzas de madeira. Cinzas de vegetais.
+Cinzas de turfa.
+      → 674.88 Processamento de turfa (exceto como combustível e para a indústria têxtil)
+631.832	Cloretos.
+631.833	Sulfatos.
+631.834	Sais brutos de potássio.
+631.835	Silvinita.
+631.836	Silicatos.
+631.837	Carbonatos.
+631.84	Fertilizantes nitrogenados.
+631.841	Fertilizantes de amônia. Amidas.
+631.842	Fertilizantes de nitratos. Salitres (nitratos
+de potássio e sódio), etc.
+631.847	Fertilizantes vegetais nitrogenados.
+Inoculação de bactérias e micorrizas no solo.
+631.85	Fertilizantes fosfatados.
+631.851	Fosfatos minerais. Fosfatos brutos.
+631.852	Farinha de ossos e produtos semelhantes.
+631.853	Escória básica. Escória de Thomas.
+→ 669.184.28 Escórias básicas de Bessemer (escórias de Thomas)
+631.854	Guano (excrementos de pássaros e
+morcegos). Guano de peixes (farinha de
+peixe).
+→ 664.957 Farinha de peixe
+631.855	Superfosfato.
+→ 631.89 Fertilizantes compostos. Adubos mistos
+631.857	Eletrofosfatos. Fosfatos condensados.
+631.858	Silicofosfato. Fosfatos da Renânia.
+631.859	Outros fertilizantes fosfatados. Inclusive
+Fosfatos de sódio, potássio, amônia,
+cálcio, magnésio.
+631.86	Adubos orgânicos em geral. Fertilizantes
+de origem biológica.
+631.861	Adubos de origem animal em geral.
+631.862	Esterco de pastos. Esterco animal. Esterco
+de curral (inclusive estéreo líquido).
+631.863	Excrementos humanos, despejos de esgoto.
+                                      → 626.841  Irrigação por inundação
+                                     →  628.381 Utilização das águas de esgoto na agricultura
+                                     →  631.879.2 Despejo de esgoto como fertilizante
+631.867                  Outros fertilizantes de origem animal. Inclusive Restos de peixe. Sangue. Restos de matadouros.
+631.87                   Outros adubos orgânicos.
+631.871	Adubos de origem vegetal em geral.
+631.872	Detritos vegetais. Inclusive Folhas. Camada humífera de florestas. Folhas usadas no
+preparo de composto. Humo. Palha.
+631.873	Material vegetal de origem aquática.
+631.874	Adubação verde. Culturas que melhoram o solo.
+631.875	Adubação com plantas cortadas.
+631.877	Adubação com tortas de sementes
+oleagionosas. Inclusive Com torta de
+amendoim.
+631.878	Turfa, linhito, carvão como fertilizantes.
+→ 674.88 Processamento de turfa (exceto como combustível e para a indústria têxtil)
+631.879	Outros resíduos como fertilizantes.
+→ 628.477.3 Emprego de adubo composto na agricultura
+631.879.1	Lixo urbano, lixo como fertilizante.
+631.879.2	Despejos de esgoto como fertilizante.
+→ 626.841 Irrigação por inundação
+→ 628.381 Utilização das águas de esgoto na agricultura
+→ 631.863 Excrementos humanos, despejos de esgoto
+631.879.3	Resíduos industriais como fertilizantes.
+Exemplo(s) de combinação(ões):
+      → 628.54 Tratamento de resíduos sólidos industriais
+631.879.3:663.48 Resíduos de cervejaria como fertilizantes
+631.879.4	Composto.
+→ 628.473 Destino dado ao lixo por meio de compostagem
+631.89	Fertilizantes compostos. Adubos mistos.
+631.893	Misturas fertilizantes exclusivamente
+inorgânicas.
+631.894	Misturas fertilizantes exclusivamente
+orgânicas (estercos misturados).
+631.895	Misturas de fertilizantes orgânicos e
+inorgânicos.
+631.92	Efeitos geofísicos da agricultura.
+Influência da agricultura no clima, solo, cursos de água, erosão, deslizamentos de terra, etc.
+631.95	Ecologia agrária.
+           Classificar aqui apenas os estudos ecológicos do ponto de vista agrícola
+   → 581.5 Hábitos dos vegetais. Comportamento vegetal. Ecologia vegetal. Etologia vegetal. O vegetal e seu meio
+        ambiente. Bionômica dos vegetais 
+        → 591.5 Hábitos dos animais. Comportamento dos animais. Ecologia. Etologia. O animal e o meio ambiente.
+        Bionomia
+631.96	Tipos de plantação. Avaliação do local.
+	      → 630*11 Fatores locais na silvicultura
+                                     → 634.8.047 Vinhedos (local, disposição, esquema, etc.)
+                                     → 635.04 Plantas adultas e seus cuidados. Jardins e hortas: localização, traçado, etc.)
+631.961	Plantações em relação ao local.
+631.962	Tipos de formações vegetais e de matas.
+→ 630*22 Sistemas de silvicultura
+631.962.2	Densidade.
+631.962.3	Formações vegetais puras.
+631.962.4	Formações vegetais mistas.
+631.962.5	Formações vegetais de mesma idade.
+631.962.6	Formações vegetais de idade desigual.
+631.963	Origem e desenvolvimento de formações
+vegetais, etc. Migração de espécies vegetais.
+Invasão e naturalização de espécies
+vegetais.
+631.963.2	Formações vegetais naturais em geral.
+631.963.3	Formações vegetais artificiais em geral.
+632 Danos e lesões das plantas. Doenças das plantas. Pragas, organismos nocivos às plantas. Proteção das  plantas
+
+→ 368.51 Seguro contra riscos advindos de condições atmosféricas, danos causados por intempéries. Seguro contra doenças das plantas, das colheitas. Fitopatógenos
+      → 576.8 Parasitologia
+      → 630*4 Danos às florestas e proteção contra eles
+Subdivisões auxiliares especiais
+632.03	Determinação e avaliação dos danos.
+632.038	Extensão dos danos.
+368.025.76 Extensão da perda ou dano
+632.08	Técnicas biológicas. Métodos
+Experimentais, etc.
+632.08 dividido como 57.08 
+Divisões principais
+632.1	Afecções não-parasitárias. Doenças
+vegetais de origem complexa.
+632.11	Condições meteorológicas ou climáticas
+desfavoráveis. Danos provocados pelas
+intempéries.
+      → 551.5 Meteorologia
+      → 632.931.2 Ação sobre as condições meteorológicas ou climáticas. Alteração do tempo
+632.111	Temperaturas extremas. Frio. Calor.
+632.111.5	Congelamento. Geada.
+632.111.6	Frio. Baixas temperaturas.
+632.111.7	Congelamento do solo.
+632.111.8	Calor. Altas temperaturas.
+632.112	Seca.
+      → 631.671 Necessidade de água
+632.115	Luz.
+632.115.1	Luz excessiva.
+632.115.2	Falta de luz. Sombra.
+632.115.3	Queimação pelo sol. Escaldamento pelo sol.
+632.116	Precipitação e condensação.
+632.116.1	Chuva
+632.116.2	Neve. Avalanches.
+632.116.3	Granizo.
+632.116.4	Cerração. Neblina.
+632.116.5	Orvalho.
+632.116.6	Escarcha. Orvalho congelado. Geada congelada.
+632.117	Vento.
+632.117.l	Tempestades. Ciclones.
+632.117.2	Vento constante.
+632.118	Fenômenos elétricos e radiativos.
+632.118.1	Raios.
+632.118.2	Eletricidade. Correntes telúricas. Campos
+elétricos.
+      → 550.37 Eletricidade terrestre. Correntes da Terra
+632.118.3	Radioatividade.
+632.12	Condições desfavoráveis do solo.
+      → 631.45 Fertilidade e toxicidade do solo
+632.121	Deficiência de nutrientes. Clorose.
+632.121 dividido como 546
+632.122	Constituintes nocivos ou tóxicos.
+632.122.1	Substâncias inorgânicas nocivas.
+Minerais tóxicos.
+632.122.1 dividido como 546
+632.122.2	Substâncias orgânicas nocivas.
+632.122.2 dividido como 547
+632.123	Umidade. Inclusive Umidade do solo.
+Inundações. Encharcamento.
+      → 631.432 Água subterrânea. Hidrologia agrícola
+      → 631.62 Drenagem
+632.124	Condições físicas desfavoráveis do solo.
+      → 631.43 Propriedades físicas e econômicas do solo
+632.125	Degradação do solo. Inclusive Erosão.
+Deslizamentos de terra.
+      → 551.3.053 Erosão. Corrosão. Intemperismo
+      → 631.459 Erosão
+632.126	Perturbaç5es sísmicas. Terremotos. Abalos,
+tremores de terra.
+      → 550.34 Sismologia. Terremotos em geral
+632.15	Impurezas atmosféricas. Poluição química
+ou industrial.
+      → 628.395 Efeito fisiológico dos pesticidas
+      → 628.5 Medidas contra danos causados pelas indústrias e outras causas
+632.151	Fumaça. Smog. Gases.
+632.152	Partículas sólidas, poeiras aéreas. Inclusive
+Cinzas vulcânicas.
+632.153	Águas servidas. Água do mar. Água de
+irrigação, etc.
+632.154	Afecções causadas por produtos de proteção
+às plantas, pesticidas, etc.
+      → 632.95.024 Efeito fisiológico dos pesticidas. Toxicologia dos pesticidas. Toxicidade para as pragas, para outros animais, para os seres humanos. Efeito sobre as plantas. Fitotoxicidade
+632.155	Afecções causadas por fertilizantes.
+632.16	Distúrbios fisiológicos ou doenças
+complexas diversas.
+632.161	Degeneração.
+→ 581.148 Degeneração. Perda de certas partes
+632.163	Murcha.
+632.164	Fracasso ou perda da safra. Inclusive
+Lavagem do pólen pela chuva.
+632.165	Derrubada da safra. Inclusive Destruição
+pelo vento.
+632.166	Queda prematura de folhas, flores, frutos.
+632.167	Doenças fisiológicas durante o
+armazenamento.
+632.168	Teratologia. Malformações.
+→ 581.2 Doenças das plantas. Patologia vegetal. Fitopatologia
+632.18	Outras afecções não-parasitárias.
+632.184	Lesões mecânicas. Ferimentos das plantas.
+632.187	Dano por incêndio. Dano por bombas.
+632.2	Sintomatologia das plantas.
+                                       Classificam-se aqui apenas as questões gerais. Se for conhecido o agente causador, classificar as doenças e danos em 
+	631.1l e  632.3/.8
+632.21	Galhas. Cecídios.
+632.23	Tumores. Cancro.
+632.24	Murcha. Ferrugem.
+632.25	Podridão. Mal-branco-das-raízes. Míldio.
+Fungos. Bolor.
+632.26	Manchas nas folhas. Descolorações.
+Necroses.
+632.27	Vassoura-de-bruxa (crescimentos
+de tufos).
+632.3	Doenças bacterianas e viróticas
+das plantas.
+	      632.3.01/.08  dividido como 57.01/.08
+632.35	Doenças bacterianas das plantas.
+	      Subdividir alfabeticamente pelo nome do gênero e  da espécie da bactéria. Ver Tabela 1h
+632.38	Doenças viróticas das plantas.
+Subdividir alfabeticamente pelo nome da planta hospedeira e/ou nome do vírus. Ver Tabela Ih
+632.4	Doenças das plantas causadas por fungos,
+algas. Micoses, etc. das plantas.
+632.4.01/.08 dividido como 57.01/.08 
+632.42/. 49 dividido como 582.22/. 29 e/ou subdividir alfabeticamente pelo gênero e espécie do fungo,etc. Ver Tabela 1h
+632.5	Plantas nocivas (i.e., daninhas a outras plantas).
+Subdividir 632.51/.53 alfabeticamente pelo nome do gênero e da espécie da planta (Ver Tabela Ih) 
+632.5.01/.08 dividido como 58.01/.08
+632.51	Ervas daninhas.
+632.52	Outras plantas não-parasitas. Inclusive
+Mato ralo, vegetação enfezada. Macega.
+Hospedeiros intermediários de parasitas
+(plantas portadoras de pragas). Plantas
+venenosas.
+→ 615.918 Venenos vegetais (Fitotoxinas
+632.53	Plantas parasitais Epífitas. Plantas trepadeiras.
+632.6		Animais nocivos às plantas (exceto insetos).
+      632.6.04/.05 dividido como 591.04/.05 
+      632.6.08 dividido como 57.08 
+      632.62/.69 dividido como 592/599 e/ou  alfabeticamente pelo nome do gênero ou espécie do 
+      animal. Ver  Tabela 1h
+     632.69 Microtus agrestis O rato silvestre Microtus agrestis nocivo às plantas, ou
+     632.693.234.3 Muridae (camundongos, ratos, ratos silvestres, etc.) nocivos às plantas
+     → 591.65/.69
+632.7	Insetos nocivos às plantas
+632.7.04/.05 dividido como 591.04/.05
+                                  632.7.08 dividido como 57.08
+632.71/. 79  dividido como 595. 71/. 79  e/ou alfabeticamente pelo nome do gênero
+ou etpécie do inseto. Ver Tabela Ih
+632.727	Gafanhotos comuns nocivos às plantas.
+632.7
+632.752	Piolhos de plantas, afídeos, pulgões,etc.
+nocivos às plantas.
+632.7
+632.76	Escaravelhos, besouros.
+632.7
+Exemplo(s) de combinação(ões):
+ 632.76 Leptinotarsa decemlineata O escaravelho do Colorado (Leptinotarsa decemlineata) nocivo às plantas ou        632.76.632.768 Besouros nocivos às plantas (besouros das folhas, das cascas, etc.) 
+632.8	Outras afecções e doenças das
+plantas. Doenças devidas a causas
+desconhecidas.
+632.9	Controle das doenças e pragas das
+plantas.
+632.91	Generalidades.
+632.911	Métodos experimentais.
+632.912	Serviços de proteção às plantas.
+632.913	Medidas de proteção às plantas. Inclusive
+Legislação.
+632.913.l	Importação. Exportação. Quarentena
+de plantas.
+632.913.2	Métodos de inspeção.
+632.914	Previsão. Prognóstico.
+632.92	Invasão e disseminação de doenças e
+pragas das plantas.
+632.93	Métodos de controle das doenças, pragas e
+danos às plantas.
+	Exemplo(s) de combinação(ões):
+632.93:631.462 Desinfecção do solo para controle das doenças e pragas 
+632.93:631.53.02 Tratamento das sementes para controle das doenças e pragas
+632.931	Métodos de cultivo.
+Modificação dos fatores climáticos e meteorológicos. Destruição de plantas e vetores infectados
+632.931.l	Métodos de cultivo para controle de doenças e pragas, etc.
+Especificar por meio de  :631.51.9 
+Exemplo(s) de combinação(ões):
+632.931.l:631.51 Preparo do solo
+632.931.2	Ação sobre as condições meteorológicas ou
+climáticas. Alteração do tempo.
+632.931.2 dividido como 63.11
+632.931.21	Alteração da temperatura (calor, frio).
+632.931.2
+632.931.4	Destruição de plantas infectadas e de vetores,
+portadores.
+632.934	Métodos químicos de controle de doenças e pragas.
+      → 631.348  Máquinas e equipamento para proteção das plantas
+      → 632.982 Métodos de aplicação. Aparelhos
+632.934.l	Aspersão, pulverização, atomização
+de pesticidas.
+632.934.2	Fumigação.
+632.934.3	Tratamento sistêmico. Endoterapia.
+632.934.4	Iscas venenosas.
+633.935	Métodos físicos c mecânicos de controle das
+doenças e pragas, etc.
+632.935.l	Controle da temperatura (elevação, diminuição)
+para controle das doenças e pragas.
+Para o controle da temperatura como fator nocivo,  usar 632.931.21
+632.935.2	Uso da água para controle das doenças
+e pragas. Inclusive Hidratação. Desidratação. Imersão.
+632.935.3	Uso de pressão e vácuo para controle de
+doenças e pragas.
+632.935.4	Uso de radiações, ondas acústicas, etc. para
+controle de doenças e pragas.
+632.935.7	Métodos mecânicos para controle de doenças e
+pragas. Inclusive Coleta e destruição física de pragas. Proteção das culturas com barreiras, muretas, telas. Embalagem. Empacotamento. Armazenamento hermético.
+632.936	Controle das pragas por processos
+psicológicos e sensoriais.
+      → 631.348 Máquinas e equipamento para proteção das plantas.
+632.936.1	Armadilhas de luz
+632.936.2	Substâncias que atraem iscas.
+632.936.3	Repelentes.
+632.936.4	Espantalhos.
+632.936.5	Métodos acústicos.
+632.937	Limitação natural das doenças e pragas das
+plantas. Controle biológico.
+      → 632.938 Imunologia
+632.937.l	Inimigos naturais das doenças e pragas das
+plantas. Organismos inimigos das pragas. Condições meteorológicas e climáticas desfavoráveis às pragas.
+632.937.2	Equilíbrio natural das populações. Inclusive
+Flutuações. Distúrbios do equilíbrio natural.
+Proteção dos aliados naturais.
+632.937.3	Uso de inimigos naturais das pragas. Inclusive
+Importação. Criação. Uso da ocorrência natural.
+632.938	Imunologia. Inclusive Plantas resistentes a
+doenças e pragas. Imunização de plantas.
+632.939.1	Esterilização de insetos.
+→ 632.935.4 Métodos físicos e mecânicos de controle das doenças e pragas
+632.95	Preparados para proteção das plantas. Pesticidas.
+Subdivisões auxiliares especiais
+632.95.02	Efeito dos pesticidas.
+632.95.021	Segundo o estágio de desenvolvimento
+da praga. 
+632.95.021.l         Ovos. Ovicidas.
+632.95.021.2	Larvas. Larvicidas.
+632.95.021.3	Adultos.
+632.95.024	Efeito fisiológico dos pesticidas. Toxicologia
+dos pesticidas. Toxicidade para as pragas, para
+outros animais, para os seres humanos. Efeito
+sobre as plantas. Fitotoxicidade.
+→ 632.154 Afecções causadas por produtos de proteção 
+632.95.025	Modo de ação dos pesticidas.
+632.95.025.l         Por contato. Venenos de contato.
+632.95.025.2	Por ingestão. Venenos digestivos.
+632.95.025.3	Por inalação. Venenos respiratórios.
+632.95.025.4	Por antagonismo.
+632.95.025.5	Por sinergismo.
+632.95.025.8         Resistência a pesticidas.
+632.95.026	Tratamento preventivo e curativo.
+632.95.026.l         Tratamento preventivo.
+632.95.026.2         Tratamento por erradicação.
+632.95.026.3         Tratamento curativo.
+632.95.027	Dosagem de pesticida.
+632.95.028	Persistência dos pesticidas e seus efeitos.
+Resíduos dos pesticidas.
+→ 631.362.6 Máquinas de lavagem do produto. Máquinas centrífugas. Máquinas de remoção de resíduos químicos (p.ex., pesticidas em frutas)
+Divisões principais
+632.951	Preparados para destruição de artrópodes e
+moluscos. Inseticidas. Acaricidas.
+Moluscocidas.
+632.952	Preparados antifúngicos. Fungicidas.
+632.953	Preparados antibacterianos e antiviróticos.
+Bactericidas. Viricidas.
+632.954	Herbicidas. Venenos contra ervas daninhas.
+632.955	Preparados para destruição de vermes.
+Nematicidas.
+632.958	Preparados para destruição de pragas de
+vertebrados. Inclusive Venenos contra répteis, aves, peixes, mamíferos. Rodenticidas, etc.
+632.98	Implementação do tratamento.
+632.981	Tipos de preparados para controle de
+pragas.
+→ 62-403/-405 Estado de agregação dos materiais
+→ 492 Materiais pulverulentos. Pós. Grãos
+632.981.l		Aspersões. Suspensões. Soluções. Emulsões.
+632.981.2	Pós. Preparados granulados.
+632.981.3	Adjuvantes. Ingredientes auxiliares. Inclusive
+Agentes umidificadores. Adesivos.
+Emulsificantes. Diluentes. Excipientes.
+632.981.4	Sinergistas.
+632.981.5	Compatibilidade.
+632.982	Métodos de aplicação. Aparelhos.
+      → 631.347 Dispositivos de rega. Aguamento
+      → 631.348 Máquinas e equipamento para proteção das plantas
+      → 632.934 Métodos químicos de controle de doenças e pragas
+632.982.l		Aspersão. Borrifamento.
+632.982.2	Nebulização. Atomização. Aerossóis.
+632.982.3	Espargimento seco. Lançamento.
+Polvilhamento, p. ex., enxoframento.
+632.982.4	Aplicação aérea.
+→ 656.7 Transporte aéreo. Tráfego aéreo
+632.982.5	Injeção. Inclusive Injeção no solo.
+Injeção na planta.
+632.982.6	Produção de fumaça. Fumigação.
+632.982.7	Tratamento com água quente. Escaldamento,
+esterilização.
+632.983	Época de aplicação.
+632.983.1	Tratamento no estágio vegetativo. Aspersão de
+verão. Borrifamento, aspersão da folha, etc.
+632.983.2	Tratamento no estágio dormente. Aspersão
+de inverno.
+632.983.3	Tratamento no período de semeadura
+ou plantio.
+
+633/635 Culturas agrícolas específicas. Horticultura
+Os auxiliares especiais -1/-2,  de 62-1/-2,  não são aplicáveis em 633/63,. onde são usados auxiliares -1/-2 diferentes
+
+633 Culturas agrícolas e sua produção
+Indicar as variedades sazonais por meio de “32...”
+Exemplo(s) de combinação(ões): 
+                        633“321” Culturas da primavera 
+                       633“321:324” Culturas alternativas 
+                       633“324” Culturas de inverno
+                         → 582 Botânica sistemática
+                                       → 634 Horticultura em geral
+                                       → 635 5 Plantas de jardim. Jardinagem e  horticultura
+Subdivisões auxiliares especiais
+633-1/-2	Equipamentos, operações etc. para
+culturas agrícolas. Danos e doenças das
+plantas.
+      Os auxiliares 62-1... e 62-2... não são aplicáveis em 633 e suas subdivisões 
+                      633-1/-2 dividido como  631/632 
+Divisões principais
+633.1	Cereais. Culturas de grãos.
+633.11	Trigo. Triticum.
+633.111	Espécies hexaplóides. Triticum aestivum.
+Inclusive Trigo comum.
+633.112	Espécies tetraplóides.
+633.113	Espécies diplóides.
+633.12	Trigo-sarraceno. Fagopyrum.
+633.13	Aveia. Avena sativa.
+633.14	Centeio. Secale cereale.
+633.15	Milho. Milho doce. Zea mays.
+      → 635.67 Milho comum. Zea mays (especialmente Zea mays sccharata). Milho de pipoca
+633.16	Cevada. Hordeum sativum.
+633.17	Painço. Sorgo.
+633.171	Painço comum. Panicum miliaceum.
+633.172	Digitaria. Inclusive Capim-das-hortas.
+Fonio. Iburu.
+633.173	Painço-de-pérola. Pennisetum typhoideum.
+633.174	Sorgo. Sorghum vulgare.
+633.175	Painçoo-rabo-de-raposa. Setaria italica.
+633.177                      Painço abissínio. Eragrostis abyssinica.
+633.179                       Outros painços. Inclusive Painço africano.
+Eleusine coracana. Capim-do-campo. Glyceria fluitans. Arroz-bravo. Zizania aquatica.
+633.18	Arroz. Oryza.
+Subdivisões auxiliares especiais
+633.18.03	Arroz de água.
+633.18.05                    Arroz de sequeiro.
+Divisões principais
+633.19	Outras culturas de cereais e grãos.
+633.2	Gramíneas forrageiras. Capins de
+campos e pastagens.
+Subdivisões auxiliares especiais
+633.2.03	Tipos de campos. Pastagens.
+      → 636.083.314 Criação ao ar livre. Pastoreio. Criação extensiva
+      → 636.084.22 Alimentação no pasto. Pastagem
+633.2.031	Campos de feno.
+633.2.032	Campos naturais.
+633.2.033	Pastos, pastagens.
+Divisões principais
+633.21		Gramíneas de campo. Grama, relva.
+633.22	Dactylis.
+633.23	Agrósteas.
+633.24	Capim-rabo-de-rato, capim-de-manada,
+capim-de-rebanho. Phleum pratense.
+633.25	Cereais como culturas forrageiras
+verdes.
+Aplica-se apenas aos cereais cultivados para forragem verde 
+633.25 dividido como 633-1
+633.3	Plantas forrageiras exceto
+gramíneas.
+633.31/.37	Leguminosas. Legumes forrageiros.
+633.31	Alfafa. Medicago L.
+633.32	Trevos.Trifolium L.
+633.33	Feijão-chicote, Ervilha-de-vaca.
+Vigna ssp..
+633.34	Soja. Glycine L..
+633.35	Favas. Vicia L.. Inclusive Lentilhas.
+Feijões. Ervilhas.
+      → 635.65 Vagens. Fava (vícia) e outras
+633.36/.37	Outras leguminosas.
+633.361	Sanfeno. Onobrychis viciaefolia.
+633.365	Sula. Hedysarum coronarium.
+633.367	Tremoço. LupinusL. ssp.
+633.368	Amendoim. Arachis hypogaea (como
+planta forrageira).
+633.37	Outras leguminosas forrageiras.
+633.39	Outras plantas forrageiras. Plantas
+forrageiras não-leguminosas.
+633.4	Raízes e tubérculos comestíveis.
+Culturas de raízes.
+	      → 635.1 Raízes comestíveis
+633.41/.44	Beterrabas. Cenouras. Nabos.
+Só se classificam aqui os aspectos de cultivo de campo. Os principais números são 635.11/.14
+633.41	Beterrabas. Beterrabas vermelhas e
+amarelas. Beta vulgaris.
+      → 633.63 Beterraba. Beta vulgaris
+633.412	Beterraba. Beta vulgaris conditiva.
+633.415	Beterraba amarela de salada.
+Beta vulgaris alba.
+633.416	Beterraba forrageira (mangelwurzel).
+633.42	Raízes de brássicas (couves e similares) e
+aipo. Inclusive Raiz de couve-rábano,
+nabos. Brassica. Raízes de brássicas.
+Aipo (Apium graveolens rapaceum)
+e similares.
+633.43	Cenoura. Daucus carota. Cerefólio de raiz
+de nabo. Chaerophyllum bulbosum.
+633.44	Pastinaga. Pastinaca sativa.
+633.49                     Batatas. Batatas-doces. Topinambo,
+girassol batateiro.
+     → 633.68 Plantas amiláceas
+Classificam-se aqui apenas os aspectos relativos ao campo. Os números principais são 635.21/.2 4
+633.491	Batata. Solanum tuberosum.
+633.492	Batata-doce. Ipomoea batatas.
+633.493	Mandioca. Manihot utilissima.
+633.494	Topinambo, girassol batateiro. Helianthus
+tuberosus.
+633.495	Taioba, tarro. Colocasia esculenta.
+633.496	Cará, inhame. Xanthosoma.
+633.498	Coleus rotundifolius.
+633.5	Plantas têxteis e fibrosas.
+633.51	Algodão e fibras similares.
+633.51 dividido como 677.2
+633.511                 Algodão. Gossypiuma.
+633.52	Linho e fibras semelhantes.
+633.52 dividido como 677.1
+633.521	Linho. Linum usitatissimum.
+633.522	Cânhamo. Cannabissativa.
+633.525.1	Rami. Boehmeria nívea.
+633.526.2	Fibras de agave. Inclusive Sisal. Agave sisalana.
+633.528	Fibras de frutos monocotiledôneos.
+Inclusive Fibra de coco. Cocos nucifera. Bucha. Luffa.
+633.529.3	Fibras de plantas aquáticas. Fibras marinhas.
+Inclusive Lã-do-mar. Posidonia australis.
+Grama-do-mar. Zostera marina.
+      → 639.64 Bordo sacarino. Acer sacharum
+633.58	Plantas que produzem fibras para
+fabricação de cestos, peneiras, fiação grosseira.
+633.58 dividido como  677.5 (especialmente 677.54)
+633.584.3	Salgueiros. Vimeiros. Salix.
+633.584.5	Bambu. Bambusa. Junco. Calamus.
+633.6	Plantas sacarinas e amiláceas.
+      → 664.1/.2
+633.61	Cana-de-açúcar. Saccharum officinarum.
+633.63	Beterraba. Beta vulgaris.
+633.64	Bordo sacarino. Acer saccharum.
+633.65	Palmeira sacarina. Arenga saccharífera.
+633.68	Plan tas amiláceas.
+      → 633.49 Batatas. Batatas-doces. Topinambo, girassol batateiro
+      → 664.27 Outros amidos comestíveis
+633.681	Araruta. Maranta arundinacea.
+633.683	Sagüeiro. Metroxilon sagu.
+633.685	Inhame. Dioscorea. Rajania.
+633.686	Bananeirinha, caité.
+633.687	Amorphophallus.
+633.7	Plantas que produzem
+estimulantes. Plantas usadas na fabricação de bebidas.
+      → 663.9 Chocolate. Cacau. Café. Chá. Fumo
+633.71	Tabaco. Nicotiana.
+633.72	Chá.Camellia sinensis.
+633.73	Café. Inclusive Coffea arabica. Outras
+espécies de café.
+633.74	Cacau. Teobroma cacao.
+633.75	Papoula. Papaver somniferum.
+633.76	Cola. Cola acuminata.
+633.77	Mate. Ilex paraguayensis.
+633.78	Chicória. Cichorium intybus,
+633.791	Lúpulo. Humulus lupulus.
+633.792	Areca. Bétele. Piper betel.
+633.8	Plantas aromáticas. Plantas
+condimentícias. Plantas oleaginosas. Plantas corantes. Plantas tanantes. Plantas medicinais.
+633.81	Plantas aromáticas. Plantas que produzem
+essências aromáticas.
+      → 665.52 Óleos essenciais naturais
+633.811	Flores aromáticas. Inclusive Rosas,
+Jasmins. Violetas.
+633.812	Plantas, ervas aromáticas. Inclusive
+Alfazema. Alecrim. Gerânio (pelargônio).
+Vetiver, patchuli.
+633.814	Madeiras aromáticas. Inclusive
+Sândalo. Cedro.
+633.815	Raízes aromáticas. Inclusive Lírio-
+florentino. Vetiver, patchuli.
+633.816	Plantas balsâmicas. Plantas de incenso.
+Inclusive Olíbano. Incenso.
+633.819	Outras plantas aromáticas. Inclusive
+Almíscar. Styrax glabratum. Hibisco. Hibiscus abelmoschus.
+633.82	Ervas aromáticas. Plantas condimentícias.
+→ 635.7 Ervas aromáticas. Plantas condimentícias
+→ 664.5 Especiarias. Condimentos. Temperos
+633.821	Baunilha. Vanilla planifolia.
+633.822	Menta. Hortelã. Mentha.
+633.823	Gaultéria. Gaultheria.
+633.824	Folha de louro. Laurus nobilis.
+633.825	Gengibre. Zinziber officinale.
+633.826	Cúrcuma. Açafrão-da-índia. Curcuma
+longa.
+633.827	Azevinho. llliceum verum.
+633.83	Plantas condimentícias. Especiarias.
+633.831	Pimenta-da-janaica. Pimenta dioica. Cravo. Eugenia aromatica. Caryophyllus.
+633.832	Canela. Cinnamonum zeylanicum.
+633.833	Noz-moscada. Myristica fragrans.
+633.84	Plantas condimentícias picantes.
+633.841                   Pimenta-do-reino. Piper nigrum.
+633.842	Pimentão vermelho. Páprica (tempero em
+pó feito com pimentão vermelho).
+Capsicum annuum.
+      → 635.649 Pimentão-doce. Capsicum annuum
+633.843	Malagueta. Pimenta-malagueta. Capsicum
+frutescens.
+633.844	Mostarda. Brassica.
+633.845	Alcaparra. Capparis spinosa.
+633.846	Raiz-forte. Cochlearia armoracia.
+633.85	Plantas oleaginosas. Plantas
+que produzem óleo.
+633.85 dividido como 653
+633.852.52	Amendoim. Arachis hypogaea (como fonte de óleo).
+633.852.73	Azeitona. Oliva. Olea europaea (como fonte de óleo).
+633.855.34	Palmeiras oleaginosas (diversas espécies de palmáceas). 
+633.86	Plantas corantes. Plantas que produzem
+pigmentos.
+→ 547.7 Pigmentos
+→ 667.272/.276 Pigmentos de origem vegetal. Pigmentos vegetais
+633.861	Plantas que produzem corante amarelo.
+Inclusive Açafrão. Crocus sativus.
+Cúrcuma. Curcuma longa. Sumagre. Rhus.
+Fustete. Chrolophora tinctoria. Giesta.
+Genista tinctoria.
+633.862	Plantas que produzem corante azul.
+Inclusive Pastel-dos-tintureiros. Isatis
+tinctoria. Tornassol. Chrozophora tinctoria.
+índigo.
+anil. Indigofera.
+633.863	Plantas que produzem corante vermelho.
+Inclusive Garança. Rubia tinctorum.
+Açafroa. Carthamus tinctorius. Hena.
+Lawsonia inermis. Pau-brasil. Caesalpinia
+echinata. Urucu
+(Bixa orellana).
+633.864	Plantas que produzem corante verde.
+Inclusive Sanguinheiro. Rhamnus.
+633.865	Plantas que produzem corante castanho.
+633.87	Plantas tanantes. Plantas que
+produzem tanino.
+→ 675.041 Agentes taníferos vegetais naturais
+633.871	Anacardiáceas. Inclusive Sumagre. Rhus
+(como fonte de tanino). Murta-de-curtidor.
+Coriaria murta.
+633.872	Fagáceas. Inclusive Carvalho.
+Castanheiro. Faia.
+633.873	Plantas que produzem glandes, bolotas.
+Inclusive Bolotas do carvalho, bugalhos.
+633.874	Gambir. Uncaria gambier.
+633.875	Leguminosas. Inclusive Espécies de acácia
+(Acássia. Cássia).
+633.876	Mangues. Inclusive Rizoforáceas (mangues
+verdadeiros). Outros mangues.
+633.877	Coníferas. Inclusive Casca de abeto. Casca
+de cicuta. Lariços. Pinhos. Filocládios.
+633.878	Outras cascas tanantes. Inclusive
+Casuarináceas. Miricáceas. Salicáceas.
+Betuláceas. Ulmáceas. Moráceas.
+Proteáceas.
+633.879	Plantas que produzem tanino de outras
+partes exceto a casca.
+633.879.l	Plantas cujas folhas são tanantes.
+633.879.4	Plantas cujos frutos são tanantes.
+633.879.6	Madeiras tanantes. Plantas, que fornecem
+extrato de madeira.
+633.879.9	Plantas cujas raízes são tanantes.
+633.88	Plantas medicinais. Ervas medicinais.
+→ 615.2 Medicamentos segundo sua ação principal
+633.881	Plantas que produzem drogas que afetam
+o coração e a circulação. Inclusive
+Digitalis (dedaleira).
+633.882	Plantas que produzem drogas que afetam o
+sistema respiratório. Inclusive Tussilagem.
+Unha-de-cavalo. Tussilago.
+633.883	Plantas que produzem drogas que afetam o
+sistema digestivo. Inclusive Eméticos, p. ex.,
+ipecacuanha. Purgativos, p. ex., jalapa.
+Tônicos, p. ex., quássia.
+633.884	Plantas que produzem substâncias que
+afetam as glândulas. Inclusive Colagogos.
+Diaforéticos.
+633.885	Plantas que produzem antipiréticos.
+Inclusive Quina, cinchona (como fonte de
+quinino).
+633.886	Plantas que produzem drogas que afetam o
+sistema urogenital.
+633.887	Plantas que produzem substâncias que
+agem sobre a pele. Emolientes,
+adstringentes, etc.
+633.888	Plantas que produzem substâncias que
+afetam o sistema nervoso. Inclusive
+Valeriana. Papoula (Papaver somniferum).
+Maconha, haxixe (Cannabis sativa).
+Beladona (Belladonna). Noz-vómica (Nux
+vomica), como fonte de estricnina.
+633.9	Outras plantas com aplicações
+industriais.
+633.91	Plantas produtoras de látex de borracha.
+                                       → 678.03 Matérias-primas (primárias) e materiais semiprocessados (intermediários) para as indústrias de 
+                                     borracha e plástico.
+633.912	Euforbiáceas.
+633.912.1	Hevea (Euhevea).
+633.912.11	Seringueira. Hevea brasiliensis.
+633.912.7	Maniçoba. Manihot glaziovii.
+633.913.1	Apocináceas que produzem látex de borracha.
+Trepadeiras que produzem látex de borracha.
+633.913.2	Moráceas que produzem látex de borracha.
+Inclusive Espécies de Ficus (figueira, etc.).
+Espécies de Castilloa, Morus.
+633.913.3	Compostas que produzem látex de borracha.
+Inclusive Guaiúle. Guayule.
+633.913.4	Asclepiadáceas que produzem 
+látex de borracha.
+633.93	Plantas produtoras de gomas e resinas.
+633.931	Goma-arábica. Goma-de-acácia. Seivas
+ricas em arabina. Acacia arabica. Acácia
+senegal.
+633.932	Seivas ricas em cerasina. Goma da cereja.
+Espécies de Prunus.
+633.933	Seivas ricas em bassorina. Tragacanto.
+Astragalus gummifer.
+633.934	Seivas ricas em cerasina e bassorina.
+633.936	Gomas de abetos e abetos-vermelhos.
+Espécies Abies e Picea.
+633.937	Balata. Mimusops balata.
+633.938	Guta-percha. Palaquium gutta.
+633.94	Plantas que produzem terebintina e
+colofônio. Inclusive Resinas de coníferas.
+Arvore da terebintina. Pistacia
+terebinthus. Pinheiros, lariços e abetos.
+Espécies de Pinus, Larix, Abies.
+      633.94 dividido como 665.94
+633.944.6	Plantas que produzem copal Espécies de
+Agathis e Copaifera, etc.
+633.94
+633.95	Outras plantas produtoras de seiva.
+633.954	Plantas produtoras de catechu. Inclusive
+Acacia catechu.
+633.956	Canforeira. Cinnamonum camphora.
+
+634  Horticultura em geral
+
+Os auxiliares especiais .0 relacionados em 634.8.0... e 635.0... são também aplicáveis em 634
+      → 635 Plantas de jardim. Jardinagem e horticultura
+Subdivisões auxiliares especiais
+634-1/-2	Equipamento, operações,  etc. de
+horticultura. Danos e doenças de plantas.
+                                        Os auxiliares 62-1... e 62-2... não são aplicáveis em 634 e suas subdivisões 
+                                       634-1/-2 dividido como 631/632 
+Divisões principais
+634.1	Cultivo de frutos em geral.
+Para plantas de jardim e horticultura em geral, ver 635
+Exemplo(s) de combinação(ões): 
+634.1.047 Pomares: localização, disposição, etc.
+634.l.054 Arbustos frutíferos 
+634.l.055 Árvores frutíferas 
+634.l.076 Frutos (produção)
+634.10	Frutos de pomos em geral.
+634.11	Maçãs cultivadas. Malus sylvestris,
+subespécie mitis.
+634.12	Maçãs silvestres. Inclusive Crab apple.
+Paradise apple.
+634.13	Peras. Pyrus communis.
+634.14	Marmelo. Cydonia oblongata. Marmelo-
+japonês. Chaenomeles.
+634.15	Nêspera. Mespilus germanica.
+634.16	Nêspera japonesa. Eriobotryajaponica.
+634.17	Pilriteiro. Crataegus.
+634.18	Sorveira. Sorbus domestica.
+634.19	Outros frutos de pomo.
+634.2	Frutos de caroço. Drupas em geral.
+634.21	Damascos. Prunus armeniaca.
+634.22	Ameixas. Inclusive Prunus domestica
+e outras variedades. Ameixa-rainha-
+cláudia. Abrunho.
+634.23	Cerejas.
+634.232	Cereja comum. Prunus avium (Cerasus
+avium).
+634.233	Ginja. Prunus cerasus (Cerasus vulgaris).
+634.25	Pêssegos. Prunus persica.
+634.26	Nectarina. Prunus persica nectarina.
+634.3	Frutas rutáceas e moráceas. Frutas
+cítricas em geral.
+634.31	Laranjas. Inclusive Citrus aurantium.
+Laranja-da-terra. Lima-da-pérsia.
+Tangerina. Laranja-da-baía
+(Citrus sinensis).
+634.32	Frutas cítricas diversas.
+634.322	Tangerinas. Citrus reticulata. Mandarinas.
+Mexericas. Bergamotas, etc. Variedades
+diversas de tangerina.
+634.323	Toranja. Citrus grandis ou maxima.
+634.323.5	Grapefruit. Citrus paradisi.
+634.324	Kumquat. Fortunella.
+634.33	Limão. Cidra. Lima-da-pérsia.
+634.331	Cidra. Citrus medica.
+634.334	Limão. Citrus limonum.
+634.337	Lima. Citrus aurantifolia.
+634.36	Moráceas.
+634.37	Figo. Ficus carica.
+634.38	Amoras. Espécies de Morus.
+634.39	Artocarpus.
+634.392	Fruta-pão. A rtocarpu s communis.
+634.393	Jaca. Artocarpus heterophylla.
+634.4	Outras frutas de polpa.
+634.41	Anonáceas. Inclusive Espécies de Anona.
+Araticum. Fruta-de-conde. Condessa.
+Graviola. Anona, etc. Asimina triloba.
+634.42	Mirtáceas. Inclusive Goiaba. Espécies de
+Psidium. Jambo-rosa, etc. Espécies de
+Syzygium ou Eugenia.
+634.43	Frutas sapotáceas. Inclusive Sapoti.,Sapota.
+634.44	Frutas anacardiáceas.
+634.441	Manga, etc. Mangifera.
+634.442	Cajá. Taperebá. Cajá-manga. Umbu.
+Spondias.
+634.45	Ebenáceas. Inclusive Caqui. Diaspyros.
+634.46	Frutas leguminosas. Inclusive Tamarindo.
+Alfarroba. Cássia.
+634.47	Gutíferas.
+634.471	Mangostão, etc. Garcinia. Bacuri.
+634.472	Mammea americana.
+634.48	Rubiáceas. Vanguaria madagascariensis.
+634.5	Juglandáceas.
+634.51	Nozes.
+634.52	Hicória. Carya. Inclusive Noz-pecã.
+634.53	Castanhas. Castanea.
+634.54	Avelã. Corylus avellana.
+634.55	Amêndoas. Inclusive Amêndoa verdadeira.
+Prunus amygdalus. Mirobálano.
+Terminalia catappa.
+634.57	Outras frutas tipo nozes.
+634.572	Ginkgo biloba.
+634.573	Castanha de caju. Anacardium occidentale.
+634.574	Pistácia. Pistacia vera.
+634.575	Castanha-do-pará. Bertholletia excelsa.
+634.58	Amendoim. Arachis hypoagaea
+(como fruto).
+634.6	Frutas tropicais e subtropicais
+diversas.
+634.61	Palmáceas. Frutos de palmeiras.
+634.613	Frutos de palmeiras em geral. Inclusive
+Tâmara. Nipa. Nozes de bétele. Nozes de
+areca. Rotim. Palmira.
+634.614	Palmeira oleaginosa. Dendezeiro.
+Elaesis guineensis.
+634.616	Coco. Cocos nucifera.
+634.63	Azeitona. Oliva. Olea eu ropaea.
+634.64	Rom ã. Punica granatum.
+634.65/.66	Frutos das Caricáceas, Baseláceas, Lauráceas,
+Ramnáceas, Iricáceas, Poligonáceas, Euforbiáceas e Ericáceas.
+634.651	Mamão. Papaia. Carica papaya.
+634.652	Sapindáceas.
+634.652.2	Lichia. Litchi sinensis.
+634.652.3	Rambotã. Nephelium lappaceum.
+634.653	Abacate. Persea americana.
+634.662	Jujuba. Ziziphus jujuba. Juazeiro.
+634.663	Mu rta d o pântano. Myrica galê.
+634.67	Frutos das Bombacáceas, Meliáceas, Geraniáceas, Solanáceas.
+634.672	Durião. Durio zibethinus.
+634.673	Frutas meliáceas. Inclusive Lansium
+domesticum.
+634.674	Frutos das Geraniáceas, Oxalidáceas e
+Malpiguiáceas. Inclusive Carambola.
+634.675	Frutos das Solanáceas. Inclusive Tomate-
+francês. Cyphomandra betacea. Physalis.
+Solanum.
+      → 633.491 Batata. Solanum tuberosum
+      → 635.21 Batata. Solanum tuberosum
+634.7	Frutos pequenos de arbustos e
+plantas herbáceas. Bagas.
+634.71	Amoras. Rubus.
+634.711	Framboesa. Rubus idaeus.
+634.712	Framboesa-oriental. Rubus phoenicolasius.
+634.713	Amora-preta. Rubus fruticosus ou Rubus
+nigrobaccus.
+634.714	Rubus loganobaccus.
+634.715	Amora-preta-inglesa.
+634.717	Rubus caesius.
+634.718	Espécies de Rubus da Ásia oriental.
+634.72	Groselhas.
+→ 634.8.078 Uvas secas
+634.721	Groselhas em geral.
+634.722	Groselha-vermelha. Ribes rubrum.
+634.723	Groselha-preta. Ribes nigrum. Outras
+groselhas-pretas.
+634.724	Ribes aureum.
+634.726	Groselha-espinhosa. Ribes grossularia.
+634.727	Ribes oxyacanthoides.
+634.73	Frutas da família das urzes. Vacináceas.
+Inclusive Uva-do-monte. Vacínios.
+634.735	Aciano-do-canadá. Vaccinium canadense.
+634.738	Arando-vermelho.Arando-pontilhado.
+Vaccinium vitis-idaea.
+634.74	Outros arbustos que produzem bagas.
+634.741	Amelanchier.
+634.742	Elaeaganus argentea.
+634.743	Elaeagnus multiflora..
+634.744	Carissa carandas.  
+634.745	Viburnum opulus.
+634.746	Berberis vulgaris 
+634.747	Sabugueiro. Sambucus nigra.
+634.75	Morangos. Fragaria.
+634.753	Morangos silvestres. Fragaria ve&ca.
+634.77	Frutos de espécies herbáceas.
+634.771	Espécie Musa em geral.
+634.772	Bananas de cozinhar. Banana-da-terra.
+Banana-comprida. Banana-figo.
+634.773	Banana comum. Musa paradisiaca.
+634.774	Abacaxi. Ananas comosus. Ananas sativa.
+634.775	Frutos de Cactáceas. Frutos de cactos.
+634.776	Outros frutos de espécies herbáceas.
+634.776.1	Cyphomandra betacea.
+634.776.3	Maracujá. Passiflora edulis.
+634.776.4	Castanha-d'água. Trapa.
+634.776.5	Frutos das Zingiberáceas.
+634.8	Viticultura. Videiras. Vinhedos.
+Exemplo(s) de combinação(ões):
+      634.8-051 Viticultores. Vinhateiros. Cultivadores de videiras. Plantadores de uvas 
+Subdivisões auxiliares especiais
+                               → 663.2 Vinhos. Vinicultura. Enologia
+634.8.03	Videiras jovens (cultivo e propagação).
+634.8.032	Cultivo de videiras a céu aberto.
+634.8.034                 Cultivo de videiras em estufas.
+634.8.037                  Viveiros de videiras e sua administração.
+634.8.04	Videiras maduras (plantação, etc.).
+634.8.042	 Cultivo a céu aberto.
+634.8.044	 Cultivo em estufa.
+634.8.047	 Vinhedos (local, disposição, esquema, etc.).
+634.8.05	 Videiras segundo as características ecológicas.
+Robustez, resistência etc. das videiras.
+634.8.07	Produção das videiras. Colheita de uvas.
+634.8.076	Uvas: aparência, tamanho dos cachos, etc.
+634.8.077	Suco da uva. Produção do suco.
+634.8.078	Uvas secas. Inclusive Passas.
+      → 634.72 Groselhas
+      → 634.864 Videiras que produzem uvas para serem consumidas secas. Uvas sem semente (para passas)
+634.8.09	Cruzamentos, hibridização das videiras.
+Formas abastardadas de videira.
+634.8.092	Híbridos naturais. Híbridos espontâneos.
+634.8.093	Híbridos artificiais.
+634.8.094	Produtores diretos.
+Divisões principais
+634.84	Espécie de videira para viticultura
+Vitis vinifera e outras. Classificação botânica das videiras. Ampelografía. Regiões de vinho e uvas.
+634.841	Muscadinia.
+634.842	Euvites.
+634.842.l	Labruscae.
+634.842.2	Ripariae.
+634.842.3	Rupestrae.
+634.842.4	Cinerascentae.
+634.842.5	Aestivalae.
+634.842.6	Labruscoideae.
+634.842.7	Viniferae.
+634.842.8	Labruscoideae asiaticae.
+634.85	Videiras de vindima ou de prensa de lagar.
+Uvas viníferas.
+634.852	Videiras que produzem uvas claras. Uvas
+viníferas brancas ou verdes.
+634.853	Videiras que produzem uvas escuras. Uvas
+viníferas vermelhas, roxas ou pretas.
+634.86	Videiras que produzem uvas de mesa (para
+serem comidas frescas, preparadas ou em
+conserva) e para refrescos.
+634.862	Videiras que produzem uvas claras. Uvas de
+mesa verdes ou brancas.
+634.863	Videiras que produzem uvas escuras. Uvas
+de mesa vermelhas, roxas ou pretas.
+634.864	Videiras que produzem uvas para serem
+consumidas secas. Uvas sem semente (para
+passas).
+→ 634..8.078 Uvas secas
+634.865	Videiras que produzem uvas para extração de suco (para refrescos, suco de uva).
+
+635 Plantas de jardim. Jardinagem e horticultura
+
+      → 630*27 Arboricultura ornamental. Parques, arboretos. Sebes e plantas para sebes. Cercas vivas
+      → 634 Horticultura em geral
+      → 712 Planejamento da paisagem (natural e projetada). Parques. Jardins
+Subdivisões auxiliares especiais
+635-1/-2	Equipamento, trabalhos, etc. de Jardinagem e horticultura. Danos e doenças das plantas.
+                                         Os auxiliares de 62-1... e 62-2... não são aplicáveis em 635 e suas subdivisões
+                                        635-1/-2 dividido como 631/632
+635-167	Irrigação, rega de hortas e jardins.
+635-1/-2
+635.01	Princípios gerais e prática da
+horticultura.
+→ 631.1  Administração e organização de fazendas
+635.012	Horticultura experimental e de pesquisa.
+635.015	Jardinagem, horticultura prática (em
+geral). Inclusive Técnica. Equipamento. Ferramentas.
+635.017	Administração profissional e comercial de
+hortas e jardins. Jardinagem de parques, de
+grandes propriedades, horticultura
+comercial.
+635.017.1/.3 dividido como  65.017.1/3 para indicar a escala ou alcance
+635.018	Jardinagem, horticultura amadorística, de
+passatempo, de hobby, caseira, jardins e
+hortas comunitárias.
+→ 712.28 Propriedades pequenas. Lotes (jardins, hortas de lazer)
+635.03	Plantas jovens (mudas, plântulas) e seus
+cuidados. Viveiros.
+→ 630*232 Regeneração artificial
+→ 631.23 Estruturas para cultivo e desenvolvimento de plantas
+→  631.53.03 Cultivo de plantas novas, mudas
+635.037	Viveiros.
+635.04	Plantas adultas e seus cuidados. Jardins e
+hortas: localização, traçado etc.
+      → 631.54 Cuidados com as plantas
+      → 631.96 Tipos de plantação. Avaliação do local
+635.042	Plantas que crescem a céu aberto, em canteiros etc.
+635.043	Plantas que crescem em vasos, caixas,
+baldes e outros vasilhames.
+635.044	Plantas que crescem sob vidros ou outras
+coberturas (plantas protegidas ou de
+crescimento forçado).
+635.047	Hortas e jardins: local, arranjo,etc.
+→ 712.27 Jardins e hortas para produção comercial. Viveiros de plantas. Pomares. Hortas
+635.05	Tipos e formas de plantas de jardim.
+635.051	Plantas florescentes (fanerógamas)
+em geral.
+635.051.2	Plantas tenras.
+635.051.3	Plantas semiduras.
+635.051.4	Plantas duras.
+635.051.7	Plantas decíduas.
+635.051.8	PI antas perenes.
+635.052	Plantas herbáceas (não-lenhosas) em geral.
+      635-052 dividido como 635.051
+635.053	Plantas trepadeiras e rasteiras.
+635.053 dividido como 635.051
+635.054	Plantas lenhosas (arbustos e árvores)
+em geral.
+635.054 dividido como 635.051
+635.055	Árvores (plantas lenhosas com tronco).
+635.055 dividido como 635.051
+635.058	Plantas não-florescentes (criptógamas ).
+Musgos, samambaias, etc.
+635.07		Produtos das plantas (plantas inteiras,
+partes, etc.).
+→ 631.57 Produtos, subprodutos e produtos semiacabados da agricultura
+635.071	Plantas inteiras. Produtos de plantas inteiras.
+635.072	Caules. Ramos. Galhos. Casca, etc.
+635.073	Raízes. Tubérculos. Bulbos. 
+635.074	Folhas. Folhagem.
+635.075	Flores. Botões.
+635.076	Frutos. Produção de frutos.
+635.077	Seivas. Sucos. Outros produtos em estado natural.
+635.078	Produtos desidratados, secos.
+Divisões principais
+635.1/.8	Verduras. Hortaliças. Horticultura. Hortas.
+      → 712.27 Jardins e hortas para produção comercial. Viveiros de plantas. Pomares. Hortas
+635.1	Raízes comestíveis.
+→ 633.41/.44 Beterrabas. Cenouras. Nabos
+635.11	Beterraba. Beterraba vermelha e amarela.
+Beta vulgaris.
+635.112	Beterraba comum. Beta vulgaris rubra.
+635.115	Beterraba amarela de salada. Beta vulgaris
+alba.
+635.116	Beterraba forrageira. Beterraba sacarina
+como forragem.
+635.12	Raízes de brássicas e aipo.
+635.125	Raiz de couve-rábano. Brassica oleracea.
+→ 635.348 Couve-rábano (partes aéreas). Brassica oleracea canlo-rapa
+635.126	Nabo. Apium graveolens dulce. Nabo-sueco.
+Rutabaga. Brassica campestris
+napobrassica.
+635.127	Apium graveolens secalinum (nabo).
+Brassica campestris esculenta.
+635.128	Aipo. Apium graveolens rapaceum.
+635.13	Cenoura. Daucus carota. Cerefólio.
+Chaerophylluin bulbosum.
+635.14	Pastinaga. Pastinaca sativa. Salsa crespa. Petroselinum crispum.
+                            635.15	Rabanete. Raphanus sativus. 
+                            635.16	Raízes diversas.
+                                   635.162	Raiz-forte. Cochlearia hispanica.
+                                    635.163	Rapúncio. Campanula rapunculus.
+                            635.164	Sium sisarum.
+                            635.165	Pachyrrhizus erosus.
+635.166	Cercefi. Scorzonera hispânica.
+                            635.167	Cardo-dourado. Scolymus hispanicus.
+635.168	Cercefi, barbas-de-bode. Tragopogon porrifolius.
+                             635.17	Rabanete-chinês. Raphanus caudatus.
+635.18                  635.18	Alcachofra-chinesa. Stachys sieboldii.
+635.2	Tubérculos e bulbos comestíveis.
+635.21/.24	Batatas. Batatas-doces. Topinambo, girassol batateiro.
+      → 633.49 Batatas. Batatas-doces. Topinambo. Girassol batateiro
+635.21	Batata. Solanum tuberosum.
+635.22	Batata-doce. Ipomoeas batata. 
+635.23	Mandioca. Manihot utilissima.
+635.24	Topinambo. Girassol-batateiro. Helianthus tuberosus.
+635.25/.26	Culturas de bulbos.
+635.25	Cebola. Alliurm cepa.
+635.26	Outros bulbos e tubérculos.
+635.261	Alho-porró. Allium ampeloprasum porrum.
+635.262	Alho. Allium sativum.
+635.263	Chalota, chalotinha. Allium ascalonicum.
+635.264	Cebolinha. Allium fístulosum.
+635.265	Cebolinho. Allium schoenoprasum.
+635.3	Plantas com talo, folhas ou flores comestíveis.
+→ 635.48 Ruibarbo. Rheum
+           635.31	Aspargo. Asparagus officinalis.
+635.32                  Flores e botões como hortaliças. Inclusive Alcachofra. Cynara scolymus.
+           635.33	Brássicas em geral.
+            635.34	Repolho e plantas afins.
+635.341	Repolho-roxo. Brassica capitata rubra.
+635.342	Repolho-branco. Brassica capitata alba.
+                             635.343	Couve-lombarda. Brassica bullata.
+                            635.344	Couve-marinha. Crambe marítima.
+                               635.347	Outras couves,
+635.348	Couve-rábano (partes aéreas) Brassica oleracea canlo-rapa.
+→ 635.125 Raiz de couve-rábano. Brassica eleracea
+635.35	Couve-flor. Brassica oleracea botrytis.
+635.356	Brócolis. Brassica botrytis.
+635.36	Couve-de-bruxelas. Brassica oleracea
+gemmifera
+635.4	Outras hortaliças verdes. Folhagens comestíveis.
+635.41	Espinafre. Spinacia oleracea.
+635.42	Acelga. Beta vulgaris cicla.
+635.43	Armolão. Atriplex hortensis.
+635.44	Mostarda-chinesa. Brassica rugosa.
+635.45	Azeda-miúda. Rumex.
+635.46	Beldroega. Portulaca oleracea.
+635.47	Talinum.
+635.48	Ruibarbo. Rheum.
+635.49	Outras folhas comestíveis. Inclusive
+Dente-de-leão. Taraxacum offícinale.
+Funcho, erva-doce. Foeniculum vulgare.
+Borragem. Borago officinalis.
+635.5	Hortaliças usadas em saladas.
+635.52	Alface. Lactuca sativa. Inclusive Alface-
+manteiga, alface-crespa.
+635.53	Aipo. Apium graveolens dulce e
+secalinum.
+635.54	Chicória. Chichorium intybus.
+635.55	Endívia. Chichorium endiva.
+635.56	Saladas picantes. Agrião. Inclusive
+Gêneros Nasturtium. Cardamine.
+Tropaeolum.
+635.57	Valerianella olitoria.
+635.6	Frutos e sementes comestíveis.Vagens.
+Para cucurbitáceas, especialmente,  ver 635.61/.63
+Para a maioria dos frutos,  ver 634
+635.61	Melões e frutos análogos.
+655.611	Melão. Cantalupo. Cucumis melo.
+635.615	Melancia. Citrullus vulgaris.
+635.62	Cucurbitáceas e plantas similares.
+635.621	Cucurbita pepo. Inclusive Abóbora.
+Jerimum. Moranga.
+635.622	Abóbora-de-inverno.
+635.623	Abobrinha.
+635.624	Cucurbita maxima.
+635.626	Cucurbita ficifotia.
+635.627	Abóbora-moranga, porongo. Lagenaria.
+635.628	Bucha. Luffa.
+635.63	Pepino. Cucumis sativus. Maxixe.
+635.64	Tomates e plantas similares. Inclusive
+Tomate. Lycopersicum esculentum.
+→ 633.842 Pimentão-vermelho. Páprica (tempero em pó feito com pimentão vermelho). Capsicum 
+comum.
+635.646	Berinjela. Solanu melongena.
+635.648	Quiabo. Hibiscus esculentus.
+635.649	Pimentão-doce. Capsicum annuum.
+      → 633.842 Pimentão-vermelho. Páprica (tempero em pó feito com pimentão vermelho). Capsicum comum.
+635.65	Vagens. Fava (Vicia) e outras.
+      → 633.842 Pimentão-vermelho. Páprica (tempero em pó feito com pimentão vermelho). Capsicum comum.
+      → 633.33/.35
+635.651	Fava comum. Vicia faba.
+635.652	Feijão comum. Phaseolus vulgaris.
+635.653	Feijão-de-lima. Phaseolus lunatus.
+635.654	Diversas espécies de vagens. Inclusive
+Outras espécies de Phaseolus. Feijão-da-
+espanha. Ervilhaca. Vigna. Ervilha-de-
+pombo.
+635.655	Soja. Glycine.
+635.656	Ervilhas em geral. Pisum sativum.
+635.657	Grão-de-bico. Cicer arietinum.
+635.658	Lentilha. Lens esculenta.
+635.67	Milho comum. Zea mays (especialmente
+Zea mays saccharata). Milho de pipoca. 
+→ 633.15 Milho. Milho doce. Zea mays
+635.7	Ervas aromáticas. Plantas condimentícias.
+                                    → 633.82 Ervas aromáticas. Plantas condimentícias 
+                                         →  664.5 Especiarias. Condimentos. Temperos
+635.71	Flores e folhas aromáticas. Inclusive
+Tomilho.Thymus vulgaris. Alecrim.
+Rosmarinus ofiicinalis. Manjericão.
+Ocimum basilicum. Orégano. Origanum
+vulgare. Manjerona. Origanum majorana.
+Açafrão. Crocus sativus. Artemísias.
+Absinto. Artemisia absinthium. Abrótano.
+Artemisia abrotanum.
+→ 635.74 Outras plantas condimentícias
+635.72	Mentas. Hortelã. Mentha.
+635.74	Outras plantas condimentícias. Inclusive
+Estragão. Artemisia dracunculus. Sálvia.
+Sálvia officinalis. Segurelha.
+635.75	Sementes aromáticas. Inclusive Coentro.
+Coriandrum sativum. Cominho. Cuminum
+cyminum. Alcaravia. Carum carvi. Anis.
+Pimpinella anisum. Funcho. Erva-doce.
+Foeniculum vulgare. Aneto. Anethum
+graveolens.
+635.78	Ervas de guarnição.
+635.781	Salsa. Petroselinum crispum.
+635.782	Cerefólio. Anthriscus cerefolium.
+635.8	Fungos, cogumelos comestíveis.
+635.82	Cogumelos. Agaricus campestris. Fungos
+de lamelas em geral.
+635.83	Fungos de poros em geral. Boletus edulis
+e espécies semelhantes.
+635.84	Erva-moura. Morchella.
+635.85	Trufas. Tuber.
+635.89	Outros fungos, cogumelos.
+635.898	Cogumelos venenosos.
+635.9	Plantas ornamentais. Plantas
+decorativas. Jardinagem
+ornamental.
+635.91	Plantas ornamentais para uso interno.
+→ 745.9 Artes florais. Arranjos e composições florais
+635.912	Flores, caules, , etc. cortadas ou apanhadas.
+635.913	Plantas ornamentais tratadas ou desidratadas. Sempre-vivas.
+635.914	Plantas de vaso. Plantas de caixa. Plantas de recipientes maiores. Outras plantas de
+interior.
+635.915	Jardineiras de janela. Jardineiras de
+interior, etc.
+635.917	Plantas inferiores. Musgos. Samambaias.
+635.918	Plantas de estufa.
+635.92	Plantas ornamentais cultivadas e
+utilizadas.
+635.921	Plantas de vasos, caixas, jardineiras
+cultivadas ao ar livre.
+635.922	Arranjos ornamentais de jardins
+(canteiro e bordas).
+635.923	Jardins de pedras com plantas ornamentais.
+Exemplo(s) de combinação(ões):
+635.923(23) Flores alpestres
+635.924	Plantas ornamentais silvestres.
+635.925	Plantas ornamentais de parques e jardins
+públicos.
+635.926	Plantas de lagos e lagoas. Plantas
+aquáticas.
+635.927	Plantas para formar e delimitar ambientes.
+Sebes. Plantas de cobertura. Arbustos.
+635.928	Características de gramados. Inclusive
+Caminhos, áreas gramadas.
+
+636  Zootecnia. Pecuária. Criação de gado. Criação de animais domésticos
+
+Subdivisões auxiliares especiais
+636.01		Origem, evolução e domesticação de animais criados pelo homem. Domesticação de animais. Fundamentos
+biológicos da criação e domesticação de
+animais.
+636.02	Animais criados para reprodução, exposição e pesquisa científica.
+636.022	Criação de animais de raça. Animais para exposição. Avaliação, julgamento de animais puro-sangue.
+636.025	Animais criados ou mantidos para exibição
+permanente (p. ex., em zoológicos,
+aquários, terrários).
+791.82 Circos de animais
+636.028	Animais criados ou mantidos para uso em
+pesquisa, observação, experiências
+científicas
+→ 57.082 Técnicas e equipamento de laboratórios e museus para espécimes e coleções de vegetais e animais
+636.03	Animais criados ou mantidos para
+produção de alimento ou outros fins (para
+produtividade, rendimento). Animais de
+criação em geral.
+636.033	Animais criados para abate, para produção
+de carne ou gordura. Animais de corte.
+Animais de banha. Produção de carne e
+gordura.
+636.034	Animais criados para produção de laticínios
+e ovos. Produção de leite e ovos.
+636.035	Animais criados para produção de lã ou
+outros fios têxteis. Produção de lã e outros
+fios têxteis: composição e qualidade.
+636.036	Animais criados para fornecimento de
+outros produtos (p. ex., matérias-primas
+industriais).
+636.04	Animais criados ou mantidos para
+trabalho ou recreação humana.
+636.042	Animais de trabalho em geral.
+	      → 636.13/.15
+636.042.2	Animais de tração e tiro.
+636.042.4	Animais de carga.
+636.042.6	Animais para transporte de passageiros.
+636.043	Animais para serviços de patrulhamento,
+ligação e controle.
+636.043.2	Animais para patrulhamento e reconhecimento.
+636.043.3	Animais de pista.
+636.043.5	Animais para comunicação e transporte de
+mensagens.
+636.043.7	Animais de pastoreio e controle de rebanhos.
+636.044	Animais de salvamento, guia e guarda, para
+proteção de pessoas e propriedades
+(p. ex., cães-guia; cães de guarda).
+636.045	Animais de estimação em geral. Animais
+mantidos para fazer companhia ou
+decoração. Animais domésticos, mascotes,
+etc. (p. ex., pombos; cães de companhia, de
+estimação; gatos de estimação).
+636.046	Animais de caça e outros esportes.
+Para animais de transporte,  ver  636.042
+                                          → 798 Equitação. Hipismo Esportes com cavalos e outros animais
+636.046.2	Animais de montaria.
+636.046.3	Animais para caça.
+636.046.5	Animais de corrida.
+636.046.8	Animais de briga.
+636.047	Animais para espetáculos. Animais de
+circos e palcos.
+636.049	Animais criados e mantidos para usos
+cerimoniais e outros fins (p. ex., animais
+rituais, sagrados).
+636.05	Animais segundo sua reprodução.
+636.051	Animais puro-sangue. Puro-sangue
+em geral.
+      → 636.082.25 Técnicas e equipamento de laboratórios e museus
+636.052	Animais mestiços. Mestiços.
+Vira-latas. Híbridos.
+      → 636.082.26 Cruzamento de raças. Exogamia. Hibridação
+636.06	Características, constituição e aspectos
+biológicos especiais de animais
+domésticos.
+636.061	Características e traços externos.
+636.061 dividido como 57.018
+636.064	Propriedades, características biológicas.
+      636.064 dividido como  57.017
+636.066	Temperamento dos animais.
+636.068	Características internas (orgânicas),
+Modificações, etc.
+      635.068 dividido como  591.4.068
+636.08	Questões gerais sobre reprodução e
+criação.
+636.081	Procedimentos diversos. Aquisição e
+marcação de animais.
+636.081.1	Aquisição de animais. Inclusive Seleção. Compra. Captura.
+→ 639.1.081 Métodos e procedimentos de caça. Captura e destruição de animais
+636.081.2	Marcação de animais. Inclusive Marcas de
+propriedade. Rotulagem. Marcação com
+ferro em brasa.
+636.082	Reprodução de animais. Criação prática.
+Aspectos genéticos.
+      → 575 Genética geral. Citogenética geral
+      →591.15 Variação. Hereditariedade
+      → 591.16 Geração. Procriação. Reprodução. Biogênese
+636.082.l	Questões gerais. Papel das condições externas,
+ambientais, no desenvolvimento da criação.
+636.082.2	Escolha da raça para reprodução seletiva.
+→ 575.827 Seleção
+636.082.21	Registros genealógicos, livros de haras, etc.
+Registros de linhagem. Pedigrees.
+636.082.22	Melhoramento da qualidade do rebanho.
+636.082.23	Seleção: em massa, individual, de linhagem.
+636.082.24	Escolha dos pares para acasalamento.
+636.082.25	Criação de puro-sangue. Inclusive Criação de
+linhagem. Cruzamento endogâmico.
+→ 591.38 Cruzamentos endogâmicos. Cruzamento entre consangüíneos. Cruzamentos endogâmicos
+repetidos
+      → 636.051 Animais puro-sangue. Puro-sangue em geral
+636.082.26	Cruzamento de raças. Exogamia. Hibridização.
+      → 591.37 Hibridização. Cruzamento, cruzamento entre espécies diferentes
+      → 636.052 Animais mestiços. Mestiços. Vira-latas. Híbridos
+636.082.3	Estrutura das manadas e rebanhos. Padrão de
+rotação, de substituição.
+      → 591.55 Sociedades animais. Sociologia animal. Vida em grupo
+      → 636.05 Animais segundo sua reprodução
+636.082.31	Compostos exclusivamente de machos.
+636.082.32	Compostos exclusivamente de fêmeas.
+636.082.34	Compostos exclusivamente de animais
+castrados.
+636.082.35	Compostos exclusivamente de animais jovens.
+636.082.4	Métodos e técnicas de reprodução.
+636.082.41	Reprodução consangüinea. Reprodução de consangüíneos.
+636.082.45	Estro. Cio.
+→ 591.541 As estações e a reprodução
+636.082.453	Acasalamento.
+636.082.453.5        Inseminação artificial. Inclusive Instrumentos. Aparelhos.
+636.082.454	Fertilização. Fecundação. Fertilidade.
+Esterilidade.
+636.082.455	Gestação.
+→ 591.366 Duração do intervalo entre as estações de cruzamento (estros, cios, etc.). Período de gestação. Período de amamentação
+636.082.456	Nascimento.
+636.082.46	Postura de ovos. Período de postura.
+636.082.47	Incubação, choco. Eclosão dos pintos.
+636.082.471	Incubação natural. Aves de choco.
+636.082.474	Incubação artificial. Incubadeiras.
+Chocadeiras artificiais.
+636.083	Cuidado com os animais em geral.
+636.083.l	Administração e manutenção de instalações
+para criação de animais.
+→ 631.22 Edificações e estruturas ara animais. Estábulos e congêneres
+636.083.14	Ninhada, crias.
+636.083.18	Conforto e liberdade de movimento de
+animais em cativeiro.
+636.083.3	Métodos e equipamentos para cuidado
+de animais.
+636.083.31	Cuidados e métodos de criação em geral.
+636.083.312	Criação em construções permanentes. Inclusive
+em cavalariças, estábulos, currais.
+636.083.312.5       Criação em gaiolas.
+636.083.313	Criação em estruturas, cercados temporários.
+Inclusive em cercados, redis, cobertas.
+636.083.314	Criação ao ar livre. Pastoreio. Criação
+extensiva.
+→ 636.084.22 Alimentação no pasto. Pastagem
+636.083.32	Dispositivos para prender animais. Inclusive
+Coleiras. Cabrestos. Freios. Correntes.
+636.083.35	Cuidados externos com o corpo. Inclusive
+Pentes de pelo. Escovas. Secadores.
+Fitas de cauda.
+636.083.36	Lavagem de animais.
+636.083.38            Exercitação de animais.
+636.083.4	Cuidados cornos cascos, chifres, pelagens.
+636.083.42	Cuidados com os cascos. Ferração.
+→ 682.1 Trabalho de ferrador. Ferraria de ferraduras
+636.083.43	Cuidado com os chifres. Mochadura.
+636.083.45	Cuidado com a pelagem. Inclusive
+Corte. Tosa.
+636.083.5	Guarda e supervisão dos animais nos pastos.
+Pastoreio, etc.
+636.083.6	Proteção dos animais contra as intempéries
+(calor, frio, vento, chuva, etc.) e as condições
+do solo.
+636.083.7	Arnês, arreios.
+→ 685.1 Selaria. Calçados. Luvas. Equipamento para viagens, esportes, jogos e outros
+636.083.8	Mordaças. Coleiras. Rédeas. Trelas.
+636.084	Alimentação de animais.
+636.084.l	Alimentação de filhotes. Inclusive
+Amamentação. Desmame.
+636.084.13	Amamentação artificial (amamentação com
+Mamadeira, etc.).
+636.084.2	Alimentação segundo a localidade.
+636.084.21	Alimentação nos estábulos, cocheiras, etc.
+636.084.22	Alimentação no pasto. Pastagem.
+→ 636.083.314 Criação ao ar livre. Pastoreio. Criação extensiva
+636.084.3	Provisão de água. Dar de beber aos animais.
+→ 626.81 Fontes de água para irrigação
+636.084.4	Questões diversas sobre alimentação e
+nutrição em geral.
+636.084.41	Quantidade de alimento. Rações.
+636.084.42	Métodos de alimentação.
+Escolha dos alimentos.
+636.084.421	Alimentação com alimentos secos.
+636.084.422	Alimentação com alimentos úmidos.
+636.084.423	Alimentação racionada. Alimentação na mão.
+636.084.424	Alimentação à vontade. Alimentação
+por conta própria.
+636.084.429	Horários de alimentação. Freqüência da
+alimentação.
+Especificar os períodos ou momentos por meio de "3... " e "5..." (Tabela 1g)
+636.084.5	Alimentação especial.
+636.084.51	Alimentação na época do acasalamento, da
+gestação, da lactação, da postura de ovos.
+636.084.52	Alimentação para produção. Engorda.
+Alimentação para produção de leite,
+ovos, lã, etc.
+636.084.55	Alimentação para manutenção.
+636.084.7	Alimentação e dispositivos de dar de beber.
+636.084.74	Dispositivos para distribuição de alimento.
+Inclusive Manjedouras. Cochos.
+cestas de alimentação.
+636.084.741	Cochos.
+636.084.742	Grades de manjedouras.
+636.084.743	Tremonhas,etc. para fornecer quantidades
+determinadas de alimentos.
+636.084.744	Alimentadores mecânicos, ativados pelos
+próprios animais.
+636.084.75	Dispositivos para dar de beber. Inclusive
+Cochos de água. Cisternas (auto-reguláveis).
+636.084.76	Dispositivos combinados para alimentar
+e dar de beber.
+636.085	Alimentos, forragem em geral.
+636.085.l	Composição dos alimentos, das rações.
+636.085.2	Valor nutritivo dos alimentos. Inclusive
+Assimilabilidade. Gosto, sabor. Valor calórico.
+Digestibilidade. Equivalente em amido.
+636.085.3	Análise dos alimentos (questões gerais).
+636.085.4	Valor, inventário e armazenamento dos
+alimentos. Determinação do volume e peso dos
+alimentos.
+636.085.5	Tipos de alimentos.
+636.085.51	Forragem verde em geral.
+→ 636.086 Alimentos vegetais específicos
+636.085.52	Silagem.
+636.085.53	Alimentos ricos em substâncias não-digeríveis
+em geral.
+636.085.54	Alimentos concentrados em geral.
+→ 636.086/.087
+636.085.55	Alimentos compostos.
+636.085.57            Alimentos artificiais, sintéticos.
+636.085.6	Preparo da forragem para consumo. Instalações para cozimento, cozinhas para forragem.
+                                     → 631.363 Máquinas
+636.085.7	Conservação e armazenamento dos alimentos.
+→ 631.24 Construções para armazenamento, manuseio de processamento de produtos 
+agrícolas.
+636.085.8	Alimentação experimental.
+636.086	Alimentos vegetais específicos.
+636.086.1/.4 dividido como 633.1/.4
+      → 636.085.51 Forragem verde em geral
+      → 664.78 Tecnologia de cereais, exceto trigo e centeio
+636.086.5		Grão germinado.
+636.086.7	Outros alimentos vegetais.
+636.086.74	Plantas frutíferas.
+636.086.74/.747 dividido como 634.1/.7
+636.086.75	Hortaliças para comercialização.
+636.086.75/.756 dividido como 635.1/.6
+636.086.8	Alimentos celulósicos quimicamente tratados.
+636.087	Subprodutos industriais como alimentos.
+Alimentos de origem animal. Aditivos.
+636.087.2	Subprodutos industriais como alimentos.
+Inclusive provenientes de fábricas de produtos
+amiláceos, cervejarias, destilarias. Borra de
+malte, lêvedo, fermento, etc..
+      → 631.879.3 Resíduos industriais como fertilizantes
+      → 663.14 Fermentação de levedura
+636.087.3	Alimentos ricos em determinados constituintes.
+636.087.6	Alimentos de origem animal. Inclusive
+Produtos derivados de leite, carne, peixe.
+Farinha de ossos.
+636.087.7	Aditivos. Estimulantes. Suplementos
+alimentares (sal, cal, vitaminas, proteínas, etc.).
+636.087.8	Alimentos antibióticos. Preparados biológicos.
+Hormônios.
+636.088	Treinamento, domesticação e adaptação de
+animais para determinados fins.
+636.09	Ciência veterinária. Inclusive Doenças, inimigos e pestes de animais domésticos e úteis: controle e tratamento. Medidas zootécnicas, protetoras.
+Para doenças de outros animais, ver 591.2
+Exemplo(s) de combinação(ões):
+      636.09-051 Médicos veterinários
+      636.1.09 Doenças de cavalos (e outros eqüinos), e seu tratamento
+      636.1.09:616.24 Doenças pulmonares de cavalos, etc., e seu tratamento
+636.092	Inimigos de rapina de animais domésticos.
+636.092.l               O homem como agente nocivo aos animais
+domésticos. Crueldade com os animais. Roubo de animais. Caça e pesca ilegais, etc. 
+      → 179.3 Ética em relação aos animais. Direitos dos animais
+      →  343.58 Crueldade com os animais. Provocação de sofrimento desnecessário em animais
+      → 343.77 Danos dolosos à propriedade. Destruição
+636.092.2	Animais domésticos soltos nocivos a outros
+animais domésticos (p. ex., gatos inimigos de
+pássaros, de galináceos).
+636.092.3	Animais selvagens, carnívoros, predadores
+nocivos aos animais domésticos.
+636.093	Insetos nocivos aos animais domésticos
+(prevenção e controle).
+Divisões principais
+636.1	Eqüinos domésticos. Cavalos.
+636.11	Cavalos orientais. Inclusive Cavalos
+árabes, turcomanos, persas, tártaros,
+berberes.
+636.12	Cavalos de trote e corrida.
+→ 636.051Animais puro-sangue. Puro sangue, em geral
+636.122	Cavalos puro-sangue
+636.127.1	Trotadores.
+636.128	Trotadores norte-americanos. Inclusive
+Cavalo Morgan.
+636.13	Cavalos de sela. Inclusive Cavalos de
+montaria, de caça, de cavalaria.
+Cavalos para caça.
+Exemplo(s) de combinação(ões):
+636.13.046:798.252 Pôneis de pólo ( i.e., cavalos de pólo)
+636.14	Cavalos de carruagem. Cavalos de coche.
+636.15	Cavalos de tração. Cavalos de carroças.
+Cavalos de tração de armas pesadas.
+636.152	Cavalos ingleses de tração. Inclusive
+Cavalos atarracados de tração: Clydesdales,
+Shires, Suffolk.
+636.153	Cavalos de tração alemães e holandeses.
+636.154	Cavalos de tração franceses e belgas.
+636.158	Cavalos de tração norte-americanos.
+636.16	Pôneis.
+636.162	Pôneis ingleses. Inclusive Pôneis de
+Shetland e Galloway. Pôneis de Exmoor. Dartmoor e New Forest. Pôneis do Pais de Gales.
+636.168	Pôneis norte-americanos.
+636.18	Outros eqüinos.
+636.182	Asnos. Burros.
+636.183	Mulos. Jumentos.
+636.184	Zebras.
+636.2	Ruminantes grandes. Gado bovino.
+Exemplo(s) de combinação(ões):
+636.2.053 Bezerros. Novilhos. Garrotes
+636.22	Bovinos de raças inglesas.
+636.222	Gado de corte inglês. Inclusive Gado de
+corte de chifre curto: Durham, Teeswater,
+Lincoln. Gado bovino vermelho de chifre
+curto: Hereford, Polled Hereford e Sussex.
+636.223	Gado de corte escocês, galês e irlandês.
+Inclusive Gado Aberdeen Angus, Galloway
+e Highland. Gado Welsh Black.
+636.224	Raças leiteiras inglesas. Inclusive Gado das
+Ilhas do Canal (Channel Islands). Gado
+Jersey, Guernsey e Alderney.
+636.225	Raças leiteiras escocesas e irlandesas.
+Inclusive Gado Ayrshire, Dunlop,
+Cunningham e Kerry.
+636.226	Raças inglesas de leite e corte. Inclusive
+Gado Devon, Red poll, Norfolk.
+636.23	Raças bovinas alemãs, holandesas,
+dinamarquesas e suíças.
+636.234	Raças leiteiras alemãs. Inclusive Gado
+Holstein, frísio, Oldenburg.
+636.235	Raças bovinas holandesas e dinamarquesas.
+636.237	Raças bovinas suíças.
+636.24	Raças bovinas francesas e belgas.
+636.242	Raças de corte francesas.
+636.244	Raças leiteiras francesas.
+636.245	Raças bovinas belgas e flamengas.
+636.27                    Outras raças bovinas européias.
+636.271	Raças bovinas russas.
+636.272	Raças bovinas espanholas.
+636.273	Raças bovinas húngara.
+636.275	Raça bovina finlandesa.
+636.276	Raças bovinas suecas.
+636.28	Raças bovinas não-européias.
+636.282	Raças de corte norte-americanas. Inclusive
+Texas Longhorns.
+636.283	Raças leiteiras norte-americanas. Inclusive
+Gado American Holderness. Gado franco-
+canadense.
+636.29	Outros ruminantes grandes.
+636.291	Zebus.
+636.292	Família do bisão. Inclusive Bisão-
+americano (ison bison). Catalo (híbrido do
+bisão macho com a vaca). Bisão -europeu
+(wisent).
+636.293.1	Espécies bovinas selvagens.
+636.293.2	Búfalo.
+636.293.3	Iaque.
+636.293.4	Gaial.
+636.293.5	Boi almiscarado.
+636.293.8             	Antílope.
+636.294	Veados. Cervídeos. Renas.
+636.295	Camelos. Dromedários.
+636.296	Outros camelídeos. Lhama.
+636.3	Pequenos ruminantes. Ovelhas.
+Cabras.
+636.32/.38	Ovelhas.
+636.32	Raças de ovelhas inglesas.
+636.321	Ovelhas de pêlo longo inglesas.
+636.323                   Ovelhas de pêlo curto inglesas.
+636.325	Ovelhas montesas inglesas.
+636.33	Raças de ovelhas holandesas e alemãs.
+636.331	Raças de ovelhas holandesas.
+636.333	Raças de ovelhas alemãs.
+636.34	Raças de ovelhas francesas e flamengas.
+636.346	Raças de ovelhas dos Pireneus.
+636.35	Raças de ovelhas italianas.
+636.36	Raças de ovelhas espanholas. Merinos, etc.
+Outros merinos europeus.
+636.37	Outras raças de ovelhas européias.
+Exemplo(s) de combinação(ões):
+                                          636.37(48) Raças de ovelhas escandinavas
+636.371	Ovelhas Tsigaya.
+636.372	Ovelhas Ratzka.
+636.38	Raças de ovelhas não-européias.
+Exemplo(s) de combinação(ões):
+636.38(5) Raças de ovelhas asiáticas
+636.39	Cabras.
+636.4	Porcos. Suínos.
+636.42	Raças suínas inglesas.
+636.43	Raças suínas alemãs, holandesas e
+húngaras.
+636.44	Raças suínas francesas e suíças.
+636.45	Raças suínas italianas. Inclusive Suínos
+napolitanos e toscanos.
+636.46	Raças suínas espanholas e portuguesas.
+636.47	Outras raças suínas européias.
+636.475                    Raças suínas russas.
+636.48	Raças suínas não-européias. Raças suínas
+norte-americanas. Outras.
+636.5	Avicultura.
+636.52/.58	Aves domésticas. Galinhas.
+636.52	Raças de galinhas inglesas.
+636.53	Raças de galinhas alemãs, austríacas
+e holandesas.
+636.54	Raças d e galinhas  francesas e belgas.
+636.55	Raças de galinhas italianas. Raças de
+galinhas mediterrâneas.
+636.56	Raças de galinhas espanholas.
+636.57	Outras raças de galinhas européias.
+636.58	Raças de galinhas não-européias.
+636.581	Raças de galinhas norte-americanas.
+636.584	Galinhas vermelhas Rhode Island.
+636.585	Raças de galinhas asiáticas.
+636.587	Raças de galinhas especiais. Inclusive Raça
+de galinhas pequenas. Garnisés.
+636.588	Outras raças de galinhas e galináceos.
+Inclusive Galos de briga. Raças
+ornamentais.
+636.59	Outros tipos de galináceos.
+636.592	Perus.
+636.593	Galinhas-d' angola.
+636.594	Faisões.
+636.595	Pavões.
+636.596	Pombos e pombas.
+636.597	Patos.
+636.597.2	Raças de patos inglesas. Inclusive Pato
+Aylesbury.
+636.597.4	Raças de patos francesas.
+636.597.8	Outras raças de patos. Inclusive Patos
+Muscovy. Patos de Pequim.
+636.598	Gansos.
+636.598.3	Raças de gansos alemães. Inclusive
+Gansos Emden.
+636.598.4	Raças de gansos francesas. Inclusive
+Gansos Toulouse.
+636.598.7	Gansos Sebastopol.
+636.598.8	Raças de gansos não-européias.
+636.6	Aves (exceto as domésticas e as de
+caça) criadas ou mantidas pelo
+homem.
+598.2 Aves. Aves em geral. Ornitologia
+636.61	Aves criadas ou mantidas por causa da
+plumagem.
+636.68	Aves ornamentais e canoras. Pássaros de
+gaiola e de aviário em geral.
+636.7	Cães.
+636.72	Cães de trabalho.
+      Ou usar 636.7.042
+636.74	Cães de guarda. Cães pastores. Cães policiais.
+      Ou usar 636.7.044
+636.75	Cães de caça
+      Ou usar 636.7.046
+636.76	Cães de companhia. Cães de estimação.
+      Ou usar 636.7.045
+636.8	Gatos.
+636.9	Outros animais mantidos pelo homem.
+636.91	Cobaias, porquinhos-da-índia.
+636.92	Coelhos domésticos.
+      → 639.112 Mamíferos de pelos  pequenos
+636.93	Animais de pêlo.
+      → 636.035 Animais criados para produção de lã ou outros fios têxteis: composição e qualidade
+      → 637.62 Cabelo. Pelo. Cerdas. Lã
+→ 639.11 Mamíferos como animais de caça
+636.931	Marsupiais criados por causa da pele.
+636.931.1	Gambá norte-americano.
+636.932	Roedores criados por causa da pele.
+636.932.2	Castor.
+636.932.3	Ratão-do-banhado. Nútria.
+636.932.4	Chinchilídeos. Chinchilas. Viscachas,
+camundongos lanudos.
+636.933	Ungulados criados por causa da pele.
+Inclusive Ovelhas, carneiros caracul.
+636.934	Predadores, carnívoros, criados por
+causa da pele.
+636.934.2	Raposas.
+636.934.3	Raccoon. Mão-pelada, guaxinim.
+636.934.4	Raccoon.
+636.934.5	Mustelídeos. Inclusive Martas. Zibelina. Visom.
+636.96 Pequenos mamíferos terrestres diversos 
+636.95	Animais terrestres e anfíbios diversos
+criados principalmente para servir de alimento.
+Especificar por meio de :592/599 
+Exemplo(s) de combinação(ões):
+636.95:594.3 Caracóis comestíveis
+636.95:597.82 Rãs comestíveis
+636.96	Pequenos mamíferos terrestres diversos.
+Inclusive Porco-espinho. Furão.
+Mangusto.
+Exceto os indicados em 636.91/.93 e os primatas
+      Especificar por meio de :599...
+636.97	Mamíferos terrestres grandes diversos. Inclusive Elefante. Primatas.
+Exceto os indicados em 636.1/.8 
+Exemplo(s) de combinação(ões):
+636.9 7:599.8 Primatas criados pelo homem. Macacos e símios domesticados
+636.98	Répteis e outros vertebrados. Inclusive
+Reptilia, p. ex., lagartos, serpentes,
+cagados. Anfíbios. Peixes, p. ex., peixe
+dourado.
+Exceto os indicados em 636.1/.97
+Especificar por meio de :597/598
+→ 636.95 Animais terrestres e anfíbios diversos criados principalmente para servir de alimento
+→ 639.94 Criação de peixes ornamentais
+636.99	Outros animais criados pelo homem. Inclusive Invertebrados.
+Exceto os mencionados em 636.1/.98 
+Exemplo(s) de combinação(ões):
+636.99:595.142 Quetópodes. Vermes diversos , etc. 
+636.99:595.143 Hirudíneos. Sanguessugas 
+639.54 Criação de sanguessugas
+
+637 Produtos de animais domésticos e de caça
+
+      → 664.9 Preservação de produtos animai
+      → 665.2 Óleos, gorduras e ceras de origem animal
+Subdivisões auxiliares especiais
+637.02		Máquinas e equipamento para processamento de produtos animais.
+637.022		Máquinas e equipamento para tratamento preliminar. Inclusive Filtros. Separadores. Limpadores.
+637.023	Equipamento para tratamento térmico e conservação. Inclusive Pasteurizadores.
+Esterilizadores.
+637.024	Equipamento para alterar a condição física do produto. Inclusive Homogeneizadores.
+Batedeiras.
+637.025	Máquinas e equipamento para trabalhos posteriores antes de concentrar, secar ou moldar.
+637.026	Dispositivos e equipamento para concentração ou secagem do produto.
+637.027	Dispositivos para moldar, cortar ou classificar (por tamanho). Inclusive Moldes. Cortadores. Classificadores.
+637.028	Equipamento para tratamento posterior.
+Inclusive Para culturas, aditivos, acabamento, embalagem.
+637.03	Métodos e processos para tratamento de produtos animais.
+Maiores especificações em 637.5
+637.04	Composição química e ingredientes de produtos animais.
+637.041	Proporção do valor alimentício dos ingredientes em relação ao produto total.
+637.041.3	Teor de alto valor nutritivo.
+637.041.5	Teor de valor nutritivo moderado, médio.
+637.041.7	Teor de baixo valor nutritivo.
+637.043	Teor de gordura.
+637.044	Teor de carboidratos. Inclusive Teor de lactose.
+637.045	Teor de proteína.
+637.046	Teor de sais minerais (p. ex., cálcio).
+637.047	Teor de substâncias bioquímicas.
+                                    Exemplo(s) de combinação(ões):
+                                            637.047:577.15 Teor de enzimas 
+                                            637.047:577.16 Teor vitamínico
+637.05	Qualidades e propriedades de produtos animais (exceto a composição).
+637.052	Aparência geral. Textura superficial. Cor.
+637.053	Estado físico. Inclusive Textura do corpo. Aparência. Densidade. Viscosidade.
+Oleosidade.
+                                           Especificar por meio de :53...
+637.054	Propriedades químicas (exceto a composição).
+Especificar por meio de  :54/543
+637.04 Composição química e ingredientes de produtos animais
+637.055	Propriedades biológicas/bacteriológicas.
+Exemplo(s) de combinação(ões):
+→ 637.055-.579.8... Teor de microorganismos específicos
+637.056	Qualidades de preservação.
+→ 637.066 Decomposição. Putrefação. Podridão
+637.057	Sabor. Aroma.
+637.058	Propriedades induzidas por conservantes ou
+outros meios artificiais.
+637.06	Falhas, defeitos, contaminação,
+adulteração de produtos animais.
+637.061	Deterioração geral. Inclusive Rançcoso.
+Passado.
+637.062	Defeitos de aparência e cor. Inclusive
+Descoloração. Riscas. Gosmento.
+637.063	Defeitos físicos, de textura e consistência.
+Inclusive Excessivamente gorduroso.
+Secura.
+637.064	Defeitos químicos ou físico-químicos.
+Inclusive Sedimentos. Com excesso de gás.
+Com excesso de acidez.
+637.065	Defeitos bacterianos. Inclusive Bolor.
+Contaminação.
+637.066	Decomposição. Putrefação. Podridão.
+637.067	Defeitos de sabor e aroma. Inclusive
+Rancidez. Acidez. Amargura.
+637.068	Adulterações. Impurezas.
+637.07	Exames, testes, análises de produtos
+animais.
+Classificar aqui os métodos de exame,  etc. Para teste de propriedades específicas,  ver 637.04/.06
+637’6		Produtos dos animais domésticos,
+criados ou mantidos pelo homem.
+637’6 dividido como 636
+637.12’639 Leite de cabra 
+637.5’62 Carne bovina e produtos derivados
+637’7	Produtos de animais de caça.
+637’7 dividido como 639.1
+637.54’724 Carne de perdiz, de tetraz (galo silvestre), etc. 
+637.55’712 Carne de pequenos animais de pêlo. Carne de coelho e lebre 
+637.6’711.7 Peles de predadores de grande porte
+637’8	Produtos de peixes e outros animais aquáticos.
+637’8 dividido como 639.2
+637.5’845.1/.3 Carne de baleia 
+637.56’87 Carne de moluscos aquáticos, ostras
+Divisões principais
+637.1	Laticínios e seus derivados em
+geral.
+637.11	Ordenha. Equipamento de ordenha.
+637.112	Fatores que afetam o volume da produção e
+a qualidade do leite. Inclusive Períodos e freqüência da ordenha.
+Exemplo(s) de combinação(ões):
+637.112“2” Variações sazonais
+→ 636.084.52 Alimentação para produção. Engorda. Alimentação para produção de leite
+637.114	Ordenha manual.
+637.115	Ordenha mecânica. Sistemas mecânicos de
+tratamento do leite.
+637.12	Leite (leite fresco, não-processado).
+637.123	Colostro.
+637.13	Processamento do leite.
+637.131	Tratamento e enriquecimento inicial do
+leite para processamento.
+637.131.2	Purificação. Clarificação. Filtração.
+637.131.3	Desodorização do leite.
+637.131.5	Desnatação. Separação. Retirada do
+creme do leite.
+637.131.6	Padronização da composição.
+637.131.8	Tratamento com aditivos. Inclusive
+Vitaminação.
+637.133	Tratamento e conservação térmica do leite.
+637.133.1                 Resfriamento e congelamento do leite.
+637.133.2	Pré-aquecimento e aquecimento do leite.
+637.133.3	Pasteurização.
+637.133.4	Esterilização do leite.
+637.133.7	Conservação química do leite. Outros métodos
+de conservação.
+637.134	Tratamento do leite para alterar sua condição física. Homogeneização.
+637.136	Tratamento bacteriológico do leite.
+→ 637.146 Produtos de leite com culturas, fermentado, coalhado
+637.136.3	Cultura bacteriológica.
+637.136.5	Fermentação.
+637.137	Condensação e desidratação do leite.
+637.138	Tratamento de leites processados com
+aditivos, sabores, etc.
+637.14	Leites processados.
+637.141	Leite integral processado.
+637.141.3	Leite pasteurizado. Leite esterilizado.
+637.141.4	Leite homogeneizado.
+637.141.8	Leite com sabores acrescentados. Inclusive
+Bebidas lácteas achocolatadas. Bebidas lácteas
+com sabor de frutas.
+637.142	Leite concentrado.
+637.142.2	Leite condensado, creme, soro e outros
+produtos do leite.
+      → 637.148 Creme. Produtos de creme de leite
+      → 637.344 Soro como subproduto do queijo
+637.142.3	Leite evaporado.
+637.142.5	Leite concentrado coagulado.
+637.143	Leite evaporado. Leite desidratado, em pó.
+Leite reconstituído.
+637.143.2	Leite desidratado. creme de leite em pó e
+similares.
+637.143.6	Leite reconstituído (a partir de leite em pó).
+637.144	Leites dietéticos. Leites especiais para
+recém-nascidos e outras crianças.
+637.146	Produtos de leite com culturas, fermentado,
+coalhado.
+	      → 663.1 Indústrias microbiológicas. Ciência e técnicas da microbiologia aplicada. Micologia aplicada
+637.146.l	Tratamento do leite por bactérias e
+Lêvedo em geral.
+637.146.2	Produtos lácteos obtidos pela fermentação
+combinada de ácidos e álcool. Inclusive Gioddu.
+Araka. Huslanka.
+637.146.21	Quefir.
+637.146..23	Mazun. Koumiss.
+Exemplo(s) de combinação(ões)
+      637.146.23 '61 Koumiss de leite de égua
+637.146.3	Produtos lácteos obtidos por fermentação
+ácida. Inclusive Leben. Skyr.
+637.146.33	Culturas, formadores de manteiga. Culturas,
+formadores de queijo.
+637.146.34	Iogurte. Leite acidófilo.
+637.147	Leite desnatado.
+      → 637.144 Leites dietéticos. Leites especiais para recém-nascidos e outras crianças
+      → 637.247 Leitelho
+637.147.2	Caseína obtida do leite desnatado. 
+Ácido láctico e caseína de coalho.
+Lactato de sódio.
+637.147.3	Co-precipitados do leite desnatado.
+637.148	Creme. Produtos do creme de leite.
+→ 637.187 Creme de leite desnatado com adição de gordura. Creme sintético
+637.148.2	Creme com teor de gordura entre 30-36.
+637.148.4	Creme com teor de gordura entre 18-30.
+637.148.6	Creme esterilizado.
+637.18	Substitutos de leite e creme.
+637.181	Leite vegetal.
+637.182	Leite de gorduras animais.
+637.187	Creme de leite desnatado com adição de
+gordura. Creme sintético.
+637.2	Manteiga e sua fabricação.
+Exemplo(s) de combinação(ões): 
+637.2.024 Batedeiras de manteiga 
+637.2.067 Rancidez da manteiga
+637.23	Processos de fabricação da manteiga.
+637.233	Tratamento do creme ou do leite para
+fabricação da manteiga.
+637.233.l	Tratamento inicial. Padronização e separação
+de creme ou leite
+      → 637.131 Tratamento e enriquecimento inicial do leite para processamento
+637.233.6	Tratamento térmico e conservação de creme ou
+leite. Inclusive Pasteurização. Esterilização.
+Resfriamento.
+→ 637.133 Tratamento bacteriológico do leite
+637.234	Formação da manteiga. Trabalho com a manteiga, moldagem, etc.
+637.234.2	Batedura da manteiga.
+637.234.3	Lavagem da manteiga.
+637.234.5	Fermentação e salga da manteiga.
+637.234.7	Moldagem e corte da manteiga.
+637.236	Sazonamento da manteiga. Inoculação de
+culturas bacterianas na manteiga.
+637.238	Coloração e tratamento da manteiga com
+aditivos.
+637.238.2	Coloração da manteiga.
+→ 667.777 Coloração de alimentos
+637.238.4	Aditivos para dar aroma, sabor etc.
+637.24	Subprodutos da fabricação da manteiga.
+637.247	Leitelho).
+637.25	Tipos e formas de manteiga.
+637.251	Manteiga fresca (sem estocar ou processar).
+637.252	Manteiga armazenada a frio, em
+congelador.
+637.253	Formas estáveis, estabilizadas de manteiga,
+p. ex., para climas tropicais.
+637.255	Manteigas semifluidas. Inclusive Ghee.
+637.27	Reprocessamento da manteiga e de
+produtos da manteiga. Manteiga processada ou reciclada.
+637.28	Sucedâneos da manteiga. Óleo de manteiga.
+→ 664.3 Óleos e gorduras comestíveis. Margarina. Alimentos de proteína
+637.3	Queijos e sua fabricação.
+Exemplo(s) de combinação(ões):
+637.3.022 Equipamento para formação do coalho de queijo e para tratamento do coalho 
+637.3.027 Cinchos.Moldes para queijo
+637.33	Processos de fabricação de queijo.
+637.333	Tratamento do creme ou do leite para
+fabricação de queijo. Inclusive Tratamento
+inicial. Tratamento térmico e conservação.
+Desnatação. Pasteurização.
+637.334	Formação e moldagem do queijo.
+637.334.2	Coagulação e assentamento.
+637.334.3	Coalho e seu tratamento, inclusive Corte,
+escaldamento, cozimento do coalho. Forração
+e empilhamento do coalho. Formação
+de Cheddar.
+637.334.5	Moagem, separação do queijo.
+637.334.7	Moldagem. prensagem do queijo. Enfaixamento
+do queijo.
+637.336	Maturação do queijo.
+637.337	Aprontamento. Untamento, enceramento e
+lavagem do queijo.
+637.338	Coloração e tratamento do queijo com aditivos.
+637.338.2	Coloração do queijo.
+→ 667.777 Coloração de alimentos
+637.338.4	Aditivos para dar aroma, sabor, etc.
+637.34	Subprodutos da fabricação de queijos.
+637.344	Soro, como subproduto do queijo.
+→ 637.142.2 Leite condensado, creme, soro e outros produtos do leite
+637.345	Açúcar de leite (lactose).
+637.347	Manteiga de soro. Creme de soro.
+637.35	Tipos e formas de queijo.
+637.352	Queijos frescos de massa mole.
+Queijos cremosos.
+637.353	Queijos de massa azulada ou branca
+(moles e semimoles).
+637.353.5	Queijos de massa azulada. Inclusive
+Gorgonzola. Stilton. Roquefort.
+637.353.7	Queijos de massa branca. Inclusive
+Brie. Camembert.
+637.354	Queijos duros.
+637.354.6	Queijos escaldados.
+637.354.62	Queijos levemente acidulados. Queijos
+amadurecidos com bactérias de bastonete. Inclusive Emmental. Gruyèrc.
+637.354.64	Queijos fortemente acidulados. Inclusive
+Parmesão.
+637.354.8	Queijos cozidos a baixa temperatura.
+Queijos salgados.
+637.354.82	Queijos de textura aberta. Inclusive
+Gouda. Edam.
+637.354.84	Queijos de textura fechada. Inclusive Cheddar.
+637.356	Queijos de caseína ácida.
+637.356.2	Queijos de caseína ácida para serem comidos
+frescos. Inclusive Requeijão. Gervais. Quark.
+637.356.4	Queijos de caseína ácida maturados. Inclusive
+Harzer. Mainzer.
+637.357	Queijos de albumina ácida. Inclusive
+Schabziger. Gammelost.
+637358	Queijos processados.
+637.38	Sucedâneos do queijo.
+637.4	Ovos. Produtos de ovos.
+Indicar os ovos de aves específicas (especialmente de aves que não sejam as galinhas) por '6... ou '7... 
+Exemplo(s) de combinação(ões):
+                                         637.4’659.7 Ovos de patos domésticos 
+                                         637.4’727 Ovos de aves aquáticas silvestres
+637.41Estrutura e partes dos ovos.
+637.411	Ovos por inteiro.
+637.412	Casca do ovo.
+637.413	Clara do ovo. Albumina.
+637.414	Gema do ovo.
+637.417	Ovo de casca mole.
+	      Ovos postos com a casca mole ou sem casca.
+637.43	Tratamento dos ovos.
+637.433	Métodos físicos para conservar ovos na
+casca. Inclusive Resfriamento, aquecimento,
+pasteurização, esterilização de ovos.
+637.434	Métodos químicos para conservar ovos em
+casca. Inclusive Conservação em líquidos,
+p. ex., copo com água, cola de peixe.
+Conservação em gases.
+637.435	Técnicas para embalar ovos (em casca).
+      → 621.798 Equipamento de acondicionamento e embalagem. Invólucros, recipientes, materiais, máquinas
+637.437	Remoção das cascas de ovos.
+→ 641.514.3 Descascamento.637.438	Processamento dos elementos constituintes
+do ovo (polpa do ovo).
+      → 637.413/.414
+637.48	Produtos processados e sintéticos do ovo.
+Sucedâneos do ovo.
+637.481	Ovo em pó.
+637.482	Substâncias químicas ou terapêuticas que
+contêm ovo. Inclusive Ovos iodetados.
+637.483	Clara de ovo sintética.
+637.484	Gema de ovo sintética.
+637.5	Carne. Produtos de carne para
+alimentação.
+     Indicar a carne e os produtos de carne de animais específicos por  meio de '6/ '8,  conforme explicado em 637'6, 637'7 e 637'8 
+Exemplo(s) de combinação(ões): 
+      637.5’62 Carne bovina e produtos derivados. Vitela e produtos derivados 
+      637.5’64 Carne suína e produtos derivados 
+      637.5’848 Carne de tartaruga marinha e produtos derivados
+637.5.03	Métodos de tratamento de carnes.
+637.5.031	Tratamento preparatório. Limpeza, etc. 
+da carne.
+637.5.032	Maturação da carne. Inclusive por enzimas.
+637.5.033	Conservação e armazenamento da
+carne em geral.
+637.5.034	Cura pela fumaça. Defumação e desidratação
+da carne.
+637.5.035	Cura química. Salga, conserva etc. de carne.
+637.5.037	Refrigeração, congelamento da carne.
+→ 637.513.8 Instalações frigoríficas. Congeladores. Armazéns frigoríficos
+637.5.039	Tratamento especial para consumo.
+Amaciamento, etc.
+Divisões principais
+637.51	Carne fresca. Sucedâneos, substitutos
+da carne.
+637.512	Seleção de animais e preparo para o abate.
+637.513	Técnicas e equipamento de abate e
+embalagem da carne.
+637.513.1	Instalações e processos de abate e embalagem
+da carne.
+      → 637.53 Destino dado às carcaças e seu aproveitamento
+637.513.11	Abate doméstico.
+637.513.12	Matadouros. Abatedouros.
+637.513.14	Instalações para embalagem de carne.
+637.513.18	Limpeza, apronto das carcaças.
+637.513.2	Equipamentos, utensílios dos matadouros.
+637.513.22	Dispositivos de abater e atordoar. Inclusive
+Abatedor elétrico. Pistolas, cartuchos de abate. Máscaras de abate. Choque elétrico para atordoar e abater.
+637.513.27	Utensílios do matadouro. Inclusive Facas.
+Serras. Instrumentos para abrir o animal e tirar a pele.
+637.513.3	Instrumentos para eviscerar, estripar.
+Ferramentas para raspar. Dispositivos para
+escaldar. Caldeiras, autoclaves, etc.
+637.513.4	Instrumentos para cortar, picar. moer. Inclusive
+Máquinas para cortar e fatiar a carne.
+Fatiadores de bacon. Máquinas de cortar e
+moer. Moedores de carne.
+      → 621.927.76 Moinhos de rosca ou parafuso sem-fim
+      → 637.523.4 Máquinas e dispositivos especiais para cortar, fazer cubos e moer a carne de lingüiças e salsichas e seus produtos
+637.513.5	Máquinas de pesar carne. Balanças de carne.
+637.513.66	Recipientes para carne fresca.
+637.513.68	Dispositivos para pendurar carne.
+637.513.8	Instalações frigoríficas. Congeladores.
+Armazéns frigoríficos.
+      → 637.5.037 Refrigeração, congelamento da carne
+637.514	Tipos de carne fresca. Peças e cortes de
+carne.
+637.514.5	Carne moída.
+      → 637.521.47 Produtos de carne moída
+637.514.7	Ossos para alimentação.
+637.514.8	Tutano.
+637.514.9	Sobras. Subprodutos do apronto e raspagem
+da carcaça.
+637.518	Sucedâneos, substitutos de carne.
+637.52	Carnes processadas, curadas, preparadas
+e cozidas. Sua produção.
+      → 664.91/.93 Carnes processadas, curadas, preparadas e cozidas. Sua produção
+637.521	Produtos de carne prontos para cozinhar
+e sua produção.
+637.521.4	Tipos de produtos de carne prontos
+para cozinhar.
+637.521.42	Produtos naturais de carne prontos
+para cozinhar.
+637.521.44	Produtos de carne acompanhados de pão. Inclusive Hamburger. Schnitzel.
+637.521.47	Produtos de carne moída.
+      → 637.514.5 Carne moída
+637.522	Seleção e preparo da carne crua para
+processamento.
+637.523	Produção de lingüiças e salsichas.
+      → 637.524 Tipos de produtos de lingüiças, salsichas
+637.523.2	Técnicas de processamento da carne para
+produção de lingüiças, salsichas.
+637.523.3	Máquinas e equipamento para fabricação de
+lingüiças, salsichas.
+637.523.31	Dispositivos para misturar e sovar carnes
+e pastas.
+637.523.35	Salgadeiras.
+637.523.37	Caldeiras. Estufadeiras. Fornos.
+637.523.38	Secadeiras, recintos para secar. Fumeiros,
+recintos para defumar.
+637.523.4	Máquinas e dispositivos especiais para cortar,
+fazer cubos e moer a carne de lingüiças e
+salsichas e seus produtos.
+	      → 637.513.4 Instrumentos para cortar, picar, moer
+637.523.7	Máquinas de encher lingüiça. Ligadores.
+637.524	Tipos de produtos de lingüiças, salsichas.
+637.525	Carnes curadas, secas e defumadas
+(exceto lingüiças e salsichas).
+637.525.2	Toucinho defumado. Bacon.
+637.525.3	Presunto.
+637.528	Carnes preparadas e cozidas exceto as
+acima mencionadas. Inclusive Carnes em conserva. Carnes marinadas. Carnes conservadas em gelatina, galantina.
+637.53	Destino dado às carcaças e seu
+aproveitamento.
+      → 637.513.1 Instalações e processos de abate e embalagem da carne
+637.54	Carne de aves domésticas e de caça.
+637.54 dividido como 63 7.51
+Exemplo(s) de combinação(ões):
+637.54’65 Carnes de aves domésticas, de galináceos
+637.54’72 Carne de aves de caça 
+637.54’724 Carne de perdiz, tetraz, etc.
+637.55	Caça. Carne de caça (exceto aves).
+637.55 dividido como 637.51
+Exemplo(s) de combinação(ões):
+637.557.1 Carne de animais específicos de caça 
+        637.55’711.4 Carne de renas selvagens etc.
+        637.55’712 Carne de animais de peio pequenos. Carne de coelho e lebre
+637.56	Carne de peixe, crustáceos (frutos do mar), etc.
+637.56 dividido como 637.51 
+Exemplo(s) de combinação(ões):
+637.56'81/'83 Carne de peixes específicos
+637.56'87/'88 Carne de moluscos aquáticos e crustáceos
+637.6	Produtos animais exceto alimentos.
+Exemplo(s) de combinação(ões):
+637.6’6/’8 Produtos de animais específicos (se não implícitos nas divisões diretas 637.61/.69)
+→  665.93 Adesivos. Colas. Gelatinas. Proteínas
+      →  675 Indústria do couro (inclusive da pele e do couro de imitação)
+637.61	Peles. Couros. Conchas.
+Exemplo(s) de combinação(ões):
+637.61’698 Peles, etc. de répteis e outros vertebrados 
+637.61’848 Casco de tartaruga (i.e., de tartarugas marinhas) 
+      → 639.386 Peles de peixe e outros animais marinhos. Couros de baleia, foca, etc. Bexigas natatórias. Caudas e barbatanas
+637.62	Cabelo. Pêlo. Cerdas. Lã.
+      → 636.93 Animais de pelo
+      → 675.82/.83
+      → 677..021.153 Produção de lãs, pelos e sedas
+637.64	Chifres. Garras. Unhas. Bicos
+      → 675.86 Indústrias baseadas no processamento dos refugos de tecidos duros
+637.65	Ossos. Dentes. Presas. Marfim.
+637.66	Sangue. Tripas, intestinos.
+637.661	Sangue animal.
+	      → 631.867 Outros fertilizantes de origem animal
+637.663	Intestinos animais. Tripas.
+	      → 675.85 Indústrias baseadas no processamento dos refugos de tecidos moles (vísceras, etc.)
+637.68	Algália. Almíscar. Castóreo.
+      → 665.529.4 Almíscar
+637.691	Ninhos comestíveis de pássaros.
+637.692	Matérias-primas para elaboração de hormônios endócrinos.
+      → 663.15 Processos de fermentação industrial. Produção de enzimas (exceto as produzidas pela levedura)
+
+638  Criação, manutenção e manejo de insetos e outros artrópodes
+
+Subdivisões auxiliares especiais
+638.08	Questões gerais concernentes à criação.
+638.08 dividido como 636.08 
+Divisões principais
+638.1	Criação de abelha. Apicultura.
+638.11	Organização do apiário. Considerações
+preliminares. Inclusive local. Aquisição
+de abelhas, colméias, equipamento.
+Edificações do apiário. Sistemas de
+administração comercial.
+638.12	A abelha (Apis mellifera). Classificação,
+anatomia, fisiologia, psicologia, comportamento e estudo científico em geral.
+                                       Indicar os detalhes não relacionados abaixo por meio de :591...
+                                     Para outras espécies de abelhas, ver 595. 799
+638.121.1	Abelhas rainhas.
+638.121.2	Abelhas operárias.
+638.121.3	Zangões.
+638.123	Subespécies, variedades, raças da Apis mellifera.
+638.124		A colônia de abelhas como um todo, como
+um organismo. Inclusive Comportamento social das abelhas melíferas. A personalidade corporativa da colméias, O espírito da colméia.
+      → 591.552 Relações entre os membros de uma espécie. Formações gregárias
+      → 591.56 Aprovisionamento para a posteridade. Cuidado com as crias. Cuidado com a ninhada
+638.124.2	O ciclo sazonal. Crescimento,
+desenvolvimento, multiplicação, declínio e
+extinção das colônias de abelhas.
+638.124.22	O ciclo sazonal.
+	      → 638.14.01 Estações. O ano do apicultor
+638.124.25	Multiplicação das colônias. Enxamagem.
+638.124.3	Comunicação entre as abelhas, por danças
+e outros meios. Comportamento social na
+busca de alimento.
+638.124.4	Recepção, tratamento, armazenamento e uso de
+alimento e outros materiais pelas abelhas.
+Reservas. Economia da colméia. Inclusive
+Recepção, tratamento, armazenamento e uso do
+néctar, secreções açucaradas, mel, água, pólen,
+própole, etc. Secreção de cera e material para
+construção de favos.
+638.124.5	A colméia. Inclusive Seleção, limpeza,
+modificação, etc. pelas abelhas. Controle de temperatura e umidade, ventilação (por batimento de asas) pelas abelhas. Guarda, defesa pelas abelhas.
+      → 591.57 Defesa. Ataque
+      → 638.142.8 Dispositivos de ventilação. Entradas das colméias. Plataformas de vôo das abelhas
+      → 638.147.7 Modificação artificial da ventilação, temperatura e umidade na colméia
+638.124.6	Relações entre as colônias de abelhas.
+Consciência de colônia. Roubo, luta
+entre abelhas.
+      → 638.147.1 Controle da pilhagem e extravio das abelhas
+638.124.7	Divisão de trabalho na colônia de abelhas.
+638.124.8	Propriedades, qualidades das colônias.
+Inclusive Equilíbrio da colônia. Proporção certa
+de rainhas. Falta de rainha. Grau de docilidade.
+Capacidade melífera. Moral.
+638.13	Busca de alimento pelas abelhas.
+Alimentos de abelhas. Pastos de abelhas.
+→ 638.121.2 Abelhas operárias
+638.132	Néctar. Plantas que produzem néctar.
+                                    Exemplo(s) de combinação(ões): 
+                                          638.132(213.5) Plantas tropicais de néctar
+                                              638.132(497.2) Plantas búlgaras de néctar
+638.135	Própole. Plantas que produzem própole.
+638.138	Pólen. Plantas que produzem pólen.
+638.14	Apiário e administração da colônia.
+Trabalho e manipulação das, colméias. Colméias e suas partes. Criação de
+abelhas.
+Subdivisões auxiliares especiais
+638.14.01	Estações. O ano do apicultor.
+	      → 638.124.22 O ciclo sazonal
+638.14.03	Flora. Pastos de abelhas.
+      → 638.13 Busca de alimento pelas abelhas. Alimentos de abelhas. Pastos de abelhas
+638.14.05	Produção de cera.
+      → 638.171Cera de abelha
+638.14.06	Produção de mel.
+      → 638.16 Mel
+638.14.07	Registros e resultados do apiário e da colméia.
+Divisões principais
+638.141	Administração do apiário em geral.
+638.141.3	Ferramentas e equipamento do apiário.
+      → 638.11 Organização do apiário. Considerações preliminares
+      → 638.163 Extração e tratamento do mel
+638.141.4	Tipos de apiário e sua administração.
+638.141.42	Apiários domésticos.
+638.141.43	Apiários externos.
+638.141.44	Apiários e cortiços migratórios. Apicultura
+migratória em geral.
+638.141.7	Administração da colônia. Inclusive Sistemas
+que empregam duas ou mais rainhas por
+colméia. Colméias compostas.
+638.142	Colméias e suas partes.
+638.142.2	Colméias e cortiços de favos fixos.
+638.142.3	Colméias de favos móveis.
+638.142.31	Colméias segundo o método de acréscimo
+de favos.
+638.142.38	Partes da colméia. Inclusive Suportes,
+estruturas, corpos, favos da colméia.
+638.142.8	Dispositivos de ventilação. Entradas das
+colméias. Plataformas de vôo das abelhas.
+→ 638.147.7 Modificação artificial da ventilação, temperatura e umidade na colméia
+638.143	Limpeza e conservação das colméias e suas
+partes. Inclusive Esterilização. Pintura.
+638.144	Alimentação das abelhas. Alimentos.
+638.145	Criação e reprodução de abelhas, inclusive
+Rainhas. Introdução de abelhas rainhas.
+Classificar aqui a ação do homem. Para a ação espontânea das abelhas,  ver 638.124
+638.145.3	Seleção de colônias de abelhas. Formação e
+aprimoramento de linhagens de abelhas.
+638.145.4	Criação de abelhas. Estímulo e formação
+de colônias. Criação de abelhas operárias
+e zangões.
+638.145.5	Criação de abelhas rainhas. Inclusive Arranjos
+para acasalamento. Inseminação artificial de
+abelhas rainhas.
+638.145.6	Transporte e introdução da rainha. Cândi.
+638.145.7	Coleta, embalagem e despacho de abelhas.
+638.147                    Outros manejos.
+638.147.l	Controle da pilhagem e extravio de abelhas.
+→ 638.124.6 Relações entre as colônias de abelhas. Consciência de colônias. Roubo, luta 
+entre abelhas
+638.147.2	Manejos básicos.
+638.147.21	Abertura da colméia e tranqüilização das
+abelhas. Exame, manuseio e transferência
+de favos.
+638.147.22	Sacudidas, escovadelas, remoção de abelhas
+dos favos.
+638.147.23	União de colônias entre si e com abelhas
+sem favo.
+638.147.24	Acréscimo, retirada de abelhas (não de favos)
+do estoque.
+638.147.25	Obtenção de favos de linhagem ou superfavos.
+638.147.26	Captura e colocação de enxames nas colméias.
+Colocação de abelhas sem favo nas colméias.
+638.147.27	Descoberta, marcação, remoção e destruição de
+abelhas rainhas. Descoberta, seleção, destruição
+ou transferência de alvéolos de rainhas.
+638.147.4	Prevenção e controle de enxames (manipulações
+que não envolvem aumento).
+638.147.5	Crescimento artificial da colônia.
+638.147.7	Modificação artificial da ventilação,
+temperatura e umidade na colméia.
+      → 638.124.5 A colméia
+      → 638.142.8 Dispositivos de ventilação. Entradas das colméias. Plataformas de vôos das abelhas
+638.147.8		Preparos e manipulações para o fluxo de mel.
+638.15	Doenças das abelhas. Pragas, inimigos
+das abelhas. Danos às abelhas.
+Subdivisões auxiliares especiais
+638.15-02/-099             Patologia geral das abelhas.
+638.I5-02/-099 dividido como 616-02/-099 
+Divisões principais
+638.153	Doenças que afetam as abelhas adultas.
+638.154	Doenças que afetam a progênie, as abelhas
+em fases imaturas.
+638.155	Plantas nocivas.
+      Especificar por meio de :582...
+638.157	Insetos nocivos. Outros animais inimigos.
+Especificar por meio de  592/599
+638.158	Lesões e envenenamento de abelhas (exceto
+os causados por animais e plantas nocivas).
+Inclusive Lesões causadas por inundações,
+incêndios, temperaturas extremas,
+umidade, fome, asfixia.
+638.158.2	Envenenamento por aspersões, poeira,
+Fumaça, etc.
+638.16	Mel.
+      → 638.14.06 Produção de mel
+      → 663.393 Vinhos de mel. Hidromel
+      → 664.164 Misturas que contêm glicose
+638.162	Composição, propriedades e qualidade do mel.
+Exemplo(s) de combinação(ões): 
+638.162:532.13 Viscosidade do mel 
+638.162:543.92 Testes organolépticos do mel. Aroma e sabor do mel 
+638.162:577.1 Bioquímica do mel 
+638.162:615.28 Propriedades anti-sépticas do mel
+638.163	Extração e tratamento do mel. Inclusive
+Clarificação. Liquefação. Conservação.
+Engarrafamento. Embalagem. Transporte.
+638.165	Formas e variedades de mel.
+638.165.22	Mel de favo. Mel virgem.
+638.165.23	Mel extraído, filtrado ou prensado.
+638.165.8	Mel segundo a planta que produziu a maior parte do néctar.
+638.165. 8 dividido como 582 
+638.165.847.52     	Mel do néctar das abietoídeas, dos abetos.
+638.165.891.248    	Mel do néctar das ericoídeas, das urzes.
+638.166	Alterações e defeitos do mel. Mel alterado ou imperfeito.
+638.167	Emprego de mel em alimentos, bebidas, medicamentos, outros produtos.
+Exemplo(s) de combinação(ões):
+638.167:615.324 Emprego de mel em farmácia 
+638.167:664.14 Emprego de mel em confeitaria
+638.17	Cera de abelha e outros produtos das abelhas melíferas.
+638.171	Cera de abelha. Inclusive Composição. Propriedades. Processamento. Usos.
+	      → 638.14.05 Produção de cera
+                                            → 665.231 Cera de abelha
+638.178.2	Pólen. Bolinhas de pólen. Armadilhas para pólen.
+	      → 581.33 Sacos embrionários. Grão de pólen. Esporos
+638.178.8	Veneno de abelha.
+	      → 591.145 Venenos. Glândulas peçonhentas. Toxinas. Antitoxinas
+                                           → 615.814.5 Picada de abelha
+638.19	Abelhas melíferas como agentes
+polinizadores. Emprego das abelhas pelo homem para polinização.
+      → 581.162.3 Polinização
+638.2	Criação de bicho-da-seda. Sericicultura.
+      → 677.37 Seda
+638.21	Generalidades. Projeto e equipamento de
+estabelecimentos serícolas. Economia da
+sericicultura.
+638.22	Bichos-da-seda. Variedades de mariposas
+dos bichos-da-seda.
+638.221	Ciclo vital do bicho-da-seda.
+      → 591 Zoologia geral
+638.221.2	Estágio de ovo.
+638.221.4	Estágio larval (o bicho-da-seda).
+638.221.6	Pupa. Crisálida.
+638.221.8	Estágio adulto. Mariposa.
+638.222	Variedades cultivadas de mariposas do
+bicho-da-seda (subfamília dos bombicídeos).
+Inclusive Bombyx mori.
+638.224	Variedades silvestres, semicultivadas de
+mariposas (principalmente saturníneas) do bicho-da-seda. Inclusive Bichos-da-seda que produzem sedas de tussor, muga e xantungue. Espécie das Antheraea. Espécie Attacus.
+638.226	Variedades evoluídas (principalmente a
+subfamília das Thaumetopoeinae). Inclusive Espécie Anaphe. Espécie Eucheira.
+638.228	Outras famílias e subfamílias de mariposas
+sericíferas de importância comercial. Inclusive Subfamília Yponomeuta. Subfamília Pieridinae.
+638.23	Alimentação de bichos-da-seda. Plantas
+alimentícias.
+      → 638.244 Alimentação do bicho-da-seda
+638.232	Folhas de amoreira.
+638.234	Outras folhas de plantas exceto a amoreira.
+Especificar por meio de :582  ou :634/635 
+Exemplo(s) de combinação(ões):
+638.234:634.37 Folhas de figueira
+638.236	Efeito de doenças, pragas, etc. das plantas sobre os bichos-da-seda.
+      → 632 Danos e lesões das plantas. Doenças das plantas. Pragas, organismos nocivos às plantas. Proteção das plantas
+638.238	Aspectos fisiológicos e bioquímicos da
+nutrição do bicho-da-seda. Inclusive Aminoácidos essenciais. Vitaminas.
+→ 591.13 Nutrição. Inanição
+638.24	Sericicultura propriamente dita.
+Sirgarias.
+638.241	Administração da sirgaria em geral. Inclusive Compartimentos para a criação. Equipamento.
+638.242	Incubação. Eclosão. Separação das larvas recém-nascidas.
+638.243	Higiene, desinfecção, limpeza das sirgarias.
+638.244	Alimentação do bicho-da-seda. Inclusive Programas de alimentação. Manutenção da frescura do alimento
+→ 638.23 Alimentação de bichos-da-seda. Plantas alimentícias
+638.245	Cuidados com o bicho-da-seda.
+638.247		Crescimento do bicho-da-seda. Processo de fiação.
+638.25		Doenças do bicho-da-seda. Pragas, inimigos do bicho-da-seda. Lesões do bicho-da-seda. Infecções. Plantas 
+		nocivas. Insetos e outros animais nocivos. Envenenamento, etc.
+638.252	Doenças, especialmente as infecciosas provocadas por vírus e microorganismos.
+638.255		Plantas nocivas.
+      Especificar por meio de :582
+638.257	Insetos nocivos. Outros inimigos animais.
+      Especificar por meio de :592/599
+638.258		Lesões e envenenamento causados por outros agentes. Inclusive Calor ou frio, umidade, asfixias, aspersões, 
+		poeira como agentes nocivos.
+638.26	Coleta de sementes (ovos) do bicho-da-seda.
+638.262		Sementes (ovo) do bicho-da-seda.
+638.264		Casulos para coleta das sementes.
+638.27		Casulos para a indústria da seda.
+                                      → 677.021.153 Produção de lãs, pelos e sedas
+638.271		Casulos.
+638.272	Fio e baba de seda crua. Propriedades físicas e químicas da seda crua. Elementos constituintes (fibroína, sericina, etc.).
+638.272.6	Defeitos do fio. Homogeneidade.
+638.273	Coleta, conservação e armazenamento da seda.
+638.28		Produtos diversos da criação de bicho-da-seda. Seda de refugo. Inclusive Vísceras de bicho-da-seda. Outros 
+                               produtos de refugo.
+638.3		Cochinilhas (Dactylopius coccus).
+		      → 547.975 Cochonilha
+                                     → 667.271 Pigmentos de origem animal
+638.4		Criação de outros insetos. Inclusive Formigas. Pirilampos (vaga-lumes). Pulgas amestradas. Grilos. Insetos 
+                                nocivos para pragas.
+638.5		Criação de aracnídeos.
+638.52		Oução, bicho-do-queijo (Tyroglyphus siro).
+638.54		Aranhas (Araneida).
+		      → 677.375 Outras sedas naturais
+638.8		Criação de insetos para fins ornamentais
+
+639  Caça. Pesca. Piscicultura
+
+      → 343.77 Danos dolosos à propriedade. Destruição
+		      → 347.246 Direitos de caça e pesca. Direito de caça. Terrenos comuns de pesca
+		      → 347.26 Encargos. Servidões
+                                     → 351.765 Supervisão e fiscalização de animais. Proteção de animais. Animais úteis. Destruição de animais 
+	      nocivos
+		      → 799 Pesca. Caça. Esportes de tiro e tiro ao alvo
+639.1		Caça.
+Subdivisões auxiliares especiais
+639.l.02	Tipos diversos de caça.
+639.1.021	Animais de pêlo.
+639.l.022	Animais de pena. Aves de caça.
+639.1.03	Formação da reserva de caça. Tipos e
+criação de caça.
+639.1.031	Raças. Cruzamento endogâmico.
+639.1.032	Cruzamento.
+639.1.033	Hibridização.
+639.1.034	Postura de ovos. Nidificação.
+639.1.04	Criação e cuidado dos animais de caça.
+      639.1.04 dividido como 636.083
+639.1.05	Questões gerais sobre caça.
+639.1.052	Áreas reservadas para caça.
+639.1.053	Natureza das áreas reservadas para caça.
+Avaliação e administração das áreas reservadas
+para caça.
+639.1.053 dividido como 639.2.053
+639.1.055	Restrições à caça.
+639.1.055.2	Em relação à época. Inclusive Restrições
+sazonais. Estações abertas e fechadas.
+639.1.055.3	Em relação ao lugar. Inclusive Áreas de
+conservação. Santuários da vida selvagem.
+639.1.055.4	Em relação aos meios de perseguição e captura.
+Métodos proibidos de caça.
+639.1.055.5	Animais de montaria e veículos para caças.
+639.1.055.8                 Animais de caça doentes e feridos. Perseguição
+a animais feridos.
+639.1.057		Pessoas envolvidas nas caças. Inclusive
+Proprietários de reservas de caça. Chefes de
+caças. Supervisores de caças. Pessoal auxiliar.
+Batedores.
+639.1.058	Danos relativos à caça e indenização. Danos
+causados pelas caças. Danos causados pelos
+animais caçados.
+639.1.06	Dispositivos para cuidar da reserva de caça.
+639.1.07	Cercas- Supervisão.
+639.1.081	Métodos e procedimentos de caça. Captura e
+destruição de animais.
+639.1.081.1	Armadilhas e laços.
+639.1.081.11	Redes, especialmente redes de pesca. 
+639.l.081.12                Redes de terra seca. Redes para apanhar
+animais que tombam. Redes para aves.
+639.1.081.13              Armadilhas. Armadilhas de mola. Laços. Bolas.
+639.1.081.15	Varas com visgo.
+639.1.081.16	Gaiolas.
+639.l.081.17              Armadilhas de mola. Armadilhas de laço. Armadilhas de queda. Armadilhas de poço.
+639.1.081.18            Armas de fogo de mola. Explosivos. 
+639.l.081.19           Outros métodos de captura ou destruição. Inclusive Armadilhas elétricas. Iscas. Iscas com veneno. Chamarizes.
+                                         → 639.1.081.98 Meios de atrair a caça
+639.1.081.2	Operações de caça. Tiros, etc.
+639.1.081.21	Caça com batedores. Empurrar, espantar, acuar.
+Caça com espantalhos.
+639.1.081.22	Caça de espreita.
+639.1.081.23	Caça de esconderijos, de emboscada.
+Caça na estação de migração.
+639.l.081.24         Caça de espera com engodos, iscas,
+Chamarizes, etc.
+      → 639.1.081.98 Meios de atrair a caça
+639.1.081.25	Caça com luzes, espelhos etc..
+639.l.081.3	Caça com auxílio de animais. Caça com
+cães de caça etc..
+639.1.081.31	Caça com armas e animais.
+639.1.081.32	Caça sem armas. Caça com galgos. Caça com
+falcões (falcoaria), etc.
+639.1.081.5	Caça em campo aberto.
+639.1.081.6	Caça em florestas.
+639.1.081.7	Caça em pântanos e na água.
+639.l.081.8	Caça a cavalo com cães de caça.
+639.l.081.9	Outros métodos de caça. Equipamento de caça.
+→ 623.442.6 Armas de fogo de cano liso. Espingardas, armas de caça (sem raiamento). Espingardas de cartucho. Escopetas
+→ 623.444.6 Facas
+639.1.081.98             Meios de atrair a caça. Inclusive Falsos pios, assobios de aves. Animais chamarizes. Iscas.
+	      → 639.1.081.19 Outros meios de captura ou destruição 
+                                     → 639.1.081.24 Caça de espera com engodos, iscas, chamarizes, etc.
+639.l.09	Doenças de animais de caça. Pragas, inimigos
+dos animais de caça.
+639.1.091	Doenças e seu tratamento. Epizootias.
+591.2 Doenças de animais (não-domesticados). Patologia animal.
+639.l.092	Pragas, inimigos dos animais de caça. Inclusive o Homem como predador. Roubo de animais de caça. Caça ilegal. Animais 
+                                    domésticos que se tornam selvagens. Gatos, cachorros selvagens, etc. Animais selvagens, carnívoros, predadores nocivos 
+	para os animais de caça.
+639.l.093	Inseto nocivos aos animais de caça.
+Divisões principais
+639.11/.16	Animais caçados.
+639.11	Mamíferos como animais de caça.
+      → 639.13 Focas. Morsas. Leões-marinhos
+Classificar os mamíferos marinhos em 639.24...
+639.111	Animais selvagens de grande porte. Caça grande em geral. 
+      → 636.29 Outros ruminantes grandes
+639.111.1	Cervo. Veado. Porco selvagem. Javali. Alce.
+639.111.2	Camurça. Cabrito montês. Muflão (carneiro
+selvagem).
+639.111.4	Rena. Elã, cefo (antílope africano). Wapiti.
+639.111.5	Antílope. Gazela.
+639.111.6	Bovinos selvagens e domesticados. Inclusive
+Gado comum. Bois. Bisão. Búfalo. Iaque.
+639.111.7	Carnívoros, predadores de grande porte.
+Inclusive Felinos de grande porte (leão,
+tigre, leopardo, etc.). Hiena. Chacal. Lobo.
+Urso. Coiote.
+639.111.8	Elefante. Hipopótamo. Rinoceronte. Girafa.
+Ocapi. Eqüinos selvagens. Zebra.
+639.112	Mamíferos de pêlo pequenos. Animais de
+caça de pequeno porte em geral. Inclusive
+Coelho. Lebre. Castor.
+		      → 636.92/.93
+639.113	Carnívoros, predadores, de pequeno porte.
+Inclusive  Raposa. Texugo. Lontra. Felinos
+de pequeno porte (gato silvestre, lince, etc.).
+Mustelídeos. Martas. Zibelina. Furão.
+Doninha. Arminho.
+      → 636.934 Predadores, carnívoros, criados por causa da pele
+639.12	Aves de caça. Aves silvestres.
+	      → 636.59 Outros tipos de galináceos
+639.121	Narceja. Galinhola.
+639.123	Faisão.
+639.124	Galináceos de caça. Inclusive Perdiz. Galo-
+silvestre. Peru-silvestre.
+639.125	Tetrazes. Galo-silvestre.
+639.126	Pequenas aves silvestres.
+639.127	Aves aquáticas.
+639.127.1	Aves de praia. Aves pernaltas. Aves andadoras.
+Aves gressórias. Fasmidos.
+639.127.2	Aves nadadoras de brejos, rios e litoral.
+Inclusive Patos selvagens. Gansos. Cisnes.
+639.127.3	Aves marinhas.
+Exceto as mencionadas em 639.127. 9
+639.127.9	Alcatrazes. Pelicanos.
+639.128	Aves de rapina. Aves predatórias.
+639.13	Focas. Morsas. Leões-marinhos.
+      → 639.24 Caça e captura de mamíferos e répteis marinhos
+639.14	Crocodilos. Jacarés.
+639.15	Outros répteis. Inclusive Cágados,
+jabutis.
+      → 639.248 Tartarugas marinhas
+639.16	Outros animais.
+639.18	Produtos dos animais de caça exceto
+alimentos.
+	      639.18 dividido como 637.6
+639.181	Peles. Couros. Conchas.
+      → 675 Indústria do couro (inclusive da pele e do couro de imitação) 
+639.18
+639.2	Pesca e produtos da pesca.
+      → 799.1 Pesca
+Subdivisões auxiliares especiais
+639.2.03	Métodos para aumentar a piscosidade.
+639.2.03 dividido como 639.3.03
+639.2.04	Métodos de criação de peixe.
+                                      → 629.2.04 dividido como 639.3.04
+639.2.05	Questões gerais sobre pesca.
+639.2.052	Locais de pesca.
+639.2.052.2	Águas interiores. Pesca de água doce.
+      → 639.21 Pesca de espécies de água doce. Pesca em águas interiores
+639.2.052.3	Mares. Oceanos.
+639.2.052.32            Pesca litorânea. Pesca no mar costeiro.
+                                          → 639.22 Pesca de espécies costeiras e de alto mar
+639.2.052.34              Pesca em alto mar. Pesca oceânica.
+639.2.053	Condições dos locais de pesca. Avaliação e
+levantamento prévio dos locais de pesca. Estimativa, previsões da produção pesqueira.
+639.2.053.l	Fatores oceanográficos e meteorológicos que afetam a pesca.
+		      → 551.46 Oceanografia física. Topografia submarina. Fundo do mar
+		      → 551.5 Meteorologia
+639.2.053.2	Composição e densidade dos cardumes.
+639.2.053.3	Fatores biológicos que afetam a pesca.
+Migração de peixes. Marcação,
+acompanhamento de indivíduos.
+639.2.053.4	Processos artificiais para enriquecer os
+estoques de peixe. Inclusive Devolução ao mar
+dos filhotes. Transplante de cardumes.
+639.2.055	Restrições à pesca.
+639.2.055 dividido como 639.1.055
+639.2.057	Pessoas envolvidas na pesca.
+639.2.058	Danos aos locais de pesca pelas atividades
+pesqueiras. Pesca excessiva.
+639.2.06	Embarcações de pesca: equipamento e uso.
+Para a construção das embarcações,  ver 629.562
+639.2.064	Embarcações com tanques para manter os
+peixes vivos.
+639.2.065	Traineiras de pesca.
+639.2.067	Manuseio e tratamento do pescado a bordo.
+Inclusive Frigorificação do pescado.
+      → 664.951.1 Conservação de peixe em salmoura, cura, defumação, marinada, etc.
+639.2.068	Processamento e conservação do pescado a
+bordo (exceto refrigeração). Usina,
+equipamento de processamento a bordo.
+Navios-fábrica.
+      → 664.95 Conservação de peixe. Produtos de peixe em conserva
+      → 665.213/.215
+639.2.07	Cais pesqueiros. Equipamento para descarregar a pesca.
+	      → 627.33 Estruturas de amarração e atracação. Desembarcadouros. Cais. Píeres 
+	      → 627.35 Rodovias e ferrovias portuárias. Outros equipamentos auxiliares de portos
+639.2.081	Métodos e equipamento de pesca.
+639.2.081.1	Captura de peixes com redes, cestas,
+explosivos, etc.
+639.2.081.11              Redes de pesca.
+639.2.081.117            Equipamento de separação. Equipamento
+rebocado. Equipamento circundante.
+Redes de arrasto na praia. 
+639.2.081.16               Cestas. Redes de covo. Redes de armadilha.
+Açudes de peixe etc..
+639.2.081.18	Explosivos.
+639.2.081.19	Pesca com descargas elétricas.
+Pesca com uso de veneno.
+639.2.081.2	Pesca com uso de armas, p. ex., armas de fogo.
+		      → 639.2.081.5 Pesca com arpão. Arpões e espingardas de arpão. Pesca com lança
+639.2.081.3	Pesca com auxílio de animais.
+639.2.081.4	Pesca de linha. Varas e linhas de pesca.
+639.2.081.42	Varas de pesca. Suportes e recipientes para
+varas de pesca.
+639.2.081.43	Linhas de pesca.
+639.2.081.44	Anzóis. Suportes do anzol. Bolsas de anzol.
+639.2.081.45	Rolhas. Material de bóia. Chumbos.
+639.2.081.46	Isca. Inclusive Moscas (isca) de pesca.
+639.2.081.5	Pesca com arpão. Arpões e espingardas de
+arpão. Pesca com lança.
+639.2.081.7	Aparelhos de detecção de peixes. Métodos e
+equipamento para localizar o peixe (p. ex., localização por eco, sonar).
+Exemplo(s) de combinação(ões):
+639.2.081.7:681.883.42 Localização dos peixes com aparelhos que registram o eco
+639.2.081.8	Atração dos peixes pela luz. 
+639.2.09	Doenças dos peixes. Pragas, inimigos dos peixes.
+639.2.09 dividido como 639.1.09 
+Divisões principais
+639.21		Pesca de espécies de água doce. Pesca em águas interiores. Inclusive das espécies que vivem parte do tempo no mar e 
+                               parte na água doce
+                              Exemplo(s) de combinação(ões):
+                                    639.21:597.211 Lampreia
+                                    639.21:597.423 Esturjão. Espátula
+                                    639.21:597.535 Enguia
+                                    639.21:597.551.2 Carpa. Peixe-dourado (ruivaca). Tenca. Barbo. Alburnete. Gobião (cadoz). Brema. Goraz. 
+		     Varião
+                                    639.21:597.551.4 Peixe-gato
+                                    639.21:597.552.1 Lúcio
+                                    639.21:597.552.3 Eperlano
+                                    639.21:597.552.511 Salmão
+                                    639.21:597.552.512 Truta
+                                    639.21:597.556.331.1 Perca. Barracuda. Robalo. Lobo-do-mar. Peixe-lua, rolim. Lúcio novo e pequeno. 
+		     Rêmora. Caranho, cioba; Goraz. Peixe-anjo
+639.22	Pesca de espécies costeiras e de alto mar.
+		Exemplo(s) de combinação(ões):
+                                     639.22:597.315.3 Esqualo. Cação. Tubarão-sarça
+                                     639.22:597.317 Arraias
+                                     639.22:597.541 Anchovas. Arenques. Savelhas. Sardinhas
+                                     639.22:597.551.3 Piranhas
+                                     639.22:597.551.4 Siluriformes: Peixe-gato
+                                     639.22:597.555.5 Bacalhau. Merlúcio
+                                     639.22:597.555.51 Bacalhau (Gadus sp.)
+                                     639.22:597.555.9 Rã-do-mar. Morcego-do-mar, peixe-morcego. Xarroco maior do mar profundo
+                                     639.22:597.556.31 Peixe-cabra. Peixe das rochas. Cabeças-chatas. Cabeças-redondas
+                                     639.22:597.556.331.1 Perca. Barracuda. Robalo. Lobo-do-mar. Peixe-lua, rolim. Lúcio novo e pequeno.
+     Rêmora. Caranho, cioba. Goraz. Peixe-anjo
+                                     639.22:597.556.332.3 Blênio. Lebre marinha
+                                     639.22:597.556.333.7 Mugem
+                                     639.22:597.556.334.1 Barracuda. Cavala. Atum. Espadarte
+                                     639.22:597.556.35 Linguado. Hipoglosso. Patruca. Rodovalho. Solha. Peixe-chato
+639.239	Outros peixes marinhos. Peixes de pesca de
+linha (lofiídeos).
+639.24	Caça e captura de mamíferos e répteis
+marinhos.
+639.245/.247 dividido como 599.5/.7
+639.245.1/.3	Pesca da baleia.
+639.247.453	Caça de focas na água.
+      → 639.13 Focas. Morsas. Leões-marinhos 
+639.248	Tartarugas marinhas.
+		      → 675.86 Indústrias baseadas no processamento dos refugos de tecidos moles (vísceras, etc.)
+639.25	Pesca litorânea, na costa.
+Classificam-se aqui apenas as questões gerais
+639.27	Coleta de moluscos aquáticos. Inclusive Ostras.
+Classificar os estudos sobre criação e captura em 639.4
+639.27 dividido como 639.4
+639.28	Captura de crustáceos aquáticos.
+Classificar os estudos sobre criação e captura em 639.5
+639.28 dividido como 639.5
+639.29	Coleta ou pesca de outros produtos
+marinhos. Inclusive Esponjas. Corais.
+Produtos vegetais marinhos: algas, etc.
+Classificar os estudos sobre captura e criação em 639.6
+639.3	Criação de peixes. Piscicultura.
+                      → 626.88 Obras hidráulicas para criação de peixes
+Subdivisões auxiliares especiais
+639.3.03	Processos reprodutivos dos peixes.
+Propagação dos peixes.
+639.3.032	Hibridização.
+639.3.034	Fertilização. Postura de ovos. Ovas de peixe.
+Larvas de peixe.
+639.3.034.1	Fertilização natural.
+639.3.034.2	Fertilização artificial.
+639.3.04	Métodos de criação de peixes.
+639.3.041	Incubação.
+639.3.041.1	Incubação natural.
+639.3.041.2	Incubação artificial. Inclusive Aparelho de
+incubação.
+      → 626.884 Equipamento de incubação. Incubadoras
+639.3.043	Alimentação, nutrição de peixes. Alimentos dos peixes.
+639.3.043.13	Alimentação, ração controlada.
+639.3.043.14	Engorda.
+639.3.043.2	Alimentos. Dietas.
+639.3.045	Aclimatação, adaptação do peixe (de água doce para marinha e vice-versa).
+639.3.05	Questões gerais sobre criação de peixes.
+      639.3.05 dividido como 639.1.05
+639.3.06	Instalações e equipamento para
+criação de peixes.
+639.3.07	Organização e administração de estações de
+piscicultura.
+639.3.09	Doenças dos peixes. Pragas, inimigos
+dos peixes.
+639.3.09 dividido como 639.1.09 
+Divisões principais
+639.31	Piscicultura de água doce.
+639.311	Piscicultura em açudes.
+          → 626.886 Lagos de peixes (para determinadas espécies)
+639.312	Piscicultura em lagos.
+639.313	Piscicultura em água corrente. Inclusive Povoamento de rios.
+639.32	Criação de peixes em água do mar e águas
+salobras. Povoamento de regiões
+marinhas.
+639.33	Armazenamento e transporte de peixe vivo
+em geral. Tanques, aquários d e peixe.
+639.34	Criação de peixes ornamentais. Inclusive
+Peixes dourados. Peixes tropicais.
+      → 636.045 Animais de estimação em geral. Animais mantidos para fazer companhia ou decoração. Animais 
+                   domésticos, mascotes, etc. (p.ex., pombas; cães de companhia, de estimação; gatos de estimação)
+639.37	Cultura de determinados tipos de peixe. Produtos da piscicultura em geral.
+639.371/.374	Tipos específicos de peixes e mamíferos marinhos.
+639.371/.374 dividido como 639.2l/.24
+639.38	Produtos diversos de peixes e outros animais marinhos.
+      → 637’8 Produtos de peixes e outros animais aquáticos
+	             → 637.5’848 Carne de tartaruga marinha e produtos derivados
+	          → 637.56 Carne de peixe, crustáceos (frutos do mar), etc.
+639.381	Carne e gordura em geral. Inclusive Gordura. Óleo, p. ex., óleo de fígado de
+peixe.
+      → 665.213/.215
+639.382	Ovas de peixe. Caviar.
+639.383	Osso de baleia.
+639.385	Escamas de peixe.
+639.386	Peles de peixe e outras animais marinhos. Couros de baleia, foca, etc. Bexigas natatórias. Caudas e barbatanas.
+          → 637.61 Peles. Couros. Conchas
+639.387	Ossos de peixe.
+639.388	Âmbar.
+          → 665.529.2 Âmbar
+639.389	Outros produtos. Inclusive Dentes de peixes e mamíferos marinhos.
+639.4	Criação de moluscos aquáticos (frutos do mar).
+          Para moluscos aquáticos que são crustáceos,  ver 639.5 
+Subdivisões auxiliares especiais
+639.4.03	Processos reprodutivos. Propagação.
+639.4.03 dividido como 639.3.03
+639.4.04	Métodos de criação.
+639.4.04 dividido como 639.3.04
+639.4.05	Questões gerais sobre a criação de moluscos aquáticos.
+639.4.05 dividido como 639.1.05
+639.4.06	Locais (parques de cultura) e instalações. Recipientes para criação.
+639.4.061	Locais naturais.
+639.4.062	Locais para desova e propagação.
+Lugares de coleta.
+639.4.063	Locais de criação. Criadouros.
+639.4.064	Locais para engorda e coloração.
+639.4.09	Doenças dos moluscos aquáticos. Pragas,
+inimigos dos moluscos aquáticos.
+639.4.09 dividido como 639.1.09 
+Divisões principais
+639.41	Cultura de ostras (e outras fontes de pérola).
+639.411	Ostras.
+639.412	Ostras de pérola. Mexilhões perlíferos.
+639.42	Cultura de mexilhões. Mexilhões comestíveis.
+639.44	Cultura de outros moluscos aquáticos (bivalves comestíveis). Inclusive Amêijoas. Vieiras. Pentéolas.
+639.45	Cultura de gastrópodes marinhos. Inclusive Búzios.
+639.5	Criação de crustáceos, ouriços-do-mar, sanguessugas, etc.
+639.5.03/.04 dividido como 639.3.03/.04 
+639.5.05 dividido como 639.1.05 
+639.5.06 dividido como 639.4.06 
+639.5.09 dividido como 639.1.09
+639.51	Criação de crustáceos aquáticos.
+639.512	Camarões.
+639.515	Lagostins (Loricata).
+639.516	Lagosta.
+639.517	Lagostins de água doce (Astacura).
+639.518	Caranguejos comestíveis.
+639.519	Outros caranguejos.  Inclusive Caranguejo-
+amarelo. Caranguejo-verdadeiro.
+Caranguejos terrestres.
+639.53	Criação de ouriços do ma r.
+639.54	Criação de sanguessugas.
+      → 636.99:595.143 Hirudíneos. Sanguessugas
+639.55	Criação de ouriços-do-mar.
+639.56	Vermes marinhos das famílias dos
+eunicídeos e nereidas. Vermes Palolo
+(Ásia oriental e Japão).
+639.6	Outros produtos de origem
+marinha.
+639.61	Esponjas.
+639.62	Coral.
+      → 679.93 Corais
+639.63	Outros produtos animais.
+639.64	Plantas marinhas. Algas.
+      → 633.529.3 Fibras de plantas aquáticas. Fibras marinhas
+
+
+
+1
+
+
