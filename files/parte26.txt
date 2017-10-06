@@ -1,0 +1,3920 @@
+﻿661.83	    Compostos de álcalis e metais.
+→ 661.3 
+661.832	Compostos de potássio em geral. Indústria do potássio.
+     Exemplo(s) de combinação(ões):
+ 661.832.’043 Nitrato de potássio (nitro, salitre)
+                                           661.332 Carbonato de potássio. Potassa
+ 661.342 Hidróxido de potássio (potassa cáustica)
+661.833	Compostos de sódio.
+Exemplo(s) de combinação(ões):
+661.833.’032.1 Cloreto do sódio. Sal-gema (halita)
+→ 661.333Carbonato de sódio. Soda calcinada. Soda em geral
+→ 661.336 Hidrocarbonato de sódio (bicarbonato)
+→ 661.343 Hidróxido de sódio (soda cáustica) 
+→ 661.652 Tetraborato bissódico (borato de sódio, bórax)
+→ 661.683 Silicatos de sódio e de potássio. Vidro solúvel
+→ 664.41 Sal comestível (cloreto de sódio)
+661.834	Compostos de lítio.
+661.835	Compostos de rubídio.
+661.836	Compostos de césio.
+661.84	Compostos de metais do grupo II.
+661.841	Generalidades sobre metais de terras
+alcalinas.
+661.842	Compostos de cálcio.
+661.843	Compostos de estrôncio.
+661.844	Compostos de bário.
+661.845	Compostos de berílio.
+661.846	Compostos de magnésio.
+661.847	Compostos de zinco.
+Exemplo(s) de combinação(ões):
+661.84 7.2 Óxidos de zinco 
+661.847.22 Branco de zinco 
+661.847.22.002.68 Oxido de zinco cinzento (como resíduo da branco de zinco). Cinzento de zinco. Cinzento pérola 661.847.27 Zincatos 
+661.847.277.3 Verde de cobalto 
+661.847.511 Sulfeto de zinco. Litopônio. Sulfopônio 
+661.847.532 Sulfato de zinco. Vitríolo branco
+661.848	Compostos de cádmio,
+661.849	Compostos de mercúrio.
+Exemplo(s) de combinação(ões):
+661.849.51 l Sulfeto de mercúrio. Cinabre
+661.85	Compostos de chumbo, cobre, prata e ouro.
+661.852	Compostas de chumbo.
+Exemplo(s) de combinação(ões):
+       661.852.22 Óxidos de chumbo (de 661.8’022, subdividido aqui)
+661.852.221	Massicote. Chumbo amarelo. Oxido de chumbo amorfo ou derretido
+661.852.222	Litargírio, Óxido de chumbo cristalino
+661.852.223	Litargírio de prata
+661.852.224	Chumbo vermelho (mínio). Óxido de chumbo puro.
+661.852.62 Compostos orgânicos de chumbo (de 661.8’062, subdividido aqui)
+661.852.622.8 Carbonato de chumbo básico. Branco de chumbo. Cerusita.
+661.856	Compostos de cobre.
+661.857	Compostos de prata.
+661.859	Compostos de ouro.
+661.86	Compostos de alumínio. Compostos de terras raras.
+661.862	Compostos de alumínio.
+Exemplo(s) de combinação(ões):
+      661.862.27 Aluminatos
+      → 669.712.3 Processos eletrotérmicos. Processos que envolvem outros compostos, exceto os aluminatos ou
+     sais de alumínio como produtos intermediários (p. ex., nitretos, carburetos, sulfetos).
+661.863/.868            Compostos de terras-raras. Compostos de escândio, ítrio, gálio, índio, etc..
+661.863.1	Compostos de escândio.
+661.864.l                Compostos de ítrio.
+661.865	Compostos de terras-raras em geral.
+661.865.4	 Compostos de lantânio.
+661.865.5	 Compostos de cério.
+661.865.6	Compostos de praseodímio.
+661.865.7	Compostos de neodímio.
+661.865.8	Compostos de promécio.
+661.865.9	Compostos de samário.
+661.866.l	Compostos de európio.
+661.866.2	Compostos de gadolínio.
+661.866.3	Compostos de térbio.
+661.866.4	Compostos de disprósio.
+661.866.5	Compostos de hólmio.
+661.866.6	Compostos de érbio.
+661.866.7	Compostos de túlio.
+661.866.8	Compostos de itérbio.
+661.866.9	Compostos de lutécio.
+661.868.1	Compostos de gálio.
+661.868.2	Compostos de índio.
+661.868.3	Compostos de tálio.
+661.87	Compostos do grupo do manganês.
+compostos do grupo do ferro e compostos de metais do grupo VI.
+661.871	Compostos de manganês.
+661.872	Compostos de ferro.
+Exemplo(s) de combinação(ões):
+661.872’.02 Óxidos de ferro em geral
+661.872’.022 Óxido de ferro. NOTA: (derivado de 661.8’022, subdivido mais ainda aqui)
+661.872.22-12 Óxido de ferro (II) (óxido ferroso) 
+        661.872.22-13 Óxido de ferro (III) (óxido férrico) 
+661.872.222. l Óxido de ferro natural vermelho. Hematita. Ocre vermelho.
+Terra-de-siena (giz vermelho, almagre) 
+661.872.222.3 Óxidos de ferro sintéticos vermelhos. Vermelho-inglês. Vermelho-
+veneziano. Vermelho-de-pompéia. Vermelho-de-nápoles. Vermelho-
+indiano. Vermelho-japonês. Vermelho-chinês
+661.872.223	Óxido de fero amarelo. Ocre amarelo
+661.872.224	Óxido de ferro negro. Negro de ferro
+661.872.225	Outros óxidos de ferro. Umbra
+661.872.23	Hidróxidos de ferro
+661.872.371 Cianeto de ferro
+661.872.371.9 Cianetos complexos
+661.872.371.941 Ferrocianeto de cálcio
+661.872.532-12 Sulfato ferroso. Vitríolo verde. Caparrosa verde. 
+661.872.532.9 Sulfatos complexos. Alume de ferro
+661.873	Compostos de cobalto.
+661.874	Compostos de níquel.
+661.875	Compostos de cromo.
+Exemplo(s) de combinação(ões):
+      661.875.2 Óxidos de cromo 
+      661.875.271 Ácido crômico
+661.877	Compostos de molibdênio.
+661.878	Compostos de tungstênio.
+661.879	Compostos de elementos radiativos.
+661.879.l	Compostos de urânio.
+661.879.2	Compostos de rádio.
+661.879.93	Compostos de netúnio.
+661.879.94	Compostos de plutônio.
+661.88	Compostos de metais do grupo IV e grupo V.
+661.881	Compostos de estanho.
+661.882	Compostos de titânio.
+Exemplo(s) de combinação(ões):
+661.882.22-13 Sesquióxido de titânio 
+661.882.22-14 Dióxido de titânio. Branco de titânio
+661.883	Compostos de zircônio e hífnio.
+661.883.1	Compostos de zircônio.
+661.883.2	Compostos de háfnio.
+661.884	Compostos de tório.
+661.884.l	Tório recuperado (isolado) dos compostos dos
+elementos radiativos. Mesotório.
+661.886	Compostos de antimônio.
+661.887	Com postos de bismuto.
+661.888	Compostos de vanádio, nióbio e tântalo.
+661.888.1	Compostos de vanádio.
+661.888.2	Compostos de nióbio.
+661.888.3	Compostos de tântalo.
+661.89	Compostos de metais dos grupos da
+platina e do rutênio.
+661.892	Com postos de platina.
+661.893	Compostos de irídio.
+661.894	Com postos de ósmio.
+661.896	Compostos de rutênio.
+661.897	Compostos de ródio.
+661.898	Compostos de paládio.
+661.9		Produção de gases.
+      → 66.07 Tecnologia química dos gases
+      → 662.76 Combustíveis gasosos. Gasogênios
+661.91	Gases comprimidos, liquefeitos e
+solidificados em geral.
+Exemplo(s) de combinação(ões):
+      661.91-403.3 Gases comprimidos 
+      661.91-404 Gases liquefeitos 
+      661.91-405 Gases solidificados
+      → 621.51Compressão e impulsão do ar e de outros gases. Compressores. Ventoinha de alta pressão.
+      → 621.59 Aparelhos para produção de temperaturas extremamente baixas. Equipamento criogênico.
+       Liquefação de gases (e processos afins)
+661.92	Ar atmosférico.
+661.93	Produção de oxigênio, nitrogênio e gases
+inertes (raros).
+661.937	Oxigênio.
+661.937.1	Misturas ricas em oxigênio. Ar rico em
+oxigênio.
+661.937.2	Oxigênio puro.
+661.937.6	Produção de oxigênio a partir de compostos
+químicos.
+661.938	Nitrogênio.
+661.939	Gases inertes (gases raros).
+661.939 dividido como 546.29
+661.94	Ozônio.
+661.96	Hidrogênio.
+661.968	Hidretos em geral.
+		      → 661.8’039 Hidreto
+661.97	Produção de óxidos de carbono, ácido
+carbônico, fosgênio.
+661.974	Ácido carbônico.
+661.975	Dióxido carbônico (II) (Monóxido de
+carbono).
+661.977	Fosgênio.
+661.98	Óxidos de nitrogênio.
+661.981	Hemióxido nítrico (óxido nitroso, gás
+hilariante).
+661.982	Óxido nítrico.
+661.984	Dióxido de nitrogênio (tetróxido de
+nitrogênio).
+661.986	Cloreto de nitrosila.
+661.99	Produção de outros gases.
+
+662 Explosivos. Combustíveis
+
+662.1/.4	Explosivos.
+      → 622.235 Explosão. Explosivos
+      → 623.45 Munição. Dispositivos pirotécnicos. Armas atômicas (nucleares), biológicas (bacterianas),
+      químicas
+662.1	Fogos de artifício. Pirotecnia e dispositivos pirotécnicos.
+→ 623.4.083.3 Cargas pirotécnicas
+662.11	Fogos de artifício para espetáculos.
+662.111	Componentes pirotécnicos. Inclusive Estopins, mechas, espoletas para fogos de artifício. Cargas (que produzem 
+		luz, cor, 
+                                 estampidos, assobios).
+662.112	Clarões fixos. Chuveiros, fontes luminosas, etc. Fogos-de-bengala.
+662.113	Fogos de artifício que produzem ruído e luz. Inclusive Bombas. Traques. Busca-pés. Velas romanas. Chuvas de fogo. 
+                                 Estrelinhas. Fogos de artifício para interior.
+662.114	Fogos de artifício voadores. Inclusive Foguetes. Dragões voadores.
+662.115	Fogos de artifício giratórios, em redemoinho. Inclusive Girândolas, Rodas de fogo.
+662.116	Espetáculos de fogos de artifício. Mosaicos, quadros luminosos, cascatas pirotécnicas, etc.
+662.12	Dispositivos pirotécnicos de sinalização. Foguetes de sinalização. Equipamento para
+sinais luminosos.
+→ 654.912 Métodos de produção de efeito ópticos
+662.122	Sinais de estrela. Luzes de Very.
+662.123	Foguetes de sinalização.
+662.124	Clarões, magnésio para iluminação
+fotográfica.
+→771.448.2 Pós de flash (magnésio, alumínio, etc.)
+662.126	Tochas, archotes como sinais.
+→ 628.9.045 Tochas. Archotes. Velas
+→ 665.194 Tochas (archotes)
+662.13	Dispositivos pirotécnicos para salvamento. Inclusive Dispositivos pirotécnicos para bóias de salvamento.
+662.14	Dispositivos e substâncias incendiárias.
+→ 623.454.72 Dispositivos incendiários. Inclusive Archotes. fogo-grego.
+662.15	Dispositivos de explosão, de demolição. Inclusive Petardos. Cartuchos explosivos.
+662.16	Fogos de artifício com desprendimento de gás. Gases de combate.
+662.161	Fogos de artifício e equipamento com desprendimento de gás; p. ex., para uso policial.
+662.164	Produção de gases de guerra.
+→ 623.459 Armas químicas. Gases de guerra (gases tóxicos): detecção, proteção, 
+descontaminação
+662.164.l	Gases de guerra inorgânicos.
+      Especificar por meio de :546...
+662.164.2	Gases de guerra orgânicos.
+      Especificar por meio de :547...
+662.17	Dispositivos geradores de fumaça
+(produtores de fumaça, neblina, cerração).
+→ 623.454.5 Fumaça Geradores de fumaça
+→ 623.775 Nevoeiro artificial. Cortina de fumaça
+→ 631.348 Máquinas e equipamento para proteção das plantas
+662.18	Fogos de artifício especiais para uso em
+ambientes internos. Inclusive Fogos e clarões pora uso em palcos, no teatro.
+662.19	Outros tipos de fogos de artifício.
+662.2	Explosivos de alta potência.
+→ 622.235Explosão. Explosivos
+→ 623.45 Munição. Dispositivos pirotécnicos. Armas atômicas (nucleares), biológicas (bacterianas), 
+químicas 
+Subdivisões auxiliares especiais
+662.2-3	Misturas de explosivos de alta potência.
+	      Os auxiliares 62-3... não são aplicáveis em 662.2 e suas subdivisões
+662.2-31/-38	Misturas explosivas com substâncias orgânicas.
+662.2-31/-38 dividido como 662.231/.238
+662.2-39	Misturas explosivas com substâncias
+inorgânicas e diversas outras inativas.
+662.2-391	Misturas com nitratos.
+662.2-392	Misturas com cloratos-
+662.2-393	Misturas com percloratos.
+662.2-395	Misturas explosivas com azidas (p. ex., azida de
+chumbo).
+662.2-397	Misturas explosivas com substâncias
+inorgânicas ativas. Inclusive Misturas com pó de metal, p. ex., alumínio.
+662.2-398	Misturas explosivas com substâncias inativas. Inclusive Kieselguhr (farinha fóssil, diatomito poroso).
+662.2.03	Processos de produção.
+662.2.032	Nitração.
+662.2.033	Lavagem. Secagem. Separação, remoção de
+                                         ácidos.
+662.2.034	Recuperação e tratamento de ácidos residuais e
+                                         subprodutos.
+662.2.035	Pulverização. Moedura, trituração.
+662.2.036	Mistura. Amassadura. Rolamento. Prensagem.
+                                       Moldagem. Fundição. Estabilização.
+662.2.037	Corte. Fatiamento.
+662.2.038	Tratamento da superfície. Impregnação.
+                                       Parafinação (enceramento).
+662.2.099	Acabamento. Inclusive Granulação. Polimento. Grafitização. Secagem. Remoção de poeira. 
+Divisões principais
+662.21	Modo de ação e propriedades dos explosivos de alta potência.
+662.215	Propriedades físicas e seus testes.
+662.215.1	Combustão de explosivos. Inclusive Deflagração. Detonação.
+662.215.2	Desempenho. Eficiência. Rendimento explosivo. Inclusive Teste com bloco de chumbo. Teste com placa de chumbo. Pressão 
+	explosiva. Potência de explosividade. Efeito de estraçalhamento ou fragmentação.
+662.215.3	Densidade da carga explosiva.
+662.215.4	Iniciação da detonação.
+662.215.5	Sensibilidade à percussão, ao impacto.
+Sensibilidade ao atrito.
+662.216	Propriedades químicas e seus testes.
+662.216.1	Estabilidade química de explosivos.
+662.216.2	Higroscopicidade de explosivos.
+662.216.3	Produtos da combustão de explosivos. Inclusive
+Gases de explosão: quantidade e composição. Resíduos da combustão.
+662.216.4	Calor da combustão de explosivos.
+662.216.5	Temperatura de ignição de explosivos.
+662.216.6	Combustão retardada de explosivos.
+662.22	Explosivos de alta potência derivados de
+substâncias inorgânicas. Misturas de
+substâncias inertes em temperaturas
+normais.
+662.221	Pós explosivos que contêm nitratos.
+662.221.l	Pólvora negra. Pólvora comum de explosão.
+	       Para pólvora utilizada como propelente,  ver 662.33
+	      → 662.24 Explosivos de segurança, permitidos para uso em minas
+662.221.2	Pólvoras nitratadas nas quais um ou mais
+componentes da pólvora negra comum foram substituídos por outras substâncias.
+662.221.21	Com salitre (nitrato de potássio) substituído. Inclusive Substituição por nitrato de sódio, nitrato de amônio.
+662.221.22	Com enxofre substituído. Inclusive Pólvoras de xantato de potássio.
+662.221.23	Com carvão substituído. Inclusive Por farelo, açúcar.
+662.221.3	Pólvora negra com aditivos. Inclusive Com hidrocarbonetos ou carboidratos.
+662.221.4	Explosivos de nitrato de amônio.
+→ 661.525 Nitrato de amônio. Salitre de amônia
+662.222	Pólvoras baseadas em cloratos ou
+percloratos.
+662.222.1	Pós explosivos que contêm cloratos.
+662.222.2	Pós explosivos que contêm percloratos.
+662.23	Explosivos de alta potência derivados de
+substâncias orgânicas.
+662.231	Carboidratos nitrados.
+662.231.21	Nitrocelulose. Algodão-pólvora (piroxilina).
+662.231.23	Misturas explosivas com nitrocelulose como
+elemento constitutivo principal. Inclusive Misturas de nitrocelulose com pólvora negra.
+662.231.3	Nitrocelulose extraída de diversas matérias-primas. Inclusive De celulose de madeira. De algodão.
+662.232	Álcoois e éteres alifáticos nitrados.
+662.232.1	Nitroglicerina em geral.
+662.232.2	Dinamite. Inclusive Dinamite comum, com kieselguhr. Dinamite com aditivos ativos.
+662.232.4	Glicóis nitrados.
+662.232.5	Tetranitrato de pentaeritritol.
+662.232.6	Trinitratode nitroisobutilgliceril.
+662.232.7	Cloridrinas nitradas.
+662.233	Gelatinas explosivas. Gelinhita.
+662.233.1	Misturas de nitroglicerina e nitrocelulose (sem
+outras substâncias ativas).
+662.233.2	Misturas de nitroglicerina e nitrocelulose com
+outras substâncias ativas (p. ex., com adição de
+nitrato de amônio).
+662.234	Outros nitroderivados alifáticos. Inclusive Nitrometano. Aldeídos e cetonas alifáticos nitrados. Ácidos alifáticos nitrados. 
+	Aminas alifâticas nitradas.
+662.235	Fenóis e álcoois aromáticos nitrados. Ácido pícrico e seus derivados. Inclusive Picratos.
+662.235.1	Ácido pícrico.
+662.235.2	Misturas de ácido pícrico com outras
+substâncias.
+662.235.3	Picratos.
+662.235.5	Fenóis nitrados (nitrofenóis).
+662.235.8	Álcoois aromáticos nitrados.
+662.236	Compostos aromáticos nitrados diversos.
+662.236.5	Sulfetos nitrados. Inclusive Sulfeto de hexanitrodifenil.
+662.236.7	Aminas aromáticas nitradas. Inclusive Hexanitrodifenilamina. Tetranitrometilanilina (tetril).
+662.237	Hidrocarbonetos aromáticos nitrados. Inclusive Derivados nitrados de alcatrão de carvão.
+662.237.2	Nitronaftaleno.
+662.237.3	Trinitrotolueno (TNT).
+662.237.5	Nitrobenzeno e seus derivados.
+662.238	Compostos heterociclicos nitrados.
+662.238.l	Trinitramina de ciclotrimetileno (RDX,
+Hexogênio, ciclonita).
+662.238.3	Álcoois heterocíclicos nitrados.
+662.24	Explosivos de segurança, permitidos para
+uso em minas.
+→ 662.235 Explosão. Explosivos
+→ 662.221.1 Pólvora negra. Pólvora comum de explosão
+662.241	Explosivos de segurança parecidos com a
+pólvora negra.
+662.242	Explosivos de segurança baseados em nitrato
+de amônio.
+662.243	Explosivos de segurança com baixo teor de
+gelatina.
+662.244	Explosivos de segurança com alto teor de
+gelatina.
+662.245	Explosivos de segurança com bainha
+protetora.
+662.25	Explosivos formados no momento de seu
+uso. Explosivos especiais com elementos
+líquidos ou gasosos.
+662.251	Explosivos do tipo Sprengel.
+662.251.l	Explosivos Sprengel com elementos sólidos.
+662.251.2	Explosivos Sprengel com elementos líquidos. Inclusive Com ácido nítríco, ácido pícrico, dissulfeto de carbono, benzeno, 
+	nitrobenzeno.
+662.252	Explosivos de segurança com elementos gasosos. Inclusive Com dióxido de nitrogênio, oxigênio líquido, ar líquido.
+662.3	Pólvoras propulsoras. Pólvoras
+para armas de fogo.
+662.31	Propriedades especiais da pólvora para
+armas de fogo.
+662.311	Propriedades físicas e seus testes.
+      → 531.5 Gravidade. Gravitação. Pêndulos. Balística
+      → 623.5 Balística. Gravitação. Problemas teóricos e experimentais
+662.311.1	Combustão de propelentes. Inclusive Pólvoras demolidoras ou estilhaçadoras. Pólvoras de ação progressiva.
+662.311.2	Desempenho. Eficiência.
+662.311.3	Densidade da carga propelente.
+662.311.4	Inflamabilidade, capacidade de ignição dos
+propelentes.
+662.311.5	Sensibilidade à percussão, ao impacto.
+Sensibilidade ao atrito.
+662.312	 Propriedades químicas e seus testes.
+662.312.l	 Estabilidade química dos propelentes.
+662.312.2	Higroscopicidade dos propelentes.
+662.312.3	Produtos de combustão de propelentes. Inclusive Gás de explosão: quantidade e composição. Resíduos da combustão.
+662.312.4	Calor de combustão de propelentes.
+662.312.5	Temperatura de ignição de cargas propelentes.
+662.312.6	Ação retardada de propelentes. Clarão na boca da arma.
+662.313	Propriedades mecânicas e seus testes. Inclusive Tamanho e forma de partículas.
+662.32	Tipos primitivos de pólvora.
+662.33	Pólvora negra. Pólvora comum de armas.
+Pólvora para canhões e mosquetes.
+→ 662.221.1 Pólvora negra. Pólvora comum de explosão
+662.34	Pólvoras diversas para armas semelhantes
+à pólvora negra com componentes
+inorgânicos.
+662.341	Pólvoras que contêm nitratos. Inclusive Amônia.
+→ 661.525 Nitrato de amônio. Salitre de amônia
+662.342	Pólvoras que contêm cloratos.
+662.343	Pólvoras que contêm percloratos.
+662.35	Pólvoras propelentes sem fumaça.
+662.351	Pólvoras sem fumaça, à base de
+nitrocelulose. Inclusive Algodão-pólvora (piroxilína).
+662.351.6	Nitrocelulose com aditivos para reduzir o clarão
+na boca da arma.
+662.352	Pólvoras de nitroglicerina sem fumaça.
+Pólvoras de nitrocelulose e nitroglicerina
+sem fumaça. Cordite.
+662.352.6	Pólvora de nitroglicerina com aditivos para
+reduzir o clarão na boca da arma.
+662.353	Pólvoras de nitrocelulose sem fumaça com
+outros explosivos. Inclusive Com nitrobenzeno. Com nitronaftaleno.
+662.4	Iniciadores, estopins para
+explosivos. Detonadores.
+662.41	Iniciadores: substâncias ignificadas por
+chama, fricção ou percussão para iniciar
+uma explosão.
+662.411	Propriedades especiais dos iniciadores. Inclusive Sensibilidade à percussão, impacto. Sensibilidade à fricção. Sensibili
+                                   ao calor.
+662.412	Fulminatos. Inclusive Fulminato de prata. Fulminato de mercúrio..
+662.413	Azidas. Inclusive Azida de prata. Azida de chumbo.
+662.414	Compostos detonantes diversos. Inclusive Estifnato de chumbo. Tetrazeno
+662.415	Composições de iniciadores. Misturas
+escorvadoras. Inclusive Composições baseadas em fulminatos, azidas, etc.
+662.42	Dispositivos escorvadores. Inclusive Cápsulas de percussão, Ignitores.
+	      → 623.454.2 Dispositivos de ignição
+662.421	Dispositivos escorvadores operados mecanicamente.
+662.421.1	Escorvadores de fricção. Inclusive Cápsulas tubos, ignitores de fricção.
+662.421.2	Escorvadores de percussão. Cápsulas de percussão.
+662.421.21	Cápsulas de papel, espoletas (p. ex,.para revólveres de brinquedo)
+      → 623.447 Armas de teatro e de brinquedo. Dispositivos inofensivos, com carga de festim
+662.421.22	Cápsulas de metal.
+662.422	Dispositivos químicos de escorvação.
+Escorvadores químicos.
+662.423	Dispositivos elétricos de escorvação. Inclusive Escorvadores de fagulha, filamento e arco.
+	      → 623.032.4 Dispositivos de regulagem. Dispositivos de ignição. Aquecimento. Resfriamento
+662.43	Detonadores para explosivos de alta
+potência.
+662.44	Tubos de disparo para armas de fogo.
+662.45	Estopins de corda. Espoletas de cordão.
+→ 623.454.1 Mechas, estopins. Detonadores do tipo cordel
+662.451	Espoletas de queima rápida.
+662.452	Espoletas de queima lenta. Espoletas de
+segurança.
+662.46	Espoletas detonadoras.
+662.47	Espoletas de projétil. Espoletas para
+                                   granadas, etc.
+662.471	Espoletas de madeira com retardamento.
+662.472	Espoletas de metal com retardamento.
+Espoletas perfuradas. Espoletas de encaixe.
+Condutos para corda de detonação.
+662.473	Espoletas de percussão. Espoletas de
+impacto.
+662.474	Espoletas combinadas. Cápsulas de disparo
+de i m pacto.
+662.48	Dispositivos de disparo. Mecanismos de
+disparo.
+662.481	Dispositivos de disparo com reação química.
+662.482	Dispositivos mecânicos de disparo.
+Mecanismos de disparo.
+662.5	Ignitores. Escorvas. Fósforos.
+Isqueiros.
+662.51	Métodos primitivos de produzir fogo,
+chama. Inclusive Acendedores de fricção de madeira. Dispositivos com pedras de, sílex. Caixas de iscas. Pederneiras.
+662.52	Acendedores diversos. Inclusive Acendedores com ar (seringas de fogo), com hidrogênio, com estopins detonantes.
+662.53	Palitos de acender, de fazer fogo.
+→ 661.63 Produção de fósforo e seus compostos. Indústria do fósforo em geral
+Subdivisões auxiliares especiais
+662.53.03	Matérias-primas.
+662.53.031	Madeira e outros materiais para palitos de
+acender.
+662.53.035	Substâncias inflamáveis para cabeças de palitos de acender.
+662.53.036	Substâncias para impregnação de palitos de acender.
+662.53.05	Processos e equipamento para fabricação de
+palitos de acender.
+662.53.052	Máquinas para cortar os palitos e inseri-los nos portadores das máquinas.
+662.53.053	Métodos e equipamento para inserção dos palitos em transportadores ou chassis.
+662.53.054	Impregnação dos palitos de acender. Inclusive Coloração. Imersão. Parafinagem. Secagem.
+662.53.055	Correias, bandejas de transporte, etc, para palitos de acender.
+662.53.056	Separação e distribuição dos palitos.
+662.53.057	Dispositivos para enchimento de caixas de palitos de acender.
+662.53.058	Dispositivos para imprimir e selar as caixas.
+Divisões principais
+662.531	Fósforos de enxofre. Pastas pirofóricas.
+662.532	Palitos de fósforo. Inclusive Palitos de madeira com cabeça de fósforo, fósforos de segurança. Fósforos de cera. Fósforos 
+                                 de papel.
+662.533	Palitos de acender não-fosforosos.
+662534	Fósforos sem cabeça.
+662.536	Lixas e caixas de fósforos e cartelas (com
+lixas de atrito).
+662.536.l	Lixas de fricção para acender palitos.
+662.536.2	Caixas de fósforos. Cartelas de fósforos.
+→ 688.94 Caixas de fósforos. Recipientes para fósforos
+662.58	Dispositivos para auxiliar a ignição, para
+promover a combustão. Isqueiros.
+Acendedores de fogo. Ignígeros.
+662.581	Acendedores de combustível sólido.
+Subdivisões auxiliares especiais
+662.581.05	Processos e equipamento para manufatura de acendedores, isqueiros.
+662.581.05 dividido como 662.8.05 
+Divisões principais
+662.582	Acendedores de combustível líquido.
+662.584                   Acendedores com metais ou ligas
+pirofóricas. Inclusive Produtores de faísca por atrito.
+662.59	Outros dispositivos para produzir fogo.
+→ 683.88 Dispositivos de ignição e apagamento da chama 
+→ 683.98 Acessórios para aparelhos de aquecimento 
+662.591	Acendedores que utilizam o calor solar.
+Lentes de aumento, lupas.
+→ 681.722 Ampliadoras
+662.592	Outros acendedores não-elétricos. Inclusive Isqueiros de charuto e cigarro. Isqueiros de sílex (com ou sem abasteci mento de 
+                                     combustível).
+662.593	Acendedores elétricos. Inclusive Com faísca, filamento ou arco de ignição elétricos.
+662.6/.9	Economia de calor. Economia de
+combustível. Combustíveis. Aquecimento. Calefação.
+→ 536 Aquecimento. Termodinâmica
+→ 62-6 Características dos combustíveis e outras fontes de calor das máquinas e instalações
+→ 621.4 Máquinas térmicas (exceto máquinas a vapor)
+→ 66.04 Operações e equipamento de tratamento térmico
+662.6	Economia de calor ou de
+combustível em geral. Combustão. Combustíveis naturais.
+662.61	Combustão.
+→ 662.9 Engenharia de fornos e combustão
+662.611	Teoria da combustão.
+→ 536.46 Combustão e reações semelhantes. Chamas
+662.611.2	Relações estequiométricas na combustão.Medição e controle da combustão.
+662.611.22	Combustão completa.
+662.611.23	Combustão incompleta.
+662.611.3	Requisitos de oxigênio e de ar. Inclusive Ar em excesso.
+662.611.4	Combustão sem fumaça.
+662.612	Dinâmica da combustão.
+662.612.1	Processo de ignição.
+662.612.12	Ignição. Temperatura de ignição. Propriedades
+da ignição.
+662.612.13	Oxidação lenta. Auto-ignição.
+662.612.16	Ignição externa. Ignição por centelha
+662.612.2	Química do processo de combustão. Reações de
+combustão.
+662.612.3	Física do processo de combustão.
+662.612.31	Reações homogêneas. Combustão de gás.
+662.612.32	Reações heterogêneas. Inclusive Tempo de reação (tempo de combustão).
+662.612.5	Temperatura de combustão. Inclusive Distribuição da temperatura na chama. Distribuição da temperatura em 
+	combustíveis sólidos.
+662.613	Produtos de combustão. Resíduos de combustão.
+→ 628.477.7 Aproveitamento de cinzas, escória, coque e alcatrões residuais da gaseificação
+662.613.1	Cinza. Clínquer. Fuligem.
+662.613.11	Cinzas. Inclusive Conteúdo, composição. Ponto de fusão das cinzas.
+662.613.12	Clínquer. Escória. Resíduos da combustão que contêm combustível não-queimado. Inclusive Esvaziamento de resíduos líquidos. Recuperação, utilização, gaseificação de resíduos
+	      → 66.046.58 Escória: formação e propriedades
+662.613.13	Matéria sólida na fumaça e gases de combustão: fuligem, cinza volátil, coque volátil. Inclusive Separação. Remoção. Uso.
+	      → 628.511 Medidas contra a poeira
+662.613.4	Produtos líquidos da combustão: alcatrão. Inclusive Recuperação do alcatrão
+662.613.5	Gases e suspensões da combustão, fumaça,
+gases de chaminé.
+→ 662.96 Dissipação de fumaça. Diminuição de fumaça. Tratamento de produtos da combustão. Inclusive Composição. Ponto de condensação. Entalpia
+662.614	Equilíbrio de calor.
+→ 662.998 Isolamento e isoladores térmicos industriais. Perda de calor
+662.614.2	Calor útil. Utilização do calor. Eficiência da
+combustão. Valor calorífico.
+→ 536.66 Calor de reação. Efeitos químicos do calor. Calor de formação
+→ 62-66 Combustíveis sólidos
+662.614.4	Perdas de calor.
+662.614.42	Perdas de calor pelos produtos de combustão.
+662.614.422	Perdas de calor pelos produtos gasosos da
+combustão.
+662.614.423	Perdas de calor pela combustão incompleta
+(combustível não-queimado, etc.).
+662.614.44	Perdas de calor por condução.
+662.614.45	Perdas de calor por radiação.
+662.614.49                Outras perdas de calor. Inclusive Perdas de calor em operações de estado instável. Perdas durante 
+                               aquecimento.
+662.614.5	Remanescente do equilíbrio térmico.
+662.62	Combustíveis sólidos em geral.
+→ 662.71/.74 Combustíveis sólidos
+662.63	Madeira e outras substâncias vegetais
+como combustíveis.
+662.631	Madeiras moles como combustível.
+662.632	Madeiras duras como combustível.
+662.636	Gramíneas e seus resíduos como combustível. Inclusive Bagaço, caniços, palha como combustíveis.
+662.637	Cortiça e cascas como combustíveis.
+662.638	Resíduos de madeira, serragem como
+combustíveis.
+662.64	Turfa e linhito como combustíveis.
+662.641	Turfa como combustível.
+→ 553.97 Depósitos de turfa
+→ 622.331 Turfa
+Subdivisões auxiliares especiais
+662.641.03	Preparo. Inclusive Corte, cominuição da turfa. 
+Divisões principais
+662.641.1	Turfa de terrenos baixos pantanosos.
+662.641.2	Turfa de terrenos altos pantanosos.
+662.642	Linhito como combustível.
+→ 553.96 Depósitos de linhito
+→ 622.332 Linhita
+662.642.l	Madeira fossilizada. Linhito fibroso. Xilita.
+662.642.2	Linhito. Linhito terroso.
+662.642.3	Linhito negro.
+662.65	Combustíveis diversos de baixo teor. Inclusive Lixo como combustível. Resíduos de carvão. Esterco animal como
+                                combustível.
+→ 628.474/.477
+662.66	Carvões duros, betuminosos e antracito como combustíveis.
+Subdivisões auxiliares especiais
+662.66.016	Poder fusível do carvão.
+Divisões principais
+662.661	Carvão magro de chama alta. Carvão para
+chama de gás.
+662.662	Carvão gordo de chama alta. Carvão de gás.
+662.663	Carvão gordo propriamente dito. Carvão de
+forja.
+662.664	Carvão gordo de chama curta. Carvão de
+coque.
+662.665	Carvão magro. Carvão de antracito de
+chama curta.
+662.667	Antracito como combustível.
+662.67	Xisto betuminoso como combustível.
+662.7	Tecnologia dos combustíveis.
+Combustíveis processados.
+→ 665.6 Tecnologia de óleos minerais. Tecnologia do petróleo e produtos afins
+662.71/.74	Combustíveis sólidos.
+→ 662.62 Combustíveis sólidos em geral
+662.71	Tecnologia dos combustíveis de madeira.
+662.711	Produção de carvão vegetal em fogueiras.
+662.712	Produção do carvão vegetal em fornos.
+Destilação da madeira. Produção de alcatrão
+da madeira.
+662.715	Alcatrão de madeira e seu processamento.
+662.715.1	Alcatrão de madeira.
+662.715.7	Ácido pirolenhoso.
+662.715.8	Breu de alcatrão da madeira.
+662.73	Tecnologia do combustível de turfa, de
+linhito, de lixo, etc.
+662.731	Destilação e carbonização da turfa.
+662.732	Destilação e carbonização de linhito.
+662.734	Carbonização de lixo, resíduos.
+→ 628.474 Eliminação de resíduos por queima, incineração
+662.735	Alcatrão de turfa e seu processamento. Inclusive Breu de alcatrão de turfa.
+662.736	Alcatrão de sapropelito e seu
+processamento.
+662.737	Alcatrão de linhito e seu processamento. Inclusive Breu de linhito.
+662.739	Tecnologia de combustíveis mistos.
+662.74	Tecnologia de combustível de antracito,
+carvão betuminoso. Produção de coque.
+662.741	Carbonização de antracito a alta
+temperatura (acima de l 000 °C).
+Coqueificação a alta temperatura.
+662.741.1	Coqueificação em pilhas.
+662.741.2	Coqueificação em retortas ou fornos similares.
+662.741.3	Coqueificação em fornos especiais à alta
+temperatura. Coque metalúrgico (coque de alto-
+forno). Coque de fundição.
+662.741.31	Coqueificação em fornos sem recuperação do
+calor e sem recuperação de subprodutos.
+662.741.32	Coqueificação em fomos sem recuperação do
+calor, mas com recuperação de subprodutos
+(fornos recuperadores). Condensadores para
+recuperação de alcatrão e amônia. Fornos de
+calor perdido.
+662.741.33	Coqueificação em fornos com recuperação do
+calor, mas sem recuperação de subprodutos
+(fornos regeneradores).
+662.741.34	Coqueificação em fornos com recuperação do
+calor e dos subprodutos (fomos regeneradores e
+recuperadores).
+662.741.35	Resfriamento de coque (métodos úmidos ou
+secos). Recuperação de calor.
+662.742	Carbonização de antracito a baixa e média
+temperatura.
+Exemplo(s) de combinação(ões):
+662.742.048.3 Destilação racionada
+662.742.l	Carbonização de antracito a média temperatura
+(cerca de 700 °C).
+662.742.2	Carbonização de antracito a baixa temperatura
+(cerca de 450 °C).
+662.749	Coque. Alcatrão de carvão. Alcatrão
+mineral.
+      → 662.76 Combustíveis gasosos. Produtores de gás
+662.749.2	Coque.
+662.749.3	Alcatrão de carvão e seu processamento.
+Alcatrão de gás.
+662.749.38	Piche de alcatrão de carvão.
+662.749.39	Coque de piche.
+662.75	Combustíveis líquidos.
+662.753	Óleos minerais como combustíveis.
+→ 665.6 Tecnologia de óleos minerais. Tecnologia do petróleo e produtos afins
+662.753.1	Óleos leves.
+662.753.2	Óleos médios.
+662.753.3	Óleos pesados.
+662.754	Produtos químicos orgânicos como
+combustíveis líquidos. Inclusive Álcool, metanol como combustíveis.
+662.756	Óleos animais e vegetais como
+combustíveis.
+662.756.2	Óleos animais como combustíveis.
+662.756.3	Óleos vegetais como combustíveis. Inclusive Óleos de resina.
+662.757	Combustíveis coloidais, gelatinizados.
+662.758	Combustíveis líquidos compostos.
+Combustíveis líquidos mistos.
+662.758.2	Misturas de combustíveis líquidos apenas.
+662.758.3	Soluções de gases como combustíveis.
+662.758.4	Soluções de sólidos como combustíveis.
+662.76	Combustíveis gasosos. Gasogênios.
+→ 66.071 Mistura de gases. Separação de gases. Formação de sistema de dispersão de gases
+→ 661.9 Produção de gases
+→ 662.749 Gases
+Subdivisões auxiliares especiais
+662.76.032	Gasogênios em geral.
+662.76.034	Processos e equipamento para produção de gás com recuperação de subprodutos. Inclusive Separação de gases magros 
+                                    ricos.
+662.76.035	Processos e equipamento para gasogênios
+simples.
+662.76.036	Processos e equipamento para gasogênios
+complexos. Usinas produtoras de gás com
+gasogênios secundários.
+662.76.037	Processos e equipamento para uso de materiais
+incandescentes incombustíveis.
+662.76.075	Carburação de gases combustíveis. Meios de
+carburação. Aditivos diversos colocados nos
+gases.
+662.76.075.2	Carburação pela passagem do gás através do
+meio de carburação.
+662.76.075.3	Carburação pela atomização do meio de
+carburação.
+662. -6.0-5.3 dividido como 621.43.03
+662.76.075.4	Carburação por ação de superfície.
+662.76.075.5	Outros processos e equipamento de carburação. Inclusive Carburação com utilização de agentes sólidos.
+662.76.075.8	Materiais para carburação e odorização.
+                                    Carburantes. Aditivos diversos ao gás (p. ex.. odorizantes para alerta sobre vazamentos de gás). 
+Divisões principais
+662.761	Gás pobre, gás de gasogênio.
+662.762	Gás de mistura com água. Gás de Mond.
+662.763	Gás de água.
+662.763.1	Gás de água azul.
+662.763.2	Gás de água carburado.
+662.764	Gás da destilação do carvão. Gás de carvão.
+Gás de iluminação. Gás urbano (mistura de
+gás de carvão e gás de água). Gás bruto.
+662.764.2	Gás bruto.
+662.764.3	Gás refinado.
+662.764.7	Precipitados em canos, tubulações de gás
+(gomas, resinas, etc.). Inclusive Medidas preventivas.
+662.765	Gás obtido do processamento térmico de
+outros combustíveis sólidos ou líquidos.
+662.765.l	Gás de madeira.
+662.765.2	Gás de turfa. Gás de linhito.
+662.765.3	Gás de resina.
+662.765.4	Gás de óleo.
+662.765.5	Misturas de ar e gás. Inclusive Gás carburizado. Gás de aerogênio.
+662.766	Acetileno.
+662.766.3	Produção de acetileno pela ação da água no
+carbureto de cálcio.
+662.766.31	Geradores com adução de água em geral.
+662.766.32	Geradores sem controle automático do fluxo de
+água.
+662.766.33	Geradores com controle automático do fluxo de
+água
+662.766.34	Geradores de contato com sino.
+662.766.35	Geradores de contato com sino e separação
+entre o reservatório de carbureto e o de água.
+662.766.37	Geradores especiais de contato com sino. Inclusive Aparelho de Kipp. Geradores de acetileno do tipo imersão-
+	gotejamento.
+662.766.38	Geradores de acetileno do tipo imersão de carbureto.
+662.766.5	Processos após a geração de acetileno. Inclusive Aeração. Desaeração. Remoção e uso do óxido de cálcio do acetileno.
+662.766.6	Acetileno dissolvido. Inclusive Solução de acetileno; p. ex., em acetona. Material de enchimento para acetileno dissolvido.
+662.766.7	Misturas de acetileno com gases, exceto os hidrocarbonetos. Inclusive Misturas de oxiacetileno.
+662.767	Hidrocarbonetos gasosos diversos como
+combustíveis. Inclusive Gases naturais como combustíveis.
+	      → 665.612 Componentes gasosos do petróleo cru (inclusive gás natural)
+	      → 665.72 Gases
+662.767.1	Metano corno combustível.
+662.767.2	Biogás como combustível.
+662.767.3	Propano como combustível.
+662.767.4	Butano como combustível.
+662.767.7	Misturas de hidrocarbonetos inferiores como
+combustíveis.
+662.769	Outros gases e misturas de gases como
+combustíveis.
+662.769.1	Gás de altos-fomos como combustível.
+662.769.2	Hidrogênio como combustível. Gás detonante e
+acetaldeído como combustíveis.
+662.8	Tratamento mecânico para
+solidificação de combustíveis. Fabricação de briquetes.
+→ 622.788 Fabricação de aglomerados modelados (briquetes, pelotas, nódulos). Briquetização, pelotização, etc.
+Subdivisões auxiliares especiais
+662.8.05	Processos e equipamento para solidificação de
+combustível.
+662.8.051	Tratamento preliminar para fazer briquetes de
+combustível. Inclusive Mistura de diferentes qualidades de combustível.
+662.8.052	Fabricação de briquetes sem aglutinantes.
+662.8.053	Fabricação de briquetes com aglutinantes.
+662.8.053.2	Fabricação de briquetes com aglutinantes
+inorgânicos. Inclusive Com argila, vidro solúvel, gipsita.
+662.8.053.3	Fabricação de briquetes com aglutinantes
+orgânicos. Inclusive Com emulsões, asfalto, piche, resinas, látex.
+662.8.053.4	Fabricação de briquetes com misturas de
+aglutinantes orgânicos e inorgânicos. Inclusive Com álcool dos resíduos da celulose.
+662.8.054	Processos de mistura e empastamento.
+662.8.055	Prensagem, compactação da mistura de combustível. Formação, moldagem de briquetes.
+662.8.056	Revestimento e impregnação de briquetes. Aditivos, p. ex., para diminuição da fumaça.
+→ 662.892 Dissipadores de fumaça. Substâncias acrescentadas aos combustíveis na ocasião da combustão
+662.8.057	Tratamento final dos briquetes. Inclusive Carbonização de aglutinantes de briquetes. Secagem. Resfriamento.
+Divisões principais
+662.81	Briquetes.
+662.812	Briquetes de turfa.
+662.813	Briquetes de linhito.
+662.814	Briquetes de carvão.
+662.815	Briquetes de coque.
+662.816	Briquetes de carvão vegetal.
+662.818	Briquetes de resíduos.
+662.84	Carvão moldado. Carvão-de-paris.
+Briquetes cilíndricos, esféricos, ocos, etc.
+662.87	Combustíveis pulverulentos e
+pulverizados. Inclusive Pó de carvão como combustível.
+662.88	Impregnação. Solidificação de
+combustíveis líquidos. Briquetes de
+produtos químicos como combustíveis. Inclusive  De álcool sólido. De petróleo
+sólido. Briquetes de metaldeído.
+662.892	Dissipadores de fumaça. Substâncias
+acrescentadas aos combustíveis na ocasião
+da combustão.
+→ 662.8.056 Revestimento e impregnação de briquetes. Aditivos, p. ex., para diminuição da fumaça
+→ 662.966 Métodos para prevenção de fumaça (redução de fumaça). Combustão de fumaça. Consumo da fumaça (no sentido restrito). Dissipadores de fumaça
+662.9	Engenharia de fornos e combustão.
+→ 662.61 Combustão
+662.91	Dispositivos domésticos e pessoais de
+aquecimento em geral.
+→ 644.1 Climatização. Calefação. Ventilação. Ar-condicionado
+→ 683.9 Aparelhos de aquecimento. Estufas
+→ 697 Calefação, ventilação e ar-condicionado nas construções
+662.917	Dispositivos de aquecimento pessoal.
+Aquecimento do corpo humano ou de suas partes. Inclusive Garrafas, bolsas de água quente, etc. Objetos aquecidos, p. ex., pedras.
+662.919		Aquecimento ao ar livre. Inclusive Fornos, braseiros ao ar livre.
+662.92	Aquecimento industrial em geral.
+→ 621.18 Caldeiras a vapor. Geradores de vapor. Usina, instalações a vapor em geral. Leiaute, esquema das caldeiras, principais elementos de componentes
+→ 621.745 Fundição (fusão). Fornos, fornalhas, materiais, processos
+→ 66.042.3 Suprimento de ar, vapor e gás
+662.921	Fontes de aquecimento em geral. Inclusive Fornalhas. Câmaras de combustão. Placas de aquecimento. Superfícies de 
+                                 grelha.
+662.922	Tiragem de fornos em geral. Inclusive Tiragem natural. Chaminés: forma, estrutura, limpeza.
+662.923	Tiragem artificial, forçada (e sua regulagem).
+662.923.l	Reguladores, válvulas, etc. de tiragem.
+662.923.3	Foles. Ventoinhas.
+662.924	Dispositivos para introdução de ar e vapor.
+Umidificação.
+662.925	Pré-aquecimento do ar de combustão. Armazenamento de calor.
+→ 662.995 Armazenamento de calor em geral
+662.926	Resfriamento das paredes da câmara de
+combustão. Isolamento da câmara de
+combustão.
+→ 662,998 Isolamento e isoladores térmicos industriais. Perda de calor
+662.927	Controle da temperatura em geral.
+Reguladores de calor.
+→ 536.38 Controle de temperatura
+→ 621.316.79 Regulagem elétrica de quantidades não-elétricas, exceto o movimento
+→ 681.536.5 Sistemas de controle de temperatura. Termostatos
+662.928	Portas, pontes dos fogos e dispositivos
+conexos.
+662.929	Controle da combustão. Alimentação,
+carregamento. Remoção de cinzas e escória.
+Equipamento de foguista.
+662.93	Fornos de combustível sólido.
+662.932	Grelhas. Dispositivos de carga para fornos.
+→ 66.042.83 Grades de fornos
+662.932.l	Componentes de grelhas. Inclusive Barrotes, segmentos, etc. de grelhas. Dispositivos para remoção de cinzas e 
+	clínquer. 
+                                 Dispositivos para remoção de escória.
+	      → 66.042.86 Remoção de cinzas. Poços de cinzas. Limpeza de escória
+662.932.2	Grelhas horizontais simples.
+662.932.3	Grelhas com injeção de ar, foles, ventoinhas. Inclusive Sistema de injeção de ar sob as grelhas.
+662.932.4	Grelhas inclinadas. Grelhas em degrau.
+662.932.5	Outros tipos de grelhas fixas. Inclusive Grelhas alimentadas por baixo. Grelhas zonais. Grelhas duplas. Grelhas em 
+	cestos. 
+                                Grelhas ocas. Grelhas com resfriamento externo.
+662.932.6	Grelhas automaticamente móveis.
+662.932.61/.65       Componentes de grelhas móveis. Tipos de grelhas móveis.
+662.932.61/.65 dividido como 662.932.1/.5
+662.932.66	Grelhas basculantes. Grelhas oscilantes.
+662.932.67	Grelhas rotativas, giratórias.
+562.932.68	Grelhas de avanço. Grelhas de corrente.
+562.932.69	Outras grelhas móveis. Grelhas removíveis,
+transportáveis.
+662.932.7	Acessórios para grelhas removíveis. Inclusive Niveladores, escumadeiras. Represas de escória.
+662.932.8	Alimentação de combustível. Dispositivos de carregamento para fornos. Inclusive Alimentadores mecânicos.
+                        Alimentadores do tipo caçamba, de alimentar por cima, de alimentar por baixo.
+662.933	Fornos que utilizam combustível pulverizado.
+	      →662.87 Combustíveis pulverulentos e pulverizados
+662.933.1	Dispositivos de cominuição, pulverização
+combinados ao forno. Queimadores para
+combustível pulverizado. Câmaras de
+combustão para combustível pulverizado.
+Remoção de cinzas e clínquer. Limpeza de
+escória.
+→ 621.926 Cominuição (principalmente de materiais duros)
+662.933.2	Fomos de combustível pulverizado com
+dispersão centrifuga do combustível.
+662.933.4	Fornos de combustível pulverizado com
+dispersão do combustível por injeção.
+662.933.8	Combinações de fomos de combustível pulverizado com outros tipos (p. ex., com fomos de grelha). Fomos 
+	suplementares.
+662.936	Fornos para combustível sólido em pedaços (não pulverizado).
+      Especificar por meio de -66...
+662.939	Outros tipos de fornos de combustível sólido. Inclusive Fornos de Ten-Brink.
+662.94	Fornos de combustível líquido.
+→ 683.944 Fogões, estufas de combustível líquido
+662.941	Detalhes de construção.
+662.941.2	Queimadores de combustível líquido em geral.
+662.941.5	Dispositivos de controle, reguladores para
+fomos de combustível líquido.
+662.941.8	Dispositivos especiais para combustíveis
+viscosos e coloidais.
+662.942	Fornos de combustível líquido com dispersão
+centrífuga do combustível (e outras
+dispersões mecânicas, exceto injeção).
+662.944	Fornos de combustível líquido com dispersão
+do combustível por injeção de ar, vapor, gás.
+662.946	Queimadores de mecha.
+662.947	Fornos de combustível líquido com grande
+superfície absorvente.
+662.948	Fornos de combustível líquido com
+vaporização de combustível (antes da
+combustão).
+→ 662.951.2 Queimadores de gás em geral
+662.948.3	Dispositivos de vaporização para combustíveis
+líquidos.
+→ 621.43.03 Dispositivos de vaporização, carburação e formação de mistura
+662.949	Fornos para combustão simultânea de
+combustíveis líquidos e sólidos.
+662.95	Fornos de combustível gasoso. Fornos a
+gás.
+→ 683.945 2 Fogões, aquecedores a gás. Lareiras a gás
+662.951.2	Queimadores de gás em geral.
+→ 683.877/.878 
+662.951.22	Queimadores de gás a baixa pressão sem entrada
+de ar.
+662.951.23	Queimadores de gás a baixa pressão com injeção
+de ar.
+662.951.25	Queimadores de gás a alta pressão com injeção
+de ar.
+662.951.26	Queimadores de gás a alta pressão com injeção
+de gás.
+662.953	Fornos para gases ricos.
+662.954	Fornos para gases pobres.
+662.955	Fornos que utilizam combustível gasoso com
+combustão por estágios. Fornos
+parcialmente a gás.
+662.957	Fornos que utilizam combustível gasoso com
+recuperação de calor (fornos de regeneração e recuperação). 
+      → 662.99 Recuperação de calor. Uso de calor natural. Prevenção de perda do calor. Isolamento
+662.959.2	Fornos para combustão tanto de combustíveis
+gasosos quanto de combustíveis líquidos,
+662.959.3	Fomos de combustível gasoso e sólido.
+662.959.4	Dispositivos especiais para queimadores em
+geradores de vapor com combustão interna.
+→ 621.181.2 Caldeiras a vapor de desenho especial
+662.959.5	Fornos de combustível gasoso com recirculação
+do gás de escape. Aquecedores de gás em tambor.
+662.959.6	Fornos de combustível gasoso para combustão
+sem chama na superfície.
+662.96	Dissipação de fumaça. Diminuição de
+fumaça. Tratamento de produtos da combustão.
+→ 628.511 Medidas contra a poeira
+→662.613.5 Gases e suspensões da combustão: fumaça, gases de chaminé
+→662.8.056 Revestimento e impregnação de briquetes. Aditivos, p. ex., para diminuição da fumaça
+662.963	Depuração de emissões por lavagem.
+→ 66.074.5 Métodos de purificação de gases em geral
+662.964	Dispositivos para separar partículas sólidas
+e incandescentes na fumaça.
+662.965	Precipitação de partículas da fumaça.
+662.966	Métodos para prevenção de fumaça (redução
+de fumaça). Combustão de fumaça.
+Consumo da fumaça (no sentido restrito).
+Dissipadores de fumaça.
+→ 662.892 Dissipadores de fumaça. Substâncias acrescentadas aos combustíveis na ocasião da combustão
+662.98	Aquecimento de aparelhos e utensílios.
+Métodos diversos de aquecimento.
+→ 642.4 Aplicação de calor e frio
+→ 621.365 Geração de calor pela eletricidade. Aquecimento elétrico
+→ 621.745 Fundição (fusão). Fornos, fornalhas, materiais, processos
+→ 644.1 Climatização. Calefação. Ventilação. Ar-condicionado
+→ 683.9 Aparelhos de aquecimento. Estufas
+662.981	Dispositivos de aquecimento com combustível sólido. Inclusive Fornos, fogões, chapas de aquecimento com combustível sólido.
+662.982	Dispositivos de aquecimento com combustível líquido. Inclusive Queimadores, fogões de combustível líquido. Fogareiros a álcool
+662.983	Dispositivos de aquecimento a gás.  Inclusive Queimadores a gás. Bicos-de-bunsen.
+662.986	Aquecimento por contato direto. Inclusive Aquecimento por injeção de gás, ar, vapor quente. Aquecimento por contato
+                                com líquidos ou sólidos quentes.
+662.987	Aquecimento indireto. Meios de transferência de calor. Inclusive Banhos de água quente, banho-
+                        maria, sais derretidos, metais derretidos.
+	→ 536.24 Transferência de calor. Troca de calor. Transmissão do calor
+662.989	Aquecimento por meio de reações químicas (calor da reação).
+662.99	Recuperação de calor. Uso de calor
+natural. Prevenção de perda do calor. Isolamento térmico.
+→ 62-68 Combustíveis substitutivos. Energia recuperada. Calor, pressão secundária, residual, etc.
+→ 620.97 Utilização de outras fontes de energia. Energia residual. Recuperação da energia
+→ 621.186.8 Utilização do vapor de escape
+→ 621.577 Bombas de calor
+→ 662.957 Fornos que utilizam combustível gasoso com recuperação de calor (fornos de regeneração e recuperação)
+662.992.8	Controle e teste da combustão.
+662.992.82	Controle e teste na câmara de combustão,
+662.992.84	Controle e teste de gás de combustão, de gás
+queimado, de escape.
+662.993	Utilização de calor a partir de resíduos
+incandescentes.
+662.994	Utilização de gás de combustão.
+662.995	Armazenamento de calor em geral.
+→ 662.925 Pré-aquecimento do ar de combustão. Armazenamento de calor
+662.997	Utilização do calor de fenômenos naturais. Inclusive Utilização de energia geotérmica. Calor vulcânico. Fontes termais, 
+                                  gêiseres. Calor solar.
+      → 620.91 Recursos energéticos em geral. Fontes naturais de energia
+      → 621.472Motores que emprega a radiação do sol, a luz solar
+      → 697.329 Dispositivos de aquecimento solar. Outros aparelhos de transferência e armazenamento de calor
+662.998	Isolamento e isoladores térmicos industriais. Perda de calor.
+→ 66.045.3 Isolamento térmico
+→ 662.614 Equilíbrio de calor
+→ 662.926 Resfriamento das paredes da câmara de combustão. Isolamento da câmara de combustão
+
+663 Microbiologia industrial. Micologia industrial. Zimotecnia, indústria da fermentação. Indústria de bebidas. Indústria de estimulantes
+
+      → 178 Ética e abstinência
+      → 351.761 Controle de álcool, fumo, narcóticos. Autorização para venda de bebidas alcoólicas
+      → 579 Microbiologia
+      →613.3 Bebidas. Beberagens medicinais. Águas medicinais. Dieta líquida
+      → 613.8 Saúde e higiene do sistema nervoso. Saúde e moral
+      → 614.87 Bebidas
+663.03	Processos especiais.
+Os auxiliares 663.03... são aplicáveis apenas em 663.l/.5 
+Subdivisões auxiliares especiais
+663.031	Matérias-primas, materiais secundários e sua preparação. Inclusive Moagem. Trituração. Esmagamento. Tratamento 
+                               pela água. Tratamento a vapor.
+663.031.1	Fermentos.
+663.0 31.1 dividido como 66 3.1
+663.031.2/.4	Matérias-primas.
+663.031.2/. 4 dividido como 663.14.031.2/. 4
+663.031.8	Licores que servem de base para bebidas compostas. Inclusive  Xaropes de açúcar.
+	      → 663.812 Xarope de açúcar como base para bebidas compostas
+	      → 664.14 Processamento do açúcar. Produtos do açúcar. Doces, confeitos de açúcar
+663.032	Equipamento para preparo da pasta e do mosto
+(nos processos de fermentação e em outros processos).
+663.033	Cubas de fermentação e acessórios.
+663.035	Extração e prensagem da levedura.
+663.036	Conservação e armazenamento da levedura.
+663.05	Aditivos. Preservação. Tratamento posterior.
+Classificar aqui o uso de aditivos na indústria de bebidas em  geral.
+Os auxiliares 663.05... não são aplicáveis em 663.9 e suas subdivisões
+→ 664.8.022 Tratamento e preparo de matérias-primas para conservação de alimentos
+663.051	Aditivos para melhorar o sabor. Suplementos aromáticos.
+663.052	Aditivos para melhorar a aparência ou as propriedades físicas. Inclusive Aditivos para melhorar a viscosidade, 
+                                    a capacidade espumante.
+	      → 667.777 Coloração de alimentos
+663.053	Métodos de conservação de bebidas.
+      663.053 dividido como 664.8.03
+663.054	Diluentes para bebidas.
+663.057	Métodos e equipamento para instilar
+dióxido de carbono nas bebidas.
+Carbonatação, aeração de bebidas.
+663.058	Tratamentos posteriores diversos.
+663.058.2	Maturação, envelhecimento natural de bebidas. Inclusive Estocagem em adegas. Meios de conservação em adegas.
+663.058.3	Maturação, envelhecimento artificial de
+bebidas.
+663.058.4	Mistura de bebidas.
+663.059	Engarrafamento e tratamento final antes
+do consumo.
+→ 683.5 Fabricação de garrafas e acessórios para servir
+Divisões principais
+663.1	Indústrias microbiológicas. Ciência e técnica da microbiologia aplicada. Micologia aplicada.
+→ 577.15 Enzimas. Catalisadores das reações biológicas. Enzimologia
+→ 579.6 Microbiologia aplicada
+→ 582.23 Bactérias
+→ 582.28 Eumycetes. Fungos verdadeiros. Mofos. Micologia
+→ 637.146 Produtos de leite com culturas, fermentado, coalhado
+→ 66.098 Processos bioquímicos
+663.12	Leveduras, fermentos.
+→ 582.282.23 Saccharomycetales. Lêvedos
+663.123	Levedura para fabricação de bebidas
+fermentadas. Inclusive Leveduras de superfície e de fundo.
+663.125	Leveduras puras. Leveduras de vinho.
+663.126	Levedura de padeiro. Levedura prensada.
+663.127	Leveduras nutrientes.
+663.128	Leveduras nocivas. Inclusive Levedura apiculada. Levedura de mofo.
+663.13	Métodos e equipamento para produção das
+culturas de levedura pura.
+663.14	Fermentação de levedura.
+Subdivisões auxiliares especiais
+663.14.031	Matérias-primas (e seu tratamento).
+663.14.031.2	Compostos de carbono.
+663.14.031.3	Compostos de nitrogênio.
+663.14.031.4	Sais nutrientes (exceto os sais de nitrogênio) e
+ácidos (como aditivos ou como produtos da
+fermentação).
+663.14.036	Conservação de leveduras e licores de
+fermentação.
+663.14.038	Processos e equipamento para tratamento de
+levedura. 
+663.14.038.3            Tratamento posterior para aumentar a
+capacidade fermentativa e outras propriedades. 
+663.14.038.5            Defeitos da levedura e meios para corrigi-los. Inclusive Floculação. 
+663.14.038.7            Conversão da levedura de cervejaria e de
+destilaria em levedura de padaria.
+663.14.039.3	Fatores que afetam a fermentação. Inclusive Concentração. Acidez. Pressão. Temperatura.
+663.14.039.4	Formação de espuma.
+Divisões principais
+663.142	Processos de fermentação sem aeração. Inclusive Método vienense.
+663.143	Processos de fermentação com aeração.
+663.15	Processos de fermentação industrial.
+Produção de enzimas (exceto as
+produzidas pela levedura).
+663.15 dividido como 577.15 
+Exemplo(s) de combinação(ões):
+ 663.15:661.715 Produção de hidrocarbonetos por fermentação
+663.16	Produção de vitaminas por fermentação.
+663.16 dividido como 577.16
+663.18	Bacteriologia industrial. Processos
+diversos que usam microorganismos (micróbios).
+→ 579 Microbiologia
+663.2	Vinhos. Vinicultura. Enologia.
+→ 634.8Viticultura. Videiras. Vinhedos
+663.21	Vinhos em geral. Vinhos segundo a
+origem.
+Exemplo(s) de combinação(ões):
+      663.21(44-82) Vinhos franceses
+663.22	Vinhos especiais. Vinhos de imitação.
+663.221	Vinhos brancos.
+663.222	Vinhos rosados.
+663.223	Vinhos espumantes. Inclusive Champanhes.
+663.224	Vinhos moscatel.
+663.226                    Vinhos de passa de uva.
+663.229                    Vinhos de imitação.
+663.23                     Substitutos do vinho.
+→ 663.3 Sidra. Vinho de pêra. Vinhos de outras frutas, vinhos de seivas
+663.233	Vinhos artificiais produzidos por
+fermentação.
+663.236	Substitutos não-alcoólicos do vinho.
+Suco de uva, mosto.
+663.24	Produtos à base de vinho.
+663.241	Aguardente. Inclusive Conhaque.
+	      → 663.55 Destilação. Retificação. Tratamento de bebidas que contêm álcool
+	      → 663.83Licores
+663.242	Vinagre de vinho.
+→ 661.741.1Ácido acético (etanóico)
+663.25	Vinicultura. 
+663.251	Características e propriedades do vinho.
+663.252	Fabricação do vinho propriamente dita.
+663.252.l	Colheita da uva. Vindima. Preparo,
+armazenamento, secagem, desbagoamento da uva.
+663.252.2	Esmagamento e espremedura das uvas.
+Extração do mosto.
+663.252.3	Operações anteriores à fermentação. Inclusive Aquecimento e resfriamento do mosto. Açucaramento. Adição de álcool.
+                                   Remoção de ácido.
+663.252.4	Fermentação do vinho. Fermentos alcoólicos.
+→ 663.12 Leveduras, fermentos
+663.252.5	Trasfega, passagem do vinho de
+um tonel para outro.
+663.252.6	Prensagem (segunda prensagem).
+→ 663.26 Uso de resíduos da fabricação do vinho. Inclusive Decantação. Borras do vinho.
+663.253	Elementos constituintes do vinho. Inclusive Álcool. Açúcar. Ácidos. Ésteres.
+663.255	Equipamento e materiais de fabricação
+do vinho. Equipamento para armazenagem em adega.
+663.255.l	Dispositivos para desbagoar e descascar a uva
+(p. ex., pentes). Dispositivos para esmagar e espremer uvas. Moinhos de uva.
+663.255.2	Cubas de fermentação. Inclusive Cubas de Perret.
+663.255.3	Aparelhos para tratamento do mosto. Inclusive Aparelhos para tratamento com sulfito, para remoção, concentração 
+	do sulfito.
+663.255.4	Prensas de vinho.
+663.255.5	Bombas de vinho.
+663.255.6	Filtros de vinho.
+663.255.7	Equipamento de pasteurização. Inclusive Caldeiras, esterilizadoras de vinho.
+663.256	Conservação e armazenamento de vinho.
+663.256.l	Processos de conservação de vinho. Inclusive Pasteurização do vinho. Conservação química do vinho.
+663.256.2	Armazenamento de vinho. Vasilhames de vinho. Inclusive Cubas, pipas, tonéis, garrafas de vinho.
+663.256.27	Preparo e manutenção dos vasilhames de vinho. Inclusive Limpeza. Lavagem. Sulfurização.
+663.257	Manutenção e aprimoramento do vinho.
+663.257.1	Trasfega de vinho.
+663.257.2	Filtração de vinho.
+663.257.3	Clarificação, refino do vinho.
+663.257.4	Colagem de vinho. Tratamento do
+vinho com sulfito.
+663.258	Defeitos, deterioração, adulteração de
+vinho.
+663.258.2	Defeitos naturais do vinho.
+663.258.3	Adulteração acidental do vinho. Inclusive Defeitos do sabor. Sabor adstringente, rascante. Contaminação pelo
+                                   vasilhame. Gosto de madeira, de cortiça.
+663.258.4	Doenças do vinho. Inclusive Mofo no vinho.
+663.258.8	Adulteração (deliberada) do vinho e seu controle.
+      → 343.347 Delitos contra a saúde pública. Delitos contra os regulamentos de alimentos e medicamentos
+      → 614.3 Inspeção, fiscalização e controle sanitários
+663.26	Uso de resíduos da fabricação do vinho. Inclusive Uso de raspas, bagaços, resíduos insolúveis, borra, lia, etc. Produtos, 
+                                     p. ex., aguardente de bagaço, vinagre de bagaço.
+	      → 663.252.6 Prensagem (segunda prensagem)
+663.28	Estabelecimentos relacionados com a
+produção de vinho.
+663.283	Estabelecimentos enológicos.
+663.284	Negociantes de vinhos. Vinhateiros.
+663.285	Locais específicos. Inclusive Compartimentos de fermentação. Adegas, armazéns, lojas de vinho.
+663.3	Sidra. Vinho de pêra. Vinhos de outras frutas, vinhos de seivas.
+→ 634.1 Cultivo de frutos em geral
+→ 663.81 Sucos de frutas. Sucos de verduras. Xaropes para refrigerantes
+663.31	Vinho de maçã. Sidra.
+663.316	Sidra não-alcoólica. Suco de maçã.
+663.317	Sidra alcoólica.
+663.34	Vinho de pêra. Perada.
+663.346	Perada não-alcoólica. Suco de pêra.
+663.347	Perada alcoólica.
+663.35	Vinhos de bagas. Inclusive Vinhos de groselha, vinhos de morango.
+Especificar por meio de :634.7...
+663.36	Vinhos de outras frutas. Inclusive Vinhos de cereja, laranja, jabuticaba, abacaxi, caju, jenipapo. Vinhos de frutas 
+	misturadas.
+663.37	Vinhos de seiva.
+663.373	Vinhos de seiva de madeira (p. ex., vinhos de seiva de bétula).
+663.374	Vinhos de seiva de brotos florescentes. Inclusive Vinhos de palmeira. Vinho de agave (pulque mexicano);.
+663.393	Vinhos de mel. Hidromel.
+→ 638.16 Mel
+663.4	Cervejas. Fabricação de cervejas.
+Maltagem.
+663.41	Tipos de cerveja. Inclusive Cerveja com lúpulo. Cerveja sem lúpulo. Cerveja de abeto. Cerveja de gengibre.
+663.42	Matérias-primas para cerveja.
+663.421	Cereais para fabricação de cerveja. Cevada
+para cervejaria. Capacidade germinativa.
+→ 633.1 Cereais. Culturas de grãos
+663.422	Substitutos da cevada. Inclusive Arroz:. Milho. Fécula. Açúcar. Trigo. Aveia.
+663.423	Lúpulo. Lupulina.
+→ 633.791 Lúpulo. Humulus lupulus
+663.424	Substitutos do lúpulo. Inclusive Cascas, madeiras, folhas amargas. Brotos e bagas picantes. Quássia. Absinto. Aloés.
+663.43	Preparo do malte. Maltagem.
+→ 664.786 Beneficiamento da cevada. Moagem da cevada
+663.432	Lavagem e infusão da cevada para
+maltagem. Preparo da água de infusão.
+Exemplo(s) de combinação(ões):
+663.432.033 Infusores. Tanques de infusão. Dispositivos de aeração, de lavagem
+663.433	Germinação, brotagem da cevada. Produção
+de malte verde.
+663.433.l	Processos e equipamento de maltagem.
+663.434	Secagem e tratamento em fornos
+do malte verde.
+663.436	Dispositivos de limpeza do malte.
+Dispositivos de enchimento, peneiramento e polimento para o malte. Filtros de manga. Filtros de poeira. Remoção da casca, decorticação.
+663.439	Produtos da maltagem. Maltes. Inclusive Malte cristal. Malte colorido. Malte negro.
+663.44	Preparo do mosto e da cerveja.
+663.442	Moagem ou esmagamento do malte. Inclusive Caixas de malte. Moinhos de malte. Tremonhas, canouras de
+                                malte picado.
+663.443	Brassagem, preparo do mosto e fabricação da cerveja.
+663.443.2	Equipamento para brassagem. Inclusive Caldeiras de cobre. Tonéis de clarificação. Tanques de clarificação.
+663.443.3	Preparação da cerveja por infusão. Brassagens
+sucessivas. Cerveja fraca.
+663.443.4	Preparo da cerveja por decocção. Inclusive Método bávaro (método de Munique). Método suábio (método de
+                               Augsburg-Nüremberg).
+663.444	Cozimento e acréscimo de lúpulo.
+Caldeiras de mosto.
+663.445	Resfriamento do mosto.
+663.45	Fermentação do mosto. Armazenamento,
+preparo de cervejas de baixa fermentação.
+663.451	Fermentação espontânea.
+663.452	Fermentação com aditivos. Fermentação do
+fundo. Produção de cervejas comuns, de
+cervejas de baixa fermentação, de cervejas
+para exportação.
+663.46	Conservação e outros tratamentos.
+663.461	Conservação da cerveja. Inclusive Pasteurização da cerveja. Preservação química da cerveja.
+663.465	Preparo para venda a varejo. Transferência
+para garrafas, recipientes diversos. 
+      → 663.059 Engarrafamento e tratamento final, antes do consumo
+      → 683.5 Fabricação de garrafas e acessórios para servir
+663.47	Produção de determinados tipos de cerveja.
+663.471	Cervejas inglesas. Inclusive Stout. Porter. Brown ale. Light ale. Pale ale. Bitter.
+663.472	Cervejas alemãs. Cervejas austríacas. Inclusive March alemã. Weissbier. Cervejas de Munique, Pilsen. Dortmund.
+663.473	Cervejas belgas. Inclusive Lambic. Gueuse-Lambic.
+663.474	Cervejas francesas.
+663.475	Cervejas de arroz. Saquê japonês.
+663.476	Cervejas de sorgo. Cervejas de painço.
+Pombe africana. Braga romena.
+663.477	Cervejas norte-americanas de milho.
+663.478	Vinhos e extratos de malte.
+663.478.1	Vinho de cevada,
+663.478.2	Extrato de malte.
+663.478.3	Vinagre de malte.
+→ 661.741.1 Ácido acético (etanóico)
+663.479.l	Kvass (cerveja russa de centeio).
+663.48	Resíduos da indústria de cerveja.
+Subprodutos da indústria de cerveja. Inclusive Borra de malte, etc.
+      → 631.879.3 Resíduos industriais como fertilizantes
+663.5	Álcool potável. Aguardentes.
+Destilação e refino de álcool.
+      → 661.72 Álcoois e seus derivados
+      → 663.241 Aguardente
+663.51	Álcool: natureza, formação, tipos de
+álcool em geral. Bebidas alcoólicas
+destiladas em geral.
+663.52	Processos de produção de álcool em geral.
+Destilarias, usinas de álcool.
+663.53	Conversão de amiláceos (que contêm
+amidos) e substâncias celulósicas
+em açúcar. Sacarificação do malte,
+da madeira, da turfa.
+663.531	Processamento do grão. Produção de mosto
+sacarífero. Inclusive Maceração. Cozimento.
+	      → 664.7 Tecnologia dos cereais. Moagem de trigo e de milho. Beneficiamento de grãos
+663.532	Processamento de raízes, tubérculos, amido.
+663.533	Tratamento de substâncias amilíferas com fungos.
+663.534	Sacarificação de substâncias celulósicas. Inclusive Sacarificação de madeira.
+663.54	Produção de bebidas destiladas alcoólicas
+a partir de substâncias sacaríferas.
+663.541	Processamento da beterraba.
+663.542	Processamento de girassóis (alcachofra-de-jerusalém)
+663.543	Processamento de resíduos de refinarias de açúcar. Inclusive Produção de aguardente, cachaça, rum.
+      → 664.153 Processamento de melaço para obtenção de álcool, rum, etc.
+663.55	Destilação. Retificação. Trata mento de bebidas que contêm álcool.
+→ 66.048 Destilação. Evaporação
+663.551.1	Destilação simples.
+663.551.2	Destilação com retificação.
+663.551.4	Retificação de álcool bruto.
+663.551.5	Produção de bebidas alcoólicas específicas.
+→ 663.241 Aguardente
+→ 663.543 Processamento de resíduos de refinarias de açúcar
+→ 663.83 Licores
+Indicar os tipos determinados de bebidas por meio de :63... ou:663... 
+Exemplo(s) de combinação(ões);
+663.551.5:633.1 Destilados de cereais. Gim, vodca, etc.
+663.551.5:634.21 Aguardente de damasco 
+663.551.5:663.43 Destilado de malte. Uísque
+663.551.6	Resíduos da destilação. Inclusive Resíduos da destilação de substâncias amiláceas.
+663.551.7	Óleo fúsil.
+→ 661.625.7 Álcoois amílicos
+663.6	Água para bebidas e outros usos
+industriais. Águas minerais. Águas medicinais. Gelo para consumo humano. 
+Os auxiliares relacionados em 663.03... não são aplicáveis em 663.6 e suas
+Subdivisões
+→ 543.3 Amostragem e análise de água
+→ 553.7 Fontes minerais
+→ 556.3 Hidrologia das águas subterrâneas. Geoidrologia. Hidrogeologia
+→ 613.3 Bebidas. Beberagens medicinais. Águas medicinais. Dieta líquida
+→ 628.1 Abastecimento de água. Tratamento da água. Consumo de água
+→ 641.87 Bebidas
+663.63	Água e seu tratamento para uso especial.
+Classificar aqui apenas os trabalhos do ponto de vista da tecnologia química. O número principal para tratamento da água é 628.16
+Indicar as técnicas de processamento por meio dos auxiliares 66.0... Indicar o uso por meio de :... 
+Exemplo(s) de Combinação(ões):
+663.63:663.4 Água para fabricação de cerveja
+663.634	Água destilada como produto comercial.
+→ 628.16.048 Destilação
+663.635	Água salgada, água do mar como produto
+comercial.
+Exemplo(s) de combinação(ões):
+663.635.048 Destilação da água do mar 
+→ 551.464.09 Oceanografia aplicada
+→ 628.165 Dessalinização e destilação da água
+→ 663.648 Água salgada, artificial água do mar como produto comercial
+663.64	Águas minerais e medicinais como
+bebidas (efervescentes ou não).
+Exemplo(s) de combinação(ões):
+663.64.05 Aditivos, conservação e tratamento posterior de águas mineras e medicinais
+663.64.057 Carbonação. Aeração 
+663.64.059 Engarrafamento e tratamento final antes do consumo
+663.642	Água mineral artificial. Água carbonatada de mesa (água com soda).
+ → 613.38 Águas minerais naturais e artificiais
+663.646	Água mineral natural como produto comercial.
+663.648	Água salgada, artificial água do mar como produto comercial.
+ → 663.635 Água salgada, água do mar como produto comercial
+663.67	Gelo comestível. Sorvete.
+663.672	Gelo natural. Coleta, transporte e armazenamento de gelo.
+ →551.32 Glaciologia
+663.673	Gelo fabricado. Gelo produzido
+artificialmente.
+ → 621.56/.58
+663.674	Gelo com sabor. Sorvetes.
+663.8	Ingredientes principais para
+bebidas mistas. Sucos de frutas e verduras. Xaropes. Licores. Refrigerantes.
+      Os auxiliares relacionados em 663.03... não são aplicáveis em 663.8 e suas subdivisões 
+Exemplo(s) de combinação(ões):
+663.8.051 Aditivos para melhorar o sabor.
+Suplementos aromáticos (para bebidas 
+compostas) 
+      663.8.054 Diluentes (para bebidas compostas)
+663.81	Sucos de frutas. Sucos de verduras.
+Xaropes para refrigerantes.
+→ 663.236 Substitutos não-alcoólicos do vinho. Suco de uva, mosto
+→ 663.3 Sidra. Vinho de pêra. Vinhos de outras frutas, vinhos de seivas
+→ 664.857 Xaropes de frutas. Concentrados de sucos
+663.812	Xaropes de açúcar como bases para bebidas
+compostas.
+      → 663.031.8 Licores que servem de base para bebidas compostas
+      →664.14Processamento do açúcar. Produtos do açúcar. Doces, confeitos de açúcar
+663.813	Sucos naturais de frutas e verduras.
+Exemplo(s) de combinação(ões):
+663.813:634.711 Suco de framboesa
+663.814	Xaropes de bagas.
+Exemplo(s) de combinação(ões)::
+663.814:634.711 Xarope de framboesa
+663.815	Xaropes de frutas grandes.
+Exemplo(s) de combinação(ões):
+663.815:634.31 Xarope de laranja
+663.816	Xaropes de flores, de botões.
+Exemplo(s) de combinação(ões):
+663.816:634.31.075 Xarope da flor de laranjeira
+663.817	Xarope de amêndoa. Leite de amêndoa.
+Xarope de orchata.
+663.82	Bebidas que contêm fruta sólida
+(ou pedaços de fruta).
+663.83	Licores. Inclusive Obtidos por infusão em álcool de frutas e outros vegetais
+	→ 663.241 Aguardente
+	→ 663.551.5 Produção de bebidas alcoólicas específicas
+663.831	Licor de anis.
+663.832	Chartreuse e licores semelhantes.
+663.833	Licores de caroços, de nozes de frutas.
+663.834	Licores cremosos.
+663.837                    Aperitivos.
+663.837.1	Aperitivos amargos.
+663.837.3	Aperitivos quinados.
+663.837.5	Vermutes.
+663.85	Refrigerantes sintéticos.
+663.86	Refrigerantes espumantes, efervescentes.
+→ 663.64 Águas minerais e medicinais como bebidas (efervescentes ou não)
+663.865	Preparados sólidos para produção de
+refrigerantes efervescentes.
+663.87	Bebidas compostas. Inclusive Coquetéis. Grogues.
+663.88	Bebidas tônicas. Inclusive Tônico de alcaçuz. Tônicos.
+663.9	Chocolate. Cacau. Café. Chá. Fumo.
+      → 633.7Plantas que produzem estimulantes. Plantas usadas na fabricação de bebidas
+      → 641.87 Bebidas
+Os auxiliares relacionados em 663.03... e  663.05... não são aplicáveis em 663.9
+e suas subdivisões
+663.91	Cacau. Chocolate.
+→ 633.74 Cacau. Theobroma cacao
+→ 641.87 Bebidas
+Subdivisões auxiliares especiais
+663.91.05	Maquinaria, aparelhos e equipamento para
+Produção de derivados do cacau. 
+Divisões principais
+663.911	Matérias-primas. Matérias auxiliares.
+663.911.l	Matérias-primas de origem vegetal. Inclusive Cacau. Carboidratos puros, Álcoois.
+663.911.3	Matérias-primas de origem animal. Inclusive Leite.
+663.911.5	Matérias auxiliares.
+663.913	Preparo das matérias-primas.
+663.913.1	Preparo do cacau bruto. Inclusive Desinfecção, limpeza. Secagem, torrefação, resfriamento das sementes de
+                                   cacau. Quebra, descascamento, redução do cacau.
+	      → 621.926 Cominuição (principalmente de materiais duros)
+663.913.5	Preparo de outras matérias-primas. Inclusive Preparo do açúcar, nozes, leite,.frutas.
+663.913.7	Mistura e amassamento dos ingredientes.
+663.914	Produção de pó de cacau, de manteiga de
+cacau e preparados que contêm cacau.
+663.914.l	 Desengorduramento da massa de cacau.
+663.914.2	Tratamento do cacau desengordurado.
+663.914.3	Solubilização do cacau.
+663.914.4	Preparo de manteiga de cacau.
+663.914.5	Produção de preparados que contêm cacau. Inclusive Pós de cacau. Pastas de cacau.
+663.915	Produção de chocolate.
+663.915.1	Refinação de chocolate bruto.
+663.915.2	Refinação da massa de chocolate.
+663.915.3	Moldagem do chocolate.
+663.916	Produção de confeitos, doces, de chocolate.
+→ 664.144/.149 Produtos diversos de açúcar de confeitaria
+→ 664.68 Fabricação e tratamento de biscoitos, massas, tortas, bolos, pudins
+663.916.1	Produção de composições básicas. Inclusive Produção de fondant, caramelo, composições açucaradas.
+663.916.2	Moldagem de confeitos de chocolate.
+663.916.3	Revestimento de confeitos de chocolate.
+663.916.5	Decoração de confeitos de chocolate.
+663.917	Extração de teobromina.
+663.918	Produtos da indústria de cacau e de
+chocolate.
+663.918.l	Produtos intermediários do cacau. Inclusive Massa de cacau. Botos de cacau prensado. Manteiga de cacau.
+663.918.2	Produtos do cacau. Inclusive Pós de cacau. Concentrados, extratos de cacau.
+663.918.3	Subprodutos do cacau. Inclusive Cascas.
+663.918.4	Tipos de chocolate.
+663.918.5	Doces, confeitos. bombons de chocolate.
+663.92	Substitutos do cacau. Inclusive Cola
+→ 663.76 Cola. Cola acuminata
+663.93	Café. Cafeína.
+      → 663.73 Café
+      → 641.87 Bebidas
+663.931	Variedades comerciais de café. Café verde.
+663.932	Secagem dos grãos de café.
+Armazenamento e transporte.
+663.933	Processamento do café.
+663.933.1	Tratamento prévio dos grãos de café.
+663.933.2	Descascagem, decorticaçao dos grãosdecafé.
+Peneiragem.
+663.933.3	Mistura de cafés.
+663.933.4	Torrefação (e torrefadores) de café.
+663.933.6	Beneficiamento. Polimento de grãos de café.
+Revestimento, impregnação de grãos de café.
+663.933.7	Moagem de grãos de café.
+→ 621.927.7 Moinhos pequenos para fins especiais
+663.933.8	Descafeinação.
+663.935	Deterioração do café (p. ex., mofo).
+Adulteração do café.
+663.937	Produção de cafeína.
+663.938	Produtos do café.
+663.938.3	Café torrado comum.
+663.938.4	Café moído.
+663.938.5	Café descafeinado.
+663.938.7	Essência de café.
+663.938.8	Extrato de café. Outros preparados
+sólidos de café.
+663.94	Substitutos do café. Suplementos do café.
+663.941	Chicória.
+→ 663.78 Chicória. Chicorium intybus
+663.942	Café de cereal. Café de bolota de carvalho.
+663.95	Chá.Teína.
+      → 633.72 Chá. Camellia sinensis
+      → 641.87 Bebidas
+663.951	Variedades comerciais de chá. Inclusive  Chá preto. Chá verde.
+663.952	Tipos diversos de chá e sua manufatura.
+Subdivisões auxiliares especiais
+663.952.031	Processos de manufatura de chá.
+663.952.031.1	Murchamento.
+663.952.031.2	Tratamento por vapor. Cozimento.
+663.952.031.3	Rolagem.
+663.952.031.4	Fermentação.
+663.952.031.5	Queima. Inclusive Polimento.
+663.952.031.6	Seleção. Corte.
+663.952.031.7	Peneiragem. Classificação. Escolha manual.
+663.952.031.8	Enfardamento.
+Divisões principais
+663.952.2	Chá totalmente fermentado.
+663.952.5	Chá não-fermentado.
+663.952.6	Chá parcialmente fermentado.
+663.952.7	Tipos de chá segundo processos especiais.
+663.952.71	Chá em tablete. Chá em feixe. Chá em bolo.
+Chá em bola.
+663.952.72		Chá em pó. Inclusive Yencha. Hikacha (chás cerimoniais),
+663.952.73	Chá aromatizado.
+663.952.74	Chá picado. Inclusive Flocos de chá. Poeira de armazém.
+663.954	Mistura de chás comerciais.
+Exemplo(s) de combinação(ões):
+663.954:543.927 Degustação de chá
+663.954.2	Métodos de mistura. Corte e mistura de chás.
+663.954.3	Misturas de chá.
+663.954.5	Métodos de embalagem.
+663.954.56	Saquinhos de chá.
+663.955.1                   Deterioração do chá.
+663.955.2	Adulteração do chá. Inclusive Coloração artificial Mistura com outras folhas.
+663.958	Produtos diversos do chá.
+663.958.7	Essências de chá.
+663.958.8	Extratos sólidos e outros preparados de chá.
+663.96	Substitutos do chá. Produtos semelhantes ao chá.
+663.97	Indústria do tabaco, do fumo.
+→ 178.7 Usos de tabaco. Hábito de fumar. Tabagismo
+→ 351.761 Controle de álcool, fumo, narcóticos. Autorização para venda de bebidas alcoólicas
+→ 613.84 Tabaco. Tabagismo
+→ 633.71 Tabaco. Nicotina
+→ 688.93 Artigos para fumantes
+Subdivisões auxiliares especiais
+663.97.05	Processos e equipamento da indústria
+fumageira.
+663.97.051	Preparo de tabaco, de fumo bruto.
+663.97.051.l	Tratamento preliminar. Secagem do fumo.
+Preparação em molhos. Fermentação.
+663.97.051.6	Escolha, peneiragem, limpeza do fumo.
+Mistura de fumos.
+663.97.051.7	Torrefação e resfriamento do fumo.
+663.97.051.8	Tratamento químico do tabaco e de
+produtos fumageiros. Inclusive Extração da nicotina. Conservação do tabaco. Aprimoramento
+da cor, do aroma do tabaco.
+663.97.052	Tratamento do fumo para cheirar
+ (rapé), mascar, fumar.
+663.97.052.3	Cominuição, corte do tabaco.
+663.97.052.4	Extração das nervuras das folhas. Achatamento
+das nervuras.
+663.97.052.5	Máquinas para cortar tabaco.
+663.97.052.6	Máquinas para enrolar, aprontar o tabaco.
+663.97.053	Máquinas e equipamento para produção
+de charutos.
+663.97.054	Máquinas e equipamento para produção
+de cigarros.
+663.97.054.2	Máquinas de encher os cigarros com extrusores
+contínuos ou câmaras de pressão.
+663.97.054.4	Máquinas de cigarros com tirantes contínuos de tabaco formado.
+663.97.56	Equipamento de corte para charutos e cigarros.
+663.97.57	Produção de envoltórios, papéis de cigarros.
+Produção de filtros, ponteiras, piteiras.
+Divisões principais
+663.971	Rapé.
+663.972	Fumo de mascar.
+663.973	Fumo picado em geral. Tabaco de fumar,
+663.973.2	Fumo segundo a largura e comprimento das
+fiadas. Corte do fumo (fino, grosseiro, etc.).
+663.973.4	Misturas de tabaco.
+663.973.5	Tabaco prensado, naco de fumo.
+663.973.7	Tabaco desnicotinizado, sem nicotina.
+663.974	Cigarros,
+663.975	Charutos. Cigarrilhas.
+663.976	Filtros e pontas de filtro para charutos
+e cigarros.
+663.977	Tratamento químico da fumaça do tabaco.
+Dispersantes de fumaça.
+663.98	Substitutos do fumo.
+663.99	Indústrias baseadas em produtos de várias
+plantas estimulantes. Narcóticos.
+→ 178.8 Uso de vários estimulantes e narcóticos (ópio, haxixe, maconha, éter, cocaína, etc.)
+→ 351.761 Controle de álcool, fumo, narcóticos. Autorização para venda de bebidas alcoólicas
+→ 613.83 Narcóticos
+→ 615.212 Analgésicos e antipiréticos
+→ 633.888 Plantas que produzem substâncias que afetam o sistema nervoso
+663.991	Ópio.
+→ 633.75 Papoula. Papaver somniferum
+663.992	Haxixe. Maconha, diamba.
+→ 633.522 Cânhamo. Cannabis sativa
+
+             664 Produção e conservação de alimentos sólidos
+
+      Indicar o estado, condição ou forma dos alimentos por meio de -4... (de 62-4...) Exemplo(s) de combinação(ões): 
+      664-404 Estado líquido 
+      664-41 Pedaços. Barras. Tiras 
+      664-492.2 Em pó 
+      664-492.3 Granulado 
+      664-493 Em fatias. Em tiras 
+      664-493.5 Flocos
+      → 667.777 Coloração de alimentos
+664.1	Açúcar. Melado. Glicose, etc.
+Subdivisões auxiliares especiais
+664.1.03	Extração e purificação de sumo.
+→ 633.6 Plantas sacarinas e amiláceas
+664.1.031	Tratamento preliminar das plantas sacaríferas. Inclusive Lavagem. Tratamento térmico (de plantas inteiras).
+→ 664.1.04 Tratamento térmico (do sumo). Processos térmicos
+664.1.032	Cominuição, corte, ralação de plantas
+sacaríferas.
+664.l.033	Extração de sumo de plantas sacaríferas.
+Equipamento de extração.
+664.1.034	Extração por espremedura, por moenda.
+Moinhos laminadores e esmagadores, etc..
+664.l.035	Outros métodos de extração. Inclusive Extração por difusão, centrifugação, maceração. Uso de solventes.
+664.1.037	Purificação de sumo. Inclusive Purificação mecânica. Filtração.
+664.l.038	Tratamento de sumo com agentes químicos. Inclusive Clarificação, purificação de sumos sacaríferos. Tratamento com 
+	oxido de
+                                  	cálcio, dióxido de carbono, dióxido de enxofre.
+	      → 66.09 Reações químicas térmicas. Processos químicos e bioquímicos especiais
+664.l.038.8	Tratamento e extração de resíduos da clarificação. Tratamento de águas servidas (águas açucaradas).
+664.1.039	Tratamento do sumo por métodos físicos ou físico-químicos.
+664.l.04	Tratamento térmico (do sumo). Processos térmicos.
+Subdividir como em 66.04... 
+Exemplo(s) de combinação(oes):
+664.1.048 Destilação. Evaporação
+664.1.05	Filtração do xarope. Fervura, refino,
+cristalização.
+664.1.052	Filtração do xarope.
+664.1.053	Fervura do xarope filtrado. Métodos
+de fervura.
+664.1.054	Cristalização do xarope.
+664.1.055	Separação do açúcar do xarope.
+→ 66.022.63 Métodos que utilizam forças centrífugas
+664.1.056	Remoção de substâncias nocivas.
+664.1.057	Refinamento do açúcar. Açúcar refinado,
+açúcar branco.
+664.1.058	Açúcar-cande.
+Divisões principais
+664.11	Açúcar de cana.
+664.111	Cana-de-açúcar como matéria-prima.
+→ 663.61 Cana-de-açúcar. Saccharum officinarum
+664.113	Tratamento do bagaço e do caldo da cana.
+→ 662.636 Gramíneas e seus resíduos como combustível
+664.117	Produtos da cana-de-açúcar. Caldo. Açúcar
+bruto. Açúcares mascavos. Tipos diversos de açúcar de cana.
+Para melado, ver 664.15
+664.12	Açúcar de beterraba.
+664.121	Beterraba como matéria-prima.
+→ 633.63 Beterraba. Beta vulgaris
+664.123	Tratamento das fatias (cossettes). Inclusive Extração. Secagem.
+664.126	Produtos intermediários da beterraba. Inclusive Suco. Produtos da fervura. Xaropes de escorrimento.
+664.127	Produtos da beterraba.  Inclusive Açúcar bruto. Diversos tipos de açúcar de beterraba.
+664.13	Diversos outros açúcares.
+→ 664.16 Dextrinas. Monossacarídeos (monoses)
+664.132	Açúcar de bordo sacarífero.
+664.133	Açúcar de palmeiras.
+664.134	Açúcar de sorgo.
+664.135	Açúcar de leite. Inclusive Açúcar de leitelho.
+664.136	Açúcar de malte (maltose).
+664.138	Rafinose. Melitose.
+664.14	Processamento do açúcar. Produtos do
+açúcar. Doces, confeitos de açúcar.
+→ 663.812 Xaropes de açúcar como bases para bebidas compostas
+664.141	Fundição, moldagem, corte do açúcar.
+664.141.6	Fabricação de pães de açúcar. Pão de açúcar.
+664.141.7	Produção de açúcar em torrões, cubos, blocos
+(exceto pães de açúcar).
+664.141.8	Uso de produtos de qualidade inferior
+da refinação.
+664.141.81	Produção de pães de açúcar de qualidade
+inferior (rapadura).
+664.141.82	Produção de açúcar em pó de qualidade inferior.
+Açúcar moído.
+664.143	Confeitos (doces) de açúcar em geral.
+664.143.l	Fervura do açúcar. Tachos para evaporação.
+Equipamento para produção a frio do xarope. Xaropes de açúcar.
+664.143.2	Máquinas e equipamento para puxar a
+pasta de açúcar.
+664.143.3	Amassadores e misturadores para confeitaria.
+Máquinas para preparar, para tratar as
+matérias-primas.
+664.143.4	Equipamento de tratar a vapor. Equipamento
+de cristalização, açucaramento. Tachos
+para pastilhas.
+664.143.5	Moldes para confeitaria.
+664.143.6	Máquinas de modelagem, formas,
+de confeitaria. Inclusive Máquinas combinadas de modelagem e embalagem.
+664.143.7	Máquinas para doces recheados (doces
+revestidos de açúcar): amêndoas confeitadas,
+drágeas, bombons.
+664.144/.149           Produtos diversos de açúcar de confeitaria. 
+→ 663.916 Produção de confeitos, doces, de chocolate
+→ 774.8.035.5 Conservação em xaropes de açúcar
+664.144	Doces recheados. Bombons. Gomas (gomas
+de mascar, etc.). Fondants. Drágeas.
+Pastilhas. Doces com recheios moles ou
+de nozes, etc.
+664.145	Marzipâ, nogado, etc.
+664.146	Confeitos caramelados. Toffees. Puxa-puxa.
+664.147	Açúcar de cevada.
+664.148	Alcaçuz. Alcaçuz com licor. Balas para
+tosse. Pastilhas para garganta , etc.
+664.149	Outros produtos de confeitaria com açúcar.
+664.15	Melado. Melaço. Xarope.
+664.151	Tipos de melado.
+664.151.1	Melado de cana-de-açúcar.
+664.151.2	Melado de açúcar de beterraba.
+664.151.3	Melaço de outros açúcares.
+      664.151.3 dividido como 664.13
+664.152	Extração de açúcar de melaço.
+664.153	Processamento de melaço para obtenção de
+álcool, rum, etc.
+→ 663.543 Processamento de resíduos de refinarias de açúcar
+664.154	Produção de alimentos que utilizam
+melaço.
+664.157	Xarope de melaço. Melado.
+664.16	Dextrinas. Monossacarídeos (monoses).Glicose. Outros produtos diversos da hidrólise do amido. Adoçantes (substitutos 
+                                  da sacarose).
+664.161	Dextrinas.
+664.161.1	Produção de dextrina por torrefação.
+664.161.2	Torrefação com emprego de produtos químicos
+664.161.3	Produção de dextrina com emprego de produtos
+químicos diluídos (sem torrefação).
+664.161.4	Produção de dextrina com uso de diástases.
+Métodos biológicos.
+664.161.7	Tipos de dextrina segundo as propriedades físicas. Inclusive Dextrina colorida. Dextrina branca (solúvel, insolúvel),
+664.161.8	Tipos de dextrina segundo a fonte, a origem.
+      664.161.8 dividido como 664.2
+664.162	Glicose. Outros produtos da hidrólise do amido. Adoçantes (substitutos da sacarose),
+Subdivisões auxiliares especiais
+664.162.031	Tratamento preliminar das fontes de glicose. Inclusive Preparo das matérias-primas. Preparo do leite de amido.
+664.162.036	Hidrólise do leite de amido. Neutralização.
+Sacarificação. Equipamento de conversão.
+664.162.037	Filtração do amido hidrolisado (após a
+neutralização).
+664.162.037 dividido como 66.067
+664.162.038	Aparecimento de cor durante o preparo. Inclusive Precauções contra o aparecimento de cor.
+664.162.048	Destilação. Evaporação. Concentração de glicose.
+Subdividir como em 66.048...
+664.162.052	Filtração da glicose (após a concentração).
+664.162.052 3 dividido como 66.067
+664.162.065	Solidificação, cristalização da glicose.
+Subdividir como em 66.065... 
+Divisões principais
+664.162.1/.6	Métodos de produção de glicose segundo o
+tipo de matéria- prima.
+664.162.1	Produção de glicose a partir do amido
+de batata.
+664.162.2	Produção de glicose do amido de milho.
+664.162.4                  Produção de glicose de arroz, tapioca,
+outros amidos.
+      664.162.4 dividido como 664.2
+664.162.6	Produção de glicose da madeira, da celulose.
+664.162.7	Xaropes de glicose, frutose e maltose,
+664.162.71	Xaropes de glicose-frutose.
+664.162.72	Xaropes de alta concentração de frutose.
+664.162.75	Xaropes de glicose-galactose.
+664.162.76	Xaropes de alta concentração de maltose.
+664.162.8	Adoçantes (substitutos da sacarose).
+664.162.81	Adoçantes naturais.
+664.162.82	Adoçantes artificiais.
+664.164	Misturas que contêm glicose. Inclusive Açúcar invertido. Mel artificial.
+	      → 638.16 Mel
+664.165	Hexoses diversas. Inclusive Galactose. Frutose
+664.2	Amido. Matérias amiláceas.
+→ 633.68 Plantas amiláceas
+→ 648.18 Substâncias de lavagem. Soluções de lavagem. Substâncias para outros tipos de tratamento (alvejamento, engomaduras, etc.)
+Subdivisões auxiliares especiais
+664.2.03	Tratamento das fontes de amido, das matérias-
+primas do amido, antes da secagem.
+      → 664.7 Tecnologia dos cereais. Moagem de trigo e de milho. Beneficiamento de grãos
+664.2.031	Tratamento preliminar antes do esmagamento
+e da moagem). Inclusive Lavagem, limpeza, maceração das fontes, das matérias-primas do amido,
+664.2.032	Cominuição, esmagamento, moagem das fontes,
+                                        matérias amiláceas. Cominuição com adição de
+                                       produtos químicos.
+664.2.033	Processo de abertura de células por
+                                      fermentação.
+664.2.034	Métodos para aumentar o rendimento de
+                                     amido. Métodos para eliminar outras
+                                   substâncias.
+664.2.035	Lavagem da polpa de amido. Inclusive Peneiras cilíndricas. Conjuntos de peneiras.
+664.2.036	Processos de branqueamento da polpa de
+                                    amido. Outros tratamentos intermediários.
+664.2.037	Separação do amido bruto.
+664.2.038	Purificação do amido bruto. Inclusive Esfregadores de amido.
+664.2.047	Secagem do amido.
+Subdividir como em 66.04 ...
+664.2.05	Operações após a secagem do amido.
+664.2.051	Desodorização do amido.
+664.2.052	Branqueamento do amido seco.
+664.2.053	Azulamento do amido.
+664.2.054	Peneiragem, moagem do amido.
+664.2.055	Modelagem, moagem, granulagem do amido.
+                                         Produtos de diversas formas. Inclusive Amido em pó, cristalizado, em bloco. Amido granulado, perolado. Flocos de amido.
+664.2.057	Amido líquido e semilíquido. Inclusive Suspensões de amido na água (leite de amido.). Pasta de amido.
+664.2.058	Preparo de amido solúvel.
+664.2.058.2	Preparo por métodos físicos e mecânicos.
+664.2.058.4	Preparo por métodos químicos.
+664.2.059	Preparo de amido que se dilata em água fria
+(amido pré-gelatinizado).
+Divisões principais
+664.22	Amido de batata (fécula de batata).
+→ 633.491 Batata. Solanum tauberosum
+664.23	Amidos de cereais em geral.
+→ 633.1 Cereais. Culturas de grãos
+664.231	Amido de trigo.
+664.232	Amido de centeio.
+664.233	Amido de trigo-sarraceno. Amido de aveia.
+Amido de cevada.
+664.235	Amidos de outros cereais.
+      664.235 dividido como 633. /7
+664.236	Glúten.
+664.24	Amido de arroz.
+664.25	Amido de milho.
+664.26	Amidos de frutos diversos. Inclusive Amido de nozes. Amido de soja. Amido de feijão. Amido de lentilha.
+664.27	Outros amidos comestíveis. Inclusive Amido de araruta. Amido de mandioca (tapioca). Amido de sagu. Amido
+                                 de banana. Amido de inhame. Amido de bananeirinha. Amidos de diversos talos, tabérculos, bulbos.
+	      → 633.68 Plantas amiláceas
+664.28	Derivados de amido.
+664.29	Produtos diversos relacionados com
+amido. Inclusive Pectina.
+664.3	Óleos e gorduras comestíveis.
+Margarina. Alimentos de proteína.
+Subdivisões auxiliares especiais
+664.3.032	Instalações e equipamento para processamento de óleo e gordura. Inclusive Equipamento de emulsificação e homogeneização. Batedeiras. Equipamento de lavagem. Moldes e cortadores.
+664.3.033	Processos. Inclusive Emulsificação. Batimento. Lavagem, manipulação, mistura de produtos gordurosos. Salgamento.
+                               Pasteurização, esterilização. Modelagem e corte de produtos da gordura. Coloração. Adição de sabor.
+Divisões principais
+664.31	Óleos e gorduras comestíveis em geral.
+664.314	Óleos comestíveis em geral.
+664.315	Gorduras comestíveis em geral.
+664.32	Óleos e gorduras comestíveis de origem
+animal.
+664.324	Óleos comestíveis de origem animal. Inclusive Emulsões de óleos de origem animal.
+664.325	Gorduras comestíveis de origem animal. Inclusive Margarina de origem animal.
+664.33	Gorduras comestíveis de origem vegetal.
+664.336                 Margarina de origem vegetal.
+664.34	Óleos comestíveis de origem vegetal. Inclusive Emulsões de óleo vegetal. Maionese.
+664.35	Óleos e gorduras minerais empregados na
+indústria de alimentos.
+664.36	Misturas de gorduras comestíveis. Inclusive Misturas de manteiga e margarina.
+66438	Alimentos de proteína. Proteínas
+comestíveis. Gelatina.
+664.4	Alimentos minerais.
+→ 613.27 Alimentos minerais
+664.41	Sal comestível (cloreto de sódio). Inclusive Sal de cozinha. Sal de mesa.
+      → 549.451.1 Haletos dos metais alcalinos e da amônia
+      → 553.631 Depósitos de sais de rocha (sal-gema ) em geral
+      → 622.363.1 Sal-gema (halita) e outros sais de sódio
+      → 661.42 Cloretos. Sais naturais
+      → 661.833.321 Cloreto de sódio. Sal-gema (halita)
+664.44	Substitutos do cloreto de sódio. Misturas
+de sal (p. ex., com fosfatos).
+664.48	Alimentos minerais diversos (inclusive os
+que contêm aditivos orgânicos). Inclusive Sais de cálcio.
+664.5	Especiarias. Condimentos. Temperos.
+→ 613.291 Condimentos. Tempero. Especiarias. Ervas culinárias. Vinagre
+→ 635.7 Ervas aromáticas. Plantas condimentícias
+→ 641.88 Enfeites. Condimentos
+664.51	Pimenta (da espécie Piper).
+664.515	Substitutos da pimenta. Adulterações
+da pimenta.
+664.52	Pimentas picantes e aromáticas (das
+espécies Capsicum, Pimenta).
+664.521	Pimentas picantes. Inclusive Pimenta malagueta. Páprica. Pimenta-de-caiena.
+664.522	Pimentas aromáticas. Pimentas de cheiro. Inclusive Pimentão. Pimenta-da-jamaica
+664.53	Mostarda.
+664.54	Noz-moscada.
+664.55	Gengibre.
+664.56	Canela. Cássia.
+664.563	Substitutos da canela. Adulterações da
+canela.
+664.57	Baunilha.
+664.572	Substitutos da baunilha. Adulterações da
+baunilha.
+664.58	Especiarias conservadas em vinagre. Inclusive Pepinos em conserva. Alcaparras. Picles. Azeitonas em conserva.
+664.58.01	Outros vegetais em conserva.
+	      → 664.8 Conservação de substâncias orgânicas comestíveis (em geral). Conservação de produtos vegetais
+664.59	Outras especiarias e condimentos.
+664.6/.7                        Tecnologia e processamento de grãos de cereais.
+664.6	Panificação. Pão. Confeitos de
+farinha de trigo.
+664.61	Padarias. Inclusive Tipos de padaria. Equipamento de padaria.
+664.64	Matérias-primas e intermediárias para
+produtos de panificação. 
+Subdivisões auxiliares especiais
+664.64.016	Propriedades não-químicas dos materiais de panificação. Qualidade: sua determinação e avaliação. 
+664.64.016.3               Propriedades físicas. Inclusive Estrutura, tamanho da partícula dos materiais de panificação. Cor. Teor de
+                               outras farinhas.
+664.64.016.7	Propriedades biológicas. Inclusive Sabor, aroma, valor nutritivo dos materiais de panificação.
+664.64.016.8	Propriedades tecnológicas. Qualidade
+de panificação.
+664.64.019	Estrago dos materiais de panificação. Deterioração. Inclusive Descoloração.
+Divisões principais
+664.641	Farinhas em geral e farinha de trigo. Inclusive Composição. Seleção.
+	      → 664.761 Farinha (como produto da moagem)
+664.641.1	Farinhas de cereais.
+	      → 633.1 Cereais. Culturas de grãos
+664.641.12	Farinha de trigo.
+664.641.14	Farinha de centeio.
+664.641.15	Farinha de milho. Fubá.
+664.641.18	Farinha de arroz.
+664.641.19	Outras farinhas de cereais.
+664.641.2	Outras farinhas de outros tipos. Inclusive Farinha de batata, fécula. Farinha de soja. Farinha de trigo-
+664.641.20	sarraceno.
+	      → 633.34 Soja. Glycine
+	      → 633.491 Batata. Solanum tuberosum
+664.641.4	Misturas de farinhas de cereais com outros
+tipos de farinhas.
+664.642	Levedura de panificação. Fermentos.
+→ 663.126 Levedura de padeiro. Levedura prensada
+664.643	Agentes artificiais de fermentação. Pós de
+panificação. Fermento em pó.
+→ 664.654.2 Fermentação da massa por meios químicos e físicos
+664.644	Outras matérias-primas para produtos de
+panificação. Matérias para melhorar a
+farinha.
+→ 664.746 Tratamento da farinha para melhorar a qualidade de assamento, a cor
+664.644.1	Sal.
+→ 664.41 Sal comestível (cloreto de sódio)
+664.644.2	Alimentos com levedura. Estimulantes de
+fermentação. Produtos minerais.
+664.644.3	Materiais gordurosos. Gorduras.
+664.644.4	Materiais ricos em proteína. Inclusive Leite. Leite em pó. Ovos. Clara de ovo (albumina).
+664.644.5	Materiais ricos em enzimas. Inclusive Preparados de amilase. Extratos de malte. Amilases fúngicas. Preparados
+                                 de proteinase.
+664.644.6	Materiais ricos em carboidratos. Inclusive Açúcares. Farinhas sacarificadas.
+664.644.7	Materiais absorventes de água. Farinhas
+dextrinizadas. Gomas. Alginatos. Farinha de
+semente de algarobeira, etc.
+664.644.8	Amaciantes e emulsificantes. Inclusive Estearato de polietileno. Lecitina.
+664.646	Pós para polvilhar assadeiras de
+panificação. Gordura para assadeiras.
+Revestimentos de assadeiras.
+664.647	Materiais diversos para panificação. Inclusive Aperfeiçoadores do tipo emulsão para pão branco. Produtos semi-
+664.648	acabados
+                                  como recheios. Recheios de pastelaria.
+664.647.6	Misturas (prontas) para bolo.
+664.65	Panificação: preparo, procedimentos e instalações. Pão. Confeitaria.
+Subdivisões auxiliares especiais
+664.65.05	Maquinaria de padaria.
+Divisões principais
+664.651	Preparo de matérias-primas e ingredientes.
+664.652	Adição de agentes de fermentação,
+de lêvedos.
+664.653	Mistura, sovamento e manipulação
+da massa de panificação.
+664.653.l	Mistura e sovamento da massa.
+664.653.3	Pesagem e divisão da massa.
+664.653.4	Modelagem e tratamento da massa (especialmente para pão).
+Especificar por meio de : 664.66... e : 664.68...
+Exemplo(s) de combinação(ões)
+      664.653.4:664.683.6 Para bolos
+664.653.5	Conversão direta do grão em pão.
+664.654	Fermentação natural e artificial da massa.
+Fermentação, prova da massa.
+→ 663.1 Indústrias microbiológicas. Ciência e técnica da microbiologia aplicada. Micologia aplicada
+664.654.l		Fermentação da massa com agentes biológicos.  Inclusive Fermentação com leveduras, com fermento.
+664.654.2	Fermentação da massa por meios químicos e físicos. Inclusive Fermentação com fermento em pó,
+com dióxido de carbono sólido.
+	      → 664.643 Agentes artificiais de fermentação. Pós de panificação. Fermento em pó
+664.654.3	Fermentação acelerada da massa. Adição
+de estimulantes de fermentação (alimentos
+do lêvedo).
+664.654.6	Áreas, quartos e armários de fermentação
+da massa.
+664.655	O processo de panificação. Outros
+processos de acabamento de produtos de
+panificação. Influência desses processos
+sobre os produtos.
+Exemplo(s) de combinação(ões):
+      664.655.041 Fornos de padaria
+664.655.l		Assamento em fornos.
+664.655.3	Fritura em gordura.
+664.655.5	Tratamento da superfície dos produtos após o assamento. Inclusive Lavagem.
+664.655.6	Utensílios e equipamento de padaria. Inclusive Assadeiras. Tabuleiros.
+664.656	Tratamento dos produtos assados. Inclusive Esfriamento. Congelamento. Recheio. Enfeite. Corte, embalagem.
+664.657	Prevenção do ranço em produtos
+panificados. Tratamento de produtos
+rançosos.
+→ 664.66.019 Estrago dos materiais de panificação  
+664.66	Produtos de panificação em geral. Pão e
+produtos afins.
+→ 664.68 Fabricação e tratamento de biscoitos, massas, tortas, bolos, pudins
+Subdivisões auxiliares especiais
+664.66.016/.019     Propriedades e deterioração dos produtos de panificação.
+664.66.016/.019 dividido como 664.64.016/.019
+664.66.03	Armazenamento e conservação dos produtos
+de panificação. Divisões principais
+Divisões principais
+664.661	Pão, pãezinhos e brioches feitos exclusiva ou principalmente de trigo integral ou
+                      farinha de trigo. Inclusive Pão de trigo integral. Pão branco. Pães doces. Pães com geléia.
+664.661.2	Pão comum sem aditivos especiais, a não ser agentes para melhorar a massa.
+664.661.21	Pão de forma.
+664.661.26	Pães doces, etc..
+664.662	Pão exclusiva ou principalmente feito de
+centeio integral ou de farinha de centeio. Pão de centeio. Pão-preto. Pumpernickel.
+664.663	Pão feito de outras farinhas. Inclusive Pão de cevada. Pão de sorgo. Pão de painço.
+664.664	Produtos assemelhados ao pão, mas que
+exigem processos ou receitas especiais.
+→ 664.68 Fabricação e tratamento de biscoitos, massas, tortas, bolos, pudins
+664.664.2	Pão não-fermentado. Pão ázimo.
+664.664.3	Produtos panificados secos.
+664.664.32	Torradas.
+664.664.33	Farinha de rosca.
+664.664.34	Pão torrado. Krustenbrot. Waffelbrot.
+664.664.4	Produtos ricos em gordura. Inclusive Croissants. Brioches. Butterstollen.
+664.665	Produtos assemelhados ao pão com
+propriedades especiais ou para fins
+dietéticos. Pão dietético.
+→ 613.2 Dietética. Princípios da nutrição aplicados à alimentação e aos alimentos
+→ 615 874 Controle da dieta Abstinência como terapia. Dietoterapia
+→ 774.681 Biscoitos. Biscoitos folhados. Waffles. Bolachas
+664.667	Pães de especiarias. Inclusive Pão de mel.
+664.668	Alimentos semelhantes a pão para animais. Inclusive Biscoitos de cachorro.
+	      → 636.084/.087
+664.68	Fabricação e tratamento de biscoitos,
+massas, tortas, bolos, pudins.
+664.681	Biscoitos. Biscoitos folhados. Waffles.
+Bolachas.
+664.682	Produtos de confeitaria feitos de farinha
+simples. Tortas. Inclusive Tortas doces. Tortas salgadas. Tortas de queijo.
+664.683	Produtos de confeitaria de farinha com
+enfeites. Bolos. Tortas enfeitadas.
+664.683.6	Produtos de massa mole assados no forno
+(não-secos). Bolos.
+664.683.7	Produtos fritos de massa dura ou mole. Inclusive Bolinhos fritos. Panquecas. Rosquinhas fritas. Sonhos.
+664.684	Produtos de panificação recheados.
+Tortas. Pastéis. Rolos de massa com
+recheio (p. ex., rolos de salsicha).
+664.685	Produtos especiais de panificação sem farinha.
+→ 664.14 Processamento do açúcar. Produtos do açúcar. Doces, confeitos de açúcar
+664.685.4	Produtos de massa de amêndoas, de creme de coco, etc.
+664.685.6	Merengues, suspiros.
+664.686	Pudins e seus ingredientes.
+→ 641.85 Sobremesas
+664.69	Produtos de massa de cereais. Massas
+alimentícias. Massas. Cereais
+processados.
+664.691	Matérias-primas para massas alimentícias.
+664.692	Processos de fabricação de massas.
+664.694                    Produtos feitos de massas. Inclusive Macarrão. Vermiceli. Espaguete. Aletria. Talharim.
+664.696	Cereais processados. Cereais prontos para servir. Cereais para o café da manhã.
+→ 664.78 Tecnologia de cereais, exceto trigo e centeio. Inclusive Pipoca
+664.696.l	Cereais em flocos.
+664.696.2	Cereais estufados.
+664.696.3	Cereais em pedaços.
+664.696.4	Cereais granulados, prontos para servir.
+664.7	Tecnologia dos cereais. Moagem de trigo e de milho. Beneficiamento de grãos.
+→ 621.927 Cominuição de materiais moles
+→ 663.531 Processamento do grão. Produção de mosto sacarífero
+→ 664.2.03 Tratamento das fontes de amido, das matérias-primas do amido, antes da secagem
+664.71	Moagem de trigo e centeio. Moinhos de farinha.
+Subdivisões auxiliares especiais
+664.71-11	Trigo.
+664.71-12	Centeio.
+664.71.05	Maquinaria de moinhos.
+Divisões principais
+664.715	Propriedades e estrutura do grão em
+relação à moagem.
+664.717	Princípios gerais de moagem. Comparações
+dos processos de moagem.
+664.72	Armazenamento, limpeza e
+acondicionamento do grão.
+664.723	Limpeza do grão antes do armazenamento.
+Aspiração e secagem do grão.
+→ 631.365 Equipamentos para secagem, arejamento, ventilação de produtos agrícolas. Secadores. Ventiladores de produtos agrícolas
+664.724	Armazenamento do grão.
+→ 631.24 Construções para armazenamento, manuseio e processamento de produtos agrícolas
+→ 631.563 Preparo e armazenamento do produto
+→ 725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de serviços públicos
+664.726	Limpeza final do grão (logo antes da moagem). Inclusive Aspiração, separação, lavagem do grão.
+664.727	Tratamento especial, físico e químico, do grão de cereal. Inclusive Branqueamento do grão inteiro. Esterilização do grão.
+664.73	Moagem do grão. Moagem do cereal.
+ → 621.926/.927
+664.731	Métodos primitivos de moagem. Inclusive Pilões e almofarizes. Moinhos manuais com discos ou rolos.
+664.732	Moagem com pedras e discos. Pedras de mó,
+664.733	Moagem com rolos. Moinhos de rolo.
+Esmagadores, conversores, redutores
+cilíndricos.
+664.734	Cominuição por golpes, pisoteamento, etc.
+Moinhos de martelo.
+664.738	Dispositivos de desfloqueamento
+(separadores).
+664.74	Peneiragem, triagem, purificação dos
+produtos da moagem. Outras operações de
+moagem de farinha.
+664.741	Peneiragem da farinha, etc.
+664.742	Triagem da farinha com peneiras de metal,
+telas de pano.
+664.743	Triagem e purificação de semolina.
+664.744	Equipamento e máquinas auxiliares.
+664.746                    Tratamento da farinha para melhorar a
+qualidade de assamento, a cor.
+      → 664.644 Outras matérias-primas para produtos de panificação. Matérias para melhorar a farinha
+664.748	Outros tratamentos dos produtos de moagem. Inclusive Esterilização. Desnaturação. Enriquecimento.
+664.76	Produtos e subprodutos diversos da
+moagem e limpeza.
+→ 663.942 Café de cereal. Café de bolota de carvalho
+664.761	Farinha (como produto da moagem).
+→ 664.641 Farinhas em geral e farinha de trigo
+664.762	Semolina.
+→ 664.743 Triagem e purificação de semolina
+664.764	Farelo.
+664.765	Germe de cereal.
+→ 665.33 Óleos vegetais semi-secantes
+664.768	Restos. Produtos residuais da moagem.
+664.78	Tecnologia de cereais, exceto trigo e centeio.
+	      → 636.086 Alimentos vegetais específicos
+      → 664.696Cereais processados. Cereais prontos para servir. Cereais para o café da manhã
+
+Subdivisões auxiliares especiais
+664.78.01	Princípios gerais do beneficiamento de cereais.
+664.78.03	Armazenamento e conservação de cereais.
+→ 664.724 Armazenamento do grão
+Divisões principais
+664.782	Beneficiamento de arroz.
+664.782.2	Métodos primitivos de beneficiamento do arroz. Dispositivos manuais. Inclusive Escaldamento do arroz.
+664.782.4	Processos modernos de beneficiamento do arroz. Inclusive Limpeza, secagem, descascamento do arroz. Separação. Máquinas 
+	de armazenamento. Polimento do arroz.
+664.782.7	Outros tratamentos do arroz. Inclusive Parboilização, conversão, pré-cozimento do arroz. Maleiquização.
+664.782.8	Produtos do arroz. Inclusive Farinha de arroz. Arroz moído. Arroz parboilizado. Arroz pré-cozido. Subprodutos do 
+	arroz; p. ex., ração para animais.
+664.784	Beneficiamento do milho. Moagem do milho.
+664.784.8	Produtos do milho. Subprodutos do milho; p.
+ex., ração animal.
+664.785	Beneficiamento de aveia. Moagem de aveia.
+664.78 5.3	Produção de flocos de aveia. Inclusive Limpeza, separação, secagem de aveia. Descascamento, separação das
+                                 cascas e da aveia. Transformação da aveia pilada em flocos.
+664.785.8	Produtos da ave ia. Inclusive Aveia laminada. Farinha de aveia. Subprodutos da aveia; p. ex., ração animal.
+664.786	Beneficiamento da cevada. Moagem da cevada,
+→ 663.43 Preparo do malte. Maltagem
+664.786.3	Produção da cevada com casca e da cevadinha. Inclusive Limpeza, branqueamento, separação, descascamento da cevada.                          	Granulação da cevada. Processos complementares.
+664.786.8	Produtos d a cevada. Inclusive Cevada com casca. Cevada granulada. Subprodutos da cevada; p. e.x..,ração animal
+664.788	Beneficiamento de outros cereais e grãos similares. Inclusive Beneficiamento do sorgo, trigo-sarraceno, painço.
+664.8/.9	Técnica de conservação de alimentos.
+664.8	Conservação de substâncias orgânicas comestíveis (em geral). Conservação de produtos vegetais.
+Subdivisões auxiliares especiais
+664.8.022		Tratamento e preparo de matérias-primas para conservação de alimentos.
+	      → 663.05Aditivos. Preservação. Tratamento posterior 
+      Classificar aqui o uso de aditivos nos alimentos em geral. Para alimentos específicos com aditivos, ver as várias
+       subdivisões de 664 
+       Subdividir como em 66.022... 
+Exemplo(s) de combinação(ões): 
+      664.8.022. l Tratamento prévio de alimentos crus. Especificar. 
+      664.8.022.3 Tratamento prévio com preservativos e outros aditivos
+664.8.022.7	Tratamento culinário, cozimento de alimentos preparados para conservação.
+664.8.022.7 dividido como 641.52
+664.8.03	Armazenamento e conservação de alimentos.
+→ 621.796 Guarda. Armazenamento
+664.8.03l664.8.031	Armazenamento de alimentos em tu l hás. silos,
+recipientes abertos, vasilhames.
+664.8.032	Armazenamento de alimentos em recipientes,
+vasilhames fechados. Armazéns, paióis
+fechados para alimentos.
+664.8.033	Conservação de alimento a vácuo.
+664.8.034	Conservação de alimento por defumação.
+664.8.035	Conservação de alimentos com produtos
+químicos.
+664.8.035.l		Conservação por gases.
+664.8.035.2	Conservação por salga.
+664.8.035.3	Conservação por salga e defumação.
+664.8.035.4	Conservação em ácidos (p. ex.. vinagre).
+664.8.035.5	Conservação em xaropes de açúcar. Inclusive Açucaramento. Cristalização.
+	      → 664.144/.149 Produtos diversos de açúcar de confeitaria
+664.8.035.6	Conservação em líquidos alcoólicos.
+664.8.035.7	Conservação com anti-sépticos. Inclusive Conservação com formaldeído, benzoatos, salicilatos, fenóis, boratos, sulfitos, leite de                                                                  cal.
+664.8.036	Conservação de alimentos por aquecimento.
+664.8.036.l		Conservação por cozimento em geral.
+664.8.036.2	Superaquecimento. Esterilização. Esterilização em autoclave. Conservação asséptica.
+→ 66.046.8 Aquecimento sob pressão. Autoclave
+664.8.036.3	Conservação por pasteurização em geral.
+664.8.036.5	Aquecimento do alimento em latas. Latas de
+conservas. Alimento enlatado.
+Exemplo(s) de combinação(ões);
+ 664.8.036.5:543 Exame químico de alimentos enlatados (inclusive análise de ar nas latas)
+	      → 672.46 Latas de conservas. Latas para alimentos
+664.8.036.52	Enlatamento de alimentos em geral.
+→ 664.9 Conservação de produtos animais
+664.8.036.522	Teste da qualidade de conservação.
+664.8.036.523	Deterioração de alimentos enlatados. Dilatação
+das latas (abaulamento). Exame bacteriológico
+do alimento enlatado.
+Especificar por: 579.8...
+→ 614.31 Fiscalização de alimentos
+→ 579.67 Microbiologia dos alimentos
+664.8.036.53	Equipamento para conservação. Máquinas para
+encher e fechar latas. Equipamento para
+cozinhar e resfriar o alimento enlatado.
+→ 672.462 Fechamento de latas. Métodos de vedação
+664.8.036.58	Alimentos enlatados em geral.
+Qualidades de conservação. Testes.
+664.8.036.6	Aquecimento de alimento em garrafas, potes. Inclusive Vedação hermética.
+	      → 666.17 Vidro oco em geral (independentemente do processo de produção). Vidro oco soprado em particular
+664.8.036.7	Aquecimento de alimento em recipientes,
+exceto latas e garrafas.
+664.8.037	Conservação de alimento por refrigeração.
+Armazenamento e transporte de alimento refrigerado.
+→ 621.56/.58
+→ 656.073.44 Carga segundo o tipo de veículo requerido
+→ 66.045.5 Resfriamento e refrigeração. Resfriadores. Refrigeradores
+→ 725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de serviços públicos
+664.8.037.1	Resfriamento de alimento. Armazenamento a baixas temperaturas (acima do ponto de congelamento). Tratamento com 
+	gelo.
+664.8.037.5	Congelamento de alimento (congelamento profundo). Armazenamento em congeladores (abaixo do ponto de congelamento).
+	      → 621.565 Câmaras frigoríficas. Armazéns frigoríficos. Câmaras de congelamento. Câmaras de baixa temperatura. Trocadores de 
+	      calor
+664.8.037.59	Uso de alimentos congelados. Inclusive Descongelamento.
+664.8.038	Conservação do alimento com o emprego de envoltórios protetores.
+664.8.039	Outros métodos de conservação dos alimentos.
+→ 66.08 Operações e equipamento físicos e físico-químicos. Efeitos físicos e físico-químicos sobre os processos químicos
+664.8.039.3	Conservação por pressão.
+664.8.039.4	Conservação por vibração. Conservação
+por ultra-som.
+664.8.039.5	Conservação por radiação. Inclusive Conservação por radiação ultravioleta.
+664.8.039.7	Conservação por processos biológicos. Inclusive Conservação par fermentação.
+664.8.047	Conservação por secagem. Desidratação do alimento. Inclusive Liofilização.
+Subdividir como em 66.047... 
+Divisões principais
+664.83	Conservação de tubérculos de vegetais, batatas, etc.
+664.833	Tubérculos, batatas, etc. conservados por armazenamento ou produtos químicos
+                                 664.833 dividido como 664.8.03
+664.834	Tubérculos, batatas, etc. ,conservadas por
+secagem. Tubérculos, batatas, etc. ,desidratados. Batata em pó.
+664.84	Conservação de outros vegetais, legumes.
+Exemplo(s) de combinação(ões):
+664.84:635.65 Conservação de grãos de leguminosas
+664.843	Vegetais conservados por métodos especiais.
+Indicar o tipo de vegetal por meio de: 635... 
+664.843 dividido como 664.8.03 
+Exemplo(s) de combinação(ões):
+664.843.5:635.64 Tomates, pimentões, berinjelas, etc. ,preservados quimicamente
+664.844	Vegetais secos. Vegetais desidratados.
+Indicar o tipo de vegetal por meio de :635...
+664.848	Fungos comestíveis em conserva (inclusive cogumelos secos). Inclusive Cogumelos e trufas em conserva.
+664.849	Pastas, cremes, purês de vegetais.
+Indicar o tipo de vegetal por meio de : 635...
+664.85	Conservação de frutos (inclusive nozes).
+664.853	Frutas conservadas por métodos específicos.
+Indicar o tipo de fruta por meio de : 634...
+ 664.853 dividido como 664.8.03
+Exemplo(s) de combinação(ões):
+664.853.5:634.53 Castanhas conservadas quimicamente
+664.854	Frutas conservadas por desidratação. Frutas secas e desidratadas.
+Indicar o tipo de fruta por meio de : 634...
+664.856	Conservas produzidas a partir de suco de frutas. Geléias de frutas.
+Indicar o tipo de fruta por meio de :634...
+664.857	Xaropes de frutas. Concentrados de sucos.
+Indicar o tipo de fruta por meio de : 634...
+→ 663.81 Sucos de frutas. Sucos de verduras. Xaropes para refrigerantes
+664.858	Geléias. Pastas de frutas. Frutas cristalizadas.
+Indicar o tipo de fruta por meio de : 634...
+664.86	Conservação de outros produtos vegetais. Inclusive Conservação de plantas aromáticas, bebidas à base de sucos, óleos.
+664.87	Alimentos concentrados em geral.
+Concentrados vegetais em particular.
+→ 664.932 Produtos concentrados de carne
+664.871	Produtos de sopas em geral. Inclusive Sopas em pó. Sopas. Molhos.
+664.872	Preparados e produtos de levedura.
+→ 663.12 Leveduras, fermentos
+664.874	Preparados e produtos de malte.
+→ 663.43 Preparação do malte, maltagem
+664.9	Conservação de produtos animais.
+→ 637 Produtos de animais domésticos e de caça 
+Subdivisões auxiliares especiais
+664.9.022	Tratamento prévio e preparo de matérias- primas para conservação de alimentos. 
+                                           Subdividir como em 66.022.... 
+                                           Ver exemplos em 664.8.022
+664.9.022.7	Tratamento culinário, cozimento de alimentos preparados, para conservação.
+664.9.022.7 dividido como 641.52
+664.9.03	Armazenamento e conservação.
+664.9.03 dividido como 664.8.03
+664.9.047	Conservação por secagem, desidratação.
+Subdividir como em 66.047... 
+Divisões principais
+664.91	Conservação de carne em geral.
+→ 637.52 Carnes processadas, curadas, preparadas e cozidas. Sua produção
+664.92	Carne seca, defumada e salgada.
+664.921	Carne seca. Inclusive Charque. Jabá. Carne-de-sol. Carne-do-sertão.
+664.922	Carne salgada.
+664.923	Carne defumada, carne moqueada.
+664.93	Carne enlatada. Produtos de carne
+em conserva.
+664.931	Carne em conserva em lata. Carne
+enlatada. Inclusive Carne prensada; (p. ex., corned beefi).
+664.932	Produtos concentrados de carne.
+664.932.l	Produtos de sopa feita de carne em geral.
+→ 664.871 Produtos de sopas em geral
+664.932.2	Extratos, caldos de carne. Inclusive Caldos de carne. Consomes.
+664.932.7	Carne em pó. Farinha de carne.
+664.933	Produtos de carne enlatada. Inclusive Salsichas, lingüiças enlatadas, presunto, galantina enlatada.
+664.934	Carne conservada em vasilhames. Pastas de carne.
+664.935	Carne conservada em vinagre.
+664.95	Conservação de peixe. Produtos de peixe em conserva.
+→ 639.2.068 Processamento e conservação do pescado a bordo (exceto refrigeração). Usina, equipamento de processamento a bordo. Navios-fábrica
+664.951	Conservação de peixe em salmoura, cura, defumação, marinada, etc.
+                                       Especificar por meio de :639.2...
+664.951.l	Armazenamento preliminar de peixe em gelo.
+→ 639.2.067 Manuseio e tratamento do pescado a bordo
+664.951.2	Peixe salgado.
+Exemplo(s) de combinação(ões):
+664.951.2:639.222.2 Arenques salgados
+664.951.3	Peixe defumado, marinado.
+664.951.31	Peixe defumado a quente.
+Exemplo(s) de combinação(ões):
+664.951.31:639.222.2 Arenques defumados a quente
+664.951.32	Peixe defumado a frio.
+Exemplo(s) de combinação(ões):
+664.951.32:639.211 Salmão (e outros peixes da família do salmão) defumados a frio
+664.951.4	Peixe conservado em óleo.
+Exemplo(s) de combinação(ões):
+664.951.4:639.223.2 Hadoque em óleo
+664.951.5	Peixe marinado.
+664.951.51             Peixe marinado a frio.
+Exemplo(s) de combinação(ões):
+      664.951.51:639.222.2 Arenques marinados a frio
+     664.951.53	Peixe marinado em fervura.
+Exemplo(s) de combinação(ões):
+664.951.53:639.213 Galantinas de enguia
+664.951.6	Produtos esterilizados de peixe. Tortas de peixe, etc.
+Exemplo(s) de combinação(ões):
+664.951.6:639.222.5 Sardinhas em óleo
+664.951.7	Conservas de mariscos e crustáceos.
+664.952	Salsicha de peixe. Inclusive Salsicha de fígado de bacalhau. Salsicha de caranguejo em lata.
+664.953	Pastas de peixes e crustáceos.
+664.955	Ovas de peixe (duras e macias). Inclusive Caviar.
+664.956	Secagem de peixe. Peixe seco. Inclusive Bacalhau seco e salgado
+664.957	Farinha de peixe.
+→ 631.854 Guano (excrementos de pássaros e morcegos). Guano de peixes (farinha de peixe)
+664.958.2	Saladas de peixe.
+664.958.8	Saladas de crustáceos.
+664.959                 Outros produtos de peixe.
+         → 665.213/.214
+664.97	Conservação de outros produtos animais.
+664.97 dividido como 637
+
+665 Óleos. Gorduras. Ceras. Adesivos. Colas. Gomas. Resinas
+
+    →  547.71 Hidrocarbonetos. Óleos. Gorduras. Ceras. Bálsamos. Gomas. Carboidratos
+   665.1	   Generalidades sobre óleos, gorduras, ceras e produtos deles derivados.
+  Indicar os processos químicos no tratamento de óleos, gorduras, ceras, etc., Por meio de .09... (de 66.09...)
+665.11		Generalidades sobre produtos derivados
+de óleos, gorduras e ceras.
+665.112	Propriedades características. Inclusive Conteúdo vitamínico. Valor nutritivo. Rancidez.
+665.114	Substância não-saponificável.
+665.117	Torta de óleo. Farinha extraída. Torta
+obtida por extratores de baixa pressão.
+665.12	Ácidos graxos. Generalidades sobre a
+produção do ácido esteárico.
+665.122	Produção de ácidos graxos. Separação a
+partir de glicerol. Saponificação.
+665.123	Síntese de ácidos graxos.
+665.124	Destilação de ácidos graxos.
+665.126	Separação de ácidos graxos sólidos dos
+ácidos graxos líquidos.
+665.127	Produtos diversos de ácidos graxos. Inclusive Ácidos graxos saturados e não-saturados. Estearina.
+665.128	Produção de ácidos graxos sólidos a partir
+dos ácidos graxos líquidos. Conversão do ácido oléico em ácido isooléico.
+665.13	Generalidades sobre ceras.
+→ 665.92 Adesivos. Colas. Gelatinas. Proteínas
+665.135	Ceras sintéticas e substitutos de cera.
+665.14	Fabricação de velas em geral.
+→ 628.9.045 Iluminação. Engenharia da iluminação
+→ 665.587 Fumigadores aromáticos. Incensos. Pós, papéis para fumigação. Velas, carvões 
+                                       perfumados, etc.
+Subdivisões auxiliares especiais 
+665.14.059.2             Preparo de pavios de velas.
+665.14.059.4	Estiramento de velas.
+665.14.059.5	Fundição de velas. Outras conformações,
+modelos de velas.
+Divisões Principais
+665.15	Velas de sebo.
+665.16	Velas de estearina (de ácido esteárico).
+665.17	Velas de parafina. Velas de espermacete.
+665.18	Velas de cera. Velas de cera de abelha.
+665.19	Outras gorduras sólidas para uso em iluminação.
+	      → 662.88 Impregnação. Solidificação de combustíveis líquidos. Briquetes de produtos químicos como 
+                                               combustíveis
+665.194	Tochas (archotes).
+      → 628.9.045 Tochas. Archotes. Velas
+      → 662.126 Tochas, archotes como sinais
+665.2	Óleos, gorduras e ceras de origem
+animal.
+      → 637.043 Teor de gordura
+      → 665.529 Aromas de origem animal. Óleos aromáticos de animais
+665.21	Óleos de origem animal.
+665.213	Óleo de peixe.
+      → 639.381 Carne e gordura em geral. Inclusive gordura. Óleo, p. ex., óleo de fígado de peixe
+665.214	Óleo de fígado de peixe.
+665.215	Óleo de mamíferos marinhos.
+Óleo de cetáceos. Inclusive Óleo de baleia.
+665.216	Óleo de anfíbios. Óleo de jacaré.
+Óleo de crocodilo.
+665.218	Óleo de chifres. Óleo de cascos.
+665.219	Outros óleos de origem animal.
+665.22	Gorduras de origem animal. Sebo.
+665.221	Sebo de boi. Sebo de carneiro.
+Torresmos de sebo.
+665.222	Gordura de porco. Banha.
+665.223	Gorduras de mamíferos diversos. Inclusive Gordura de cavalo. Sebo de veado e rena. Gordura de camelo. Gordura de urso.
+665.224	Gordura de aves diversas. Inclusive Gordura de galinha. Gordura de pato. Gordura de ganso.
+665.225	Gordura de outros animais. Inclusive Gordura de répteis (p. ex., de tartaruga e cágado). Gordura de peixe. Gordura de 
+                                   insetos.
+665.228	Gordura de carcaça. Gordura de ossos.
+Gordura de peles. Degrás (gordura de resíduos).
+	      → 637.53 Destino dado às carcaças e seu aproveitamento
+      → 675.044 Gorduras animais e vegetais processadas
+665.23	Ceras de origem animal.
+665.231	Cera de abelha.
+→ 638.171 Cera de abelha
+665.237	Cera de mamíferos marinhos. Espermacete.
+665.238	Colesterol. Lanolina. Gordura de lã.
+665.3	Óleos, gorduras, ceras, fosfatídeos vegetais.
+	      → 633.85 Plantas oleaginosas. Plantas que produzem óleo
+	      → 665.52 Óleos essenciais naturais
+665.32	Óleos vegetais não-secantes.
+665.321	Óleos não-secantes de criptógamos. Inclusive Óleo de cogumelos. Óleo de ergotina. Óleo lactário.
+665.322	Óleos não-secantes de gimnospermas e coníferas. Inclusive Óleo de bagas de zimbro, junípero.
+665.323	Óleos não-secantes de monocotiledôneas. Inclusive Óleo do tubérculo de chufa. Óleo de banana. Óleo de cevadilha.
+665.324	Óleos não-secantes de certas dicotiledôneas. Inclusive Óleo de avelã. Óleo de bolota de carvalho. Óleo de urticáceas. Óleos de ranáceas.
+665.325	Óleos não-secantes das Rosales, Pandales,
+Geraniales, Sapindales, Rhamnales e Malvales.
+665.325.l	Óleo de Rosales, de rosáceas em geral. Inclusive Óleo de amêndoa.
+665.325.2	Óleo de amendoim.
+665.325.3	Óleo de leguminosas, exceto óleo de amendoim.
+665.325.5	Óleo de Geraniales.
+665.3 25.6	Óleo de Sapindales.
+665.325.7	Óleo de sapindíneas. Óleo de balsamíneas.
+665.325.9	Óleo de Malvales.
+665.326	Óleos não-secantes de Parietales,
+Opuntiales, Myrtiflorae e Umbelliflorae.
+665.327	Óleos não-secantes de Metachlamydeae
+e Svmpetalae.
+665.327.3	Óleo (azeite) de oliva.
+665.328	Outros óleos vegetais não-secantes.
+665.329	Óleos vegetais não-secantes
+indeterminados. Inclusive Óleo de manteiga-chinesa.
+665.33	Óleos vegetais semi-secantes.
+	    → 664.765 Germe de cereal.
+665.331	Óleos semi-secantes de criptógamos.
+665.332	Óleos semi-secantes de gimnospermas e coníferas.
+665.333	Óleos semi-secantes de monocotiledôneas. Inclusive Óleos de cereais.
+665.333.4	Óleo de milho.
+665.334	Óleos semi-secantes de certas
+dicotiledôneas.
+665.334.9	Óleo de colza, de semente de colza.
+665.335	Óleos semi-secantes de Rosales, Pandales,
+Geraniales, Sapindales, Rhamnales e Malvales.
+665.335.2		Óleo de soja.
+665.335.5	Óleo de rícino.
+665.336	Óleos semi-secantes de Parietales, Opuntiales, Myrtiflorae e Umbelliflorae.
+665.337	Óleos semi-secantes de Metachlamydeae e Sympetalae.
+665.338	Outros óleos vegetais semi-secantes.
+665.338 dividido como 582
+665.339		Óleos vegetais semi-secantes
+indeterminados.
+665.34	Óleos secantes vegetais.
+665.341	Óleos secantes de criptógamos.
+665.342	Óleos secantes de gimnospermas
+e coníferas.
+665343	Óleos secantes de monocotiledôneas. Inclusive Óleo de semente de aspargo.
+665.344	Óleos secantes de certas dicotiledôneas.
+665.344.2	Óleo de juglandáceas.
+665.344.3	Óleo de moráceas.
+665.344.7	Óleo de ranunculáceas.
+665.344.8	Óleos de readales.
+665.344.9	Óleos de papaveráceas. Óleos de sarraceniales. Inclusive Óleo de sementes de papoula.
+665.345	Óleos secantes de rosales, pandales, geraniales, sapindales, ramnales e malvales.
+665.345.1	Óleos das rosales. Óleos das rosáceas. Inclusive Óleo (de frutos) de roseira. Óleo de groselha. Óleo (da semente) de 
+	framboesa. Óleo (da semente) de amoras. Óleo (da semente) de morango.
+665.345.2	Óleos das papilionáceas. Inclusive Óleo de acácia.
+665.345.4	Óleo de linhaça. Óleo de semente de linho.
+665.345.5	Óleos das euforbiáceas em geral.
+665.345.6	Óleo de madeira. Óleo de tungue.
+665.345.8	Óleos das geraniales. Inclusive Óleo de ngart.
+665.345.9	Óleos de sapindales. Óleos de ramnales.
+Óleo de malvales.
+665.346	Óleos secantes de parietales, opuntiales,
+mirtifloras e umbelifloras.
+665.347	Óleos secantes de metaclamídeas
+e sim pétalas.
+665.347.1	Óleos de diapensilae. Óleos de ericales. Óleo
+de primulales. Óleos de plumbaginales. Óleo de árbuto. Óleo (da semente) da baga de mirtilo.
+665.347.3	Óleos das contortas.
+665.347.4	Óleos de tubifloras em geral. Óleos de labiadas.
+665.347.5	Óleos de solanáceas. Óleos de escrofulariáceas.
+665.347.7	Óleos de campanuladas. Óleo de lobélia.
+665.347.8	Óleos de compostas. Óleo de girassol.
+665.347.9	Outros óleos de compostas.
+665.348	Outros óleos vegetais secantes.
+665.348 dividido como 582
+665.349	Óleos vegetais secantes indeterminados. Inclusive Óleo de mohamba.
+665.35	Gorduras e óleos vegetais com ponto de
+fusão elevado.
+665.351	Gorduras de criptógamas.
+665.353	Gorduras de monocotiledôneas.
+665.3.533	Gorduras de palmeiras.
+665.353.4	Óleo de palma. Óleo de dendê.
+665.353.6	Óleo de coco. Manteiga de coco. Inclusive Copra.
+665.354	Gorduras de dicotiledôneas.
+665.355	Gorduras de rosales, pandales, geraniales,
+ sapindales, ramnales e malvales.
+665.356	Gorduras de parietales, opuntiales,
+ mirtifloras e umbelifloras.
+665.357	Gorduras de metaclamídeas e simpétalas.
+665.358	Outras gorduras vegetais.
+665.358 dividido como 582
+665.359	Gorduras vegetais indeterminadas.
+665.36	Ceras vegetais. Inclusive Cera de carnaúba.
+665.37	Fosfatos vegetais. Inclusive Lecitina.
+665.38	Produtos especiais.
+665.381	Óleos sintéticos.
+665.382	Óleos, gorduras, ácidos graxos
+e ceras sulfonados.
+665.383	Óleos modificados. Inclusive Óleos fervidos. Óleos polimerizados. Óleos oxidados.
+665.5	Óleos essenciais. Perfumaria.
+Cosméticos.
+665.52/.54	Óleos essenciais.
+665.52	Óleos essenciais naturais.
+→ 665.2 Óleos, gorduras, ceras, fosfatídeos vegetais
+665.522	Óleos essenciais de criptógamas.
+665.523	Óleos essenciais de gimnospermas
+e coníferas.
+665.524	Óleos essenciais de monocotiledõneas.
+665.525	Óleos essenciais de dicotiledôneas.
+665.526	Óleos essenciais de rosales, geraniales,
+sapindales, malvales, parietales, mirtifloras
+e umbelifloras.
+665.527	Óleos essenciais de metaclamídeas.
+665.528	Óleos essenciais de outras plantas.
+665.528 dividido como 58
+665.528.l	Óleos essenciais de plantas indeterminadas.
+665.529	Aromas de origem animal.
+Óleos aromáticos de animais.
+→ 665.Óleos, gorduras e ceras de origem animal
+665.529.2	Âmbar.
+→ 639.388 Âmbar
+665.529.4	Almíscar.
+→ 637.68 Algália. Almíscar. Castóreo
+665.53	Componentes principais de óleos
+essenciais.
+Especificar por meio de :547..., especialmente :547.9l3...
+665.54	Óleos essenciais sintéticos. Inclusive Almíscares artificiais.
+665.56	Essências de frutas.
+→ 664.857 Xarope de frutas. Concentrados de sucos
+665.562	Essências naturais de frutas.
+665.564	Essências sintéticas de frutas.
+665.57	Perfumaria. Perfumes.
+665.572	Perfumes naturais.
+Especificar por meio de :665.52...
+665.574	Perfumes sintéticos.
+Especificar por meio de : 547...
+665.577	Perfumaria. Fabricação de perfumes
+a partir de diversas substâncias.
+665.58	Cosméticos. Artigos de toalete.
+ → 613.49 Artigos de toucador. Cosméticos. Maquiagem. Loções. Colorantes
+→ 646.7 Cuidado corporal. Cuidados da beleza. Acessórios para vestir-se e despir-se
+→ 687.5 Indústrias de cosmetologia
+665.582	Águas de toalete. Aditivos para banhos.
+Outras substâncias perfumadas.
+665.582.2	Águas de toalete. Águas perfumadas.
+665.582.3	Desodorantes. Antiperspirantes.
+665.582.4	Aditivos para banho. Inclusive Sais de banho. Essências de banho. Óleos de banho.
+665.582.7	Sais perfumados. Sachés perfumados.
+Bolsinhas, saquinhos de cheiro.
+665.582.8	Substâncias perfumadas. Lápis, bastonetes
+perfumados. Bastões de água-de-colônia,
+de mentol, etc.
+665.583	Produtos para a higiene da boca e dos dentes.
+665.583.2	Soluções para higiene oral. Perfumadores
+do hálito. Inclusive Tabletes para fazer soluções de limpeza oral. Borrifadores, sprays, para higiene oral.
+665.583.4		Produtos para higiene dos dentes. Inclusive Pastas de dentes. Dentifrícios. Pós dentifrícios.
+665.584	Cremes para pele. Artigos de maquiagem.
+Pós. Cosméticos para as unhas.
+665.584.2	Cremes para a pele. Loções faciais. Maquiagem.
+665.584.22	Cremes à base de emulsões sólidas. Inclusive Cremes sólidos com aditivos: cremes de vitaminas, cremes de
+                                  hormônios, etc..
+665.584.223	Cremes de barbear e cremes para cuidado da pele após a barba.
+→ 665.585.9 Produtos para cuidado da pele após a barba. Produtos estípticos, adstringentes
+665.584.24	Cremes líquidos à base de emulsões. Inclusive Cremes líquidos com aditivos: cremes vitaminados, cremes com
+                                    hormônios, etc..
+665.584.25	Loções para a pele. Loções faciais.
+665.584.26	Óleos, cremes, ungüentos para a pele.
+665.584.28	Maquiagem. Cosméticos faciais.
+→ 665.584.4 Pós
+665.584.288	Lápis de maquiagem. Batons.
+Lápis para os lábios.
+665.584.4	Pós. Inclusive Talcos. Talcos para bebês. Pós-faciais (pó-de-arroz).
+665.584.7	Produtos para cuidado das unhas, manicure.
+Cosméticos para as unhas. Inclusive Esmalte de unhas. Removedores de esmalte.
+665.584.8		Maquiagem para os cílios e as sobrancelhas. Inclusive Rimmel Delineadores. Lápis de sobrancelhas.
+665.585	Produtos para cuidados do cabelo.
+665.585.2	Protetores contra problemas do cabelo e do
+couro cabeludo. Remédios contra caspa.
+Remédios contra queda de cabelo, calvície.
+Condicionadores de cabelo.
+665.585.3	Corantes e descorantes de cabelo. Tinturas para
+cabelo. Descorantes para cabelo.
+665.585.4	Produtos para penteado. Fornadas.
+Brilhantinas. Fixadores. Óleos, cremes, etc. , de cabelo.
+665.585.5	Limpadores de cabelo. Xampus de cabelo.
+665.585.6	Loções capilares.
+665.585.7	Preparados para ondulação permanente.
+665.585.8	Removedores de pêlos. Depiladores.
+665.585.9	Produtos para cuidado da pele após a barba.
+Produtos estípticos, adstringentes.
+→ 665.584.223 Creme de barbear e cremes para cuidado da pele após a barba
+665.587	Fumigadores aromáticos. Incensos.
+Pós, papéis para fumigação. Velas, carvões perfumados, etc..
+→ 665.14 Fabricação de velas em geral
+665.6/.7	Processos e produtos do petróleo e
+indústrias afins. 
+      → 621.89 Lubrificação
+      → 662.7 Gases
+665.6	Tecnologia de óleos minerais.
+Tecnologia do petróleo e produtos afins.
+→ 662.753 Óleos minerais como combustíveis
+665.61	Petróleo cru, óleo cru.
+      → 622.276/.279
+665.612	Componentes gasosos do petróleo cru
+(inclusive gás natural).
+      → 662.767 Hidrocarbonetos gasosos diversos como combustíveis
+      → 665.72 Gases
+665.613	Componentes líquidos do petróleo cru.
+665.614	Misturas coloidais, emulsões no
+petróleo cru.
+665.615	Outros componentes líquidos. Inclusive Água salgada no petróleo cru.
+665.617	Componentes sólidos do petróleo cru.
+665.62	Tratamento do petróleo cru e do gás
+natural para processamento, conversão
+e refino.
+665.622	Separação do petróleo cru de gases, sólidos
+e água salgada.
+665.622.2	Separação de gás natural do petróleo cru que
+contém sólidos e água salgada.
+665.622.3	Separação de sólidos do petróleo cru que
+contém água salgada.
+665.622.4	Separação do óleo da água salgada.
+665.622.7                  Processamento de produtos crus no
+próprio campo.
+665.625	Estabilização (fracionamento sob
+pressão crescente).
+665.63	Processos de tratamento do petróleo
+cru e suas frações, principalmente
+por destilação.
+Especificar os processos de destilação e aparelhos por meio de 048... (de 66.048...)
+665.632	Obtenção e processamento de gases.
+Craqueamento e regeneração de gases.
+665.633	Obtenção e processamento de gasolinas.
+665.633.2                   Gasolina leve (ponto de ebulição 100º C).
+665.633.7	Gasolina pesada (nafta) (ebulição entre
+100-200º C).
+665.633.8	Preparo de gasolinas com diferentes pontos
+de fusão. Inclusive Por redestilação.
+665.634	Obtenção e manufatura de querosene
+(ebulição entre 150-250º C).
+665.635	Obtenção e processamento do gás óleo (ponto de ebulição 200-350º C).
+665.637	Obtenção e processamento de resíduos grandes
+ou petróleos crus de destilação primária.
+665.637.2	Produtos parafínicos.
+Para querosene, ver 665.634, 665. 74
+665.637.3	Produtos asfálticos.
+665.637.4	Produtos de base mista.
+665.637.5	Frações de resíduos longos.
+665.637.6	Produção de óleo lubrificante.
+      → 621.892 Lubrificantes
+      → 665.765 Óleos lubrificantes. Graxas
+665.637.7	Produção de parafina (cera).
+665.637.8	Produção de betume de asfalto.
+665.64	Craqueamento e reformação.
+→ 66.092 Processos de decomposição. Craqueamento. Clivagem. Destruição
+→ 66.092.81 Processos para refino posterior de produtos de craqueamento. Reformação
+665.642	Processos térmicos de craqueamento
+e reformação.
+665.644	Processos catalíticos de craqueamento e reformação.
+→ 097.3 Catalisadores para craqueamento e reformação
+→ 09738 Regeneração catalítica
+665.644.2	Processos de craqueamento catalítico.
+665.644.4	Processos de reformação catalítica. Inclusive Platforming. Cat-forming. Houdriforming. Hydroformsng. Processo
+                               thermofor.
+665.65	Diferentes processos de conversão, exceto
+craqueamento e reformação. Síntese.
+Remoção de componentes indesejados por
+processos de alta temperatura.
+      Indicar os processos não relacionados em 665.65...por meio de .09... (de 66.09...) 
+Exemplo(s) de combinação(ões):
+665.65.095.81 Nitração
+665.652	Processos que produzem moléculas grandes
+(se forem específicas do óleo mineral).
+665.652.2	Polimerização.
+665.652.4	Alquilação.
+665.652.5	Condensação.
+665.652.7	Síntese de fontes de óleo não-minerais. Inclusive Síntese de Fischer-Tropsch. Hidrogenação de monóxido de carbono. 
+                                 Hidrogenação de sólidos.
+665.652.8	Reação com produtos químicos diversos. Inclusive Halogenação. Oxidação. Sulfurização.
+665.654	Processos de degradação.
+665.654.2	Divisão por hidrogenação. Hidrocraqueamento.
+665.656	Processos que mudam a estrutura
+básica do carbono sem afetar, em geral,
+o peso molecular.
+665.656.2	Isomerização em cadeias ramificadas
+(alifáticas).
+665.656.4	Ciclização.
+665.656.6	Aromatização.
+665.658	Processos que não afetam principalmente
+a formação básica do carbono nem suas dimensões.
+665.658.2	Hidrogenação. Hidro-refínação.
+665.658.4	Desidrogenação.
+665.658.6	Processos catalíticos.
+665.66	Refino. Remoção de componentes
+indesejados por processos a baixa temperatura.
+665.662	Processos físicos de refino.
+665.662.2	Adsorção. Inclusive Com greda de pisoeiro, bauxita, gel de sílica, caulim.
+665.662.3	Processos de extração seletiva.
+665.662.5	Resfriamento, cristalização e tratamento
+subseqüente dos produtos.
+      → Ignitores. Escorvas. Fósforos. Isqueiros
+665.663	Processos físico-químicos de refino.
+665.664	Processos químicos de refino.
+665.664.2	Refino com emprego de substâncias químicas
+inorgânicas. Inclusive Lavagem alcalina. Refino com ácido sulfúrico. Refino com sais. Processos
+de adoçamento.
+665.664.3	Refino com emprego de substâncias químicas orgânicas. Inclusive Com aminas. Com fenóxidos.
+665.666	Processos de refino segundo os
+componentes removidos.
+665.666.2	Remoção de hidrocarbonetos específicos.
+665.666.4	Remoção de substâncias que contêm enxofre. Inclusive Remoção de tioálcoois, de mercaptanos.
+665.666.5	Remoção de outras substâncias que contêm oxigênio. Inclusive Remoção de ácidos naftênicos, naftenatos,fenóis, cresóis.
+665.666.6	Remoção de substâncias que contêm nitrogênio.
+665.668	Refino segundo o efeito desejado. Inclusive Para descaramento, desodorização, prevenção de corrosão.
+665.7	Produtos da indústria de óleos
+minerais. Óleos minerais e produtos similares.
+Subdivisões auxiliares especiais
+665.7.03	Produtos segundo a origem e as propriedades.
+Aditivos que influem sobre as propriedades.
+665.7.032	Produtos segundo a origem.
+665.7.032.2	Produtos naturais não-modificados.
+665.7.032.5              Produtos derivados da modificação de produtos
+naturais (exceto os produtos de óleo mineral). 
+      → 662.71/.74
+665.7.032.52	Da madeira.
+→ 662.71Tecnologia dos combustíveis de madeira
+665.7.032.53	Da turfa.
+→ 663.73 Tecnologia do combustível de turfa, de linhito, de lixo, etc.
+665.7.032.54	Do linhito.
+665.7.032.56	Do carvão (carvão duro).
+→ 662.74 Tecnologia de combustível de antracito, carvão betuminoso. Produção de coque
+665.7.032.57	De areia (atabasca) ou xisto betuminoso.
+→ 665.775Betume asfáltico
+665.7.033	Produtos segundo a composição ou os
+componentes específicos.
+665.7.033.2	Compostos de hidrocarbonetos.
+665.7.033.22	Parafinas. Produtos parafínicos.
+665.7.033.23	Naftenos. Produtos naftênicos.
+665.7.033.25                 Produtos aromáticos.
+665.7.033.28                Produtos asfálticos.
+665.7.033.5	    Produtos segundo os elementos específicos
+que contêm. Inclusive Conteúdo de enxofre, nitrogênio.
+665.7.033.8	Produtos segundo o peso ou leveza. Inclusive Peso molecular. Volatilidade. Ponto de fusão. Densidade.
+665.7.035	                  Propriedades de aplicação.
+665.7.035.2	Compatibilidade (p. ex., capacidade solvente, ponto de névoa). Propriedades capilares e coloidais (p. ex., tensão 
+	superficial).
+665.7.035.3	Propriedades de inflamabilidade e ignição. Inclusive Detonação. Formação de fuligem. Ponto de ignição. Capacidade de 
+                                    iluminação. Valor calorífico.
+665.7.035.5	Estabilidade química e física. Inclusive Estabilidade de oxidação. Estabilidade de armazenamento. Estabilidade de calor. 
+                                     Estabilidade de cor.
+665.7.035.6	Propriedades reológicas. Inclusive Oleosidade,fluxo, viscosidade. Índice de viscosidade. Propriedades de penetração.
+665.7.035.7	Propriedades ópticas, organolépticas e outras
+propriedades sensoriais. Inclusive Odor. Sabor. Cor. Fluorescência. Toxicidade.
+665.7.035.8	Propriedades elétricas. Inclusive Propriedades dielétricas, isolantes, antiestáticas.
+665.7.038	Produtos auxiliares. Aditivos que influem sobre
+as propriedades.
+665.7.038.l	Aditivos segundo a composição. Inclusive Aditivos sem cinzas.
+665.7.038.2	Aditivos de ação sobre a superfície
+(surfatantes). Dispersantes. Inclusive Detergentes. Aditivos contra pegajosidade de anel. Emulsificantes. Inibidores de espuma.
+665.7.038.3	Aditivos antidetonantes. Aditivos que
+aumentam o número de octanas.
+665.7.038.5	Antioxidantes. Inibidores de corrosão. Aditivos
+para impedir o desgaste. Passivadores e
+desativadores de metal. 
+665.7.038.62            Aditivos de pressão extrema. Aditivos de oleosidade. 
+665.7.038.64             Aditivos para melhorar o índice de viscosidade.
+Diminuidores do ponto de fluidez. 
+Divisões Principais
+665.71	Produtos petroquímicos (como grupo).
+→ Produtos petroquímicos (como grupo)
+→ 546/547
+665.72	Gases. Inclusive Gases liquefeitos.
+662.767 Hidrocarbonetos gasosos diversos como combustíveis
+      → 665.612 Componentes gasosos do petróleo cru (inclusive gás natural)
+665.73	Gasolinas. Outros produtos com ponto de
+fusão na escala da gasolina. Inclusive Solvente, aguarrás fde petróleo).
+665.733	Gasolinas para motores.
+665.734	Gasolinas com pontos de fusão específicos.
+Gasolinas de teste.
+665.74	Querosene. Material de redução
+para betume.
+665.75	Gasóleos. Óleo diesel. Óleos
+combustíveis.
+665.752	Gasóleos.
+665.753	Combustíveis de injeção.
+Combustíveis diesel.
+665.754	Óleos de fornalha. Óleos combustíveis.
+665.76	Óleos lubrificantes. Graxas. Fluidos
+especiais. Outros produtos f racionados
+além dos hidrocarbonetos.
+665.761	Óleos, graxas, etc. , segundo a fabricação.
+665.761.2	Óleos destilados.
+665.761.4	Óleos residuais.
+665.761.6	Óleos altamente refinados. Inclusive Óleo branco. Parafina liquida.
+665.765	Óleos lubrificantes. Graxas.
+→ 621.892 Lubrificantes
+→ 665.637.6 Produção de óleo lubrificante
+665.766	Frações que não são hidrocarbonetos. Inclusive Produtos fenólicos: cresóis, creosoto.
+Especificar por meio de :547...
+665.767	Fluidos para fins especiais.
+Exemplo(s) de combinação(ões):
+665.767:620.197 Fluidos que impedem a corrosão
+665.77	Produtos sólidos e semi-sólidos.
+665.772	Ceras. Cera de parafina.
+Exemplo(s) de combinação(ões):
+      665.772.032.2 Ozocerite. Cera de cerisina
+665.772.3	Ceras microcristalinas, Petrolato. Vaselina.
+665.772.5	Ceras macrocristalinas.
+665.775	Betume asfáltico.
+665.775.4	Misturas de asfalto.
+665.775.5	Emulsões.
+665.777	Produtos carbonáceos.
+665.777.2	Fuligem. Negro-de-fumo.
+665.777.4	Coque de petróleo. Inclusive Coque de eletrodo.
+665.9	Indústrias químicas orgânicas diversas.
+665.92	Ceras de polimento e preparados
+de limpeza.
+665.921	Ceras de polimento. Materiais similares
+sólidos ou pastosos.
+→ 646.65 Limpeza de calçados. Limpeza de sapatos. Lustre, polimento e ceras para sapatos
+665.922	Ceras de polimento líquidas.
+665.926	Preparados para limpar e polir, dar brilho.
+665.93	Adesivos. Colas. Gelatinas. Proteínas.
+→ 637.6 Produtos animais, exceto alimentos
+665.931	Colas em geral.
+→ 665.943 Visco. Goma-de-passarinho
+665.931.7	Gelatina.
+665.932	Cola de couro. Cola de pele.
+665.933	Cola de ossos.
+665.934	Extração de colas e graxas de resíduos
+animais.
+665.935	Cola de peixe. Ictiocola.
+665.936	Cola líquida. 
+665.937	Processamento de ossos em geral.
+665.938		Preto-de-marfim. Carvão animal (negro-de- osso, carvão de osso).
+      → 661.183.2 Carbono ativado
+      → 661.666.6 Carvão animal. Carvão de osso. Carvão de sangue
+665.939	Outros adesivos.
+→ 666.968 Compostos ou cimentos para bases, ligações e junções (para
+                                    materiais específicos)
+665.939.1	Albuminas. Inclusive Albumina de ovo (clara de ovo).
+665.939.2	Proteínas. Inclusive Caseína.
+665.939.3	Adesivos vegetais em geral.
+665.939.35	Produtos de algas.
+665.939.4	Derivados diversos de proteínas. Aminoácidos.
+665.939.5	Adesivos derivados de resinas sintéticas e
+outros plásticos.
+665.939.56	Adesivos derivados de produtos sintéticos de
+policondensação.
+      665.939.56 dividido como 678.6
+665.939.57	Adesivos derivados de produtos sintéticos de
+polimerização.
+      665.939.57 dividido como 678.7
+665.939.6	Adesivos derivados de amido.
+665.94	Gomas. Resinas. Mucilagens. Produtos de
+plantas resinosas.
+→ 633.93/.94
+665.941	Gomas em geral.
+665.941.1	Gomas hidrossolúveis. Inclusive Goma-arábica.
+665.941.2	Gomas não-hidrossolúveis. Inclusive Tragacanto. Bassorina. Goma-de-baçorá.
+665.941.3	Gomas parcialmente hidrossolúveis. Inclusive Goma-de-cerejeira.
+665.943	Visco. Goma-de-passarinho.
+665.944	Resinas. Resinas de goma. Oleorresinas.
+665.944.2	Resinas de éster. Benzorresinas.
+665.944.22	Benzoína.
+665.944.23	Resinas de bálsamo.
+665.944.24	Estoraque.
+665.944.26	Aloés. Resina acaróide.
+665.944.27	Sangue-de-dragão. Outras benzorresinas.
+665.944.28	Resinas de goma de umbelíferas persas e afegãs. Inclusive Assa-fétida. Amoníaco, goma-amoníaco.
+665.944.3	Resinas que contêm reseno. Resinas de
+burseráceas.
+665.944.32	Resinas de goma de burseráceas. Inclusive Mirra.
+665.944.33	Resinas verdadeiras. Resinas verdadeiras de
+burseráceas em geral. Elemi.
+665.944.34	Resinas de anacardiáceas.
+665.944.35	Resinas de dipterocarpáceas.
+665.944.36	Damar.
+665.944.4	Resinas ácidas em geral.
+665.944.5	Resinas de coníferas.
+665.944.52	Resinas fisiológicas de coníferas. Resinas da exsudação primária. Inclusive Sandáraca.
+665.944.53	Resinas patológicas de coníferas. Resinas de
+exsudação secundária em geral.
+665.944.54	Resinas de pinheiro. Terebintinas.
+→ 665.948 Óleos essenciais que ocorrem em oleorresinas de coníferas
+665.944.55	Resina de abeto.
+665.944.57	Resinas fósseis recentes de coníferas.
+665.944.58	Resinas fósseis de coníferas. Inclusive Âmbar.
+665.944.6	Resinas de cesalpinioídeas. Copais.
+66 5.944.61	Copais verdadeiros em geral.
+665.944.62	Copais da África oriental. Copais
+de traquilóbio.
+665.944.63	Copais da África ocidental. Copais de copaíba.
+665.944.64	Copais americanos.
+665.944.68	Bálsamos de copaíba.
+665.944.7	Resinas diversas de composição específica.
+665.944.72	Resinas de resinol. Inclusive Resinas de guáiaco.
+665.944.73	Resinas alifáticas. Lacas. Inclusive Goma-laca. Resina de tápsia.
+665.944.74	Resinas coloridas. Inclusive Goma-guta.
+665.944.75	Resinas de enzimas. Inclusive Laca-do-japão. Laca-da-china
+665.944.76	Resinas das convolvuláceas.
+665.944.77	Resinas de látex.
+665.944.9	Resinas de constituição incerta.
+665.947	Piche de resina. Produtos da terebintina.
+665.947.1	Piche de resina.
+665.947.2	Colofônia.
+665.947.3	Resinas de polpas de celulose. Resina liquida.
+Óleo alto (tall oil, subproduto resinoso da
+polpa de papel).
+→ 676.085 Óleos tall. Escuma de óleo tall. Produtos do escape de gases do digestor 
+665.947.4	Linhina.
+665.947.6	Alcatrão de pinheiro.
+665.947.8	Resinas naturais quimicamente modificadas.
+665.948	Óleos essenciais que ocorrem em
+oleorresinas de coníferas.
+→ 665.944.54 Resinas de pinheiro. Terebintina
+665.948.l	Óleo de terebintina.
+665.948.6	Óleo de terebintina da madeira.
+665.948.7	Óleo de pinheiro.
+ 
+
+666  Indústria do vidro. Cerâmica. Cimento e concreto
+ 
+
+Subdivisões auxiliares especiais
+666.016	Composições, fórmulas de misturas.
+666.016.l	Composição da massa. Mistura de materiais
+não-cozidos, matérias-primas. Composições. Misturas.
+666.016.2	Composição de produtos. Inclusive Proporções de cimento. Fórmulas para o vidro.
+Divisões principais
+666.1	Indústria do vidro. Tecnologia do vidro. Fabricação de vidro em geral. Vidro em sentido abrangente. 
+                                     Os auxiliares. 03... e .05... são relacionados aqui em 666.1, mas são aplicáveis em 666.1/.28
+      Os outros auxiliares .0... são relacionados em 66.0... 
+Exemplo(s) de combinação(ões):
+666.1.01 Ciência da engenharia do vidro 
+Subdivisões auxiliares especiais
+666.1.03	Processos e instalações para fundir e trabalhar o vidro.
+666.1.031	Fusão do vidro,
+666.1.031.1	Fusão do vidro em geral. Processos que ocorrem
+durante a fusão do vidro.
+666.1.031.11	Sintetização da massa.
+666.1.031.12	Carregamento. Instalações e máquinas de
+carregamento da massa.
+666.1.031.13	Fusão. Frita.
+666.l.031.14         	Coloração. Descoloração.
+                                      → 666.1.058 Tingimento e pintura do vidro. Outras técnicas de aplicação de cor ao vidro
+      → 666.124 Matérias-primas que contêm terra alcalina. Rochas naturais como matérias-primas em geral
+      → 666.24 Vidros coloridos transparentes. Vidros coloridos na massa (completamente coloridos). Vidro tingido.
+      Vidro com absorção seletiva
+666.l.031.15           Refino. Homogeneização. Mistura, agitação, bloqueio. 
+666.1.031.16            Homogeneização térmica da fusão, antes da moldagem.
+666.1.031.2/.6        Fomos de fusão de vidro em geral.
+666.l.031.2	Fomos de tanque para fusão de vidro.
+666.l.031.3	Fornos de cubas e cadinhos para fusão de vidro.
+666.l.031.4	Fornos especiais para fusão de vidro. Inclusive Revestimentos para fabricação de fibra de vidro.
+666.l.031.5	Fomos elétricos para fusão de vidro. 
+	        Especificar por meio de :621.365
+666.l.031.6	Outros tipos de fornos e processos. Inclusive Fornos de laboratório. Fomos verticais. Fornos redondos.
+666.1.031.7	Equipamento auxiliar para alimentar as
+máquinas de moldagem com vidro derretido. Inclusive Bacia rotatória de sucção de Libbey-Owens.
+666.1.031.8	Transvasamento e medição do vidro fundido.
+Alimentadores para vidro derretido. Caixas de
+soprar.
+666.1.032	Moldagem de vidro em geral. Sopramento de
+vidro em geral. Sopramento de vidro sem ar
+comprimido. Moldagem decorativa a quente de
+vidro oco.
+666.l.032.3	Sopramento de vidro com a boca (sem ar
+comprimido).
+666.1.032.5	Generalidades sobre moldes para injetar,
+prensar, fundir ou soprar vidro, com ou sem uso
+de ar comprimido ou sucção. Tecnologia da
+moldagem de vidro.
+666.l.032.8	Decoração da superfície. Selagem. Introdução de bolhas. Vedação. 
+666.l.032.82          Decoração da superfície do vidro durante a moldagem.
+666.1.032.83	Colagem de massas de vidro.
+→ 666.1.054.1 União a frio
+666.1.032.84	Introdução intencional de bolhas no vidro.
+666.l.032.85         Vedação, união de materiais com o vidro durante a moldagem. Inclusive Produção de millefiore e vidro com
+                               inclusões.
+666.l.033	Sopramento de vidro com ar comprimido.
+→ 666.17 Vidro oco em geral (independentemente do processo de produção). Vidro oco soprado em particular
+Indicar características de máquinas de sopramento do vidro por meio de -2/-8 (de 62-2/-8)
+666.1.034	Fundição, moldagem de vidro.
+→ 666.164 Vidro ornamental (vidro fundido ornamental). Vidro fundido em geral.
+666.1.035	Moldagem de vidro por injeção, prensagem,
+laminação, estampagem (processos e
+instalações).
+666.l.035.l	Injeção de vidro.
+666.1.035.2	Prensagem de vidro.
+→ 666.185 Vidro prensado
+666.1.035.3	Laminação de vidro em geral.
+      → 621.771 Laminação. Cilindros de laminação. Laminadores
+      → 666.162 Vidro plano, vidraça
+666.1.035.4	Laminação contínua do vidro.
+666.l.035.5	Laminação de vidro ornamental, desenhado.
+666.1.035.7	Cilindros de moldagem.
+666.1.035.8	Formação de objetos de vidro sólido.
+666.l.036	Formação de vidro por trefílação, centrifugação,
+pulverização, espumejamento, etc. (processos e instalações).
+666.l.036.2	Trefílação do vidro por processos centrífugos.
+Trefilação por arrasto gasoso.
+→ 666.189.2 Vidro trefilado em fibras e artigos feitos com este material
+666.l.036.3	Formação de vidro por vibração.
+666.l.036.4	Trefilação de vidro plano, em chapas.
+ Exemplo(s) de combinação(ões):
+       666.1.036.4-71 Equipamento de resfriamento 
+      → 666.1.038.3 Enrijecimento de artigos de vidro por resfriamento rápido. Enrijecimento térmico do vidro. Enrijecimento por cristalização controlada
+      → 666.1.036.8.Máquinas e dispositivos para trefilação e formação de vidro plano, em lâminas
+      → 666.15666.15 Chapas e placas de vidro em geral. Vidro em chapa. Vidro plano em geral
+666.l.036.5	Trefílação do vidro sob a forma de cilindros,
+tubos, barras ou varas (diretamente do banho ou com tubo de soprar). Trefílação por bocal de esguicho para produção de lã de vidro. Produção de fibras ocas de vidro.
+→ 666.173 Tubos de vidro
+→ 666.188 Barras de vidro. Hastes de vidro
+→ 666.189.21 Fibras de vidro e seus produtos. Vidro têxtil
+666.1.036.6	Formação de vidro por enchimento, escumação
+(por meios físicos ou químicos).
+→ 666.189.3 Vidro poroso com poros separados. Vidro em espuma. Vidro inflado
+666.1.036.7	Processos de flotação para formação do vidro. Inclusive Flotação, ou imersão, num banho de material derretido.
+	      → 666.163 Vidro aplainado sobre flutuação
+666.l.036.8	Máquinas e dispositivos para trefílação e
+formação de vidro plano, em lâminas.
+→ 661.1.036.4 Trefilação de vidro plano, em chapas
+666.l.036.9	Equipamento para formação de vidro em
+contato ou não com um material fundido.
+666.1.037	Moldagem subseqüente de vidro.
+666.l.037.l	Processo de trefílação de perfil em haste para
+produção de fibra de vidro.
+→ 666.189.2 Vidro trefilado em fibras e artigos feitos com este
+666.l.037.2	Transformação de fibras de vidro para obtenção
+de material estratificado.
+666.1.037.3	Métodos diversos de tratamento. Inclusive Sinterização de pó de vidro. Lixiviação dos componentes.
+666.1.037.4	Estilhaçamento. Fusão. Derretimento (p. ex., de tubos capilares).
+→ 666.1053.2 Corte. Separação
+666.1.037.5	Fusão do vidro a metal.
+	        666. l, 037.5 dividido como 669
+666.l.037.6	Fusão do vidro a não-metais (p. ex., cerâmica).
+666.l.037.7	Produção mecânica de ampolas, frascos, etc. de vidro. Inclusive Produção mecânica de frascos de
+                                  comprimidos, tubos de ensaio, lâmpadas miniaturas de vidro.
+666.1.037.8	Modelagem de lâmpadas de vidro.
+→ 542.53 Maçaricos. Lamparinas
+→ 666.174 Vidraçaria para trabalho com maçaricos. Vidraçaria de laboratório (químicos, físicos, etc.) e 
+outros artigos de vidro produzidos por trabalho com maçaricos
+666.l.037.822          Trabalho em lâmpadas com o emprego de esmaltes. 
+666.l.037.823            Produção de figurinhas de vidro. Inclusive Elementos decorativos de árvores de Natal e artigos similares.
+666.l.037.9		Outras técnicas de modelagem final do vidro. Inclusive Passagem na chama. Dobragem.
+666.l.038		Tratamento térmico do vidro. Tempera do
+vidro. Fortalecimento do vidro por tratamento térmico ou cristalização. Reaquecimento.
+→ 66.04 Operações e equipamento de tratamento térmico
+666.l.038.2	Lerhs. Fornos para dar têmpera ao vidro, fornos
+de recozimento.
+666.l.038.3	Enrijecimento de artigos de vidro por resfriamento rápido. Enrijecimento térmico do vidro. Enrijecimento por 
+cristalização controlada.
+666.1.038.4	Fornos de reaquecimento. Fornos de enrijecimento.
+666.l.038.5	Enrijecimento de fibras de vidro durante o trefilamento.
+666.l.038.6	Coloração térmica do vidro. Desenvolvimento de cor ou opacidade por aquecimento (p. ex., em vidros rubis e amarelos por 
+	corantes de prata).
+666.1.038.8	Processos de desvitrificação.
+666.l.039	Enrijecimento de produtos de vidro por
+modificação da estrutura ou da composição das camadas superficiais.
+→ 666.1.053.65 Modificação da estrutura química ou da composição das camadas superficiais. Produção de                    revestimentos anti-reflexivos (vidro não-ofuscante). Melhoria da superfície do vidro
+→ 666.112.8 Vidros de sílica quase pura
+666.l.05	Trabalho subseqüente do vidro ou dos artigos de
+vidro. Acabamento do vidro em geral.
+666.l.053	Acabamento mecânico ou manual do vidro.
+→ 621.9 Trabalho ou usinagem com formação de cavacos, aparas. Usinagem com 
+                                      abrasivos. Martelos e prensas
+666.1.053.2	Corte. Separação.
+→ 666.1.037.4 Estilhaçamento. Fusão. Derretimento (p. ex., de tubos capilares)
+666.l.053.3	Perfuração, aplainamento, torneamento,
+fresamento. Corte helicoidal do vidro.
+666.l.053.4	Relevos e entalhes do vidro.
+666.l.053.5	Esmerilhamento e polimento do vidro (em
+geral).
+→ 621.92 Materiais e ferramenta abrasivos. Esmerilhamento, retífica e técnicas afins. Esmagamento, separação, mistura de abrasivos
+→ 666.224 Vidros ópticos esmerilhados
+666.285 Artigos de vidro oco esmerilhado ou cortado
+666.1.053.6	Gravação. Água-forte. Acabamento fosco.
+666.1.053.61	Gravação mecânica do vidro. Inclusive Gravação com porta de diamante. Inscrição.
+→ 666.281 Vidros gravados
+666.l.053.62            Acabamento mecânico fosco do vidro. Acabamento do vidro com jatos de areia. 
+         →621.547 e respectivas remissivas 
+        →666.284 Vidros foscos
+666.1.053.63	Acabamento químico do vidro. Inclusive Gravação fosca do vidro. Marcação do vidro por gravação.
+666.l.053.65	Modificação da estrutura química ou da
+ composição das camadas superficiais. Produção de revestimentos anti-reflexivos (vidro não-ofuscante). Melhoria da superfície do   vidro.
+    → 666.1.039 Enrijecimento de produtos de vidro por modificação da estrutura ou da composição das 
+    camadas superficiais
+    →666.1.056 Revestimento de vidro com outras sustâncias. Metalização do vidro. Produção de películas
+    protetoras  no vidro
+    →666.266.4 Vidro com revestimento metálico para outras finalidades
+666.1.053.8		Fragmentação do vidro.
+666.l.054	União de vidros ou artigos de vidro.
+→ 666.1.037.4 Estilhaçamento. Fusão. Derretimento (p. ex., de tubos capilares)
+→ 666.155 Vidro laminado. Vidro de segurança. Vidro laminado à prova de bala
+→666.157 Vidro em chapas duplas ou múltiplas (com camadas de ar ou de outros tipos). Vidraça dupla. Vidraça múltipla. Vidros isolantes de camadas múltiplas
+→ 681.7.024 Montagem de vidros ópticos. Colagem
+666.l.054.1	União a frio. Inclusive Cimentação. Colagem.
+	      → 665.93 Adesivos. Colas. Gelatinas. Proteínas
+	      → 777.1.032.83 Colagem de massas de vidro
+	      → 666.968 Compostos ou cimentos para bases, ligações e junções (para materiais específicos)
+666.1.54.2	União a quente. Inclusive Fusão. Soldagem.
+	      → 621.791 Soldagem e técnicas afins
+	      → 666.1.037.4 Estilhaçamento. Fusão. Derretimento (p. ex., de tubos capilares)
+666.l.055	Revestimento de artigos com camadas de vidro. Inclusive Borrifamento com vidro derretido. Imersão em vidro derretido. 
+                                  Vitrificação de um revestimento.
+	      → 666.29 Esmaltes. Vernizes. Cores de silicato. Engobos
+666.1.056	Revestimento do vidro com outras substâncias.
+Metalização do vidro. Produção de películas protetoras no vidro.
+Exemplo(s) de combinação(ões):
+666.1.056:546.284-31 Revestimento do vidro com silica(dióxido de silício). Siliconização do vidro 
+666.l.056:669.228 Prateação do vidro (em sentido estrito)
+→ 666.1.053.65 Modificação da estrutura química ou da composição das camadas superficiais. Produção de revestimentos anti-reflexivos (vidro não-ofuscante). Melhoria da superfície do vidro
+→ 686.4 Metalização. Envernizamento metálico
+→ 686.7 Espelhos. Fabricação de espelhos
+666.1.056.2	Metalização do vidro por precipitação química.
+666.1.056.3	Metalização eletroquímica do vidro.
+666.l.056.4	Metalização físico-química do vidro.
+666.1.056.6	Metalização do vidro por métodos físicos.
+666.l.056.8	Revestimento do vidro com pós.
+666.l.058	Tingimento e pintura do vidro. Outras técnicas
+de aplicação de cor ao vidro.
+→ 666.1.031.14 Coloração. Descoloração
+666.1.058.1	Pigmentos para tingimento do vidro. Cores do vidro. Tingimento preto.
+→ 666.24 Vidros coloridos transparentes. Vidros coloridos na massa (completamente coloridos). Vidro tingido. Vidros com absorção seletiva
+→ 667.783 Execução de filtros de luz
+→ 748 Arte com vidro. Artesanato de objetos artísticos de vidro e de cristal
+666.1.058.4	Decalques no vidro. Impressão e nebulização do
+vidro. Impressão por tela no vidro (p. ex., processo de serigrafia).
+→ 655.3.025 Impressão em várias superfícies, exceto papel
+→ 655.332 Serigrafia. Impressão com telas. Silk-screen
+→ 681.625.7 Impressoras para impressão em materiais diversos
+666.l.058.5	Pintura a fogo.
+666.1.058.6	Cores e esmaltes mordentes no vidro.
+Tingimento amarelo. Iridização.
+666.l.058.7	Colorização do vidro por enchimento dos poros
+conectados com pigmento.
+666.l.058.8	Pintura do vidro (com cores convencionais). Inclusive Trabalho em eglomisé (pintura no verso do vidro). Pintura e 
+laqueamento a frio do vidro. 
+Divisões principais
+666.11/.28	Tipos de vidro. Artigos de vidro. Utensílios de vidro.
+→ 642.72 Utensílios de mesa. Recipientes para o alimento. Louça. Porcelana, copos, etc.
+Os auxiliares 666.1.0... são aplicáveis em  66.11/.28
+666.11	Vidro. Artigos de vidro em geral.
+Exemplo(s) de combinação(ões):
+                                       666.11.016.2 Composição dos vidros
+                                      666.11.017 Propriedades dos vidros
+666.112	Vidros segundo a composição.
+666.112.2	Vidros de álcali-sílica. Vidro solúvel.
+→ 661.683 Silicatos de sódio e de potássio. Vidro solúvel
+666.112.3	Vidros de álcali-cal-sílica.
+666.1124	Vidros de chumbo.
+→ 666.21 Vidro de chumbo (cristal de chumbo). Vidro de cristal. Cristal leve. Cristal pesado
+666.112.5	Vidros que contêm ferro e alumina.
+666.112.6	Vidros de bário.
+666.112.7	Vidros de borossilicato. Inclusive Vidropirex.
+	      → 666.117.3/.4 Vidros com resistência particularmente alta a choques térmicos.
+666.112.8	Vidros de sílica quase pura. Inclusive Vidro do tipo vycor.
+	→ 661.1.039 Enrijecimento de produtos de vidro por modificação da estrutura ou da composição das camadas superficiais
+	→ 666.192 Sílica vitrosa (sílica fundida). Basalto fundido. Escórias, etc.
+666.112.93	Vidros sem álcalis.
+666.113	Vidros segundo os componentes de óxidos.
+      Os óxidos componentes específicos podem ser indicados acrescentando-se a 666.113 os dígitos finais das subdivisões 
+      de 546, o elemento com número decimal mais alto vindo na frente. Esses dígitos finais são separados entre si por 
+     apóstrofo 
+Exemplo(s) de combinação(ões):
+666.113:546.62’47’41’33’32’28’27 Vidro que contém óxidos de alumínio (Al2O3), cálcio (CaO), sódio (Na2O),
+potássio (K2O), silício (SiO2), boro (B2O3) e zinco (ZnO)
+666.117	Vidros segundo suas propriedades técnicas.
+666.117.l	Vidros segundo suas propriedades específicas de
+trabalho. Inclusive Vidros curtos. Vidros longos.
+666.117.2	Vidros com temperatura de fusão especialmente
+alta ou baixa. Vidros moles.
+666.117.3	Vidros com resistência particularmente alta a
+choques térmicos. Vidros resistentes ao calor.
+Vidros refratários.
+→ 666.112.7 Vidros de borossilicato
+666.117.4	Vidros com durabilidade química
+particularmente alta. Vidros resistentes a
+produtos químicos.
+→ 666.112.7 Vidros de borossilicato
+666.119	Defeitos do vidro.
+→ 620.19 Defeitos dos materiais e sua verificação
+666.119.2	Defeitos no vidro derretido. Defeitos do corpo,
+de material. Falta de homogeneidade, defeitos de
+cor, etc..
+666.119.3	Defeitos em vidros ocos e prensados.
+666.119.4	Defeitos em vidros planos.
+666.119.6	Defeitos em vidro óptico. Inclusive Acabamento curto. Lisura. Manchas.
+666.12	Matérias-primas para a fabricação de vidro
+e trabalho com vidro (em geral).
+666.122	Matérias-primas para introdução de
+componentes ácidos no vidro.
+666.122.2	Matérias-primas que contêm sílica. Inclusive Quartzo. Areia.
+666.122.3	Matérias-primas que contêm alumina. Inclusive Argila. Feldspato.
+666.122.4	Matérias-primas que contêm óxidos de boro.
+Bórax.
+666.122.5	Matérias-primas que contêm óxidos de fósforo.
+666.123	Matérias-primas para introdução de
+componentes básicos do vidro.
+666.123.2	Matérias-primas que contêm àlcali. Inclusive Soda. Potassa.
+666.123.3	Matérias-primas que contêm terra alcalina.
+Rochas naturais como matérias-primas em geral.
+666.123.4	Matérias-primas que contêm metais pesados (p.
+ex., chumbo, zinco).
+666.124	Matérias-primas que contêm componentes
+corantes, descorantes, opalescentes ou
+refinantes.
+→ 666.1.031.14 Coloração. Descoloração
+→ 666.2 4 Vidros coloridos transparentes. Vidros coloridos na massa (completamente coloridos). Vidro tingido. Vidros com absorção seletiva
+666.125	Massa de vidro.
+Exemplo(s) de combinação(ões):
+666.125.016.1 Composição da massa
+666.127	Cacos de vidro. Vidro em blocos. Aparas.
+Cacos. Vidros quebrados. Lascas de vidro.
+666.128	Barras de vidro. Bastões de vidro.
+Empunhaduras para aplicação de vidro
+colorido ou trabalho de filigrana. Hastes e
+contas para trabalhos posteriores.
+→ 666.188 Barras de vidro. Hastes de vidro
+→ 666.25 Vidros faiscantes. Vidros chapeados. Vidros coloridos na superfície. Vidros foscos, acetinados, perolados, iridescentes. Vidro oco com camada intermediária; p. ex., de plástico. Vidro oco laminado
+→ 666.27 Contas de vidro. Pequenos artigos de vidro. Ornamentos de vidro
+666.15	Chapas e placas de vidro em geral .Vidro
+em chapa. Vidro plano em geral.
+→ 666.1.036.4 Trefilado de vidro plano, em chapas
+→ 686.6 Vidraçaria. Corte de vidro
+→ 691.615 Vidro em folha. Vidro plano em geral
+666.151	Vidro em chapas. Vidro laminado em geral.
+666.152	Cilindros de vidro.
+666.153	Vidro laminado com superfícies não-planas.
+Vidros dobrados e convexos. Vidro canelado.
+666.155	Vidro laminado. Vidro de segurança. Vidro
+laminado à prova de bala.
+→ 666.1.054 União de vidros ou artigos de vidro
+→ 666.166 Vidro blindado. Vidro reforçado
+→ 666.181 Vidro reforçado
+→ 666.25 Vidros faiscantes. Vidros chapeados. Vidros coloridos na superfície. Vidros foscos, acetinados,
+	      perolados, iridescentes. Vidro oco com camada intermediária, p. ex., de plástico. Vidro oco laminado
+666.157	Vidro em chapas duplas ou múltiplas (com
+camadas de ar ou de outros tipos). Vidraça dupla. Vidraça múltipla. Vidros isolantes de camadas múltiplas. –
+      → 666.1.054 União de vidros ou artigos de vidro
+666.16	Vidro plano laminado. Vidro em chapa.
+Vidro ornamental. Vidro fundido. Vidro
+aramado.
+→ 686.6 Vidraçaria. Corte de vidro
+666.161	Vidro bruto.
+666.162	Vidro plano, vidraça.
+→ 666.1.035.3 Laminação de vidro em geral
+666.163	Vidro aplainado sobre flutuação.
+→ 666.1.036.7 Processos de flotação para formação do vidro
+666.164	Vidro ornamental (vidro fundido
+ornamental). Vidro fundido em geral. Inclusive Vidro prensado e cortado. Vidro martelado. Vidros estriados, nervurados e com outros padrões.
+      → 666.1.034 Fundição, moldagem de vidro
+	      → 666.153 Vidro laminado com superfícies não-planas
+      →666.264 Vidro ornamentado (vidro retrabalhado). Vidros decorados por fundição de tipos
+666.166	Vidro blindado. Vidro reforçado. Inclusive 
+Vidro aramado. Vidro fundido com enchimento metálico. Vidro de Chauvel
+      → 666.155 Vidro laminado. Vidro de segurança. Vidro laminado à prova de bala
+      → 666.266.3 Vidro condutor de eletricidade (com ingredientes ou com incrustações condutoras). Vidro que 
+      pode ser aquecido eletricamente
+666.17		Vidro oco em geral (independentemente do processo de produção). Vidro oco soprado em particular.
+→ 666.1.033 Sopramento de vidro com ar comprimido
+→ 666.185 Vidro prensado
+666.171	Garrafas, garrafões, etc. de vidro.
+→ 621.642.17 Garrafas. Frascos. Tambores
+→ 621.798.147 Recipientes pequenos para líquidos
+→ 683.5 Fabricação de garrafas e acessórios para servir
+666.171.9	Partes de garrafas de vidro.
+666.171.92	Gargalos de garrafa.
+Exemplo(s) de combinação(ões):
+666.171.92:621.88.082.6 Gargalos de rosca helicoidal (rosca redonda)
+→ 666.285 Artigos de vidro oco esmerilhado ou cortado
+666.172	Utensílios ocos de vidro, brancos ou
+coloridos.
+666.173	Tubos de vidro.
+→ 666.1.036.5 Trefilação do vidro sob a forma de cilindros, tubos, barras ou varas (diretamente do banho ou com tubo de soprar). Trefilação por bocal de esguicho para produção de lã de vidro. Produção de fibras ocas de vidro.
+→ 621.643.2 Condutos fechados. Tubos. Tubulações. Canos
+666.174	Vidraria para trabalho com maçarico.
+Vidraria de laboratórios (químicos, físicos,
+etc.) e outros artigos de vidro produzidos por
+trabalho com maçarico.
+→ 542.1/.2
+→542.53 Maçaricos. Lamparinas
+→666.1.037.8 Modelagem de lâmpadas de vidro
+666.174.2	Artigos para finalidades químicas, físicas e outras. 
+                                      Exemplo(s) de combinação(ões):
+666.174.2:536.51 Termômetros de vidro 
+666.174.2:542.48 Equipamento de vidro para destilação
+666.174.5	Vidros selantes (p. ex., para unir vidro a metal).
+Vidros intermediários para fusão de tipos diferentes de vidro. Vidro de solda
+666.175	Envoltórios, etc. de vidro para instalações de
+iluminação. Inclusive Globos, abajures e luminárias de vidro. Bulbos de vidro; p. ex.: para lâmpadas incandescentes (lâmpadas elétricas). Tubos de vidro para lâmpadas fluorescentes e para válvulas.
+	      → 621.3.032.7 Bulbos. Cilindros. Envoltórios
+	      → 628.95 Acessórios para as armações de iluminação. Peças, materiais, etc.
+666.176	Ampolas, frascos etc. de vidro. Inclusive Frascos de vidro para comprimidos. Tubos de ensaio.
+	      → 615.014.8 Embalagem e recipientes. Vedação e materiais selantes. Fechamento e rolhas, tampas.
+	      Rotulagem
+	      → 621.798.147 Recipientes pequenos para líquidos
+	      → 666.1.037.7 Produção mecânica de ampolas, frascos, etc. de vidro
+666.18	Outros produtos simples de vidro.
+666.181                 Vidro reforçado.
+→ 666.155 Vidro laminado. Vidro de segurança. Vidro laminado à prova de bala
+666.185	Vidro prensado. Inclusive Utensílios domésticos de vidro prensado. Vidro arquitetônico, para
+                                construções. Tijolos, telhas de vidro. Isoladores de vidro.
+                                           → 666.1.035.2 Prensagem de vidro
+→ 666.17 Vidro oco em geral (independentemente do processo de produção). Vidro 
+oco soprado, em particular
+                                       → 691.618.5 Vidro prensado
+666.188	Barras de vidro.Hastes de vidro.
+→ 666.1.036.5 Trefilação do vidro sob a forma de cilindros, tubos, barras ou varas (indiretamente do banho ou com tubo de soprar). Trefilação por bocal de esguicho para produção de lã de vidro. Produção de fibras ocas de vidro
+	       → 666.128 Barras de vidro. Bastões de vidro. Empunhaduras para aplicação de vidro colorido ou trabalhado 
+      de filigrana. Hastes e contas para trabalhos posteriores
+666.189.l	Olhos artificiais de vidro. Decorações para
+árvores de Natal. Figurinhas de vidro, etc.
+→ 661.189.1 666.1.037.823 Produção de figurinhas de vidro
+666.189.2	Vidro trefilado em fibras e artigos feitos com
+este material.
+→ 666.1.036.5 Trefilação do vidro sob a forma de cilindros, tubos, barras ou varas (diretamente do banho ou com tubo de soprar). Trefilação por bocal de esguicho para produção de lã de vidro. Produção de fibras ocas de vidro
+→ 666.1.037.1 Processo de trefilação de perfil em haste para produção de fibra de vidro
+→ 677.52 Fibras minerais artificiais
+666.189.21	Fibras de vidro e seus produtos. Vidro têxtil. Inclusive 
+Exemplo(s) de combinação(ões):
+666.189.21:666.192 Fibras de quartzo
+ 666.189.21:666.22 Fibras ópticas 
+→ 681.7.068
+→ 666.1.036.5 Trefilação do vidro sob a forma de cilindros, tubos, barras ou varas (diretamente do banho ou com tubo de soprar). Trefilação por bocal de esguicho para produção de lã de vidro. Produção de fibras ocas de vidro
+666.189.211	Fibras descontínuas de vidro. Fibra de vidro. Lã
+de vidro.
+666.189.212	Fibras de vidro contínuas. Vidro têxtil. Fios de
+fibra de vidro e tecidos de fibra de vidro.
+666.189.213	Fibras de vidro ocas.
+666.189.23	Cordão, trança de vidro.
+666.189.24	Vidro poroso com poros interconectados.
+666.189.3	Vidro poroso com poros separados. Vidro em
+espuma. Vidro inflado.
+→ 666.1.036.6 Formação de vidro por enchimento, escumação (por meios físicos ou químicos)
+666.189.4	Vidro em pó. Pó de vidro. Grânulos de vidro.
+Vidrilhos. Miçangas.
+		      → 621.921 Abrasivos. Materiais de esmerilhamento. Materiais de polimento
+		      → 676.265 Papéis revestidos com pó, flocos, etc.
+666.19	Sílica vitrosa (sílica fundida). Basalto
+fundido. Escórias, etc.
+666.192	Sílica vitrosa (sílica fundida). Vidro de
+sílica. Quartzo. Cristal de rocha.
+→ 666.112.8 Vidros de sílica quase pura
+→ 666.289.21 Fibras de vidro e seus produtos. Vidro têxtil
+666.193	Basalto fundido. Lã de basalto.
+666.195	Bióxido de zircônio fundido.
+666.198	Fibras minerais. Lã mineral.
+666.21	Vidro de chumbo (cristal de chumbo).
+Vidro de cristal. Cristal leve. Cristal pesado.
+→ 666.112.4 Vidros de chumbo
+666.22	Vidros ópticos.
+→ 535.399 03 Relações entre refração, dispersão, absorção e a composição química
+→ 681.7.02/.03
+666.221.3	Vidro de vidraça sem chumbo na composição.
+666.221.4	Vidro óptico de elevada dispersão e alto índice
+de refração (optical flint glass).
+666.221.6	Vidros ópticos especiais.
+666.223	Blocos de vidro óptico. Inclusive Lentes prensadas.
+666.224	Vidros ópticos esmerilhados.
+→ 666.1.053.5 Esmerilhamento e polimento do vidro (em geral)
+666.227	Produtos diversos de vidro óptico.
+666.227.3	Vidros, lentes para óculos.
+666.227.5	Lentes de contato.
+666.227.7	Vidros ópticos como partes de equipamento de
+medição e controle.
+666.227.8	Vidros ópticos como parte de equipamento de
+transmissão de imagem.
+666.23	Strass. Pedras preciosas artificiais.
+Pedras de massa vítrea. Gemas de imitação
+feitas de vidro.
+→ 671.16 Artigos de pedras não-preciosas. Artigos de pedras falsas, de imitação
+→ 679.82 Pedras artificiais feitas por síntese química. Pedras preciosas sintéticas. Pedras fabricadas em 
+laboratórios ou fábricas, cuja composição química corresponde à composição das pedras naturais
+666.231	Strass. Pedras preciosas de imitação. Falsas pedras preciosas.
+666.233	Diamantes de imitação feitos de vidro.
+666.24	Vidros coloridos transparentes. Vidros coloridos na massa (completamente 
+coloridos). Vidro tingido. Vidros com absorção seletiva.
+	      → 628.955 Materiais para armações de luz. Características ópticas dos materiais
+	      → 666.1.031.14 Coloração. Descoloração
+	      → 666.1.058.1 Pigmentos para tingimento do vidro. Cortes do vidro. Tingimento preto
+	      → 666.124 Matérias-primas que contêm componentes corantes, descorantes, opalescentes ou refinantes
+	      → 667.783 Execução de filtros de luz
+	      → 758 Arte com vidro. Artesanato de objetos artísticos de vidro e de cristal
+666.241	Vidros vermelhos. Vidros cor de rubi. Vidros alaranjados.
+666.242	Vidros amarelos. Vidros azuis. Vidros
+verdes. Aventurinas.
+666.245	Vidros roxos. Vidros cinzentos. Vidros  pretos.
+666.246	Vidros que transmitem determinadas radiações.
+666.246.6	Vidros com transmissão variável.
+666.247	Vidros que não transmitem determinadas
+radiações. Vidros opacos a certos
+comprimentos de onda.
+→ 614.893.2 Óculos de proteção de tipos diversos
+→ 681.7.066.6 Lentes de proteção. Lentes de segurança
+→ 681.738 Vidro laminado. Vidro de segurança. Vidro laminado à prova de bala
+666.248	Vidros que transmitem determinada
+radiação em apenas uma direção. Vidro
+unidirecional.
+666.249	Vidros coloridos especiais. Inclusive Vidros com faixas estreitas de absorção (p. ex., vidros de didímio e neodímio),
+666.25	Vidros faiscantes. Vidros chapeados.
+Vidros coloridos na superfície. Vidros
+foscos, acetinados, perolados, iridescentes.
+Vidro oco com camada intermediária, p.
+ex.,de plástico. Vidro oco laminado.
+→ 628.955 Materiais para armações de luz. Características ópticas dos materiais
+→ 666.128 Barras de vidro. Bastões de vidro. Empunhaduras para aplicação de vidro colorido ou trabalho de filigrana. Hastes e contas para trabalhos posteriores
+→ 666.155 Vidro laminado. Vidro de segurança. Vidro laminado à prova de bala
+666.26	Vidros que dispersam a luz em geral.
+Outros vidros diversos.
+		      → 666.284 Vidros foscos
+      → 666.291 Fundentes de esmalte. Fundentes de vitrificação. Agentes corantes. Opacificadores
+666.263	Vidros opacos. Inclusive Vidro de opala. Opalina. Vidro opalescente. Vidro translúcido. Vidro leitoso. Vidro marmóreo. 
+Exemplo(s) de combinação(ões):
+666.263:666.25 Vidro opalino faiscante
+	      → 628.955 materiais para armações de luz. Características ópticas dos materiais
+                                      → 666.291.7 Opacificadores e sua ação
+666.263.4	Vidro opalino colorido.
+666.264	Vidro ornamentado (vidro retrabalhado).
+Vidros decorados por fundição de tipos
+diferentes de vidro.
+→ 666.164 Vidro ornamental (vidro fundido ornamental). Vidro fundido em geral
+→ 748 Arte com vidro. Artesanato de objetos artísticos de vidro e de cristal
+666.265	Vidro luminescente. Vidro fluorescente.
+666.266	Diferentes tipos de vidros com
+características particulares.
+666.266.1	Vidro antigo.
+666.266.3	Vidro condutor de eletricidade (com ingredientes
+ou com incrustações condutores). Vidro que
+pode ser aquecido eletricamente.
+→ 666.166 Vidro blindado. Vidro reforçado
+666.266.4	Vidro com revestimento metálico para outras
+finalidades. Inclusive Para refletância. Para não-refletância.
+→ 666.1.053.65 Modificação da estrutura química ou da composição das camadas superficiais. Produção de revestimentos anti-reflexivos (vidro não-ofuscante). Melhoria da superfície do vidro
+→ 686.7 Espelhos. Fabricação de espelhos
+666.266.5	Vidro fotossensível e fotoplástico. Vidro com
+imagens internas formadas por radiação e/ou por
+tratamento químico ou físico.
+666.268	Peças de vidro unidas por chumbo ou outro
+material adequado. Mosaicos de vidro. Vidros para produção de mosaicos. 
+      → 693.74 Assentamento de ladrilhos, lajotas, mosaicos pré-fabricados, etc., em tetos, paredes, instalações sanitárias, pisos
+      → 72.064 Detalhes e acabamentos arquitetônicos. Decorações. Ornamentos
+      → 738.5 Mosaicos
+      → 748 Arte com vidro. Artesanato de objetos artísticos de vidro e de cristal
+666.27	Contas de vidro. Pequenos artigos de vidro. Ornamentos de vidro.
+→ 666.128 Barras de vidro. Bastões de vidro. Empunhaduras para aplicação de vidro colorido ou trabalho de filigrana. Hastes e contas para trabalhos posteriores
+→ 666.189.1 Objetos de vidro com determinadas formas
+666.28	Vidros gravados. Vidros cortados. Vidros
+foscos. Vidros com acabamento decorativo
+em geral.
+666.281	Vidros gravados.
+→ 666.1.053.61 Gravação mecânica do vidro
+666.284	Vidros foscos.
+→ 666.1.053.62 
+Acabamento mecânico fosco do vidro. Acabamento do vidro com jatos de areia
+→ 666.26 Vidros que dispersam a luz em geral. Outros vidros diversos
+666.285	Artigos de vidro oco esmerilhado ou cortado.
+→ 666.1.953.5 Esmerilhamento e polimento do vidro (em geral)
+666.29	Esmaltes. Vernizes. Cores de silicato.
+Engobos.
+→ 666.1.055 Revestimento de artigos com camadas de vidro
+→ 669.056.93 Acabamento com cerâmica. Com vidro esmaltado
+Subdivisões auxiliares especiais
+666.29.022	Preparo de matérias-primas para esmaltes, etc.
+                                      Os auxiliares de 66.022... não são aplicáveis em 666.29 e suas subdivisões
+666.29.022.1	Tratamento prévio. Pesagem.
+666.29.022.2	Cominuição, trituração das matérias-primas.
+→ 621.926 Cominuição (principalmente de materiais duros)
+666.29.022.4	Mistura de matérias-primas.
+666.29.022.5	Separação, triagem, peneiramento de matérias-
+primas.
+→ 621.928 Equipamento para separar, selecionar, peneirar, joeirar
+666.29.022.7          Produção e maturação de pasta fluida. 
+666.29.022.71	Espessura do esmerilhamento. Regulagem da
+pasta fluida.
+666.29.022.73        Maturação da pasta fluida.
+666.29.031	Fusão de esmaltes, etc. Resfriamento das fusões.
+666.29.041	Fomos de fusão para esmaltes, vernizes, etc. 
+                                      Subdividir como em 66.041...
+666.29.042	Equipamento complementar para fomos de fusão.
+Subdividir como em 66.042...
+666.29.047	Secagem. Fomos para secagem.
+Subdividir como em 66.047...
+666.29.05	Processos e equipamento para aplicação de
+esmaltes, vernizes, etc..
+666.29.051	Processos e equipamento para aplicação úmida. Inclusive Imersão, derramamento, escavação, borrifamento de esmaltes, 
+	etc. Revestimento das bordas da cerâmica.
+666.29.052	Processos e equipamento para aplicação por pulverização. Inclusive Peneiramento. Peneiras.
+666.29.053	Processos e equipamento para cozimento e resfriamento.
+      → 666.29.041/.042
+666.29.054	Limpeza de artigos esmaltados ou vitrificados.
+666.29.056	Decoração de utensílios esmaltados ou vitrificados. Inclusive Pintura, metalização, douramento, impressão de utensílios 
+                                    vitrificados.
+Divisões principais
+666.291	Fundentes de esmalte. Fundentes de vitrificação. Agentes corantes. Opacificadores.
+666.291.1	Matérias-primas.
+666.291.l dividido como 666.12
+666.291.3	Cores do esmalte. Agentes corantes, tinturas
+→ 667.622 Pigmentos, corantes em revestimentos
+666.291.5	Cores da cerâmica.
+666.291.7	Opacificadores e sua ação.
+→ 666.263 Vidros opacos
+666.291.9	Fundentes especiais de vitrificação. Vitrificados
+a frio.
+666.293	Esmaltagem de metais (principalmente metais ferrosos).
+666.293.2	Efeito da forma sobre a esmaltagem.
+666.293.3	Limpeza de superfícies de metal (metal em
+chapa e peças fundidas).
+666.293.35	Desoxidação química
+666.293.52	Esmaltes para chapas de aço.
+666.293.521	Esmaltes para revestimento de fundo.
+666.293.522	Esmaltes para revestimento de cobertura.
+666.293.53	Esmaltes para ferro fundido.
+666.293.53 dividido como 666.293.52
+666.293.55	Esmaltes foscos. Esmaltes de granito. Outros tipos de esmalte.
+666.293.57	Métodos para limitar a esmaltação a certas
+partes do metal.
+666.295	Vitrificados cerâmicos.
+666.295.2	Vitrificados incolores. Vitrificados de sal.
+666.295.3	Vitrificados brancos.
+666.295.4	Vitrificados coloridos.
+666.295.5	Vitrificados cristalinos.
+666.295.6	Vitrificados cobertos com fissuras finas.
+666.295.7	Vitrificados foscos.
+666.295.8	Vitrificados de vapor.
+666.297	Engobos.
+→ 666.3.052 Revestimento. Engobo
+666.3/.7	Cerâmica.
+Os auxiliares -1 relacionados em 666.3, e -21-9 (de 62-í/-8 e de 66-9) são aplicáveis em 666.3/. 7. Os auxiliares .0 relacionados em 66 são também aplicáveis aqui, com as exceções e acréscimos indicados em 666.3.0...
+666.3	Cerâmica em geral. Matérias-
+primas da cerâmica.
+Subdivisões auxiliares especiais
+666.3-1	Materiais e objetos de cerâmica segundo
+características diversas.
+Os auxiliares 62-1... não são aplicáveis em 666.3/. 7
+666.3-12	Estrutura.
+666.3-121	Materiais cerâmicos de grão muito fino.
+666.3-122	Materiais cerâmicos de grão fino.
+666.3-123	Materiais cerâmicos de grão grosso.
+666.3-127	Materiais cerâmicos porosos.
+666.3-128	Materiais cerâmicos densos. Cerâmica de
+estrutura compacta, de grão coeso.
+666.3-13	Resistência a influências físicas, químicas e
+outras.
+666.3-131.9	Cerâmica impermeável.
+666.3-134.1	Cerâmica resistente a ácidos.
+666.3-134.2	Cerâmica resistente a álcalis.
+666.3-135	Cerâmica resistente ao calor. Cerâmica resistente
+a altas temperaturas.
+666.3-16	Cerâmica de alta resistência.
+666.3-18	Segundo o método de produção e tratamento.
+666.3-182	Cerâmica moldada à mão.
+666.3-183	Cerâmica fundida.
+666.3-183.2	Cerâmica de molde absorvente.
+666.3-183.4	Cerâmica moldada por fusão.
+666.3-184	Cerâmica moldada, prensada.
+666.3-184.2	Cerâmica extrudada.
+666.3-184.4	Cerâmica moldada por compressão.
+666.3-186	Cerâmica seca, crua, não-cozida.
+666.3-187	Cerâmica cozida, sinterizada.
+666.3-188	Cerâmica vitrificada.
+666.3-4	Estado, condição, forma de materiais e
+objetos de cerâmica.
+Subdividir como e m 62-4...
+666.3.015	Reações. Comportamento de materiais
+cerâmicos durante o trabalho e tratamento. Inclusive Encolhimento.
+666.3.016	Composição de misturas, massas cerâmicas.
+Subdividir como em 666.016...
+666.3.017	Propriedades técnicas (físicas e mecânicas) da
+cerâmica e seus testes.
+666.3.019	Defeitos materiais da cerâmica.
+Especificar por meio de .620.19...
+666.3.022	Preparo de matérias-primas. Produção de pasta para cerâmica.
+Os auxiliares relacionados em 66. 0122... não são aplicáveis em 666.3/.7
+666.3.022.1	Tratamento prévio de matérias-primas.
+666.3.022.2	Cominuição de matérias-primas. Elementos de pulverização.
+→ 621.926 Cominuição (principalmente de materiais duros).
+666.3.022.4	Preparo da argila.
+666.3.022.5	Separação, triagem, peneiramento de matérias-primas.
+→ 621.928 Equipamento para separar, selecionar, peneirar, joeirar
+666.3.022.6	Preparo e tratamento da pasta e da massa fluida.
+666.3.03	Moldagem de cerâmica.
+666.3.032	Processos de moldagem.
+666.3.032.2	Moldagem a mão. Moldagem manual.
+666.3.032.4	Fundição de massa líquida.
+666.3.032.5	Formação por fusão.
+666.3.032.6	Pressão. Moldagem. Inclusive Extrusão. Moldagem por compressão.
+666.3.032.8	Socadura.
+666.3.034	Trabalho de acabamento antes do cozimento.
+Especificar por meio de :621.9...
+666.3.04	Operações do tratamento a calor. Processos térmicos.
+Subdividir como em 66.04... 
+Exemplo (s) de combinação(ões):
+666.3.041Fomos de cerâmica 
+666.3.042Equipamento complementar para fomos de cerâmica 
+666.3.046.4 Cozimento de cerâmica 
+666.3.047 Secagem de cerâmica. Fornos de secagem
+666.3.05	Revestimento da massa líquida. Vitrificação.
+Decoração.
+666.3.052	Revestimento. Engobo.
+→ 666.297 Métodos para limitar esmaltação a certas partes do metal
+666.3.053	Vitrificação de cerâmica.
+Especificar por meio de :666.295...
+666.3.056	Decoração de cerâmica. Inclusive Pintura. Decoração sobre a vitrificação.
+666.3.058	Impressão, litografia em cerâmica.
+Divisões principais
+666.32/.36	Matérias-primas de cerâmica.
+666.32	Argilas para cerâmica.
+666.321	Caulim.
+666.322	Argilas plásticas. Inclusive Bentonita.
+666.323	Argilitos e xistos argilosos.
+666.324	Argilas refratárias.
+666.325	Argilas não-plásticas (argilas magras, curtas). Inclusive Argilas arenosas. Argilas de alto teor de oxido de cálcio. Argilas
+                                    feldspáticas.
+666.327	Terras argilosas. Margas. Terras do tipo argiloso. Greda de pisoeiro.
+666.36	Matérias-primas não plásticas.
+→ 666.647 Artigos de argila refratária. Artigos de chamote
+666.362	Chamote. Tijolos triturados, cacos e outros refugos de cerâmica.
+666.363	Sílica.
+666.364	Matérias-primas que rebaixam o ponto de fusão. Agentes fundentes.
+Especificar por meio de :553...
+	Exemplo(s) de combinação(ões):
+                                            666.364:553.55 Calcário
+                                             666.364:553.613 Feldspato
+666368	Materiais acessórios na indústria de cerâmica. Inclusive Materiais que não fazem parte do corpo mas são usados como 
+                                   acessórios na produção
+666.5	Porcelana.
+Alcance: artigos de cerâmica com o corpo parcialmente vitrificado, translúcido em camadas finas, brancos ou quase brancos após o cozimento
+      Os auxiliares especiais relacionados em 666.3 são também aplicáveis aqui 
+Exemplo(s} de combinação(ões):
+666.5(510-82) Porcelana chinesa. Porcelana chinesa em sentido estrito
+→ 642.72 Utensílios de mesa (pratos, talheres, etc.). Toalha, acessórios. Decoração de mesa
+→ 645.5 Artigos decorativos. Ornamentos
+→ 738 Artes cerâmicas. Cerâmica
+666.51	Porcelana dura.  Inclusive Artigos de porcelana dura para uso doméstico, em hotéis. Artigos de porcelana refratária.
+666.52	Porcelanas de pasta mole. Porcelana macia. Inclusive Porcelana casca-de-ovo.
+666.59	Porcelanas para usos técnicos.
+666.591	Porcelana de laboratório.
+666.592	Porcelana refratária.
+666.593	Porcelana para uso em eletricidade. Inclusive Porcelana para isoladores.
+666.596	Porcelana para utensílios sanitários. Porcelana sanitária.
+→ 666.645 Louça sanitária 
+666.597	Porcelana para uso odontológico. Porcelana
+odontológica.
+666.6	Artigos de faiança. Louça de barro
+(artigos de cerâmica porosa).
+                                         Os auxiliares especiais relacionados em 666.3 são também aplicáveis aqui
+666.61	Faiança. Louça, Objetos de barro.
+666.63	Artigos de faiança para uso técnico.
+666.631	Faiança de laboratório. Faiança para uso
+químico.
+666.632	Faiança para uso sanitário. Louça sanitária.
+→ 666.645 Louça sanitária
+666.635	Ladrilhos de cerâmica para pisos.
+666.638	Artigos de louca para uso em eletricidade.
+→ 621.315.612 Materiais cerâmicos e similares
+666.64	Louca (artigos de cerâmica porosa).
+Olaria. Artigos de argila.
+666.641	Louça porosa não-vitrificada. Olaria.
+Utensílios de barro. Terracota (não-
+vitrificada).
+666.642/.647              Louça porosa vitrificada.
+666.642	Produtos com o corpo colorido e vitrificação
+opaca.
+666.642.1	Faiança.
+666.642.3	Maiólica.
+666.642.4	Louça de Delft.
+666.642.6                   Terracota vitrificada.
+666.643	Produtos com corpo branco ou creme e
+vitrificação translúcida. Louça branca, fina. Inclusive Semiporcelana.
+666.645	Louça sanitária.
+		      → 666.596 Porcelana para utensílios sanitários. Porcelana sanitária
+      → 666.632 Faiança para uso sanitário. Louça sanitária
+666.646	Ladrilhos de louça para parede, azulejos.
+666.647	Artigos de argila refratária. Artigos de chamote
+	      → 666.36 Matérias-primas não-plásticas
+666.65	Artigos de cerâmica especial para uso em
+eletricidade.
+666.651	Isoladores. Dielétricos.
+→ 621.325.612 Materiais cerâmicos e similares
+666.652	Corpos cerâmicos semicondutores.
+666.653	Corpos cerâmicos ferromagnéticos.
+666.654	Corpos cerâmicos termoelétricos.
+666.655	Corpos cerâmicos piezoelétricos.
+666.658	Micas sintéticas e minerais micáceos.
+666.7	Cerâmica grosseira. Artigos
+pesados de argila. Refratários.
+Materiais de cerâmica dura.
+Misturas de cerâmica e outros
+materiais.
+→ 691.4 Barro. Taipa. Argila. Artigos de barro. Materiais cerâmicos de construção
+Os auxiliares especiais relacionados em 666.3 são também aplicáveis aqui
+666.71	Tijolos e blocos sólidos.
+666.712	Tijolos de construção.
+666.714	Tijolos para fachadas.
+666.715	Azulejos, ladrilhos para fachadas.
+666.716	Tijolos radiais. Tijolos de chaminé.
+666.72	Tijolos e blocos furados.
+666.73	Manilhas para drenagem e esgoto.
+666.74	Telhas.
+666.75	Ladrilhos para assoalhos e calçadas.
+666.76	Corpos e produtos refratários.
+→ 66.042.21 Cadinhos 
+→ 66.043.1 Materiais refratários para construção e revestimento de fornalhas
+→ 666.946.6 Cimento refratário 
+666.762	Corpos e produtos refratários segundo a
+composição.
+666.762.l	Refratários de alumina, silicato de alumínio.
+Refratários de argila refratária.
+666.762.11	Alumina. Coríndon.
+666.762.12	Bauxita. Diáspora (alto teor de alumina).
+Gibsita. Boemita.
+666.762.14	Mulita.
+666.762.15	Silimanita. Quianita. Andalusita.
+666.762.16	Refratários de argila refratária.
+666.762.2	Refratários de sílica, quartzito, quartzito e
+argila
+666.762.3	Refratários de magnesita, forsterita, espinel,
+dolomita. Refratários de cromo-magnesita.
+666.762.4	Refratários de óxido crômico. Refratários de
+cromita.
+666.762.5	Refratários de dióxido de zircônio. Refratários
+de zircão.
+666.762.6	Refratários de óxidos de metais de terras
+alcalinas. Refratários de magnésio, berílio, tório,
+etc.
+666.762.8	Refratários de carbono, grafita, carbonetos.
+666.765	Materiais refratários naturais para
+construção em geral.
+	      Especificar por meio de :553...
+                                    Exemplo(s) de combinação(ões):
+                                          666.765:553.546 Quartzito
+                                        666.765:553.571 Arenito
+666.767	Argamassas refratárias em geral.
+666.77	Corpos e produtos de argila pesada
+química mente resistente. Artigos de
+argila resistentes à corrosão.
+666.772	Artigos de argila resistentes a álcalis.
+666.774	Artigos de argila resistentes a ácidos.
+666.79	Abrasivos. Combustíveis cerâmicos.
+Misturas de cerâmica e outros materiais.
+666.792	Abrasivos. Inclusive Óxidos abrasivos, p. ex., coríndon. Carbonetos abrasivos, p. ex., carboneto de
+                               silício (carborundo). Boretos, nitretos abrasivos.
+                                          → 621.921 Abrasivos. Materiais de esmerilhamento. Materiais de polimento
+      → 676.265 Papéis revestidos com pó, flocos, etc.
+666.794	Combustíveis cerâmicos.
+→ 621.039.54 Materiais físseis e férteis. Elementos combustíveis e seus componentes
+666.798	Misturas de cerâmica e outros materiais.
+666.798.2	Misturas cerâmico-metálicas. Cermets. Metal-
+cerâmica.
+→ 669.018.9 Pseudo-ligas e combinações metálicas similares
+666.9	Indústrias de gesso, cal e cimento.
+Materiais de endurecimento. Estuques e composições. Argamassa e concreto.
+→ 691.3 Pedra artificial. Concreto. Aglomerados diversos
+→ 691.5 Aglutinantes. Materiais de base
+→ 693 Alvenaria, ofício de pedreiro e ofícios correlatos
+Subdivisões auxiliares especiais
+666.9-1	Materiais segundo a natureza, o estado, as
+propriedades. Material em bruto (diferente de produtos moldados).
+	      Para os produtos moldados, usar -4...(de 62-4...)
+      → 62-405.6 Sólidos sem forma definida. Derramável. Materiais a granel
+666.9-12	Materiais segundo as características estruturais,
+textura, etc.
+666.9-121	Textura fina. Superfina. Macia., lisa.
+666.9-122	Textura média. Arenosa. Pedregosa.
+666.9-123	Textura grosseira. Áspera.
+666.9-13	Materiais impermeáveis: resistentes a
+influências físicas, químicas ou outras.
+      666.9-13 dividido como 620.193
+666.9-16	Materiais de alta resistência.
+666.9.01	Princípios e práticas da engenharia química.
+Instalações e serviços na indústria do cimento, etc. Propriedades, defeitos c testes de materiais na indústria do cimento, etc.
+666.9.01 dividido como 66.01 com acréscimo de.015...
+666.9.015	Reações. Comportamento dos materiais no
+curso da transformação.
+      → 666.9.03/.05
+666.9.015.2	Reações ao aquecimento, queima, calcinação.
+666.9.015.3	Comportamento de materiais na aplicação, 
+acabamento (assentamento, nivelamento,
+reboco). Aplicabilidade. Impregnabilidade, etc.
+666.9.015.4	Reações e mudanças durante o período de pega
+em geral.
+666.9.015.42	Reações na argamassa. Inclusive Hidratação. Compostos hidratados.
+666.9.015.43	Efeitos recíprocos entre as reações e o processo de pega.
+666.9.015.5	Tempo de pega. Velocidade de pega. Meio da
+pega. Pega defeituosa.
+666.9.015.6	Fatores que influem na pega.
+666.9.015.64	Efeitos da composição química.
+666.9.015.66	Efeitos de aditivos, misturas.
+666.9.015.67	Efeitos da temperatura. Inclusive Efeitos do calor,do frio, do congelamento.
+666.9.015.7	Comportamento dos materiais durante o endurecimento.
+666.9.015.8	Comportamento dos materiais após o
+assentamento (a pega) e o endurecimento.
+666.9.015.82	Estabilidade do volume após o endurecimento. Inclusive Rachadura. Dilatação, expansão.
+666.9.015.83	Incompatibilidade de materiais.
+666.9.017	Propriedades técnicas (tísicas c mecânicas) de
+cimentos, etc., e respectivos ensaios. 
+Exemplo(s) de combinação(ões):
+666.9.017:531.754 Determinação da densidade relativa (gravidade específica) dos cimentos, etc.
+666.9.017:539.4 Resistência. Resistência à deformação 
+666.9.017:620.173 Ensaios da resistência à compressão dos cimentos, etc.
+666.9.019	Defeitos do material. Resistência a ataques.
+Especificar por meio de : 620.19...
+666.9.02	Processamento em geral. Matérias-primas e seu
+preparo. Aparelhos e equipamento.
+666.9.022	Matérias-primas. Inclusive Tratamento preliminar, manipulação e preparo em geral. Trituração e moagem. 
+	Composição e mistura. Classificação, limpeza, etc.
+                                       Os auxiliares 66.022... não são aplicáveis em 666.9 e suas subdivisões
+666.9.022.1	Matérias-primas naturais.
+Especificar por meio de 553.5... e :553.6...
+666.9.022.2	Matérias-primas artificiais. Inclusive Escórias.
+666.9.022.3	Preparo, trituração e moagem.
+Especificar por meio de :621.926...
+→ 666.94.052 Clínquer: trituração e moagem
+666.9.022.4	Mistura e homogeneização de matérias-primas
+para queima em fornos.
+Especificar por meio de :621.929...
+666.9.022.41	Processos secos.
+666.9.022.42	Processos úmidos.
+666.9.022.5	Classificação, dimensionamento e limpeza de
+agregados, espessadores, etc. Peneiras,
+separadores, etc..
+Especificar por meio de :621.928...
+666.9.022.6	Aditivos, misturas de agregados. Inclusive Pigmentos. Cimentos especiais.
+666.9.022.7	Água como matéria-prima no preparo de misturas.
+→ 666.972.17 Mistura de água no concreto. Proporção de água para cimento
+666.9.023/.028      Aparelhos e equipamentos em geral. 
+      Subdividir como em 66.023/. 028 
+Exemplo(s) de combinação(ões): 
+      666.9.023.2 Vasos para reações 
+      666.9.026.2 Tubos, tubulações
+666.9.03	Composição de matérias-primas preparadas.
+Processamento e tratamento especial.
+      As subdivisões são mais desenvolvidas em 666.97.03...
+666.9.031	Preparo da mistura.
+666.9.033	Processamento da mistura. Inclusive Compactação. Moldagem. Proteção.
+666.9.035	Tratamento, aditivos, medidas relativas ao
+assentamento (pega) e endurecimento. Inclusive Adição de componentes hidráulicos.
+666.9.038	Medidas de proteção e outras medidas especiais
+durante e após o endurecimento.
+666.9.04	Tratamento térmico. Inclusive Queima. Calcinamento. Subdividir como em 66.04...
+666.9.05	Manipulação e tratamento do material processado.
+666.9.051	Tratamento inicial do material processado.
+Resfriamento e armazenamento do óxido de cálcio, clínquer de cimento, etc.
+666.9.052	Tratamento posterior do material em bruto. Inclusive Hidratação da cal. Moagem do cimento, clínquer. Manuseio e 
+	entrega da partida de concreto misturado, usinado.
+666.9.053	Coloração do material em bruto.
+                                      Para coloração de produtos moldados, ver 666.9.058
+666.9.055	Formação, fabricação, ligação, etc. de produtos rígidos.
+Especificar por meio de :62l.7...
+666.9.056	Usinagem. Corte. Martelagem, etc.
+Especificar por meio de :621.9...
+666.9.058	Revestimento, coloração, impregnação, etc.
+                                 Pintura e outros acabamentos de superfície.
+666.9.059	Armazenamento, manuseio e transporte de
+                                 produtos acabados.
+→ 621.86/.87 Tecnologia da manipulação de materiais (manipulação mecânica em geral)
+→ 658.78 Administração dos estoques e almoxarifados. Armazenamento. Expedição
+Divisões principais
+666.91	Indústria do gesso e da anidrita. Estuques
+de gesso e produtos de estuque.
+→ 666.941 Cimento fracamente calcinado (sem sinterização no forno)
+→ 691.31 Pedra artificial. Pedra reconstituída. Produtos de gipsita, gesso natural, para construção. Pedra de silicato de cálcio
+→ 691.553 Estuques de gipsita. Estuques de anidrita
+→ 693.6 Ofício de estucador, embocador. Trabalho de acabamento
+666.913	Gesso e estuques de anidrita (tipo químico).
+666.914	Produtos de estuque para construção.
+666.914.4	Produtos de estuque para construção. Inclusive Placas de gesso. Blocos de estuque.
+666.914.5	Composições para primeira demão de reboco e fachadas. Inclusive Materiais de estuque.
+→ 666.96 Composições de cimento de pega (de assentamento duro), aglomerados e produtos de pedra artificial (para primeira mão de emboço, revestimento final, camadas de suporte, enchimento, ligação, etc.)
+666.92	Indústria de cal. Cal e produtos de cal.
+→ 631.821 Calcário. Greda. Gipsita
+→ 691.51 Óxidos de cálcio. Cal
+→ 693.6 Ofício de estucador, embocador. Trabalho de acabamento
+666.923	Cal segundo a origem.
+666.924	Produtos de cal (formas para construção ou
+outros usos). Cal cáustica. Inclusive Cal viva. Cal apagada ou extinta. Cal hidratada. Massa de caí. Água de cal
+666.925	Cal hidráulica.
+666.94	Indústria do cimento.
+→ 666.97 Indústria de argamassa e concreto. Elementos do concreto. Produção de concreto em usinas
+→ 691.32 Concreto. Elementos de concreto para construção
+→ 691.54 Cimentos. Materiais pozolânicos
+Subdivisões auxiliares especiais
+666.94.052	Clínquer, trituração e moagem.
+Especificar por meio de :621.926....
+→ 666.9.022.3 Preparo, trituração e moagem
+Divisões principais
+666.941	Cimento fracamente calcinado (sem
+sinterização no forno). Inclusive Cimento romano natural (cimento de Parker). Cimento de magnésia (cimento
+de Sorel). Cimento de dói omita. Cimento de gipsita.
+666.942	Cimento Portland.
+666.942.2	Cimento Portland comum (natural).
+666.942.3	Cimentos Portland com propriedades especiais
+(artificiais). Inclusive Cimentos Portland de endurecimento rápido, de alta resistência rápida, baixo teor de calor, permeável ao ar e resistente a sulfatos.
+
+
+
+
+75
+
+

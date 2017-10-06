@@ -1,0 +1,4223 @@
+﻿Subdivisões auxiliares especiais
+656.06	Serviços auxiliares.
+656.062	Postos de serviços em geral.
+656.062.6/.8 dividido como 662.6/.8
+656.064	Fornecimento de combustível e
+suprimentos a postos de serviços e
+abastecimento.
+656.064.6/.8	Suprimento de combustíveis diversos (aos
+postos de serviço).
+656.064.6/.8 dividido como 662.6/.8
+656.065	Abastecimento de combustível e
+suprimentos aos veículos.
+→ 629.082 Instalações, depósitos e armazéns para serviços subsidiários ou de abastecimento (para combustível, água, etc.)
+656.065.2	Fornecimento de peças sobressalentes,
+656.065.3	Abastecimento de combustível.
+Reabastecimento. Abastecimento de carvão.
+Enchimento do tanque.
+      → 725.384 Postos de combustível 
+656.065.4	Fornecimento de lubrificantes.
+656.065.5	Abastecimento de líquidos refrigerantes
+para motores.
+→ 621.643.54 Mangueiras de caixa d’água (p. ex., à margem das ferrovias)
+656.065.6	Abastecimento de gás de flutuação.
+656.065.7	Comodidades para lavagem de veículo.
+656.065.8	Abastecimento de víveres. Abastecimento de
+alimentos e bebidas.
+656.07	Administração, controle do transporte, do
+tráfego, do trânsito, etc.
+Os auxiliares de 656.07... não são aplicáveis em 656.82
+656.071	Administração geral. Categorias e funções.
+656.071.l	                 Comando. Pessoal técnico superior. Inclusive
+Capitão, piloto. Engenheiros. Mecânicos. Operadores de rádio, de telégrafo.
+656.071.2	Pessoal técnico de nível inferior. Inclusive
+Assistentes, imediatos. Timoneiros. Bombeiros,
+foguistas.
+656.071.3	Serviços e pessoal administrativo no veículo.
+Inclusive Seção de contabilidade, comissários,
+etc. Seção de serviços domésticos, de
+alimentação. Manuseio da bagagem e de
+mercadorias. Serviço de inspeção, de segurança.
+656.071.4	Serviços em estações e portos. Inclusive
+Diretoria (chefe da estação, capitães de portos,
+superintentes de aeroportos). Seção de
+contabilidade. Controle do tráfego. Seção
+doméstica, de aprovisionamento. Seção de
+guarda e transporte de bagagens. Carregadores.
+Seção de inspeção, de segurança.
+656.071.6	Serviços médicos e de higiene.
+656.071.7	Pilotagem. Guias, pilotos.
+      → Pilotagem. Inclusive Leitura de mapa
+Exemplo(s) de combinação(ões):
+      656.071.7-051 Guias, pilotos
+656.071.8	Serviço de manutenção e reparo.
+Serviço de limpeza.
+656.072	Serviços e formalidades de passageiros.
+→ 656.025.2 Transporte de pessoas. Transporte de passageiros
+656.072.l		Venda de passagens, de reservas. Registro
+de passageiros.
+656.072.14	Reservas por agências de viagem.
+→ 656.079 Agências de viagem
+656.072.2	Embarque (no trem, navio, etc.). Mudança,
+transferência, transbordo, baldeação entre
+itinerários ou veículos. Desembarque.
+656.072.27	Escalas. Paradas obrigatórias. Espera
+de conexões.
+656.072.3	Distribuição dos passageiros no veículo.
+656.072.4	Classificação de passageiros.
+656.072.41	Passageiros segundo a classe de acomodação.
+656.072.42	Passageiros segundo a quantidade.
+656.072.44	Passageiros segundo o tipo de viagem. Inclusive
+Turistas.
+656.072.45	Passageiros em viagens oficiais.
+Exemplo(s) de combinação(ões):
+656.072.45:355.33 Pessoal militar como passageiros
+656.072.46	Passageiros segundo o destino da viagem.
+656.072.5	Supervisão, inspeção do transporte de
+passageiros. Inclusive Controle de passaportes.
+Controle de quarentena.
+Inspeção pelo encarregado.
+→ 656.073.5 Supervisão e inspeção do tráfego de carga
+656.072.6	Cuidados com os passageiros. Inclusive
+Acomodação. Alimentação. Entretenimento.
+656.072.7	Relações com os passageiros. Medidas
+administrativas. Conduta, comportamento
+dos passageiros.
+656.073	Serviços e formalidade de transporte de
+mercadorias. 
+→ 656.025.4 Transporte de mercadorias. Transporte de carga
+656.073.1	Reserva e registro de carga. Aceitação de
+mercadorias para transportar.
+656.073.2	Manuseio da carga.
+→ 621.798 Equipamento de acondicionamento e embalagem. Invólucros,
+recipientes, materiais, máquinas, etc.
+656.073.21	Embarque da carga.
+656.073.23	Transferência de carga. Transbordo.
+656.073.235	Transporte em contêineres.
+656.073.24	Mudança de destino. Mudança nos
+meios de transporte.
+656.073.25	Descarga, desembarque da carga.
+656.073.27	Armazenamento temporário. Armazéns.
+656.073.28	Transporte dentro do terminal ou porto.
+656.073.3	Distribuição da carga no veículo.
+656.073.37                 Viagem do veiculo transportador sem carga.
+656.073.4	Classificação das mercadorias ou carga.
+Indicar a forma ou formato da carga por meio de -4... (de 62-4...)
+656.073.41	Objetos específicos como carga.
+Exemplo(s) de combinação(ões):
+656.073.41:629.322 Bicicletas como carga
+656.073.42	Carga segundo sua propriedade. Inclusive
+Bagagem de passageiros. Propriedade de
+terceiros. Propriedade da tripulação, do
+transportador, etc.
+656.073.43	Carga segundo diversas características. Inclusive
+Segundo o valor (bens valiosos, dinheiro etc.
+Bens de valor médio ou pequeno.) Objetos
+postais. Pacotes. Mercadorias
+pesadas ou volumosas.
+656.073.435	Carga frágil.
+656.073.436	Mercadorias ou cargas perigosas.
+                                          → 614.75 Precauções e manuseio de substâncias nocivas e perigosas
+                                     → 620.26 Produtos ou materiais perigosos
+                                     → 656.833.3 Restrições devido ao conteúdo dos objetos
+656.073.438	Cadáveres ou carcaças como carga.
+→ 614.63 Transporte de cadáveres
+656.073.44	Carga segundo o tipo de veículo requerido.
+Especificar por meio de :629...
+656.073.45	Carga segundo o tipo de acondicionamento
+exigido.
+656.073.451	Acondicionamento em porões.
+656.073.452	Acondicionamento em depósitos.
+656.073.453	Acondicionamento em compartimentos
+especialmente protegidos, em caixas-fortes.
+656.073.454	Acondicionamento em compartimentos para
+materiais explosivos ou munição.
+656.073.455	Acondicionamento em compartimentos
+refrigerados. Acondicionamento refrigerado.
+656.073.456	Acondicionamento em tanques.
+656.073.458         	Acondicionamento no convés.
+656.073.46	Carga segundo o destino e extensão da viagem.
+656.073.48            	Carga segundo a administração e destino.
+Inclusive Carga não-entregue. Carga recusada pelo transportador. Achados e perdidos (carga perdida). Perdas e furtos em viagem. Cargas não-reclamadas,
+→ 347.7 Direito comercial. Direito das sociedades, firmas, empresas
+                                      → 347.232.1 Ocupação. Apropriação. Reversão
+→ 351.759.5 Proteção da propriedade. Serviços de achados e perdidos
+→ 656.878 Objetos que não podem ser entregues. Correspondência devolvida (Reencaminhamento.
+                                      Devolução ao remetente, etc.)
+656.073.5	Supervisão e inspeção do tráfego de carga.
+Inclusive Inspeção oficial, alfândega. Inspeção pelo operador. Inspeção por outras agências.
+656.073.7	Administração de cargas.
+656.073.8	Danos a mercadorias ou cargas.
+656.073.85	Defeitos intrínsecos. Danos causados
+por forças naturais.
+656.073.851	Defeitos intrínsecos. Inclusive Defeitos de
+construção. Desgaste (rachadura, etc.). Vazamento. Perda de peso. Derretimento. Quebra.
+656.073.852/.856   Danos causados por forças naturais. 
+      656.073.852/.856 dividido como 656.085.2/.6
+656.073.86	Danos causados pelo homem.
+656.073.86 dividido como 656.086
+656.074	Serviços e formalidades para transporte
+de animais.
+      656.074 dividido como 656.072
+656.075	Serviços domésticos nos transportes.
+Inclusive Serviços de alimentação.
+Comissários de bordo.
+→ 656.071.8 Serviço de manutenção e reparo
+→ 656.072.6 Cuidados com os passageiros
+656.076	Tipo de uso dos veículos.
+656.076.l	Veículos de uso privado. Veículos de recreio.
+Uso de veículos em negócios particulares, no comércio.
+656.076.2	Uso de veículos para transporte público.
+Uso por transportadores comuns.
+656.076.3	Aluguel de veículos. Aluguel de veículo
+com condutor.
+656.076.4	Aluguel de veículos (sem condutor).
+656.076.5	Empréstimo de veículos. Outros arranjos.
+com terceiros.
+656.076.6	Desativação de veículos. Interrupção
+de serviço.
+656.076.7	Serviços auxiliares, de assistência a veículos
+(exceto de emergência). Inclusive Serviços
+de reboque.
+→ 626.7 Transporte aéreo. Tráfego aéreo
+→ 627.718 Instalações de reboque em canais navegáveis
+→ 656.087 Assistência a veículos em emergências. Reboque. Cuidados
+656.076.8	Mudança de uso do veículo. Utilização em
+atividades diferentes.
+656.078	Medidas para promoção e desenvolvimento
+do transporte. Competição e coordenação
+no transporte.
+656.078.l	Cooperação entre transportadoras. Inclusive
+Partilha, operação em comum de tráfego. Operações comuns de rotas, linhas. Organização conjunta, equipamento, etc.
+656.078.2	Acordos com consignatários ou representantes
+(dando preferência ao transportador).
+656.078.3	Instalações para despacho e pagamento.
+656.078.4	Abatimentos. Descontos. Reduções de preço.
+656.078.8	Concorrência. Inclusive Formas rivais de
+transporte. Concorrência na mesma modalidade de transporte.
+656.079	Agências de viagem.
+→ 656.072.14 Reservas por agências de viagem
+656.08	Acidentes. Assistência em acidentes.
+→ 614.8  especialmente 614.85/.86, 656.04
+Os auxiliares 656.08... não são aplicáveis em 656.82
+656.081	Assuntos gerais. Estudo.
+656.082	Descarrilamentos. Capotagem de veículos. Queda de veículos (p. ex., quedas
+de aeronaves).
+656.083	Quebras, rupturas de engates.
+656.084	Colisões, batidas. Inclusive Colisões com outros veículos. Colisões com obstáculos.
+                                 Atropelamentos.
+656.085	Outros acidentes diversos. Inclusive Afundamento. Naufrágio.
+656.085.l	Acidentes devidos a defeitos intrínsecos do
+veículo. Inadequação para uso na estrada, no mar, no ar. Desgaste de veículos pelo uso.
+→ 656.091.2 Documentos relativos ao veículo. Documentos de registro de veículos, diários de bordo. Certificados da adequabilidade para serviço (certificados de boas condições para funcionar em estradas, no mar, no ar)
+656.085.2	Acidentes devido a forças naturais em geral.
+Inclusive Devido a terremotos, inundações,
+mau tempo, gelo, cerração.
+656.085.3	Naufrágio.
+656.085.4	Encalhes.
+656.085.5	Incêndios. Conflagrações.
+656.085.6	Explosões.
+656.086	Danos causados pelo homem.
+656.086.l	Danos causados pela tripulação, pela
+equipagem do veículo.
+656.086.13	Por descuido.
+656.086.l4	Por vandalismo. Por negligência.
+656.086.l5	Por fadiga excessiva ou embriaguez.
+656.086.l6	Por erro de navegação.
+656.086.2	Danos causados por hostilidades, por ação
+inimiga, etc. (p. ex., captura, bloqueio, força
+armada. Pirataria, roubo).
+656.086.3	Danos causados por pessoal de terra (pessoal
+de serviço, de manutenção, etc.).
+656.087	Assistência a veículos em emergências.
+Reboque.
+→ 656.076.7 Serviços auxiliares, de assistência a veículos (exceto de emergência) 
+656.088	Recuperação de veículos, desencalhe, etc.
+                                     → 627.76 Salvamento marítimo. Salvamento, desencalhe de navios
+656.089.2	Exercícios, práticas de medidas de salvamento.
+Inclusive treinamento, exercícios com
+botes salva-vidas.
+656.091	Documentos, certificados, licenças relativas
+aos veículos e sua operação.
+656.091.l	Licenças e permissões de operação de veículos.
+Inclusive Licenças, habilitações para dirigir
+veículos. Licenças para navegar, pilotar
+(brevê de aviação).
+656.091.2	Documentos relativos ao veículo. Documentos
+de registro de veículos, diários de bordo.
+Certificados da adequabilidade para serviço
+(certificados de boas condições para funcionar
+em estradas, no mar, no ar).
+→ 347.823.34 Aeronavegabilidade
+→ 629.017 Confiabilidade operacional. Navegabilidade. Estabilidade
+→ 656.085.1 Acidentes devido a defeitos intrínsecos do veículo. Inadequação para uso na estrada, no mar, no ar. Desgaste de veículos pelo uso
+656.091.3	Licenças relativas ao motor e ao equipamento
+do veículo.
+656.091.4	Documentos relativos ao uso ou emprego do
+veículo. Inclusive Permissões de acesso
+(p. ex. papéis de atracação).
+656.091.5	Documentos que indicam propriedade e
+nacionalidade.
+656.091.6	Documentos fiscais. Documentos de liberação
+pela alfândega. Permissões de alfândega, etc.
+656.091.7	Salvo-condutos.
+→ 351.755.61 Passaportes. Emissão e fiscalização de passaportes
+→ 351.756 Fiscalização de estrangeiros
+Divisões principais
+656.1/.5	Transporte terrestre.
+656.1	Transporte rodoviário.
+656.11	Auto-estradas, rodovias, pontes e sua
+utilização. Organização do tráfego
+rodoviário.
+Exemplo(s) de combinação(ões):
+656.11.021.24 Congestão do tráfego rodoviário 
+656.11.021.24:159.942.6 Emoções fortes causadas pela congestão do tráfego rodoviário. Inclusive ‘Fúria da estrada’
+656.11:625.711.1 Organização do tráfego nas estradas principais. Tráfego arterial
+→ 351.811 Fiscalização de estradas e do trânsito nas estradas
+→ 625.7/.8 Engenharia rodoviária
+656.11.053.1	Medidas para reduzir o volume de tráfego em rodovias.
+Divisões principais
+656.117	Uso temporário de rodovias para finalidades
+não relacionadas ao transporte. Inclusive Utilização de rodovias para reuniões, cerimônias, feiras.
+656.12	Transporte em veículos de rodas. Carreto,
+transporte em carroças, carruagens. Meios
+de transporte (inclusive de
+tração animal, tráfego de veículos
+puxados a cavalo).
+656.121	Transportes públicos em cidades. Inclusive
+Veículos de aluguel.
+656.125	Transporte de carga. Carreto. Carreto e entrega de pacotes. Carroças e camionetas.
+→ 656.025.4 Transporte de mercadorias. Transporte de carga
+→ 656.073 Serviços e formalidades de transporte de mercadorias
+656.128	Veículos privados. Carruagens particulares
+ (especialmente carruagens puxadas por cavalo).
+656.13	Transporte motorizado. Tráfego de
+veículos automóveis.
+Exemplo(s) de combinação(ões):
+      656.13.052.8 Instrução no uso de veículos automóveis. Ensino de direção de veículos. Escolas de motoristas
+656.131	Veículos automóveis públicos. Veículos
+automóveis de aluguel. Táxis.
+→ 656.076.3/.4 
+656.132	Ônibus. Serviços de ônibus.
+656.135	Transporte de carga por veículos
+motorizados. Transporte de carga por
+caminhões, camionetas.
+→ 656.025.4 Transporte de mercadorias. Transporte de carga
+→ 656.073 Serviços e formalidades de transporte de mercadorias
+656.136	Comboios de transporte motorizados.
+Veículos com reboques. Comboios
+rodoviários.
+656.137	Tratores agrícolas. Outros veículos
+motorizados com finalidades especiais.
+→ 631.371 Máquinas e equipamento para produzir força motriz, tração
+656.138	Veículos motorizados para transporte
+particular. Automóveis particulares.
+656.14	Tráfego de pedestres. Transporte por
+pessoas, por animais.
+656.142	Tráfego de pedestres.
+656.145	Transporte por animais. Transporte a
+cavalo. Animais de carga, bestas de carga.
+656.18	Transporte por bicicletas e motocicletas.
+Tráfego de bicicletas e motocicletas.
+656.183	Transporte por bicicleta a pedal.
+656.183.5	Transporte por bicicletas motorizadas.
+656.186	Transporte por motocicleta.
+656.187	Transporte de carga por motocicleta com
+sidecar, triciclo motorizado.
+656.19	Outros tipos de transporte rodoviário.
+Tráfego de veículos sem roda. Inclusive
+Tráfego de trenós.
+656.2	Transporte ferroviário. Tráfego ferroviário.
+      → 351.812 Fiscalização de ferrovias e do tráfego ferroviário
+      → 625.1/.5 Ferrovias. Carris. Linhas de cabos
+656.21	Operação de linhas ferroviárias, prédios, estações.
+→ 725.3 Edifícios para transporte, tráfego, armazenamento
+656.211	Localização e disposição de estações de
+passageiros, paradas, escalas.
+656.211.3	Estações de cruzamento.
+656.211.4	Estações terminais.
+656.211.5	Detalhes de estações de passageiros. Inclusive
+Saguões. Salas de espera. Plataforma. Guichês
+de passagens. Barreiras. Instalações para
+passageiros e trens.
+656.211.6	Transportes da estação. Veículos para conexão
+entre estações. Inclusive Ônibus de estações.
+656.211.7	Conexões com serviços de navios. Barcas
+ferroviárias.
+656.212	       Localização e disposição de estações de car 
+656.212.4	Trilhos para manobras.
+656.212.5	Pátios de manobra. Composição do trem.
+656.212.6	Linhas de manuseio, de carregamento.
+Equipamentos para suspender e manusear
+a carga.
+656.212.7	Detalhes de estações de carga. Inclusive
+Plataformas de carregamento. Saguões. Áreas
+cobertas para carregamento. Escritórios.
+656.212.8	Instalações de pesagem. Balanças.
+656.213	Estações especiais. Inclusive Estações de carvão. Estações para gado. Estações em docas. Estações particulares, ramais.
+656.216	Instalações nas vias férreas.
+656.216.2	Passagens de nível. Cancelas.
+      → 625.162 Passagem de nível. Cercas da linha. Demarcação
+      → 656.265 Serviços de guarda-cancelas
+656.216.3	Lugares de parada.
+656.22	Organização comercial das ferrovias.
+Serviços de trem.
+656.222	Regime de funcionamento dos trens.
+→ 656.022 Itinerários. Linhas. Serviços
+656.222.l		Itinerário. Rotas. Lugares e áreas servidos.
+656.222.2	Limites de velocidade. Cargas.
+656.222.3	Composição dos trens. Tipo de material
+rolante. Tipos de carros, classes.
+656.222.4	Diagramas das vias férreas. Capacidade
+das linhas.
+656.222.5	Serviço de passageiros. Indicadores de
+itinerário. Horários.
+→ 656.022.5 Horário. Chegada e partida
+656.223	Uso e distribuição do material rolante.
+656.223.l	                 Material rolante de passageiros. Carros e trens
+de passageiros.
+656.223.2	Material rolante de carga. Vagões e trens de
+carga. Inclusive Intercâmbio entre redes ferroviárias e retorno de vagões vazios. 
+      → 656.078.1 Cooperação entre transportadoras
+656.224	Serviços de trens de passageiros. Inclusive
+Saída. Chegada. Controle.
+→ 656.025.2 Transporte de pessoas. Transporte de carga
+→ 656.072 Serviços e formalidades de passageiros
+656.225	Serviços de trens de carga. Inclusive Cargas
+volumosas, composição das cargas.
+→ 656.025.4 Transporte de mercadorias. Transporte de carga
+→ 656.073 Serviços e formalidade de transporte de mercadorias
+656.226	Serviço de bagagens. Serviço de
+encomendas.
+      → 656.073.42/.43
+656.228	Publicidade. Serviço aos clientes.
+      → 658.818 Serviço ao consumidor. Serviço pós-venda
+      → 659.11 Campanhas publicitárias, sua execução. Táticas de publicidade
+656.23	Questões financeiras e comerciais das
+ferrovias.
+Exemplo(s) de combinação(ões):
+656.23.03 Tarifas, preços, taxas ferroviárias
+656.236	Tarifas de outros tipos de transportes
+exceto o próprio transporte ferroviário. Inclusive Taxa de coleta e entrega. Taxas pelas conexões com transporte terrestre ou aquático.
+656.25	Medidas de segurança. Sinais.
+→ 629.4.066 Dispositivos de observação, sinalização, comunicação e identificação
+→ 629.4.067 Sistemas de segurança e proteção em veículos ferroviários
+656.251	Sinais em geral. Formas, cores dos sinais.
+656.252	Sinais manuais e manualmente
+controlados. Sinais nos próprios trens.
+Supervisão dos trens em geral. Inspeção dos trens nas estações. Inclusive Sinais ao longo do trem. Sinais na dianteira e na traseira. Indicadores a bordo das estações.
+656.253	Sinais fixos nas vias e nas estações.
+Indicadores (painéis de destino, etc.) nas
+estações. Sinais em túneis e cruzamentos.
+656.254	Sistemas de comunicações a longa
+distância. Telecomunicações no transporte
+ferroviário.
+→ 629.4.05 Sistemas de orientação e controle em veículos ferroviários
+656.254.l	Telegrafia. Telefonia. Rádio. Televisão.
+Especificar por meio de : 654.1...
+656.254.2	Sinais acústicos. Dispositivos especiais de
+advertência.
+656.254.4	Comunicação entre as estações e os trens
+durante a viagem.
+656.254.5	Sistema de despacho.
+656.254.6	Proteção de trens em emergências.
+656.255	Operação de ida-e-volta em ramais
+de via única.
+656.256	Sistemas de bloqueio.
+656.257	Controle central de sinais e agulhas.
+Conexões frouxas ou rígidas. Inclusive
+Caixas de sinal.
+→ 625.151.3 Controle das agulhas de chave. Acionamento da chave: manual, automática, etc.
+656.258	Engate. Desengate.
+656.259	Outros dispositivos de segurança.
+656.259.l	Dispositivos de segurança acionados pelo trem.
+Inclusive Retardadores da marcha. Freios.
+      → 621.337.6 Dispositivos para controle dos pontos de desvio dos trilhos, dos pontos da linha, sinais pelo veículo e por controle manual de dentro do veículo
+      → 625.151.6 Agulhas de chave controladas de dentro do veículo
+      → 625.156 Pára-choques e dispositivos semelhantes
+656.259.2	Desarme, desengate de sinais e de freios no
+trem por meio dos próprios trilhos.
+656.259.3	Dispositivos de segurança para trens
+elétricos, que operam pela redução ou corte
+da corrente elétrica.
+656.259.4	Sinais de bloqueio acionados pelo trem.
+656.259.5	Sinais explosivos para ferrovias.
+Detonadores de trilhos.
+656.259.6	Bloqueio de sinais e agulhas. Sinaleiras
+de queda livre.
+656.26	Operações, serviços complementares.
+656.261	Coleta e entrega de carga. Serviço de
+entrega.
+656.262	Bares, restaurantes, salas de refeições
+em estações ferroviárias. Hotéis em
+estações ferroviárias.
+656.265	Serviços de guarda-cancelas.
+→ 656.216.2 Cruzamentos de nível. Portões do cruzamento
+656.27	Operação de ramais com tráfego leve (mas
+pertencentes às redes principais).
+Operação de ferrovias de bitola estreita.
+Simplificação de serviços e
+procedimentos.
+656.3	Transporte por ferrovias especiais,
+ferrovias de indústrias, ferrovias de serviço.
+65633	Por ferrovias de construção especial.
+656.33 dividido como 625.3
+656.34	Por ferrovias elevadas ou subterrâneas,
+bondes, etc. 
+	      Alternativamente, classificar os serviços de bondes em 656.4
+                                         65634 dividido como 625.4
+656.35	Por cabos aéreos. Por teleféricos, etc.
+656.35 dividido como 625.5
+656.4	Transporte por ferrovias de bitola estreita.
+656.4 dividido como 656.2
+656.5	Outras formas de transporte terrestre.
+      → 621.86/.87 Tecnologia da manipulação de materiais. Equipamento de transporte
+      → 622.6 Transporte e manipulação. Elevação. Içamento. Transporte de superfície
+656.52	Transporte e tráfego no interior de
+grandes edifícios.
+→ 658.286.2 Transporte interno. Fluxo de materiais
+656.56	Transporte de fluidos (líquidos, gases) por
+oleodutos.
+→ 621.643/.644
+→ 622.691/.692
+656.6	Transporte por água.
+→ 347.79 Direito marítimo. Leis sobre navegação, sobre navegação interior
+→ 351.813 Fiscalização do tráfego em vias navegáveis
+→ 626/627 Engenharia e construção hidráulica. Estruturas aquáticas
+656.61	Transporte marítimo. Navegação
+marítima. 
+Exemplo(s) de combinação(ões):
+      656.61.052 Controle de embarcações.
+Navegação. Manobras 
+656.61.052:551.326 Navegação, etc. entre gelo flutuante 
+656.61.052:681.786.3 Sextantes náuticos 
+656.61.091.7 Passagens marítimas
+656.611	Propriedades prediais. Construções.
+656.611.2	Escritórios de navegação.
+656.612	Embarcações. Navios. Frota mercante.
+Inclusive Composição da frota. Perdas
+de navios, naufrágios.
+656.613	Transporte secundário para o transporte
+marítimo. Serviços de conexão, de ramais
+(por terra, ar ou água).
+656.614	Tipos de transporte.
+656.614.2	Transporte de passageiros por água. Navegação
+de passageiros.
+→ 656.025.2 Transporte de pessoas. Transporte de passageiros
+→ 656.072 Serviços e formalidades de passageiros
+656.614.3	Transporte de mercadorias por água.
+Navegação de carga.
+→ 656.025.4 Transporte de mercadorias. Transporte de carga
+→ 656.073 Serviços e formalidade de transporte de mercadorias
+656.615	Operação de portos, ancoradouros.
+      → 627.2 Portos, ancoradouros: obras de engenharia e construção em geral
+656.615.8	Serviço de reboque em portos.
+→ 656.076.7 Tipo de uso dos veículos
+656.616	Operação de docas.
+→ 627.3 Instalações portuárias internas. Docas. Desembarcadouros. Cais. Instalações e equipamento
+656.618	Navegação costeira, interior. Cabotagem.
+Inclusive Navegação com rebocadores. Uso de barcas e rebocadores.
+→ 656.022.86 Cabotagem. Navegação costeira
+→ 656.076.7 Serviços auxiliares de assistência a veículos (exceto de emergência)
+656.62	Transporte por hidrovias interiores.Tráfego em rios e canais.
+656.621/. 626 dividido como 656.611/.616
+656.627	Serviços de pontes e comportas. Outros serviços complementares.
+	      → 627.7 Instalações para navegação. Manutenção do canal. Instalações para salvamento e socorro naval
+656.627.2	Serviços de pontes. Operação, manutenção, etc.
+de pontes.
+→ 624.2/.8 Construção de pontes
+656.627.3	Serviços de comportas. Operação, manutenção,
+etc. de comportas.
+→ 626.4 Eclusas
+656.627.4	Serviços de guindaste para embarcações.
+Operação, manutenção, etc. de mecanismos de
+elevação para embarcações.
+→ 626.5 Mecanismo de elevação e planos inclinados para embarcações
+656.628	Tração em rios e canais. Navegação interior
+com reboque. Reboques e barcaças em
+águas interiores.
+656.629	Transporte local, de curta distância, por
+água. Inclusive Táxis aquáticos. Barcas de
+passageiros. Ônibus aquáticos. Barcos
+fluviais. Barcos a vapor de passageiros.
+656.65	Transporte lacustre. Navegação e tráfego
+em lagos.
+656.66	Transporte por barcas. Serviços de barca.
+Tráfego de barcas.
+656.7	Transporte aéreo. Tráfego aéreo.
+Exemplo(s) de combinação(ões):
+656.7:632.982.4 Vôos para pulverização de lavouras
+656.7:656.86 Transporte postal aéreo 
+656.7:659.138.6 Vôos de propaganda. Publicidade
+Exemplo(s) de combinação(ões):
+      656.7:632.982.4 Vôos para pulverizar a colheita
+      656.7:656.86 Transporte do correio pelo ar. Serviço de correio aéreo
+      656.7:659.138.6 Vôos para publicidade, propaganda
+      656.7.052.3 Decolagem. Subida
+      656.7.052.3(21) Decolagem de terra
+      656.7.052.3(26/28) Decolagem de água
+      656.7.052.4 Operações durante o vôo
+      656.7.052.74 Descida. Aterrissagem. Atracação 
+      → 347.82 Direito do ar. Direito da aviação
+      → 351.814 Fiscalização do tráfego aéreo
+      → 656.834.3 Remessas postais urgentes ou expressas. Correspondência aérea
+656.71	Locais de aterrissagem. Campos de pouso.
+Aeródromos. Aeroportos e serviços auxiliares.
+→ 625.717 Áreas pavimentadas para campos de aviação e aeroportos. Pistas de aeroportos
+→ 725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de serviços públicos
+656.713	Serviços tributários.
+656.73	Tráfego aéreo comercial.
+656.74	Tráfego aéreo não-comercial.
+656.8	Serviços e administração postal.
+Exemplo(s) de combinação(ões);
+656.8:061.l(100) Convenções postais internacionais (p, ex., UPU, União
+        Postal Universal)
+       → 351.816 Fiscalização do correio. Administração postal. Regulamentos postais
+656.80	Generalidades sobre o serviço postal.
+656.801	Organização do serviço postal.
+656.303	Tarifas. Taxas. Custos.
+656.81	Setores, departamentos do serviço postal.
+Exemplo(s) de combinação(ões):
+656.81:651 Aspectos administrativos
+→ 656.07Administração, controle do transporte, do tráfego, do trânsito, etc.
+656.811	Pessoa l do serviço posta 1.
+656.815	Serviços administrativos e operacionais.
+Serviços técnicos.
+656.815.1	Departamentos administrativos do serviço
+postal. Administração central e regional.
+656.815.3	Postos do serviço postal. Agências postais.
+Subagências, etc.
+656.815.6	Departamentos técnicos do serviço postal.
+656.816	Instalações, equipamento operacional.
+656.816.3	Instalações e equipamento técnico do
+serviço postal.
+656.816.31	Instalações de triagem de correspondência.
+Máquinas de triagem.
+656.82	Administração e operação geral do
+serviço postal.
+Os auxiliares  656.07... e 656.08... relacionados em 656 não são aplicáveis aqui
+656.83	Condições gerais para aceitação de
+correspondência.
+656.831	Preparação da correspondência. Confecção
+de pacotes, etc.
+656.831.2	Endereçamento. Nome e endereço do
+destinatário. Informações adicionais (p. ex., nome e endereço do remetente).
+656.831.3	Uso de etiquetas adesivas, de painéis
+transparentes para endereçamento
+(p. ex., em envelopes com janelas), etc.
+656.831.4	Objetos sem endereço ou com endereço
+simplificado.
+656.831.5	Embalagens. Características das embalagens
+postais. Inclusive Peso. Tamanho,
+dimensões. Lacre.
+656.831.7	Objetos postais combinados. Objetos
+amarrados juntos. Anexos.
+656.832	Aceitação de correspondência.
+656.832.	l	Aceitação incondicional de correspondência.
+656.832.2                 Aceitação condicional de correspondência.
+656.832.4                 Recusa de correspondência. Exclusão do
+serviço postal.
+656.832.6	Restrições à importação, à exportação e ao
+trânsito.
+656.833	Restrições à aceitação de correspondência.
+656.833.l		Tamanho ou peso máximo ou mínimo.
+656.833.2	Total máximo ou mínimo.
+656.833.3	Restrições devidas ao conteúdo dos objetos.
+Inclusive Conteúdos frágeis ou perecíveis.
+Líquidos. Animais vivos. Artigos perigosos.
+Pacotes com conteúdo proibido.
+→ 614.75 Precauções e manuseio de substâncias nocivas e perigosas
+→ 620.26 Produtos ou materiais perigosos
+→ 656.073.436 Mercadorias ou cargas perigosas
+656.833.6	Objetos ofensivos, indecentes, imorais.
+Correspondência obscena. Objetos prejudiciais à lei e à ordem.
+→ 343.542 Afronta à decência pública 
+656.833.8	Objetos inconvenientes para transporte postal
+devido à forma ou qualquer outra razão.
+656.834	Remessas postais sujeitas a sobretaxas.
+Remessas postais sujeitas a tratamento
+especial.
+656.834.1	Objetos registrados. Correspondência
+registrada.
+656.834.3	Remessas postais urgentes ou expressas.
+Correspondência aérea.
+656.834.4	Correspondência com aviso de remessa,
+de recepção, de pagamento. Correspondência com nota de trânsito, etc. Objetos com registro de recepção.
+→ 656.883.1 Serviço postal de cobrança de dinheiro
+656.834.8	Correspondência volumosa, incômoda.
+Objetos frágeis.
+656.835	Pagamento antecipado da franquia postal.
+Franquia. Selos postais. Filatelia.
+656.835.1	Pagamento antecipado da franquia com validade
+impressa. Selos postais. Papel de carta já franqueado.
+656.835.11	Selos postais.
+656.835.111	Selos postais com validade geral. Inclusive
+Tiragens especiais: selos comemorativos, selos
+para obras filantrópicas, etc.
+656.835.112	Selos postais para tipos especiais de
+correspondência (p. ex., selos para
+encomendas) ou de via de transporte
+(p. ex., selos para via aérea).
+656.835.113	Selos postais para correspondência oficial, etc.
+Selos postais para uso do governo, para as
+forças armadas, para instituições diversas.
+656.835.114	Selos sem valor de franquia. Inclusive
+Selos de porte a pagar. Selos fiscais.
+Selos da receita, estampilhas.
+656.835.116	Selos para serviços postais particulares.
+Inclusive Selos postais de hotéis.
+656.835.119	Forma de emissão de selos postais. Blocos,
+rolos, folhas, etc. de selos.
+656.835.12	Papel de correspondência com porte pago
+(com selos postais gravados em relevo,
+impressos, gravados). Cartões postais, papel
+de carta, envelopes, etc. com porte pago.
+656.835.13	Cupons de resposta.
+656.835.16	Venda de selos postais. Inclusive Venda em
+agências postais, agências franqueadas etc.
+Máquinas de vender selos. Dia de emissão.
+Período de venda.
+→ 681.13 Máquinas automáticas (de inserção de moedas ou fichas). Máquinas de vender
+automáticas
+656.835.168	Venda de selos postais já usados.
+656.835.17		Validade de selos postais. Abuso, falsificação,
+substituição, etc. de selos.
+656.835.18	Questões relativas ao projeto e produção de
+selos postais. Inclusive Projeto, arte, texto,
+cores dos selos postais. Impressão e erros de
+impressão. Aplicação de cola. Picote.
+656.835.3	Porte pago sem uso de selos postais.
+656.835.31	Porte pago em importância global.
+Assinatura postal.
+656.835.33	Porte pago com o uso de máquinas de
+franquear.
+→ 681.173.7 Máquinas de franquia postal
+656.835.34	Porte pago em dinheiro.
+656.835.91	Filatelia. Coleção de selos postais.
+→ 686.82 Álbuns
+Para coleção de selos como hobby,  usar 379.824:656.835.91
+656.84	Postagem do correio,da correspondência.
+656.841	Postagem em agências postais, em guichês.
+656.842	Postagem em veículos e embarcações
+postais (postagem em camionetas,
+barcos, etc.).
+656.843	Postagem em caixas de coleta. Tipos de
+caixas de coleta de correspondência. Coleta
+da correspondência das caixas coletoras.
+→ 625.748.46 Caixas postais
+656.845	Outros meios de postagem.
+656.847	Horário de abertura das agências postais. Horário de atendimento ao público,
+horário de postagem.
+656.848	Manipulação da correspondência
+após a postagem.
+656.848.3	Carimbagem da data. Obliteração de selos,
+carimbo postal, etc.
+656.85	Expedição da correspondência.
+Intercâmbio postal internacional.
+656.851	Preparo da mala postal para expedição.
+Classificação e traçado da rota. Codificação
+do endereço, do destino (códigos postais).
+→ 681.187 Máquinas de seleção de correspondência
+656.852	Expedição da correspondência.
+656.853	Chegada e recepção da correspondência (na
+agência de destino).
+656.86	Transporte de correspondência.
+      → 621.867.87 Transportadores pneumáticos de cargas unitárias
+      → 656.1/.7
+656.87	Distribuição, entrega da correspondência.
+656.871	Condições gerais da entrega.
+656.872	Entrega comum ao destinatário
+Entrega a domicílio.
+656.873	Retirada da correspondência pelo
+destinatário. Posta-restante.
+Caixa posta), etc..
+656.874	Entrega por mensageiro especial.
+Entrega expressa.
+656.878	Objetos que não podem ser entregues.
+Correspondência devolvida (Reencaminhamento. Devolução ao remetente, etc.).
+656.88	Serviços postais.
+656.881	Serviço de cartas.
+656.881.l	Correspondência com comunicações pessoais. Cartas, cartões postais etc..
+656.881.3	Correspondência sem comunicações pessoais.
+656.881.33	Impressos.
+656.881.34	Documentos comerciais.
+656.881.35	Amostras de mercadorias.
+656.881.4	Correspondência segurada. Cartas e
+encomendas com valor declarado
+      → 368.26 Seguro de objetos postais, cartas, encomendas, etc.
+656.882	Serviço de encomendas postais.
+656.883	Serviços postais de cobrança e pagamentos.
+656.883.1	Serviço postal de cobrança de dinheiro.
+→ 656.834.4 Correspondência com aviso de remessa, de recepção, de pagamento. Correspondência com nota de trânsito, etc. Objetos com registro de recepção
+656.883.11	Serviço de pagamento contra entrega.
+Reembolso postal.
+656.883.12	Cobrança de contas.
+656.883.15	Serviços especiais de cobrança.
+656.883.3	Serviço postal de remessa de dinheiro e
+pagamento. Vale postal.
+656.883.31	Ordens de pagamento pelo correio.
+Classificar aqui as ordens postais telegráficas
+656.883.32	Ordens de pagamento postais. Vales postais.
+656.883.35	Serviços postais especiais de pagamento.
+656.884	Serviço postal de compensação de cheques e
+de transferência de crédito.
+→ 336.717.1 Operações de transferência de dinheiro. Transferência por cheque e dinheiro. Serviços de compensação. Compensação de cheques e de ordens de pagamento
+656.885	Serviço postal de poupança.
+→ 336.772 Bancos de poupança. Caixas econômicas
+656.886	Serviço postal de assinatura de periódicos,
+jornais e outras publicações seriadas.
+→ 050 Publicações seriadas. Periódicos
+→ 070.33 Distribuição
+656.887	Serviços postais de transporte de
+passageiros. Transporte de pessoas
+pelo serviço de correio.
+656.889	Serviços não-postais.
+656.96	Agenciadores gerais de despachos.
+Intermediários, corretores, agentes intermediários para serviços de transportes. 
+      656.96 dividido como 656
+      → 005.521 Previsão. Previdência. Planejamento de 
+      cenário.
+		         → 657 Contabilidade
+         → 336.717.16 Contabilidade e contas
+         → 336.722.6 Contabilidade das contas de poupança
+         → 347.719 Contabilidade comercial. Livros, inventários, 
+         balanços
+         → 347.728.1 Contas. Livros contábeis. Balanços. 
+         Inventários. Contas de lucros e perdas. Reservas.
+         Avaliações. Anulação de perdas
+ 
+
+657  Contabilidade.
+
+      → 005.521 Previsão. Previdência. Planejamento de cenário
+      → 336.717.16 Contabilidade e contas.
+      → 336.722.6 Contabilidade das contas de poupança
+      → 347.719 Contabilidade comercial. Livros, inventários, balanços
+      → 347.728.1 Contas. Livros contábeis. Balanços. Inventários. Contas de lucros e perdas. Reservas
+    . Avaliação. Anulação de perdas.
+Subdivisões auxiliares especiais 
+657.05	Contabilidade administrativa.
+Divisões principais
+657.1	Métodos, sistemas, técnicas de
+escrituração contábil.
+657.11	Escrituração por partidas simples.
+657.12	Escrituração por partidas dobradas.
+657.122	Escrituração de transferência.
+657.123	Escrituração tabular.
+657.124	Sistema norte-americano de escrituração.
+657.126	Escrituração em duplicata, simultânea.
+Inclusive Sistema Kalamazoo. Escrituração em folhas soltas.
+657.15	Escrituração financeira, orçamentária.
+657.16	Escrituração do setor público em
+combinação com escrituração de entrada dobrada.
+657.2	Escrituração de contas. Registro,
+entrada de transações. Contabilização das entradas..
+Exemplo(s) de combinação(ões):
+657.2.016 Registro, entrada das transações no momento em que são efetuadas
+657.21	Contas: definições, funções, finalidades.
+Conjuntos de contas. Débito, crédito.
+Entradas, saídas.
+657.212	Débito.
+657.213	Crédito.
+657.22	Abertura, andamento, fechamento e
+reabertura de livros contábeis.
+657.221	Abertura e organização de livros contábeis.
+657.222	Escrituração dos livros contábeis.
+657.223	Reorganização dos livros contábeis
+durante o exercício (dentro do ano comercial ou financeiro).
+657.224	Fechamento de livros contábeis
+(p.ex., após a liquidação).
+657.225	Reabertura de livros contábeis.
+657.23	Estornos. Ajustes. Cancelamentos.
+Correção de erros.
+657.24	Provas contábeis. Provas de transações.
+Documentos contábeis.
+657.242	Documentos contábeis de transações em
+dinheiro. Inclusive Recibos. Notas de
+quitação. Quitação de contas, de faturas.
+657.243	Documentos contábeis referentes a
+movimento de mercadorias. Registros de
+entrada e saída de mercadorias.
+657.243.1	Notas fiscais. Faturas.
+657.243.2	Notas de consignação. Notas de aviso de
+despacho. Conhecimentos de embarque, etc.
+657.244	Documentos de crédito (como prova
+contábil).
+→ 336.777 Letras. Instrumentos de crédito. Instrumentos negociáveis. Ordens de pagamento. Ordens bancárias
+→ 347.457 Instrumentos de crédito civil. Letras de câmbio. Obrigações. Notas promissórias. Vales
+→ 347.74  Contratos comerciais
+657.244.l	Notas de câmbio. Ordens de pagamento.
+Notas promissórias. Cartas de crédito.
+657.244.2	Cheques. Documentos de transferência
+de dinheiro.
+657.244.5	Títulos de crédito (sob garantia de mercadoria
+ou dinheiro).
+657.244.6	Notas de comissão.
+657.244.7	Lista de contas, faturas para desconto.
+657.246	Documentos contábeis de transações
+internas. Vales, comprovantes internos de despesas, etc.
+657.25	Apresentação física de livros contábeis.
+Disposição, arranjo das contas. Inclusive
+Escritas de contabilidade.
+657.28	Métodos de pagamento.
+657.282	Pagamentos em dinheiro.
+657.286	Remessas de dinheiro ou valores.
+657.3	Orçamentos. Estimativas.
+Fechamento de contas. Registros comerciais. Balanços.
+657.31	Orçamentos. Estimativas. Planos
+financeiros.
+Exemplo(s) de combinação(ões):
+657.31.012.7 Controle orçamentário
+→ 336.14 Orçamento público. Orçamento nacional
+657.312	Tipos de orçamento (geral, corrente,
+variável).
+657.312.2	Orçamentos financeiros.
+657.312.3	Orçamentos comerciais, de negócios.
+657.312.5	Orçamentos fixos e variáveis.
+657.313	Cálculos anteriores e posteriores ao
+negócio. Comparação das despesas estimadas com as despesas reais. Variações das estimativas.
+657.313.32	Livros contábeis era geral.
+657.322	Livros-caixa.
+657.33	Livros de notas. Diários. Borradores.
+657.34	Livros-razão.
+657.342	Transferência de entradas diárias para o
+livro-razão.
+657.35	Livros contábeis complementares.
+657.352	Livros de pedidos. Livros de compras. Livros
+de venda.
+→ 657.422.8 Contas de compra. Contas de venda. Contas do movimento total do negócio
+658.813 Processamento de encomendas
+657.353	Livros-caixa secundários, complementares.
+657.354	Livros de contas. Diários de faturas
+(registros dos débitos por data). Livros
+de conta corrente bancária. Livros de
+depósitos em bancos.
+657.356	Livros de estoque ou almoxarifado.
+      → 657.371 Inventário de estoques
+      → 658.787 Controle de estoque. Inventário do estoque. Registro do estoque
+657.36	Balancetes. Balanço preliminar. Balanço
+de débito e de crédito. Balanço provisório.
+657.37	Fechamento anual de contas, de balanços.
+657.371	Inventário de estoques.
+      → 657.356 Livros de estoque ou almoxarifado
+      → 658.787 Controle de estoque. Inventário do estoque. Registro do estoque
+657.372	Balanço de contas. Métodos e técnicas para
+preparação de balanços.
+Exemplo(s) de combinação(ões):
+657.372.01 Teoria dos balanços. Balanços
+estáticos e dinâmicos
+657.372.l	Elaboração de balanços em geral.
+657.372.12	Análise de lucros e perdas.
+657.44 Contas de lucros e perdas
+657.372.14	Fechamento dos livros contábeis e transporte
+dos balanços.
+657.372.2	Avaliação.
+→ 332.64 Cálculo do valor. Avaliação da terra
+→ 657.92 Avaliação. Técnica de estimação e avaliação
+657.372.3	Ajustes devidos à diminuição de valor.
+Depreciação, amortização. Cancelamento.
+657.372.4	Ajustes devidos ao aumento de valor.
+657.372.5	Valor em termos de reputação ou clientela.
+→ 347.715 Estabelecimentos comerciais, firmas. Valor do negócio, boa reputação na praça. Filiais
+→ 657.421.3 Ativos incorpóreos e sua amortização (cancelamento)
+657.375	Tipos de balanço.
+657.375.l	Balanços anuais. Balanços comerciais.
+657.375.2	Balanços fiscais.
+657.375.3	Balanços especiais, extraordinários. Inclusive
+Balanços de fundação, fusão, reorganização,
+mudança de direção, liquidação, falência,
+insolvência.
+657.375.6	Balanços consolidados.
+657.375.7	Balanços resumidos.
+657.4	Contas. Sistemas contábeis.
+Contabilidade de custos.
+Exemplo(s) de combinação(ões):
+657.4.012.2 Plano contábil. Sistemas obrigatórios de contabilidade
+657.41/.45		Contabilidade financeira. Contas.
+657.41	Contas de capital.
+→ 330.14 Capital. Fundos para produção material
+→ 347.72.033 Fundos. Capital. Reservas
+→ 658.14 Financiamento. Capitalização de empresas. Levantamento de capital
+657.411	Capital próprio (da empresa).
+→ 658.147 Capital próprio. Capital em ações
+657.411.1	Contas de capital. Capital privado.
+657.411.3	Capital por ações.
+657.411.3 dividido como 336.763.2
+657.411.6	Capital de reserva.
+657.411.8	Contas de lucros e perdas (do ponto de vista
+do capital próprio).
+→ 657.44 Contas de lucros e perdas
+657.412		Capital de terceiros (capital de empréstimo).
+→ 658.148 Capital externo
+657.412.l	Obrigações não-negociáveis. Debêntures.
+Hipotecas. Cauções.
+→ 336.763.3 Debêntures. Títulos de debêntures
+→ 347.27 Hipoteca. Propriedade hipotecável. Terra hipotecada. Imóvel como garantia
+→ 347.728.3 Debêntures. Obrigações ao portador
+→ 347.798 Hipoteca, caução marítima
+657.412.2	Obrigações negociáveis.
+657.412.4	Obrigações de longo e curto prazo.
+657.412.4 dividido como 657.424
+657.412.6	Reservas para seguro. Inclusive Reservas
+para seguro de vida. Reservas para seguro
+contra incêndio.
+657.412.7	Fundos de reserva para previdência. Inclusive
+Fundos de beneficência, aposentadoria e
+pensões, de saúde.
+657.42	Contas de fundos flutuantes, circulantes.
+657.421	Ativos fixos. Capital investido.
+→ 658.152 Investimento de capital. Ativos fixos. Utilização de fundos
+657.421.l	Ativos tangíveis, sua transferência de
+domínio e amortização (cancelamento). Bens imóveis e móveis.
+657.421.3	Ativos incorpóreos e sua amortização
+(cancelamento). Inclusive Direitos, concessões,
+patentes, etc. Valor de reputação na praça e
+clientela. Segredos comerciais.
+→ 347.715 Estabelecimentos comerciais, firmas. Valor do negócio, boa reputação na praça. Filiais
+→ 657.372.5 Valor em termos de reputação ou clientela
+657.422	Ativos flutuantes, circulantes.
+Capital líquido.
+→ 658.153.2 Tipos de capital de giro
+657.422.l		Dinheiro. Dinheiro em caixa. Depósitos
+em banco. Crédito aberto. Moeda em conta corrente.
+657.422.2	Faturas, contas a receber e a pagar.
+657.422.3	Créditos para resgate.
+657.422.4	Títulos diversos.
+657.422.5	Talões para cobrança.
+657.422.6	Estoques de matérias-primas. Produtos
+intermediários (mercadorias semi-acabadas) em estoque.
+→ 658.272/.273
+657.422.7	Estoques de mercadorias acabadas (prontas
+para venda).
+      → 658.62 Mercadorias. Manufaturas. Produtos
+      → 658.784 Depósitos de Produtos acabados (estoques de venda) e semi-acabados
+657.422.8	Contas de compra. Contas de venda. Contas do
+movimento total do negócio.
+      → 657.352 Livros de pedidos. Livros de compras. Livros de venda
+      → 657.444 Contas de vendas
+657.423	Ativos comerciais ou operacionais.
+Capital de giro.
+657.423.2	Transações a termo, futuros (em valores ou
+mercadorias).
+→ 336.764.2 Negócios de opção. Futuros. Mercado futuro
+657.423.3	Trabalho em andamento (pedidos em mão).
+Construção, fabricação, etc.
+657.423.5	Agências. Filiais. Sucursais.
+657.424	Investimentos.
+→ 336.767 Investimentos de capital em títulos
+657.424.2	Investimentos a curto prazo (com garantias,
+hipotecas, etc.).
+657.424.4	Investimentos a longo prazo.
+657.425	Contas de resgate ou amortização.
+657.429	Ativos diversos.
+657.43	Contas pessoais.
+657.431	Tipos de contas pessoais. Inclusive Contas
+correntes. Contas remuneradas.
+→ 336.717.4 Setor de contas correntes
+657.432	Contas de débito. Inclusive Pagamentos
+aos fornecedores.
+657.433	Contas de crédito. Inclusive Débitos,
+compromissos. Pagamentos de clientes.
+657.435	Contas de associados.
+657.437	Contas de agentes, representantes, etc. para
+compra e venda.
+657.439	Outras contas pessoais.
+657.44	Contas de lucros e perdas.
+→ 347.72.035 Lucro e perdas. Dividendos
+→ 657.372.12 Análise de lucros e perdas
+→ 657.411.8 Contas de lucros e perdas (do ponto de vista do capital próprio)
+→ 658.115 Lucro. Perda. Rentabilidade. Tendências de lucratividade. Rendimento. Lucro comercial, retorno do investimento 
+657.442	Resultados de transações comerciais
+diversas. Lucros e perdas ocasionais.
+Despesas imprevistas.
+657.443	Comissões e juros diversos.
+657.444	Contas de vendas.
+→ 657.422.8 Contas de compra. Contas de venda. Contas do movimento total do negócio
+657.445	Flutuações do estoque.
+657.446	Gastos e receitas não-operacionais.
+Inclusive Impostos. Seguro.
+657.447	Movimento geral, faturamento do negócio.
+Cálculo do montante do negócio.
+657.45	Outros tipos de conta.
+657.451	Distinção entre contas gerais e especiais ou
+entre contas de grupo e subsidiárias.
+657.454	Contas de ajuste. Contas de compensação.
+Contas de fiscalização.
+657.47	Custos. Contabilidade de custos.
+Exemplo(s) de combinação(ões):
+657.47.014,132 Contabilidade de custos centralizada
+	      → (085.6) Listas de preços de mercadorias
+	      → (085.7) Listas de preços de serviços. Tarifas
+	      → 338.5 Preços. Formação de preços. Custos
+                                       → 338.58 Custos econômicos. Custos sociais
+                                      → 658.7 Compra. Aquisição. Obtenção. Administração do estoque
+                                       → 658.8 Marketing. Comercialização. Vendas, distribuição
+657.471	Custos. Tipos de custos. Centros de custos.
+Unidades de custo.
+657.471.l	Tipos de custo. Custos de produção.
+Exemplo(s) de combinação(ões):
+657.471.l:658.8 Custos de comercialização 
+657.471.1:659.1 Custos de publicidade 
+657.471.l.011.26 Custo único 
+657.471.l.011.27 Despesas gerais. Custos indiretos. Custos administrativos. Custos médios
+657.471.l.011.28 Custos marginais. Utilidade marginal
+657.471.l1	Custos de material. Tomada de preços.
+Avaliação do estoque. Preço de mercado.
+Preço médio.
+657.471.l2	Custos da mão-de-obra. Custos de salário.
+Custos da previdência, da seguridade social.
+657.471.122	Custos da seguridade social. Custos dos
+encargos sociais.
+657.471.l3	Custos imobiliários.
+657.471.l4	Custos das instalações. Custos da maquinaria,
+do equipamento.
+657.471.16	Custos estimados (despesas estimadas
+para fins de custeio).
+657.471.17	Compensação de serviços internos. 
+657.471.6	Centros de custos,
+657.471.61	Centros de custos gerais.
+657.471.62	Centros de custos de produção .Inclusive
+Maquinaria como centro de custos.
+657.471.63	Centros de custos dos serviços de produção.
+657.471.64	Centros de custos dos materiais.
+657.471.65	Centros de custos da administração ou gerência.
+657.471.66	Centros de custos de vendas ou
+comercialização.
+657.471.7	Contabilidade das unidades de custos.
+657.471.72	Custo total.
+657.471.74	Custo das encomendas. Custo da tarefa.
+657.471.76	Custo unitário da produção. Custo unitário.
+657.474	Processamento de custos.
+657.474.2	Relações entre contabilidade comercial e
+contabilidade de custos.
+657.474.22	Folha de distribuição de custos.
+Livro-razão de custos.
+657.474.23	Contabilidade operacional (de fábrica).
+657.474.5             Cálculo de custos. Custeio. Métodos
+de cálculo.
+657.474.51	Cálculo do custo real.
+657.474.52	Custeio-padrão.
+657.474.55	Custeio direto e indireto. Custeio marginal.
+657.474.57	Métodos de cálculo.
+Exemplo(s) de combinação(ões):
+657.474.57:338.46 Custeio de serviços
+657.474.571	Cálculo por divisão. Métodos de equivalência
+de cálculos.
+657.474.573	Acréscimos e cálculo de sobretaxa.
+657.478	Avaliação, estimativa do custeio.
+657.478.2	Estimativas (preliminares, provisórias e finais).
+657.478.5	Métodos uniformes de contabilidade de custos.
+657.478.7	Estimativa de lucro a curto prazo.
+657.478.8	Comparações de custos. Comparação em dado
+período de tempo. Custos projetados e reais.
+Comparação de métodos.
+657.479	Problemas especiais de contabilidade
+de custos.
+657.479.2	Efeito do índice de utilização da capacidade e
+do nível de produção sobre os custos.
+657.479.3	Redução de custos, p. ex., pela produção
+em massa.
+657.479.4	Contabilização dos resíduos (refugos),
+subprodutos, produtos conexos.
+657.479.5	Fatores arbitrários.
+657.6	Verificação oficial de custos. Auditoria.
+Exemplo(s) de combinação(ões):
+		      657.6-051 Auditores
+                                      657.6.-051-057.3 Auditores internos, do próprio quadro de pessoal.
+657.6.-051-057.54  Consultores, auditores externos
+		      → 005.942 Serviços de aconselhamento. Serviços de consultoria.
+      → 336.146 Implementação de orçamentos. Apresentação de contas públicas. Auditoria de contas do
+      orçamento
+657.62	Análise e verificação dos balanços.
+657.63	Exame, verificação, auditoria dos livros
+contábeis.
+657.631.6	Relações com o cliente. Relatórios sobre o
+estado das finanças.
+657.631.8	Auditoria obrigatória. Obrigação estatutária de
+auditoria.
+657.632	Fraudes e erros.
+      → 343.537 Trapaça, fraude da legislação de compra e contratos. Demonstrativos contábeis fraudulentos.
+                      Prospectos de propaganda enganosos
+      → 657.23 Estornos. Ajustes. Cancelamentos
+657.633	Detalhes técnicos da auditoria. Inclusive
+Auditoria detalhada. Verificações internas.
+657.635	Certificados, relatórios, declarações
+dos auditores.
+657.92	Avaliação. Técnica de estimação e
+avaliação.
+Exemplo(s) de combinação(ões):
+      657.92:336.2 Avaliação para fins tributárias 
+      657.92:657.47 Avaliação para cálculo dos custos
+      → 657.372.2 Avaliação
+657.922	Técnica de avaliação, especialmente de
+imóveis (avaliação de propriedades). 
+      → 332.64  Cálculo do valor. Avaliação de terras
+
+658  Administração de empresas. Organização comercial
+
+Exemplo(s) de combinação(ões):
+658.012.2 Planejamento empresarial
+		      → 005.71 
+      → 33 Economia. Ciência econômica
+      → 347.7 Direitos comercial. Direito das sociedades, firmas, empresas
+ 
+658.1	Formas de empresas. Finanças.
+658.11	Tipos e formas de empresa.
+→ 334 Formas de organização e cooperação em economia
+658.112	Sede, localização, local da empresa.
+658.112.2	Sede principal (escritório central, etc.).
+658.112.3	Sedes subsidiárias (filiais, fábricas, etc.).
+658.114                Formas de empresa em geral. Empresas privadas.
+      → 334.772 Empreendimentos privados. Empresas privadas
+      → 347.72 Empresas comerciais 
+658.114.1	Empresas de proprietário único. Propriedade
+de um só indivíduo. Comerciantes individuais.
+Negócios de uma só pessoa.
+658.114.2	Sociedades.
+658.114.25	Sociedades comerciais (sociedades de nome
+coletivo).
+658.114.3	Sociedades por ações em geral.
+658.114.32	Sociedades limitadas. Sociedades em comandita.
+658.114.4	Sociedades de responsabilidade limitada.
+Sociedades anônimas.
+658.l14.5	Alianças em geral. Grupos de empresas em
+geral. Inclusive Conglomerados. Holdings. Consórcios de empresas. Joint ventures.
+658.114.6	Monopólios privados de produção. Cartéis. Trustes.
+→ 334.75 Acordos supra-organizacionais entre empresas, etc. sobre concentração e cooperação numa economia de mercado. Acordos de proteção recíproca
+658.114.7	Cooperativas.
+	      → 334.73 Sociedades, empresas cooperativas
+658.114.8	Associações, uniões (inclusive sindicatos).
+instituições, fundações etc. que atuam
+como empresas.
+658.115	Empresas públicas, estatais e
+nacionalizadas.
+658.115.31	Monopólios em conformidade com o direito
+público. Empresas de serviços públicos.
+658.115.33	Empresas públicas com participação de capital.
+Empresas de economia mista.
+658.14/.17	Questões financeiras em geral.
+Exemplo(s) de combinação(ões):
+658.14/.17(047.32) Relatórios financeiros
+658.14	Financiamento. Capitalização de
+empresas. Levantamento de capital.
+Exemplo(s) de combinação(ões):
+      658.14.011.1 Política financeira
+      → 330.14 Capital. Fundos para produção material
+      → 657.41 Contas de capital
+658.141	Nível de capital. Volume de capital.
+658.144	Emissão direta de títulos, ações, etc.
+658.147	Capital próprio. Capital em ações.
+658.147 dividido como 657.411
+658.148	Capital externo. Inclusive Capital
+emprestado. Capital de terceiros. Capital a
+curto prazo (obrigações negociáveis).
+Capital a longo prazo (debêntures,
+hipotecas).
+658.148 dividido como 657.412
+658.149.3	Conversões. Transferências.
+658.149.5	Reembolso. Resgate.
+658.15	Administração financeira privada.
+Administração financeira de empresas.
+658.152	Investimento de capital. Ativos fixos.
+Utilização de fundos.
+      658.152 dividido como 657.42
+658.153	Ativos circulantes, flutuantes. Capital
+disponível. Ativos líquidos.
+658.153.2	Tipos de capital de giro.
+      658.153.2 dividido como 657.422
+658.153.8	Taxa de circulação do capital de giro.
+658.155	Lucro. Perda. Rentabilidade. Tendências de
+lucratividade. Rendimento. Lucro comercial, retorno do investimento. 
+      → 657.44 Contas de lucros e perdas
+658.155.2	Distribuição de lucros. Dividendos.
+658.155.3	Perdas, prejuízos.
+658.155.4	Reservas. Fundos de reserva.
+658.16	Reorganização financeira.
+658.167	Realização de capital. Liquidação
+de haveres.
+658.168	Crescimento e redução de capital.
+Reconstrução financeira. Fusão.
+658.168.l	Aumento do capital acionário.
+658.168.2	Redução do capital acionário.
+658.168.3	Reconstrução financeira.
+658.168.5	Fusão. Incorporação. União.
+→ 005.591.45 Concentração. Divisão
+→ 330.341.44 Concentração. Centralização
+→ 334.758 Fusões. Amálgamas de empresas
+→ 347.72.04 Modificações jurídicas da empresa
+658.168.52	Fusão por transferência de ações.
+658.168.526	Compra de ações de outra empresa.
+658.168.55	Fusão por transferência de bens, de
+mercadorias.
+658.17	Despesas estranhas à empresa. Inclusive
+Despesas para fins culturais, sociais,
+políticos.
+658.18	Medidas de poupança em geral.
+658.2	Instalações e fábrica.
+Propriedades. Edifícios, instalações, oficinas. Materiais.
+Exemplo(s) de combinação(ões):
+658.2:368. l Seguro das propriedades, fábricas, etc.
+658.2:628.517.2 Controle de ruídos em relação às propriedades, fábricas, etc.
+      → 69 Indústria da construção. Materiais de construção. Práticas e procedimentos de construção
+      → 725 Edifícios públicos, civis, comerciais, industriais. Arquitetura secular em geral
+658.21	Escolha do local. Situação. Localização.
+Relocalização. Remoção.
+Exemplo(s) de combinação(ões):
+658.21:658.272 Escolha do local em relação às possibilidades de obtenção de matérias-primas
+      → 332 Economia regional. Economia territorial. Economia da terra. Economia da habitação
+      → 628.521 Localização de fábricas
+      → 711.454 Cidades industriais. Centros de produção, de fabricação
+658.218	Localização. Inclusive Espaço disponível. Luz, ar. Propriedades do solo. Inclinação do terreno.
+658.219.4	Relocalização, remoção de propriedades.
+Relocalização de fábricas.
+658.23	Planta e utilização do terreno. Disposição
+dos edifícios.
+658.231	Expansão futura. Previsão de ampliação.
+658.232	Adaptação às necessidades de produção,
+de operação.
+658.233	Disposição interna e inter-relações
+do edifício.
+→ 72.012 Desenho. Composição. Disposição, relações, requisitos dimensionais dos edifícios
+658.234	Superfície ocupada.
+658.26	Fontes de energia. Abastecimento
+de energia. Fornecimento de
+aquecimento e água.
+658.261	Produção de energia ou força motriz pela
+própria empresa.
+      → 620.9 Economia da energia em geral
+658.262	Distribuição de energia ou força motriz no
+local (inclusive a obtida externamente).
+658.264	Provisão de aquecimento.
+Exemplo(s) de combinação(ões):
+658.264:621.365 Utilização de aquecimento elétrico
+658.265	Abastecimento de água.
+Especificar por meio de :628.1... 
+Exemplo(s) de combinação(ões):
+                                              658.265:628.l.033 Abastecimento de água potável 
+                                             658.265:628.l.034.2 Abastecimento de água não-potável para a indústria
+658.27	Elementos primários de produção.
+Instalações, materiais, etc.
+658.272	Matérias-primas e complementares
+em geral.
+658.273	Produtos iniciais, intermediários,
+semi-acabados etc..
+658.274	Maquinaria e equipamento em geral. 
+Para maquinaria e equipamento específicos,  usar a seção relevante, p. ex. 621. 7, 621.9, 66.013, 67,  68
+658.28	Recursos auxiliares, secundários pá rã
+produção. Serviços associados.
+658.284	Equipamento de comunicação. Instalações
+para controle, sinalização, informação.
+→ 654 Telecomunicação e telecontrole (organização, serviços)
+658.286	Manipulação, transporte de materiais.
+→ 621.798 Equipamento de acondicionamento e embalagem. Invólucros, recipientes, materiais, 
+                                       máquinas, etc.
+→ 621.86/.87 Tecnologia da manipulação de materiais. Equipamento de transporte
+→ 656 Serviços de transporte e serviços postais. Organização e controle do tráfego
+658.286.2	Transporte interno. Fluxo de materiais.
+Inclusive Fornecimento e transporte de peças, ferramentas, etc.
+→ 656.52 Transporte e tráfego no interior de grandes edifícios
+658.286.4	Transporte fora da empresa.
+→ 625 Engenharia civil de transportes terrestres. Engenharia ferroviária. Engenharia rodoviária
+→ 626 Engenharia hidráulica em geral
+→ 629 Engenharia de veículos de transporte
+→ 658.788.5 Expedição. Entrega. Envio das mercadorias
+658.29	Outras questões relativas à administração e organização das instalações, da fábrica,
+dos locais.
+658.3	Relações humanas na empresa. Pessoal.
+      Especificar os tipos de pessoas por meio de -05... (Tabela 1k)
+       658.31/.35 dividido como 331.1/.5
+Exemplo(s) de combinação(ões):
+Especialistas em pessoal. Gerentes de pessoal
+658.310.42	Relações do pessoal. Relações interpessoais.
+Exemplo(s) de combinação(ões):
+                                           658.310.42:364.636 Provocação no local de trabalho
+                                       658.3
+658.310.8	Gerência e administração de pessoal
+                                       Especificar os tipos de pessoas por meio de –05... (Tabela 1k)
+                                    Exemplo(s) de combinação(ões):
+                                          658.310.8-051 Administradores de pessoal
+658.5	Engenharia e planejamento da produção. Projeto. Administração e controle da produção.
+Exemplo(s) de combinação(ões):
+658.5:005.336.3-021.471 Produção exemplar. Produção ótima 
+658.5:005.336.3.-021.473 Produção imperfeita. Produção de padrão baixo
+658.5:005.51 Programas de produção
+658.5:005.584.1 Controle da produção
+→ 338.3 Produção
+→ 66.012 Controle, regulamentação e supervisão da produção e do processo. Eficiência. Desempenho. Economia da engenharia química
+658.51	Organização da produção.
+658.511	Análises da produção.
+658.511.2	Análise de produto.
+658.511.3	Análise de processo.
+658.511.4	Análise da forma, do projeto.
+658.511.5	Análise dos meios de produção (máquinas,
+ferramentas). Leiaute da fábrica (leiaute de
+fabricação). Localização das máquinas.
+658.511.8	Diretrizes de trabalho. Descrição de tarefas.
+658.512	Plano, programa de produção.
+Determinação da seqüência de operações.
+Percurso.
+658.512.2	Planejamento. Forma, projeto, construção dos
+produtos. Desenho industrial.
+→ 7.05 Aplicações da arte (na indústria, no comércio, em casa, na vida cotidiana). Desenho (design) industrial, comercial, etc.
+658.512.3	Colocação de pedidos de produção fora da
+empresa. Subcontratação.
+658.512.4	Preparação do trabalho de produção.
+658.512.6	Distribuição do trabalho. Distribuição da carga
+de trabalho. Programas de trabalho e datas-
+limite. Carga das máquinas.
+→ 331.103 Organização do trabalho. Engenharia industrial
+658.512.62	Distribuição da força de trabalho. Inclusive
+Trabalho individual. Trabalho em grupo. Trabalho em mais de um posto ou local de trabalho.
+658.513	Supervisão do trabalho de produção.
+Inclusive Acompanhamento. Andamento.
+Facilitação. Programação.
+658.513.2	Programação dos materiais.
+658.513.3	Programação das operações.
+658.513.4	Programação dos prazos.
+658.513.5	Programação das máquinas.
+658.514	Execução do trabalho de produção.
+Distribuição de tarefas.
+658.514.3	Distribuição do trabalho segundo o tipo
+de tarefa.
+658.514.4	Distribuição do trabalho segundo o tempo
+programado.
+658.515	Trabalho de montagem. Montagem.
+→ 621.717 Montagem em geral
+658.516	Padronização dentro da empresa.
+Redução da variedade.
+→ 006 Normalização de produtos, operações, pesos, medidas e tempo
+658.516.l	Padronização de produtos.
+658.516.2	Padronização do equipamento, das ferramentas.
+658.516.3	Padronização do trabalho, operações,
+processos.
+658.52	Tipos de produção.
+Exemplo(s) de combinação(ões):
+658.52.011.1 Avaliação de tipos de produção
+658.52.011.56 Produção automatizada
+→ 338.36 Produção segundo a sofisticação técnica e o volume
+658.522	Produto por unidades.
+658.523	Produção por encomenda.
+658.524	Produção em lotes. Produção em série.
+658.526	Produção em massa.
+658.527	Produção contínua. Produção em cadeia.
+658.53	Dados sobre o desempenho e o tempo de trabalho.
+      → 005.642.5 Estudo e análise do trabalho. Inclusive Estudo do trabalho. Estudo do método. Simplificação do trabalho. Estudo de tempo e movimento. Quantificação e avaliação do trabalho
+658.531	Determinação do tempo de produção.
+Medição do tempo de trabalho de produção.
+658.532	Registros do trabalho concluído.
+658.56                Controle de qualidade. Controle da
+utilização de ferramentas, materiais, produtos, etc..
+658.562	Controle das operações. Supervisão da
+produção. Controle e inspeção de qualidade.
+      → 005.584.1 Monitoramento. Inspeção. Verificação.
+658.562.2	Controle e inspeção de materiais.
+658.562.3	Controle e inspeção do trabalho, das operações,
+dos processos.
+658.562.4	Controle e inspeção de qualidade de materiais e
+produtos.
+→ 658.772 Controle da qualidade das mercadorias recebidas
+658.562.42	Inspeção interna. Inspeção contra recibo.
+658.562.44	Inspeção intermediária. Controle do trabalho
+em andamento. Controle do processo.
+658.562.47	Inspeção final. Inspeção do produto final.
+Amostragem de aceitação. 
+ 
+658.562.5	Controle e inspeção do equipamento, da
+maquinaria.
+658.563	Controle das ferramentas utilizadas.
+658.566	Controle dos materiais utilizados.
+658.567	Tratamento de resíduos, refugos, sobras.
+→ 628.4.038 Lixo industrial. Resíduos de fábricas (resíduos resultantes dos processos de produção)
+→ 628.477 Aproveitamento do lixo e resíduos tratados e não-tratados
+→ 628.54 Tratamento de resíduos industriais sólidos
+658.567.l	Utilização de resíduos.
+658.567.3	Recuperação e reciclagem de resíduos
+ou sobras.
+→ 620.28 Materiais recicláveis e reciclados
+658.567.5	Neutralização do refugo. Eliminação da
+nocividade de refugos. Destruição, despejo de
+refugo (nas áreas de propriedade da empresa).
+Inclusive Descontaminação, desinfecção,
+drenagem do refugo.
+658.58	Trabalhos de manutenção e conservação.
+→ 62-7 Serviço, manutenção, proteção das máquinas
+→ 658.818.3 Serviço de manutenção e consertos. Assistência técnica
+658.581	Manutenção e cuidado da maquinaria.
+658.588	Avarias. Falhas. Defeitos.
+→ 368 Seguro de coisas materiais em geral. Seguro
+658.588.1	Medidas preventivas.
+658.588.2	Avaliação das avarias. Identificação e correção
+dos problemas. Rastreamento dos defeitos.
+658.588.4	Avarias de materiais e maquinaria. Materiais
+defeituosos. Falha da maquinaria.
+65 8.588.5	Danos em conseqüência de interrupção
+da produção.
+658.588.6	Danos em relação ao pessoal. Substituição
+de pessoal.
+658.588.8	Reparos, consertos.
+658.589	Inovações. Substituições.
+658.6	Organização e prática do comércio.
+Mercadorias. Serviços.
+→ 330.12 Objetos da administração econômica. Bens. Serviços
+658.62	Mercadorias, Manufaturas. Produtos.
+Exemplo(s) de combinação(ões):
+                                       658.62:005.336.3-021.471 Produtos de qualidade. Bens de alta qualidade 
+                                           658.62:005.336.3-021.473 Produtos ruins, imprestáveis. Bens de má qualidade 
+                                        658.62(1-82) Produtos segundo a fonte de fornecimento  
+                                           658.62(520-82) Produtos originários do Japão. Produtos japoneses
+      → 620.2 Materiais comerciais. Mercadorias. Produtos manufaturados
+658.624	Produtos no vos.
+658.625	Mercadorias usadas, de segunda mão.
+658.626	Mercadorias com marca registrada.
+658.627	Pontas de estoque. Mercadorias com
+defeitos. Saldos.
+→ 658.849.4 Vendas de ocasião. Vendas de saldos, de mercadorias em liquidação
+658.628	Sortimento de produtos.
+658.64	Serviços.
+658.69	Trocas em espécie (escambo).
+→ 339.185 Troca. Escambo
+→ 347.452 Troca. Escambo
+658.7	Compra. Aquisição. Obtenção.
+Administração do estoque.
+Exemplo(s) de combinação(ões):
+658.7.027 Termos e condições de entrega
+→ 64.03 Administração das finanças domésticas. Compra. Interesses, política e pesquisa sobre consumidores
+Subdivisões auxiliares especiais
+658.7.03	Preços e tarifas de compra.
+      658.7.03 dividido como 658.8.03 substituindo 'compra' por 'venda' 
+Divisões principais
+658.71	Política e pia nos de compra.
+658.711	Preparativos para compra. Fontes de
+abastecimento. Análise dos requisitos.
+Disponibilidade. Informações sobre
+fornecedores, produtos, serviços.
+658.712	Política de compra e aquisição.
+658.713	Métodos de aquisição. Inclusive Compra.
+Arrendamento. Aluguel. Permuta.
+658.715	Convite para apresentação de cotações.
+Licitações. Tomadas de preços. Análise,
+comparação dos preços.
+658.715.2	Apresentação de propostas.
+658.716	Sistemas centralizados de compras (em
+empresas grandes, na administração
+pública, etc.). Departamentos de compra.
+658.72	Métodos de compra.
+658.721	Compra por contrato.
+658.722	Compra direta junto ao fabricante
+ou produtor.
+658.724	Compra indireta por intermédio de
+intermediário, agente, representante, comerciante.
+658.727	Compra em leilões.
+658.74	Encomenda.
+Exemplo(s) de combinação(ões):
+658.74.018.2 Quantidades ótimas
+658.742	Expedição de pedidos.
+658.75	Acompanhamento dos pedidos.
+658.77	Recebimento das mereadorias.
+Aceitação da remessa.
+658.771	Controle da quantidade das mercadorias
+recebidas.
+658.772	Controle da qualidade das mercadorias
+recebidas.
+658.773	Controle e verificação da fatura,
+da nota fiscal.
+658.78	Administração dos estoques e
+almoxarifados. Armazenamento.
+Expedição.
+→ 621.796 Guarda. Armazenamento
+658.782	Classificação e marcação do estoque.
+658.783	Estoque disponível. Níveis de estoque.
+658.784	Depósitos de produtos acabados (estoques
+de venda) e semi-acabados.
+→ 657.422.6/.7
+658.785	Depósitos de materiais, de suprimentos.
+658.786	Manuseio, tratamento das mercadorias em
+estoque.
+658.787	Controle do estoque. Inventários do
+estoque. Registros do estoque.
+      → 657.356 Livros de estoque ou almoxarifado
+      → 657.371 Inventário de estoque
+658.788	Expedição. Entrega. Envio das mercadorias.
+      → 347.463 Transporte com contrato. Consignação
+      → 656 Serviços de transporte e serviços postais. Organização e controle do tráfego 
+ 
+658.788.2	Procedimento. Documentação.
+658.788.4	Embalagem. Inclusive Rotulagem e marcação.
+Embalagens de empréstimo. Vasilhames
+restituíveis.
+→ 621.798 Equipamento de acondicionamento e embalagem. Invólucros, recipientes, materiais, máquinas,
+                                      etc.
+658.788.48	Abertura, esvaziamento dos recipientes.
+Desempacotamento das mercadorias.
+658.788.5	Transporte e entrega de mercadorias
+consignadas.
+ 
+658.8	Marketing. Comercialização.
+Vendas. Distribuição.
+Exemplo(s) de combinação(ões): 
+      658.8:005.21 Política de vendas 
+      658.8:005.32 Psicologia de vendas 
+      658.8:005.51 Planejamento de vendas
+      658.8:005.52Pesquisas, estudos de mercado → 339.13.017 
+      658.8:336.546.2 Garantias de vendas 
+      658.8:339.18 Acordos e condições de vendas -→ 347.451, 347.751
+      658.8:339.182 Condições de entrega no contexto da venda  → 339.18, 347.463
+      658.8-051 Pessoal do setor de vendas 
+      658.8-051-055.2 Pessoal feminino do setor de venda
+      → 339.138 Marketing
+Subdivisões auxiliares especiais
+658.8.03		Preços e tarifas de venda.
+658.8.031	Cálculo dos preços de venda.
+658.8.031.2	Margens de comercialização em geral.
+658.8.031.4	Preços de fábrica.
+658.8.031.5	Preços de atacado.
+658.8.031.6	Preços de intermediário.
+658.8.031.7	Preços de varejo.
+658.8.033                   Abatimentos. Descontos.
+→ 658.882.3 Desconto para pagamento à vista
+658.8.035	Tarifas de venda. Tabelas de preços.
+→ 656.031.5 Princípios gerais de tarifação
+658.8.035.2	Tarifas fixas de venda. Pagamento de preço
+unitário fixo independentemente da
+quantidade adquirida.
+658.8.035.3	Tarifas com redução progressiva
+do preço unitário.
+658.8.035.5	Tarifas proporcionais.
+658.8.035.7	Tarifas com aumento progressivo
+do preço unitário.
+658.8.036	Tarifas dependentes de diferentes fatores
+exceto a quantidade consumida.
+658.8.036.2/.8 dividido como 656.032.2/.8
+658.8.036.2	Tarifas segundo a localidade e a distância.
+658.8.036.3	Tarifas segundo a época da venda. Inclusive
+Tarifas de períodos de alta demanda. Tarifas fora dos períodos de alta demanda.
+658.8.036.4	Tarifas segundo a categoria do consumidor.
+658.8.036.5	Tarifas para grupos de consumidores. Inclusive
+Associações, cooperativas de compra.
+658.8.036.6	Tarifas para fins especiais. Tarifas segundo a
+natureza das mercadorias. Inclusive Preços para
+mercadorias perigosas, perecíveis.
+658.8.036.7	Tarifas segundo a rapidez ou urgência
+da entrega.
+658.8.036.8	Tarifas segundo a forma ou classe de entrega.
+Inclusive Tarifa de luxo.
+658.8.036.9	Tarifas, preços adicionais, eventuais.
+Sobretaxas tarifárias.
+658.8.038	Fornecimento gratuito, grátis.
+658.8.07	Departamentos de vendas.
+Divisões principais
+658.81	Organização de vendas.
+658.811	Administração de vendas.
+658.813	Processamento de encomendas. Inclusive
+Livros de pedidos. Notas de entrega. Notas fiscais, faturas e faturamento.
+      → 657.352 Livros de pedidos. Livros de compras. Livros de venda
+658.815	Supervisão do processamento dos pedidos.
+Atendimento dos pedidos. Andamento dos pedidos.
+658.817	Avaliação dos resultados das vendas.
+Relatórios de vendas. Inclusive
+Comunicação de pedidos extraviados.
+658.818	Serviço ao consumidor. Serviço pós-venda.
+658.818.2	Orientação ao cliente. Consultoria( sobre a
+escolha de mercadorias, serviços, etc.).
+→ 659.2 Atividades de informação. Serviços de orientação e consultoria
+658.818.3	Serviço de manutenção e consertos.
+Assistência técnica.
+→ 658.58 Trabalhos de manutenção e conservação
+658.818.4	Atendimento de queixas e reclamações.
+658.818.5	Troca de mercadorias.
+658.818.6	Garantia de troca de mercadorias.
+Garantia de reembolso.
+658.82	Promoções de vendas. Liquidações.
+→ 659.1 Publicidade. Propaganda
+658.821	Métodos promocionais. Inclusive Criação de
+demanda. Combate a concorrência.
+658.822	Equipamento de vendas. Instruções
+de venda.
+658.827	Apresentação e embalagem das
+mercadorias. Embalagens promocionais.
+621.798 Equipamento de acondicionamento e embalagem. Invólucros, recipientes, materiais, máquinas, etc.
+658.84	Canais comerciais. Sistemas diversos de
+venda. Métodos de venda.
+→ 339.371 Tipos de venda a varejo
+658.841	Vendas diretas (de produtos em mão para
+fornecimento imediato ao comprador).
+658.841.2	Vendas por auto-serviço.
+658.841.4	Vendas por máquinas automáticas.
+→ 681.138 Máquinas automáticas à base de moeda para venda de objetos ou utilidades. Máquinas de venda 
+658.842	Vendas por telefone.
+658.843	Vendas com pagamento facilitado.
+→ 658.882 Vendas a crédito. Vendas a prazo. Condições de crédito
+658.843.2	Pagamento em parcelas. Pagamento a prazo.
+Pagamento em prestações.
+658.843.4	Contrato de aluguel com opção de compra.
+→ 658.91 Locação. Arrendamento. Aluguel
+658.843.5	Vendas a crédito.
+658.845	Vendas por meio de amostras, catálogos de
+amostras. Vendas que utilizam catálogos,
+folhetos ilustrados, etc. Vendas em
+exposições. Remessa dependente
+da aprovação.
+658.846	Vendas por representantes, corretores,
+agentes, viajantes comerciais, caixeiros-
+viajantes.
+658.849	Outros métodos de vendas.
+658.849.2	Vendas diretas pelo fabricante.
+→ 339.35 Comércio direto. Venda direta da fábrica ao consumidor. Venda direta entre produtor e varejista sem intermediários. Compra direta. Venda direta
+658.849.4	Vendas de ocasião. Vendas de saldos, de
+mercadorias em liquidação.
+      → 339.375 Comércio de antiguidades. Comércio de artigos de segunda mão, de artigos recondicionados
+   .  Comércio de mercadorias com linha de produção suspensa, de ponta de estoque, desbotados, sujos, de 
+      qualidade inferior, imperfeitos, refugados
+      → 658.621 Pontas de estoque. Mercadorias com defeitos. Saldos
+658.849.5	Comércio de segunda mão. Venda de refugos.
+Venda de mercadorias usadas.
+→ 339.375 Comércio de antiguidades. Comércio de artigos de segunda mão, de artigos 
+                                      recondicionados. Comércio de mercadorias com linha de produção suspensa, de ponta de estoque, 
+                                     desbotados, sujos, de qualidade inferior, imperfeitos, refugados
+→655.425 Antiquários. Sebos. Venda de livros de segunda mão
+658.849.7	Venda por leilão. Leilão judicial.
+658.85	Técnica de venda. Arte de vender.
+Conversa de vendedor, etc.
+→ 659.144 Publicidade oral, falada, direta. A voz humana como meio de publicidade, de propaganda, 
+                                     etc.
+658.867.87	Canais de distribuição (atacado, varejo).
+658.86	Venda por atacado. Comércio atacadista.
+Venda por distribuição.
+→ 339.33 Comércio atacadista
+→ 339.34 Comércio semi-atacadista
+658.87	Venda a varejo. Comércio varejista.
+→ 339.37 Comércio varejista. Comércio em pequena escala. Vendas a varejo
+658.871 		Compradores a varejo. Lojas. Depósitos
+658.872		Negócios por encomenda postal
+658.879 		Outros métodos de varejo. Inclusive Venda de rua. Venda porta-a-porta. Venda em bagageiro de carro
+658.88		Pagamentos. Cobrança de dívidas. Administração do crédito.
+658.881	Pagamento à vista.
+658.881.3	Desconto para pagamento à vista. Inclusive
+Cupons de desconto. Selos de lojas.
+      → 658.8.033 Abatimentos. Descontos
+658.882	Vendas a crédito. Vendas a prazo.
+Condições de crédito.
+→ 336.77 Crédito. Função econômica do crédito
+→351.825 Instituições de crédito
+→ 658.843 Vendas com pagamento facilitado
+658.884	Cobrança de dívidas. Emissão de cobranças, avisos de vencimento. Meios de coerção para pagamento.
+658.89	Compradores como objeto de esforço de
+venda. Fregueses, clientes potenciais.
+658.891	Clientes segundo a profissão, a ocupação.
+Exemplo(s) de combinação(ões):
+                                          658.891:614.23 Médicos como clientes em potencial
+658.893	Clientes segundo os canais e o tipo
+de demanda. 
+Exemplo(s) de combinação(ões):
+658.893:339.37 Varejistas como clientes potenciais
+658.9	Outras atividades comerciais.
+Exemplo(s) de combinação(ões):
+658.9:347.779.3 Agências comerciais de patentes
+658.91	Locação. Arrendamento. Aluguel.
+Exemplo(s) de combinação(ões):
+     Acordos de aluguel arrendamento. Condições de aluguel ou arrendamento
+     Tarifas de aluguel. Custos, tarifas de aluguel e arrendamento
+→ 339.187.6 Outras formas de comércio, exceto escambo, compra ou venda
+658.97	Esquemas de assinaturas. Vendas
+contínuas por assinatura. 
+
+659 Publicidade. Serviço de informação. Relações públicas
+ 
+
+659.1	Publicidade. Propaganda.
+Exemplo(s) de combinação(ões):
+      659.1:005.1 Métodos e metodologia da publicidade. Teoria e prática da propaganda
+      659.1:005.21 Política da propaganda
+     659.1:005.32 Psicologia da propaganda
+     659.1:005.336.1 Eficiência econômica (custo-efetividade), etc. da propaganda
+     659.1:005.743 Departamentos de publicidade. Departamentos de propaganda
+     659.1:338.5 Taxas, preços da propaganda
+     659.1-051 Profissionais da publicidade, da propaganda
+      → 665.55 Lançamento de publicações. Promoção, publicidade. Anúncio de livros, etc. Resenhas,
+      recensões, notas na imprensa
+      → 658.82 Promoções de vendas. Liquidações
+659.11	Campanhas publicitárias, sua execução.
+Táticas de publicidade. Público-alvo da publicidade.
+→ 659.441 Estratégia e tática em relações públicas
+659.111	Cobertura e distribuição de publicidade.
+659.111.2	Métodos de distribuição. Inclusive Prospectos
+de distribuição individual. Distribuição postal.
+Material exposto para ser apanhado livremente.
+659.111.3	Âmbito e cobertura da publicidade. Grau de
+repetição. Duração do efeito, impacto.
+659.111.31	Campanhas publicitárias. Campanhas
+promocionais para ocasiões e eventos
+específicos.
+659.111.32	Dias especiais para promover urna única
+mercadoria, produto ou serviço.
+Exemplo(s) de combinação(ões):
+659.111.32:655.4 Dias do livro
+659.113	Planejamento e administração da
+publicidade.
+659.113.2	Pesquisas, estudos de mercado.
+659.113.21	Fontes de dados. Estatísticas e sua avaliação.
+659.113.22	Pesquisa por entrevista.
+659.113.23	Questões relativas à concorrência.
+659.113.25	Pesquisa sobre hábitos do consumidor,
+demanda, tendências do mercado, etc.
+659.113.26	Apresentação e avaliação das análises de mercado.
+659.113.3	Planejamento da publicidade, aspectos
+organizacionais. Inclusive Coordenação da
+publicidade, produção e vendas.
+659.113.4	Determinação do território da campanha.
+659.113.5	Previsões, projeções dos resultados.
+659.113.6	Execução da campanha. Inclusive Estimativas.
+Projetos. Produção do material de publicidade.
+659.113.7	Resultados e eficácia da publicidade. Eficácia
+do meio escolhido e da distribuição.
+Averiguação, monitorização dos resultados.
+659.113.8	Administração dos meios de publicidade.
+Supervisão de vários modos de publicidade.
+659.117	Público-alvo da publicidade.
+Alvos da publicidade.
+659.117.1	Alvos segundo a profissão, a ocupação.
+Exemplo(s) de combinação(ões):
+659.117.l:614.23 Médicos como alvos da publicidade
+659.117.3	Alvos segundo o canal e o tipo de demanda.
+Exemplo(s) de combinação(ões):
+659.117.3:339.37 Varejistas como alvos da publicidade
+659.118	Táticas de publicidade. Inclusive Prender a
+atenção. Publicidade informativa.
+Persuasão. Atração, sedução. Forma
+autoritária. Obrigação.
+659.12	Idéia e planejamento em publicidade.
+659.121	Estabelecimento de objetivos.
+659.122	Formação e desenvolvimento de conceitos,
+idéias. Conceituação. Inclusive Imagem.
+Tema. Motivo.
+659.123	Planejamento e redação do texto. Produção,
+redação do texto. Inclusive Jingles, slogans,
+frases de efeito.
+Exemplo(s) de combinação(ões):
+      659.123:791.641.3 Redação de publicidade para material audiovisual (filme, televisão)--> 659.131.2
+      659.123-051 Redatores de texto de publicidade
+659.125	Projeto iconográfico (exceto marcas
+registradas). Inclusive Uso de arte gráfica.
+Uso de fotografia.
+→ 659.131.3 Materiais iconográficos dos anúncios. Ilustrações
+659.126	Marcas registradas. Logomarcas. Cores
+características da empresa, etc..
+→ 347.772 Marcas registradas. Registro, controle
+659.127	Formas de publicidade, propaganda.
+659.127.3	Criação de confiança na empresa
+ou no anunciante.
+659.127.4	Criação de demanda. Inclusive Criação
+de confiança no produto ou serviço.
+Ofertas promocionais.
+659.127.6	Manutenção de confiança Retenção de clientes,
+de lealdade à marca.
+659.127.8		Manutenção da visibilidade do produto. Inclusive Colocação do produto (providências para anunciar o produto na mídia de 
+                                     entretenimento)
+659.128	Composição geral de anúncios. Inclusive
+Elementos que prendem a atenção. Leiaute.
+Classificar aqui apenas os problemas gerais, relativos aos meios publicitários.
+Para assuntos específicos ver 659.16 
+Exemplo(s) de combinação(ões):
+659.128:655.26 Tipografia
+659.13/.16	Meios de publicidade e propaganda.
+659.13	Meios visuais de publicidade.
+659.131	Publicidade em publicações.
+→ 050 Publicações seriadas. Periódicos
+→ 070.36 Departamento de propaganda
+→ 655.535.6 Anúncios. Seção de anúncios
+659.131.1	Anúncios publicados em geral.
+659.131.2	Matéria textual dos anúncios. Inclusive
+Conteúdo e estilo. Prosa. Verso.
+Cabeçalhos. Slogans.
+→ 659.123 Planejamento e redação do texto. Produção, redação do texto
+659.131.3	Material iconográfico dos anúncios.
+Ilustrações.
+→ 659.125 Projeto iconográfico (exceto marcas registradas)
+659.131.4	Composição e especificações técnicas
+dos anúncios. Inclusive Tamanho.
+Formato. Leiaute.
+659.131.7	Colocação de anúncios (segundo o
+tipo de publicação).
+659.131.8	Publicidade nas seções gerais e editoriais das
+publicações. Inclusive Artigos, discussões,
+relatórios, resenhas, etc. Artigos publicitários.
+659.132	Publicidade por meio de publicação própria.
+659.132.1	Periódicos de publicidade publicados pela
+própria empresa. Jornais de empresa.
+Revistas ou boletins dirigidos aos clientes,
+de circulação dirigida.
+659.132.2	Prospectos e outras publicações efêmeras.
+659.132.21	Impressos explicativos e informativos.
+Inclusive Folhetos de instruções. Instruções de
+uso. Catálogos. Manuais.
+659.132.22	Impressos publicitários. Inclusive Prospectos.
+Folhetos. Volantes.
+659.132.27	Apensos e encartes (em outras publicações).
+659.132.4	Mala direta (campanhas publicitárias pelo
+correio). Inclusive Circulares. Cartas.
+Cartões comerciais.
+659.133	Publicidade por meio de cartazes,
+placares, letreiros.
+659.133.1	Cartazes em pontos fixos. Inclusive Cartazes em postes, tapumes, paredes.
+659.134	Meios móveis de publicidade. Publicidade por
+meio de veículos.
+659.134.l	Publicidade em transporte público.
+659.134.2	Publicidade em ambulantes. Homens-
+sanduíche. Roupas especiais para publicidade.
+659.134.3	Publicidade em veículos terrestres. Veículos
+terrestres como instrumentos de publicidade.
+659.134.6	Publicidade em navios, barcos. Objetos
+flutuantes como instrumentos de publicidade.
+659.134.7	Publicidade com emprego de balões (cativos ou
+dirigíveis), aviões, fogos de artifício.
+→ 659.138.6 Publicidade feita por meios aeronáuticos. Emprego de aviões para publicidade
+659.134.8	Bandeiras, flâmulas para publicidade.
+Dispositivos em veículos para distribuir
+material de publicidade.
+659.135	Publicidade e propaganda com emprego de luzes (e efeitos luminosos).
+→ 628.974.7 Iluminação para publicidade, propaganda. Letreiros luminosos (placas, letreiros de neon, etc.)
+659.135.1	Placas, letreiros, anúncios continuamente
+iluminados.
+659.135.2	Anúncios intermitentemente iluminados.
+Anúncios que acendem e apagam.
+659.135..3	Anúncios projetados em telas, no solo,
+nas nuvens, etc,.
+→ 659.148 Meios acústicos e ópticos combinados. Publicidade audiovisual. Propaganda e publicidade com emprego de filme sonoro e televisão
+659.135.4	Biombos e telas móveis para publicidade.
+659.135.9	Materiais com luz própria ou luminescentes na
+publicidade.
+659.136	Mecanismos diversos para publicidade
+visual.
+659.136.l	Publicidade em objetos específicos.
+Exemplo(s) de combinação(ões):
+659.136.l.662.536.2 Publicidade em caixas de fósforos
+659.136.2	Publicidade em calendários.
+→ 659.162 Brindes (não o produto) para fins de publicidade
+659.136.3	Publicidade em porta-cardápios e suportes
+similares.
+659.136.4	Publicidade em mostradores, discos,
+folhas rotativas.
+659.136.7	Publicidade em outros mecanismos. Inclusive Publicidade em prismas, painéis, venezianas ou adufas (mostrando um lado 
+                                  de cada vez). Brinquedos, novidades de publicidade. Visores.
+659.138	Dispositivos visuais especiais para
+atrair a atenção.
+659.138.4	Dispositivos para impressão de anúncios em
+superfícies pavimentadas.
+659.138.5	Dispositivos automáticos de escrita e
+transmissão de mensagens. Inclusive  Letreiros elétricos.
+659.138.6	Publicidade feita por meios aeronáuticos.
+Emprego de aviões para publicidade. Inclusive Reboque de faixas. Descarregamento de folhetos. Escrita no céu (com rastro de fumaça). Outros artifícios aéreos.
+	      → 656.052.59 Viagem acrobática. Acrobacias eqüestres, acrobacias dirigindo veículos, etc. Acrobacias
+                                      aéreas
+	      → 656.7 Transporte aéreo. Tráfego aéreo
+	      → 659.134.7 Publicidade com emprego de balões (cativos ou dirigíveis), aviões, fogos de artifício
+659.138.7	Monumentos, estátuas para publicidade.
+659.138.8	Espetáculos, quadros vivos, marionetes, etc.
+para publicidade.
+659.14	Meios acústicos de publicidade.
+659.144	Publicidade oral, falada, direta. A voz
+humana como meio de publicidade, de propaganda, etc..
+      → 659.151 Demonstrações do uso de um produto
+      → 658.85 Técnica de venda. Arte de vender. Conversa de vendedor, etc.
+659.144.1	Publicidade individual. Esforços de
+propaganda. Discursos, conversas de
+vendedores ou representantes.
+659.144.2	Publicidade em conferências.
+659.145	Publicidade oral indireta. Anúncios gravados e transmitidos, etc.Inclusive Entrevistas. Teatro pelo rádio, 
+                                   radionovelas.
+                                   Noticiários. Anúncios (comerciais) dos patrocinadores. Músicas.
+659.148	Propaganda e publicidade com emprego de imagens projetadas e eletrônicas (em combinação ou não com som). 
+                                    Inclusive Publicidade audiovisual
+	Exemplo(s) de combinação(ões):
+	      659.148:778.25 Publicidade com emprego de slides, transparências
+	      659.148:778.53.099 Publicidade com emprego de filme mudo
+	      659.148:778.534.4 Publicidade com emprego de filme sonoro
+659.15	Propaganda e publicidade por demonstração e exibição.
+659.151	Demonstrações do uso de um produto.
+→ 659.144 Publicidade oral, falada, direta. A voz humana como meio de publicidade, de propaganda, etc.
+659.152	Exposições comerciais. Exposições para fins publicitários.
+→ 069.9 Exibições temporárias
+659.153	Apresentações pessoais. Inclusive Visitas guiadas aos locais de trabalho
+Exemplo(s) de combinação(ões):
+659.153:687 Apresentações de vestuário.
+       Desfiles de moda (com modelos, manequins)
+		      → 005.584. Monitoramento. Inspeção. Verificação.
+		      → 005.963.3 Treinamento. Cursos de treinamento.
+659.154	Embalagem, embrulho, decoração de
+produtos para fins de publicidade.
+Rotulagem, identificação.
+→ 621.798 Equipamento de acondicionamento e embalagem. Invólucros, recipientes, materiais, máquinas, etc.
+→ 659.126 Marcas registradas. Logomarcas. Cores características da empresa, etc.
+659.157	Dispositivos e sistemas para exibição de mercadorias. Inclusive Guarnições de lojas.
+659.157.2	Vitrinas. Mostruários. Gabinetes para
+exposição, etc.
+659.157.5	Molduras, cavaletes, estrados, estantes, etc. de
+exposição (p. ex., para sapatos, chapéus).
+659.157.6	Suportes e prateleiras ajustáveis.
+Estantes de parede.
+659.157.8	Dispositivos com formas diversas
+para exposição. Inclusive Manequins. Bustos. Bonecos articulados. Suportes para tecidos.
+659.158	Exposição em vitrinas.
+659.158.2	Dispositivos para atrair a atenção.
+659.158.3	Decoração de vitrinas. Equipamento para
+exposição em vitrinas.
+659.158.4	Materiais decorativos (p. ex.. papéis, tecidos,
+esteiras de grama, aparas de cortiça).
+659.158.6	Material de propaganda no vidro da vitrina. Inclusive Decalques, adesivos,
+659.16	Métodos de promoção com brindes,
+prêmios, descontos, etc.
+659.162	Brindes (não o produto) para fins
+de publicidade.
+Exemplo(s) de combinação(ões):
+       659.162:686.853 Calendários de publicidade 
+→ 659.136.2 Publicidade em calendários
+659.163	Amostras grátis do produto.
+659.164	Bônus, prêmios promocionais.
+659.166	Descontos promocionais, abatimentos,
+reduções de preços.
+659.167	Liquidações, principalmente liquidações de
+fim de estoque, como método promocional.
+659.168	Competições, concursos, como método
+promocional.
+659.18	Propaganda e publicidade segundo
+o tipo de promotor.
+659.181	Publicidade coletiva, de grupo. Publicidade
+comunitária.
+659.182	Propaganda e publicidade feitas por
+escritores e inventores.
+659.183	Propaganda e publicidade feitas por
+fabricantes, produtores.
+659.184	Propaganda e publicidade feitas por
+comerciantes, negociantes.
+659.185	Propaganda e publicidade feitas por
+artesãos, artífices.
+659.186	Propaganda e publicidade feitas por
+consumidores, clientes.
+659.187	Propaganda e publicidade feitas por
+promotores profissionais (agentes de
+publicidade, publicitários).
+659.19	Outros métodos de publicidade e
+propaganda.
+659.2	Atividades de informação. Serviços de orientação e consultoria.
+Exemplo(s) de combinação(ões): 
+      659.2:061.1 Serviços oficiais, governamentais de consultoria 
+      659.2:061.2 Serviços privados de consultoria
+      → 002 Documentação. Livros. Escritos. Autoria
+      → 005.572 Consulta. Conselho. Orientação
+      → 005.942 Serviços de aconselhamento. Serviços de consultoria
+      → 364-784 Trabalho de aconselhamento. Serviços de informação sobre bem-estar
+      → 366.61 Orientação aos consumidores
+      → 658.818.2 Orientação ao cliente. Consultoria (sobre a escolha de mercadorias, serviços, etc.)
+659.21	Técnica das atividades de informação.
+659.22	Técnica de consultoria e orientação.
+659.23	Informação, consultoria para negócios e
+comércio. Consultoria empresarial.
+659.231	Orientação e informação econômica.
+→ 658.8.012.12 Pesquisas, estudos de mercado
+659.232	Serviços para descobrir e confirmar
+endereços.
+659.233	Informações relativas a solvência de
+pessoas ou empresas (limites de crédito).
+659.235	Consultoria administrativa e informação
+comercial, empresarial. Orientação sobre administração e organização de empresas. -^•658
+	      → 658 Administração de empresas. Organização comercial
+659.24	Informação e consultoria técnicas.
+Exemplo(s) de combinação(ões):
+                                          659.24:621.3 Informação e consultoria em engenharia elétrica
+659.25	Informação e consultoria em estudos de
+ciências e ciências aplicadas. 
+Exemplo(s) de Combinação(ões):
+659.25:39 Informação e consultoria em etnologia e etnografia
+659.27	Informação sobre pessoas em geral.
+659.28	Pedidos de informação. Pedidos de
+consultoria.
+659.28 dividido como 659.2
+659.3	Comunicação de massa.
+Informações, esclarecimentos para
+o grande público
+em geral.
+      → 001.92 Disseminação do conhecimento factual
+      → 374.7 Educação de adultos
+659.4	Relações públicas (RP).
+→ 32.019.5 Opinião pública. Publicidade política. Relações públicas. Propaganda
+→ 354.36 Ministério da propaganda, de relações publicas
+659.42	Relações públicas segundo a fonte ou
+agente iniciador.
+659.43	Relações públicas segundo o objetivo ou
+público-alvo.
+659.44	Estratégia, tática e execução de relações
+públicas. Idéias, conceitos e planejamento.
+Meios de relações públicas.
+Exemplo(s) de combinação(ões):
+659.44(1-194) Relações públicas externas 
+659.44(l-4) Relações públicas nacionais 
+659.44(100) Relações públicas internacionais
+659.441	Estratégia e tática em relações públicas.
+→ 659.11 Campanhas publicitárias, sua execução. Táticas de publicidade. Público-alvo da 
+                                     publicidade
+65 9.441.l	Abordagem, extensão e duração em
+relações públicas.
+659.441.3	Planejamento, fontes, eficácia, impacto de
+relações públicas.
+659.441.8	Táticas em relações públicas.
+659.442	Idéia e projeto em relações públicas. Execução.
+	      → 659.12 Idéia e planejamento em publicidade
+659.443/.446            Meios de relações públicas.
+659.443	Meios visuais de relações públicas.
+659.444	Meios acústicos de relações públicas.
+659.445	Relações públicas por demonstração
+e exibição.
+659.446	Métodos de relações públicas com
+oferecimento de brindes,  etc.
+
+                                        66 Tecnologia química. Indústrias químicas e afins
+
+Em 66 classificam-se: a produção industrial de produtos químicos e metalúrgicos, o processamento de substâncias
+alimentares, outros produtos agrícolas e similares. Também são classificados em 66 os próprios produtos: p. ex,, em
+661 os produtos da indústria química no sentido estrito,  e em 664.8/.9 os produtos da indústria de conservação de
+alimentos.
+A química pura e teórica e o preparo de pequenas quantidades de substâncias químicas são classificados em 54
+A produção industrial de substâncias que não se encontram separadamente em 66 pode ser especificada na
+subdivisão mais apropriada de 66 por meio de :546... ou :547...
+Os auxiliares -2/-8, de 62-2/-8,  são aplicáveis na classe 66, com exceção do  -3 em 661.185 e 662.2
+Subdivisões auxiliares especiais
+66-9 		Variáveis, condições e características dos processos de produção, instalações e equipamento
+A s subdivisões -9 são usadas para especificar as características ou variáveis dos processos, não os próprios processos, p. ex.:
+-98 Variáveis, características de pressão
+.083 Operações que envolvem pressão
+ 04 7-912 Secagem no estado fluido
+. 096.5-932.2 Fluidificação contínua 
+      Os auxiliares -9... são aplicáveis em 
+66-91	                Estado físico da substância: características e
+             variáveis.
+66-911		Estado de agregação.
+                                          Usar com processos. Para descrição dos produtos usar -4... de 62-4...
+66-911.3/.6 dividido como 54-13/-16
+66-911.3	Estado gasoso.
+66-911.33	Gás comprimido, liquefeito,
+66-911.34		Estado de vapor.
+66-911.38	Colóide com meio de dispersão gasoso. Aerossóis, Fumaças.
+66-911.4	Líquido.
+66-911.48	Colóide com meio de dispersão líquido. Emulsão. Gel. Espuma.
+66-911.6	Sólido.
+66-911.69	Em partículas.
+66-912	Processos no estado fluido.
+→ 66.096.5 Fluidização em geral
+66-913	Estado de umidade.
+66-913.1	Seco.
+66-913.2	Úmido.
+66-913.3	Molhado.
+66-914	Características de concentração.
+→ 66.082 Processos que afetam o nível de concentração.
+66-914.3	Baixa concentração. Diluído.
+66-914.5	Concentração medi a.
+66-914.7	Alta concentração. Concentrado.
+66-915	Valor do pH.
+→ 544.354.3 Auto-ionização de solventes. Produto de íons solventes
+66-915.1	Ácido.
+66-915.2	Neutro.
+66-915.3	Alcalino.
+66-916	Valor do rH.
+66-916.1	Oxidante.
+66-916.2	Redutor.
+66-92	Reações em termos de reagentes.
+Reagentes.
+66-921	Processos que envolvem moléculas do mesmo
+tipo. Autoprocessos. Homoprocessos.
+66-922	Processos que envolvem moléculas de tipos
+diferentes.
+66-922.2	Processos de bloco.
+66-922.3	Processos de inoculação. Processos de enxerto.
+66-926	Reagentes inorgânicos.
+                                        66-926 dividido como 546 com o emprego do apóstrofo para os compostos como em 546
+66-927		Reagentes orgânicos.
+66-927 dividido como 547 com o emprego do apóstrofo para os compostos, como em 547
+66-93	Processos, máquinas e equipamento segundo o modo de operação, continuidade, associações, meios.
+66-931	Processos, instalações e equipamento segundo a qualidade de direto ou indireto.
+66-931.2	Direto.
+66-931.4	Indireto.
+66-932	Processos, instalações e equipamento segundo
+a continuidade.
+66-932.1	Processos únicos.
+66-932.2	Contínuos.
+66-932.3	Semicontínuos.
+66-932.4	Descontínuos.
+66-932.42	Impulsivos. Intermitentes.
+66-933	Processos segundo o grau de mecanização.
+66-933.2	Por esforço humano (sem ferramentas ou máquinas motorizadas). Manual.
+66-933.4	Mecanizados, por máquina (motorizados, mas
+sem controle automático ou de computador).
+66-933.6	Automatizados (com emprego de máquinas
+automáticas ou controladas por computador).
+66-935	Processos afins ou interdependentes.
+66-935.2	Processos afins ou interdependentes com a
+mesma matéria-prima.
+66-935.3	Processos afins ou interdependentes com os
+mesmos produtos finais.
+66-935.4	Processos com recuperação, regeneração.
+66-935.5	Processos com enriquecimento, concentração,
+refinamento.
+66-936	Processos segundo o estado da fase.
+66-936.3	Processos homogêneos.
+66-936.33	Reações entre gases ou vapores.
+66-936.35	Reações entre líquidos.
+66-936.4	Processos heterogêneos.
+66-936.42	Reações entre gases e líquidos.
+66-936.43	Reações entre gases e sólidos.
+66-936.46	Reações entre líquidos e sólidos.
+66-936.48	Reações entre sólidos.
+66-94	Direção, velocidade, andamento,
+duração dos processos, etc..
+66-942	Processos paralelos. Processos de fluxo único.
+66-943	Corrente cruzada. Processos cruzados.
+66-944	Processos opostos, inversos. Processos em
+sentido contrário ao fluxo.
+66-945	Processos de circuito aberto ou fechado.
+66-945.2	Processos de circuito aberto, cadeia aberta.
+66-945.3	Processos de circuito fechado. Processos
+circulares, circulantes, cíclicos.
+66-946	Processos estáticos ou moventes.
+66-946.l	Estáticos.
+66-946.3	Moventes. Agitados.
+→ 66-912 Processos no estado fluido
+66-947	Rápidos. Acelerados. Transitórios.
+66-947.1	Muito rápidos.
+66-947.2	Rápidos.
+66-947.3	Acelerados.
+66-947.5	Curtos (duração curta). Transitórios.
+66-948	Lentos. Prolongados. Retardados.
+66-948.l	Lentos.
+66-948.2	Prolongados. Estendidos.
+66-948.3	Retardados. De ação retardada.
+66-948.5	Longos. De longa duração. Duradouros.
+66-95	Processos simples e múltiplos.
+Processos de estágio único e
+múltiplos estágios.
+66-951	Processos simples, simplificados.
+66-952	Processos múltiplos, complexos, repetidos.
+66-953	Processos de estágio único.
+66-954	Processos de múltiplos estágios. Processos em
+degrau, em cascata.
+66-956	Processos de banho único.
+66-957	Processos de banhos múltiplos.
+66-958	Processos combinados.
+66-96	Processos em termos de alteração
+das propriedades do produto.
+Modificação em geral.
+66-962	Processos sem purificação ou refino.
+66-963	Processos com purificação ou refino.
+66-965	Particularidades dos processos segundo a forma
+ou condição do material a ser tratado.
+66-965.l	Material solto. Floculento. Na forma de flocos.
+66-965.2	Enrolado. Espiralado.
+66-965.3	Em novelo ou meada.
+66-965.4	Em forma de fita ou tira.
+66-965.6	Segundo a condição de esforço ou tensão.
+66-965.61	Tenso. Sob tensão.
+66-965.62	Não-tenso. Frouxo. Plácido.
+66-965.81	Aberto. Descoberto.
+66-965.82	Fechado. Coberto.
+66-966	Processos segundo a durabilidade
+(permanência, estabilidade).
+66-966.1	Durável. Inclusive Resistente à lavagem.
+66-966.2	Não-durável.
+66-966.5		De cores firmes (que não desbota)
+66-967	Processos segundo a proporção de álcool.
+66-967.1	Baixa proporção de álcool.
+66-967.2	Média proporção de álcool.
+66-967.3	Alta proporção de álcool.
+66-97	Características térmicas.
+Temperatura. Variação da temperatura.
+Indicar as escalas e valores específicos pela abreviatura e pelo índice, antecedidos por um asterisco
+(ver Tabela 1h) Exemplo(s) de combinação(ões):
+                                           66-97*CO O°C (ponto de congelamento da água) 
+       66-97*F32 32°F (ponto de congelamento da água) 
+      66-97*K273 273K (ponto de congelamento da água) 
+     66-97*C100 100°C (ponto de ebulição da água) 
+      66-97*F212 212°F (ponto de ebulição da água) 
+      66-97*K373 373K (ponto de ebulição da água)
+66-971	Características termodinâmicas.
+66-971.2	Exotérmicas.
+66-971.4	Endotérmicas.
+66-973	Temperatura muito baixa.
+66-974	Temperatura baixa.
+66-975	Temperatura ambiente.
+66-976	Temperatura média, moderada.
+66-977	Temperatura alta.
+66-978	Temperatura muito alta, extremamente alta.
+66-98	Pressão. Variação de pressão.
+→ 66.083 Processos que envolvem pressão
+66-982	Vácuo. No vácuo.
+66-983	Pressão muito baixa.
+66-984	Pressão baixa.
+66-985	Pressão atmosférica. Pressão normal.
+66-986	Pressão média, moderada.
+66-987	Pressão alta. Hiperbárica.
+66-988	Pressão muito alta, extremamente alta.
+66.0	Engenharia química em geral
+66.01	Fundamentos da engenharia química.
+66.011	Projeto do processo. Cálculos dos processos.
+Modelagem. Otimização. Métodos
+matemáticos em engenharia química. Características novas de processos, instalações, etc.
+66.012	Controle, regulamentação e supervisão da
+produção e do processo. Eficiência.
+Desempenho. Economia da engenharia química.
+	      Especificar por meio de :658.5... ou -5...
+Exemplo(s) de combinação(ões):
+      66.012-52 Controle automático do processo
+66.012.l	Medição. Controle. Instrumentação.
+→ 53 Física
+→ 681.2 Fabricação de instrumentos em geral. Instrumentação. Instrumentos de medição e sua fabricação. Balanças. Mecanismos de pesagem
+66.012.2	Consumo de matérias-primas e materiais
+auxiliares. Equilíbrio do material.
+66.012.3	Consumo de energia. Equilíbrio de energia.
+66.012.4	Capacidade. Rendimento. Ciclo da produção.
+66.012.42	Capacidade.
+66.012.43	Rendimento.
+66.012.44	Intensidade.
+66.012.45/47               Ciclo de produção.
+66.012.45	Trabalho preparatório.
+66.012.46	Processamento total. Inclusive Velocidade. Duração.
+66.012.47	Duração das operações de descarga. Duração do
+acabamento.
+66.012.5	Rendimento. Grau de transformação.
+Seletividade.
+66.012.7	Eficiência do processo. Produtividade.
+Economia da engenharia química.
+66.013	Trabalhos químicos em geral. Fábricas
+químicas. Instalações. Equipamento. Serviços
+auxiliares.
+→ 658.2 Instalações e fábrica. Propriedades. Edifícios, instalações, oficinas. Materiais
+→ 725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de serviços públicos
+66.013.2	Grau de integração da fábrica.
+66.013.22	Operações integradas.
+66.013.25	Operações não-integradas.
+66.013.5	Planejamento e construção, início e ajustamento
+das instalações.
+66.013.6	Abastecimento de energia.
+Exemplo(s) de combinação(ões):
+66.013.6:621.22 Abastecimento de energia hidráulica 
+66.013.6:621.311 Abastecimento de energia elétrica
+→ 620.4 Usinas de força
+→ 658.26 Fontes de energia. Abastecimento de energia. Fornecimento de aquecimento de água
+66.013.7	Serviços para processamento químico: água.,
+vapor e gás paca emprego no processamento,
+→ 621.1 Máquinas térmicas em geral. Geração, distribuição e uso do vapor. Máquinas a vapor. Caldeiras
+→ 628.1 Abastecimento de água. Tratamento da água. Consumo de água
+→ 661.9 Produção de gases
+→ 662.76 Combustíveis gasosos. Gasogênios
+66.013.8	Higiene industrial. Saneamento. Outros
+serviços auxiliares.
+→ 613.6 Riscos ocupacionais. Higiene e saúde ocupacionais
+→ 614.8 Acidentes. Riscos. Proteção contra acidentes. Proteção pessoal. Segurança
+66.014	Composição química.
+66.017	Materiais e suas propriedades.
+→ 620.1/.2
+66.018	Resistência de materiais a efeitos e ações
+externas.
+66.018 dividido como 669.018
+66.018.4	Resistência a efeitos térmicos.
+66.018.86	Resistência à radiação.
+66.019	Defeitos de materiais.
+Especificar por meio de : 620.19...
+66.02	Operações e equipamento em geral de processamento químico.
+	      Cada uma das subdivisões de 66.02/. 09 representa tanto um processo quanto um equipamento afim. As exceções são
+                                          que indica reatores, enquanto as reações são indicadas por meio de 66.09;  e 66.041,  que indica fornalhas,
+	      enquanto os processos de torrar e calcinar são indicados por meio de  66.046.4
+66.021	Processos-padrão.
+      Caso se prefira, os processos específicos podem ser agrupados em cada subdivisão de 66.021 acrescentando-se 
+      022/.099 
+Exemplo(s) de combinação(ões):
+66.021.2.063.8 Mistura de líquidos 
+66.021.2.071.4 Mistura de gases 
+66.021.3.048 Destilação. Evaporação 
+66.021.3.065.5 Cristalização 
+66.021.3.081.3 Adsorção
+66.021.1	Processos hidromecânicos em geral. Aparelhos
+hidromecânicos em geral.
+66.021.2	Transferência de momento. Fluxo e mistura de
+fluidos.
+66.021.3	Transferência ou troca de massa em geral.
+66.021.4	Processos termocinéticos em geral. Troca de
+calor. Transferência de calor.
+→ 66.045 Trocadores de calor. Isolamento térmico. Dispositivos de resfriamento e refrigeração
+66.022	Métodos específicos de tratamento. Operações
+preparatórias. Aditivos.
+Os auxiliares de 66.022... não são aplicáveis em 666.29 e suas subdivisões
+66.022.l	Tratamento preliminar em geral.
+66.022.3	Aditivos. Tratamento com aditivos.
+66.022.31	Aditivos segundo a solubilidade.
+66.022.314            Aditivos solúveis.
+66.022.316	Aditivos insolúveis.
+66.022.32	Materiais para aumentar o volume. Inclusive Dilatadores. Enchimentos.
+66.022.33	Aditivos que afetam a cor: estabilizadores de cor.
+→ 667.622 Pigmentos, corantes em revestimentos
+66.022.34	Aditivos que afetam a higroscopicidade. Inclusive Umectantes. Dessecantes. Aditivos hidrofobilizantes e hidrofóbicos.Aditivos para aumentar a resistência à água.
+→ 66.047.8 Secagem por processos químicos ou químico-coloidais
+66.022.35	Aditivos que afetam a solubilidade.
+66.022.36	Aditivos favoráveis à preservação do estado
+                agregado. Estabilizadores do estado agregado
+                 (de suspensões, emulsões, espumas, etc.).
+→ 66.097.8 Catalisadores negativos. Inibição. Liberação. Estabilização da reação. Estabilizadores. Inibidores. Passivadores. Agentes de liberação
+66.022.362	Estabilidade.
+66.022.38	Aditivos que afetam outras propriedades
+físicas.
+66.022.384	Aditivos que afetam a capacidade de
+espessamento. Agentes antiendurecimento.
+66.022.3	85	Inibidores de poeira.
+66.022.387	Aditivos que afetam a combustibilidade.
+Inibidores de combustão.
+66.022.389	Outros aditivos que afetam as propriedades físicas.
+Especificar por meio de :53...
+66.022.39	Aditivos que afetam as propriedades
+biológicas.
+66.022.392	Aditivos que afetam as reações organolépticas (cheiro, gosto, textura).
+      66.022.392 dividido como 543.92
+66.022.393	Desnaturação.
+66.022.4	Impregnação.
+→ 620.197.7 Proteção por impregnação, por aditivos
+66.022.5	Tratamentos mecânicos.
+Especificar por meio de :621.9...
+66.022.6	Métodos de tratamento de substâncias em diferentes estados de agregação. Inclusive Para separação de fase.
+66.022.62	Métodos que utilizam a gravidade.
+66.022.63	Métodos que utilizam forças centrífugas.
+66.023	Equipamento químico em geral.
+66.023.2                 Aparelhos para transformações químicas.
+Aparelhos de reações. Inclusive Cubas. Garrafões.
+66.023.23	Colunas, torres de reação.
+66.025	Dispositivos para reservatórios e vasos de reação. Inclusive Válvulas. Gitos. Fechos. Tampos. Painéis de inspeção. 
+                               Vigias. Conexões para instrumentos de medição. Junção de tubos. Entradas. Saídas. Vedações.
+66.026	Transmissão, transporte e dispositivos correspondentes. Especificar o estado de agregação do material transportado por meio de -91... 
+Exemplo(s) de combinação(ões).
+66.026-911.6 Transporte de sólidos
+66.026.2	Canos. Tubos. Tubulações.
+→ 621.643 Dispositivos para canalização e distribuição de fluidos. Tubulação. Canos
+66.026.4	Equipamentos para criação de pressão
+(bombas, compressores, etc.).
+→ 621.65 Bombas e bombeamento em geral
+66.028	Introdução de reagentes. Carga. Enchimento.
+Dispositivos de alimentação. Dispositivos de carga. Dispositivos de enchimento. Descarga. Dispositivos de descarga. Especificar a operação e o controle por meio de -5... 
+Exemplo(s) de combinação(ões):
+66.028-531.3 Controle de consumo. Correlação de reagentes. Controle da correlação
+→ 681.533.38 Sistemas de controle de fluxo de fluido
+→ 682.543.2 Sistemas de controle de composição química
+66.028.2	Dosagem. Dispositivos de dosagem. Tanques de dosagem.
+66.03	Processos e equipamento para
+indústrias específicas.
+Os auxiliares .01 são desenvolvidos em várias subdivisões de 66 para indústrias especificas
+66.04	Operações e equipamento de tratamento térmico.
+      Ver a nota em 66.02
+66.040	Tratamento térmico segundo o estado físico.
+Mudanças de fase.
+→ 536.42 Difração
+66.040.2	Tratamento térmico na fase sólida.
+→ 66.046.4 Torração. Calcinamento
+66.040.26	Mudança de fase sólida para fase liquida.
+66.040.27	Mudança de fase sólida para gasosa.
+→ 66.049.6 Processos de sublimação. Recuperação de sublimados
+66.040.3	Tratamento térmico na fase liquida.
+→ 66.046.6 Tratamento térmico de líquidos sem mudança de fase
+66.040.36	Mudança de fase líquida para sólida.
+66.040.37               Mudança de fase líquida para gasosa.
+66.040.4	Tratamento térmico na fase gasosa.
+→ 66.046.9 Tratamento térmico de gases e misturas gasosas
+66.040.46	Mudança de fase gasosa para sólida.
+66.040.47	Mudança de fase gasosa para líquida.
+66.041	Fornalhas. Fornos. Fornalhas de redução.
+Exemplo(s) de combinação(ões):
+      66.041-6 Fornalhas segundo os combustíveis, as fontes de calor 
+      66.041-69 Mecanismos e controles de aquecimento
+      66.041-982 Fornalhas a vácuo
+      66.041-987 Fornalhas de alta pressão 
+→ 621.365 Geração de calor pela eletricidade. Aquecimento elétrico
+      → 621.733 Equipamento da forja, fornalha em geral
+      → 621.745.3 Fornos, fornalhas.  Principais tipos, operação e controle, manutenção, etc.
+      → 621.783 Fornos, banhos e outros dispositivos para aquecimento e tratamento térmico
+      → 683.9 Aparelhos de aquecimento. Estufas
+66.041.l	Processos preliminares ao tratamento na fornalha.
+66.041.13	Preparo de materiais para tratamento na
+fornalha.
+66.041.132	Pré-aquecimento de materiais.
+66.041.15	Preparo da fornalha. Têmpera da fornalha.
+Especificar o processo de resfriamento por meio de -71...
+66.041.2	Atmosferas da fornalha.
+66.041.3	Métodos de aquecimento. Tipos de
+acendimento.
+      Especificar por meio de -6... 
+Exemplo(s) de combinação(ões): 
+66.041.3-65 Fornalhas elétricas 
+    → 621.365
+66.041.34	Fornalhas externamente aquecidas.
+66.041.35	Fornalhas internamente aquecidas. Canos, etc.
+para aquecimento interno.
+66.041.36	Fornalhas em que o gás de aquecimento passa
+através da carga.
+66.041.37	Fornalhas com contato direto entre a carga e o
+líquido de troca de calor.
+66.041.4/.5	Fornalhas segundo o projeto.
+66.041.41	Fornalhas com vasos abertos para a carga
+(panelas, caldeirões, cadinhos).
+66.041.43	Fornalhas de revérbero. Fornalhas de chamas.
+Fornalhas de soleira aberta.
+66.041.44	Fornalhas de cuba ou de manga.
+66.041.454	Fornalhas tubulares.
+66.041.455	Fornalhas de mufla.
+66.041.456	Fornalhas de cadinho.
+Exemplo(s) de combinação(ões):
+66.041.456-956 Com um cadinho simples 
+66.041.456-957 Com um cadinho de unidades múltiplas
+ 66.041.456-958 Combinadas
+66.041.46	Retortas.
+66.041.47	Câmaras de aquecimento.
+66.041.49	Fornalhas rotativas. Fornalhas giratórias.
+Fornalhas basculantes. Fornalhas de tambor.
+66.041.498	Conversores.
+→ 669.184 Processo de conversão. Princípios de conversão
+66.041.51	Fornalhas anulares.
+66.041.55	Fornalhas de túnel. Fornos industriais de túnel.
+66.041.56	Fornalhas com propulsão mecânica. Fornalhas
+de cascata.
+66.041.592	Fornalhas de ciclone. Fornalhas de redemoinho.
+66.042	Equipamento complementar para fornalhas etc..
+66.042.l	Dispositivos de carregamento.
+Exemplo(s) de combinação(ões):
+66.042.1-933.2 Carregamento manual 
+66.042.1-933.4 Dispositivos para carregamento mecânico
+66.042.15	Dispositivos combinados de carga e descarga.
+66.042.2	Dispositivos para manusear e distribuir a carga.
+→ 621.86/.87 Tecnologia da manipulação de materiais. Equipamento de transporte
+66.042.21	Cadinhos.
+→ 666.76 Corpos e produtos refratários
+66.042.22	Vasos de proteção. Caixas de argila refrataria.
+66.042.26	Dispositivos de transferência, transportadores.
+66.042.27	Dispositivos para assegurar a distribuição homogênea da carga.. Inclusive Dispositivos de compressão, de recalque Distribuidores. Compensadores. Niveladores.
+66.042.28	Dispositivos para impedir o andamento muito
+rápido da carga. Dispositivos de retenção. Retardamento.
+66.042.3	Suprimento de ar, vapor e gás. Inclusive Tiragem, indução. Ação de ventilação.
+	      → 662.92 Aquecimento industrial em geral
+66.042.4	Dispositivos de fechamento de fornalhas, etc.
+66.042.5	Dispositivos de descarga para materiais sólidos.
+66.042.56	Precauções contra a oxidação do produto (na
+                descarga).
+66.042.57	Resfriamento do produto (na descarga).
+66.042.6	Dispositivos de descarga para materiais líquidos.
+66.042.7	Dispositivos de descarga para materiais gasosos.
+66.042.8	Partes fixas das fornalhas, etc.
+66.042.81	Câmara de combustão separada do gerador de
+gás. Câmaras de combustão para as instalações
+de destilação.
+66.042.82	Câmara de combustão integrada ao gerador de gás.
+66.042.83	Grades de fornos.
+→ 662.932 Grelhas. Dispositivos de carga para fornos
+66.042.84	Soleiras.
+66.042.85	Paredes da fornalha. Concha.
+66.042.86	Remoção de cinzas. Poços de cinzas. Limpeza
+de escória.
+→ 662.932.1 Componentes de grelhas
+66.042.87	Teto, coroa da fornalha.
+66.042.88	Recuperadores e regeneradores.
+→ 66.045 Trocadores de calor. Isolamento térmico. Dispositivos de resfriamento e refrigeração
+66.042.882	Recuperadores.
+66.042.886	Regeneradores.
+66.042.91	Obstrução. Acúmulo de escória. Dispositivos
+para prevenir a obstrução e para limpeza.
+66.042.93	Registros. Válvulas.
+      Especificar por meio de -396...
+66.042.94	Ductos, tubos e chaminés.
+→ 621.643 Dispositivos para canalização e distribuição de fluidos. Tubulação. Canos
+66.043	Materiais de construção para fornalhas, etc..
+66.043.l	Materiais refratários para construção e
+revestimento de fornalhas.
+      Especificar a resistência às ações externas por meio de .018... 
+Exemplo(s) de combinação(ões):
+                                       66.043.l.018.841 Refratários resistentes a ácidos 
+                                           66.043.l.018.842 Refratários resistentes a álcalis 
+                                          66.043.l.018.85 Refratários resistentes a gases
+66.043.5	Materiais de fornalha segundo as propriedades químicas. Inclusive Materiais básicos, alcalinos ou ácidos.
+66.044	Reparo de fornalhas, etc. Remendo, reposição
+do revestimento.
+66.044.3	Reboco de fornalhas.
+66.045	Trocadores de calor. Isolamento térmico.
+Dispositivos de resfriamento e refrigeração.
+→ 66.021.4 Processos termocinéticos em geral. Troca de calor. Transferência de calor
+66.045.l	Trocadores de calor.
+66.045.3	Isolamento térmico.
+66.045.5	Resfriamento e refrigeração. Resfriadores.
+Refrigeradores.
+→ 66-974 Temperatura baixa
+66.045.53	Torres de resfriamento,
+66.045.6	Tanques de nebulização, aspersão,
+66.045.7	Resfriamento de gás.
+66.046	Aquecimento. Processos e equipamento
+térmicos.
+→66-977 Temperatura alta
+66.046.l	Tratamento preliminar com emprego do calor.
+Aquecimento preliminar.
+66.046.2	Tratamento a vapor.
+66.046.4	Torração. Calcinamento. Especificar a torração acompanhada de uma transformação química por meio de.09... 
+Exemplo(s) de combinação(ões):
+66.046.4.094.2	Torração acompanhada de redução
+66.046.4.094.3	Torração oxidante
+66.046.41              Torração sem agentes oxidantes ou redutores.
+Calcinação.
+66.046.44	Aquecimento com sintetização simultânea.
+Torração com sintetização.
+66.046.5	Fusão. Amálgama.
+66.046.51	Generalidades. Inclusive Carregamento. Ignição. Processo de fusão. Período de fundição. Retirada da escória. 
+                                Decantação. Ligas. Período de formação de ligas. Desgaseificação da fusão. Sangria.
+66.046.52	Aditivos. Inclusive Fundentes.
+66.046.53	Recipientes para fundição. Seleiras de
+fornalhas de fundição.
+66.046.54	Oxidação durante a fundição. Refino.
+→ 66.094.3 Oxidação. Oxigenação
+66.046.55	Desoxidação durante a fundição (especialmente
+processos de refino de metal).
+66.046.56	Carburização e descarburização.
+66.046.562            Carburização.
+66.046.564	Descarburização.
+66.046.58	Escória: formação e propriedades.
+→ 662.613.12 
+Clínger. Escória. Resíduos da combustão que contêm combustível não-queimado
+→ 669.015.8 Subprodutos sólidos
+66.046.59	Outras questões relacionadas com a fundição. Inclusive Cinzas. Refugas. Resíduos.
+66.046.6	Tratamento térmico de líquidos sem mudança de fase.
+      → 66.040.3 Tratamento térmico na fase líquida
+      → 66.049 Processos térmicos para separação de fase
+66.046.7	Aquecimento até o ponto de ebulição. Ebulição em geral. Ebulição sem destilação ou concentração.
+      → 66.048 Destilação. Evaporação
+      → 66.049 Processos térmicos para separação de fase
+66.046.8	Aquecimento sob pressão. Autoclave.
+66.046.9	Tratamento térmico de gases e misturas gasosas.
+      → 66.040.4 Tratamento térmico na fase gasosa
+      → 66.07 Tecnologia química de gases
+66.047	Secagem industrial. Secadores.
+66.047.l	Processos preliminares e auxiliares.
+66.047.132	Aquecimento preliminar do material.
+66.047.134	Secagem preliminar do agente secante (ar ou
+gás). Eliminação da umidade do ar ou do gás.
+66.047.16	Aquecimento intermediário múltiplo do ar.
+Retomo do ar. Circulação do ar.
+66.047.3	Secagem a altas temperaturas. Secagem por
+calor apenas. Secadores e vaporativos. Evaporadores.
+	Tipos de secagem e respectivo equipamento.
+Exemplo(s) de combinação(ões):
+66.047.3.049.6 Secagem por sublimação. Secagem a vácuo após resfriamento profundo do material e
+congelamento da umidade com sublimação subseqüente
+66.047.3.085. l Secagem por radiação infravermelha. Secagem por termorradiação 
+66.047.3.086.2 Secagem pôr correntes de alta freqüência. Secagem dielétrica
+66.047.4/.6	Secagem por contato direto do material que está secando com o agente secante. Secagem por convexão. Secagem por ar ou gás.
+→ 66.047.1 Processos preliminares e auxiliares
+66.047.4/.5	Secagem por processo de suprimento de calor. Aparelho de secagem conforme o projeto.
+	      Especificar o grau de continuidade por meio de  -932...
+66.047.41	Secagem por convexão em geral.
+Especificar o fluxo por -94 
+Exemplo(s) de combinação(ões):
+66.047.41-942 Secagem por convecção de unifluxo
+66.047.41-944 Secagem por convecção de contrafluxo
+66.047.44	Secagem ao ar livre, a descoberto.
+66.047.45	Secagem em armários ou gabinetes de secagem.
+66.047.46	Secagem em fomos de secagem.
+66.047.47	Secagem em canais de secagem. Secadores de túnel.
+66.047.49	Secagem em estantes e prateleiras de secagem.
+66.047.54	Secagem em secadores tubulares e de cuba.
+66.047.55	Secagem em correias transportadoras. Secadores de cinta.
+66.047.56	Secadores de bandeja. Secadores em cascata.
+66.047.57	Secadores rotativos. Secadores de tambor em geral.
+→ 66.047.69 Outros tios de secadores de contato
+66.047.6	Secagem por contato em geral. Secagem por
+transferência de calor através de urna partição
+sólida.
+66.047.62	Secadores de rolo.
+66.047.63	Secadores inclinados. Secadores com agitadores.
+66.047.64	Secagem por contato em gabinetes de secagem.
+66.047.65		Secagem por contato em secadores de
+prateleira.
+66.047.69	Outros tipos de secadores de contato. Inclusive Secadores de contato de tambores rotativos.
+66.047.7	Secagem segundo o estado do material.
+Especificar por meio de -911...
+66.047.79	Líquidos.
+66.047.8	Secagem por processos químicos ou químico-coloidais.
+→ 66.022.34 Que empregam substâncias higroscópicas, dessecantes, absorventes ou absorventes de água
+→ 667.629.3 Secantes
+66.047.92		Acessórios e detalhes dos secadores.
+Especificar por meio de -2/-8
+Exemplo(s) de combinação(ões):
+66.047.92-229.6 Dispositivos de carga
+66.047.92-229.8 Dispositivos de descarga
+66.048	Destilação. Evaporação.
+Para maiores especificações das subdivisões de 66.048.1/.5, usar- 9... e .069...
+→ 66.021.3 Transferência ou troca de massa em geral
+66.048.l	Destilação. Destilação simples.
+66.048.3	Retificação. Destilação fracionada. Inclusive Torres de retificação. 
+Exemplo(s) de combinação(ões):
+66.048.3-932.2 Retificação contínua 
+66.048.3.069.82 Retificação em torres de barbotina
+66.048.4	Destilação completa seguida de condensação
+                                       fracionada.
+66.048.5	Evaporação. Secagem por evaporação.
+Evaporadores.
+Exemplo(s) de combinação(ões):
+66.048.5.022.63 Evaporação rotativa 
+66.048.5.069.834 Evaporação de película
+→ 66.048.912 Evaporação como estágio da destilação
+66.048.6	Tipos especiais de destilação.
+66.048.62	Destilação com ajuda de meios especiais. Inclusive Destilação a vapor. Destilação azeotrópica. Destilação extrativa.
+66.048.67	Destilação molecular.
+66.048.9	Outros processos análogos à destilação e
+evaporação ou que constituem estágios e
+produtos da destilação.
+66.048.91	Estágios da destilação.
+66.048.911	Ebulição. Caldeiras. Alambiques, destiladores
+de evaporação.
+→ 66.046.7 Aquecimento até o ponto de ebulição. Ebulição em geral. Ebulição sem destilação ou concentração
+66.048.912	Evaporação como estágio da destilação.
+→ 66.048. Evaporação. Secagem por evaporação. Evaporadores
+66.048.913	Deflegmação. Deflegmadores. Flegma.
+66.048.914	Condensação. Condensadores.
+66.048.92/.97              Frações da destilação.
+66.048.92	Partes superiores.
+66.048.93	Partes do meio.
+66.048.94	Partes do fundo, inferiores.
+66.048.95	Resíduo.
+66.048.97	Destilados superiores.
+66.049	Processos térmicos para separação de fase.
+→ 66.082 Processos que afetam o nível de concentração
+66.049.2	Separação ou recuperação de substâncias
+sólidas pela evaporação de soluções. Inclusive Medidas para evitar incrustação.
+	      → 66.047.79 Líquidos
+	      → 66.065.5 Cristalização. Cristalizadores
+66.049.3	Recuperação de duas ou mais fases líquidas por
+destilação.
+→ 66.048.62 Destilação com ajuda de meios especiais
+66.049.4	Separação de fases por fusão parcial. Processo
+de fusão por zonas.
+66.049.5	Separação térmica de fases líquidas e sólidas
+(não-metálicas). Sudação.
+66.049.6	Processos de sublimação. Recuperação de
+sublimados.
+→ 66.040.27 Mudança de fase sólida para gasosa
+66.049.7	Volatilização da fase não-metálica.
+66.05	Processos e equipamentos
+especiais.
+Os auxiliares .05... são desenvolvidos em várias subdivisões de 66 para indústrias específicas
+66.06	Tecnologia química de líquidos.
+Processos e equipamento para
+tratamento de líquidos.
+      Ver nota em 66.02
+66.061	Solução. Extração. Solventes.
+66.061.l	Solução (dissolução) em geral.
+66.061.12	Solução de gases.
+66.061.14	Solução de líquidos.
+66.061.16	Solução de sólidos.
+66.061.18	Solventes. Extratantes.
+→ 66.061.38 Recuperação do solvente
+→ 66.063.935Diluição. Redução. Diluentes
+→ 667.629.2Solventes. Redutores Diluentes
+66.061.3	Extração (solução seletiva).
+66.061.34	Extração de sólidos. Lixiviação.
+66.061.35	Extração de líquidos.
+66.061.38	Recuperação do solvente.
+66.063	Mistura de líquidos. Diluição. Concentração.
+Homogeneização.
+66.063.4	Maceração. Infusão. Impregnação.
+66.063.5	Umedecimento, umidificação. Inclusive Agentes umectantes
+	      → 661.185.72 Agentes umectantes
+	      → 667.629.5 Emulsificantes. Agentes umidificadores
+	      → 678.049.7 Agentes umidificantes. Emulsificadores. Peptizadores
+66.063.6	Formação de sistemas de dispersão líquida.
+→ 66.069.85 Formação, destruição e prevenção de espuma
+Para a estabilização de dispersões, acrescentar .022.36
+66.063.61	Emulsificação. Inclusive Agentes emulsificadores
+→ 661.185.76 Agentes emulsificantes
+→ 667.629.5 Emulsificantes. Agentes umidificadores
+66.063.62	Preparo de suspensões. Inclusive Agentes dispersantes para suspensões-
+66.063.7	Mistura e amassadura de substâncias plásticas.
+→ 621.929 Mistura de sólidos ou semi-sólidos. Amálgama de sólidos com líquidos
+→ 678.023.3 Mistura
+66.063.72	Emolientes, plastificadores e seu emprego. Especificar por meio de :547. .. 
+Exemplo(s) de combinação(ões):
+                                           66.063.72:547.26 Álcoois como emolientes
+      → 667.621.7 Outros componentes essenciais do sistema de aglutinação
+      → 678.049.1 Amaciantes em geral
+66.063.8	Mistura. Homogeneização. Dispositivos para misturar.
+Exemplo(s) de combinação(ões):
+66.063.8.069.82 Mistura pela introdução de gases. Mistura por barbotina
+66.063.8.086.4	Mistura pelo emprego de forças magnéticas
+66.063.93	Diluição. Redução. Diluentes.
+→ 66.082.4 Diluição
+→ 667.629.2 Solventes. Redutores. Diluentes
+66.063.94	Concentração.
+66.065	Solidificação. Mistura de líquidos com sólidos.
+66.065.2	Precipitação por reagentes. Coagulação.
+66.065.3	Métodos para diminuir a solubilidade.
+66.065.31	Dessalinização.
+66.065.32	Tratamento térmico. Resfriamento.
+Aquecimento.
+Exemplo(s) de combinação(ões):
+66.065.32-977 Tratamento térmico
+66.065.5	Cristalização. Cristalizadores.
+Exemplo(s) de combinação(ões):
+66.065.5.045.5	Cristalização por
+congelamento do solvente
+66.065.5.048.5 Cristalização por evaporação do solvente
+66.065.53	Recristalização.
+66.065.56	Revestimento.
+66.065.7	Mistura de líquidos com outras substâncias
+para obter urna massa sólida ou semi-sólida.
+66.065.8	Espessamento.
+66.066	Separação de líquidos em geral. Separação de
+sistemas líquidos heterogêneos.
+→ 66.048 Destilação. Evaporação
+→ 66.061.3 Extração (solução seletiva)
+→ 66.081.6 Processos de membrana
+66.066.1	Clarificação.
+66.066.2	Decantação para separar os líquidos dos
+sólidos.
+66.066.3	Rompimento da emulsão. Desemulsificação em
+geral. Coalescência.
+66.066.7	Sedimentação. Precipitação por decantação. Inclusive Decantadores. Tanques de sedimentação.
+Indicar o tratamento centrifugo por meio de . 022.63
+66.067	Refino e purificação de líquidos em geral.
+66.067.l	Filtração em geral.
+66.067.11	Filtrabilidade.
+66.067.12	Meios de filtração.
+Indicar os materiais específicos por meio de -03... Indicar os dispositivos de limpeza por -776
+66.067.122	Meios de filtração soltos. Inclusive Quartzos. Cascalho. Bolas de vidro.
+66.067.123	Meios fixos de filtração.
+66.067.123.2	Panos de filtro.
+66.067.123.3	Papéis de filtro.
+66.067.123.8          Gazes. Crivos. Materiais de laminados perfurados.
+66.067.124	Meios porosos de filtração. Inclusive Materiais cerâmicos, metalocerâmicos (cermeto) de filtração.
+66.067.16	Filtração segundo a consistência (viscosidade) do líquido.
+Especificar por meio de -914.4 
+Exemplo(s) de combinação(ões):
+66.067.16-911.43 Filtração de fusões 
+66.067.16-911.48 Filtração de suspensões coloidais
+66.067.16-911.49 Filtração de suspensões grosseiras, lamas
+66.067.17	Filtração em termos de cabeça do filtro.
+Exemplo(s) de combinação(ões):
+66.067.17-982 Criação de cabeça de filtro pelo vácuo 
+66.067.17-986 Criação de cabeça de filtro por pressão
+66.067.18		Tratamento da massa de filtração.
+66.067.3	Filtros segundos características e detalhes do projeto. 
+	Exemplo(s) de combinação(ões):
+                                      66.067.3-229.6 Dispositivos de carga dos filtros
+                                    66.067.3-957 Filtros de pilha
+                                    66.067.3.022.63 Filtros centrífugos
+66.067.31	Funis de filtração.
+66.067.33	Filtros de saco.
+66.067.34	Filtros de tambor.
+66.067.36               Filtros de forma especial. Inclusive Filtros tubulares. Filtros em vela e cartucho. Filtros de disco ou
+			placa.
+66.067.4	Prensas de filtração.
+→ 621.979.6 Prensas para separação e extração de líquidos
+66.067.5	Centrifugação.
+→ 621.928.3 Centrífugas. Separadores centrífugos. Separadores e classificadores de ciclone
+→ 66/022.63 Métodos que utilizam forças centrífugas
+66.067.8	Outros métodos de purificação de líquidos.
+Exemplo(s) de combinação(ões):
+66.067.8.081.3 Purificação por adsorção 
+66.067.8.09 Purificação química
+66.067.9	Purificação pela remoção de substâncias específicas.
+	     Especificar a composição química por meio de :546... e:547...
+66.067.92	Remoção de lodo, lama.
+Exemplo(s) de combinação(ões):
+66.067.92.094.7 Remoção de lodo, de lama, com neutralização simultânea por álcali
+66.068	Prensagem. Espremedura. Equipamento de espremedura.
+      66.068 dividido como 621.979.6
+66.069	Outros processos que envolvem líquidos. 
+66.069.l	Lavagem.
+66.069.8	Tratamento que envolve gases.
+66.069.82	Tratamento de líquidos com gases. Distribuição
+de gás num líquido. Barbotina.
+66.069.83	Distribuição de liquido num gás.
+66.069.832	Atomização. Nebulização. Atomizadores e
+dispositivos de nebulização.
+66.069.833	Enchimentos em geral. Inclusive Enchimentos anelares, agregados, em corda, moldados.
+66.069.834	Enchimentos em chapa, tubulares (enchimento para aparelhos de películas).
+66.069.84	Desgaseificação (desaeração) de líquidos.
+→ 66.083.8 Desgaseificação no vácuo
+66.069.85	Formação, destruição e prevenção de espuma.
+66.069.852	Formação de espuma. Espumejamento.
+Geradores de espuma.
+      Indicar os agentes de espumejamento por meio de  .022.3...
+      → 661.185.74 Agentes espumantes
+66.069.855	Eliminação de espuma. Separação de espuma.
+66.069.856	Prevenção de espuma. Dispositivos para prevenção de espuma.
+	      Indicar os agentes de prevenção de espuma, os floculadores de espuma, os aditivos antiespuma por meio de . 022.3...
+66.069.88	Tratamento combinado com gases e líquidos.
+66.07	Tecnologia química de gases.
+	      Ver a nota em 66.02
+      → 66.045.7 Resfriamento de gás
+      → Tratamento térmico de gases e misturas gasosas
+	      → Produção de gases
+66.071	Mistura de gases. Separação de gases.
+Formação de sistema de dispersão de gases.
+66.071.4	Mistura de gases. Misturadores de gases.
+66.071.5	Umidificação de gases.
+→ 66.074.31 Remoção de vapor. Secagem de gás. Secadores de gás
+66.071.6	Separação de gases e misturas de gases.
+Separadores de gás em geral.
+Exemplo(s) de combinação(ões):
+66.071.6.081 Separação de gases por sorção
+66.071.6.081.6 Separação de gases por partição ou membrana, por difusão. Separação de gases por membrana. Unidades de
+difusão de gases
+66.71.62	Separação de misturas de gases por resfriamento profundo. 
+                                   Exemplo(s) de combinação(ões):
+66.071.62.048.4 Separação de misturas de gases por condensação fracionada
+66.071.8	Formação de sistema de dispersão de gases. Dispersão de líquidos e partículas sólidas em
+gases.  Inclusive Formação de fumaças, névoas. 
+→ 66.074.1/.2 Separação, ruptura dos sistemas de dispersão gasosa. Purificação mecânica de gases em geral
+66.071.9	Formação de gases de escape. Gases de escape em geral.
+→ 66.074 Purificação de gases. Secagem de gases
+66.074	Purificação de gases. Secagem de gases.
+	      Para a purificação de gases de substâncias diversas, usar as subdivisões de 66.074..1/.3
+                                        Para os métodos de purificação de gases, usar as subdivisões de 66.074.5/.9
+66.074.1/.2	Separação, ruptura dos sistemas de dispersão gasosa. Purificação mecânica de gases em geral.
+66.074.l	Separação de líquidos dos gases. Dispersão de névoa com eliminação da fase líquida. Inclusive Coletores de nebulização.
+                                   Refletores de nebulização, borrifamento. Filtros, separadores, coletores de névoa.
+66.074.2	Purificação de gases pela remoção de partículas sólidas. Inclusive Pela remoção da poeira, fuligem, fumaças.
+→ 621.928.9 Separação, extração e coleta de poeira. Extratores de poeira
+66.074.3	Purificação de gases pela remoção de misturas vaporosas e gasosas. Remoção de substâncias diversas.
+Especificar as substâncias não relacionadas em 66.0 74.3... por meio de :... 
+Exemplo(s) de combinação(ões):
+66.074.3:546.264'131-31 Purificação por remoção do fosgênio
+66.074.31	Remoção de vapor. Secagem de gás. Secadores de gás.
+66.074.32	Separação, remoção de gases nitrosos (de outros gases).
+66.047.33	Separação, remoção de gases carbonados
+(óxidos de carbono, ácido carbônico) de outros gases.
+66.074.34	Separação, remoção da amônia e outras bases (de outros gases).
+66.074.35	Separação, remoção de oxigênio (de outros gases).
+66.074.36	Separação, remoção do hidrogênio de outros gases.
+66.074.37	Separação, remoção dos compostos de enxofre (de outros gases).
+66.074.38	Remoção de misturas orgânicas. Purificação pela remoção de substâncias voláteis e fortemente odoríferas.
+                                        Especificar a remoção dos compostos orgânicos por meio de :...
+                                Exemplo(s) de combinação(ões):
+                                       66.074.38:547.563 Cresol
+                                        66.074.38:662.715.1 Alcatrão de madeira
+                                        66.074.38:678 Materiais macromoleculares
+66.074.391	Separação, remoção de gases ácidos em geral de outros gases.
+66.074.395	Separação, remoção de cianogênio e ácido hidrociânico de outros gases.
+66.074.396	Separação, remoção de halógenos e hidro- alógenos de outros gases.
+66.074.4	Solução (dissolução) de gases em vasos de saturação. Inclusive Extração de produtos sólidos
+	      → 66.061.12 Solução de gases
+	      → 66.069.82 Tratamento de líquidos com gases. Distribuição de gás num líquido. Barbotina
+66.074.41	Introdução de gases em vasos de saturação, etc..
+66.074.43	Líquidos solventes para gases: propriedades,
+condição.
+66.074.44	Circulação de líquido solvente.
+66.074.46	Separação de produtos do gás.
+66.074.48	Tratamento dos gases de escape ou efluentes.
+66.074.5	Métodos de purificação de gases em geral.
+      Indicar os métodos não citados em 66.074.5/.9 pelo acréscimo de outros auxiliares de 66 
+Exemplo(s) de combinação(ões):
+66.074.5.022.62 Purificação de gases por gravitação. Sedimentação 
+66.074.5.081.3 Purificação de gases por adsorção
+66.074.5.087.94 Eletropurificação de gases 
+66.074.5.094.3-926.214 Purificação de gases por ozonização 
+66.074.5.097.094.2 Purificação de gases por redução catalítica
+66.074.6	Purificação a seco de gases em geral.
+66.074.62	Purificação por substâncias químicas sólidas.
+Purificação a seco acompanhada de reações químicas.
+      Especificar os reagentes por meio de 66-926/-92 7, e as reações químicas por meio de .0... 
+Exemplo(s) de combinação(ões):
+66.074.62-926.713 Pelo oxido de manganês 
+66.074.62.094.6 Por agentes ácidos
+66.074.8	Purificação de gases por processos térmicos.
+Indicar a pressão por meio de -98...
+66.074.9	Purificação de gases por filtração.
+66.074.91/.93 dividido como 66.067.1/.3
+66.075	Carburação. Meios de carburação. Aditivos
+diversos para gases.
+      66.075 dividido como 662.76.075
+66.076	Coleta, acumulação e armazenamento de gases. Inclusive Reservatórios para
+armazenamento de gases. Depósitos de gases. Gasômetros.
+66.076.2	Depósitos úmidos de gases. Depósitos de gases
+do tipo sino. Depósitos telescópicos de gases.
+66.076.4	Depósitos secos de gases.
+66.076.5	Cilindros, botijões, garrafas e recipientes
+similares para gases.
+Exemplo(s) de combinação(ões): 
+      66.076.5-464 Recipientes esféricos 
+      66.076.5-465 Recipientes cilíndricos
+66.077	Rarefação de gases. Descompressão.
+66.078	Elevação da pressão de gases. Compressão e liquefação de gases.
+66.078.2	Compressão mecânica de gases.
+66.078.4	Compressão térmica de gases.
+66.078.5	Geradores de gás comprimido. Dispositivos de
+regulagem.
+66.08	Operações e equipamentos físicos e
+físico-químicos. Efeitos físicos e físico-químicos sobre os processos químicos.
+Ver nota em 66.02
+66.081	Processos de sorção em geral. Processos de membrana
+66.081.2	Absorção. Absorventes em geral. 
+                                     Especificar os absorventes segundo o projeto por meio de .0... 
+Exemplo(s) de combinação(ões):
+66.081.2.069.82 Absorventes de barbotina
+66.081.3	Adsorção. Cromatografia separadora.
+→ 543.544 Análise cromatográfica. Cromatografia
+66.081.312	Adsorção e cromatografia de troca de íons.
+66.081.4	Quimissorção.
+66.081.5	Dessorção.
+66.081.6	Processos de membrana.
+Indicar as membranas semipermeáveis por meio de -278
+66.081.62	Diálise. Dialisadores.
+→ 66.087.97 Eletrodiálise
+66.081.63	Osmose reversa. Ultrafiltração. Hiperfiltração.
+→ 66.087.92 Eletroendosmose. Eletroosmose
+66.082	Processos que afetam o nível de concentração,
+→ 66-914 Características de concentração
+66.082.2	Concentração.
+→ 621.928.44 Concentradores. Espessadores
+→ 66.065.8 Espessamento
+66.082.3	Manutenção de concentração uniforme.
+66.082.4	Diluição.
+→ 66.063.93 Diluição. Redução. diluentes
+66.083	Processos que envolvem pressão.
+→ 66-98 Pressão. Variação de pressão
+66.083.2	Processos de aumento da pressão.
+Pressurização. Compressão.
+→ 66.078 Elevação da pressão de gases. Compressão e liquefação de gases
+66.083.3	Manutenção de pressão uniforme.
+66.083.4	Processos de redução da pressão.
+Descompressão. Rarefação.
+→ 66.077 Rarefação de gases. Descompressão
+66.083.8	Desgaseificação no vácuo.
+→ 66.069.84 Desgaseificação (desaeração)
+66.084	Operações que envolvem vibrações. Processos
+baseados em vibrações.
+66.084.2	Processos que empregam vibrações ou choques. Inclusive Processos de onda de choque.
+66.084.6	Processos que empregam vibração de
+freqüência muito baixa. Processos infra-sônicos.
+66.084.7	Processos que empregam vibrações sonoras.
+66.084.8	Processos que empregam vibrações de
+freqüência muito alta. Processos ultra-sônicos.
+66.085	Processos que envolvem irradiação. Processos
+fotoquímicos.
+→ 664.8.039.5 Preservação por radiação
+66.085.1	Radiação de ondas longas. Inclusive Radiação infravermelha.
+66.085.2	Radiação visível. Luz.
+66.085.3	Radiação de ondas curtas. Inclusive Radiação ultravioleta. Radiação de raios X. Radiação de raios gama.
+	      → 621.386 Aparelhos de raios X. Válvulas de raios X
+66.085.5	Radiação corpuscular. Inclusive Radiação alfa. Radiação beta. Radiação de nêutrons.
+66.086	Operações que envolvem efeitos magnéticos, eletromagnéticos e elétricos.
+66.086.2	Operações que envolvem efeitos elétricos. Inclusive Processos de alta freqüência, eletrostáticos.
+66.086.4	Operações que envolvem efeitos eletromagnéticos, magnéticos. Inclusive Processos magneto-químicos. Indução magnética,
+66.087	Processos eletroquímicos.
+66.087.2	Eletrorredução.
+66.087.3	Eletrooxidação.
+66.087.4	Eletroflutuação.
+66.087.5	Eletrocoagulação.
+66.087.7	Eletrólise e galvanização.
+      66.087.7 dividido como 621.357
+66.087.9	Aplicação de eletrocapilaridade.
+Eletrossedimentação.
+66.087.9 dividido como 621.359
+66.087.92	Eletroendosmose. Eletroosmose.
+66.087.97	Eletrodiálise.
+66.088	Processos que empregam descargas elétricas.
+Processos que empregam lasers. Processos que empregam plasma. Processos plasmáticos e plasmoquímicos.
+66.09	Reações químicas técnicas.
+Processos químicos e bioquímicos especiais.
+A grande variedade de reações químicas impossibilita indicar cada uma delas por uma divisão direta de 66.09. As instruções metodológicas que se seguem explicam como indicar as reações.
+1)	Muitos dos textos em 66.09 compreendem tanto os nomes gerais das reações quanto os nomes específicos das
+reações comumente observadas. Se necessário, os últimos podem ser indicados pelos meios metodológicos, p. ex:
+.095.118 Desacilação
+                                            .095.118:547.291Desformilação 
+                                            .095.118:547.292Desacetüação
+2) Para designar as reações com eliminação de um determinado grupo, acrescenta-se-lhes o dígito final 8. Ver exemplos
+em 66.09...8.
+3) Para designar um reagente, usa-se  o auxiliar
+apropriado -92 é, p. ex.
+                                            . 094.3-926.217 Oxidação pelo ar 
+                                            . 095.253-927. Aralquilação. Benzilação. Feniletilação
+      -92... deverá ser usado apenas quando os recursos de 66.09 tiverem sido esgotados
+66.091	Tipos principais de transformação química. Síntese. Reações dos compostos inorgânicos e
+orgânicos em geral.
+66.091.l	Reações dos compostos inorgânicos em geral.
+	Reações dos compostos orgânicos em geral.
+66.091.3	Síntese em geral.
+Exemplo(s) de combinação(ões):
+66.091.3-977 Pirossíntese
+66.091.4	Substituição, troca em geral.
+66.091.6	Rearranjo geral
+66.091.7	Adição em geral.
+66.091.8	Eliminação em geral.
+Indicar eliminação de grupos específicos pela combinação dos auxiliares.
+                             Exemplo(s) de combinação(ões):
+                                  66.094.25.091.8 Desidrogenação
+                                  66.094.522.091.8 Dessulfurização
+                                  66.095.13.091.8 Eliminação do grupo aciloxílico
+                                  66.095.81.091.8 Desnitração
+                                  66.096.3.091.8 Desdeuteração. Destritiação
+66.092	Processos de decomposição. Craqueamento. Clivagem. Destruição.
+Exemplo(s) de combinação(ões):
+66.092-977 Decomposição térmica. Craqueamento térmico. Pirólise 
+66.092-977-922 Copirólise 
+66.092.085 Decomposição por radiação. Radiólise
+66.092.088 Decomposição em descargas elétricas. Eletrocraqueamento. Decomposição plasmoquímica. Pirólise plasmoquímica 
+66.092.094.25 Hidrogenólise. Hidrogenação destrutiva. Hidrocraqueanento 
+66.092.094.3 Decomposição oxidativa. Oxigenólise 
+66.092.097.3 Catalisadores de decomposição
+→ 66.094.94 Decomposição de troca. Solvólise
+→ 665.64 Craqueamento e reformação
+66.092.l	Decomposição em geral. Craqueamento sem
+catalisadores.
+66.092.2	Processos preliminares para decomposição.
+Pré-aquecimento.
+66.092.8	Processos específicos.
+66.092.81	Processos para refino posterior de produtos de
+Craqueamento. Reformação.
+→ 665.64 Craqueamento e reformação
+66.092.89	Craqueamento para coque. Coqueificação.
+66.092.9	Outros processos de decomposição. Inclusive Destilação com pó de zinco.
+66.093	Reações e tratamento com água. Adição e
+extração de água.
+66.093.1	Solvatação.
+66.093.2	Umidificação. Umedecimento.
+66.093.4	Hidratação.
+66.093.41	Hidratação físico-química.
+66.093.43	Hidratação química.
+Exemplo(s) de combinação(ões): 
+      66.093.43-92 Agentes hidratantes 
+      66.093.43.097 Hidratação catalítica
+66.093.48	Desidratação química. Eliminação química de
+água. Desidratação.
+Para ciclodesidratação, usar 66.095.252.093.48
+66.094	Tratamento com vários agentes.
+66.094.l	Reações de oxidação-redução. Reações redox.
+Desproporcionamento (desmutação. rearranjo). Reação de Cannizzaro.
+66.094.2	Redução em geral. Redução com vários agentes
+redutores.
+Indicar os agentes redutores por meio de -92...
+66.094.25	Hidrogenação.
+66.094.29	Outros processos de redução. Processos mistos
+de redução.
+66.094.3	Oxidação. Oxigenação.
+Exemplo(s) de combinação(ões);
+66.094.3-921 Auto-oxidação
+66.094.3-926.214 Oxidação por ozônio. Ozonização. Ozonólise 
+66.094.3-926.217 Oxidação pelo ar 
+66.094.3-926.22 Oxidação por enxofre e compostos de enxofre 
+66.094.3.094.72 Fusão alcalina oxidante
+66.094.3.097	Oxidação catalítica
+66.094.3-097.8 Antioxidação. Inibição da oxidação
+66.094.3.098	Oxidação bioquímica
+66.094.32             Hidroxilação.Glicolisação.
+66.094.39             Epoxidação.
+66.094.4	Introdução e eliminação de halógenos.
+Os halógenos podem ser especificados nas subdivisões de 66.094.4 pela combinação dos auxiliares
+Exemplo(s) de combinação(ões):
+66.094.42.094.414 Troca de hidrogênio por bromo
+66.094.41	Halogenação em geral. Inclusive Peralogenação. Transalogenação. Halogenólise.
+66.094.412	Fluoração em geral. Inclusive Perfluoração.
+66.094.413	Cloração em geral. Inclusive Percloração. Clorólise (clorinólise).
+Exemplo(s) de combinação(ões):
+66.094.413.094.3 Cloração oxidante 
+66.094.413.094.328 Clorodesidroxilação
+66.094.414	Bromação em geral. Inclusive Perbromação. Bromólise.
+66.094.415	Iodação. Inclusive Periodação. Iodólise.
+66.094.42	Halogenação direta. Substituição de hidrogênio por halógenos.
+66.094.43	Substituição mútua de halógenos diferentes.
+66.094.44	Substituição de grupos oxigenados por halógenos.
+→ 66.095.85 Reações de Sandmeyer e Gattermann. Substitutos do grupo diazo
+66.094.45	Introdução de ácido hidro-halogênico. Hidro-halogenação. Adição de CHHlg, CHlg a
+múltiplas ligações.
+66.094.46	Adição de halógenos.
+66.094.48	Desalogenação. Para a reação de Wurtz-Fittig,  usar 66.095.253.094.48 
+Exemplo(s) de combinação(ões):
+66.094.48.094.25 Desalogenação redutora (hidrodesalogenação)
+66.094.5	Introdução ou eliminação de ametais.
+66.094.52	Introdução ou eliminação de enxofre e selênio,
+66.094.522	Introdução de enxofre. Sulfurização.
+Exemplo(s) de combinação(ões):
+66.094.522.094.2 Sulfurização redutora
+66.094.523	Introdução de grupos tiol-, tiônicos.
+66.094.524	Introdução de ácido sulfúrico. Inclusive Sulfação, Sulfonação. Sulfoxidação. Sulfamação. Sulfonilação.
+66.094.525	Introdução de ácido sulfuroso. Inclusive Sulfinação. Sulfenação.
+66.094.529	Introdução de selênio. Selenação.
+66.094.53	Introdução de fósforo.
+66.094.533	Fosforilação. Inclusive Transfosforilação. 
+Exemplo(s) de combinação(ões):
+66.094.533.094.3 Fosforilação oxidativa
+66.094.55	Introdução de boro.
+66.094.57	Introdução de silício.
+66.094.6	Acidificação. Tratamento com ácidos, em geral.
+66.094.7	Alcalinização. Basificação. Tratamento com
+bases, em geral.
+66.094.72	Fusão alcalina.
+66.094.8	Neutralização. Remoção de ácidos ou bases.
+Desacidificação. Desbasificação.
+66.094.94	Decomposição de troca. Solvólise.
+→ 66.091.4 Substituição, troca em geral
+66.094.941	Hidrólise.
+Exemplo(s) de combinação(ões):
+66.094.941-977 Piroidrólise. Hidrólise a vapor
+66.094.941.094.7 Saponificacão. Hidrólise alcalina
+66.094.942	Alcoólise. Reações com álcoois. Inclusive Metanólise. Etanólise. Fenólise.
+66.094.943	Acidólise. Reações com ácidos. Inclusive Acelólise. Nitrólise. Formólise. Trifluoroacetólise.
+66.094.944	Amonólise. Reações com amôn ia.
+Exemplo(s) de combinação(ões):
+66.094.944.094.3 Amoxidação (amonólise oxidativa, aminação oxidativa, cianodemetilacão, aminooxidação,
+oxiamonólise)
+66.095.8 Introdução de grupos que contêm nitrogênio. Azotização. Cianação
+→ 66.095.8 Introdução de grupos que contêm nitrogênio. Azotização. Cianação
+66.094.944.2	Aminólise.
+66.094.944.3	Amidólise.
+66.094.944.4	Hidrazinólise (hidrazinação).
+66.094.945	Tiólise(mercaptólise).
+      → 66.094.522/.523 
+66.094.946	Cianólise.
+66.095	Processos diversos. Processos químicos orgânicos especiais.
+66.095.l	Acilação. Acetalização. Aciloxilação. Alcoxilação.
+66.095.11	Acilação em geral. Inclusive Transacilação. Introdução dos grupos acetil, formil e outros. Formilação. 
+                                Reação de Reimer-Tiemann. Acetilação. Acetoacetilação. Malonoilação. Oxalilação. Succinoilação. 
+                                 toxaloilação. Acilação segundo Friedel Crafís. 
+Exemplo(s) de combinação(ões): 
+      66.095.11-927.5 Benzoilação
+66.095.11.094.2	Acilação redutora
+66.095.11.094.25 Hidroacilação
+66.095.11.094.522 Tioacilação.Tioformilação
+66.095.11.095.252 Cicloacilação 
+66.095.11.095.832 Aminoacilação
+66.95.11.96.3 Deuteroacilação. Deuteroformilação
+66.095.118              Desacilação. Inclusive Desacetilação. Desformilação.
+66.095.12	Formação de acetais. Acetalizaçao (acetalação, cetalização). Inclusive Acetonação (isopropilidenação). Glicosidação. Tioacetalização. Glucosidação (glucosilação).
+66.095.13	Formação de ésteres compostos.
+Introdução do grupo aciloxilico. Aciloxilação (acoxilação). Acetoxilação.
+Exemplo(s) de combinação(ões):
+66.095.13-927.5 Introdução do grupo aciloxílico cíclico. Aroiloxilação. Benzoiloxilaçào
+66.095.14	Formação de éteres simples. Inclusive Alcoxilação. Metoxilação. 
+Exemplo(s) de combinação(ões):
+      66.095.14-927.5 Aroxilação 
+      66.095.14.094.41 Halogenalcoxilação
+      55.095.253 Alquilação
+      → 66.095.253 Alquilação
+66.095.17	Formação de sais.
+66.095.2	Tipos diversos de transformação molecular.
+66.095.21	Isomerização. Inclusive Transformação de Beckman. Racemização.
+Exemplo(s) de combinação(ões):
+66.095.21.094.25 Hidroisomerização 
+66.095.21.095.252 Cicloisomerização 
+66.095.21.097 Isomerização catalítica
+66.095.216	Tautomerização
+66.095.22	Rearranjo.
+66.095.25	Ciclização.Alquilação.
+66.095.251	Homologização.
+66.095.252	Ciclização (fechamento de anel, formação de anel).
+Exemplo(s) de combinação(ões):
+66.095.252.091.7 Cicloadição. Síntese dieno. Adição de Diels-Alder 
+66.095.252.093.48 Ciclodesidratação 
+66.095.252.094,25 Hidrociclização (ciclização redutora) 
+66.095.252.094.258 Desidrociclização (ciclodesidrogenação) 
+66.095.252.094.3 Ciclização oxidativa
+66.095.252.4	Aromatização.
+66.095.252.5	Anelação (interna).
+66.095.253	Alquilação.Inclusive Mediação. Etilação. Propilação. Butilação. Dialquilação. Polialquilação. Transmetilação. Alquilação segundo Friedel-Crafts.
+Exemplo(s) de combinação(ões):
+      66.095.253-927.5 Aralquilação (arilalquilação). Benzilação. Feniletilação. Tritilação (trifenilmetilação)   
+      66.095.253-927.7 Piridiletilação.Piranilação 
+      66.095.253.094.25 Hidroalquilação (Hidroxialquilação redutora)
+      66.095.253.094.32 Hidroxialquilação. Hidroximetilação. Hidroxietilação. Hidroxibutilação 
+      66.095.253.094.41 Halogenalquilação (alquialogenação). Halometilaçâo 
+      66.095.253.094.48 Reação de Wurtz- Fittig 
+      66.095.253.095.13 Carbalcoxialquilação (alcoxicarbonilalquilação). Carbetoximetilação. Etoxicarbonilmelilação).Acetoxi-metilação. Acetoetilação 
+      66.095.253.095.14	Alcoxialquilacão. Alcoximetilação 
+      66.095.253.095.14-927.5 Fenoxialquilação 
+      66.095.253.095.252 Cicloalquilação. Ciclopentilação. Cicloexilação 
+      66.095.253.095.64 Carboxialquilação. Carboximetilação.Carboxietilação 
+      66.095.253.095.832 Aminoalquilação. Aminometilação. Aminoetilação. Transaminometilação
+      66.095.253.095.832-927.5 Aminobenzilação
+                                       66.095.253.095.833 Amidoalquilação (acilaminoalquilação). Amidometilação (acilaminometilação)
+                                        Carbamoiletilação (carbamiletilação)
+66.095.255	Introdução de radicais alquenilo. Alquenilação. Olefinação. Metilenação. Vinilação. Alilação. Prenilação. Reação de Wíttig.
+66.095.256	Alquinilação. Inclusive Etinilação (etinação) Propargilação.
+66.095.257	Arilação. Inclusive Fenilação. Tolilação Hetarilação.
+66.095.26	Polimerização em geral. Formação de compostos macromoleculares. 
+Exemplo(s) de combinação(ões):
+66.095.26-921 Homopolimerização 
+66.095.26-922 Copolimerização
+66.095.26-922.2 Copolimerização de bloco 
+66.095.26-922.3 Copolimerizacão inoculada. Copolimerização de enxerto 
+66.095.26-936.3 Polimerização homogênea
+66.095.26-936.4 Polimerização heterogênea 
+66.095.26-977 Polimerização de alta temperatura 
+66.095.26.085 Polirnerização de irradiação.Polimerização fotoquímica 
+66.095.26.097 Polimerizacão catalítica
+66.095.261	Métodos de polimerização. Extensão da cadeia.
+Nas subdivisões, indicar a copolimerização (co-...) por meio de –922...
+66.095.261.1	Polimerização de adição
+66.095.261.2	Policondensação (polimerização de condensação).
+66.095.261.3	Telomerização.
+66.095.261.4	Oligomerização.
+Exemplo(s) de combinação(ões):
+66.095.261.4.095.252 Ciclo-oligomerização
+66.095.261-42       Dimerização.
+66.095.261.43       Trirnerizacão.
+66.095.262	Polimerização em relação ao meio.
+Indicar a fase por meio de  -911.. 
+Exemplo(s) de combinação(ões):
+      66.095.262-911.3 Polimerização de monômeros gasosos
+      66.095.262-911.48 Polimerização de suspensão. Polimerização de emulsão
+66.095.262.1	Polimerização sem solventes e diluentes.
+Polimerização de bloco em massa.
+66.095.262.2	Polimerização com solventes.
+66.095.268	Despolimerização.
+66.095.3	Condensação.
+Exemplo(s) de combinação(ões):
+                                       66.095.3-921 Autocondensação 
+      66.095.3.094.25 Hidrocondensação (condensação redutora) 
+      66.095.3.094.258 Desidrocondensação (condensação oxidativa) 
+      66.095.3.095.252 Ciclocondensação (condensação cíclica). Reação de Tishler
+66.095.31	Condensação sem eliminação. Inclusive Condensação aldol. Condensação aciloína.
+66.095.32	Condensação com eliminação de água. Inclusive Crotonização. Reação de Perkin.
+66.095.34	Condensação de aldeídos e cetonas com
+derivados de amônia. Preparo das bases de Schiff. Inclusive Oximação. Osazonação.
+66.095.35	Condensação com eliminação de ácido hidroalogênico.
+66.095.36	Condensação com eliminação de sulfeto de hidrogênio.
+66.095.37	Condensação com eliminação de álcool. Inclusive Condensação de éster.
+66.095.5	Processos diversos de adição, principalmente por múltiplas ligações.
+→ 66.091.7 Acilação em geral
+66.095.53	Adição de HOHlg. Hipoalogenação.
+Halogenidrinação.
+→ 66.094.41 Halaogenação em geral
+66.095.54	Adição de NOHlg. NitrosoalogenaçSo. Adição
+de NO2Hlg. Nitroalogenação.
+66.095.542/.545 dividido como 66.094.412/.415 para identificar o halógeno
+66.095.55	Adição de HCN. Hidrocianação (cianidração).
+→ 66.095.842 Cianação (nitrilação). Substituição do CN por halógeno, sulfeto ou grupo carboxila
+66.095.6	Carbonilação. Carboxilação.
+66.095.62	Introdução do grupo carbonílico (exceto acilação). Carbonilação. Cetonização.
+Exemplo(s) de combinação(ões):
+66.095.62.094.25 Hidroformilação. Oxossíntese. Reação de Roelen
+66.095.62.094.32 Hidroxicarbonilaçao. Cetolização. Hidroxicetonação
+66.095.62.095.252 Ciclocetonização
+→ 66.095.11 Acilação em geral
+66.95.64	Obtenção de compostos carboxílicos pela introdução do dióxido de carbono. Carboxilação. 
+	Exemplo(s) de combinação(ões);
+66.095.64.094.25 Hidrocarboxilação (hidrocarbonilação)
+66.095.7	Formação e reações de compostos
+organometálicos.
+66.095.71	Formação de compostos organometálicos.
+Metalação.
+66.095.712	Formação de compostos orgânicos de metais.
+                                     66.095.712 dividido como 546 para metais específicos
+66.095.712.46	Formação de compostos orgânicos de magnésio. Reagentes de Grignard.
+		      Para a reação de Grignard, ver 66.095.72
+66.095.712.49       Formação decompostos orgânicos de mercúrio. Mercuração. 
+66.095.713	Formação decompostos orgânicos de semimetais.
+66.095. 713 dividido como 546 para semimetais específicos
+66.095.713.289     Formação de compostos orgânicos de germânio. Germanilação. Germilação.
+66.095.718	Desmetalização.
+66.095.72	Reações de compostos organometálicos. Inclusive Reação de Grignard, reação de Nesmejanov.
+66.095.8	Introdução de grupos que contêm nitrogênio. Azotização. Cianação.
+66.095.81	Nitração.
+Exemplo(s) de combinação(ões):
+66.095.81.094.3 Oxinitração (nitração oxidativa)
+→ 66.094.943 Acidólise. Reações com ácidos
+66.095.82	Nitrosação.
+66.095.83	Aminação. Amidação. Diazotização.
+66.095.832	Aminação. Inclusive Transaminação. 
+Exemplo(s) de combinação(ões):
+66.095.832.094.25 Aminação redutora 
+66.095.832.095.257 Araminação (arilaminação)
+66.095.832.095.712.49 Aminomercuração
+66.095.832.2	Iminação.
+66.095.833	Amidação.
+Exemplo(s) de combinação(ões):
+66.095.833.095.11 Acetamidação 
+66.095.833.2         Obtenção de amidas de ácidos. Imidação.
+66.095.834	Diazotização.
+66.095.84	Cianação. Tiocianação.
+66.095.842	Cianação (nitrilação). Substituição do CN por
+halógeno, sulfeto ou grupo carboxila.
+→ 66.944.3 Amidólise
+→ 66.095.55 Adição de HCN. Hidrocianação (cianidração)
+66.095.843	Introdução de grupos ciânico N=C-O-.
+tiocianogênio N=C-S-, isociânico O=C=N-, etc.Tiocianação (rodanação).
+66.095.85	Reações de Sandmeyer e Gattermann.
+Substituição do grupo diazo.
+66.095.86	Reação de ligação. Ligação azóica (ligação
+diazo).
+66.095.91	Introdução de grupos solubilizantes em geral.
+→ 66.094.524 Introdução de ácido sulfúrico
+→ 66.095.253 Alquilação
+→ 66.095.3 Condensação
+66.095.92	Reações orgânicas não classificáveis em outros
+lugares de 66.095.
+Especificar por meio da  extensão alfabética (Tabela Ih)
+66.096	Outras reações e processos.
+66.096.l	Tratamento com gases inertes (gases raros).
+66.096.2	Tratamento com ácido carbônico ou com
+compostos que formam o ácido carbônico.
+66.096.3	Troca de isótopos. Inclusive Troca de hidrogênio. Deuteração, Troca de deutério. Deuterólise. Tritiação (Tritilação).
+66.096.4	Formação complexa. Introdução de átomos
+ligados complexos (coordenação). Formação de
+'estrutura em sanduíche'. Formação de
+compostos moleculares.
+66.096.5	Fluidização em geral.
+66.097	Processos catalíticos. Catalisadores. Veículos
+catalisadores.
+66.097.3	Catalisadores.
+Indicar os fixos e os móveis por meio de -946. l e -946.3
+Especificar por meio de : 546/54 7 e/ou -03...
+Exemplo(s) de combinação(ões):
+                                         66.097.3-039.672 Catalisadores cm base de ferro
+66.097.3-039.7 Catalisadores orgânicos
+66.097.36	Envenenamento.
+66.097.38	Regeneração.
+66.097.4	Agentes iniciadores.
+66.097.5	Meios. Portadores. Veículos.
+66.097.6	Ativadores. Promotores.
+66.097.8	Catalisadores negativos. Inibição. Liberação.
+Estabilização da reação. Estabilizadores. Inibidores. Passivadores. Agentes de liberação.
+66.098	Processos bioquímicos.
+66.098.2	Processos aeróbicos.
+66.098.4                    Processos anaeróbicos
+66.099	Outras processos (operações) não
+mencionados em 66.02/.098.
+66.099.2	Granulação. Floculação.
+      → 62-492.3 Material granular. Grãos. Grânulos. Cascalho
+      → 621.775 Fabricação de bolas, granalha, pelotas e lã
+66.099.4	Preservação. Conservação.
+66.099.5	Tratamento com pós. Inclusive Polvilhamento.
+66.099.6	Coloração de produtos. Inclusive Tingimento.
+66.099.7	Descoloramento. Desodorização. Desinfecção.
+66.099.72	Descoramento. Inclusive Alvejamento.
+66.099.73	Desodorização.
+→ 628.52 Medidas contra fumaças, emanações, cheiros, odores industriais
+66.099.74	Desinfecção.
+Divisões principais
+
+661 Produtos químicos
+
+      Alcance: a produção de produtos químicos bem como os próprios produtos químicos, especialmente do ponto de vista  
+      De seu processamento e utilização ulterior.
+      Indicar os constituintes orgânicos e inorgânicos específicos por meio de :546... e :547...
+661.1		Indústrias químicas especiais.
+661.11	Produtos químicos puros em geral. Química fina.
+Produtos químicos produzidos em estado relativamente puro, geralmente em pequenas quantidades
+661.12	Produtos farmacêuticos.
+→ 615 Farmacologia. Terapêutica. Toxicologia
+661.13	Produtos químicos para a indústria
+eletrotécnica.
+→ 621.35 Tecnologia eletroquímica
+661.14	Materiais fotoquímicos (exceto chapas,
+filmes, papéis fotográficos).
+→ 771.7 Produtos químicos fotográficos, soluções e materiais de acabamento
+661.143	Materiais luminescentes (fotoluminescentes) e fosforescentes. Luminóforos.
+→ 628.9.03 Fontes de luz luminescente
+→ 667.637.4 Revestimentos segundo as propriedades e o uso
+661.15	Produção de agroquímicos, produtos agroquímicos.
+      → 661.16 Produtos químicos para controle de pragas. Pesticidas. Desinfetantes
+Subdivisões auxiliares especiais
+661.l5’l/’9	Nutrientes e microaditivos específicos.
+661.15’1	Nitrogênio.
+661.15’11	Nitrato.
+661.15’12	Amorna.
+661.15’13	Amida
+661.15’14	Nitrato e amônia.
+661.15’15	Amônia e amida.
+661.15’16	Nitrato e amida.
+661.15’2	Fósforo.
+661.15’3	Potássio.
+661.15’4	Cálcio.
+661.15’5	Magnésio.
+66.15’6	Enxofre.
+661.15’7	Substâncias orgânicas que não contêm nitrogênio.
+661.15-7 dividido como 547
+661.15’9	Microaditivos.
+661,1’9 dividido como 546
+Divisões principais
+661.152	Fertilizantes. Fertilizantes inorgânicos em geral.
+→ 631.8 Fertilizantes, adubos animais e enriquecimento do solo. Estímulo ao crescimento. Estimulantes de plantas
+661.152.2	Fertilizantes simples em geral.
+Classificar os fertilizantes simples específicos em 661.5/.8
+661.152.3	Fertilizantes complexos.
+O conteúdo do fertilizante pode ser indicado por meio de 'l/'9 
+Exemplo(s) de combinação(ões):
+661.152.3’l’2 Fertilizantes de fosfato-nitrogênio (PN) 
+661.152.3’l’2’3 Fertilizantes de potássio-fosfato-nitrogênio 
+661.152.3’1l’2 Nitrofosfato 
+661.152.3’13’7 Fertilizantes de uréia-formaldeído
+661.152.32	Fertilizantes compostos.
+661.152.33	Fertilizantes mistos e mistos compostos.
+661.152.4	Fertilizantes orgânicos-inorgânicos.
+661.152.5	Micronutrientes. Fertilizantes que contêm microaditivos.
+Indicar os fertilizantes específicos acrescentando '9... 
+Exemplo(s) de combinação(ões):
+661.152.5’927 Fertilizantes bóricos
+661.152.5’971.l Fertilizantes mangânicos
+661.155	Produtos químicos para alimentação
+animal. Alimentos e aditivos alimentares artificiais.
+661.155.2	Alimentos baseados em produtos químicos.
+Concentrados.
+661.155.3	Aditivos alimentares.
+661.155.4	Estimulantes do crescimento animal.
+Estimulantes de engorda de animais.
+661.155.5	Resíduos industriais utilizados para alimentos
+e aditivos alimentares.
+661.155.6	Alimentos obtidos de substâncias naturais
+misturadas com aditivos alimentares químicos.
+661.155.8	Conservantes de alimentos. Estabilizadores de alimentos.
+661.158	Produtos veterinários.
+661.16	Produtos químicos para controle de pragas. Pesticidas. Desinfetantes.
+Indicar os aditivos por meio de .022.3... 
+Exemplo(s) de combinação(ões}:
+661.16.022.39 Sinergistas
+Subdivisões auxiliares especiais
+661.16.03	Características e efeitos especiais.
+661.16.032	Produtos químicos segundo a penetração nas pragas.
+661.16.032.1	Estômago.
+661.16.032.2	Contato.
+661.16.032.3	Fumigantes.
+661.16.032.5          Sistêmicos.
+661.16.034             Produtos químicos segundo o estágio de desenvolvimento ou modo de ação.
+661.16.034.l         Produtos químicos não-seletivos.
+661.16.034.3         Produtos químicos seletivos.
+661.16.034.5         Produtos químicos que são tanto ovicidas quanto inseticidas da fase adulta.
+661.16.034.6           Ovicidas.
+661.16.034.7          Larvicidas.
+661.16.034.8         Produtos químicos para matar adultos.
+Divisões principais
+661.162	Produtos químicos para o controle de plantas.
+661.162.2	Herbicidas.
+661.162.6	Reguladores do crescimento e desenvolvimento das plantas. Fito-hormônios. Inclusive Abscisinas. Giberetinas.
+Ciloquininas.
+661.162.62	Desfolhantes.
+661.162.63	Produtos químicos para desidratar plantas.
+Desidratantes.
+661.162.65	Produtos químicos contra envergamento de
+plantas pelas intempéries. Retardantes.
+661.162.66	Estimulantes do crescimento e florescimento.
+661.163	Produtos químicos antífúngicos,
+antibacterianos, antiviróticos. Produtos
+químicos contra doenças de plantas.
+661.163.2	Produtos químicos antifúngicos. Fungicidas.
+661.163.3	Anti-sépticos.
+661.163.4	Bactericidas. Viricidas.
+661.163.6	Produtos químicos que controlam o
+desenvolvimento de microorganismos. Inclusive Fitoalexinas.
+661.164	Produtos químicos para controle de artrópodes.
+→ 661.168 Repelentes. Atratantes. Antialimentares
+661.164.2	Produtos químicos para matar artrópodes.
+Inseticidas e acaricidas.
+661.164.6	Reguladores de crescimento para artrópodes.
+661.165	Produtos químicos para controle de
+moluscos.
+661.165.2	Moluscicidas. Limacidas.
+661.165.6	Reguladores de crescimento para moluscos.
+661.166	Produtos químicos para controle dos
+nematelmintos.
+661.166.2	Nematicidas.
+661.166.6	Reguladores de crescimento para
+nematelmintos.
+661.167	Produtos químicos para controle de
+vertebrados.
+661.167.2	Produtos químicos para controle de roedores.
+Rodenticidas.
+661.167.5	Produtos químicos para controle de pássaros.
+661.167.7	Produtos químicos para controle de peixes.
+Ictiocidas.
+661.168	Repelentes. Atratantes. Antialimentantes.
+661.168.2              Repelentes.
+661.168.4	Atratantes.
+661.168.5	Antialimentantes.
+661.169.2	Produtos químicos de efeito complexo.
+661.169.23	Produtos químicos para tratamento de
+sementes.
+661.169.25	Esterilizadores do solo.
+661.169.5	Produtos químicos de proteção contra condições climáticas ou meteorológicas
+desfavoráveis, p. ex., queima do sol.
+661.17	Composições e misturas químicas para finalidades técnicas.
+661.172	Agentes para prevenção e remoção de crostas e depósitos.
+661.173	Agentes antiestática.
+661.174	Agentes contra fogo e combustão.
+661.175	Agentes antigelificantes e anticongelantes.
+661.177	Fluidos hidráulicos. Inclusive Fluidos de freios. Fluidos para absorver choques.
+661.18	Colóides. Adsorventes. Agentes ativos na
+superfície, surfatantes. Detergentes. Agentes umidificantes, espumantes, emulsificantes e flotantes. Sabões. Glicerol.
+661.182	Colóides.
+                                     661.182 dividido como 544.77
+661.183	Adsorventes.
+661.183.1	Adsorventes com propriedades especiais.
+Trocadores de íons. Trocadores catiônicos e
+aniônicos.
+661.183.12	Adsorventes trocadores de íons. lonitos
+(trocadores de íons).
+661.183.122	Derivados do carbono.
+661.183.123	Derivados de resinas sintéticas e outros
+materiais sintéticos. Trocadores poliméricos de íons.
+661.183.123.2	Trocadores catiônicos.
+661.183.123.3	Trocadores aniônicos.
+661.183.123.4	Trocadores anfóteros de Íons. Anfótito
+                                  polimérico.
+661.183.123.6	Trocadores quelíferos de íons. Trocadores
+complexos de Íons.
+661.183.123.7	Trocadores eletrônicos de íons. Íonitos-redox.
+661.183.124	Derivados de silicatos naturais ou sintéticos.
+661.183.126	Derivados da celulose e seus derivados.
+661.183.2	Carbono ativado.
+661.183.3	Outros adsorventes orgânicos.
+661.183.4	Silicatos naturais. Terras naturais,
+661.183.5	Outros minerais naturais. Óxidos naturais.
+661.183.6	Silicatos sintéticos. Zeólitos sintéticos.
+661.183.7	Gel de sílica. Silica-gel.
+661.183.8	Óxidos inorgânicos sintéticos. Alumina ativada. Inclusive Gel hidróxido de alumínio.
+661.184	Semicolóides.
+661.185		Agentes ativos na superfície. Surfatantes. Inclusive Agentes umectantes, espumantes e emulsificantes. Detergentes. Agentes flotantes.
+	      → 648.18 Substâncias de lavagem. Soluções de lavagem. Substâncias para outros tipos de tratamentos
+       (alvejamento, engomaduras, etc.)
+	      → 66.063.5 Umedecimento, umidificação
+	      → 661.187 Indústria do sabão
+
+Subdivisões auxiliares especiais
+661.185-3	Misturas.
+Divisões principais
+661.185.2	Agentes iônicos orgânicos.
+661.185.22	Surfatantes aniônicos.
+661.185.23	Surfatantes catiônicos.
+661.185.3	Agentes anfolíticos (anfóteros).
+661.185.4	Surfatantes orgânicos não-iônicos.
+661.185.5	Surfatantes inorgânicos.
+661.185.6	Detergentes e limpadores (em pó, líquido ou
+pasta). Pós para arear.
+661.185.7	Agentes umectantes, espumantes e
+emulsificantes.
+661.185.72	Agentes umectantes.
+→ 66.063.5 Umedecimento, umidificação
+661.185.74	Agentes espumantes.
+→ 66.069.852 Formação de espuma. Espumejamento. Geradores de espuma
+661.185.76	Agentes emulsificantes.
+→ 66.063.61 Emulsificação
+661.185.8	Agentes flotantes.
+→ 622.765.061 Meios,s reagentes, etc., de flotação
+661.187	Indústria do sabão.
+Indicar o estado e a forma do sabão por meio de -4... (de 62-4...)
+                Exemplo(s) de combinação(ões):
+                     661.187-404 Sabão líquido 
+                     661.187-404.9 Sabão em pasta 
+                    661.187-412 Sabão em barra 
+                     661.187-492 Sabão em pó 
+                     661,187-493.5 Sabão em flocos 
+Subdivisões auxiliares especiais
+661.187.032	Preparo da barrela. Lixívia. Evaporação.
+661.187.033	Saponificação. Cocção.
+                     → 66,094,941.094.7
+661.187.034	Calcificação. Relargagem. Moagem. Retificação.
+661.187.035	Aprimoramento artificial. Tingimento. Perfumadura. Aditivos.
+661.187.036	Drenagem. Escorrimento. Bombeamento.
+661.187.037	Moldagem. Resfriamento. Formação de barras de sabão, etc.
+661.187.047	Secagem. (de 66.047)
+Divisões principais
+661.187.2	Matérias-primas para sabão. Inclusive Ácidos graxos. Resina. Álcalis colofônio
+661.187.4	Produção de sabões líquidos, sabões de potássio.
+661.187.5	Produção de sabões duros, sabões de sódio.
+661.187.6	Produção de sabões-de-marselha.
+661.187.7	Sabões segundo a composição.
+661.187.71	Sabões de sebo. Sabões de óxido de cálcio.
+661.187.72	Sabões de resina.
+661.187.73	Sabões de ácido oléico e sabões similares.
+661.187.74	Sabões semifrios. Sabões agitados a frio.
+661.187.76	Sabões que contêm detergentes sintéticos ou
+amaciantes de água. Sabões para água dura.
+661.187.8	Sabões segundo seu uso.
+661.187.83	Sabões domésticos.
+661.187.84	Sabões para uso na pele.
+→ 665.58 Cosméticos. Artigos de toalete
+661.187.842	Sabões de toalete. Sabonetes.
+661.187.843	Sabões para barbear.
+661.187.845	Sabões medicinais.
+661.187.85	Sabões abrasivos. Inclusive Sabões de pedra-pome.
+661.187.86	Sabões para lavar roupa.
+661.187.88	Sabões para outros usos.
+→ 621.892 Lubrificantes
+Exemplo(s) de combinação(ões):
+661.187.88:621.778.1 Sabões para trefilação
+661.188	Indústria de glicerol.
+661.188.1	Glicerol (glicerina).
+661.188.2	Recuperação de glicerol dos álcoois residuais na
+produção de estearato.
+661.188.3	Recuperação de glicerol de álcoois de sabão
+(lixívia usada) a partir da produção de sabão em
+vasilhames abertos.
+661.188.4	Recuperação de glicerol de álcoois de sabão
+(lixívia usada) a partir da produção de sabão em
+vasilhames fechados.
+661.188.5	Produção de glicerol técnico incolor.
+661.188.6	Produção de glicerol quirnicamente puro.
+Glicerol farmacêutico.
+661.188.7	Outros processos de fabricação de glicerol. Inclusive Produção de glicerol sintético. Glicerol obtido de processos de 
+                                fermentação.
+661.188.8	Derivados de glicerol.
+661.2	Produção do enxofre e seus
+derivados.
+661.21	Enxofre.
+661.211	Produção do enxofre a partir de minérios de
+enxofre nativos. Inclusive Flores de enxofre. Enxofre em bastão.
+661.214	Produção do enxofre a partir de matérias-
+primas com enxofre quimicamente ligado. Enxofre recuperado. Enxofre gasoso (subproduto).
+661.214.1	Enxofre a partir de piritas e outros sulfetos e
+concentrados.
+661.214.2	Enxofre a partir de gases que incluem gases de
+escape, residuais de vários processos de
+produção. Enxofre de óleo, carvão, xistos, etc..
+661.214.3	Enxofre a partir da gipsita, anidreto e outros
+sulfates.
+661.214.9	Outros métodos de produção de enxofre. Inclusive 
+A partir de soluções de água-forte, de borra, sedimento ácido e resíduos de processos que usam ácido sulfúrico.
+661.22	Compostos de enxofre com número de oxidacão-2.
+661.221	Sulfeto de carbono (dissulfeto, bissulfeto de carbono).
+661.222	Sulfeto de carbonila COS.
+661.224	Sulfeto de hidrogênio.
+661.225	Sulfetos. Dissulfetos. Polissulfetos.
+661.23	Compostos halogenados de enxofre. Inclusive Cloretos, brontetos, fluoretos de enxofre
+→ 661.4 Produção de halógenos e compostos halogenados, peroxocompostos inorgânicos
+661.24	Ácido sulfuroso. Sulfetos. Anidrido
+sulfuroso. Compostos de enxofre com
+número de oxidação +4.
+661.241	Ácido sulfuroso.
+661.243	Sulfetos. Hidrossulfetos (bissulfetos).
+661.245	Dicloreto óxido de enxofre. Cloreto de
+tionila. Fluoreto de tionila. Brometo de tionila.
+661.248	Dióxido de enxofre (anidrido ácido
+sulfuroso).
+661.25	Ácido sulfúrico.
+Exemplo(s) de combinação(ões):
+      661.25-404.512 Ácido sulfúrico concentrado
+661.251	Oleum (ácido sulfúrico fumegante).
+Monidrato de ácido sulfúrico.
+661.253	Produção de ácido sulfúrico por meio do
+ácido sulfúrico nitroso.
+661.257	Produção de ácido sulfúrico por processo de
+contato.
+→ 661.248 Dióxido de enxofre (anidrido ácido sulfuroso)
+661.27	Compostos do trióxido de enxofre com
+                                   halógenos e nitrogênio.
+661.28	Tiossulfatos. Ditionetos. Ditionatos.
+                                Politionatos.
+661.29	Outros compostos de enxofre.
+Especificar por meio de :546...
+→ 661.494 Peroxossulfato (persulfato). Ácido perosossulfúrico (ácido persulfúrico). Ácido de Caro
+→ 661.639.6 Sulfetos de fósforo. Sesquissulfeto de fósforo
+661.3	Produção de soda e potassa, de
+álcalis.
+661.33	Produção de soda e potassa. Indústria de
+soda e potassa.
+661.332	Carbonato de potássio. Potassa.
+→ 661.832 Carbonato de potássio. Potassa
+661.333	Carbonato de sódio. Soda calcinada. Soda
+em geral.
+→ 661.833 Compostos de sódio
+661.334	Soda densa.
+661.335	Cristais de soda.
+661.336	Hidrocarbonato de sódio (bicarbonato).
+661.34	Produção de álcalis. Álcalis em geral.
+Hidróxido de potássio. Hidróxido de sódio.
+661.342	Hidróxido de potássio (potassa cáustica).
+661.343	Hidróxido de sódio (soda cáustica).
+661.4	Produção de halógenos e
+compostos halogenados, peroxo-compostos inorgânicos.
+→ 661.23 Compostos halogenados de enxofre
+→ 661.723 Derivados halogenados de hidrocarbonetos simples
+→ 661.8’04 Compostos de elemento pentavalente
+661.41	Produção de cloro.
+661.413	Produção de cloro por oxidacão do ácido
+hidroclórico ou cloretos por meio de vários oxidantes. Métodos químicos de produção de cloro.
+Especificar os oxidantes por meio de -92... 
+Exemplo(s) de combinação(ões):
+                                          661.413-926.21 Produção de cloro por oxidacão de gás de cloreto de hidrogênio. Processo de Deacon 
+661.417/.418            Produção eletroquímica de cloro.
+661.417	Eletrólise de cloretos fundidos.
+661.418	Produção de cloro e álcalis por eletrólise de
+soluções fundidas.
+661.419	Produção de cloreto de hidrogênio e ácido
+hidroclórico.
+661.419.1	Cloreto de hidrogênio.
+661.419.4	Ácido hidroclórico.
+Exemplo(s) de combinação(ões):
+661.419.4.081.2 Absorção de cloreto de hidrogênio. Absorventes
+661.42		Cloretos. Sais naturais.
+661.43		Hipocloretos em geral. Ácido hipocloroso. Inclusive Removedores de manchas e alvejantes baseados em hipocloritos. Água sanitária
+→ 648.18 Substâncias de lavagem. Soluções de lavagem. Substâncias para outros tipos de tratamentos (alvejamento, engomadura, etc.)
+661.44		Cloratos em geral. Ácido clórico..
+661.45		Compostos de cloro não mencionados em outro lugar
+661.452	Óxidos de cloro.
+661.453	Cloretos em geral. Ácido cloroso.
+661.454	Percloratos em geral. Ácido perclórico.
+661.46	Brometo e compostos de brometo.
+661.461	Bromo.
+661.462	Brometos em geral.
+661.463	Hipobrometos em geral.
+661.464	Bromatos em geral. Ácido brômico.
+661.47	Iodo e compostos de iodo.
+661.471	Extração de iodo.
+661.472	Iodetos em geral.
+661.473	Hipoiodetos em geral.
+661.474	Iodatos em geral. Ácido iódico.
+661.48	Flúor e compostos de flúor.
+→ 661.8’036 Compostos de flúor
+661.481	Flúor.
+661.482	Fluoretos em geral.
+661.487	Fluoreto de hidrogênio. Ácido
+hidrofluórico.
+661.488	Ácido fluorossilícico. Fluorossilicatos em
+geral,
+→ 661.686 Compostos de silício que contêm halógenos
+661.49	Percompostos inorgânicos em geral. Sais
+peróxidos em geral.
+→ 661.8’024 Peróxido
+661.491	Peróxido de hidrogênio.
+661.493	Peroxocarbonatos (percarbonatos). Ácido
+peroxocarbônico (ácido percarbônico).
+661.494	Peroxossulfato (persulfatos). Ácido
+peroxossulfúrice (ácido persulfúrico). Ácido de Caro.
+661.495	Peroxoboratos (perboratos). Ácidos
+peroxobóricos.
+6.61.496	Peroxofosfatos (perfosfatos). Ácidos
+peroxofosfóricos (ácidos perfosfóricos).
+661.5	Produção de compostos de
+nitrogênio. Fixação do nitrogênio. Indústria do nitrogênio em geral.
+→ 631.461 Micróbios zimóticos do solo. Bactérias do solo. Microbiologia do solo
+→ 661.938 Nitrogênio
+→ 661.98 Óxidos de nitrogênio
+661.52	Produção de sais de amônio. Produção de fertilizantes nitrogenados em geral.
+      → 661.635.13 Fosfatos de amônio
+661.521	Cloreto de amônio (sal amoníaco).
+661.522	Sulfato de amônio.
+661.523	Carbonato de amônio. Misturas de carbonatos. Bicarbonato de amônio. Carbamato de amônio.
+6611.525	Nitrato de amônio. Salitre de amônia.
+661.526	Misturas (fertilizantes) à base de nitrato de amônio. Inclusive Sulfato-nitrato de amônio.
+661.53	Amônia.
+661.56	Ácido nítrico. Nitretos em geral.
+661.561	Produção de ácido nítrico a partir do nitrato
+de sódio e do ácido sulfúrico.
+661.565	Síntese a partir de oxigênio e nitrogênio.
+661.566	Produção de ácido nítrico diluído pela
+oxidação da amônia. Conversão da amônia.
+Exemplo(s) de combinação(ões):
+661.566.081.2 Absorção de dióxido de nitrogênio pela água
+661.567	Síntese direta do ácido nítrico concentrado
+a partir de óxidos de nitrogênio.
+661.57	Compostos de nitrogênio não mencionados
+acima.
+661.571	Nitretos. Azidas. Amidas de metal.
+661.572	Hidrazina e seus derivados.
+661.573	Hidroxilamina e seus derivados.
+661.574	Ácido nitroso. Nitritos em geral.
+→ 661.8’042 Nitrito
+661.575	Cloraminas.
+661.6	Produção de diversos ametais e
+semimetais (metalóides) e seus compostos.
+661.63	Produção de fósforo e seus compostos.
+Indústria do fósforo em geral.
+661.631	Fósforo.
+661.632	Fosfatos naturais. Produção de fertilizantes
+fosfóricos em geral.
+661.632.l	Processamento químico por meio de ácidos
+minerais. Método úmido.
+661.632.2	Produção de superfosfatos.
+661.632.7	Processamento térmico de fosfatos naturais.
+Fosfatos térmicos.
+661.632.9	Fosfatos de origem animal.
+→ 664.932.7 Carne em pó. Farinha de carne
+→ 664.957 Farinha de peixe
+→ 665/937 Processamento de ossos em geral
+661.634	Produção de ácidos que contêm fósforo. Inclusive Ácido ortofosfórico. Ácidos polifosfóricos.
+661.635	Sais que contêm fósforo. Ortofosfatos em geral.
+→ 661.8’045.5 Ortofosfato
+661.635.1	Fosfatos de metais alcalinos.
+661.635.11	Fosfatos de potássio.
+661.635.12	Fosfatos de sódio.
+661.635.13	Fosfatos de amônio.
+661.635.3	Misturas.
+661.635.4	Fosfatos de terras alcalinas.
+661.635.41	Fosfatos de cálcio.
+661.635.42	Fosfatos de magnésio.
+661.635.6	Fosfatos condensados (desidratados) em geral.
+661.635.64	Metafosfatos.
+661.635.66	Pirofosfatos.
+661.635.68	Polifosfatos.
+661.636	Hidreto de fósforo. Fosfetos.
+661.638	Compostos de fósforo que contêm
+halógenos.
+661.639.2	Fosfítos. Hipofosfatos. Hipofosfitos.
+661.639.3	Óxidos de fósforo.
+661.639.5	Nitretos de fósforo.
+661.639.6	Sulfetos de fósforo. Sesquissulfeto de fósforo.Pentassulfeto de fósforo.
+661.64	Produção de arsênico, arsenitos, óxidos e sais arsênicos.
+→ 661.8’046 Compostos de arsênico
+661.641	Arsênico.
+661.642	Compostos de arsênico com número de
+oxidação +3 em geral. Ácido arsenioso.
+661.642.l	Trióxido diarsênico (arsênico branco, arsênico
+comercial).
+661.642.5	Arsenitos.
+661.643	Compostos de pentóxido de arsênico em geral. Inclusive Pentóxido de arsênico. Ácido arsênico. Arsenatos e compostos análogos.
+661.644	Hidretos arsênicos. Halogenetos de arsênico.
+661.645	Compostos de arsênico com enxofre. Sulfetos de arsênico.
+661.65	Produção de boro e seus compostos.
+→ 661.8’061 Compostos de boro
+661.651	Processamento de minérios que contêm boratos. Inclusive Processamento de datolita, boracita, ulexita (boronatrocalcita), tinçal, quernita.
+661.652	Tetraborato bissódico (borato de sódio, bórax).
+661.654	Ácido bórico.
+661.657	Outros compostos de boro exceto os boratos e o ácido bórico.
+661.66	 Produção de carbono e seus compostos inorgânicos.
+→ 661.33 Produção de soda e potassa. Indústria de soda e potassa
+→ 661.8’062 Compostos inorgânicos de carbono
+→ 661.97 Produção de óxido de carbono, ácido carbônico, fosgênio
+661.664	Ácido hidrociânico (ácido prússico).
+Cianetos. Cianatos.
+→ 661.8’037 Compostos de cianeto
+→ 661.8’038 Tiocianato
+661.665	Produção de carbonetos em geral.
+661.665.l	Carboneto de silício (carborundum).
+661.665.2	Carbonetos de metais pesados.
+→ 669.018.25 Metais e ligas excepcionalmente duros ou resistentes ao desgaste (inclusive metais duros)
+661.665.3	Carboneto de boro.
+661.666	Carbono puro. Grafita. Negros de carbono.
+661.666.2	Grafita.
+661.666.3	Negro mineral.
+661.666.4	Carbono técnico. Negro de carbono. Inclusive Negro-de-fumo. Pó-de-sapato.
+661.666.5	Negros vegetais. Inclusive Carvão vegetal.
+661.666.6	Carvão animal. Carvão de osso. Carvão de sangue.
+→ 665.938 Preto-de-marfim. Carvão animal (negro-de-osso, carvão de osso)
+661.668	Carbonilas de metal em geral.
+661.669	Outros compostos de carbono. Inclusive Compostos de inserção.
+661.67	Azul ultramarino e pigmentos derivados. Inclusive Azul ultramarino e pigmentos derivados
+→ 667 Indústrias de pigmentos
+661.68	Produção de silício e seus compostos.
+→ 661.183.6 Silicatos sintéticos. Zeólitos sintéticos
+→ 661.665.1 Carboneto de silício (carborundum)
+→ 661.8’065 Ácido fluorossilícico. Fluorossilicatos em geral
+661.683	Silicatos de sódio e de potássio. Vidro solúvel.
+661.685	Silicoidretos. Silicetos.
+661.686	Compostos de silício que contêm halógenos. Inclusive Cloreto de silício. Brometo de silício. Fluoreto de silício.
+	      → 661.488 Ácido fluorossilícico. Fluorossilicatos em geral
+661.687	Compostos de silício a partir do nitrogênio. Inclusive Nitreto de silício.
+661.691	Selênio. Compostos de selênio.
+→ 661.8’056 Compostos de telúrio
+661.692	Telúrio. Compostos de telúrio.
+→ 661.8’056 Compostos de telúrio
+661.693	Germânio e seus compostos.
+→ Compostos de germânio
+661.699	Outros ametais ou semimetais e seus compostos.
+661.7	Produção de substâncias orgânicas.
+Produtos químicos orgânicos.
+                                        Indicar os produtos orgânicos que não são citados aqui em 661. 7...  por meio de :547...
+	      → 662.749.3 Alcatrão de carvão e seu processamento. Alcatrão de gás
+	      → 665.6 Tecnologia de óleos minerais. Tecnologia do petróleo e produtos afins
+	      → 665.9 Indústrias químicas orgânicas diversas
+661.71	Compostos orgânicos simples.
+→ 665.71 Produtos petroquímicos (como grupo)
+661.715	Hidrocarbonetos.
+661.715.1	Hidrocarbonetos alifáticos em geral.
+661.715.2	Hidrocarbonetos alifáticos saturados.
+      661715.2 dividido como 547.21
+661.715.3	Hidrocarbonetos alifáticos insaturados.
+      661.715.3 dividido como 547.31
+661.715.4	Hidrocarbonetos cíclicos em geral.
+661.715.5	Hidrocarbonetos monocíclicos, exceto o
+benzeno e seus homólogos. Polimetilenos. Inclusive Ciclopentano. Ciclopentadieno. Cicloexeno.
+661.715.6	Outros hidrocarbonetos policíclicos, exceto os exclusivamente de núcleos aromáticos.
+→ 662.749.3 Alcatrão de carvão e seu processamento. Alcatrão de gás
+661.715.7	Hidrocarbonetos aromáticos.
+661.716	Misturas de hidrocarbonetos alifáticos.
+661.716.l	Misturas de hidrocarbonetos saturados.
+661.716.2	Misturas de hidrocarbonetos insaturados.
+661.716.3	Misturas de hidrocarbonetos saturados com
+hidrocarbonetos insaturados.
+661.717	Compostos orgânicos nitrogenados.
+661.717.2	Compostos nitrados de hidrocarbonetos.
+661.717.3	Aminas.
+661.717.4	Nitrilas.
+661.717.5	Amidas.
+661.717.52	Uréia
+661.717.53	Acrilamida.
+661.717.55	Lactamos. Inclusive Caprolactamos.
+661.717.6	Isocianatos orgânicos.
+661.718	Compostos orgânicos de vários ametais.
+661.718.1	Compostos de fósforo.
+661.718.2	Compostos de arsênico.
+661.718.32	Compostos de antimônio.
+661.718.33	Compostos de bismuto.
+661.718.4	Compostos de boro.
+661.718.5	Compostos de silício.
+661.718.6	Compostos de germânio.
+661.719                  Compostos orgânicos de enxofre, selênio,
+                             telúrio.
+661.719.2	Compostos de enxofre.
+661.719.3	Compostos de selênio.
+661.719.4	Compostos de telúrio.
+661.72	Álcoois e seus derivados.
+→ 663.5 Álcool potável. Aguardentes. Destilação e refino de álcool
+661.721	Metanol (álcool metílico).
+661.722	Etanol (álcool etílico). Inclusive Álcool desnaturado.
+661.723	Derivados halogenados de hidrocarbonetos
+simples.
+→ 661.4 Produção de halógenos e compostos halogenados, peroxocompostos inorgânicos
+661.723.2	Derivados halogenados com um átomo de
+carbono.
+661.723.3	Hidrato de cloral. Cloral.
+661.723.6	Derivados halogenados com dois átomos de
+carbono.
+661.723.61	Derivados monoalogenados.
+661.723.62	Derivados dialogenados. Dicloroetileno.
+661.723.63	Derivados trialogenados. Tricloroetileno.
+661.723.64	Derivados tetraalogenados. Tetracloroetano.
+661.723.65	Derivados pentaalogenados. Pentacloroetano.
+661.723.66	Derivados hexaalogenados. Hexacloroetano.
+661.723.7	Derivados saturados com mais de dois átomos
+de carbono.
+661.723.7 dividido como 547.21
+661.723.8	Derivados insaturados com mais de dois
+átomos de carbono,.
+661.723.8 dividido como 547.31
+661.724	Éter dietílico (éter etílico, éter sulfúrico).
+661.725	Outros álcoois, exceto metanol e etanol.
+Álcoois poliídricos.
+Subdivisões auxiliares especiais
+661.725-11/-12      Ésteres de álcoois com ácidos inorgânicos que contêm oxigênio e seus sais.
+661.725-11/-12 dividido como 546.1/.2 
+     Divisões principais
+661.725.2	Álcool propílico.
+661.725.3	Álcool isopropílico.
+661.725.4	Butanóis (álcoois butílicos).
+661.725.5	Álcoois amilicos.
+      → 663.551.7 Óleo fóssil
+661.725.6	Álcoois alifáticos saturados monoídricos
+superiores (com mais de cinco átomos de carbono). Inclusive Hexanóis. Heptanóis. Octanóis.
+661.725.7	Álcoois alifáticos insaturados monoídricos.
+661.225.7 dividido como 547.36
+661.725.8	Álcoois poliídricos. Álcoois cíclicos.
+661.725.81	Álcoois poliídricos.
+Para a produção de glicerol, ver 661.188 
+661.725.81 dividido como 547.42, além dos compostos relacionados em 661.725.82... e glicerol
+661.725.82	Álcoois diídricos (glicóis, dióis) em geral. Éteres de álcool diídrico.
+661.725.822	Etilenoglicol.
+661.725.823	Propilenoglicol.
+661.725.84	       Álcoois que contêm outros elementos.
+661.725.841	      Álcoois que contêm halógenos.
+661.725.844	      Amino-álcoois (oxiaminas). Álcoois aminados.
+661.725.85	       Álcoois cíclicos.
+661.725.852	      Fenol.
+661.725.9	       Misturas de álcoois.
+661.726	      Outros éteres, exceto o éter dietil. Ésteres
+      de álcoois (exceto metanol e etanol) com
+      ácidos inorgânicos que contêm oxigênio.
+        661.726 dividido como 661.725
+661.727	Aldeídos. Cetonas.
+661.727.1	Formaldeído.
+661.727.2	Acetaldeído.
+661.727.3	Butilaldeido.
+661.727.4	Acetona.
+661.727.6	Metiletilcetona.
+661.727.7	Aldeído acrílico.
+661.727.8	Aldeídas e cetonas cíclicas. Inclusive Furfural.
+661.728	Celulose e seus derivados.
+Para os processou de produção de celulose, usar 676.02...
+→ 547.458.8 Celulose. Outros carboidratos das membranas da célula
+→ Pastas químicas. Pastas semiquímicas. Outras pastas que não são exclusivamente mecânicas
+→ 677.46 Fibras artificiais de celulose ou outros polissacarídeos
+→ 678.54 Plásticos baseados em celulose ou seus derivados
+661.728.7	Celulose.
+661.728.8	Derivados de celulose. Ésteres de celulose em
+geral.
+661.728.81	Formiato de celulose.
+661.728.82	Acetato de celulose.
+661.728.84	Xantato de celulose. Viscose.
+661.728.85	Outros ésteres orgânicos de celulose.
+661.728.86	Nitrato de celulose.
+661.728.88	Derivados cupramoniacais.
+661.728.89	Outros derivados de celulose. Inclusive Éteres de celulose.
+661.729	Peróxidos orgânicos.
+661.74	Ácidos orgânicos, seus sais, ésteres etc.
+      Indicar os sais e ésteres de ácidos particulares (...atos) acrescentando o digno 4 ao número para o ácido 
+Exemplo(s) de combinação(õcs):
+661.742.14 Sais e ésteres do ácido acrílico. Acrilatos
+→ 665.12 Ácidos graxos. Generalidades sobre a produção do ácido esteárico
+661.741	Ácidos carboxílicos saturados monobásicos.
+661.741l	Ácido acético (etanóico).
+→ 661.8’071.2 Acetato
+661.741.2	Ácido fórmico.
+→ 661.8’071.1 Formiato
+661.741.3	Ácido propiônico (propanóico).
+→ 661.8’071.3 Propionato
+661.741.4	Ácido butírico.
+→ 661.8’071.4 Butirato
+661.741.5	Ácido valérico.
+661.742	Ácidos carboxílicos insaturados
+monobásicos.
+661.742.1	Ácido acrílico (propenóico).
+661.742.2	Ácido metacrílico.
+661.743	Ácido dicarboxílico, saturado e insaturado.
+661.743.1	Ácido oxálico.
+→ 661.8’074.2 Oxalato
+661.743.2	Ácido succínico.
+661.743.3	Ácido adípico.
+661.743.4	 Ácido sebácico.
+661.743.7	 Ácidomaléico.
+661.743.73	 Anidridomaléico.
+661.743.78	 Ácido fumárico.
+661.744	 Ácidos aromáticos.
+661.744.1	Ácido benzóico.
+→ 661.8’078.2 Benzoato
+661.744.2	Ácidos ftálicos.
+661.744.22	Ácido ftálico (ácido ortoftálico).
+→ 661.8’078.4 Ftalato
+661.744.23	Ácido isoftálico.
+661.744.24	Ácido tereftálico.
+661.744.5	Ácido salicílico.
+→ 661.8’078.3 Salacilato
+661.745	Ácidos aromados. Aminoácidos.
+661.746	Ácidos hidroxílicos. Ácidos
+poliidroxicarboxílicos.
+661.746.l	Ácido glicólico (hidroxiacético).
+661.746.2	Ácido lático.
+→ 661.8’074.3 Lactato
+661.746.3	Ácido tartárico (diidroxissuccínico).
+661.746.4	Ácido glucônico.
+661.746.5	Ácido cítrico.
+→ 661.8’074.5 Citrato
+661.747	Oxiácidos.
+661.747.1	Ácido acetoacético.
+661.77	Compostos heterocíclicos.
+661.78	Compostos organometálicos c
+                               organossemimetálicos.
+661.782	 Compostos organossemimetálicos.
+661.782.2	De germânio.
+661.782.3	De arsênico.
+661.782.4	De antimônio.
+661.782.5	De bismuto.
+661.782.6	De telúrio.
+661.782.7	De polônio.
+661.783/.789            Compostos organometálicos diversos.
+661.783/.789 dividido como 546.3/.9
+661.784.7	Etilo de zinco.
+661.783/.789
+661.8	Compostos metálicos em geral. Sais. Compostos minerais.
+Para indicar compostos específicos (óxidos, bases, sais) não listados em outras partes, acrescentar os  auxiliares listados a seguir à divisão direta que representa o metal do ânion. Daí em diante, os compostos básicos (sais) e os compostos duplos ou complexos (sais) podem ser diferenciados pelo uso dos sufixos  ‘08 e ‘09
+Exemplo(s) de Combinação(ões):
+661.862’O27 Aluminatos (sais correspondentes ao oxido Al2O3) 
+Subdivisões auxiliares especiais
+661.8-11/-18                Valência (do elemento metálico no composto). 
+Exemplo(sj de combinação(ões):
+661.8-11 Monovalente
+66l.8-l2 Bivalente
+661.8’01		Compostos de especial importância.
+661.8’02		Óxidos.
+661.8’022	Óxido
+661.8’023	Hidróxido
+661.8’024	Peróxido
+661.8’027	Sais com óxido correspondente como resíduo ácido.
+661.8’027.1	Ácidos. Ácidos heteropólicos. Heteropoliácidos
+		      Dividir 661.8’027.1 como 546; p. ex.: 661.878’027.118.5 Ácido fosfotúngstico
+		Exemplo(s) de combinação(ões): 
+		      661.887’027.2 Bismutos
+		      661.8’027.2 dividido como 546
+661.8’027.2	Compostos metálicos com mais meais eletropositivos
+      Dividir 661.8`027.2 como 546
+Exemplo(s) de combinação(ões):
+      661.887`027.2 Bismutatos
+      661.8`027.2 dividido copmo 546
+661.8’027.3/.9	Sais de metais específicos
+		      661.8’027.3/.9 dividido como 546.3/.9
+661.8’03		Compostos halogenados. Compostos de cianeto. Hidreto.
+		      → 661.4 Produção de halógenos e compostos halogenados, peroxocompostos inorgânicos
+661.8’032	Compostos de cloro.
+661.8’032.1	Cloreto.
+661.8’032.2	Compostos oxiclorados.
+661.8’032.22	Hipoclorito.
+661.8’032.23	Clorito.
+661.8’032.25	Clorato.
+661.8’032.27	Perclorato.
+661.8’034	Compostos de bromo.
+      Dividir 661.8’034 como 661.8’032
+		      661.8’034 dividido como 661.8’032
+661.8’035	Compostos de iodo.
+      661.8’035 dividido como 661.8’032
+661.8’036	Compostos de flúor.
+		      661.8’036 dividido como 661.8’032
+661.8’037	Compostos de cianeto.
+661.8’037.1	Cianeto.
+661.8’037.2	Isocianato.
+661.8’037.3	Cianato.
+661.8’037.4	Fulminato.
+661.8’037.5	Crianamida.
+661.8’038	Tiocianato.
+661.8’039	Hidreto.
+661.8’04		Compostos de elemento pentavalente.
+661.8’041	Nitreto
+		      → 661.5 Produção de compostos de nitrogênio. Fixação de nitrogênio. Indústria do nitrogênio em geral
+661.8’042	Nitrito.
+661.8’043	Nitrato.
+661.8’044	Outros compostos de nitrogênio.
+661.8’044.3	Azida.
+661.8’044.5	Amida.
+661.8’045	Compostos de fósforo.
+		      → Produção de fósforo e seus compostos. Indústria do fósforo em geral.
+661.8’045.3	Fosfato.
+661.8’045.4	Metafosfato.
+661.8’045.5	Ortofosfato.
+661.8’046	Compostos de arsênico.
+		      → 661.64 Produção de arsênico, arsenitos, óxidos e sais arsênicos
+661.8’046.1	Arseneto.
+661.8’046.3	Arsenito.
+661.8’046.5	Arsenato.
+661.8’047	Compostos de antimônio.
+661.8’05		Compostos de enxofre, selênio e telúrio. Calcogenetos.
+661.8’051	Compostos de enxofre
+		      → 661.2 Produção de enxofre e seus derivados
+661.8’051.1	Sulfeto.
+661.8’051.6	Polissulfeto.
+661.8’052	Sulfito. Hidrossulfito.
+661.8’053	Sulfato. Sulfato de hidrogênio (bissulfato).
+661.8’053.2	Sulfato.
+661.8’053.7	Sulfato de hidrogênio.
+661.8’054	Outros compostos de enxofre.
+661.8’054.1	Pirossulfito. Pirossulfato.
+661.8’054.2	Tiossulfato.
+661.8’054.3	Ditionito.
+661.8’054.5	Peroxossulfato (persulfato).
+661.8’055	Compostos de selênio.
+661.8’056	Compostos de telúrio.
+661.8’061	Compostos de boro.
+      → 661.65 Produção de boro e seus compostos
+661.8’062	Compostos (inorgânicos) de carbono.
+		      → 661.66 Produção de carbono e seus compostos inorgânicos
+661.8’065	Compostos de silício.
+661.8’067	Compostos de germânio.
+661.8’07		Sais, ésteres orgânicos, etc.
+		      → 661.74 Ácidos orgânicos, seus sais, ésteres, etc.
+661.8’071	Sais de ácidos graxos saturados com menos de dez átomos de carbono.
+661.8’071.1	Formiato.
+661.8’071.2	Acetato.
+661.8’071.3	Propionato.
+661.8’071.4	Butirato.
+661.8’074	Sais diversos de ácidos alifáticos.
+661.8’074.2	Oxalato.
+661.8’074.3	Lactato.
+661.8’074.5	Citrato.
+661.8’075	Sais de ácidos alifáticos com cadeias longas.
+661.8’075.2	Palmitato.
+661.8’075.3	Esterato.
+661.8’075.6	Oleato.
+661.8’075.7	Linoleato
+661.8’075.9	Resinato.
+661.8’078	Sais de ácidos aromáticos
+661.8’078.2	Benzoato.
+661.8’078.3	Salicilato.
+661.8’078.4	Ftalato.
+661.8’08		Sais básicos.
+661.8’09		Sais duplos e complexos.
+      Quando se tratar de sais duplos, deve-se usar a divisão principal de 661.8 e subdivisões adicionais, como em
+    546.
+      Dividir 661.8’09 como 546; p. ex.: 661.842’045.5’091.6 Fosfato de fluoreto de cálcio.
+661.8’099.9	Misturas.
+
+
+
+
+85
+
+

@@ -1,0 +1,2508 @@
+﻿              64 Economia doméstica. Ciência doméstica
+
+Classificam-se em 64 informações sobre o lar, inclusive os artigos domésticos do
+ponto de vista do seu uso; classificam-se também atividades domésticas e trabalho doméstico em
+escala comercial (p. ex., serviços de alimentação, de limpeza, de lavanderia de hotéis)
+Os auxiliares -1/-9,  de 62-1/-8 e 66-9 são aplicáveis em toda a classe 64
+Exemplo(s) de combinação(ões):
+4-182.1 Partes integrantes de edifício ou estrutura
+64-182.22 Adaptadas. Inerentes
+64-182.3 Móveis. Transportáveis
+64-182.7 Com partes ajustáveis, móveis. Conversíveis. Adaptáveis
+64-52 Controle automático
+ 
+Subdivisões auxiliares especiais
+64.01	Princípios gerais de economia doméstica.
+Teoria e prática de organização do lar.
+Teoria da economia doméstica e
+administração doméstica.
+64.011	Princípios gerais de economia doméstica.
+64.011.1	Objetivo e metas da economia doméstica.
+Diretrizes. Educação da administração. Relações
+entre os objetivos da economia doméstica e os
+objetivos de indivíduos e grupos.
+      →640.52 Instituições de grande porte segundo sua função primária
+64.011.2	Avaliação. Definição de indicadores, valores-
+padrão, valores das metas.
+Especificar as questões metodológicas por meio de :303.2...
+64.011.22	Indicadores. Valores reais. Inclusive Padrão de
+vida. Nível de abastecimento. Nível de
+mecanização.
+64.011.23	Valores-alvo, valores das metas.
+64.011.3	Recursos. Meios materiais.
+      → 658.2 Instalações e fábrica. Propriedades. Edifícios, instalações, oficinas, materiais
+64.011.32	Recursos materiais.
+64.011.34	Recursos humanos.
+      → 331Trabalho. Emprego. Economia do trabalho. Organização do trabalho
+      → 64.04 Indústria hoteleira e de fornecimento de refeições
+      → 658.3 Relações humanas na empresa. Pessoal
+64.011.4	Produtividade. Eficácia. Racionalização.
+Consciência dos custos.
+      64.011.4 dividido como 65.011.4
+64.011.5	Trabalho manual. Mecanização e automação do lar.
+64.011.5 dividido como 65.011.5
+64.011.54	Mecanização.
+64.011.6	Situação, circunstâncias do lar.
+64.011.61	Estabilidade.
+64.011.62	Continuidade.
+64.011.63	Descontinuidade.
+64.011.64	Mudanças.
+64.011.65	Problemas. Colapso.
+64.011.7	Erros. Falhas. Deficiências. Abusos.
+                                      64.011.7 dividido como 65.011.7
+64.011.8	Melhoramentos. Reformas. Reorganização.
+64.012	Métodos em economia doméstica.
+Planejamento. Organização.
+      → 001.8 Metodologia
+      → 303 Métodos das ciências sociais
+64.012.1	Observações. Pesquisas. Testes.
+      64.012.l dividido como 65,012.1
+64.012.2	Planos. Programas. Auxílio ao planejamento.
+	      64.012.21/.27 dividido como 65.012.211.27
+64.012.28	Processo decisório.
+64.012.282	Processos de tomada de decisão.
+64.012.282.2            Decisões de rotina.
+64.012.282.4	Decisões impulsivas.
+64.012.284	Técnicas de tomada de decisão.
+64.012.284.2	Planejamento do orçamento.
+Planejamento em relação a tempo e dinheiro.
+64.012.284.4	Planejamento com data limite.
+64.012.3	Formas de organização. Estrutura
+organizacional.
+64.012.32	Formas de organização.
+64.012.32 dividido como 65.012.32
+64.012.34	Estrutura organizacional.
+64.012.341	Demarcação de funções e tarefas. Inclusive
+Especialização. Diferenciação de funções.
+Extensão de funções.
+64.012.343	Centralização. Coordenação.
+64.012.4	Administração doméstica.
+      Especificar por meio de : 65...
+64.012.5	Execução. Implementação.
+64.012.6	Colaboração. Cooperação. Compartilhamento de
+experiências. Solução de problemas.
+      64.012.6 dividido como 65.012.6
+64.012.7	Inspeção. Supervisão. Controle.
+      → 658.562 Controle das operações. Supervisão da produção. Controle e inspeção de qualidade 
+64.012.8	Respeito ao sigilo. Medidas de proteção.
+Segurança.
+64.013	Aspectos sociológicos e psicológicos.
+Inclusive Preferência. Aspiração. Satisfação.
+64.016	Desenvolvimento. Evolução.
+→ 640.16 Residências segundo o estágio da família
+64.017	Tamanho. Extensão. Número de pessoas
+pertencentes ao lar.
+64.017 dividido como 65.017
+64.018	Qualidade. Nível.
+64.018 dividido como 65.018
+64.03	Administração das finanças domésticas.
+Compra. Interesses, política e pesquisa sobre consumidores.
+→ 330.567.2 Gastos. Consumo. Poupança. Economia
+64.031	Planejamento de despesas. Orçamento doméstico.
+      Especificar por meio de : 65 7...
+      → 634.012 Métodos em economia doméstica. Planejamento. Organização
+64.031.2	Orçamento doméstico.
+64.031.3	Educação financeira. Orientação sobre
+orçamento.
+64.031.4	Meios, recursos disponíveis.
+64.031.42	Renda, receita.
+64.031.44	Crédito do consumidor.
+Exemplo(s) de combinação(ões):
+64.031.44:332 Empréstimos com hipoteca de terras. Empréstimos com hipoteca de propriedades. Hipotecas
+		      → 336.77 Crédito. Função econômica do crédito
+64.031.6	Despesas domésticas. Administração financeira.
+Estimativas de custos. Fechamento de contas. Equilíbrio entre receita e despesa.
+64.033	Fazer compras. Consumo. Comportamento
+do consumidor.
+64.033.2	Análise. Pesquisa.
+64.033.3	Tomada de decisão.
+64.033.4	Comparação de custos.
+64.033.5	Comportamento nas compras.
+64.033.52	Compra de rotina.
+64.033.54	Compra por impulso.
+64.033.56	Compra como resultado de uma decisão genuína,
+não como questão de rotina.
+64.033.6	Comportamento durante o uso ou consumo,
+64.034	Encomenda, compra por encomenda em catálogos, por telefone, de caixeiros viajantes ou representantes comerciais.
+64.035	Tipos de conta. Métodos de pagamento.
+		      → 336.71 Operações bancárias
+64.036	Estudos sobre renda e consumo.
+64.038	Meios e métodos.
+64.038.l	Medidas cabíveis dentro do direito público.
+64.038.2	Medidas cabíveis dentro do direito privado.
+64.038.4	Representação dos consumidores.
+64.04	Serviços, tarefas, atividades domésticas.
+      → 64.011.34 Recursos humanos
+	      → 647 Empregados domésticos
+64.041	Serviços executados por moradores da casa.
+64.041.l	Serviços executados por membros da família ou
+outros parentes.
+Especificar por meio de -055.5/.7.
+64.041.3	Serviços executados por outros moradores da casa.
+64.041.4	Serviços executados por empregados residentes.
+64.042/.045	Serviços, trabalhos domésticos executados por
+não moradores. 
+      → 364.4 Campos de prática em trabalho social
+64.042	Serviços parciais executados por não
+moradores.
+64.042.1	Por membros da família.
+64.042.2	Por vizinhos, pela vizinhança.
+64.042.3	Por estranhos. Por conhecidos.
+64.042.4	Por empregados domésticos externos,
+não moradores.
+64.042.5	Por organização coletiva. Inclusive Serviços
+domésticos em condomínios ou hotéis
+de residência.
+64.042.6	Por empresas de manutenção e consertos.
+Inclusive Limpadores de janela. Lavanderias.
+Lavanderias a seco. Costureiras de consertos.
+64.043	Serviços completos externos. Serviços de A/Z.
+64.044	Serviços especiais por pessoas ou organizações externas à casa.
+64.044.3	Centros de serviços.
+64.045	Entrega regular (p. ex., diária) de alimentos
+jornais, refeições quentes, etc.
+64.047	Tarefas domésticas. Trabalho doméstico.
+Inclusive Distribuição de tarefas. Divisão do
+trabalho. Introdução da especialização de
+tarefas. Administração doméstica. Cuidados
+de alimentação, vestuário, arrumação de
+casa, da família, plantas, animais
+domésticos, jardim. Requisitos e
+manutenção da casa.
+Especificar por meio da combinação com dois ponto s:...
+64.048	Estudo do trabalho e dos métodos de
+trabalho no lar. Inclusive Análise do
+trabalho. Projeto, instalação e equipamento
+dos lugares de trabalho no lar. Adaptação,
+armazenamento e arrumação dos móveis,
+equipamento, utensílios, provisões e ajudas
+para as diversas tarefas domésticas.
+      → 612.76 Locomoção. Princípios da mecânica animal
+64.05	Economia doméstica. Manutenção,
+mobiliamento, equipamento da casa, etc.
+para determinados tipos de pessoas.
+64.05 dividido como 05 (Tabela Ik)
+641.053.2 Alimento para crianças
+64.06	Máquinas e utensílios domésticos.
+Dispositivos para diminuir o trabalho
+doméstico.
+64.061	Finalidades e possíveis aplicações.
+64.061.2	Diminuição de trabalho, redução de esforço.
+64.061.4	Economia de tempo.
+64.061.6	Aplicações programadas.
+64.062	Tipos de controle.
+64.063	Tipos de carregamento, de arranjos.
+      64.063 dividido como 648.23.063
+64.064	Tipos de descarregamento.
+      64.064 dividido como 648.23.064
+64.065	Inserções.
+64.066	Consumo. Conseqüências do uso. Medidas de segurança.
+64.066.2	Consumo.
+64.066.22	Consumo de energia.
+64.066.24	Consumo de água
+64.066.26	Consumo de materiais.
+64.066.4	Conseqüências do uso e consumo. Inclusive Uso
+e desgaste das coisas. Conseqüências para a
+saúde e para o meio ambiente.
+64.066.8	Segurança
+      → 614.8 Acidentes. Riscos. Proteção contra acidentes. Proteção pessoal, segurança
+64.067	Utensílios segundo a utilização de aditivos.
+64.068	Utensílios de ventilação e sucção.
+Exemplo(s) de combinação(ões):
+641.53.068 Em fogões 
+648.525.068 Em aspiradores de pó
+64.069	Compra. Instalação. Manutenção,
+Remoção. Custos.
+64.069.2	Seleção de marcas e modelos.
+64.069.3	Instalação. Arranjo e adaptação do ambiente, do
+espaço. Condições para instalação e conexão.
+64.069.4	Manutenção.
+64.069.5	Reparos.
+64.069.6	Garantias. Serviços de atendimento
+ao consumidor.
+64.069.7	Descarte.
+64.069.72	Venda. Revenda, Troca.
+64.069.74	Doação.
+64.069.76	Ferro-velho.
+64.069.8	Custos. Lucros.
+64.08	Mudança de residência. Mudanças.
+
+  640 Tipos de residência e de administração doméstica
+ 
+Divisões principais
+640.1	Residências particulares.
+640.12	Método de administração doméstica.
+Inclusive Funções das residências
+particulares.
+640.16	Residências segundo o estágio da família.
+640.162	Residências de famílias nucleares segundo
+o estágio da família.
+640.162.2	Fase preliminar.
+640.162.4	Vida em conjunto de um casal, casado ou
+não, sem filhos.
+640.162.6	Vida em conjunto de um casal, casado ou não,
+com filhos vivendo em casa.
+Especificar por meio de -053...
+640.162.7	Vida em conjunto de um casal, casado ou não, cujos filhos já saíram de casa.
+640.162.8	Família nuclear incompleta
+640.163	Residências onde moram famílias que
+abrangem mais de uma geração.
+640.164	Residências onde moram mais de
+uma família.
+640.165	Residências com tipos alternativos
+de família.
+640.166	Residências sem uma família nuclear.
+640.166.2	Residências de pessoas independentes.
+Residências de pessoas solteiras.
+640.166.4	Residências onde moram mais de uma pessoa.
+640.2	Atividades de administração
+doméstica em empresas.
+     → 331.424.4 Cantinas
+     → 640.6 Domicílios centralizados
+640.23	Em empresas comerciais.
+640.25	Em empresas públicas.
+640.4	Indústria hoteleira e de
+fornecimento de refeições.
+640.41	Hotéis. Pousadas. Motéis. Albergues, estalagens, hospeda rias.
+	      → 728.5 Hotéis. Pensões. Albergues, pousadas para viajantes
+640.412	Hotéis.
+640.414	Motéis
+640.415	Botéis (que fornecem ancoradouro e comodidades para pernoite)
+640.416	Inns. Inclusive Coaching inns. Caravanserais 
+6490.418	Albergues. Inclusive Albergues para a juventude.
+640.42	Pensões. Casas de hóspedes. Casas,
+apartamentos, quartos mobiliados
+para aluguel.
+640.43	Restaurantes. Bares.
+      → 642.5 Organização de refeições para grande número de pessoas para grupos de turistas ou outros grupos. Refeições de auto-serviço, etc.
+640.432	Restaurantes.
+640.433	Restaurantes de serviço expresso.
+Restaurantes de auto-serviço.
+640.434	Restaurantes de máquinas automáticas.
+640.435	Bares. Lanchonetes. Casas de chá e doces.
+640.436	Lojas com instalações para consumo
+imediato de alimento.
+640.437	Pontos de venda de determinados alimentos.
+640.438	Outras empresas com instalações para
+serviço de refeições.
+640.44	Casas de chá. Cafés. Casas de vinhos.
+Bares. Botequins.
+640.441	Casas de chá. Cafés.
+640.442	Cafés.
+640.443	Bares. Casas de vinho. Tavernas.
+640.444	Leiterias, casas que servem leite
+e derivados.
+640.445	Lojas com instalações para consumo
+imediato de bebidas.
+640.446	Barracas, carrocinhas ao ar livre para
+venda de bebidas.
+640.447	Venda de sorvetes. Sorveterias.
+640.45	Serviços de fornecimento de alimentos.
+Fornecimento de refeições prontas.
+      → 641.557 Preparo de refeições feitas de antemão para entrega ou consumo imediato
+640.452	Para residências.
+640.454	Para residências grandes.
+640.456	Para casas comerciais. Inclusive para
+aeroportos. Para locais de filmagem.
+640.46	Clubes. Sociedades. Cassinos.
+640.5	Para instituições de grande porte.
+640.52	Instituições de grande porte segundo sua
+função primária.
+640.522	Instituições. Inclusive Hospitais.
+	       A função básica não é a economia doméstica.
+640.522.2	Instituições de atenção à saúde.
+640.522.4	Estabelecimentos educacionais.
+640.522.5	Alojamentos.
+640.523	Clubes.
+	      A função básica não é economia doméstica e inclui apenas parte dela.
+640.525	Instituições coletivas, cooperativas.
+A função é sempre a de resolver problemas domésticos.
+640.53	Domicílio grande segundo a função que
+desempenha em relação ao grupo primário.
+640.54	Domicílio grande segundo a extensão
+dos serviços.
+640.542	Domicílios completos.
+640.544	Domicílios incompletos.
+640.55	Domicílios grandes segundo a autoridade
+e o poder que tomam as decisões
+econômicas.
+640.57	Domicílios grandes segundo as decisões
+econômicas.
+640.572	Princípio da lucratividade.
+640.574	Princípio do consumo.
+640.576	Princípio da conservação do capital.
+640.6	Domicílios centralizados. Inclusive
+Em a pa rt- hotéis.
+      → 640.2 Atividades de administração doméstica em empresas
+640.7	Domicílios em casas de campo, de fins-de-semana, em comunidades de fins-de-semana.
+640.8	Domicílios temporários. Inclusive Para grupos de turistas.
+640.85	Em passeios e excursões a pé.
+640.87	Em passeios e excursões a pé e em acampamentos com grande número de participantes. 
+
+   641/642 Alimentos. Preparação de alimentos. Pratos. Refeições
+
+→ 338.439 Economia da produção e oferta de alimentos. Economia da indústria de alimentos. Economia dos   alimentos.Aspectos econômicos da alimentação
+                              	      → 612.39 Nutrição
+                              	      → 613.2 Dietética. Princípios da nutrição aplicados à alimentação e aos alimentos
+                              	      → 614.31 Fiscalização de alimentos
+                              	      → 63 Agricultura e ciências e técnicas afins. Silvicultura. Agronomia. Aproveitamento da vida selvagem
+                              	      → 663 Microbiologia industrial. Micologia industrial. Zimotecnia, indústria da fermentação. Indústria de bebidas. 
+                                     Indústria de estimulantes
+                              	      → 664 Produção e conservação de alimentos sólidos
+641 		Alimentos. Preparação de alimentos. Pratos
+Exemplo(s) de combinação(ões):
+641.033 Compra de alimentos 
+641.053.2 Alimentos para crianças
+ 
+641.1	Alimentos do ponto de vista de
+suas propriedades. Valor nutritivo.
+641.12	Proteínas. Alimentos nitrogenados.
+Inclusive Carnes. Ovos. Nozes. Verduras.
+      → 612.398 Proteínas. Alimentos nitrogenados
+      → 613.262 Frutas. Vegetais. Legumes. Tubérculos
+641.13	Carboidratos. Inclusive Cereais. Frutas. Açúcares.
+      → 612.396 Carboidratos
+      → 613.263 Alimentos amiláceos. Carboidratos
+641.14	Gorduras.
+      → 613.268 Óleos e gorduras vegetais
+      → 613.288 Gorduras. Alimentos gordurosos
+641.16	Água.
+      → 612.392.3 Assimilação da água
+      → 613.31 Água. Curas de água. Desidratação. Gelo
+641.17	Sais. Componentes minerais. Cinzas.
+      → 612.392.6 Sais minerais
+      → 613.27 Alimentos minerais
+641.18	Vitaminas. Substâncias que promovem o
+crescimento. Temperos. Condimentos.
+Estimulantes.
+	      → 612.393 Ação de estimulantes, irritantes, intoxicantes, condimentos
+	      → 613.291 Condimentos. Tempero. Especiarias. Ervas culinárias. Vinagre
+	      → 613.292 Fortificantes. Tônicos. Estimulantes. Alimento enriquecido
+641.3	Alimentos segundo a origem ou a estação do ano
+Exemplo(s) de combinação(ões): 
+641.3:613.26 Alimentos vegetais 
+641.3“324” Alimentos de inverno
+641.4	Conservação dos alimentos
+em casa.
+641.42/.44	Processos de preparo e conservação.
+641.42/.44 dividido como 664.8.02/.04
+641.437	Conservação por refrigeração.
+641.421.44
+641.447	Conservação por desidratação.
+Exemplo(s) de combinação(ões):
+641.45	Beneficiamento, conservação e tratamento
+final de bebidas.
+641.45 dividido como 663.05
+641.48	Conservas feitas em casa.
+Especificar por meio de :664.8/.9
+641.5	Preparo de alimentos e refeições.
+Cozimento.
+Exemplo(s) de combinação(ões):
+641.5:642.14 Preparo do almoço, da refeição do meio do dia
+641.5.06 Utensílios de cozinha
+641.51/.54		Cozimento dos alimentos.
+      → 641.55/.56 Preparo das refeições, da seqüência de pratos
+641.51	Tratamento preparatório dos alimentos. Molhos, recheios de alimentos.
+Exemplo(s) de combinação(ões):
+      641.51.06 Equipamento, máquinas para preparo de alimentos
+      → 641.544 Acessórios para preparo de alimentos
+641.512	Cortar. Fatiar. Picar. Moer. Triturar.
+      → 621.927.7 Moinhos pequenos para fins especiais
+      → 621.937 Cortadores. Fatiadores
+      → 621.968 Máquinas e utensílios para fender, rachar e separar
+641.513	Lavagem.
+      → 621.928.4 Separação por meio de água, de lavagem. Separadores e classificadores de ciclone
+641.514	Raspar. Descascar. Descaroçar. Filtrar. Misturar. Bater, etc.
+      → 631.361.7/.8
+641.514.2	Raspagem. Escovagem.
+641.514.3	Descascamento.
+641.514.4	Descaroçamento. Retirada do talo.
+641.514.6	Filtragem. Peneiragem.
+      → 621.928.2 Peneiras. Telas. Crivos. Processos e equipamento de peneiramento e crivação
+641.514.7	Espremedura. Esmagamento. Centrifugação.
+641.514.8	Misturar. Liquefazer. Sovar. Bater.
+      → 621.929 Mistura de sólidos ou semi-sólidos. Amálgama de sólidos com líquidos
+641.516	Abertura de recipientes. Remoção de fechos, tampas, rolhas, etc. Abertura de latas. Abertura de garrafas.
+      → 672.466 Abridores de lata. Dispositivos manuais e mecânicos para abrir latas
+      → 683.564 Dispositivos para abrir garrafas e outros recipientes. Abridores de garrafas
+641.517	Medição e peso de alimentos.
+641.518	Tratamento prévio com vários acessórios.
+Inclusive Desossamento. Depenamento.
+Enformagem. Abertura de furos.
+641.52	Processos culinários que usam calor
+ou frio.
+641.521	Aquecimento do alimento em geral.
+      → 641.53/.54
+641.522	Aquecimento em gordura.
+641.522.2	Fritura em gordura-
+641.522.3	Cozimento em gordura.
+641.522.4	Assamento em gordura. Assado.
+641.523	Aquecimento úmido.
+641.523.3	Cozimento sem gordura.
+641.523.6	Grelhado.
+641.524	Aquecimento molhado. Aquecimento
+em líquidos.
+641.524.2	Fervura na água.
+641.524.3	Fervura em outros líquidos. Inclusive
+Fervura no leite.
+641.524.4	Destilação.
+641.524.5	Escaldamento.
+641.524.6	Infusão.
+641.525	Cozimento no vapor.
+Exemplo(s) de combinação(ões):
+641.525-987 Cozimento no vapor sob alta pressão
+641.526	Aquecimento seco.
+641.526.2	Aquecimento no ar quente. Assamento.
+641.526.3	Assado em grelha.
+641.526.4	Assado em espeto.
+641.526.5	Tostado. Grelhado.
+641.526.6	Gratinado. Colocar crosta.
+641.526.7	Torrado, torrefação. Inclusive Torrefação de
+grãos de café, de castanhas.
+641.527	Aquecimento.
+641.527.2	Aquecimento direto, p. ex., de bebidas e outros
+alimentos preparados.
+641.527.4	Aquecimento indireto, inclusiveAaquecimento na
+panela. Aquecimento em banho-maria.
+641.528	Resfriamento.
+641.528.2	Deixar esfriando.
+641.528.6                  Congelamento.
+Somente de alimentos que são consumidos gelados
+641.53	Cozimento com vários utensílios de aquecimento.
+→ 683.9 Aparelhos de aquecimento. Estufas
+Especificar o equipamento de cocção das cozinhas (fogões, fornos, estufas,  etc.) por meio de .06
+Subdivisões auxiliares especiais
+641.53.09	Equipamento de cocção ou aquecimento da
+cozinha segundo o tipo de transferência de calor.
+641.53.092	Principalmente por radiação.
+641.53.093	Principalmente por condução.
+641.53.094	Principalmente por convecção.
+641.53.095	Por radiação e convecção combinadas.
+Divisões principais
+641.532	Cocção com equipamento que utiliza
+combustível sólido
+641.533	Cocção com equipamento que utiliza
+combustível líquido. Inclusive Cocção com fogões a óleo, álcool, querosene, etc.
+641.534	Cocção com equipamento a gás.
+641.535	Cocção com equipamento elétrico.
+      → 621.365 Geração de calor pela eletricidade. Aquecimento elétrico
+641536	Cocção com equipamento que utiliza fontes
+mistas, combinadas, de calor (p. ex., fogões
+a gás e elétricos).
+641.538	Cocção com equipamento a vapor e água quente. Inclusive Geradores de vapor.
+641.539	Cocção com outros equipamentos de
+aquecimento. Inclusive Cocção com energia solar. Cocção com radiação infravermelha. Cocção por microondas.
+641.54	Utensílios de cozinha. Vasilhames de
+cozinha. Acessórios de cozinha.
+Indicar a fonte de energia por meio de -8... , (de 62) 
+Exemplo(s) de combinação(ões):
+641.542.4-83 Panelas para cozimento a vapor com elemento de aquecimento elétrico
+641.542	Vasilhames de cozimento e equipamento similar.
+	      → 621.642.1 Vasilhames portáteis e móveis
+641.542.l	Fervedores de água. Chaleiras.
+641.542.2	Panelas. Caçarolas. Frigideiras.
+641.542.22	Panelas com complementos.
+641.542.23	Caçarolas.
+641.542.26	Cafeteiras. Chaleiras. Máquinas de fazer café.
+Coadores, percoladores. Dispositivos para fazer café, chá. Samovares, etc.
+Exemplo(s) de combinação(ões):
+                                         641.542.26.065 Complementos. Filtros, etc.
+641.542.3	Panelas de pressão. Autoclaves.
+641.542.4	Panelas de cozimento a vapor. Inclusive
+Sobrepostas. Para batatas e verduras.
+641.542.5	Vasilhames para cozimento em banho-maria.
+Vasilhames para cocção em areia.
+641.542.6	Gabinetes de ar quente. Estufas.
+641.542.7	Panelas para fritar, assar.
+641.542.72	Panelas para fritar. Frigideiras.
+641.542.73	Formas de assar. Assadeiras. Formas de bolo.
+641.542.74	Panelas de óleo. Panelas de fritar batatas.
+641.542.75	Tabuleiros de assar. Tabuleiros de fritar.
+Fritadeiras fundas. Utensílios automáticos de assar.
+641.542.8	Equipamento para descongelamento.
+Equipamento para aquecimento.
+      → 541.546.2 Equipamento para manter o alimento quente, frio ou fresco
+641.544	Acessórios para preparo de alimentos.
+      → 641.51 Tratamento preparatório dos alimentos. Molhos, recheios de alimentos
+641.544.2	Pequenos acessórios.
+641.544.22	Faqueiro de cozinha. Colheres de cozinha, etc.
+641.544.24	Peneiras. Urupemas. Crivos.
+641.544.26	Tábuas para cortar, picar pão, carne, etc. Tábua
+de carne. Tábua de pão. Tábua de queijo.
+641.544.3	Acessórios para assar, fritar, dourar.
+641.544.5	Dispositivos para manusear, limpar, etc.
+peixe, carne, aves.
+641.544.6	Dispositivos para dar forma.
+Exemplo(s) de combinação(ões):
+641.544.6:637.2 Formas de manteiga
+641.544.7	Suportes, descansos em geral. Esteiras.
+Porta-copos. Cobertas. Dispositivos
+para segurar os vasilhames.
+641.544.72	Apoios de vasilhames. Bases de amianto.
+Distribuidores de calor. Cobertas quente para vasilhames de cozimento. Abafadores.
+641.544.74	Suportes de bolo.
+641.544.75	Tampas de vasilhames. Prendedores de tampas.
+Seguradores de tampas.
+641.544.77	Dispositivos para segurar, manter firme,
+pendurar. Inclusive Ganchos. Alças.
+Dispositivos para levantar a panela. Seguradores
+de panela. Ganchos de panelas. Panos para
+pegar no forno.
+641.544.8	Equipamento para limpar alimentos. Baldes.
+bacias, vasos. Recipientes para uso em pias.
+641.546	Equipamento para manter o alimento
+quente, frio ou fresco.
+641.546.2	Equipamento para manter o alimento quente.
+641.546.22	Compartimentos aquecidos. Chapas
+Quentes, etc.
+641.546.26	Vasilhames com isolamento. Frascos com
+isolamento. Frascos de vácuo. Garrafas térmicas.
+641.546.28	Dispositivos para aquecer por meios químicos
+ou elementos calóricos.
+641.546.3	Equipamento para manter o alimento frio.
+Inclusive Recipientes, coberturas porosas, etc. (p.
+ex., refrigeradores de manteiga, de leite).
+Resfriamento por meio de gelo, de substâncias
+químicas, por outros meios.
+641.546.4	Equipamento de refrigeração e congelamento.
+      → 621.56 Refrigeração em geral. Produção de temperaturas baixas
+641.546.42	Equipamento e máquinas para preparo de cubos
+de gelo, de gelo moído.
+641.546.43	Compartimentos de gelo. Caixas de gelo.
+641.546.44	Refrigeradores.
+641.546.45	Congeladores. Freezers.
+641.546.46	Refrigeradores e congeladores combinados-
+641.546.5	Dispositivos, recipientes, prateleiras, etc. para
+manter o alimento fresco (por longo tempo).
+Inclusive Coberturas para pedaços cortados.
+Cestas de pão. Frascos e caixas. Prateleiras de
+ovos. Coberturas contra insetos.
+641.548	Transporte e distribuição do alimento.
+Arranjos para transporte e serviço. Transportadores, prateleiras, carrinhos (inclusive Carrinhos aquecidos). Veículos de alimentos. Elevadores de alimentos.
+		      → 621.86/.87 Tecnologia da manipulação de materiais. Equipamento de transporte
+	      → 643.64 Sistemas de transporte domésticos
+641.55/.56	Preparo das refeições, da seqüência de pratos.
+      → 613.21 Refeições: número, horário, intervalos, etc.
+	      → 641.51/.54 Cozimento dos alimentos
+641.55	Preparo das refeições em geral.
+Exemplo(s) de combinação(ões):
+641.55(083.12) Receitas. Livros de culinária
+641.552	Preparo das refeições com relação á
+simplicidade, ao tempo de preparo.
+641.553	Preparo das refeições com relação ao custo.
+Refeições econômicas.
+641.554	Preparo de refeições comuns, para suprir as
+necessidades diárias.
+641.555	Preparo de refeições comuns para suprir
+necessidades específicas. Inclusive Refeições
+para trabalhadores que executam trabalhos
+pesados.
+641.557	Preparo de refeições feitas de antemão para entrega ou consumo imediato.
+      → 640.45 Serviços de fornecimento de alimentos. Fornecimento de refeições prontas
+	      → 642.3 Refeições em excursões ou viagens. Inclusive lanches prontos. Piqueniques
+641.558	Preparo de refeições em casos de necessidade. Inclusive Refeições para dispensários de comida, sopa dos pobres.
+641.56	Preparo de pratos individuais. Pratos
+especiais. Alimentos dietéticos.
+Exemplo(s) de combinação(ões):
+      641.56:27-565.3 Alimento do Natal
+      641.56:26 Dietas judaicas
+      641.56(44) Cozinha francesa
+      641.56-053.3 Dietas para crianças, bebês
+      641.56-055.26 Dietas para gestantes
+      641.56-056.24 Dietas para inválidos
+      641.56-056.253 Dietas para aumento de peso
+      641.56-056.255 Dietas para perda de peso
+      641.55 Preparação de refeições em geral
+641.561	Dietas para pessoas saudáveis. Dietas de
+emagrecimento.
+      → 613.24 Hiponutrição. Jejum. Dieta. Emagrecimento 
+641.562	Dietas e pratos para crianças, recém-
+nascidos, bebês.
+      → 613.22 Nutrição infantil
+641.563	Dietas e pratos para doentes, in válidos.
+641.564	Pratos vegetarianos.
+      → 613.261 Vegetarianismo
+641.565	Pratos, receitas, que atendem a prescrições
+religiosas e de outra natureza. Pratos para
+seguidores de determinada fé, cultos, etc.
+Exemplo(s) de combinação(ões):
+641.565:297 Pratos islâmicos
+641.566	Pratos para determinadas festas, dias de celebração.
+641.568	Pratos nacionais, especialidades, etc.
+      Especificar por meio de (4/9)
+641.8	Preparo de pratos principais e pratos de acompanhamento. Molhos para os pratos preparados.
+Condimentos.
+641.81	Pratos principais.
+641.82	Antepastos. Guarnições. Sopas.
+641.822	Antepastos. Entrées. Hors d´oeuvres.
+641.824	Guarnições. Acompanhamentos.
+641.827	Sopas.
+641.83	Saladas. Compotas. Alimentos comidos
+crus, sem cozimento.
+641.84	Pão com molho ou recheio. Sanduíches.
+Pão e manteiga, pastas,etc.
+641.85	Sobremesas. Inclusive Doces. Pudins.
+Fruta. Queijo.
+      → 664.686 Pudins e seus ingredientes
+641.87	Bebidas. Inclusive Água de mesa. Cerveja.
+Vinho. Café. Chá.
+Especificar por meio de :663...
+		      → 613.3 Bebidas. Beberagens medicinais. Águas medicinais. Dieta líquida
+641.88	Enfeites. Condimentos.
+      → 613.291 Condimentos. Tempero. Especiarias. Ervas culinárias. Vinagre
+      → 664.5 Especiarias. Condimentos. Temperos
+641.881	Sal.
+641.882	Ácidos. Vinagre.
+641.883	Adoçantes. Açúcar, etc.
+641.885	Temperos. Especiarias. Condimentos.
+      → 633.82 Ervas aromáticas. Plantas condimentícias
+	      → 635.7 Ervas aromáticas. Plantas condimentícias
+Especificar por meio de :664.5..
+641.885 dividido como 664.5
+641.887	Molhos.
+ 
+
+642  Refeições e horários das refeições. Louça, talheres, etc. de mesa
+
+      → 392.8 Refeições. Alimentação
+Subdivisões auxiliares especiais
+642.09	Cardápios. Menus. Listas de vinhos, etc..
+Divisões principais
+642.1	Refeições principais. Horários normais das refeições.
+642.12	Refeição matutina. Desjejum, café da manhã.
+642.14	Refeição do meio-dia. Almoço.
+642.16	Refeição da noite. Jantar.
+642.17	Refeição de fim de noite ou antes de dormir. Ceia.
+642.2	Refeições leves. Merendas.
+Lanches.
+      Indicar a hora do dia ou da noite por meio de "344... " e "345..." 
+Exemplo(s) de combinação(ões):
+642.2“3447” Refeição leve da tarde. Chá da tarde. Lanche
+642.3	Refeições em excursões ou
+viagens. Inclusive Lanches prontos.
+Piqueniques.
+642.4	Refeições em ocasiões festivas.
+Banquetes. Festas.
+      → 394.1 Banquetes. Refeições públicas, cerimoniais
+642.42	Refeições festivas para grupos pequenos.
+Pequenos almoços e jantares.
+642.43	Refeições festivas para grupos grandes.
+Inclusive Refeições para recepções, bailes.
+642.46	Coquetéis. Reuniões onde se servem
+coquetéis.
+642.48	Conversas de mesa. Saudações. Brindes.
+Discursos.
+642.5	Organização de refeições para
+grande número de pessoas,
+para grupos de turistas ou
+outros grupos. Refeições de
+auto-serviço, etc.
+      → 640.43 Restaurantes. Bares
+642.51	Refeições com preço fixo.
+642.52	Estilo americano. Refeições para o dia
+inteiro a preço fixo. Pensão completa.
+642.53	Estilo europeu. Cardápio com preços fixos
+para diversos pratos. À la carte.
+642.54	Sistema de clubes. Escolha de combinações
+de pratos por preço fixo.
+642.57	Refeições em que os hóspedes se servem
+de vários pratos. Inclusive Bufê, sistemas de auto-serviço, cafeteria.
+642.59	Outras questões. Inclusive Gorjetas. Taxa
+de serviço. Cobrança de couvert
+642.6	Organização da mesa. Serviço à mesa de garçons.
+642.61	Arrumação da mesa.
+642.63	Serviço à mesa.
+642.7	Utensílios de mesa (pratos,
+Talheres, etc.) Toalha, acessórios. Decoração de mesa.
+      → 642.74 Roupa de mesa
+		      → 642.739.2 Suportes para garrafas de vinho, para copos
+642.72	Utensílios de mesa. Recipientes para o
+alimento. Louça. Porcelana, copos, etc.
+      → 66611./.28 Tipos de vidro. Artigos de vidro. Utensílios de vidro
+642.721	Baixelas, faqueiros, serviços de mesa.
+642.727	Peças dos utensílios de mesa.
+642.727.2	642.727.2Pratos. Terrinas. Inclusive Pratos de sopa.
+Pratos de sobremesa. Pratos de
+acompanhamento. Travessas para ossos,
+espinhas, etc. Lavandas.
+642.727.3	Xícaras. Pires.
+642.727.4	Copos.
+642.727.5	Canecas. Canecões.
+642.727.7	Travessas de servir. Pratos de servir. Inclusive
+Terrinas. Molheiras.
+642.727.8	Garrafas para servir vinhos. Terrinas de ponche.
+Jarras. Inclusive Complementos de garrafas.
+Tampas, etc. Aparadores de gotas etc..
+642.73	Faqueiro. Acessórios de mesa. Utensílios
+para servir.
+642.732	Faqueiro. Prataria da mesa.
+      → 672.713 Facas de mesa. Facas de cozinha. Facas para raspar
+	      → 672.76 Garfos, colheres
+642.732.2	Utensílios para comer em geral.
+642.732.22	Facas.
+642.732.23	Garfos.
+642.732.24	Colheres.
+642.732.5	Conchas. Colheres para servir. Espátulas. Inclusive Conchas de sopa. Conchas de molho. Espátulas para peixe. Espátulas 
+                               para bolo.
+642.732.7	Facas e outros utensílios de corte para servir.
+Inclusive Facas de bolo. Tesouras para aves.
+642.734	Recipientes para condimentos. Galhetas.
+Galheteiros.
+642.738	Recipientes para outros alimentos.
+      Especificar o tipo de alimento por meio de :...
+Exemplo(s) de combinação(ões):
+      642.738:637.2 Pratos de manteiga. Manteigueiras
+642.739.2	Suportes para garrafas de vinho, para copos.
+Inclusive Porta-copos. Descansos de copos.
+642.739.3	Suportes de pratos. Esteiras de pratos.
+Escorredores de pratos.
+642.739.4	Aquecedores de prato s.
+642.739.7	Bandejas. Salvas.
+642.739.8	Transportadores de alimentos em trilhos. Transportadores móveis, rotativos, de alimentos. Mesas giratórias.
+642.74	Roupa de mesa. Inclusive  Toalhas de mesa. Guardanapos
+642.78	Decoração da mesa. Inclusive Ornamentos, flores, vasos de mesa. Luzes de mesa. Centros de mesa. 
+
+643/645 A casa. Mobiliário e equipamentos domésticos
+
+643 A casa. Moradia. Residência
+
+Exemplo(s) de combinação(ões):
+                                         43.012 Planejamento, organização da casa
+                                         → 332.8 Economia da habitação
+                                    → 365 Anseio pela casa própria e sua satisfação. Segurança da habitação
+                                     → 351.778.5 Moradias. habitação
+                                      →728 Arquitetura de residências. Habitação. Edifícios, edificações residenciais
+643.1		Localização. Inclusive Localização em relação ao tráfego. Proximidade de igrejas, escolas, áreas de
+                            comércio. Proximidade em relação a serviços urbanos, água, gás, eletricidade.
+643.2	Plantas baixas. Tamanho, posição e ligação entre os aposentos.
+                                    → 72.012 Desenho. Composição. Disposição, relações, requisitos dimensionais dos edifícios
+                                    → 72.05 Partes, espaços e cômodos planejados para usos específicos
+643.3	Cozinhas.
+643.31	Posição da cozinha. Inclusive Fatores
+referentes à iluminação.
+643.35	Cozinhas em casas particulares.
+643.36	Cozinhas grandes, p. ex., em restaurantes,
+hospitais.
+643.37	Aposentos complementareS às cozinhas.
+Inclusive Despensas. Copas.
+      → 643.47 Cômodos para guarda de alimentos. Despensas
+643.392	Áreas de cozinha e estar combinadas.
+Sala-cozinha.
+643.394	Locais para lavagem de louca.
+643.396	Cozinhas de fOrragem. Cozinhas para preparo do alimento de animais.
+	      → 636.085.6 Preparo de forragem para consumo. Instalações para cozimento, cozinhas para forragem
+643.398	Cozinhas pequenas. Kitchenettes, Alcovas-
+cozinhas. Recantos para cozinhar.
+643.4	Salas de jantar e áreas
+complementares.
+643.41	643.41Áreas para refeições. Inclusive Salas
+de jantar. Salas de café da manhã.
+Salões de banquetes.
+643.42	643.42Áreas para consumo de bebidas. Inclusive
+Bares. Salões para bebidas.
+643.45	Copas.
+643.47	Cômodos para guarda de alimentos.
+Despensas.
+      → 643.37 Aposentos complementares às cozinhas
+643.48	Cômodos para preparo de alimentos.
+643.5	Áreas de dormir, de banho e estar.
+Exemplo(s) de combinação(ões):
+643.5.055.1	Banheiros masculinos
+643.5.055.2	Banheiros femininos
+643.51	Áreas de dormir. Quartos de dormir.
+643.512	Quartos de dormir simples.
+643.513	Quartas de dormir e estar. Quartos
+conjugados. Inclusive Salas de estar
+com alcova e cama.
+643.515	Quartos de dormir e quartos conjugados
+(dormir e estar) com dependência para banho e/ou lavatório. Suítes.
+643.52	Áreas de banho.
+643.521	Banheiros.
+643.522	Banheiros com chuveiro. Saunas.
+643.523	Lavabos.
+643.524	Lavatórios.
+643.527	Quartos de vestir.
+643.528	Closets de roupa. Armários de roupa
+construídos em anexo ao quarto. Closets
+para se lavar. Closets com cama.
+643.53	643.53Áreas de estar e de recepção. Inclusive
+Salas de estar. Ante-salas. salas de estar.
+Salas de visita.
+643.54		Áreas das crianças, de hóspedes e dos
+empregados.
+643.542	Quartos das crianças. Inclusive Quartos
+de crianças. Quartos de brinquedos. Salas de estudo.
+643.544	Aposentos de hóspedes. Aposentos
+de visitantes.
+643.548	Aposentos, dependências de empregados.
+643.55	Áreas para atividades específicas.
+643.552	Estúdios. Escritórios.
+643.553	Salas de leitura. Bibliotecas.
+643.554	Áreas de serviço doméstico. 
+Aposentos de costura. Áreas de lavagem
+de roupa, lavanderias. Dependências
+de passar roupa.
+643.555	Áreas de trabalho e de recreação, hobby.
+Oficinas. Aposentos para trabalho com
+madeira, carpintaria ,etc.
+643.556	Aposentos de jogos, p. ex., para bilhar,
+tênis de mesa.
+643.557	Áreas para atividades artísticas.
+Estúdios para artistas.
+643.558	Áreas espaçosas para esporte, dança, etc.
+643.558.2	Quadras de esporte. Ginásios.
+643.558.8	Salões de baile.
+643.56	Áreas de entrada, acesso e circulação nas
+residências. Inclusive Vestíbulos, halls.
+Passagens. Corredores. Escadas.
+643.57	Espaços abertos nas moradias. Estruturas
+complementares.
+643.572	Espaços abertos. Áreas cobertas para estar.
+Varandas, pátios, etc.
+643.573	Terraços. Terraços de cobertura.
+643.573.2	Terraços.
+643.573.4	Terraços de cobertura.
+643.575	Varandas. Balcões (abertos).
+643.577	Galerias. Jardins de inverno.
+Solários (fechados).
+643.58	Espaços em anexos, construções externas.
+Edículas. Inclusive Áreas de galpões.
+garagens, etc. Lavanderias separadas etc.
+643.6	Sistemas permanentes, embutidos,
+de comunicação e transporte.
+643.62	Sistemas de comunicação. Inclusive
+Telefones. Tubos de comunicação.
+Campainhas, aldravas, etc.
+	      → 654.9 Sinalização. Serviços diversos de telecomunicação. Controle remoto (telecontrole)
+                                    → 692.9 Partes, equipamentos, acessórios auxiliares diversos
+643.64	Sistemas de transporte domésticos.
+Inclusive Elevadores. Monta-cargas. Passa-
+pratos. Tubos de lixeira.
+      → 621.86/.87 Manipulação de materiais (manipulação mecânica) em geral
+      → 641.548 Transporte e distribuição do alimento. Arranjos para transporte e serviço. Transportadores, prateleiras,
+               carrinhos (inclusive carrinhos aquecidos). Veículos de alimentos. Elevadores de alimentos
+      → 692.6 Escadas. Rampas. Elevadores. Escadas rolantes
+643.8	Áreas subterrâneas. Porões.
+Adegas.
+      → 624.1 Subestruturas. Obras de terra. Fundações, alicerces. Túneis
+643.82	Porões para instalações de aquecimento.
+Porões para combustível. Porões com tanques de óleo embutidos.
+	      → 697 Calefação, ventilação e ar-condicionado ns construções
+643.85	Porões de armazenamento, estocagem.
+Inclusive Adegas de vinho. Cavas.
+643.88	Áreas de proteção em porões. Abrigos
+em porões.
+      → 355.58 Organização e treinamento da população civil. Defesa civil. Precauções contra ataque aéreo
+      → 699.852 Abrigos subterrâneos de defesa civil
+643.9	Espaços de armazenamento.
+Sótãos. Celeiros. Inclusive Águas-
+furtadas. Sótãos para secagem.
+
+644  Instalações para saúde e conforto nas habitações
+
+644.1		Climatização. Calefação, Ventilação.
+Ar-condicionado.
+      → 628.8 Clima interior. Ar-condicionado. Calefação. Ventilação
+		      → 697 Calefação, ventilação e ar-condicionado ns construções
+644.11	Tipo de calefação.
+      Especificar por meio de :69 7...
+644.12	Equipamento de lareiras em aposentos e
+cozinhas. Inclusive Atiçadores. Tenazes.
+Baldes de carvão. Latas de cinzas.
+Guarda-fogo.
+      → 645.494 Biombos e anteparos. Guarda-fogos
+	      → 689.9 Aparelhos de aquecimento. Estufas
+644.19	Aparelhos de pequeno porte para
+aquecimento doméstico. Inclusive Dispositivos para aquecimento da cama. Aquecedores dos pés. Tecidos, cobertores, tapetes aquecidos. Aquecedores, arejadores para roupa de cama.
+644.3	Iluminação doméstica.
+	      → 628.9 Iluminação. Engenharia da iluminação
+644.34	Iluminação natural.
+644.36	Iluminação artificial.
+     Especificar por meio de :628.93... 
+Exemplo(s) de combinação(ões):
+      → 621.32 Fontes de luz elétrica
+      → 683.8 Lâmpadas a combustível ou de chama. Lampiões
+644.36:628.93.062 Iluminação artificial indireta
+644.6	Abastecimento de água e instalações sanitárias domésticas.
+      → 628.1 Abastecimento de água. Tratamento da água. Consumo de água
+644.61	Abastecimento de água potável.
+      → 696.11 Instalações de abastecimento de água
+644.62	Abastecimento de água quente.
+	      → 683.97 Aquecedores de água. Tanques de água quente
+	      → 696.4 Abastecimento de água quente
+644.65	Esgoto.
+      → 696.13 Drenagem sob o solo. Drenagem do terreno. Esgotos da casa. Destino do lixo local
+644.68	Instalações e acessórios higiênicos e
+sanitários.
+Especificar por :696.14...
+→ 628.6 Esgotos e instalações sanitárias das edificações (especialmente os requisitos exigidos pela saúde pública)      
+      → 645.68 Móveis e equipamentos de banheiros, lavatórios, lavabos 
+
+645	Móveis e acessórios domésticos
+
+645.1		Pisos, guarnições de pisos, etc.
+Especificar o material por meio de  -03... (Tabela 1k)
+      → 692.53 Assoalhos. Acabamentos de assoalho (superfícies de desgaste)
+	      → 693.7 Ladrilhamento de assoalhos. Ladrilhamento de paredes. Pavimentação. Ofício de calceteiro. Trabalho 
+	      com asfalto
+645.13	Revestimentos de pisos. Inclusive Carpetes, tapetes. 
+                                 Exemplo(s) de combinação(ões):
+645.13-037.87 Revestimento de linóleo.
+645.132	Revestimentos de pisos, carpetes assentados
+em peça inteiriça.
+645.133	Peças grandes. Revestimentos de piso
+de mais de uma largura.
+645.135	Passadeiras.
+645.136	Capachos. Tapetes. Capachos de porta.
+645.138	Peças pequenas. Inclusive Placas
+de carpete.
+645.15	Forros de pisos.
+645.16	Fixadores e aviamentos para revestimentos
+de pisos. Inclusive Prendedores de
+tapete nas escadas. Esticadores de
+tapetes e carpetes.
+645.2	Revestimentos de paredes e seus
+aviamentos.
+		      → 684.75 Cortinas para salas, colgaduras
+645.23	Revestimentos de parede. Tapeçarias.
+Inclusive Cortinas, tapeçarias, tapetes de pá rede.
+645.23 dividido como 645.13
+645.236	Tapetes de parede.
+645.23
+645.26	Fixadores e aviamentos para revestimentos
+de parede.
+645.3	Peças e acessórios para portas
+e janelas.
+      → 683.3 Serralheria. Fabricação de fechaduras. Ferragens de portas
+645.31	Peças e acessórios para portas e janelas.
+Cortinas e persianas.
+645.312	Cortinas. Cortinas de janela.
+645.312.2                  Cortinas pesadas.
+645.312.4	Cortinas de rede. Cortinas de malha. Cortinas
+rendadas. Cortinas de filó.
+645.313	Persianas de rolo.
+645.315	Venezianas.
+645.316	Toldos.
+645.33	Trilhos, argolas e acessórios de cortinas.
+Inclusive Suportes. Anéis de cortina.
+Ganchos de cortina.
+645.34	Fixação e corrediça dos cordões de
+cortinas e cintos de persianas de rolo. Inclusive Grampos e tensores. Dispositivos de ajustar, travar e bloquear.
+645.35	Dispositivos para levantar cortinas,
+persianas. Puxadores, enroladores, etc.
+para abrir, fechar, levantar, abaixar.
+645.36	Dispositivos de segurança. Grades, gradis
+em janelas para impedir quedas.
+645.37	Dispositivos para abrir e fechar portas
+e janelas. Fechaduras. Levantadores
+de porta.
+645.38	Dispositivos de proteção contra estragos,
+manchas, etc.. Inclusive Soleiras, batentes
+de porta. Placas contra golpes. Placas
+contra marcas de mão.
+645.39	Outros acessórios de portas e janelas.
+Inclusive Acessórios para flores, etc. como
+guarnição de janela.
+645.392	Dispositivos para proteção contra
+condensação, chuva, correntes de ar.
+Inclusive Protetores contra correntes de ar.
+Guarnições contra intempéries.
+645.393	Equipamento de isolamento.
+645.393.4                   Janelas isolantes. Janelas duplas.
+Vidraças duplas.
+645.395	Proteção contra insetos. Inclusive
+Telas contra insetos.
+645.396	Dispositivos para proteção contra assaltos,
+contra ladrões.
+645.398	Equipamento para uso em tempo de guerra.
+Inclusive Blindagem protetora. Vedação contra entrada de gás. Equipamento de blecaute.
+      → 355.585 Medidas de defesa passiva. Móveis e acessórios
+645.4	Móveis e acessórios.
+                                     Exemplo(s) de combinação(ões):
+645.4-182.22 Móveis fixos, embutidos na construção
+645.4-182.4 Móveis portáteis 
+645.4-182.63 Móveis dobráveis 
+645.4-l82.66 Móveis desmontáveis 
+645.4-182.68 Móveis empilháveis 
+645.4-182.7 Móveis conversíveis 
+645.4.053.2 Móveis para crianças
+→ 672.94 Móveis de metal
+→ 674.23 Fabricação de móveis
+→ 684 Indústria do mobiliário e indústrias afins. Fabricação de móveis, estofamento
+645.41	Assentos. Cadeiras.
+645.411	Cadeiras simples. Bancos simples.
+645.412	Cadeiras de braços. Poltronas. Sofás.
+Cadeiras de balanço.
+645.413	Cadeiras, assentos para fins especiais.
+Especificar por meio de :... 
+Exemplo(s) de combinação(ões):
+645.413:629.7.046 Assentos de aeronaves 
+645.413:687.53 Cadeiras de barbeiro
+645.414	Assentos múltiplos. Bancos de assento.
+      → 684.436 Assento com vários lugares
+645.416	Assentos de pernas compridas, tamboretes.
+Inclusive Tamboretes de bar.
+Exemplo(s) de combinação(ões):
+645.416.053.2 Cadeiras altas de crianças
+645.417	Pufes e assentos similares, Banquinhos
+para os pés, escabelos, etc.
+645.42	Móveis para se deitar, reclinar.
+645.421	Camas. Estrados de camas.
+645.422	Berços. Camas de crianças.
+645.423	Divãs. Sofás-camas.
+645.425	Tipos especiais de cama (segundo a
+construção). Inclusive Camas-cadeiras. Camas para acampamento. Redes. 
+     → 685.533/.534
+645.427	Acessórios para camas. Inclusive
+Mosquiteiros. Dosséis. Cortinados
+de cama. Sanefas.
+645.428	Prendedores de lençóis. Prendedores de
+cama. Arejadores de cama, etc.
+645.43	Mesas em geral. Inclusive
+Mesas de jantar.
+645.431	Mesas comuns. Mesas grandes.
+645.432	Mesas de abrir. Inclusive Mesas de
+abrir deslizando. Mesas com tábuas
+suplementares.
+645.433	Mesas portáteis, desmontáveis ou dobráveis.
+Inclusive Mesas desmontáveis.
+      Especificar por meio de -182...
+645.434	Mesas pequenas. Inclusive Mesas laterais.
+Mesas ocasionais. Mesas de cabeceira.
+Criados-mudos.
+645.436	Balcões. Mesas para vendas, etc.
+645.438	Mesas de um pé. Mesas de pedestal.
+645.439	Mesas transportáveis. Carrinhos de chá.
+Carrinhos para servir, etc.
+645.44	Mesas de trabalho. Escrivaninhas.
+645.442	Mesas de escrever. Escrivaninhas.
+Mesas de datilografia.
+645.443	Mesas para leitura. Mesas de leitura em
+igrejas. Suportes para música de coro.
+645.444	Combinações de mesas com dispositivos de
+assento. Inclusive Escrivaninhas, bancos
+escolares e móveis semelhantes.
+645.447	Mesas de trabalho, etc. para fins especiais.
+Inclusive Bancadas de trabalho. Bancadas de
+laboratório. Bancadas de cozinha.
+Especificar por meio de :...
+645.45	Móveis para guardar objetos. Inclusive
+Guarda-louças. Armários.
+Subdivisões auxiliares especiais
+645.45.09	Guarda-louças, armários segundo o arranjo,
+os acessórios.
+645.45.092	Guarda-louças, armários com prateleiras e/ou gavetas.
+645.45.093	Guarda-louças, armários apenas com
+dispositivos para pendurar.
+645.45.094	Guarda-louças, armários com dispositivos para
+pendurar e guardar.
+645.45.097	Guarda-louças, armários com espelhos.
+Cristaleiras.
+Divisões principais
+645.451	Guarda-roupas. Armários para roupa de
+cama. Armários para sapatos, chapéus,
+guarda-chuvas, etc.
+Exemplo(s) de combinação(ões):
+645.451.097 Armários, guarda-roupas com espelhos
+645.452	Prateleiras. Estantes. Suportes.
+      645.452 dividido como 684.46
+645.453	Armários de livros. Gabinetes de arquivo.
+Gabinetes com tampas corrediças.
+      → 022.4 Organização do acervo de livros
+		      → 684.457 Armários de livros
+645.454	Partes de armários. Suportes de livros, etc.
+Inclusive Portas. Prateleiras. Trilhos.
+645.455	Arcas. Cômodas de gavetas. Arcas
+para uso geral.
+645.456	Armários, arcas, etc. para fins especiais.
+645.456.1	Penteadeiras.
+645.456.3	Gabinetes de exposição. Vitrinas de exposição.
+Caixas, móveis apropriados para expor objetos.
+645.456.5	Aparadores.
+645.459	Outros tipos de armário e móveis
+semelhantes. Inclusive Armários de cozinha. Armários de cabeceira.
+645.46	Acessórios para móveis. Inclusive
+Dispositivos para rolar e deslizar. Rodízios.
+Fechos. Chapas ornamentais
+e de proteção.
+645.47	Suportes para o corpo e a cabeça.
+645.471                  Coxins. Travesseiros. Almofadões.
+645.475		Colchões. Inclusive Estrados. Colchões de palha.
+645.477	Equipamento especial para camas. Inclusive
+Cabeceiras.
+645.48	Roupa de cama. Roupa de mesa.
+Toalhas, etc.
+      → 687.268 Roupa de cama. Roupa de mesa. Toalhas de banho. Panos de prato
+645.481	Roupa de cama em geral.
+645.482	Cobertas de cama. Colchas. Edredons.
+Sacos de dormir.
+      → 685.533.8 Sacos de dormir
+645.483	Roupa de cama. Inclusive
+Lençóis. Fronhas.
+645.486	Roupa de banho e cozinha. Inclusive
+Toalhas. Panos de prato.
+645.49	Outros artigos domésticos.
+645.492	Espelhos.
+      → 686.7 Espelhos. Fabricação de espelhos
+645.493	Acessórios para quadros. Inclusive Molduras
+para quadros ou fotografias. Ganchos para
+quadros. Suportes, cavaletes para quadros.
+      → 645.5 Artigos decorativos. Ornamentos.
+645.494	Biombos e anteparos. Guarda-fogos.
+645.496	Cinzeiros. Escarradeiras.
+645.497	Escadas. Escadas de plataforma.
+645.497.l	Escadas de apoio, de pintor, de obras.
+Exemplo(s) de combinação(ões):
+645.497.1-182.73 Escadas extensíveis
+645.497.2	Escadas que ficam em pé quando abertas.
+Inclusive Escadas de plataforma.
+645.497.5	Escadas suspensas. Inclusive Escadas de corda.
+645.497.6	Escadas fixas.
+645.498	Caixas de correio. Caixas para entrega
+de provisões. Caixas de segurança.
+645.5	Artigos decorativos. Ornamentos.
+Exemplo(s) de combinação(ões):
+645.5:681.113.1 Relógios de casa
+645.5:75.051 Fotografias
+645.6	Mobiliário completo dos quartos.
+Conjuntos de mobiliário.
+Exemplo(s) de combinação(ões):
+645.6:643.51 Móveis de quarto de dormir. Conjunto de móveis de quarto de dormir
+645.63	Móveis e equipamento de cozinha.
+645.68	Móveis e equipamento de banheiros,
+Lavatórios, lavabos.
+      → 628.6 Esgotos e instalações sanitárias das edificações (especialmente os requisitos exigidos pela saúde
+                    pública)
+645.681	Móveis fixos. Inclusive Pias. Bancada de pia.
+      → 645.4 Móveis e acessórios
+645.682	Utensílios para banheiros, lavabos.
+645.682.2	Saboneteiras. Depósitos de sabão líquido.
+645.682.3	Porta-toalhas. Toalheiros. Toalheiros
+automáticos.
+645.687	Utensílios para gabinetes sanitários. Inclusive Equipamento de limpeza. Papel
+higiênico. Porta-papel higiênico. Urinóis. Mictórios. Aparelhos sanitários.
+
+646/649  Administração doméstica. Requisitos pessoais
+
+646  Vestuário. Cuidados corporais
+
+      → 391 Vestuário
+      → 613.4 Higiene pessoal. Vestuário
+      → 687 Indústria do vestuário. Confecção de artigos de vestuário. Cosmetologia
+646.1	Materiais de vestuário (seleção,compra, etc.).
+646.2	Confecção e conserto de roupas
+em casa. Confecção doméstica de roupas.
+646.21	Trabalho de agulha. Bordado. Costura.
+	      Especificar por meio de :687...
+Exemplo(s) de combinação(ões):
+      646.21:687.021 Medição
+      646.21:687.051.5 Moldes
+      646.21:687.053 Máquinas de costura
+646.24	Conserto. Cerzimento. Remendo.
+646.26	Tricô.
+646.27	Crochê.
+646.4	Roupas. Acessórios.
+      → 685.2/.4
+      → 687/687.3
+646.42	Pecas de baixo. Peças íntimas.
+646.43	Roupa. Inclusive Ternos. Paletós, jaquetas.
+646.45	Roupas de sair. Sobretudos.
+646.46	Calçados.
+646.47	Roupas para ocasiões especiais. Inclusive
+Roupas para cerimônias. Roupas
+matutinas. Roupas esportivas.
+Roupas de trabalho.
+646.48	Acessórios para roupas. Inclusive
+Echarpes. Cintos. Aventais. Lenços. Luvas.
+Regalos (agasalhos para as mãos).
+646.5	Acessórios para a cabeça.
+Chapéus etc.
+      → 687.4 Artigos para a cabeça. Fabricação de chapéus. Chapelaria
+646.6	Cuidados com as roupas.
+      → 648 Lavagem. Lavanderia. Limpeza
+646.61	Materiais de limpeza. Removedores
+de manchas.
+646.62	Limpeza sem lavagem. Inclusive Batendo.
+Escovando. Limpeza a vácuo.
+646.63	Lavagem química (lavagem a seco).
+      → 648.28 lavagem química (lavagem a seco)
+646.65	Limpeza de calçados. Limpeza de sapatos.
+Lustre, polimento e ceras para sapatos
+      → 665.921 Ceras de polimento. Materiais similares sólidos ou pastosos
+646.67	Proteção, conservação da roupa,
+especialmente de peles. Inclusive
+Protetores contra poeira e traças
+(cobertas, sacolas contra poeira, etc).
+Proteção química (repelentes
+de traça, etc.).
+646.68	Dispositivos para pendurar, esticar
+e passar roupas. Inclusive Bidês,
+esticadores e prensas de roupas.
+Sapateiras.
+646.7	Cuidado corporal. Cuidados de
+beleza. Acessórios para vestir-se
+e despir-se.
+      → 687.5 Indústrias de cosmetologia
+646.71	Cuidados e limpeza do corpo em geral.
+Banho de banheira, de chuveiro, etc.
+      → 613.4 Higiene pessoal. Vestuário
+      → 644.68 Instalações e acessórios higiênicos e sanitários
+      → 645.68 Móveis e equipamentos de banheiros, lavatórios, lavabos
+646.72	Cuidados com o cabelo e a barba.
+      → 672.71`4/.718
+646.73	Cuidados com os dentes.
+646.74	Cuidados com as unhas.
+646.75	Cuidados com a pele.
+646.78	Acessórios para vestir-se e despir-se.
+Inclusive Calçadeiras para sapatos e botas. Abotoaduras. Prendedores e soltadores de roupa.
+
+647 Empregados domésticos
+
+647.2	Empregados da casa. Empregados
+domésticos e supervisores.
+647.21	Pessoal de supervisão. Inclusive
+Governantas. Administradores. Recepcionistas.
+647.25	Pessoal de serviço doméstico.
+647.251	Mordomos. Maîtres d'hotel.
+647.252	Pessoal de cozinha. Inclusive
+Cozinheiros. Chefs.
+647.255	Au pairs.
+647.258	Pessoal para cuidar de crianças ou inválidos.
+Inclusive Babás. Amas-de-leite.
+Amas-secas.
+647.29	Outros empregados domésticos.
+Empregados ocasionais.
+Classificar aqui o pessoal especializado,  principalmente nas grandes mansões 
+Exemplo(s) de combinação(ões): 
+      647.29:687.53 Cabeleireiros 
+      647.29:78 Músicos
+647.3	Pessoal que trabalha fora da casa. Inclusive Porteiros. Motoristas. Jardineiros.
+
+   648 Lavagem. Lavanderia. Limpeza
+
+→ 613.4/.5
+Classificar em 648  tanto os processos domésticos quanto os processos industriais e seus equipamentos
+Exemplo(s) de combinação(ões):
+648.012 Planejamento e organização da lavanderia, limpeza etc.
+648.04 Tipos de serviço
+648.06 Dispositivos e máquinas de lavar, limpar
+648.1	Lavanderia em geral.
+      → 643.554 Área de serviço doméstico
+      → 643.58 Espaços em anexos, construções externas. Edículas
+      → 725.1 Edifícios cívicos. Edifícios legislativos. Edifícios da administração pública. Edifícios de empresas de
+      serviços públicos
+648.11	Lavanderias: organização, serviços.
+648.111	Lavanderias grandes e pequenas.
+648.111.2	Lavanderias comerciais.
+648.111.3	Lavanderias automáticas.
+648.111.4	Lavanderias de auto-serviço.
+Lavanderias públicas.
+648.112	Tipos de serviço de lavanderia. Inclusive
+Serviço completo. Consertos.
+648.114	Coleta e entrega de roupa para lavar.
+648.12	Identificação de peças de roupa na
+lavanderia. Inclusive Marcas da lavanderia.
+Dispositivos de marcação
+de lavanderia.
+648.13	Separação e empacotamento
+de roupa limpa.
+648.17	Armazenamento e localização de
+roupa suja.
+648.18	Substâncias de lavagem. Soluções
+de lavagem. Substâncias para outros
+tipos de tratamentos (alvejamento,
+engomadura, etc.).
+      → 661.43 Hipocloretos em geral. Ácido hipocloroso
+      → 664.2 Amido. Matérias amiláceas
+648.19	Pré-tratamento da roupa a lavar.
+Inclusive Desinfecção.
+648.2	Molho. Lavagem. Limpeza química.
+648.21	Molho. Tinas, tanques de molho.
+648.22	Lavagem manual.
+648.223	Dispositivos de lavagem. Inclusive Tanques.
+Bacias de lavagem.
+Tábuas de lavagem.
+648.224	Caldeiras de lavagem. Caldeiras de cobre.
+648.23	Lavagem mecânica. Máquinas de lavar.
+Lavanderias industriais.
+Subdivisões auxiliares especiais
+648.23.063	Modos de carregar as máquinas.
+648.23.063.2	Carregamento por cima.
+648.23.063.3	Carregamento pela frente.
+648.23.063.4	Carregamento pelo lado.
+648.23.064	Tipos de descarga, de retirada da roupa.
+648.23.064.l	Auto-esvaziamento.
+648.23.064.2	Basculação,
+Divisões principais
+648.234	Máquinas de lavar simples com tanque
+fixo e agitador.
+648.235	Máquinas de lavar rotativas, de tipo tambor.
+648.237	Lavanderias industriais e suas instalações.
+648.238	Máquinas de lavar com múltiplas
+finalidades (p. ex., lavagem e secagem
+por centrifugação).
+648.24	Enxágüe.
+648.241	Agentes, substâncias de enxaguar.
+648.242	Enxágüe manual.
+648.243	Enxágüe mecânico.
+Exemplo(s) de combinação(ões):
+                                        648.243-932-2 Enxágüe mecânico contínuo
+648.25	Engomadura.
+648.251	Gomas.
+Especificar por meio de :677.027.6...
+648.252	Engomadura manual.
+648.253	Engomadura mecânica. Máquinas de
+engomar.
+648.26	Alvejamento.
+648.27	Aplicação de anil. Branqueamento óptico.
+648.271	Agentes, substâncias de anilar.
+648.274	Agentes, substâncias para melhorar
+as cores.
+648.276	Agentes ópticos para dar brilho.
+648.28	Lavagem química (lavagem a seco).
+→ 646.63 Lavagem química (lavagem a seco)
+648.3	Extração da água. Secagem.
+648.32	Extração e extratores de água.
+648.322	Espremedores.
+648.326	Secadores centrífugos.
+      → 648.235 Máquinas de lavar rotativas, de tipo tambor
+648.33	Secagem (por evaporação). Dispositivos
+de secagem.
+648.333	Varais e acessórios de lavagem. Inclusive
+Dispositivos para esticar. Varais. Ganchos.
+Postes para esticar as cordas.
+648.334	Prendedores de roupas. Recipientes
+para prendedores.
+648.335	Armações para pôr a roupa lavada para
+secar. Suportes para secagem. Cabide
+de pé para secar roupa.
+648.336	Armários de secar. Máquinas de secar.
+648.336.2	Armários de secar. Gabinetes de secar.
+648.336.6	Máquinas de secar. Inclusive
+Secadoras de tambor.
+648.37	Máquinas de secar por agitação.
+648.4	Passar a roupa a ferro. Coleta e
+embalagem da roupa lavada.
+648.41	Alisamento da roupa a ferro, amaciamento,
+prensamento em geral. Teoria do
+passamento de roupa a ferro.
+648.42	Prensagem manual. Ferros de passar.
+Tábuas, mesas de passar.
+648.43	Prensamento mecânico. Máquinas de
+passar roupa. Calandras de prensar.
+      → 677.057.73 Equipamento, máquinas para tingimento, estampagem e acabamento de têxteis
+      → 687.054 Equipamento para passar e umedecer. Ferros de passar roupa, de engomar. Tábuas de passar roupa
+648.431	Máquinas de calandrar.
+648.432	Máquinas de passar para peças planas.
+648.433	Máquinas de passar de rolos.
+648.436	Máquinas de passar e moldar para
+peças moldadas.
+648.437	Máquinas de passar com brilho.
+648.46	Máquinas de dobrar.
+648.462	Máquinas de dobrar para peças planas.
+648.466	Máquinas de dobrar para artigos moldados.
+648.47	Coleta e armazenamento da roupa lavada
+já terminada.
+648.48	Empacotamento e embalagem dos pacotes
+de lavanderia.
+Especificar por meio de :621.798...
+648.5	Limpeza e cuidado de casas e moradias.
+Especialmente do interior e do conteúdo das casas
+Exemplo(s) de combinação(ões):
+ 648.5.04 Serviços de limpeza 
+648.5.06 Máquinas e equipamento de limpeza
+		      → 613.5 Higiene da habitação
+648.52	Limpeza de paredes, pisos, móveis, etc.
+648.523	Equipamento e máquinas de lustrar.
+648.523.l                Equipamento de lustrar o piso. Inclusive Escovas de polimento. Escovas para varrer e escovar. Panos de limpar e polir. 
+                                Feltros de limpar parquete. Discos de náilon.
+648.523.5	Máquinas de polir assoalhos.
+648.524	Equipamento de varrer e escovar. Inclusive Vassouras. Pás e vassouras. Esfregões e baldes.
+      → 687.9 Indústria de escovas e pincéis. Vassouras, etc.
+648.525	Aspiradores de pó.
+648.526	Equipamento para tirar poeira. Inclusive
+Espanadores. Espanadores de penas.
+Esfregues de poeira.
+648.527	Equipamento para limpeza e cuidado de
+carpetes, tapetes e outras forrações de chão.
+648.527.5	Varredoras de carpetes. Máquinas para varrer
+carpete. Varredores e aspiradores combinados.
+648.527.7	Máquinas para limpeza a vapor de carpetes.
+Máquinas para limpeza úmida de carpetes.
+648.527.8	Máquinas para limpeza a seco de carpetes.
+Máquinas para limpeza de carpetes com xampu.
+648.528	Equipamento para bater tapetes. Inclusive
+Batedores e máquinas de bater tapetes.
+Batedores e aspiradores combinados.
+648.529	Equipamento auxiliar para limpeza e
+cuidados. Inclusive Almofadas para ajoelhar.
+Dispositivos de proteção.
+648.53	Limpeza das janelas. Limpeza e cuidados
+de vidraças, espelhos, portas, etc.
+e suas estruturas.
+648.532	Desembaçadores, descongeladores.
+      → 629.067 Sistemas de segurança e proteção de veículos
+648.533	Equipamento para limpeza manual de
+janelas. Inclusive Rolos de borracha para
+limpeza de janelas.
+648.536	Máquinas e dispositivos de limpeza
+de janelas.
+648.538	Dispositivos, suportes, cintos, etc.
+de segurança para impedir queda dos limpadores.
+      → 614.821 Riscos de queda
+648.54	Limpeza e cuidado com a louça, panelas e
+caçarolas. Materiais de lavagem.
+648.544	Equipamento de lavar, enxaguar e secar.
+Inclusive Bacias. Esponjas de pratos.
+Vassourinhas para panelas. Secadores
+de pratos.
+648.545	Máquinas de lavar louça. Lava-louças automáticos.
+648.55	Limpeza e cuidado dos objetos de metal,
+de facas e garfos.
+648.56	Equipamento de limpeza para objetos e
+componentes de vidro.
+648.58	Materiais de limpeza e para cuidados
+domésticos. Inclusive Limpadores. Enxaguadores. Lustradores.
+648.6	Desinfecção, Desinfetantes.
+Exemplo(s) de combinação(ões):
+                                               648.6:645.475 Desinfecção de colchões
+ 648.6:696.13 Desinfecção de esgotos domésticos
+648.7	Extermínio de pragas. Controle
+de pragas. Inclusive Armadilhas (p. ex., ratoeiras). Venenos. Pesticidas. Inseticidas.
+                                    → 631.348 Máquinas e equipamento para proteção das plantas
+                                    → 632.95 Preparados para proteção das plantas
+                                    → 639.1.081.1 Armadilhas e laços
+                                    → 661.16 Produtos químicos para controle de pragas. Pesticidas. Desinfetantes
+
+649  Cuidado doméstico de crianças, inválidos e hóspedes
+
+      → 173.5 Deveres da família
+649.1		Cuidado doméstico de crianças.
+      → 37.018.1 Educação em casa. Aulas particulares
+	      → 613.95 Saúde e higiene da criança
+649.16	Cuidado com bebês. Cuidados com os bebês
+no primeiro ano de vida.
+      → 613.221 Nutrição de bebês
+      → 631.562 Dietas e pratos de crianças e bebês
+649.8	Cuidado doméstico de doentes,
+inválidos.
+649.9	Cuidado de hóspedes e visitantes. Hospitalidade.
+      → 392.7 Amizade. Hospitalidade. Inimizade
+
+654 Telecomunicação e telecontrole (organização, serviços)
+
+Especificar máquinas de telecomunicação por  por meio de –1/-9 (de 62-1/-8 e 66-9)
+Os auxiliares relacionados em 65.0... não são aplicáveis em 654 e subdivisões
+→ 338.47 Economia do transporte e das comunicações. Aspectos econômicos dos meios de comunicações. Poláitica de transportes
+      → 347.83 Direito do éter. Direito de teletransmissão, teledifusão
+      → 351.817 Fiscalização das telecomunicações
+      → 355.343.1 Sinaleiros. Pessoal de comunicações (telegráficas, rádio-operadores). Ordenanças. Mensageiros, 
+      estafetas
+      → 358.236 Corpo de telecomunicações. Corpo de sinaleiros
+      → 621.39 Telecomunicação. Telegrafia. Telefonia. Radiocomunicação. Tecnologia e equipamento de vídeo. 
+      Telecontrole
+      → 622.489 Equipamento de sinalização, comunicação
+      → 623.61 Comunicações militares. Controle da tropa
+      → 656 Serviços de transporte e serviços postais. Organização e controle do tráfego
+Subdivisões auxiliares especiais
+654.01	Serviços públicos em geral.
+654.02	Vias, linhas de telecomunicação.
+654.021	N ú mero e freqüência de comunicações.
+654.022	Distribuição espacial das comunicações. Vias.
+654.024	Comunicações por pessoas ou serviços.
+Exemplo(s) de combinação(ões);
+                                           654.024:35 Comunicações governamentais
+654.025	Comunicações para um grande número de pessoas.
+      → 654.19 Radiodifusão e teledifusão
+654.026	Comunicações para finalidades específicas.
+654.027	Comunicações segundo a velocidade, a rapidez.
+654.027.3	Transmissão rápida de mensagens.
+654.027.5	Transmissão retardada de mensagens.
+654.028	Comunicações segundo a forma (em linguagem normal, em código, secreta).
+654.029.3	Indicação do destinatário (p. ex., número do telefone, endereço telegráfico).
+654.03	Tarifas. Preços. Taxas. Pagamento.
+654.031	Princípios gerais de tarifação. Alterações, aumentos, reduções nos preços.
+654.032	Tarifas. Escalas de preços.
+654.032.1	Tarifas segundo o número, freqüência e duração das comunicações.
+654.032.2	Tarifas segundo o lugar de origem e a distância das comunicações.
+654.032.3	Tarifas segundo o horário.
+Exemplo(s) de combinação(ões):
+654.032.3“345” Tarifas noturnas
+654.032.3“38” Tarifas para dias feriados
+654.032.4	Tarifas segundo a categoria da pessoa. Tarifas
+para autoridades, para a imprensa, etc..
+654.032.6	Tarifas para finalidades específicas. Tarifas segundo o objeto de comunicação.
+654.032.7	Tarifas segundo a velocidade, rapidez da comunicação (p. ex., tarifa para serviços expressos).
+654.032.8	Tarifas segundo a forma de comunicação.
+654.032.9	Cobranças adicionais. Inclusive Taxas de seguro, para serviços registrados, para respostas pagas.
+654.033	Registro e controle de estimativas de tarifas.
+654.034	Métodos de pagamento. Inclusive Medidores de pagamento antecipado (máquinas para fichas, caixas para moedas).
+654.036	Lugares para quitação de contas. Centros de contabilidade.
+654.038	Reembolsos.
+654.039	Documentos. Formulários.
+654.04	Falhas. Interrupções, demoras. Reclamações. Consertos.
+654.05	Sinais. Sinais de chamada. Sinais de aviso, etc..
+      → 654.9 Sinalização. Serviços diversos de telecomunicação. Controle remoto (telecontrole)
+654.06	Serviços auxiliares que usam telecomunicações. Inclusive Serviços de hora certa.
+      → 621.395.9 Aplicações da telefonia
+      → 621.396.9 Aparelhos e métodos especiais de rádio. Radar
+654.07	Administração. Gerência.
+      → 005.1 Teoria da administração
+654.071		Serviço administrativo geral. Pessoal. Inclusive Técnicos. Operadores
+654.072	Administração do uso público das
+comunicações. Inclusive Reserva. Conexão.
+Transmissão de mensagens. Supervisão,
+controle do uso.
+654.073	Entrega de mensagens ao destinatário.
+654.077	Instalações administrativas. Inclusive
+Recursos materiais e financeiros. Escritórios, acomodações. Mobiliário. Equipamento.
+654.077 dividido como 35.07 
+Divisões principais
+654.1	Telegrafia. Telefonia. Rádio.
+Televisão.
+654.14	Telegrafia por fio (serviços por cabo,
+serviços por fio).
+      → 621.394 Telegrafia
+654.141	Agências telegráficas.
+654.142	Telegrafia particular, por linha privada.
+654.143	Telegrafia pública, por linha pública.
+654.143 dividido como 654.153
+654.144	Tráfego telegráfico manual e automático.
+654.144 dividido como 654.154
+654.145	Comunicação por teleimpressora.
+Serviço de telex.
+      → 654.916 Equipamento de escrita à distância
+      → 681.613.4 Máquinas de teletipo. Teleimpressoras
+654.147	Telegrafia para finalidades especiais para
+sistemas de alarme e aviso. Inclusive Telegrafia para polícia, para serviços de bombeiros.
+      → 614.842.4 Notificação de incêndios
+      → 654.9 Sinalização. Serviços diversos de telecomunicação. Controle remoto (telecontrole)
+654.15	Telefonia por fio.
+      → 621.395 Telefonia
+654.151	Centrais telefônicas. Estações telefônicas.
+654.151.2	Centrais telefônicas.
+654.151.4	Estações telefônicas. Inclusive
+Cabines telefônicas.
+654.152	Telefonia privada. Serviços internos de
+telefones (dentro de um edifício ou de um
+grupo de edifícios).
+654.153	Telefonia pública. Serviços telefônicos
+públicos.
+654.153.2	Tráfego de telefonia local. Serviços
+telefônicos locais.
+654.153.3	Tráfego telefônico interurbano (chamadas entre
+localidades diferentes com estações diferentes).
+Chamadas interurbanas.
+654.153.4	Tráfego telefônico de longa distância.
+Chamadas internacionais.
+654.154	Tráfego telefônico manual e automático.
+654.154.2	Tráfego telefônico manual.
+654.154.3	Tráfego telefônico semi-automático.
+654.154.4	Tráfego telefônico automático.
+654.157	Serviços telefônicos para chamadas
+de emergência.
+654.16	Radiocomunicação.
+      → 621.396 Aparelhos e métodos de telecomunicação
+      → 654.19 Radiodifusão e teledifusão
+654.164	Radiotelegrafia (telegrafia sem fio).
+      654.164 dividido como 654.14
+654.165	Radiotelefonia (telefonia sem fio).
+654.165 dividido como 654.15
+654.17	Transmissão de fac-símiles e televisão (ponto a ponto).
+      → 621.397 Tecnologia da transmissão de imagens. Engenharia de televisão. Gravação, transmissão e reprodução
+                     de imagens. Equipamento e redes de televisão
+     → 654.197 Difusão por  fac-símile e por televisão
+654.171	Transmissão de fac-símiles. Fax.
+654.172	Transmissão de televisão.
+654.173	Televisão e telefonia combinadas.
+654.19	Radiodifusão e teledifusão.
+	      → 621.396/397
+654.191	Estações, estúdios de rádio e televisão.
+	      → 621.396.7 Estações de rádio. Estações de transmissão e recepção
+	      → 621.397.7 Instalações e redes de transmissão de imagens (fac-símile e televisão)
+654.195	Radiodifusão. Rádio.
+→ 621.396.44 Transmissão por ondas de radiofreqüência que utilizam o condutor instalado com outros fins)
+      Radiotelefonia
+     → 621.396.97 Tecnologia da transmissão de imagens. Engenharia de televisão. Gravação, transmissão e 
+                     reprodução 
+     de imagens. Equipamento e redes de televisão
+654.195.2	Radiodifusão por linhas. Radiodifusão
+por cabos.
+654.195.6	Difusão sonora por ondas de rádio.
+654.197	Difusão por fac-símile e por televisão.
+654.198	Difusão conjugada de televisão e som.
+654.9	Sinalização. Serviços diversos de
+telecomunicação. Controle remoto (telecontrole).
+      → 62-519 Controle remoto. Direção remota
+      → 621.398 Telecontrole (controle remoto). Telemedição. Indicação remota
+      → 627.71/.72
+      → 629.066 Equipamento de observação, sinalização, comunicação e identificação
+      → 654.05 Sinais. Sinais de chamada. Sinais de aviso, etc.
+      → 656.05 Tráfego. Transporte. Sinais de tráfego
+      → 656.25 Medidas de segurança. Sinais
+654.91	Sinalização óptica, visual.
+      → 628.975 Iluminação festiva. Iluminação para publicidade, propaganda. Uso arquitetônico da iluminação
+654.912	Métodos de produção de efeitos ópticos.
+Inclusive Sinalização com cores, formas,
+bandeiras, fumaça, fontes luminosas,
+foguetes.
+      → 627.724 Sinais por bandeiras
+      → 662.12 Dispositivos pirotécnicos de sinalização. Foguetes de sinalização. Equipamento para sinais luminosos
+654.913	Sinalização com emprego de caracteres
+escritos ou impressos.
+654.915	Dispositivos de indicação óptica e de
+alarme. Inclusive Painéis indicadores.
+654.916	Equipamento de escrita à distância.
+       → 654.145 Comunicação por teleimpressora. Serviço de telex
+       → 681.613.5 Máquinas de escrever para notação musical
+654.92	Sinalização acústica. Sistemas de
+campainhas. Sistemas de alarme.
+654.922	Métodos de produção de som. Inclusive
+Apitos, sirenes, cometas, buzinas de
+sinalização. Campainhas, sinos, sinetas de
+sinalização. Explosões, detonações. Sons de
+vozes. Máquinas, painéis falantes.
+654.923	Sistemas de campainhas, sinos, sinetas.
+Carrilhões, etc.
+Exemplo(s) de combinação(ões):
+                                            654.923-83 Sistemas de campainhas, sinos acionados eletricamente 
+                                             654.923-86 Sistemas de campainha, sinos acionados mecanicamente
+654.924	Sistemas e instalações de alarme.
+654.924.3	Sistemas automáticos de alarme contra ladrões
+e arrombadores.
+       → 62-759.8 Dispositivos de proteção contra roubo. Dispositivos de segurança contra roubos, furtos
+654.924.5	Sistemas automáticos de alarme contra
+incêndio.
+654.925	Dispositivos para despertar. Alarmes
+ajustados para tempo predeterminado.
+Sinalizadores de tempo (p. ex., em escolas, fábricas, escritórios).
+       → 681.11.033.2 Dispositivos acústicos de indicação
+654.926	Outros dispositivos acústicos de
+sinalização.
+654.927	Transmissão de sinais acústicos por
+meios diversos.
+654.927.l	Transmissão pelo ar.
+654.927.2	Transmissão pela água.
+654.927.3	Transmissão pela terra.
+654.928	Recepção de sinais acústicos.
+654.93	Transmissão remota de comandos,
+mensagens, sinais. Indicação remota.
+654.931	Aparelhos mecânicos para transmissão de
+mensagens e sinais.
+654.935	Transmissão de mensagens e sinais que
+utilizam lâmpadas, indicadores ou sistemas
+de campainhas.
+654.937	Transmissão de mensagens e sinais por
+meios elétricos.
+654.938	Dispositivos de seleção e controle para
+instalações de sinalização.
+654.94	Sinalização remota de fenômenos
+específicos, p. ex., temperatura. 
+      → 681.12 Medidores de consumo. Medidores industriais. Medidores de fluxo. Contadores, etc.
+
+655  Indústrias gráficas. Impressão. Edição. Produção e comércio de livros
+
+      → 0 Generalidades
+      → 681.6 Máquinas e equipamento de reprodução gráfica
+Os auxiliares 65.02... e 65.06 não são aplicáveis em 655 e suas subdivisões
+Subdivisões auxiliares especiais
+655.02		Processos de trabalho.
+Subdividido mais detalhadamente em algumas subdivisões de 655, p. ex., 655.28.02..., 655.3.02...
+655.021	Operações preparatórias.
+655.023	Defeitos. Falhas. Dificuldades.
+655.024	Processos referentes à produção de cor.
+655.025	Processos referentes ao uso de materiais exceto o papel.
+655.026	Processos referentes à confecção de produtos impressos específicos.
+655.027	Processos referentes a reprodução de ilustrações.
+655.028	Processos de acabamento.
+655.06	Produtos.
+                                          Subdividido em algumas subdivisões de 655, p. ex., 655.28.06..., 655.3.06... 
+Divisões principais
+655.1	Indústria gráfica em geral.
+655.11	História da imprensa, da tipografia.
+Descobrimento das técnicas de impressão de livros.
+655.15	Oficinas, empresas gráficas, tipografias e
+negócios conexos 
+Exemplo(s) de combinação(ões):
+655.15.01 Organização de empresas gráficas
+655.2	Processos de reprodução gráfica.
+Produção de superfícies de
+impressão. Composição tipográfica.
+655.22	Produção de superfícies de impressão (exceto composição).
+      → 655.24/.28 Produção das chapas tipográficas
+      → 774 Processos fotoquímicos em geral
+      → 778.18 Reprodução fotográfica ou cópia fotomecânica
+655.222	Reprodução, duplicação de superfícies de
+impressão. Duplicação de chapas, clichês, tipos. Conversão de superfícies de impressão, de matrizes, de um processo
+para outro.
+655.222.2	Estereotipia em metal.
+655.222.22	Formação de superfícies de impressão.
+      → 681.617.21 Flã (cartão de estereotipia) e outros materiais de moldagem
+655.222.23	Processos de moldagem. de fundição. Inclusive
+Fundição centrífuga. Moldagem por injeção.
+Especificar por meio de :621.74.
+655.222.25	Endurecimento de estereotipias por tratamento
+da superfície.
+655.222.3	Estereotipia não-metálica.
+655.222.32	Estereotipia em borracha.
+655.222.34	Estereotipia em plástico.
+655.222.4	Eletrotipia. Galvanoplastia.
+      → 621.357 Eletroquímica industrial. Eletrólise, eletrodeposição
+655.222.6	Produção de placas de impressão em relevo por
+diversos métodos exceto fundição. Inclusive Emprego de materiais fotossensíveis.
+655.222.8	Conversão de superfícies de impressão de um
+processo para outro. Métodos de conversão.
+655.224	Produção de superfícies de impressão por
+entalhe. Gravura.
+655.224.l		Processos primitivos de entalhe. Inclusive
+Gravura manual. Água-forte. Heliogravura.
+655.224.2	Processos mecânicos, fotográficos, elétricos,
+eletrônicos e outros de transferência de imagens
+para chapas ou cilindros a entalhe. Inclusive
+Fotogravura.
+655.224.3	Qualidade e propriedades das chapas a entalhe,
+etc. Inclusive Profundidade do entalhe
+(profundidade da célula). Forma e dimensão
+das células ou cavidades. Reprodução de
+meios-tons.
+655.225	Produção de superfícies de impressão
+original em relevo. Gravação por processo
+fotomecânico.
+655.225.l		Produção manual de superfícies de impressão
+em relevo. Inclusive Gravação de linhas. Talhe ou incisão.
+655.225.2	Processos mecânicos, fotográficos, elétricos, eletrônicos e outros para transferência de imagens para chapas ou cilindros a relevo
+                                   Fotogravura,
+655.225,3	Qualidade e propriedades de chapas de relevo,
+etc.. Inclusive Profundidade do relevo. Forma e dimensão dos elementos da imagem (p. ex., pontos). Reprodução de meios-tons.
+655.225.8	Produção de superfícies em relevo segundo o
+método de representação, inclusive Por linha. Por ponto de meio-tom, autotipia,
+655.226	Produção de superfícies de impressão
+planas. Litografia.
+655.226.l	Processos planográficos primitivos. Litografia
+manual. Processos de transferência.
+655.226.2	Processos mecânicos, fotográficos, elétricos,
+eletrônicos e outros de transferência de imagens
+para chapas ou cilindros planográficos.
+Fotolitografia.
+655.226.5	Qualidade e propriedades das chapas
+Planográficas, etc. Inclusive Forma dos elementos da imagem. Reprodução de meios-tons.
+655.227	Produção de superfícies de impressão
+diagráficas.
+655.227.3	Produção de telas.
+655.227.7	Produção de estênceis.
+655.228	Produção de superfícies de impressão
+colográficas e similares. Inclusive
+Colotipia. Fototipia. Aquatone.
+655.229	Produção de outros tipos de superfícies
+de impressão.
+655.24/.28	Produção das chapas tipográficas.
+655.24	Estilos de tipos. Famílias de tipos.
+      → 004.223 Caracteres e dados similares
+      → 681.615.2 Espécies de tipos
+655.241	Tamanho do corpo do tipo.
+655.242	Peso do tipo. Inclusive Claro,
+meio-preto, negrito.
+655.243	Sistemas de medidas tipográficas. Inclusive
+Sistema de ponto.
+655.244	Estilo dos tipos. Inclusive Antiqua
+(estilo antigo). Sem cerifa. Góticos.
+655.245	Caracteres especiais. Inclusive
+Logotipos. Ligaturas.
+655.246	Outros tipos com exceção de letras.
+Inclusive Sinais, fios, chaves, traços
+(travessões, hífens), etc. Florões
+e outros ornatos.
+655.247	Catálogos de tipos.
+655.249	Listas de fontes, de estilos de tipos. Conjuntos de caracteres.
+655.25	Produção de suportes de informação
+destinados à composição tipográfica.
+Manuscritos, originais, texto
+para gráfica.
+655.251	Regras para produção e tratamento de
+originais, etc. Preparação do original. Inclusive Sinais de correção e marcação de originais.
+Exemplo(s) de combinação(ões):
+655.251 (035) Manuais de estilo
+655.253	Criação de meio de informação para
+composição tipográfica. Produção física do original (p. ex., manuscrito, datilografado,
+                                   por dispositivos de armazenamento de informação).
+655.254		Processamento e conversão do original.
+655.254.2	Processamento do original.
+655.254.22	Editoração.
+	      → 070.4 Administração editorial
+	      → 808.2 Editoração. Adaptação e organização do original para publicação
+655.254.24	Preparação técnica para composição. Inclusive
+Marcação. Diagramação. Arte-final.
+655.254.4	Conversão do original. Produção de registros
+legíveis por máquina. Operações de
+processamento de texto.
+655.26	Tipografia. Projeto gráfico. Tipos de texto
+(material a ser composto).
+655.262	Projeto tipográfico do texto. Inclusive
+Questões estéticas. Divisão e diagramação
+do texto. Disposição das ilustrações.
+655.267	Tipos de texto. Inclusive Material corrido
+ou misto. Textos em língua ou escrita
+estrangeira. Material tabular. Fórmulas.
+655.28	Composição tipográfica.
+      → 681.616 Máquinas e equipamento de composição tipográfica
+Subdivisões auxiliares especiais
+655.28.02	Operações. Processos.
+655.28.021	Operações preparatórias.
+655.28.022	Procedimentos de preparo e composição
+                                   de originais.
+655.28.022.l	Estudos científicos.
+655.28.022.2	Princípios básicos e técnicas da composição
+tipográfica. Inclusive Formação das linhas.
+Justificação. Divisão silábica. Formação de
+colunas. Montagem de páginas e cadernos.
+Imposição.
+655.28.022.3	Inicio da operação de composição. Entrada
+dos dados.
+655.28.022.31	Entrada por digitação manual.
+655.28.022.32	Entrada por suporte de dados.
+655.28.022.36	Utilização de processamento eletrônico de
+dados. Entrada por computação.
+655.28.022.37	Entrada por controle remoto. Composição
+por teletipo.
+655.28.022.5	Composição propriamente dita. Reunião e posicionamento de caracteres, matrizes, tipos.
+655.28.022.7	Processos para fixação e produção (saída) da
+composição acabada (p. ex., fundição de tipos,
+revelação e fixação do filme). Produção dos
+suportes de dados (tipo fundido, matéria
+fotocomposta, etc.).
+655.28.022.8	Correção e revisão, Inclusive Provas. Revisão
+de provas. Correção de provas.
+655.28.023	Dificuldades.
+655.28.026	Composição para determinados tipos de
+produtos gráficos.
+Especificar por meio de .066...
+655.28.027	Inserção de ilustrações no texto. Diagramação.
+arranjo, integração de ilustrações.
+      → 655.533 Ilustrações. Material iconográfico
+655.28.028	Trabalhos de acabamento. Inclusive Limpeza e
+distribuição dos tipos. Amarração da matéria
+composta. Guarda da composição pronta para
+impressão, guarda de suportes de dados, etc.
+Chapas já impressas aguardando distribuição.
+655.28.06	Produtos da composição. Chapas compostas.
+Composição pronta para impressão.
+655.28.062		Qualidade e características da composição.
+Inclusive Erros. Defeitos.
+655.28.066	Produtos compostos tipograficamente.
+655.28.066 dividido como 655.3.066 
+Divisões principais 
+655.281/.282            Composição e fundição mecânicas.
+Fundição de linhas inteiriças, linhas-bloco.
+655.281	Processos de composição e fundição de
+linhas inteiriças. Linotipia. Linotipo.
+Inclusive Linotype. Typograph. Ludlow.
+655.282	Processos de composição e fundição de tipos
+separados. Monotipia. Monotipo.
+Inclusive Monotype.
+655.285	Composição manual. Inclusive composição
+manual com tipos de metal. Composição
+com letras transferíveis a seco, por
+decalque.
+655.286	Composição datilográfica.
+      → 681.612.84 Mecanismo de justificação. Máquinas de escrever com justificação.
+655.287	Fotocomposição (fototipografia, composição filmográfica).
+      → 681.616.7 Máquinas de composição fotográfica. Máquinas e equipamento de fotocomposição
+655.3	Operações e técnicas de impressão. Impressão.
+      → 667.52 Tintas de impressão (pretas ou coloridas)
+      → 676 Indústria de pasta de papel, de papel e papelão
+      → 681.62 Máquinas de reprodução gráfica. Máquinas impressoras. Maquinaria auxiliar para 
+      impressão
+Subdivisões auxiliares especiais
+655.3.02	Operações. Processos.
+655.3.021	Operações preparatórias. Inclusive Preparação.
+Preparação da máquina,
+forma, tinta, papel.
+655.3.022	Processo de impressão.
+655.3.022.1	Estudos científicos.
+655.3.022.16                Impressão experimental.
+655.3.022.2	Estágios de produção. Inclusive Provas. Acerto
+(fazer o registro).
+655.3.022.3	Entintamento da forma.
+655.3.022.5	Aspectos físicos da área de impressão.
+Inclusive Forças de impressão. Pressão dos
+cilindros. Fenômenos de deformação.
+655.3.022.6	Impressão segundo princípios mecânicos.
+Inclusive Impressão plano-cilíndrica, rotativa.
+Direta e indireta ou offset.
+655.3.022.7	Formato do papel ou de outras superfícies
+impressionáveis. Inclusive Folha. Bobina ou
+rolo. Vasilhames. Outros objetos moldados.
+655.3.023	Problemas de impressão. Inclusive Dificuldades
+com a forma, a tinta, a máquina. Borrões,
+manchas, nódoas. Frades, mordidos.
+655.3.024	Impressão em cores.
+Segundo a quantidade de cores 
+Exemplo(s) de combinação(ões):
+655.3.024.2 Impressão em duas cores. Impressão bicolor
+655.3.024.3/.5 Impressão multicor. Impressão por processo fotomecânico
+655.3.024.3	Impressão em tricromia
+655.3.024.4	Impressão em tetracromia
+655.3.025	Impressão em várias superfícies exceto papel.
+Exemplo(s) de combinação(ões):
+    655.3.025:678.5 Impressão em plásticos em geral
+      → 666.1.058.4 Decalque no vidro. Impressão e nebulização do vidro. Impressão por tela no vidro (p. ex., processo
+      de serigrafia)
+      → 677.027.5 Impressão têxtil
+655.3.026		Impressão de determinados tipos de produto.
+Especificar por meio de ,066....
+655.3.027	Impressão de matéria pictórica, ilustrações.
+Trabalhos a traço e meio-tom.
+655.3.028	Trabalho de acabamento. Inclusive
+Limpeza. Secagem.
+655.3.06	Produtos da impressão. Impressos.
+655.3.062	Qualidade e características dos impressos.
+655.3.062.2	Qualidade das ilustrações, do material
+iconográfico. Inclusive Fidelidade de
+reprodução. Contraste. Nitidez.
+655.3.062.3	Defeitos do material impresso. Imperfeições.
+Inclusive Distorção. Borrões. Transparência.
+Registro ruim. Padrões de interferência,
+p. ex., moiré.
+655.3.062.9	Folhas estragadas. Refugos.
+655.3.066	Produtos impressos.
+655.3.066.11               Livros. Folhetos.
+655.3.066.12	Jornais.
+655.3.066.13	Revistas, periódicos.
+655.3.066.14	Avisos. Anúncios.
+655.3.066.22 	Reproduções artísticas
+655.3.066.23	Jobbing work (trabalho de definir materiais, estoque, compra especial, etc.). Material publicitário
+655.3.066.24	Cartazes. Letreiros.
+655.3.066.25	Embalagens.
+655.3.066.252	Rótulos. Etiquetas.
+655.3.066.26	Calendários.
+655.3.066.27	Decalcomanias.
+655.3.066.28	Peças transparentes.
+655.3.066.32             Cartões postais. Cartões de felicitações.
+655.3.066.34	Bilhetes, tíquetes.
+655.3.066.35	Formulários.
+655.3.066.356             Formulários com cópia por pressão. Formulários com carbono.
+655.3.066.36	Papel-moeda. Papéis de segurança. Títulos.
+Certificados de ações e outros.
+Selos postais, etc.
+655.3.066.43	Mapas. Globos.
+655.3.066.51	Representações tridimensionais.
+655.3.066.52	Microimagens.
+655.3.066.53	Peças impressas perfumadas.
+655.3.066.9               Outros produtos.
+Especificar por meio de :... 
+Divisões principais
+655.32	Impressão estereográfica, tipográfica.
+655.322	Impressão tipográfica.
+655.326	Outros tipos de impressão estereográfica.
+655.326.1	Flexografia (impressão com clichês
+de borracha).
+655.326.3	Impressão a vácuo.
+655.326.6	Linoleogravura.
+655.33	Impressão diagráfica. Trabalho com tela e
+estêncil.
+655.332	Serigrafia. Impressão com telas. Silk-screen.
+	      → 666.1.058.4 Decalque no vidro. Impressão e nebulização do vidro. Impressão por tela no vidro
+	      (p. ex., processo de serigrafia)
+655.335	Impressão com estêncil.
+655.34	Impressão planográfica.
+655.341	Impressão por colotipia. 
+655.342	Impressão litográfica com chapas de pedras
+655.343	Impressão planográfica direta com chapas de metal. Inclusive Zincografia
+655.344	Impressão planográfica indireta. Litografia
+offset. Impressão offset.
+655.35	Impressão a entalhe. Impressão a partir de
+superfícies entalhadas.
+655.352	Impressão a entalhe a partir de
+chapas gravadas.
+655.353	Impressão a entalhe a partir de chapas
+gravadas com água-forte. Gravura,
+fotogravura.
+655.36	Outras técnicas de impressão.
+655.366	Operações complementares. Inclusive
+Pautação. Paginação. Dobragem. Corte.
+Colagem. Encadernação. Estampagem.
+655.39	Outros processos de impressão
+e reprodução.
+655.392	Impressão eletrostática e processos
+similares.
+	      → 778.1 Fotocópia. Reprodução e impressão fotográfica.Reprografia
+655.395	Reprodução por meio de reações da cor.
+655.4	Edição e comércio de livros
+em geral.
+		      → 686.1 Encadernação
+655.41	Indústria editorial em geral. Editoras.
+655.411	Editoração científica.
+655.413	Edição de obras especializadas. Edição de
+trabalhos sobre ramos especializados do conhecimento ou para determinados grupos de leitores, profissões. etc.
+Exemplo(s) de combinação(ões): 
+655.413:050 Edição de publicações periódicas
+                                            655.413:62 Edição de obras técnicas
+                                            655.413:78 Edição de obras musicais
+                                           → 087 Documentos de origem ou destino particular
+655.418	Questões diversas sobre edição e publicação.
+655.418.1	Edição em comissão, por intermédio de agentes.
+655.418.3	Edição por conta do autor. Edição do autor.
+655.42	Comércio de livros em geral. Venda de
+publicações. Venda de livros em geral, de
+antiquários e por atacado.
+655.421	Comércio varejista de livros. Livrarias
+gerais.
+655.422	Venda de livros por representantes,
+caixeiros viajantes.
+655.423	Exportação de livros. Venda de livros
+pelo correio.
+655.424		Bancas de jornais. Venda de jornais e
+revistas. Distribuidores de jornais. Vendedores ambulantes de jornais. Jornaleiros.
+655.425	Antiquários. Sebos. Venda de livros de
+segunda mão.
+      → 090.1 Bibliofilia. Bibliomania
+655.426	Venda de livros especializados.
+Exemplo(s) de combinação(ões):
+655.426:61 Venda de livros médicos
+655.427	Empréstimo de livros.
+655.428	Venda de livros por intermediários.
+655.428.l	Venda de livros por distribuidores.
+655.428.2	Verida de livros por atacadistas.
+655.428.3	Venda de livros encalhados.
+655.5	Outras questões diversas sobre a
+indústria e o comércio de livros.
+	      → 001.81 Técnica do trabalho intelectual
+	      → 179.1 Ética da imprensa
+	      → 808.2 Editoração. Adaptação e organização do original para publicação
+
+Subdivisões auxiliares especiais
+655.5.03	Preços. Tabelas de preços.
+655.5.03 dividido como 658.8.03 
+Divisões principais
+655.51	Seleção de originais. Ofertas para
+publicação. Apresentação para exame,
+pedidos, aceitação de originais.
+655.512	Avaliação de originais. Leitores da editora.
+Perspectivas comerciais, de vendagem. Público-alvo.
+655.52	Relações entre editor e autor. Tamanho
+da edição ou tiragem. Direitos
+autorais. Edições revistas. Exemplares
+gratuitos, etc.
+655.521	Contrato entre o autor e o editor.
+		      → 347.788.1 Contratos de edição
+655.522	Direitos autorais. Inclusive Direitos do
+autor. Direitos do editor.
+655.523	Colaboração entre autor e editor durante a
+editoração e a impressão. Correções.
+Ilustrações.
+655.524	Contratos e acordos com associações
+de autores.
+655.525	Intermediários entre autor e editor.
+Inclusive Agentes literários. Acordos
+relativos aos direitos de tradução e
+adaptação.
+655.527	Acordos sobre a impressão. Inclusive
+Tiragem limitada. Cópias numeradas. Exemplares gratuitos do autor. Exemplares adicionais numa tiragem.
+655.53	Especificações de livros, relatórios,
+periódicos, outras publicações.
+655.531	Formato e qualidade do papel.
+655.532	Especificações sobre estilos de tipos e
+impressão. Inclusive Tipologia. Tamanho da
+mancha. Largura da coluna.
+655.533	Ilustrações. Material iconográfico.
+      → 655.28.027 Inserção de ilustrações no texto. Diagramação, arranjo, integração de ilustrações
+655.534	Encadernação, capa, sobrecapa. Lombada.
+		      → 686.1 Encadernação
+655.535	Partes de livros, relatórios, periódicos
+e outras publicações.
+655.535.2	Informação bibliográfica constante das
+publicações. Inclusive Página de rosto. Sumário. Legenda bibliográfica (em periódicos). Folhas de errata,.655.535.28	Colofão. Imprenta. Número de identificação.
+Inclusive International Standard Book Number (ISBN). Número Internacional Normalizado do Livro (ISBN).
+ 
+655.535.4	Proêmio. Introdução. Preâmbulo. Prefácio.
+Apresentação do editor.
+655.535.5	Texto ou corpo da publicação. 
+Divisões do texto: capítulos, seções, artigos,
+parágrafos, etc. Notas de rodapé.
+Referências (no texto).
+655.535.6	Anúncios. Seção de anúncios.
+      → 659.131 Publicidade em publicações
+655.535.7	Índices. Listas de figuras, ilustrações.
+Bibliografia (separada do texto).
+655.54	Preço de venda, preço de capa das
+publicações.
+		      → 655.5.03 Preços. Tarifas
+655.55	Lançamento das publicações. Promoção,
+publicidade. Anúncio de livros, etc.
+Resenhas, recensões, notas na imprensa.
+		      → 659.1 Publicidade. Propaganda
+655.56	Organização das vendas.
+	      → 070.33 Distribuição
+                                      → 656.886 Serviço postal de assinatura de periódicos, jornais e outras publicações seriadas
+655.561	Organização da distribuição. Inclusive
+Distribuição por atacadistas, distribuidores, etc. Mala direta, despacho pelo correio (p. ex., de periódicos).
+655.563	Condições de fornecimento e entrega.
+Inclusive Envio automático de novos títulos (standing order). Venda ou devolução.
+655.567	Estoques de publicações.
+655.57	Métodos de publicação.
+655.571	Publicação por assinatura.
+655.572	Publicação em partes ou fascículos.
+655.578	Publicação simultânea em periódicos e
+como separatas. Seriação em jornais
+(folhetins).
+		      → 050 Publicações seriadas. Periódicos
+                                       → 070.448 Artigos literários. Artigos sobre artes
+655.58	Publicação e venda por associações,
+clubes do livro, etc.
+655.59	Publicação por órgãos estatais,
+autoridades públicas, serviços públicos,
+etc. Editoras e imprensas de órgãos da administração
+pública.
+
+656	Serviços de transporte e serviços postais. Organização e controle do tráfego
+
+Especificar as características do equipamento de transporte e postal por meio de –1/-9
+(de 62-1/-8 e 66-9)
+Os auxiliares relacionados em 5.0... não são aplicáveis em 656 e suas subdivisões
+→ 338.47 Economia do transporte e das comunicações. Aspectos econômicos dos meios de comunicação. Política de transportes
+→ 338.48 Turismo
+→ 343.346 Delitos, infrações de trânsito. Delitos contra as comunicações
+→ 347.763 Transporte. Comunicação
+→ 347.79 Direito marítimo. Leis sobre navegação, sobre navegação interior
+→ 347.8 Direito do ar, do espaço, do éter
+→ 351.81 Fiscalização do trânsito. Polícia de trânsito
+→ 354.4 Ministério do transporte, das comunicações
+→ 355/69 Transporte militar. Movimentos de tropa e suprimentos
+→ 629 Engenharia de veículos de transporte
+→ 658.286 Manipulação, transporte de materiais
+Subdivisões auxiliares especiais
+656.01	Organização geral.
+656.015	Locais de parada. Locais de repouso. Locais de estacionamento.
+656.016	ou postos de serviço, abastecimento de combustível e de víveres.
+656.013		Estações. Terminais. Complexos de auto-estradas.Inclusive Comodidades de hotéis e restaurantes
+656.015		Locais de parada. Locais de repouso. Locais de estacionamento.
+656.017		Aspectos técnicos de operação do veículo (técnicas operacionais), inclusive Desempenho.
+656.017.1	Operações preliminares e preparatórias. Operações antes de parada, após a chegada.
+656.017.2	Operações de direção, de navegação em geral.
+Exemplo(s) de combinação(ões):
+      656.017.2:005.963.1 Treinamento de motoristas
+656.017.21	Cômputos navegacionais.
+656.017.22	Técnica de direção.
+656.017.24	Técnicas de manobra.
+656.017.26	Operações a bordo para manutenção do  veículo (pela tripulação).
+656.02	Itinerários, serviços e características especiais.
+656.021	Freqüência de tráfego. Densidade de
+tráfego. Observação do tráfego.
+656.021.2	Freqüência de transporte. Densidade de tráfego.
+656.021.22	Baixa densidade.
+656.021.24	Alta densidade. Inclusive Tráfego
+congestionado.
+656.021.5	Capacidade do itinerário de tráfego.
+656.022	Itinerários. Linhas. Serviços.
+656.022.l	Itinerários regulares. Serviços programados.
+656.022.2	Itinerários ou serviços temporários.
+656.022.3	Serviços irregulares. Serviços ocasionais,
+especiais.
+656.022.31	Serviço de táxi.
+656.022.32	Serviço de fretamento.
+656.022.33	Excursões. Viagens de férias.
+656.022.4	Abertura, alteração e interrupção de itinerários.
+656.022.5	Horários. Chegada e partida.
+656.022.6	Modificações imprevistas ou acidentais da
+viagem. Inclusive Cancelamento, interrupção,
+adiamento da viagem. Extensão, modificação,
+desvios do itinerário.
+656.022.8	Itinerários segundo a importância e o modo
+de transporte.
+656.022.81	Itinerários, rotas principais.
+656.022.82	Itinerários, rotas secundárias. Itinerários,
+rotas de ligação.
+656.022.83	Rotas e serviços nacionais (internos).
+656.022.86	Cabotagem. Navegação costeira.
+656.022.87	Transporte aéreo e marítimo combinados.
+656.022.88	Transporte aéreo e ferroviário combinados.
+Inclusive Para carga: serviço de carga de
+trânsito aéreo-ferroviário.
+656.022.9	Área de operação. Locais servidos ou visitados.
+Paradas, estações, escalas.
+656.025	Transporte de pessoas e carga.
+656.025.2	Transporte de pessoas. Transporte de passageiros.
+	656.072 Serviços e formalidades de passageiros
+656.025.4	Transporte de mercadorias. Transporte
+de carga.
+	      → 656.073 Serviços e formalidades de transporte de mercadorias
+656.025.6	Transporte de pessoas e carga em
+grande escala.
+656.027	Transporte segundo a velocidade, rapidez.
+Transporte lento e expresso.
+656.029.4	Transporte com tráfego compartilhado.
+Inclusive Transporte em itinerários comuns.
+656.03	Tarifas. Despachos. Taxas. Preços.
+Pedágios. Custos de transporte e preços de passagens.
+      → 658.8.03 Preços e tarifas de venda
+656.031		Princípios, estrutura de tarifas.
+656.031.2	Tarifa bruta.
+656.031.3	Tarifa líquida.
+656.031.4	Tarifa a preço de custo.
+656.031.5	Princípios gerais de tarifação.
+656.031 dividido como 658.8.035
+656.031.8	Alteração de tarifa. Inclusive Aumento, elevação das taxas. Redução, diminuição das taxas.
+656.032	Tarifas para pessoas e suas bagagens.
+656.032.l	Tarifas segundo o número e freqüência
+de viagens.
+656.032.13	Tarifas para bilhetes de temporada (para
+itinerários simples ou em rede). Inclusive
+Bilhetes de áreas, de zonas.
+656.032.14	Tarifas para um número dado de viagens
+(p. ex., bilhetes para seis ou dez viagens).
+656.032.2	Tarifas segundo a localidade e a distância.
+Inclusive Tarifas para trânsito ou viagens
+diretas. Passagem de volta. Tarifas para
+viagens de ida-e-volta.
+656.032.3	Tarifas segundo a ocasião da viagem.
+Exemplo(s) de combinação(ões):
+      656.032.3“345” Tarifas noturnas
+656.032.34	Tarifas para férias. Inclusive Tarifas para feriados públicos, dias de folga, outros
+feriados. Tarifas para excursões de férias.
+Exemplo(s) de combinação(ões):
+      656.032.34:792 Tarifas para visitas ao teatro
+      656.032.34:796 Tarifas para visitas a eventos esportivos
+656.032.4	Tarifas segundo a categoria de passageiro. Tarifas reduzidas. Inclusive Tarifas
+para crianças.
+                               Exemplo(s) de combinação(ões):
+                                    656.032.4-053.4 Tarifa para crianças
+                                    656.032.4-053.9 Tarifa para pessoas idosas
+                                    656.032.4-059.2 Tarifa para grupos de pessoas
+656.032.5	Tarifas para grupos de pessoas.
+656.032.6	Tarifas para bagagem.
+656.032.7	Tarifas segundo a velocidade, rapidez de transporte. Tarifas normais e expressas.
+Exemplo(s) de combinação(ões):
+      656.032.7-026.512.1 Tarifas expressas
+656.032.8	Tarifas segundo o tipo de acomodação durante a viagem. Tarifas segundo a classe de viagem.
+Inclusive Tarifas de luxo.
+Exemplo(s) de combinação(ões):
+      656.032.8-021.477 Segunda classe.
+      656.032.8-021.478 Terceira classe. Classe econômica
+      656.032.8-021.479 Primeira classe. Classe de luxo
+656.032.9	Cobranças extraordinárias. Tarifas especiais. Viagens gratuitas. Inclusive Adicionais por
+assento, leito e reserva de cabines. Taxas para uso da plataforma.
+Exemplo(s) de combinação(ões):
+      656.032.9:645.41 Taxas por reserva de assento
+      656.032.9:645.421 Taxas por acomodação para dormir
+      656.032.9-027.565 Viagem grátis
+      656.032.9-027.566 Taxas de excesso
+656.033	Tarifas para carga. Tarifas para
+mercadorias.
+656.033.l	Tarifas segundo o número e freqüência
+de viagens.
+656.033.2	Tarifas segundo a localidade e distâncias.
+656.033.3	Tarifas segundo a ocasião de viagem. Inclusive
+Tarifas noturnas. Tarifas para dias feriados.
+656.033.4	Tarifas segundo os consignadores e
+consignatários das mercadorias. Inclusive
+Tarifas especiais para autoridades públicas.
+656.033.6	Tarifas para finalidades específicas. Inclusive
+Tarifas segundo a natureza da carga. Tarifas por
+volume, pelas propriedades, por artigo, por
+cargas volumosas. Tarifas para objetos
+especiais, p. ex., bicicletas.
+		      → 620.2 Materiais comerciais. Mercadorias. Produtos manufaturados
+656.033.7	Tarifas segundo a velocidade, a rapidez do
+transporte. Tarifas normais ou expressas
+para cargas.
+656.033.8	Tarifas especiais. Inclusive Tarifas para coleta,
+para acomodação de objetos volumosos. Tarifas
+para transportes com responsabilidade
+limitada. Frete volumoso e não-deteriorável.
+656.033.9	Tarifas extraordinárias. Inclusive Taxas de
+seguro, registro, etc. Taxas para serviços de
+resposta paga e pagamento contra entrega, etc.
+Taxas pelo carregamento, redespacho, transbordo, armazenamento, trapiches, etc. Emolumentos do porto, impostos de atracação, etc.
+656.034	Tarifas para transporte de animais.
+      656.034 dividido como 656.032
+656.035	Recebimento de dinheiro, das passagens.
+656.035.2	Métodos de cobrança das passagens.
+656.035.21	Bilheterias. Venda de bilhetes por pessoal
+próprio (bilheteiros. condutores).
+656.035.22	Máquinas automáticas de vender bilhetes.
+      → 681.173 Máquinas de tíquetes, bilhetes. Máquinas para cancelar. Máquinas de franquia
+656.035.3	Controle dos bilhetes. Inspeção dos bilhetes.
+656.035.4	Medidas contra irregularidades. Multas,
+penalidades por viajar sem bilhete válido, etc.
+656.035.6	Pagamento por assentos, leitos, cabines
+reservadas, etc. Etiquetas de reserva.
+656.035.7	Época do pagamento.
+656.035.71	Pré-pagamento. Pagamento adiantado.
+656.035.77	Pós-pagamento. Pagamento posterior.
+656.036	Locais para pagamento.
+656.037	Questões relativas à alfândega.
+Especificar por meio de :339.543...
+656.038	Entrega de mercadorias.
+656.039	Documentos de viagem. Bilhetes. Recibo. Comprovantes.
+656.039.l	Bilhetes, etc. para passageiros c bagagem em geral.
+656.039.4	Documentos para transporte de mercadorias.
+Documentos de carga. Inclusive Conhecimentos
+de embarque. Manifestos de carga. Guia de
+mercadorias embarcadas.
+Notas de consignação
+      → 347.795 Transporte marítimo e fluvial. Conhecimento de carga
+656.039.6	Documentos para transporte de animais.
+656.039.7	Documentos de alfândega e documentos fiscais.
+Inclusive Documentos relativos a cotas
+de comércio.
+656.04	Avarias. Atrasos. Reclamações. Responsabilidade.
+		      → 347.796 Danos, perdas marítimas. Avarias
+       → 347.824 Questões legais especiais relativas a aeronaves
+656.043	Avarias. Atrasos na viagem. Reclamações.
+656.045	Responsabilidade.
+656.045.2	Questões gerais. Tipos de responsabilidade.
+Inclusive Responsabilidade absoluta (que não
+aceita erro). Responsabilidade por negligência,
+atrasos, paradas.
+656.045.3	Limitação de responsabilidade.
+656.045.4	Exclusão de responsabilidade. Não-
+responsabilidade. Cláusulas de restrição
+('isenção de responsabilidade`).
+656.045.5	Responsabilidade de organizações com
+localização fixa. Responsabilidade
+de estações, portos, etc.
+656.045.6	Responsabilidade do transportador: motorista,
+capitão, piloto, etc.
+656.045.7	Responsabilidade do proprietário ou
+encarregado.
+656.045.8	Responsabilidade de motorista ou piloto ilegal.
+656.05	Tráfego. Transporte. Sinais de tráfego
+	      → 351.81 Fiscalização do trânsito. Polícia de trânsito
+656.051	Princípios gerais do movimento de tráfego.
+656.052	Condução de veículos. Navegação. Manobras.
+Para os aspectos técnicos das operações do veículos,  usar 629.07
+→ 629.05 Sistemas de direção, controle de partida, instrumentos e sistemas de navegação (instalados no veículo)
+656.052.l	Navegação. Planejamento da rota.
+656.052.2	Operações e procedimentos antes da saída ou
+depois da chegada.
+656.052.3	Partida.
+656.052.4	Controle durante a viagem. Condução,
+manobras, etc. em viagem.
+656.052.42	Viagem em linha reta, retilínea.
+656.052.43	Velocidade. Duração. Distância.
+656.052.44	Mudanças de velocidade. Inclusive Aceleração.
+Desaceleração, frenagem.
+656.052.45	Mudanças de direção em geral.
+656.052.46	Mudanças de direção no plano horizontal.
+Inclusive Retorno. Reversão.
+656.052.47	Mudanças de direção no plano vertical.
+Mudanças de altitude, altura, profundidade.
+Inclusive Subida, ascensão. Mergulho, descida.
+656.052.48	Viagem com relação a obstáculos. Manobras em
+relação a outros veículos.
+656.052.5	Viagem em determinadas condições,
+especialmente meteorológicas. Viagens em
+condições atmosféricas diversas.
+656.052.52	Viagem sem visibilidade, às cegas.
+656.052.53	Viagem em meio a cerração, neblina, chuva.
+656.052.54	Viagem no frio, no gelo, na neve.
+656.052.55	Viagem durante tempestades, ventanias.
+656.052.56	Viagem sobre superfícies precárias.
+656.052.57	Viagem sob mudanças súbitas de condições.
+Inclusive Em contracorrentes, redemoinhos.
+Perda de âncora.
+656.052.59	Viagem acrobática. Acrobacias eqüestres,
+acrobacias dirigindo veículos, etc. Acrobacias aéreas.
+656.052.7	Conclusão da viagem. Inclusive Parada.
+Aterrissagem. Atracação. Amarração.
+Ancoragem.
+656.052.72	Navegação de abordagem.
+Exemplo(s) de combinação(ões):
+      656.61.052.72 Aproximação do porto.
+      656.7.052.72 Aproximação do aeroporto.
+      656.052.74 Conclusão da jornada. Parada. Inclusive Estaleiro.
+      656.61.052.74 Parada do navio. Atracamento. Estaleiro. Amarração. Ancoragem
+      656.7.052.74 Parada do avião ou aeronave. Descida. Aterrissagem. Amarração.
+656.052.8	Instrução, prática, treinamento de controle
+de veículos.
+656.052.9	Relatórios de viagem. Diários de bordo.
+656.053	Restrições e controle do tráfego.
+Regulamentação do tráfego.
+656.053.2	Restrições de velocidade. Limites
+de velocidade.
+656.053.3	Restrições quanto ao sentido, direção do
+tráfego. Inclusive Sistemas de mão única.
+Balões, praças rotatórias.
+656.053.4	Restrições quanto ao peso ou dimensões
+do veículo. Proibição de determinados
+tipos de veículos.
+656.053.41	Restrições quanto ao comprimento, largura,
+altura dos veículos.
+656.053.42	Restrições quanto ao peso do veículo.
+656.053.43	Restrições quanto ao tipo de carga.
+656.053.431	Carga de pessoas. Limite ao número
+de passageiros.
+656.053.432	Carga, frete de mercadorias. Limites quanto à
+dimensão e peso da carga.
+656.053.5	Restrições a espera. Proibição de parada.
+656.053.6	Restrições quanto a paradas (por tempo longo).
+Restrições ao estacionamento. Proibição de
+estacionar, atracar, aterrissar.
+656.053.63	Regulamentos de estacionamento, amarração, aterrissagem. Inclusive Taxas de parquímetros e de atracamento.
+656.053.7	Restrições quanto ao ruído do trânsito.
+Inclusive Restrições quanto a sistemas acústicos
+de advertência (p. ex., de uso de buzinas em
+veículos automotivos).
+      → 351.759.4 Medidas contra perturbações da tranqüilidade pública. Diminuição do ruído
+      → 534.836 Barulho fora dos edifícios
+      → 625.098 Ruído do tráfego (resultante da interação com a superfície). Ruído da superfície
+      → 628.517.2 Medidas contra o ruído. Controle do ruído
+656.053.8	Obstrução das vias de trânsito. Fechamento de
+vias ao trânsito. Manutenção de acesso
+livre a edifícios.
+656.054	Sinais de trânsito.
+	654.9 Sinalização. Serviços diversos de telecomunicação. Controle remoto (telecontrole)
+656.054.l	Sinais dados por guardas de trânsito.
+656.054.2	Sinais dados aos guardas de trânsito.
+656.054.3	Sinais feitos entre si pelos usuários das
+estradas. Inclusive Indicação de mudanças
+de velocidade, frenagem, parada, mudança
+de direção.
+→ 656.057 Luzes  externas nos veículos. Luzes que indicam a posição (luzes laterais, luzes traseiras). Indicadores 
+luminosos de direção
+656.054.8	Sinais de informação.
+656.055	Sinais fixos, permanentes de trânsito.
+		      → 625.745.6 Sinais. Postes de sinalização
+      → 625.746.5 Trabalhos subsidiários de controle do tráfego
+656.055.9	Sinais de advertência. Sinais que indicam
+proibição ou obrigação. Inclusive Sinais de
+perigo. Sinais de curvas, cruzamentos,
+passagens de nível, etc. Sinais de prioridade
+de trânsito.
+656.055.96	Outros sinais. Inclusive Sinais para ilhas
+(refúgios) do trânsito, direção do fluxo de trânsito, perigo de derrapagem, etc. Sinais indicativos de estradas. Sinais de direção. Sinais de distância. Indicadores de nomes de lugares.
+656.056	Sinais móveis, temporários. Sinais de
+parada.
+		      → 625.746.5 Sinais. Postes de sinalização
+656.056.4	Semáforos. Sinais de trânsito. Sinais luminosos.
+656.057	Luzes e faróis. Sinais luminosos (excetos
+os sinais luminosos de trânsito).
+	      → 628.975 Iluminação para sinalização, sinais de advertência, avisos, de direção
+656.057.l	Luzes para marcar a pista.
+656.057.3	Luzes para finalidades diversas.
+Sinais iluminados.
+      656.057.3 dividido como 656.053
+656.057.4	Luzes de orientação, faróis. Inclusive Luzes na
+entrada do porto.
+		      → 627.71 Instalações de navegação. Equipamento e materiais de apoio para navegação. Marcação das áreas para 
+                                     navegação
+656.057.7	Pequenos dispositivos iluminados de
+sinalização (fixos ou independentes). Luzes
+intermitentes, p. ex., para corpo de bombeiros,
+para a polícia.
+656.057.8	Iluminação e lâmpadas de veículos.
+	      → 628.94 Luminárias (lâmpadas, armações de luz). Projetores de luz. Dispositivos de  
+                                      direcionamento do feixe de luz
+656.057.83	Luzes segundo a cor.
+656.057.83 dividido como 535-2
+656.057.831	Luzes vermelhas.
+656.057.87	Lâmpadas nos veículos para iluminar
+a estrada. Faróis.
+656.057.88	Luzes externas nos veículos. Luzes que indicam posição (luzes laterais, luzes traseiras). Indicadores luminosos de direção
+                                   	      → 656.054.3 Sinais feitos entre si pelos usuários das estradas
+
+
+
+46
+
+

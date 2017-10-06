@@ -1,0 +1,1389 @@
+﻿69 Indústria da construção. Materiais de construção. Práticas e procedimentos de construção
+
+      Classificam-se em 69 informações sobre a indústria da construção em geral, inclusive materiais, componentes, técnicas 
+                       e execução da construção. A fabricação de materiais e componentes de construção é classificada em 66/67; as 
+                       questões de engenharia civil em 624/628, as questões arquitetônicas,  em 72. 
+Os auxiliares -1/-9, de 62-1/-8 e 66-9, são aplicáveis em 69 
+Exemplo(s) de combinação(oes):
+      69:614 Aspectos dos edifícios do ponto de vista da saúde pública. Inclusive: “síndrome do edifício doente” 
+	      69:614:725.1:005.912 Quarteirões de escritórios “doentes”  → 349.44, 351:69, 351.785 
+                       69-115 Construções para múltiplos fins 
+                       69-5 Operações e controle das máquinas e processos em construções. Inclusive Edifícios inteligentes 
+Subdivisões auxiliares especiais
+69.0		Os auxiliares. 0 têm sentido semelhante em 624 e 69, usar preferencialmente. 03 e .05 (que se referem, sobretudo, 
+                                  a construções) principalmente em 69, mas. 0l, .04 e .07 (que se referem a todas as estruturas em geral) principalmente 
+                                 em 624 
+69.01		Construções e partes de construções segundo o material. 
+       Ver nota em 69.01
+Os auxiliares. 01 não são aplicáveis em 691 e 693 e suas subdivisões
+69.01 dividido como 624.01
+69.03	Dimensões, permanência, localização e forma das construções.
+69.032	Tamanho das construções em geral (grandes, médias, pequenas).
+→ 69.053 Medidas, dimensões das edificações. Altura, largura (frente) e profundidade da construção 
+69.032.2	Construções de vários pavimentes em geral.
+69.032.21	Construções segundo o número de pavimento.
+69.032.22	Construções altas. Edifícios altos. Arranha-céus. 
+69.032.4	Construções muito pequenas.
+69.032.6	Construções muito leves.
+69.033	Construções desmontáveis,transportáveis
+e temporárias. Estruturas infláveis, 
+desinfláveis (estruturas p0hneumáticas, 
+pressurizadas ou de ar).
+→ 351.778.534 Moradias temporárias. Habitação de emergência. Casas pré-fabricadas para uso a curto 
+prazo 
+69.033.l	Construções e estruturas desmontáveis (e
+desinfláveis).
+69.033.15	Estruturas infladas, desinfláveis (de borracha ou
+plástico).
+69.033.2	Construções transportáveis.
+69.033.6	Construções temporárias. Construções de
+emergência, provisórias, cabanas.
+69.033.8	Construções permanentes (em oposição a
+temporárias).
+69.034	Construções relacionadas com a água.
+69.034.2	Construções flutuantes.
+69.034.3	Construções na água (não-flutuantes).
+69.034.4	Construções parcialmente na água.
+69.034.5	Construções subaquáticas.
+69.034.6	Propriedades e composição da água que afetam 
+as estruturas na água. Inclusive Evaporação.
+69.034.7	Depósitos. Cascalho. Seixos. Sedimento. Restos 
+de naufrágio.
+69.034.8	Limpeza das partes afetadas.
+69.034.9	Proteção contra os efeitos da água e do ar.
+69.034.92	Revestimentos. Coberturas. Paramentos.
+69.034.93	Enchimentos. Empanque. Vedação. 
+69.034.96	Drenagem.
+69.035	Construções em áreas montanhosas.
+Construções subterrâneas.
+→ 624.127 Proteção, reforço de inclinações 
+na rocha. Engenharia protetora da rocha em terreno montanhoso
+→ 624.144 Danos e acidentes causados pela neve e pelo gelo na terra (precauções, prevenção e controle)
+69.035.2	Construções em encostas. Construções em 
+montanhas e aclives de colinas.
+69.035.4	Construções subterrâneas. Edifícios subterrâneos.
+69.036	Construções segundo a planta baixa.
+69.036.1	Estruturas retas.
+69.036.2	Estruturas enviesadas.
+69.036.3	Estruturas curvas.
+69.036.4	Estruturas com uma única abertura.
+69.036.5	Estruturas com diversas superestruturas 
+independentes.
+69.036.6	Estruturas com superestruturas conexas ou 
+contínuas.
+69.036.7	Estruturas com armações de vigas entrecruzadas
+de sustentação de carga.
+69.036.8	Estruturas de sustentação de carga de múltiplos 
+pavimentos.
+69.04	Estática gráfica e analítica para
+estudo e cálculo de estruturas. Resistência, estabilidade , etc.
+Ver nota em 69.0  
+69.04 dividido como 624.04
+69.05		Localização, organização e planta.
+Construção industrializada. Testes do terreno. Defeitos de construção. Durabilidade e manutenção da construção.
+69.051	Escolha e estudo do terreno. Estado do 
+terreno no início do trabalho.
+→ 624.131.31 Levantamento do terreno. Exame do local
+69.052	Vias de acesso ao canteiro de obras. Estradas acabadas. Estradas temporárias.
+69.053	Medidas, dimensões das edificações. Altura, largura (frente) e profundidade da construção.
+→ 69.032 Tamanho das construções em geral (grandes, médias, pequenas)
+69.054	Marcação e estabelecimento das estruturas previstas no projeto e das áreas de circulação.
+69.055	Arranjo e organização do canteiro de obras.
+69.055.2	Armazenamento de materiais e componentes de 
+construções industrializadas. Proteção contra 
+umidade e calor. Equipamento para pré-
+aquecimento ou resfriamento antes do 
+armazenamento.
+69.055.6	Construções temporárias no canteiro de obras. Inclusive Escritórios no canteiro de obras. Acampamento para 
+                                 os trabalhadores. Barracões para guarda de equipamentos e ferramentas.
+69.055.7	Serviços.
+Exemplo(s) de combinação(ões):
+69.055.7:696. l Abastecimento de água 
+69.055.7:696.6 Abastecimento de eletricidade
+69.056	Preparação de partes para construção 
+industrializada. Sistemas industrializados 
+de construção.
+69.056.3	Sistemas industrializados de construção segundo 
+sua intercambialidade. Inclusive Sistemas abertos (intercambiáveis). Sistemas fechados (não-intercambiáveis).
+69.056.5	Sistemas industriais de construção segundo o 
+tipo de componente.
+69.056.52	Estruturas de placas de concreto pré-moldado 
+(placas do tipo parede).
+69.056.53	Estruturas de lajes (lajes de cobertura).
+69.056.55	Estruturas de armação. Inclusive Pilares, suportes.
+→ 624.94 Estruturas de esqueleto. Estruturas de arcabouço
+69.056.56	Estruturas celulares. Estruturas em caixote 
+(células do tamanho dos aposentos).
+69.057	Industrialização da construção. Processos 
+para edificação de partes pré-fabricadas e 
+estruturas completas.
+69.057.l	Pré-fabricação de partes de construção no 
+canteiro de obras ou perto dele. Fabricação no local da obra.
+69.057.2	Montagem no local.
+69.057.4	Levantamento, içamento, descida, 
+movimentação no ar de componentes separados 
+ou estruturas inteiras.
+69.057.43	Fixação e montagem de partes.
+69.057.44	Levantamento de torres, chaminés, tanques e 
+estruturas estacionárias para apoio de cargas 
+móveis.
+69.057.45	Construção por métodos de elevação. Inclusive Elevação por guindastes, macacos, plataformas, etc. Método de laje levantada. 
+69.057.46	Descida até a posição adequada de componentes 
+ou estruturas completas no solo. 
+69.057.47	Subida até a posição adequada e posicionamento 
+de unidades grandes ou estruturas completas. Inclusive Posicionamento de partes de pontes, túneis subaquáticos, tubulações. 
+69.057.5	Armações (moldes, fôrmas, arcabouço). Cimbre, 
+cambotas. Centralização.
+69.057.51	Tipos de armações.
+69.057.52	Fôrmas. Armações para paredes, divisórias e
+partes estruturais, geralmente verticais.
+Armações verticais e horizontais móveis.
+Fôrmas deslizantes. Armações ascendentes.
+69.057.53	Armações para pisos. Armações para partes ou 
+estruturas geralmente horizontais.
+69.057.55	Fôrmas infláveis, desinfláveis. Fôrmas
+pneumáticas.
+69.057.58	Cambotas e fôrmas para arcos. Fôrmas para
+pilares, colunas, chaminés, canalizações, ductos, etc.
+69.057.59	Armações permanentes. Armações auto-
+sustentáveis.
+69.057.6	Andaimes de construção. Plataformas de trabalho. Inclusive Andaimes infláveis, desinfláveis.
+→ 62-774.5 Superfícies, lugares para ficar de pé
+69.057.7	Instalação e equipamento para manipulação e transporte no canteiro da obra.
+Exemplo(s) de combinação(ões):
+69.057.7:621.867 Transportadores 
+69.057.7:621.873 Guindastes em geral 
+69.057.7:621.876 Elevadores, monta-cargas. Guinchos
+69.057.7:625.31 Ferrovias de bitola estreita 
+69.057.7:629.353 Caminhões basculantes 
+69.058	Ensaios, testes no local. Estudo de estruturas inteiras.
+→ 624.04 Projeto estrutural. Estática gráfica e analítica para pesquisa e cálculo de estruturas 
+69.058.2	Medições de deformação.
+69.058.3	Medições de movimento de estruturas 
+completas.
+69.058.4	Medições de assentamento.
+69.058.5	Medições de tensão, de esforço.
+69.058.6	Medições de levantamento.
+69.058.7	Medições de temperatura.
+69.058.8	Medições de efeitos dinâmicos de cargas.
+69.059	Manutenção de edificações.
+69.059.1	Manutenção em geral. Inclusive Vistoria. Limpeza.
+69.059.2	Danos. Estragos. Conserto.
+69.059.22	Danos.
+69.059.25	Restauração. Consertos.
+69.059.28	Desmoronamento. Perda total.
+69.059.3	Reforço. Alteração. Conversão.
+69.059.32	Reforço de fundações e/ou da estrutura (por
+meios estruturais, injeção, etc.). Inclusive Calço. Suporte.
+69.059.35	Conversão. Alteração estrutural.
+69.059.38	Extensões de construções ou pavimentos já 
+existentes. Anexos ligados. Acréscimo de 
+pavimentos.
+69.059.4	Vida das edificações.
+69.059.5	Deslocamento, movimento, elevação de
+edificações inteiras.
+69.059.6	Demolição. Entulho.
+→ 628.4.036 Lixo deixado por construções. Entulho de obras. Entulho de demolição
+69.059.62	Demolição. Inclusive Desmonte para remontagem em outro local.
+Indicar os processos por meio de... 
+Exemplo(s) de combinação(ões):
+69.059.62-621.791.034 Com o emprego de maçaricos, etc. 
+69.059.62:621.9.048.7 Com emprego de feixes de partículas 
+→ 711.164 Desobstrução. Demolição. Redução do número de edificações 
+69.059.63	Limpeza de entulho.
+69.059.64	Utilização de entulho.
+69.059.7	Reconstrução. Reedificação (usando alguns 
+elementos da construção original).
+69.07	Elementos estruturais. Elementos
+sujeitos a carga.
+Ver nota em 69.0.
+69.07 dividido como 624.0 
+Divisões principais
+                 691  Materiais de construção. Componentes de construção
+Exemplo(s) de combinação(ões):
+691:620.l Ensaios de materiais de construção
+691:699.8 Materiais de construção com propriedades protetoras e especiais
+691:699.844 Materiais à prova de som. Materiais de isolamento acústico
+691-4 Estado, condição, forma de materiais
+      → 624.01 Estruturas e partes estruturais segundo o material e método de construção 
+691.1		Materiais de origem orgânica.
+691.11	Madeira. Produtos de madeira.
+691.112	Madeiras duras.
+691.113	Madeiras macias.
+691.115	Refugos de madeira. Serragem. Maravalhas.
+691.116	Madeira compensada. Madeira laminada.
+Folheado de madeira. Tábua laminada.
+691.12	Caules de planta. Palha. Juncos. Bambu.
+691.13	Cortiça. Substitutos da cortiça.
+691.14	Papel. Produtos de polpa de papel.
+→ 676.28 Papelão fibroso para construção. Papelão de parede. Papelão-feltro para telhado e assoalho
+691.145	Papéis de pa rede.
+→ 698.16 Ofício de empapelador  de paredes
+691.15	Outras substâncias vegetais fibrosas. Inclusive Tecidos. Fazendas.
+691.16	Materiais betuminosos. Inclusive Asfalto. Alcatrão. Piche. Placas, papelão alcatroado.
+691.17	Materiais macromoleculares. Borracha, plásticos, etc.
+691.173	Borracha.
+691.175	Plástico.
+→ 691.175.5/.8 dividido como 678.5/.8
+691.178	Gomas. Resinas e adesivos similares.
+691.18	Materiais de origem animal.
+→ 675.166 Couro para forração de assoalho e parede
+691.2	Pedras naturais. Outros materiais 
+minerais.
+691.21	Pedras naturais (segundo a origem e composição).
+691.21 dividido como 553.5
+691.212	Pedras plutônicas. Inclusive Granito. Sienito. 
+691.213	Pedras e lavas vulcânicas.
+691.213.5	Pedra-pome. Pozolana. Perlita.
+691.214		Pedras metamórficas. Xistos, etc.
+691.214.2	Ardósias (p. ex. ardósias de telhado).
+691.214.8	Mármore.
+691.215	Pedras sedimentares e carbonatadas. Inclusive Calcário. Arenito. 
+691.216	Arenitos calcários.
+691.217	Pedras silicosas.
+691.22	Areia, cascalho e agregados semelhantes.
+691.223/. 224 dividido como 553.623/.624
+691.26	Diversos materiais inorgânicos minerais
+econômicos e terras.
+691.261	Argilas. Feldspatos. Depósitos similares de
+silicato de alumínio.
+691.261 dividido como 553.61
+691.263/.266	Sais e outros compostos diversos.
+691.263/-266 dividido como 553.63/.66
+691.263.5	Gesso. gipsita. Alabastro.
+691.27	Silicatos fibrosos e folheados.
+691.27 dividido como 553.6
+691.3	Pedra artificial. Concreto. Aglomerados diversos.
+→ 666.96/.97
+→ 691.54 Couro para forração de assoalho e parede
+691.31	Pedra artificial. Pedra reconstituída.
+Produtos de gipsita, gesso natural, para 
+construção. Pedra de silicato de cálcio.
+→ 666.91 Indústria do gesso e de anidrita. Estuques de gesso e produtos de estuque
+691.311	Materiais de construção de gipsita e anidrita.
+	Exemplo(s) de combinação(ões):
+                                             691.31 l-419 Placa de gesso 
+                                         691.311 -431 Blocos de gesso 
+691.316	Tijolos artificiais de areia-óxido de cálcio.
+Pedra de silicato de cálcio. Tijolos leves de
+oxido de cálcio-concreto.
+691.32	Concreto. Elementos de concreto para 
+construção.
+      → 666.94 Indústria do cimento
+      → 666.97 Indústria de argamassa e concreto. Elementos de concreto. Produção de concreto em usinas
+691.322	Agregados (inclusive agregados leves). Cinzas. Clínquer. Escória. Pedra-pome. Agregados de concreto em geral.
+691.217	Concreto não-armado, não-reforçado.
+                                        Indicar a forma de elementos de concreto para construção, por meio de -4..., de 62-4...
+691.327.3	Concreto não-armado leve.
+691.327.32	Concreto agregado não-armado de peso leve.
+Especificar o agregado por meio de  691... 
+Exemplo(s) de combinação(ões):
+691.327.32:691.213.5 Concreto de pedra-pome 
+691.327.33	Concreto arejado. Concreto espumado.
+691.327.332	Concreto arejado.
+691.327.333	Concreto espumado.
+691.328	Concreto armado. Concreto protendido.
+Elementos do concreto armado. 
+→ 666.982 Concreto armado
+691.328.1	Concreto armado (concreto armado com aço).
+Elementos do concreto armado.
+691.328.2	Concreto protendido. Elementos do concreto
+protendido.
+691.328.3	Concreto armado de peso leve.
+691.328.4	Concreto armado com outro elemento, exceto aço.
+691.328.42	Concreto armado com metais não-ferrosos.
+691.328.43	Concreto armado com materiais inorgânicos 
+(exceto metais).
+691.328.44	Concreto armado com materiais orgânicos.
+Exemplo(s) de combinação(ões):
+691.328.44:691.12 Concreto armado com bambu
+691.328.5	Produtos de cimento armado. Produtos de 
+cimento-amianto, etc.
+691.33	Concretos e aglomerados artificiais com 
+outros aglutinantes inorgânicos, exceto o
+cimento.
+691.332	Concretos e aglomerados com aglutinantes pozolânicos e aditivos de óxido de cálcio ou gipsita. Concreto de 
+                                silicato. Concreto de óxido de cálcio.
+→ 691.316 Tijolos artificiais de areia-óxido de cálcio. Pedras de silicato 
+691.332.2	Concreto armado de silicato.
+691.332.3	Concreto protendido de silicato.
+691.332.5	Concreto arejado de silicato. Concreto 
+espumoso de silicato. Concreto leve de óxido de cálcio.
+691.333	Concretos e aglomerados com aglutinantes pozolânicos e álcalis ou ativadores hidráulicos. Concreto de solo-silicato.
+691.334	Concretos e aglomerados com aglutinantes baseados em magnésio. Xilolito.
+→ 674.816 Composições de resíduos da madeira, serragem
+691.34	Concretos e aglomerados artificiais com aglutinantes orgânicos. Inclusive Concretos de resina sintética. Concretos plásticos.
+691.4	Barro. Taipa. Argila. Artigos de barro. Materiais cerâmicos de construção.
+→ 666.7 Cerâmica grosseira. Artigos pesados de argila. Refratários. Materiais de cerâmica dura. Misturas de cerâmica e outros materiais
+691.41	Barro seco. Adobe. Lama. Terra-pisada. Taipa.
+691.42	Cerâmica ou argila pesada. Argila queimada.
+691.421	Tijolos de cerâmica.
+Exemplo(s) de combinação(ões):
+691.421-478 Tijolos perfurados 
+691.421.2	Tijolos comuns (tijolos de argila).
+691.421.24	Tijolos bem cozidos. Tijolos de clínquer.
+691.421.4	Tijolos para revestimento. Inclusive Tijolos vidrados
+→ 692.232.4 Paredes resistentes às intempéries. Revestimentos especiais. Fachadas
+691.421.7	Tijolos refratários. Tijolos quimicamente 
+resistentes.
+691.421.76	Tijolos refratários (resistentes ao fogo).
+→ 666.76 Corpos e produtos refratários
+691.421.77	Tijolos quimicamente resistentes. Tijolos 
+resistentes a álcalis. Tijolos resistentes a ácidos.
+→ 666.77 Corpos e produtos de argila pesada quimicamente resistente. Artigos de argila resistentes à corrosão 
+691.424	Telhas.
+691.43	Artigos de cerâmica vitrificada, porosa ou 
+semiporosa.
+691.432	Cerâmica vitrificada por sal em geral.
+691.433	Artigos de louça, de faiança.
+Exemplo(s) de combinação(ões):
+691.433-431 Tijolos de faiança. Ladrilhos de barro vitrificado (para pavimentação)
+691.433-462 Canos de barro vitrificado, manilhas
+691.434	Artigos de barro, argila, vitrificados. 
+Faiança. Terracota. Louça branca.
+691.434.2	Faiança, terracota para revestimentos, etc.
+691.434.3	Louça branca. Inclusive Louça sanitária. Azulejos de parede.
+691.49	Outros produtos de cerâmica. Inclusive Produtos de porcelana.
+691.5	Aglutinantes. Materiais de base.
+691.51	Óxidos de cálcio. Cal.
+                                            → 666.92 Indústria de cal. Cal e produtos de cal
+691.53	Argamassas em geral.
+691.54	Cimentos. Matérias pozolânicos.
+→ 666.944 Indústria do cimento
+→ 666.95 Pozolanas. Substâncias com efeito semelhante
+→ 691.3 Pedra artificial. Concreto. Aglomerados diversos
+691.541	Cimento romano.
+691.542	Cimento Portland.
+691.544	Outros cimentos. Inclusive Cimento com alto teor de alumina.
+691.545	Materiais pozolânicos.
+691.55	Estuques, rebocos.
+691.552	Lama. Terra. Esterco. Sangue. Outras 
+misturas primitivas.
+691.553	Estuques de gipsita. Estuques de anidrita.
+Exemplo!s) de combinação(ões):
+691.553:693.63 Massa de gipsita para estuque 
+      → 666.91 Indústria do gesso e de anidrita. Estuques de gessos e produtos de estuque
+691.554	Massas de reboco de óxido de cálcio.
+691.555	Rebocos, estuques de cimento.
+691.557                      Rebocos, estuques sintéticos.
+691.57	Tintas. Tintas feitas de cal e cola.
+Vernizes. Corantes. Conservantes.
+→ 667.6 Revestimentos e técnicas de revestimento. Tintas. Vernizes
+691.58	Materiais de base, enchimento e ligação.
+Compostos para nivelamento. Mástique.
+Massas de vidraceiro, almécegas.
+Adesivos.
+691.6	Vidros. Vidraças. Vidro em placas.
+Esmalte, etc.
+691.61/.62 dividido como 666.1/.2 
+691.615	Vidro em folha. Vidro plano em geral.
+691.616	Vidro plano trefilado.
+691.618.5	Vidro prensado.
+Vidro para construção, arquitetônico. Tijolos, ladrilhos, telhas, de vidro.
+691.624	Vidro colorido transparente. Inclusive Vidro para sol. Vidro que absorve o calor
+691.629	Esmaltes. Vitrificados.
+691.7	Materiais metálicos de construção.
+691.71/.78 dividido como 669.1/.8 com .018... como em 069.018
+→ 672.11 Componentes e acessórios de trabalho de ferro fundido e aço
+→ 682.6 Ferraria para construção
+691.713	Ferro fundido.
+691.714	Aço.
+		Exemplo(s) de combinação(ões):
+		      691.714.018.8 Aço inoxidável. Aço não-corrosivo
+691.72	Metais não-ferrosos em geral.
+691.73	Cobre. Ligas de cobre. Inclusive Bronze. Latão. Bronze de canhão
+691.74	Chumbo.
+691.75	Zinco.
+691.77	Metais  leves.
+691.8	Componentes simples 
+Ferramentas do construtor.
+→ 682.6 Ferraria para construção
+→683 Ferragens. Utensílios de ferro. Serralheria. Fabricação de garrafas. Lâmpadas. Utensílios para aquecimento
+691.81	Componentes simples  pré-fabricados.
+691.87	Materiais de construção para reforço em geral.
+      → 693.554 Reforço (com aço)
+      → 693.564 Reforço protendido. Aço protendido. Protensão
+691.88	Acessórios para fixação em geral. Inclusive Prendedores. Cavilhas. Pregos. Parafusos. Grampos. Braçadeiras
+      → 621.88 Dispositivos de fixação. Prendedores.
+
+692 Partes estruturais e elementos de construções
+
+692.1	Fundações de construções.
+→ 69.055 Arranjo e organização do canteiro de obras
+692.113	Obras de terra, terraplenagem em geral.
+→ 624.13 Geotécnica. Mecânica do solo. Obras de terra. Engenharia do solo congelado
+692.115	Fundações. Subestrutura em geral.
+→ 624.15 Engenharia de fundações. Obras de subestrutura
+692.2	Paredes. Divisórias.
+Exemplo(s) de combinação(ões):
+                                         692.2:693.2 Paredes de tijolo ou bloco
+                                         692.2:693.3 Paredes de taipa
+                                        692.2:694.5 Paredes de madeira leve
+692.21	Paredes limitantes e paredes divisórias em geral.
+692.212	Paredes limitantes que circundam espaços 
+abertos, jardins, etc. (inclusive portões).
+→ 712.35 Limites
+692.214	Paredes divisórias.
+Exemplo(s) de combinação(ões):
+      692.214:699.81 Paredes divisórias resistentes ao fogo 
+      692.214:699.844 Paredes divisórias à prova de som
+	      → 347.238.2 Propriedade conjunta em meação, p. ex. de muros. Uso conjunto de acessórios, 
+	      p. ex. poço, meação
+692.22	Paredes abaixo do nível de
+impermeabilização. Paredes, partes, abaixo
+do solo em geral.
+Exemplo(s) de combinação(ões):
+692.22:692.115 Paredes de fundações 
+692.22:699.82 Conjuntos de paredes à prova de umidade
+692.23	Paredes externas. Paredes circundantes 
+acima do solo em geral. Paredes em 
+elevação. Fachadas.
+→ 692.23 Paredes externas. Paredes circundantes acima do solo em geral. Paredes em elevação. Fachadas.
+692.231.2	Paredes externas de sustentação.
+692.231.3	Paredes externas que não são de sustentação.
+692.232	Paredes e fachadas externas. Partes da 
+construção resistentes às intempéries.
+692.232.l	Paredes sólidas, maciças.
+692.232.2	Paredes com cavidade. Paredes de camada dupla.
+692.232.3	Paredes com revestimentos impermeáveis.
+692.232.4	Partes resistentes às intempéries.
+Revestimentos especiais. Fachadas.
+692.232.42	Revestimentos com componentes pequenos. Inclusive Com ladrilhos. Com placas de ardósia. Madeira tratada.
+692.232.44	Com componentes grandes. Inclusive Com lâminas, placas.
+692.232.45	Paredes que fazem cortina de proteção.
+692.232.7	Paredes de preenchimento do esqueleto da construção.
+Indicar os materiais por meio de :691... 
+Exemplo(s) de combinação(ões):
+692.232.7:691.327.3 Paredes de preenchimento de concreto leve
+692.233	Detalhes de paredes externas. Partes 
+diversas inter-relacionadas segundo a 
+localização. Projeções, etc.
+→ 692.29 Pormenores de paredes em geral
+692.233.2	Detalhes de cimos de paredes e junções do
+telhado. Abas do telhado. Cornijas. Parapeitos.
+692.233.3	Frontões. Empenas.
+692.237	Detalhes das junções do piso e da parede.
+Vigas de tímpano de arco. Tímpano de arco de janelas.
+692.238	Balcões. Zimbórios. Outras projeções em
+cantiléver.
+692.239	Particularidades no nível do solo, térreo. Inclusive Entradas.
+692.24	Paredes internas. Paredes transversais.
+692.241.2	Paredes transversais de sustentação.
+692.241.3	Paredes transversais que não são de sustentação.
+692.25	Paredes divisórias.
+→ 694.5 Construções de madeira leve
+692.251	Divisórias de placas leves.
+692.253	Divisórias estruturadas, armadas.
+Indicar os materiais de revestimento por meio de  :691... e o material da armação por meio de :693... ou: 694... 
+Exemplo(s) de combinação(ões}:
+692.253:691.311-419 Divisórias de gesso 
+692.2 53:694.5 Divisórias de armação de madeira. Divisórias de sarrafos
+692.256	Divisórias temporárias. Divisórias estruturais de madeira compensada. Divisórias de vidro, etc.
+692.29	Pormenores de paredes em geral.
+→ 692.233 Detalhes de paredes externas. Partes diversas inter-relacionadas segundo a localização. Projetos,
+ etc.
+692.292	Projeções da parede. Cornijas. Corbéis.
+Plintos. Sancas e roda-pés (interior).
+692.294	Junções da parede. Inclusive Cantos. Ângulos. Aberturas chanfradas.
+692.295	Paredes curvas na planta baixa.
+692.297	Pilastras de parede. Arcobotantes. Colunas.
+Vigas de apoio. Pilares e colunas isoladas.
+692.298	Recuos de parede. Nichos.
+692.299	Aberturas na parede e em áreas circunvizinhas em geral. Inclusive Vãos. Pórticos. Bandeiras de portas. 
+Bandeiras de portas. Portais. 
+ → 692.8 Portas. Portões. Janelas. Entradas de serviço
+692.4	Tetos e telhados. Acessórios de telhado.
+      Indicar o objetivo por meio de :72...
+Exemplo(s) de combinação(ões):
+      692.44:726 Cúpulas de igrejas
+      → 624.042 Cálculo das cargas e esforços, tensões
+      → 624.072 Elementos para receber esforços biaxiais
+692.41	O telhado como cobertura de proteção. Inclusive Características dos telhados de resistência às intempéries.
+692.412	Relação com o clima. Precauções contra 
+chuvas tropicais e outros elementos.
+Proteção contra neve, etc.
+Exemplo(s) de combinação(ões):
+692.412:551.5 Fatores climáticos 
+692.412:696.121 Drenagem do telhado
+692.413	Inclinação do telhado. Queda do telhado.
+Ângulo de inclinação.
+692.415	Coberturas do telhado. Materiais de
+cobertura.
+692.42/.47	Formas de telhado. Construção do telhado.
+692.42	Sistemas de estrutura, arcabouço plano.
+Telhados de alta ou baixa inclinação.
+692.421	Telhados de vigas. Telhados de alpendres. Inclusive Telhados de viga de colarinho. Telhados de sela. Telhados de vão
+	em terças, etc.
+692.422	Telhados com arestas. Inclusive Telhados curvos com a parte superior em aresta. Telhados com arestas e a parte 
+                                superior empenada.
+692.423	Telhados de mansarda. Telhados com
+inclinações diferentes nos lados. Telhados
+de meia curva.
+692.425	Telhados de barracão. Telheiros. Telhados 
+com entrada para a luz do norte. Telhados 
+serrilhados.
+692.426	Telhados de vão amplo.
+692.43	Telhados planos. Telhados de terraço.
+Telhados planos fechados.
+692.432	Telhados planos.
+692.433	Telhados de terraço.
+692.435	Telhados planos fechados.
+692.44/.47              Sistemas de arcabouço tridimensional.
+692.44	Cúpulas. Domos. Telhados abobadados.
+→ 624.074.2 Domos. Cúpulas
+→ 624.074.3 Abóbadas. Construção abobadada
+692.442	Domos de Schwedler.
+692.443	Domos de Zimmerman.
+692.444	Domos com nervuras.
+692.445	Domos com trabalho reticulado. Domos em 
+rede.
+692.446	Telhados de lamela.
+692.447	Telhados de pavilhões. Campanários.
+692.45	Telhados em concha.
+→ 624.074.4 Estruturas de membrana contínua. Estruturas de placa dobrada (prismáticas)
+692.46	Telhados de placas dobradas.
+692.47	Telhados suspensos.
+692.48	Treliças de telhados. Vigas de telhado.
+Treliças de estrutura. Partes estruturais
+de treliças.
+→ 624.078.4 Conexões de partes estruturais (e seu cálculo). Juntas de madeira, de aço, etc. Pontas de junção
+692.484	Partes de treliças com elementos mistos.
+692.49	Partes de telhados. Detalhes de telhados.
+692.492	Aberturas nos telhados. Inclusive Clarabóias. Águas-furtadas. Luzes de telhados.
+692.493	Torres de cumeeira.
+692.497	Vidraças em telhados.
+692.5	Pisos. Pisos intermediários. Tetos.
+→ 624.074 Estruturas tridimensionais para suporte de carga (estruturas espaciais)
+692.51	Pisos apoiados no solo ou em vigas.
+Exemplo(s) de combinação(ões):
+692.51:699.82 Membranas impermeáveis à umidade
+692.52	Pisos suspensos e elevados. Subsolos.
+Pisos elevados. Balcões e galerias 
+internas.
+692.522	Pisos de concreto e outros pisos similares 
+resistentes a fogo. Pisos de lajotas. Pisos de lajes nervuradas. Pisos de vigas protendidas. Pisos de tijolos furados.
+→ 624.073.136 Placas em apoios sem cabeça de cogumelo (p. ex. tetos em forma de cogumelo)
+→ 624.073.5 Armações em forma de placa ou estruturas em grade
+692.526	Pisos de madeira.
+Exemplo(s) de combinação(ões):
+                                        692.526:694.4 Pisos de madeira maciça
+                                        692.526:694.5 Pisos de traves de madeira
+692.528	Pisos elevados. Inclusive Painéis nervurados de aço laminado.
+692.53	Assoalhos. Acabamentos de assoalho 
+(superfícies de desgaste). Inclusive os 
+Rodapés e molduras do mesmo material.
+→ 645.1 Pisos, guarnições de pisos, etc.
+→ 692.292 Projeções da parede. Cornijas. Corbéis. Plintos. Sancas e roda-pés (interior)
+→ 693.7 Ladrilhamento de assoalhos. Ladrilhamento de paredes. Pavimentação. Ofício de calceteiro. Trabalho com asfalto
+692.533	Assoalhos de metal ou outros minerais.
+→ 692.522 Pisos de concreto e outros pisos similares resistentes a fogo. Pisos de lajotas. Pisos de lajes nervuradas. Pisos de vigas protendidas. Pisos de tijolos furados
+692.533.1	Assoalhos feitos de materiais compostos,
+concreto, etc.
+692.533.2	Assoalhos de mármore artificial (terrazzo).
+→ 666.963 Mármore artificial (terrazzo). Aglomerados similares à base de cimento inorgânico 
+(para pisos, etc.)
+692.533.3	Assoalhos de mosaico e similares.
+692.533.4	Assoalhos de ladrilho. Assoalhos de lajotas.
+Assoalhos de blocos.
+692.533.5	Assoalhos de lajes. Assoalhos de lajes grandes e
+similares.
+692.535	Assoalhos de materiais não-minerais.
+692.535.1	Assoalhos de madeira. Inclusive Assoalhos de taco, de parquete.
+692.535.5	Assoalhos de cortiça. Assoalhos de linóleo.
+Assoalhos de placas de fibra.
+692.535.6	Assoalhos de borracha. Assoalhos de plástico.
+692.535.7	Grades (de metal ou madeira) de piso.
+692.54	Tetos. Tetos suspensos.
+→ 692.52 Pisos suspensos e elevados. Subsolos. Pisos elevados. Balcões e galerias internas
+692.6	Escadas. Rampas. Elevadores. 
+Escadas rolantes.
+692.61	Generalidades. Dimensões. Declive. 
+Número de degraus por lance. Altura livre.
+692.62	Tipos de escadas. Escadas fixas.
+692.622	Escadas, escadarias segundo a localização. Inclusive Escadas externas. Escadas para terraço. Escadas internas.
+692.623	Escadas fixas. Inclusive Escadas de ferro. Escadas de mão.
+692.625	Escadas segundo o modelo ou forma. Inclusive Lances retos. Escadas em caracol, etc.
+692.63	Partes de escadas.
+692.631	Pilares de escadas em caracol.
+692.632	Esteios dos pilares.
+692.633	Corrimões. Balaústres e balaustradas.
+692.635	Degraus sólidos. Pisos de degraus. Espelhos 
+(partes verticais de um degrau).
+692.637	Armações laterais.
+692.64	Patamares. Plataformas.
+692.65	Planos inclinados. Rampas.
+692.66	Elevadores.
+      → 621.876 Elevadores. Escadas rolantes. Monta-cargas
+      → 696.6 Instalações elétricas. Sistemas de fiação elétrica. Ofício de eletricista
+692.67	Escadas rolantes.
+→ 621.876.3 Instalações para movimento vertical de operação contínua
+692.7	Partes acessórias de construções.
+692.71	Chaminés. Torres de chaminés.
+Exaustores.
+→ 697.8 Chaminés. Fumeiros
+692.711	Lareiras.
+692.713	Exaustores de fumaça.
+692.74	Poços de ventilação.
+692.75	Poços, calhas diversas de escoamento e
+instalações de acesso.
+692.756	Calhas para entrega de combustível.
+Rampas de carvão.
+692.758	Tubos de descarga de lixo.
+→ 628.463 Coleta de lixo. Sistemas de coleta do lixo
+→ 628.47 Destino e utilização do lixo urbano
+692.77	Passagens para canos, etc. Passagens para
+fios, cabos. Ductos de calefação. Galerias
+por onde se pode andar.
+692.78	Meios de acesso a passagens e galerias de 
+serviço. Inclusive Coberturas horizontais.
+692.782	Coberturas ou grades para passagens e
+galerias (acesso contínuo).
+692.783	Dispositivos de visita, de inspeção. Tampas
+de poços de vistoria, de bueiros.
+Exemplo(s) de combinação(ões):
+                                          692.783:621.315.23 Para tubulação de fios elétricos 
+                                            692.783:628.253 Para esgotos e águas servidas em geral 
+                                             692.783:696.134.2 Para esgotos domésticos
+692.784	Caixas pequenas de acesso. Caixas de
+ligação para canalizações de água, de gás.
+→ 621.646.92 Caixas
+692.79	Alçapões. Alçapões de porões.
+692.8	Portas. Portões. Janelas. Entradas
+de serviço.
+      → 683.3 Serralheria. Fabricação de fechaduras. Ferragens de portas
+      → 692.299 Aberturas na parede e em áreas circunvizinhas em geral
+692.81	Portas. Portões.
+692.811	Portões e portas articuladas, com dobradiças. Inclusive Portas giratórias.
+692.812	Portas e portões de correr. Inclusive  Portões levadiços.
+692.813	Portas e portões do tipo grade. Inclusive Grade rolante. Grade articulada do tipo tesoura, grade pantográfica.
+692.814	Portas e portões dobráveis ou telescópicos.
+692.815	Tipos combinados de portas e portões.
+692.817	Portas segundo a finalidade.
+692.817.l	Portas de entrada (portas externas).
+692.817.3	Portas de aposentos (portas internas).
+692.817.7	Portas ocultas (portas secretas).
+692.82	Janelas.
+→ 692.299 Aberturas na parede e em áreas circunvizinhas em geral
+→ 692.492 Aberturas nos telhados
+→ 698.3 Envidraçamento. Ofício de vidraceiro
+692.821	Janelas de batentes, de caixilho. Caixilhos 
+em cima. Caixilhos em baixo. Janelas 
+pivotantes.
+692.822	Janelas de correr. Janelas corrediças.
+692.823	Tipos combinados de janelas. Inclusive  Janelas corrediças e dobráveis.
+692.824	Janelas de exibição. Vitrinas.
+692.826	Janelas compostas que se projetam no 
+plano. Janelas oitavadas, salientes. Janelas 
+de arco. Janelas de canto. Muxarabiês.
+692.827	Detalhes especiais. Inclusive Estruturas de segurança. Telas (contra insetos). Telas de vários tipos.
+692.828	Dispositivos para proteção contra poeira e
+condensação nas janelas.
+692.83	Postigos. Venezianas. Persianas.
+692.831	Venezianas rígidas. Venezianas de treliça.
+Postigos de venezianas.
+692.833	Persianas. Persianas de puxar.
+692.834	Persianas de enrolar (para janelas).
+692.836	Toldos. Cobertas contra sol. Toldos contra
+intempéries.
+692.84	Dispositivos de ventilação e vedação para
+portas e janelas.
+692.842	Dispositivos e acessórios de ventilação.
+→ 697.921.2 Ventilação natural
+692.843	Dispositivos de vedação. Eliminadores de
+correntes de ar, etc.
+692.848	Dispositivos de vedação contra ar, contra gás.
+Especificar por meio de :699.87
+692.86	Bandeiras de portas.
+692.87	Aberturas para serviço e observação. Grades.
+692.871	Portões, grades de serviço.
+→ 692.827 Detalhes especiais
+692.876	Aberturas para observação e inspeção.
+Painéis, olhos-mágicos, etc.
+692.88	Grades, gradis. Cercas. Catracas, roletas.
+Grades para entrada.
+→ 712.35 Limites
+692.9	Partes, equipamentos, acessórios
+auxiliares diversos.
+Exemplo(s) de combinação(ões):
+692.9:628.94 Acessórios de lâmpadas 
+692.9:631.345 Suportes para plantas 
+692.9:673.5 Acessórios para sinos. Carrilhões, sinetas
+   → 691.88 Acessórios para fixação em geral
+692.92	Equipamentos e acessórios externos. Inclusive Postes, mastros e suas bases. 
+Exemplo(s) de combinação(ões):
+692.92:621.316.98 Acessórios para pára-raios
+692.97	Equipamentos e acessórios internos. Inclusive Ganchos. Pregadores. Suportes, ganchos 
+                                        → 645 Móveis e acessórios domésticos
+                                   →.646 Vestuário. Cuidados corporais
+                                   → 684 Indústria do mobiliário e indústrias afins. Fabricação de móveis. Estofamento 
+
+693  Alvenaria, ofício de pedreiro e ofícios correlatos
+      
+→ 666.9 Indústrias de gesso, cal e cimento. Materiais de endurecimento. Estuques e composições. Argamassas 
+      e concreto
+693.1		Alvenaria em pedra natural. Alvenaria de pedras brutas, ligeiramente lavradas ou não. Pedras brutas irregulares.
+693.12	Corte e lavra de pedras. Dimensões de 
+pedras. Trabalho com pedras de revestimento.
+693.15	Construção de muros de pedras. Inclusive Trabalho com pedras regulares e de forma aleatória. Trabalho com pedras 
+                                 assentadas a seco ou com argamassa. Aglutinante. Forma das pedras. Assentamento. Juntas.
+693.2	Alvenaria de material tratado, 
+pedras, blocos,etc.
+693.21	Alvenaria com pedras naturais 
+trabalhadas. Alvenaria com pedras 
+cortadas. Alvenaria com pedras de 
+cantaria.
+693.22	Assentamento de tijolos. Aglutinantes de 
+tijolos. Juntas de argamassa.
+Apontamento.
+693.24	Alvenaria de adobes (secos ao ar), blocos
+de adobe, cantaria de adobe.
+693.25	Alvenaria com tijolos cozidos.
+693.27	Alvenaria de blocos, tijolos especiais, etc. 
+Alvenaria de componentes pré-fabricados 
+de concreto (ou outras massas artificiais 
+semelhantes).
+693.28	Assentamento de blocos (em oposição ao 
+assentamento de tijolos).
+693.29	Alvenaria composta. Alvenaria de componentes, etc. naturais e/ou artificiais.
+693.3	Alvenaria de terra estabilizada.
+Terra socada (construção de terra batida). Taipa.
+693.5	Trabalho de construção com 
+concreto. Concretagem. Concreto feito no canteiro da obra.
+→ 666.94 Indústria do cimento
+→ 666.97 Indústria de argamassa e concreto. Elementos de concreto. Produção de concreto em usinas
+693.54	Técnica de concretagem em geral.
+Concreto simples (concreto em massa).
+693.542	Formação da massa. Mistura. Proporção de
+ingredientes na mistura. Controle da
+consistência.
+693.542.3	Formação da massa.
+693.542.4	Aditivos, misturas. Arejamento.
+Impermeabilizantes. Aceleradores. Plastificadores.
+693.542.5	Mistura. Uso de misturadores de concreto, de
+betoneiras. Controle da consistência.
+693.542.51	Mistura manual.
+693.542.52	Mistura mecânica. Uso de misturadores de
+concreto, de betoneiras.
+693.542.53	Concreto pronto, concreto usinado.
+693.546	Aplicação e compactação do concreto.
+693.546.1	Aplicação descontínua ou aos poucos (p. ex.
+com carrinhos de mão ou caminhões).
+693.546.2	Aplicação por calhas de escoamento, correias 
+transportadoras ou dispositivos semelhantes.
+693.546.3	Aplicação por bombearnento, borrifação, injeção 
+ou métodos semelhantes.
+693.546.4	Compactação por vibração. Concreto vibrado. Inclusive Com vibradores externos aplicados sobre fôrmas.
+693.546.5	Pervibração.  
+                                 Transvibração.
+693.546.5	Apisoamento. Secagem. Outros métodos de 
+compactação.
+693.546.7	Acabamento, sarrafeamento, umedecimento (de 
+concreto).
+693.547	Cura do concreto (inclusive cura a vapor), 
+aquecimento, resfriamento e outros 
+processos durante o assentamento e 
+endurecimento.
+693.547.1	Métodos de cura.
+693.547.12	Coberturas de água ou úmidas.
+693.547.13	Membranas ou soluções especiais.
+693.547.14	Cura a vapor.
+693.547.2	Tratamento a vácuo. Concreto a vácuo.
+693.547.3	Concretagem em tempo frio. Construção de 
+concreto durante período de congelamento.
+→ 624.139 Engenharia de solo congelado
+693.547.4	Resfriamento de concreto em massa.
+693.547.6	Concretagem em tempo quente. Inclusive Umedecimento da superfície durante a cura. Coberturas úmidas.
+693.547.7	Proteção contra vibração ou outras influências 
+mecânicas.
+693.547.8	Remoção ou quebra de fôrmas. Período de 
+desenformação. Limpeza de fôrmas.
+693.548	Tratamento da superfície do concreto. Concreto aparente. Inclusive Endurecimento da superfície, batimento, etc. Lavagem (acabamento para exposição do agregado)
+693.55	Construção de concreto armado.
+→ 666.982 Concreto armado
+693.552	Formação da massa, mistura do concreto armado.
+693.552 dividido como 693.542
+693.554	Reforço (com aço).
+693.554.l	Preparo e montagem do reforço.
+Exemplo(s) de combinação(ões):
+693.554.1:621.791 Soldagem do reforço
+693.554.l-.621.791.052.4 Pisoamento do reforço
+693.554.l:621.882 Aparafusamento do reforço 
+693.554.l:621.981 Vergagem do reforço
+693.554.2	Reforço pré-fabricado. Inclusive Gaiolas de reforço. Estrutura de reforço.
+693.554.3	Posição do reforço no concreto.
+693.554.6	Assentamento e fixação do reforço.
+Ancoramentos. Ganchos e ilhoses. Laços. Espaçadores de barra.
+Especificar por meio de -621.88...
+693.556	Assentamento e compactação do concreto
+armado.
+      693.556 dividido como 693.546
+693.557	Cura do concreto armado (inclusive cura a 
+vapor). Aquecimento, resfriamento e outras
+medidas durante o assentamento e
+endurecimento.
+      693.557 dividido como 693.547
+693.558	Tratamento da superfície do concreto 
+armado.
+693.56	Construção com concreto protendido.
+693.562	Formação da massa, mistura do concreto
+protendido.
+      693.562 dividido como 693.542
+693.564	Reforço protendido. Aço protendido. 
+Protensão.
+693.565	Tensionamento, esforço. Pré-tensionamento
+(métodos e dispositivos).
+Exemplo(s) de combinação(ões):
+693.565:536.41 Pré-tensionamento por expansão térmica 
+693.565:621.866 Pré-tensionamento por macacos
+693.566	Colocação e compactação do concreto.
+      693.566 dividido como 693.546
+693.567	Cura do concreto (inclusive cura a vapor), 
+aquecimento, resfriamento e outras medidas 
+durante o assentamento e endurecimento.
+      693.567 dividido como 693.547
+693.568	Tratamento da superfície do concreto 
+protendido.
+693.6	Ofício de estucador, emboçador.
+Trabalho de acabamento.
+→ 666.91/.92 
+693.61	Emboçamento. Reboco.
+693.611	Emboço segundo seus componentes.
+693.612	Emboço com aditivos.
+693.613	Preparo de superfícies para receber emboço.
+Base, ripamento do emboço.
+693.614	Aplicação de emboços. Métodos de aplicação.
+693.62	Emboços segundo o uso e a finalidade.
+Exemplo(s) de combinação(ões):
+      693.62:692.2 Emboços de parede 
+      693.62:692.54 Emboços de teto 
+      693.62:699.82 Aplicações impermeáveis à água 
+      693,62:699.844 Emboçamento à prova de som
+693.621	Emboçamento de interiores.
+693.625	Emboçamento de exterior. Revestimentos 
+com argamassa. Superfícies com textura. Emboçamento com ornatos. Estucagem. Acabamento com reboco grosso. Acabamento salpicado. Acabamento com seixos. Acabamento raspado.
+693.63	Estuque.
+693.64	Tratamento (técnico e artístico) de 
+superfícies de estuque de gesso. Inclusive Escaiola (imitação de mármore). Sgrafitto (trabalho com riscos, 
+grafitado).
+693.65	Com granulação.
+693.66	Ligação de juntas. Rejuntamento. Rejunte 
+de tijolos.
+693.69	Acabamentos e revestimentos especiais
+diversos.
+693.7	Ladrilhamento de assoalhos.
+Ladrilhamento de paredes. Pavimentação. Ofício de calceteiro. Trabalho com asfalto.
+→ 666.96 Composições de cimento de pega (de assentamento duro), aglomerados e produtos de pedra artificial (para primeira mão de emboço, revestimento final, camadas de suporte, enchimento, ligação, etc.)
+693.73	Assentamento de pisos sem juntas. Inclusive Assentamento de pisos em terrazo, em macadame.
+693.74	Assentamento de ladrilhos, lajotas, mosaicos pré-fabricados , etc. em tetos, paredes, instalações sanitárias, pisos.
+→ 666.268 Peças de vidro unidas por chumbo ou outro material adequado. Mosaicos de vidro. Vidros para produção de mosaicos
+693.741	Assentamento de mosaicos.
+693.745	Assentamento de placas de ardósia.
+693.75	Pavimentação. Ofício de calceteiro.
+693.78	Asfaltamento. Ofício de asfaltador.
+693.8	Trabalho estrutural em aço e outros metais.
+693.81	Trabalho em ferro e aço.
+693.813	Trabalho estrutural com ferro. Estruturas de ferro.
+693.814	Estruturas de aço.
+693.814.1	Elementos diversos da estrutura de aço. Inclusive Elementos de aço protendido.
+Exemplo(s) de combinação(ões):
+                                              693.814.1.072.2 Vigas de aço
+693.814.2	Conexões de aço. Juntas de aço.
+                                693.814.2 dividido como 624.078.4
+693.814.3	Trabalhos com aço tubular.
+693.82	Estruturas de metais não-ferrosos em geral.
+693.82 dividido como 693.814
+693.827	Estruturas de metais leves (p.ex. alumínio).
+693.9	Estruturas com preenchimento em
+painéis. Construções com 
+combinação de materiais diversos.
+Construção composta.
+693.94	Estruturas com armação de madeira.
+693.95	Estruturas com armação de concreto.
+693.955	Estruturas com armação de concreto armado.
+693.956	Estruturas com armação de concreto protendido.
+693.97	Estruturas com armação de metal.
+693.972                      Estruturas com armação de aço.
+693.977                       Estruturas com armação de metal leve.
+693.98	Construções que combinam vários
+materiais. Construção composta.
+
+694  Construções de madeira. Carpintaria. Marcenaria
+      
+       → 674 Indústria da madeira e de trabalhos com madeira
+694.1		Construções de madeira em geral.
+Carpintaria. Trabalho de 
+carpinteiro.
+694.12	Materiais de fixação. Prendedores.
+694.14	Juntas de madeira.
+      694.14 dividido como 624.078.4
+694.3	Construções temporárias de madeira. Inclusive Dimensionamento, corte, montagem de partes.
+694.4	Construção de madeira pesada. Inclusive Dimensionamento, corte, montagem das partes para fabricação dos 
+                                 elementos de sustentação de carga pesada, arcabouço, vigas mestras, traves, armações.
+694.5	Construções de madeira leve. Inclusive Dimensionamento. corte, montagem das partes para arcabouços leves, 
+                                 paredes, tetos, assoalhos.
+694.6	Carpintaria. Inclusive Acabamentos, suportes, apoios de madeira. Ripas, escoras. Painéis. Portas. Janelas, ligamento 
+                                 visível. Escadas. Assoalhos de tábuas. 
+                                    → 674.21 Marcenaria de construção
+694.7	Marcenaria. Marcenaria de ensamblagem ornamental.
+→ 684.4 Móveis. Projeto e fabricação de móveis
+→ 684.6 Folheado. Marchetaria. Inscrustação, etc.
+→ 749.1 Mobília artística (antiga e moderna)
+
+696		Equipamento, serviços, instalações (sanitárias, de gás, de vapor, elétricas) em construções. Encanador. Bombeiro.
+
+ Serralheiro. Instalador de esgotos. Eletricista. Outros ofícios.
+696.1		Ofício de instalador de canos, de encanador. Outros ofícios de trabalho em metal.
+→ 628.1 Abastecimento de água. Tratamento de água. Consumo de água
+696.11	Instalações de abastecimento de água. Inclusive Instalações para água potável. 
+                                        → 621.642/.646
+                                    → 644.61 Abastecimento de água potável
+696.113	Cisternas de abastecimento nas construções.
+696.115	Disposição do abastecimento de água em relação aos equipamentos. Canos e respectivos calibres.
+696.117	Torneiras. Registros. Acessórios.
+696.12	Drenagem por cima do solo.
+696.121	Drenagem pelo telhado. Calhas, canos e 
+acessórios especiais para águas pluviais. Calhas de águas pluviais, etc.
+696.122	Canos de águas servidas. Canos de esgotos. Tubos de ventilação.
+                                          → 628.2 Eliminação de águas urbanas servidas. Esgotos urbanos. Sistemas de esgotos
+696.13	Drenagem sob o solo. Drenagem do terreno. Esgotos da casa. Destino do lixo local.
+→ 628.242 Esgotos locais. Esgotos domiciliares (linhas de coleta)
+696.132	Esquema dos sistemas de drenagem. Inclusive Profundidade. Alinhamento. Gradiente. Dimensionamento.
+696.133	Canos de drenagem, de esgoto e acessórios.
+696.133.1	Canos de esgoto. Inclusive Curvas, junções, ramais, conexões dos canos de esgoto.
+696.133.2	Ventilação de esgotos locais. Inclusive Entrada de ar fresco e canos de ventilação (ventilação de induto e eduto).
+                                Verificações para gás. Palhetas de mica.
+696.133.3	Alçapões (vigias de água, de gás). Bueiros, fossas. Interceptores.
+696.134	Assentamento de esgotos. Construção de bueiros (câmaras de inspeção). Ofício de
+instalador de esgotos.
+696.134.l	Construção de esgotos.
+696.134.2	Bueiros (alçapões de inspeção). Vigias (de acesso).
+→ 692.783 Dispositivos de visitas, de inspeção. Tampas de poços de vistoria, de bueiros
+696.134.5	Teste de impermeabilidade a água. Padrão 
+desejável de trabalho.
+696.135	Destino de esgotos em construções isoladas.
+Purificação de esgotos. Fossas sépticas.
+→ 628.32 Estações 
+de tratamento de esgoto, de águas de esgoto. Obras para tratamento de esgotos
+696.136	Sumidouros (para água de superfície).
+696.138	Sistemas de conservação. Fossas sanitárias.
+→ 628.42 Latrinas. Fossas. Coleta e destino dado aos excrementos
+696.139	Destino do lixo sólido. Inclusive Incineradores para uso local.
+                                → 628.542 Enterramento
+696.14	Instalações e acessórios sanitários em 
+construções. Acessórios de sanitários.
+→ 628.6 Esgotos e instalações sanitárias das edificações (especialmente os requisitos exigidos pela saúde pública)
+                                   → 644.68 Instalações e acessórios higiênicos e sanitários.
+696.141	Privadas, vasos sanitários. Mictórios. Bidês.
+→ 628.425 Instalações sanitárias públicas em geral
+696.141.1	Vasos sanitários.
+696.141.2	Mictórios.
+696.141.3	Pias de águas servidas.
+696.141.5	Bidês.
+696.142	Pias e acessórios.
+696.143	Bacias para as mãos.
+696.144	Banheiras. Chuveiros.
+696.144.l	Bacias para os pés.
+696.144.2	Chuveiros. Compartimentos para chuveiros.
+696.144.4	Banheiras de assento.
+696.144.5	Banheiras para o corpo inteiro (inclusive painéis da banheira).
+696.144.7	Jacuzzis.
+696.146	Acessórios sanitários especiais para hospitais, consultórios odontológicos, etc. 
+                                       → 615.478 Equipamento médico e cirúrgico para hospitais
+696.2	Instalações de gás. Ofício de
+gasista. Tubos, acessórios para gás.
+Medidores de gás.
+→ 621.6.02 Gases. Vapores. Ar
+→ 621.643 Dispositivos para canalização e distribuição de fluidos. Tubulação. Canos
+→ 681.122 Medidores para gases e vapores
+→ 683.8 Lâmpadas a combustível ou de chama. Lampiões
+→ 607.245 Aquecedores a gás. Lareiras a gás
+696.3	Instalações para vapor.
+      → 621.18 Caldeiras a vapor. Geradores de vapor. Usina, instalações a vapor em geral. Leiaute, esquema das 
+      caldeiras, principais elementos e componentes
+      → 697.5 Aquecimento central a vapor (por vapor direto e de escape, exaustão)
+696.4	Abastecimento de água quente.
+→ 644.62 Abastecimento de água quente
+→ 683.97 Aquecedores de água. Tanques de água quente
+→ 697.3/.4
+696.42	Instalações e equipamento de caldeiras, 
+aquecedores.
+696.43	Tubulações e conexões para água quente. Inclusive Tamanho. Disposição, isolamento.
+696.45	Instalações para emissão de calor. Inclusive Secadores de toalhas de banho.
+696.46	Instalações para armazenamento de calor. Inclusive Cilindros de água quente.
+696.48	Sistemas e aparelhos para aquecimento de água.
+696.5	Instalações pneumáticas, de ar comprimido e vácuo.
+→ 621.5 Energia pneumática, maquinaria e ferramentas pneumáticas. Refrigeração
+696.6	Instalações elétricas. Sistemas de fiação elétrica. Ofício de eletricista.
+→ 621.316.1 Redes de distribuição (em edifícios, etc.)
+
+697  Calefação, ventilação e ar-condicionado nas construções
+      
+→ 628.8 Clima interior. Ar-condicionado. Calefação. Ventilação
+      → 644.1 Climatização. Calefação. Ventilação. Ar-condicionado
+      → 662.6/.9 Economia de calor. Economia de combustível em geral. Combustão. Combustíveis naturais
+→ 683.9 Aparelhos de aquecimento. Estufas
+697.1		Calefação de construções em geral.
+Princípios, requisitos, cálculos.
+Influências externas e internas.
+      → 551.5 Meteorologia
+      → 612.5 Calor animal. Processos térmicos
+      → 699.86 Isolamento térmico de construções
+697.11	Princípios gerais. Propriedades das 
+construções do ponto de vista do 
+aquecimento (medições, resultados). Níveis
+de temperatura. Consumo de combustível.
+697.12	Temperatura e requisitos de troca de ar 
+com referência especial ao cálculo de 
+perda de calor.
+→ 628.87 Requisitos de conforto. Regulação do clima interior e da temperatura do corpo
+697.13	Influências externas sobre a perda de calor 
+nas construções.
+697.132	Temperatura externa, clima, estação, etc. 
+(com referência ao cálculo de perda de
+calor).
+697.133	Perdas na transmissão de calor. Inclusive Influência da umidade e outros fatores.
+697.134	Exposição a ventos (especialmente como 
+fator no cálculo da perda de calor).
+697.135	Infiltração de ar (pelas janelas, aberturas de
+ventilação, portas, etc.). Perda de calor pelas
+correntes de ar.
+697.137	Fatores de umidade na perda de calor.
+697.14	Influências internas na perda de calor das construções. Inclusive Efeitos da disposição, esquema, ocupação, etc. na perda 
+de calor.
+697.2	Calefação de ambiente por dispositivos isolados geradores de calor nos aposentos. Inclusive Por lareiras, fogões, painéis de aquecimento.
+      → 644.11 Tipo de calefação
+      → 662.9 Engenharia de fornos e combustão
+      → 683.9 Aparelhos de aquecimento. Estufas
+697.24	Aquecimento do ambiente por aquecedores
+que consomem combustível.
+697.243	Aquecedores a combustível sólido.
+697.243.3	Aquecedores a combustível sólido de ação
+primariamente radiante. Inclusive Fogos abertos. Lareiras.
+      → 683.93 Lareiras abertas para aquecimento do ambiente. Lareiras. Grelhas
+697.243.5	Aquecedores a combustível sólido por ação de 
+convecção, primariamente. Fogões de combustível sólido.
+697.244	Aquecedores a combustível líquido. Inclusive Aquecedores a querosene.
+697.244.3	Aquecedores a combustível líquido de ação 
+primariamente radiante.
+697.244.5	Aquecedores a combustível líquido de ação 
+primariamente de convecção.
+697.244.7	Aquecedores combinados a combustível líquido
+e de radiação-convecção.
+697.245	Aquecedores a gás. Lareiras a gás.
+697.245.3	Lareiras a gás de ação primariamente radiante 
+(que exigem normal mente chaminés).
+697.245.5	Aquecedores a gás de ação primariamente de 
+convecção.
+697.245.7	Aquecedores combinados a gás e de ação 
+radiante e de convecção (sem escape).
+Aquecedores de painel a gás. Radiadores a gás.
+697.246	Métodos combinados de calefação (p. ex. 
+aquecedores a carvão e gás).
+697.27	Aquecedores elétricos de ambientes.
+→ 621.365 Geração de calor pela eletricidade. Aquecimento elétrico
+697.273	Aquecedores elétricos de ação 
+primariamente radiante. Lareiras elétricas.
+697.275	Aquecedores elétricos de ação 
+primariamente de convecção. Radiadores 
+elétricos.
+697.278	Aquecedores elétricos de armazenamento.
+697.3	Calefação central em geral 
+(inclusive de sistemas combinados de abastecimento de água quente e aquecimento de ambientes).
+→ 696.4 Abastecimento de água quente
+697.31	Princípios gerais. Economia. Leiaute e projeto.
+697.32	Local ou dependência da caldeira de 
+calefação. Espaço para armazenamento de combustível.
+697.325	Fogões, caloríferos, estufas.
+697.326	Caldeiras (inclusive os tipos que combinam o abastecimento de água quente com 
+calefação central).
+→ 621.18 Caldeiras a vapor. Geradores de vapor. Usina, instalações a vapor em geral. Leiaute, esquema das caldeiras, principais elementos e componentes
+697.328	Aparelhos de armazenamento do calor.
+Caloríferos, a vapor ou água quente.
+697.329	Dispositivos de aquecimento solar. Outros 
+aparelhos de transferência e 
+armazenamento de calor.
+      → 662.997 Utilização de calor de fenômenos naturais
+      → 697.7 Outros métodos de aquecimento
+697.33	Distribuição do meio de aquecimento. Tubulação. Inclusive Tamanho. Disposição, distribuição. Isolamento.
+697.34	Aquecimento distrital (zonal). Distribuição de calor à distância para diversas 
+construções ou edificações.
+→ 697.384 Aquecimento distrital (aquecimento zonal) apenas por ar ou gases quentes
+→ 697.434 Aquecimento distrital (zonal) por água quente a baixa pressão apenas
+→ 697.444 Aquecimento distrital (zonal) por água quente a alta pressão apenas
+→ 697.514 Aquecimento distrital (zonal) por vapor direto apenas
+697.347	Medição do consumo de calor (por vários 
+usuários). Controle do consumo de calor pelo uso de caloríferos.
+→ 681.125 Calorímetros
+697.35	Aparelhos emissores de calor. Inclusive Radiadores. Aquecedores por convecção. Aquecedores unitários.
+697.352	Tipos de radiador. Projeto, localização e 
+outros fatores que influem na capacidade de 
+aquecimento.
+697.353		Aquecedores radiantes e de painel. Projeto, 
+localização e outros fatores que influem na capacidade de aquecimento.
+697.355	Aquecedores por convecção. Convectores. Inclusive Grades. Coberturas.
+697.356	Aquecedores unitários, individuais.
+697357	Bobinas de aquecimento, caloríficos.
+Serpentinas.
+697.358	Capacidade de aquecimento. Métodos de 
+medição. Radiação diferencial. Coeficientes de convecção.
+697.38	Aquecimento por circulação de ar ou gases 
+quentes (sem contato direto com o ar no
+espaço a ser aquecido). Sistemas primitivos de aquecimento. Inclusive Hipocaustos. Gases de combustão.
+697.381	Princípios gerais. Economia. Projeto e leiaute.
+697.382	Fornos e fornalhas para calefação a ar 
+quente (sem ventilação). Inclusive Estufas, fornalhas com ventoinhas.
+697.383	Distribuição, circulação de ar ou gases 
+quentes. Tamanho, disposição, distribuição,
+isolamento, etc. dos ductos.
+Especificar por meio de :621.64... e :662.998
+697.384	Aquecimento distrital (aquecimento zonal) 
+apenas por ar ou gases quentes.
+→ 697.34 Aquecimento distrital (zonal). Distribuição de calor à distância para diversas construções ou edificações
+697.385	Aparelhos emissores de calor projetados 
+para sistemas de circulação indireta de ar ou 
+gás quente.
+      697.385 dividido como 697.35
+697.39	Aquecimento adventício. Eficiência total da 
+instalação de aquecimento. Inclusive Aquecimento por escapamentos de chaminé.
+697.4	Aquecimento central a água 
+quente. Aquecimento central com outros líquidos, p. ex. óleo.
+→ 696.4 Abastecimento de água quente
+697.43	Sistemas de aquecimento a água quente a 
+baixa pressão.
+697.431	Princípios gerais. Cálculos. Economia. 
+Projeto.
+697.432	Instalações e equipamento da caldeira 
+(boiler).
+      697.432 dividido como 697.32
+697.433	Tubulações e conexões (tamanho, 
+distribuição e disposição, isolamento, etc.).
+697.433.2	Circulação por gravidade.
+697.433.4	Circulação acelerada.
+697.434	Aquecimento distrital (zonal), por água 
+quente a baixa pressão apenas.
+	      → 697.34 Aquecimento distrital (zonal). Distribuição de calor à distância para diversas construções ou 
+	      edificações
+697.435	Aparelhos emissores de calor projetados 
+para aquecimento central a água quente de 
+baixa pressão.
+      697.435 dividido como 697.35
+697.44	Sistemas de aquecimento a água quente e alta pressão.
+697.441	Princípios gerais. Cálculo. Economia. Projeto.
+697.442	Instalações e equipamentos de caldeiras.
+      697.442 dividido como 697.32
+697.443	Tubulação e conexões (tamanho, 
+distribuição, isolamento, etc.).
+697.444	Aquecimento distrital (zonal) por água 
+quente a alta pressão apenas.
+                              → 697.34 Aquecimento distrital (zonal). Distribuição de calor à distância para diversas construções ou 
+	      edificações.
+697.445		Aparelhos emissores de calor projetados para aquecimento central a água quente a pressão alta.
+697.445 dividido como 697.35
+697.47	Métodos de acelerar a circulação de água
+quente no sistema.
+697.49	Uso de outros líquidos circulantes. Inclusive Óleo como líquido circulante.
+697.5	Aquecimento central a vapor (por 
+vapor direto e de escape, exaustão).
+→ 621.1  Máquinas térmicas em geral. Geração, distribuição e uso do vapor. Máquinas a vapor. Caldeiras
+697.51	Aquecimento central a vapor direto em geral. Inclusive Princípios. Economia. Projeto .
+697.511	Princípios gerais. Cálculos. Economia. Projeto.
+697.512	Instalações e equipamento de caldeiras.
+         697.512 dividido como 697.32
+697.513	Tubulações e conexões (dimensões, 
+disposição e distribuição, isolamento, etc.).
+697.514	Aquecimento distrital (zonal) por vapor 
+direto apenas.
+                                  → 697.34 Aquecimento distrital (zonal). Distribuição de calor à distância para diversas construções ou 
+	         edificações
+697.515	Aparelhos emissores de calor projetados 
+para sistemas de aquecimento central a 
+vapor direto.
+697.52	Sistemas de aquecimento a vapor a vácuo.
+                                     697.52 dividido como 697.51
+697.53	Sistemas de aquecimento a vapor a baixa pressão.
+                                  697.53 dividido como 697.51
+697.54	Sistemas de aquecimento a vapor a alta pressão.
+                                    697.54 dividido como 697.51
+697.55	Sistemas de aquecimento central a vapor ou atmosférico.
+                                        697.55 dividido como 697.51
+697.56	Sistemas de aquecimento central 
+subatmosférico ou diferencial.
+                                      697.56 dividido como 697.51
+697.57	Aquecimento por vapor de escape, de exaustão.
+→ 621.186.8 Utilização do vapor de escape
+697.571	Princípios. Cálculo. Economia. Projeto.
+697.572	Dispositivos especiais para remoção de ar e
+da água de condensação.
+697.573	Tubulação e conexões (tamanhos, 
+distribuição e disposição, isolamento, etc.).
+697.574	Aquecimento distrital ou zonal por vapor de escape. Inclusive Utilizando vapor de usinas de força.
+                                   → 697.34 Aquecimento distrital (zonal). Distribuição de calor à distância para diversas construções ou 
+	       edificações
+                                      → 697.514 Aquecimento distrital (zonal) por vapor direto apenas
+697.575	Aparelhos emissores de calor, especialmente 
+projetados para sistemas de aquecimento 
+central a vapor de escape.
+697.7	Outros métodos de aquecimento. Inclusive Aquecimento solar.
+→ 697.329 Dispositivos de aquecimento solar. Outros aparelhos de transferência e armazenamento de calor
+697.8	Chaminés. Fumeiros.
+                                    → 624.971 Torres de sustentação livre, auto-sustentadas. Pilastra, pilões (torres de cabo). Mastros de 
+	      sustentação livre. Grupo de chaminés, etc.
+                                    → 628.522 Emprego de chaminés altas
+                                    → 662.922/.923
+                                    → 692.71 Chaminés. Torres de chaminés. Exaustores
+697.81	Fumeiros (internos). Inclusive Dimensões do fumeiro. Fumeiros de alvenaria. Fumeiros de tubos.
+697.83	Chaminés internas.
+697.84	Chaminés externas. Inclusive Poços de chaminé. Capelos de chaminé.
+697.85	Chaminés autônomas. Inclusive Chaminés de fábrica.  
+                                             → 624.042 Cálculo das cargas e esforços, tensões
+697.87	Regulagem da passagem de ar nos 
+fumeiros.
+697.88	Remoção de fuligem. Remoção de cinzas.
+Limpeza de chaminé.
+697.9	Ventilação. Ar-condicionado.
+→ 628.8 Clima interior. Ar-condicionado. Calefação. Ventilação
+697.91	Princípios gerais. Instalações, equipamento, etc.
+697.911	Princípios. Cálculos. Projeto geral.
+697.912	Instalações e máquinas em geral.
+697.92	Ventilação propriamente dita.
+697.921	Introdução e extração do ar. Entradas de ar. 
+Saídas de ar.
+697.921.2	Ventilação natural. Inclusive Por janelas, gelosias, tijolos vazados.
+697.921.4	Ventilação mecânica. Inclusive Sistema de exaustão. Sistema 
+repleto de matéria (em oposição a vácuo).
+697.922	Distribuição de ar fresco. Ductos de ar e 
+equipamento (projeto e construção).
+697.93	Controle de umidade.
+697.931	Umidade (influência, medição, controle).
+697.932	Umidificação. Umidificadores. Sistemas de 
+umidificação direta.
+697.933	Redução do teor de umidade.
+Desumidificadores.
+697.934	Secagem do ar.
+697.94	Unidades de ar-condicionado em geral.
+Limpeza, lavagem e filtração do ar.
+→ 628.511Medidas contra a poeira
+697.941	Purificadores de ar em geral.
+697.942	Filtros de ar (para remoção de partículas do
+ar). Filtros de poeira, etc.
+697.943	Eliminação de odores. Desodorização do ar. Inclusive Desodorização por carbono absorvente.
+697.945	Coletores centrífugos. Coletores dinâmicos.
+697.946	Precipitação elétrica. Purificadores eletrostáticos de ar.
+→ 621.359.4 Precipitação elétrica (eletroprecipitação) a partir de gases
+697.947	Geradores de ozônio. Ozonizadores.
+697.948	Equipamento de raios ultravioleta.
+697.95	Circulação e movimento do ar.
+697.952	Circulação natural do ar. Inclusive Por diferenças na temperatura do ar. Pelo vento.
+697.953	Circulação do ar por meios mecânicos. Ventiladores.
+Exemplo(s) de combinação(ões):
+697.953:621.634 Ventiladores helicoidais. Ventiladores de fluxo axial 
+621.5 Energia pneumática, maquinaria e ferramentas pneumáticas. Refrigeração
+→ 621.5 Energia pneumática, maquinaria e ferramentas pneumáticas. Refrigeração
+697.956	Circulação do ar por fontes de calor no ambiente, p. ex. lareiras, estufas.
+697.957	Movimento do fluxo de ar.
+→ 628.854 Movimento do ar. Circulação do ar, ventilação
+697.97	Condicionamento da temperatura.
+Resfriamento e aquecimento do ar.
+697.971	Resfriamento em geral.
+697.972	Resfriamento por gelo.
+697.973	Resfriamento por evaporação de líquidos.
+697.974	Resfriamento por uso de água de poço.
+697.975	Resfriamento por refrigeração.
+Especificar por meio de : 621.57...
+697.978	Aquecimento do ar introduzido.
+→ 697.38 Aquecimento por circulação de ar ou gases quentes (sem contato direto com o ar no espaço a ser aquecido)
+697.98	Eliminação de fuligem e fumaça (aspectos
+da construção, das instalações).
+→ 628.511 Medidas contra a poeira
+697.982	Sistemas de exaustão.
+→ 621.61/.63
+697.983	Coletores.
+697.984	Capelas de coleta. Coifas.
+697.986	Desenho, projeto, disposição e construção de 
+ductos e canalizações.
+
+698  Ofícios de acabamento e decoração.
+     
+    → 747 Decoração de interior
+698.1		Ofícios de pintura e decoração.
+698.12	Pintura de construções. Pintura 
+decorativa. Pintura à têmpera. Ofício de 
+pintor de casas.
+→ 667.64 Técnica, processos de revestimento
+→ 691.57 Tintas. Tintas feitas de cal e cola. Vernizes. Corantes. Conservantes
+698.16	Oficio de empapelador de paredes.
+                                   → 684.75 Cortinas para salas, colgaduras
+                                   → 691.145 Papéis de parede
+698.3	Envidraçamento. Ofício de vidraceiro.
+      → 666.15/.16
+      → 686.6 Vidraçaria Corte de vidro
+      → Vidraçaria artística. Janelas decorativas
+698.7	Ofícios complementares de decoração. Ofícios de cortineiro, 
+tapeceiro e estofador.
+                                  Exemplo(s) de combinação(ões):
+698.7:645.1 Acabamento de revestimentos de pisos. Colocação de carpetes. Colocação de linóleos 
+                                        698.7:645.3 Colocação de cortinas, persianas, etc.
+                                      → 684.7 Estofagem. Pertences de cama. Cobertas. Cortinas
+699.8	Serviços ligados à proteção de construções. Medidas de emergência. Precauções.
+
+699.81	Proteção contra incêndios. Medidas contra incêndio nas construções. Instalações e 
+equipamento contra incêndio.
+                                   
+	        → 614.84 Riscos de incêndio. Incêndios. Proteção contra incêndios
+699.812	Construção de edifícios à prova de fogo.
+Emprego de materiais resistentes ao fogo. Tintas à prova de fogo, revestimentos anticombustíveis.
+      → 667.637.4 Revestimento para fins especiais
+699.814	Desenho, projeto de construções para evitar incêndios. Inclusive Portas corta-fogo. Defletores. Saídas de fumaça.
+699.816	Instalações contra incêndios nas construções. Inclusive Sistemas de extintores embutidos na construção. 
+                                       Especificar por meio de :614.843/.847
+699.82	Proteção contra umidade. Construção à prova de umidade e água.
+699.822	Procedimentos contra umidade (contra a umidade capilar, umidade do solo).
+699.826	Estruturas à prova d'água. Inclusive Portas à prova d'água. Janelas à prova d'água.
+699.828	Secagem de construções.
+699.83	Proteção contra intempéries, ventos, 
+tempestades. Construção à prova de 
+intempéries.
+699.84	Proteção contra vibração e ruído.
+699.841	Proteção contra efeitos sísmicos, tremores de
+terra. Construção resistente a terremotos.
+699.842	Isolamento contra vibrações relativamente leves.
+699.844	Isolamento contra efeitos acústicos, ruídos.
+Construção à prova de som. Isolamento e absorção de som.
+→ 628.517.2 Medidas contra ruídos. Controle de ruídos
+699.85	Construção para defesa civil.
+→ 355.58 organização e treinamento da população civil. Defesa civil
+699.852	Abrigos subterrâneos de defesa civil.
+→ 643.88 Áreas de proteção em porões. Abrigos em porões
+699.853	Abrigos de defesa civil acima do solo.
+699.86	Isolamento térmico de construções.
+699.865	Isolamento contra o frio. Construções 
+resistentes ao frio.
+699.866	Isolamento contra o calor. Construção resistente 
+ao calor.
+→ 699.812 Construção de edifícios à prova de fogo. Emprego de materiais resistentes ao fogo. Tintas à prova de fogo, revestimentos
+699.868	Prevenção de danos provocados pela dilatação 
+térmica. Juntas de dilatação.
+699.87	Proteção contra diversos efeitos tóxicos, 
+nocivos e biológicos.
+699.871	Construção à prova de gás. à prova de fumaça,
+de escapamentos.
+Exemplo( s) de combinação(ões):
+699.871:546.296 Construção com proteção contra o gás radônio
+→ 62-784.2 Proteção contra a contaminação atmosférica, a poluição atmosférica
+→ 623.459.72 Abrigos à prova de gases
+→ 628.52 Medidas contra fumaças, emanações, cheiros, odores industriais
+→ 628.53 Medidas contra fumaça e fuligem. Medidas para diminuição da fumaça
+699.872	Construção à prova de poeira. Medidas contra o acúmulo de sujeira e poeira.
+      → 62-784.4 Controle da poeira, de partículas transportadas pelo ar
+699.874	Construção à prova de apodrecimento. Medidas contra microorganismos. Inclusive Medidas contra fungos, mofos.
+699.876	Proteção contra vegetação, musgos e raízes.
+699.878	Construção à prova de pragas, insetos.
+699.88	Proteção contra várias influências físicas.
+699.885	Proteção contra a luz.
+699.887	Proteção contra efeitos elétricos e radiativos.
+699.887.2	Proteção contra raios.
+699.887.3	Proteção contra radiações ionizantes. Blindagem 
+contra radiação (p. ex. em usina atômica).
+      → 667.661.2 Equipamento para aplicar o revestimento
+699.887.5	Proteção contra radiação elétrica. Inclusive Proteção contra raios.
+699.888		Construção antimagnética. Proteção e resistência ao magnetismo.
