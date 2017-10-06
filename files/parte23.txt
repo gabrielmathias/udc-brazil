@@ -8,8 +8,7 @@ Para o cultivo de árvores frutíferas,  ver 634.1/.6
 Biologia florestal.
 630*11	Fatores locais na Silvicultura.
       → 631.96 Tipos de plantação. Avaliação do solo
-630*111	Clima e microclima das florestas. Inclusive
-A atmosfera. Meteorologia.
+630*111	Clima e microclima das florestas. Inclusive A atmosfera. Meteorologia.
       → 551.5 Meteorologia
 		      → 630*42 Danos provocados por agentes inorgânicos (exceto fogo)
 630*113	Situação. Topografia florestal. 
