@@ -1,0 +1,7998 @@
+﻿Subdivisões auxiliares especiais
+
+<01>677.022.65	
+<02>Torção de dois-para-um.
+
+<01>677.022.68	
+<02>Trançado.
+
+<01>677.022.78	
+<02>Fabricação de fios texturizados.Inclusive Encrespagem mecânica. Textura por extrusão.
+
+<01>677.022.9	
+<02>Detalhes de fiação, torção, trançado, textura.
+
+<01>677.022.93	
+<02>Questões relativas a anel, guia e agulha. Inclusive Enrolamento. Torção.
+
+<01>677.022.94	
+<02>Traçado.
+
+<01>677.022.95	
+<02>Detalhes diversos. Inclusive Estufamento. Tensão. Quebra do fio. Desfibração.
+
+<01>677.023	
+<02>Enrolamento em carretéis, bobinagem,
+enovelamento, urdidura, engomação de fio, etc.
+
+<01>677.023.2	
+<02>Enrolamento, bobinagem, enovelamento, etc. de fios.
+
+<01>677.023.23	
+<02>Enrolamento de fios.
+
+<01>677.023.27	
+<02>Enovelamento, bobinagem de fios etc.
+<09>Enrolamento de montagem.
+
+<01>677.023.28	
+<02>Confecção de fios.
+
+<01>677.023.29	
+<02>Processos associados e complementares.
+
+<01>677.023.292.5	
+<02>Limpeza de fios.
+
+<01>677.023.292.7 
+<02>Disposição de tubos no casal de urdideira. Inclusive
+
+<01>677.023.292.92 
+<02>Tratamento de fios. Inclusive Enceramento. Lubrificação. Chamuscagem.
+<09>677.027.237 Chamuscagem
+
+<01>677.023.296.6	
+<02>Amarramento de nós.
+
+<01>677.023.7	
+<02>Urdidura, engomação, disposição de fios nos
+cilindros de teares,  etc.
+
+<01>677.023.73	
+<02>Urdidura seccional de fios.
+
+<01>677.023.74	
+<02>Urdidura de fios nos cilindros.
+
+<01>677.023.75	
+<02>Engomaçâo de fios.
+
+<01>677.023.76	
+<02>Disposição de fios nos cilindros de tear.
+
+<01>677.023.77	
+<02>Preparação da urdidura para processamento
+posterior.
+
+<01>677.024	
+<02>Tecelagem e processos auxiliares. Indústria
+da tecelagem.
+<09>746.1 Tecelagem manual
+
+<01>677.024.1	
+<02>Desenhos. Moldes, etc.
+
+<01>677.024.3	
+<02>Tecelagem segundo o tipo de tear.
+
+<01>677.024.5	
+<02>Processos de tecelagem segundo o tecido
+produzido.
+
+<01>677.024.8	
+<02>Processos e operações auxiliares em tecelagem
+
+<01>677.024.82	
+<02>Deixando a urdidura e pegando o tecido.
+
+<01>677.024.83	
+<02>Abertura da urdidura no tear.
+
+<01>677.024.84	
+<02>Inserção, mistura e mudança de trama.
+
+<01>677.025	
+<02>Processos de tricotagem. Indústria de
+malharia.
+
+<01>677.025.1	
+<02>Projetos. Inclusive Projeto de molde.
+
+<01>677.025.3	
+<02>Malha de barra reta.
+
+<01>677.025.4	
+<02>Malha de barra plana.
+
+<01>677.025.5	
+<02>Malha circular. Malha de roda submergente.
+
+<01>677.025.52	
+<02>Malha de barra submergente.
+
+<01>677.025.54/.56 
+<02>Tricô em máquinas circulares de agulha com
+tranqueta.
+
+<01>677.025.54	
+<02>Malha circular, em máquinas de pequeno
+diâmetro.
+
+<01>677.025.56	
+<02>Malha circular, em máquinas de grande diâmetro.
+
+<01>677.025.6	
+<02>Malha de urdidura.
+
+<01>677.025.62	
+<02>Malha de tricô.
+
+<01>677.025.7	
+<02>Outros processos de malha.
+
+<01>677.025.8	
+<02>Formação de l aço.
+
+<01>677.026	
+<02>Processos de produção de outros produtos têxteis.
+
+<01>677.026.1	
+<02>Produção de tecidos estofados.
+
+<01>677.026.2	
+<02>Produção de almofadados, feltros recheados.
+
+<01>677.026.22	
+<02>Produção de estofados.
+
+<01>677.026.24	
+<02>Produção de feltros pisoados.
+
+<01>677.026.3	
+<02>Produção de feltros para agulha.
+
+<01>677.026.4	
+<02>Produtos não-tecidos.
+
+<01>677.026.42	
+<02>Produção de estopa de fibra.
+
+<01>677.026.44	
+<02>Processos de reforço.
+
+<01>677.026.442	
+<02>Reforço mecânico.
+
+<01>677.026.444	
+<02>Reforço adesivo.
+
+<01>677.026.45	
+<02>Produção de rendas de malha costurada.
+
+<01>677.026.49	
+<02>Outros processos para produção de objetos não-tecidos.
+
+<01>677.026.5	
+<02>Produção de renda.
+
+<01>677.026.52	
+<02>Produção de renda feita à mão.
+<09>746.21 Confecção de rendas
+
+<01>677.026.56	
+<02>Produção de renda feita à máquina.
+
+<01>677.026.6	
+<02>Produção de bordados.
+
+<01>677.026.62	
+<02>Produção de bordados manuais.
+<09>746.3 Bordado
+
+<01>677.026.64	
+<02>Produção de bordados por espátula.
+
+<01>677.026.66	
+<02>Produção de bordados à máquina.
+
+<01>677.026.7	
+<02>Processos para produção de tecidos de nós.
+franjas, trancas e debruns.
+
+<01>677.026.73	
+<02>Produção de tecidos de nós, franjas.
+<09>746.25 Trabalho trançado, de nós. Franjas (macramé), borlas, tranças, pompons
+
+<01>677.026.75	
+<02>Produção de trancas.
+
+<01>677.026.77	
+<02>Produção de guarnições, debruns.
+
+<01>677.027	
+<02>Tingimento, estampagem e acabamento
+têxtil.
+<09>667 Indústrias de pigmentos
+
+<01>677.027.1	
+<02>Métodos e processos para todos os estágios de
+tingimento e acabamento.
+
+<01>677.027.11	
+<02>Medidas de controle em geral. Inclusive Medição e pesagem. Remoção de manchas.
+
+<01>677.027.12	
+<02>Umedecimento. Banho.
+
+<01>677.02 
+<02>7.13	Enxaguamento.
+
+<01>677.027.15	
+<02>Acidificação.
+
+<01>677.027.16	
+<02>Extração de água. Secagem.
+
+<01>677.027.18	
+<02>Tratamento a calor. Tratamento a vapor.
+
+<01>677.027.2	
+<02>Processos de preparação. Operações
+preparatórias.
+
+<01>677.027.21	
+<02>Preparação. Inclusive Controle do pano cru. Eliminação de falhas. Costura de peças.
+
+<01>677.027.23	
+<02>Chamuscagem, carbonização, descarga.
+
+<01>677.027.231	
+<02>Chamuscagem de têxteis.
+<09>677.023.292.92 Tratamento de fios
+
+<01>677.027.232	
+<02>Carbonização de têxteis.
+<09>677.021.157 Carbonização de fibras
+
+<01>677.027.233	
+<02>Descarga.
+<09>677.027.523 Estampagem direta. Estampagem de descarga.Estampagem por resistência
+
+<01>677.027.25	
+<02>Limpeza (apenas como tratamento preliminar
+para acabamento têxtil).
+
+<01>677.027.251	
+<02>Limpeza mecânica. Inclusive Escovagem. Sova.
+
+<01>677.027.252	
+<02>Lavagem com solventes. Lavagem a seco.
+
+<01>677.027.253	
+<02>Lavagem úmida. Lavagem com água.
+
+<01>677.027.254	
+<02>Desengomamento. Desengorduração.
+<09>677.023.75 Engomação de fios 
+
+<01>677.027.\1.1 
+<02>Desengomamento.
+
+<01>677.027.254.2	
+<02>Desengomamento. Fervura.
+
+<01>677.027.254.3	
+<02>Desengorduramento.
+
+<01>677.027.255	
+<02>Fervura em cal.
+
+<01>677.027.26	
+<02>Alvejamento (alvejamento químico).
+
+<01>677.027.261	
+<02>Alvejamento, branqueamento ao sol. Cora de
+tecidos.
+
+<01>677.027.262	
+<02>Alvejamento com oxigênio. Inclusive  Alvejamento com ozônio, com peróxidos.
+
+<01>677.027.264	
+<02>Alvejamento com cloro ou compostos de cloro. Inclusive  Alvejamento com hipoclorito.
+
+<01>677.027.265	
+<02>Alvejamento com compostos de enxofre.
+
+<01>677.027.268	
+<02>Métodos combinados de alvejamento químico.
+
+<01>677.027.27	
+<02>Anilamento. Brilho fluorescente (alvejamento,
+branqueamento óptico).
+
+<01>677.027.28	
+<02>Alvejamento químico e óptico combinados.
+
+<01>677.027.4	
+<02>Tingimento.
+<09>667.2 Indústria de pigmentos. Fabricação e uso de pigmentos
+
+<01>677.027.41	
+<02>Operações preparatórias.
+
+<01>677.027.411	
+<02>Preparação de produtos para tingimento. Inclusive Colocação de mordentes. Alteração de absorção de corante.
+
+<01>677.027.412	
+<02>Preparo do banho de tingimento.
+
+<01>677.027.42	
+<02>Métodos de tingimento segundo o tipo de corante.
+<09>Os corantes podem ser indicados pelo acréscimo do número do índice de Cores do: Colour index; editor: Society of Dyers and Colourists, e: American Association of Textile Chemists and Colorists
+
+<01>677.027.421	
+<02>Tingimento com corantes inorgânicos (corantes minerais).
+<09>Especificar por meio de :661.8...
+
+<01>677.027.422	
+<02>Tingimento com corantes naturais orgânicos.
+<09>Especificar por meio de :547.97... ou :66.27...
+
+<01>677.027.423	
+<02>Tingimento com corantes sintéticos orgânicos.
+<09>Especificar por meio de :667.28... ou pelo número Cl (Colour Index) (ver nota em 677.027.42)
+
+<01>677.027.423.1	
+<02>Tingimento com corantes diretamente absorvidos. Inclusive Com corantes básicos, corantes ácidos, substâncias 
+corantes.
+
+<01>677.027.423.2	
+<02>Tingimento com corantes absorvidos por
+mordentes.
+
+<01>677.027.423.3	
+<02>Tingimento com corantes indiretos absorvidos
+numa condição de redução.
+
+<01>677.027.423.4	
+<02>Tingimento com corantes desenvolvidos na
+fibra.
+
+<01>677.027.423.5	
+<02>Tingimento com corantes que combinam
+quimicamente com a fibra.
+
+<01>677.027.424	
+<02>Tingimento com corantes fixados por um
+agente de ligação.
+
+<01>677.027.425	
+<02>Tingimento com ajuda de solventes não-
+aquosos.
+
+<01>677.027.43	
+<02>Tingimento com ajuda de portadores.
+
+<01>677.027.44	
+<02>Tingimento de misturas de fibras. Inclusive Tingimento em tom sobre tom. Efeitos multicores.
+
+<01>677.027.45	
+<02>Métodos para melhorar a homogeneidade e
+penetração.
+
+<01>677.027.46	
+<02>Outros processos de tingimento. Tingimento
+para fins especiais.
+
+<01>677.027.461	
+<02>Tingimento cruzado. Sombreamento. Realce de
+brilho de cores.
+
+<01>677.027.462	
+<02>Métodos para reduzir diferenças no material.
+
+<01>677.027.463	
+<02>Tingimento sombreado. Tingimento em arco-
+íris.
+
+<01>677.027.464	
+<02>Tingimento fluorescente.
+
+<01>677.027.465	
+<02>Entintamento fugaz para marcação.
+
+<01>677.027.468 
+<02>Tingimento de camuflagem.
+<09>623.77 Camuflagem
+
+<01>677.027.47	
+<02>Tratamento posterior de tingimentos.
+
+<01>677.027.48	
+<02>Separação de corantes.
+
+<01>677.027.5 
+<02>Impressão têxtil.
+<09>655.3.025 Impressão em várias superfícies, exceto papel
+<09>667.526 Tintas de impressão para outras finalidades. Tintas de impressão especiais
+
+<01>677.027.51	
+<02>Processos preparatórios.
+
+<01>677.027.511	
+<02>Projeto, esboço.
+
+<01>677.027.512	
+<02>Aparelhos. Produção de blocos de estampagem.
+
+<01>677.027.512.1	
+<02>Produção de blocos de estampagem.
+
+<01>677.027.512.2	
+<02>Gravação e tratamento fotoquímico de chapas.
+
+<01>677.027.512.3	
+<02>Produção de telas.
+
+<01>677.027.512.5	
+<02>Produção de cilindros.
+
+<01>677.027.512.6	
+<02>Preparo da lâmina de tratamento.
+
+<01>677.027.513	
+<02>Preparo de corantes e auxiliares.
+
+<01>677.027.513.1 
+<02>Preparo de pastas de estampagem.
+
+<01>677.027.513.2 
+<02>Preparo de espessadores.
+
+<01>677.027.514	
+<02>Preparo dos materiais têxteis.
+
+<01>677.027.514.1 
+<02>Primeira demão com mordentes, naftóis. óleos,
+<06>leucoésteres. 
+
+<01>677.027.514.2 
+<02>Medidas de proteção contra veios de tratamento, etc.
+
+<01>677.027.514.4	
+<02>Fixação do pano à mesa de estampagem (por
+alfinetes, por cola).
+
+<01>677.027.514.6 
+<02>Cloração da lã antes da estampagem.
+<09>677.027.264 Alvejamento com cloro ou compostos de cloro
+
+<01>677.027.52	
+<02>Processos de estampagem segundo o corante
+utilizado.
+
+<01>677.027.523	
+<02>Estampagem direta. Estampagem de descarga.
+<09>Estampagem por resistência.
+
+<01>677.027.523.1 
+<02>Com corantes diretamente absorvidos.
+
+<01>677.027.523.2	
+<02>Com corantes mordentes.
+
+<01>677.027.523.3	
+<02>Com corantes indiretamente absorvidos numa
+condição de redução.
+
+<01>677.027.523.4	
+<02>Com corantes desenvolvidos na fibra.
+
+<01>677.027.523.5	
+<02>Com corantes que se combinam quimicamente
+com a fibra.
+
+<01>677.027.524	
+<02>Estampagem com corantes fixados por um
+agente de ligação.
+
+<01>677.027.525	
+<02>Estampagem com combinação de corantes.
+
+<01>677.027.528	
+<02>Estampagem com corantes luminescentes e
+fluorescentes.
+
+<01>677.027.53	
+<02>Estampagem com outras substâncias, exceto os
+corantes para produzir efeitos especiais localizados.
+
+<01>677.027.531	
+<02>Efeitos foscos ou brilhantes. Inclusive Efeitos de chintz.
+
+<01>677.027.532	
+<02>Efeitos transparentes e mercerizados
+<06>localizados. 
+
+<01>677.027.533	
+<02>Efeitos localizados de encolhimento.
+
+<01>677.027.534	
+<02>Efeitos localizados de descarga.
+
+<01>677.027.535	
+<02>Pastas de revestimento protetor contra
+dilatação.
+
+<01>677.027.536	
+<02>Aplicação localizada de pó, pó de fibra, etc., nos
+têxteis.
+
+<01>677.027.55	
+<02>Processos de estampagem para fios. Inclusive Estampagem vigoureux. Estampagem de fio. Processos Kasuri.
+
+<01>677.027.56	
+<02>Processos de estampagem para panos tecidos,
+artigos de malharia e outros tecidos lisos.
+
+<01>677.027.561	
+<02>Segundo os processos mecânicos empregados.
+
+<01>677.027.561.1	
+<02>Estampagem manual. Inclusive Estampagem manual com blocos. Estampagem manual com tela.
+
+<01>677.027.561.2	
+<02>Estampagem à máquina.  Inclusive Estampagem mecânica com blocos. Estampagem perrotine. Estampagem com cilindro (entalhe). 
+<04>	Estampagem mecânica com tela.
+
+<01>677.027.562	
+<02>Segundo os processos de cor empregados.
+
+<01>677.027.562.1	
+<02>Estampagem direta. Estampagem com
+almofadas de salpico. Estampagem basculante.
+
+<01>677.027.562.2	
+<02>Estampagem de descarga.
+
+<01>677.027.562.3	
+<02>Estampagem de resistência.
+
+<01>677.027.562.4	
+<02>Estampagem de conversão.
+
+<01>677.027.562.5	
+<02>Estampagem de transferência.
+
+<01>677.027.562.6	
+<02>Processos fotoquímicos.
+<04>Especificar por meio de :77...
+
+<01>677.027.562.8 
+<02>Processos especiais. Inclusive Litografia. Pintura de tecidos.
+
+<01>677.027.566	
+<02>Estampagem com relevo. Inclusive Relevo com cor. Coloração sobre relevos. Bordado de imitação.
+<09>677.027.615.17 Relevo. Gofragem
+<09>677.027.623.56 Aplicação localizada de pó, pó de fibra, etc. nos têxteis
+
+<01>677.027.57	
+<02>Pós-tratamentos para estampagem. Inclusive Tratamento com sais metálicos e resinas sintéticas.
+
+<01>677.027.571	
+<02>Revelação. Fixação (quando não incluída no processo de estampagem).
+
+<01>677.027.572	
+<02>Lavagem do excesso de corantes, produtos
+químicos, espessadores.
+
+<01>677.027.573	
+<02>Ensaboamento.
+
+<01>677.027.575	
+<02>Pós-tratamento do material estampado para
+melhorar a fixação de cores. 
+<09>Especificar por  meio de :535.68...
+
+<01>677.027.58	
+<02>Estampagem em materiais não-têxteis.
+
+<01>677.027.6	
+<02>Acabamento.
+
+<01>677.027.61 
+<02>Acabamento mecânico.
+
+<01>677.027.611	
+<02>Fresamento. Franzimento.
+
+<01>677.027.612	
+<02>Acabamento áspero. Ventilação. Decatização.
+
+<01>677.027.613	
+<02>Levantamento da felpa. Tosa. Acamurçamento.
+<09>Escovagem. Batimento. Fragmentação.
+
+<01>677.027.615	
+<02>Calandragem. Prensagem. Acabamento.
+<06>677.027.615-966.1 Acabamento permanente
+
+<01>677.027.615.1	
+<02>Calandragem.
+
+<01>677.027.615.11	
+<02>Calandragem com cilindros. Inclusive Trabalho em relevo.
+
+<01>677.027.615.12	
+<02>Calandragem por fricção. Chintz.
+
+<01>677.027.615.13	
+<02>Realce. Relevo.
+
+<01>677.027.615.15	
+<02>Calandragem com cilindros estriados.
+<09>Encrespamento.
+
+<01>677.027.615.16	
+<02>Acabamento moiré.
+
+<01>677.027.615.17	
+<02>Relevo. Gofragem.
+<09>677.027.566 Estampagem com relevo
+<09>677.027.623.56 Aparência de crepe. Relevo
+
+<01>677.027.615.2	
+<02>Prensagem. Dobragem. Fixação em tábuas,
+<09>Assentamento.
+
+<01>677.027.615.21	
+<02>Prensagem.
+
+<01>677.027.615.22	
+<02>Dobragem.
+
+<01>677.027.615.23	
+<02>Fixação na tábua. Assentamento, Termocura.
+
+<01>677.027.618	
+<02>Encolhimento e estiramento mecânico.
+
+<01>677.027.62	
+<02>Acabamento químico.
+<09>Impregnação, Modificação química de materiais têxteis.
+
+<01>677.027.621	
+<02>Processos preparatórios.
+
+<01>677.027.622	
+<02>Alteração de propriedades químicas (inclusive
+as de tingimento) e de propriedades estruturais
+de fibras.
+
+<01>677.027.622.1	
+<02>Eterificação. Esterificação. Saponificação.
+
+<01>677.027.622.2	
+<02>Tratamento com aldeídos, amidas. aminas.
+
+<01>677.027.622.3	
+<02>Imunização. Animalização. Filanização.
+
+<01>677.027.622.4	
+<02>Cloração.
+
+<01>677.027.622.5	
+<02>Modificação por copolímeros (polimerização
+de enxerto).
+
+<01>677.027.622.6	
+<02>Alteração da capacidade de alargamento das
+fibras (redução, aumento).
+
+<01>677.027.623	
+<02>Alteração de propriedades externas dos têxteis.
+
+<01>677.027.623.1 
+<02>Aperfeiçoamento do toque, das qualidades
+táteis.
+
+<01>677.027.623.2	
+<02>Aumento de peso, de carga, de enchimento.
+
+<01>677.027.623.3	
+<02>Alteração de volume. Inclusive  Aumento do volume.
+
+<01>677.027.623.4	
+<02>Endurecimento.
+
+<01>677.027.623.5	
+<02>Alteração da aparência.
+
+<01>677.027.623.51	
+<02>Deslustração. Lustração. Adição de
+transparência.
+
+<01>677.027.623.52	
+<02>Mercerização.
+
+<01>677.027.623.53	
+<02>Outros tratamentos cáusticos. Inclusive Lixiviação.
+
+<01>677.027.623.54	
+<02>Alteração da transparência e opalescência. Dar a aparência do linho. Inclusive  Acabamento de organdi.
+
+<01>677.027.623.56 
+<02>Aparência de crepe. Relevo.
+<09>677.027..566 Estampagem com relevo
+<09>677.027.615.17 Relevo. Gofragem
+
+<01>677.027.623.58 
+<02>Aplicação de cor e aditivos fluorescentes de brilho durante o acabamento químico.
+
+<01>677.027.623.7	
+<02>Alteração do odor.
+
+<01>677.027.625	
+<02>Alteração da resistência a influências externas.
+
+<01>677.027.625.1 
+<02>A influências físicas.
+
+<01>677.027.625.11 
+<02>A forças puramente mecânicas.
+
+<01>677.027.625.111 
+<02>À tensão, pressão, cisalhamento. Inclusive Aumento da resistência à secura e umidade. Aumento da resistência à costura.
+
+<01>677.027.625.112	
+<02>Ao flexionamento e dobragem (resistência a pregas, ao amarrotamento). Inclusive Resistência ao amassamento. Aumento da retenção de pregas, vincos.
+
+<01>677.027.625.113	
+<02>Ao esfregamento. Inclusive Aumento da resistência à abrasão.
+
+<01>677.027.625.12	
+<02>Alteração da tensão superficial entre líquidos e
+têxteis.
+
+<01>677.027.625.121	
+<02>Acabamentos com repelentes à água, óleo e
+poeira.
+
+<01>677.027.625.122	
+<02>Aumento da absorvência e capacidade de
+umidificação.
+
+<01>677.027.625.13	
+<02>Impermeabilização de tecidos.
+<09>677.027.65 Revestimento (por meio de tratamento a vapor, pulverização, aspersão, dispersão, tratamento medicinal, borrifamento).
+<09>677.027.66 Laminação. Forro
+
+<01>677.027.625.131	
+<02>Impermeabilização contra gases. Inclusive Impermeabilização ao ar.
+
+<01>677.027.625.132	
+<02>Impermeabilização a líquidos.Inclusive À prova d'água. 
+
+<01>677.02 
+<02>7.625.133         Impermeabilização contra sólidos. Inclusive Resistência à lanugem. Resistência à poeira.
+
+<01>677.027.625.135 
+<02>Impermeabilização contra radiações de todos os tipos.
+
+<01>677.027.625.14	
+<02>Proteção do próprio material fibroso contra
+radiação de todos os tipos.
+
+<01>677.027.625.15	
+<02>Aperfeiçoamento de propriedades de retenção
+de calor e da retenção de frio (alteração da
+condutividade térmica). Modificação da
+reflexibilidade do infravermelho.
+
+<01>677.027.625.16	
+<02>Proteção contra altas temperaturas e fogo. Inclusive Aperfeiçoamento da resistência a passar a ferro. Redução da 
+<04>inflamabilidade. Resistência ao fogo.
+
+<01>677.027.625.17	
+<02>Proteção contra efeitos elétricos. Inclusive Prevenção de cargas estáticas (resistência antiestática). Alteração da condutividade 
+<04>elétrica.
+
+<01>677.027.625.2	
+<02>Alteração da resistência a influências químicas.
+
+<01>677.027.625.21	
+<02>Relativamente a gases.
+
+<01>677.027.625.22	
+<02>Relativamente a ácidos, bases, sais.
+
+<01>677.027.625.23	
+<02>Relativamente a agentes oxidizantes, redutores (alvejantes).
+
+<01>677.027.625.24	
+<02>Relativamente a solventes, agentes dilatantes.
+
+<01>677.027.625.3	
+<02>Alteração da resistência a influências biológicas.
+<09>Especificar por meio de :58... e :59...
+
+<01>677.027.625.5 
+<02>Alteração da resistência a influências combinadas.
+
+<01>677.027.625.51	
+<02>Redução de feltros da lã e de outros pêlos de
+animais.
+
+<01>677.027.625.52	
+<02>Proteção contra influências climáticas.
+
+<01>677.027.625.53	
+<02>Aumento da resistência ao uso, ao desgaste.
+
+<01>677.027.625.54	
+<02>Aumento da resistência ao envelhecimento.
+
+<01>677.027.625.55	
+<02>Aumento da resistência à sujeira.
+
+<01>677.027.65	
+<02>Revestimento (por meio de tratamento a vapor,
+pulverização, aspersão, dispersão, tratamento medicinal, borrifamento).
+<09>621.793 Revestimento, banho de metal, galvanização. Produção de revestimentos e películas condutoras, semicondutoras, resistentes, dielétricas, magnéticas. Metalização
+
+<01>677.027.651	
+<02>Revestimento com substâncias de baixo peso molecular. Inclusive Revestimento com metais, óleos secantes, parafinas, ceras, 
+<04>alcatrão, betume.
+
+<01>677.027.652	
+<02>Revestimento com substâncias de alto peso molecular.
+<09>Especificar por meio de :678.5/.7
+
+<01>677.027.653	
+<02>Revestimento com fibras (estopa). Revestimento com estopa.
+
+<01>677.027.66	
+<02>Laminação. Forro.
+
+<01>677.027.8	
+<02>Processos finais. Inclusive Classificação. Prensagem. Medição. Embalagem. Enfardagem. Rotulagem.
+
+<01>677.03	
+<02>Matérias-primas da indústria têxtil.
+<09>Especificar por meio de :633.5...., :636....,  :638.2..., :661.728..., :676..., :678..., etc.
+
+<01>677.04	
+<02>Materiais têxteis complementares.
+
+<01>677.042	
+<02>Materiais têxteis complementarei de
+utilização genérica.
+
+<01>677.042.1	
+<02>Agentes amaciantes de água.
+<09>543.32 Determinação da dureza total
+<09>628.164 Abrandamento da água. Redução da dureza. Prevenção de depósitos carbonatados
+<09>661.187.76 Sabões que contêm detergentes sintéticos ou amaciantes de água. Sabões para água dura
+
+<01>677.042.2	
+<02>Agentes de ação superficial (surfatantes), p.
+ex., agentes umedecedores, detergentes.
+<09>661.185 Agentes ativos na superfície. Surfatantes
+
+<01>677.042.4	
+<02>Colóides de proteção. Agentes de proteção da
+fibra (p. ex,, absorventes de ultravioleta).
+<09>Agentes dilatadores. Agentes condicionadores.
+
+<01>677.042.5	
+<02>Solventes.
+
+<01>677.042.6	
+<02>Retardadores. Catalisadores. Estabilizadores.
+
+<01>677.042.7	
+<02>Agentes oxidantes. Agentes redutores.
+
+<01>677.044	
+<02>Materiais têxteis complementares
+especiais.
+
+<01>677.044.1	
+<02>Materiais têxteis complementares para a
+fabricação de filamentos e fibras artificiais.
+
+<01>677.044.12	
+<02>Agentes estabilizadores. Inclusive Estabilizadores de ultravioleta. Estabilizadores térmicos.
+
+<01>677.044.13	
+<02>Agentes amaciantes. Agentes endurecedores.
+
+<01>677.044.132 
+<02>Agentes amaciantes.
+
+<01>677.044.134 
+<02>Agentes endurecedores.
+
+<01>677.044.14	
+<02>Agentes para deslustração durante a fiação.
+<09>Agentes de coloração da massa (agentes de
+tingimento da fiação). Agentes para
+abrilhantamento óptico.
+
+<01>677.044.15	
+<02>Agentes de encrespagem. Agentes para
+formação de fibras ocas.
+
+<01>677.044.16	
+<02>Agentes para precipitação ou coagulação do fio.
+
+<01>677.044.17	
+<02>Modificadores. Agentes estimulantes.
+
+<01>677.044.2	
+<02>Auxiliares para processamento de fibra e fio.
+
+<01>677.044.22	
+<02>Lubrificantes. Agentes amaciantes.
+
+<01>677.044.23	
+<02>Agentes de engomação.
+
+<01>672.044.25	
+<02>Agentes amaciantes. Agentes de enceramento.
+
+<01>677.047	
+<02>Materiais complementares de tingimento e
+acabamento têxtil.
+
+<01>677.047 
+<02>dividido como 677.027
+
+<01>677.047.1	
+<02>Materiais complementares para todos ou
+diversos estágios de tingimento e acabamento têxtil.
+<09>Exceto os mencionados em 677.042... e 677.044...
+
+<01>677.047.2	
+<02>Materiais complementares para preparação e.
+tratamento preliminar (para tingimento e acabamento). 
+
+<01>677.047.4	
+<02>Material s complementares para tingimento.
+<09>667.2 Indústria de pigmentos. Fabricação e uso de pigmentos
+
+<01>677.047.5	
+<02>Materiais complementares para estampagem têxtil.
+<09>667.526 Tintas de impressão para outras finalidades. Tintas de impressão especiais
+
+<01>677.047.6	
+<02>Materiais complementares para acabamento.
+
+<01>677.05	
+<02>Maquinaria e equipamento têxtil.
+<09>Especificar por meio de -1/-9 (de 62-1/-8 e 66-9)
+
+<01>677.051.1	
+<02>Equipamento, máquinas para fabricação de
+filamentos e fibras artificiais. Máquinas e
+acessórios para preparo de fibras naturais para
+fiação.
+
+<01>677.051.12	
+<02>Equipamento, máquinas para fabricação de
+filamentos e fibras artificiais.
+
+<01>677.051.122	
+<02>Equipamento, máquinas para tratamento das
+matérias-primas antes da dissolução ou fusão.
+
+<01>677.051.122 
+<02>dividido como 677.021.122
+
+<01>677.051.123	
+<02>Equipamento, máquinas para formação da
+solução ou fusão de fiação, para tratamento
+anterior à extrusão.
+
+<01>677.051. 
+<02>J23 dividido como 677.021.123
+
+<01>677.051.125	
+<02>Equipamento, máquinas para extrusão, para
+tratamento subseqüente de fibras extrudadas. 
+
+<01>677.051.125.1 
+<02>Equipamento para alimentação e manipulação
+final da solução de fiação. 
+
+<01>677.051.125.2 
+<02>Máquinas de fiação.
+
+<01>677.051.125.22	
+<02>Máquinas de fiação de bobina e rotativas.
+
+<01>677.051.125.23	
+<02>Máquinas de fiação centrífugas. Máquinas de
+fiação de cadinho.
+
+<01>677.051.125.24	
+<02>Máquinas de fiação com tratamento posterior
+contínuo.
+
+<01>677.051.125.26	
+<02>Equipamento, máquinas para fiação de solução. 
+
+<01>677.051.125.262 
+<02>Fieiras.
+
+<01>677.051.125.264 
+<02>Banho de fiação. Câmara de vapor. Guias de fio. Coletores. Cilindros de estiramento.
+
+<01>677.051.125.27	
+<02>Equipamento, máquinas para fiação de fusão.
+
+<01>677.051.125.272 
+<02>Cabeçotes de fiação.
+
+<01>677.051.125.274 
+<02>Caixa de ventilação. Guias de fio. Cilindros de estiramento. 
+
+<01>677.051.125.277 
+<02>Equipamento para diversos métodos de fiação por fusão.
+
+<01>677.051.125.28	
+<02>Equipamento para fiação de reação.
+
+<01>677.051.125.3	
+<02>Máquinas de estirar. Enroladores, torcedores de estiramento.
+
+<01>677.051.125.4	
+<02>Torcedores superiores.
+
+<01>677.051.125.5	
+<02>Equipamento, máquinas para tratamento posterior.
+
+<01>677.051.125.56 
+<02>Equipamento, máquinas para tratamento de superfície.
+<09>677.052.78 Equipamento, máquinas para fabricação de fios texturizados
+
+<01>677.051.125.7	
+<02>'Secadoras.
+
+<01>677.051.125.8	
+<02>Cortadoras para fios de lã e algodão.
+
+<01>677.051.127	
+<02>Máquinas para película. Inclusive Para película dividida.
+
+<01>677.051.128	
+<02>Equipamento de coleta.
+
+<01>677.051.15/.18 
+<02>Equipamento, máquinas para produção e
+extração de fibras naturais e preparação de
+fibras para fiar.
+
+<01>677.051.15	
+<02>Equipamento, máquinas para produção e
+extração de fibras naturais.
+
+<01>677.051.151	
+<02>Equipamento, máquinas para produção de
+fibras a partir de talos, folhas, frutos.
+<09>Equipamento, máquinas para descorticação e
+maceração.
+
+<01>677.051.151.2 
+<02>Equipamento, máquinas para produção de fibras a partir de talos.
+
+<01>677.051.151.22	
+<02>Máquinas para encrespação. Máquinas para
+descaroçamento. Equipamento para
+enfardamento.
+
+<01>677.051.151.23	
+<02>Equipamento, máquinas para maceração.
+
+<01>677.051.151.25	
+<02>Equipamento, máquinas para produção de
+fibras vegetais longas. Inclusive Máquinas de descorticação. Máquinas para fragmentar, romper as fibras. Máquinas para cspadelar.
+
+<01>677.051.151.26	
+<02>Equipamento, máquinas para processamento de
+estopa. Equipamento para sacudir e refinar.
+
+<01>677.051.151.27	
+<02>Equipamento, máquinas para recuperação de
+fibras de refugo. Descorticadores de
+fragmentos.
+
+<01>677.051.151.5 
+<02>Equipamento, máquinas para produção de
+fibras a partir de folhas. 
+
+<01>677.051.151.7 
+<02>Equipamento, máquinas para produção de
+fibras a partir de frutos.
+
+<01>677.051.152	
+<02>Equipamento, máquinas para produção de
+fibras a partir de sementes. Descaroçadoras de
+algodão.
+
+<01>677.051.153	
+<02>Equipamento, máquinas para produção de lãs.
+pêlos e sedas.
+
+<01>677.051.154	
+<02>Equipamento, máquinas para produção e
+extração de fibras minerais.
+
+<01>677.051.155	
+<02>Equipamento, máquinas para classificação,
+seleção.
+
+<01>677.051.156	
+<02>Equipamento, máquinas para esfregar, lavar.
+<06>limpar quimicamente as fibras (com soluções
+aquosas ou solventes orgânicos).
+
+<01>677.051.157	
+<02>Equipamento, máquinas para carbonização de
+fibras.
+
+<01>677.051.158	
+<02>Equipamento, máquinas para untar, separar,
+dar brilho às fibras. Máquinas, equipamento
+para outros acabamentos.
+
+<01>677.051.16	
+<02>Equipamento, máquinas para cortar, quebrar,
+abrir, limpar, misturar.
+
+<01>677.051.162	
+<02>Equipamento, máquinas para corte.
+
+<01>677.051.163	
+<02>Equipamento, máquinas para fragmentar ou
+rasgar (inclusive trapos, recuperação de fibra. Inclusive Máquinas de estopa para o fio.
+
+<01>677.051.164	
+<02>Equipamento, máquinas para abrir, limpar. Inclusive Fragmentadores de fardo. Abridoras de lã. Espadelas. Diabos 
+<04>(esgarçadores).
+
+<01>677.051.166	
+<02>Equipamento, máquinas para mistura.
+<09>Misturadores de fibra.
+
+<01>677.051.17	
+<02>Equipamento, máquinas para cardagern e divisão de trama.
+
+<01>677.051.173	
+<02>Cardadeiras de cilindro.
+
+<01>677.051.174	
+<02>Cardadeiras planas.
+
+<01>677.051.178	
+<02>Partes de Cardadeiras. Inclusive Partes da cardação: cilindros, operadores, estripadores, placas, 
+<04>desfibradores. Cardadores. Divisores e condensadores de trama.
+
+<01>677.051.18	
+<02>Equipamento, máquinas para cardar, pentear,
+<06>lavar em água corrente, estirar.
+
+<01>677.051.182	
+<02>Espalhadoras.
+
+<01>677.051.183	
+<02>Máquinas de cardar.
+
+<01>677.051.185	
+<02>Máquinas de pentear.
+
+<01>677.051.187	
+<02>Máquinas de lavar em água corrente.
+
+<01>677.051.188	
+<02>Máquinas para alisar fiapos, fibras soltas. Fieiras.
+
+<01>677.052	
+<02>Equipamento, máquinas para fiar, torcer e encordoar. Equipamento, máquinas para produção de fios texturizados.
+
+<01>677.052.2	
+<02>Fiação preliminar. Máquinas para fazer
+maçarocas. Volantes.
+
+<01>677.052.3/.5	
+<02>Máquinas de fiar.
+
+<01>677.052.3	
+<02>Máquinas de fiação por anel.
+
+<01>677.052.31	
+<02>Máquinas de fiar por anel segundo a formação da cartilha. Inclusive Com fusos verticais. Com fusos suspensos.
+
+<01>677.052.32	
+<02>Máquinas de fiação por anel para fios de lã e de
+condensador.
+
+<01>677.052.33	
+<02>Máquinas de fiação por anel para algodão e fios
+de lã penteados.
+
+<01>677.052.35	
+<02>Máquinas de fiação por anel para fios de
+entrecasca (fibra de floema).
+
+<01>677.052.36	
+<02>Máquinas de anel para fiação direta de fibras
+artificiais (da estopa para o fio).
+
+<01>677.052.4	
+<02>Máquinas diversas de fiação.
+
+<01>677.052.43	
+<02>Máquinas de fiação de lata. Máquinas de fiação
+em cadinho. Máquinas de fiação centrífuga.
+
+<01>677.052.45	
+<02>Máquinas de fiação contínua, volante.
+<09>Máquinas de fiação com fuso de cabeçote.
+
+<01>677.052.47	
+<02>Máquinas de fiação de aletas.
+
+<01>677.052.48	
+<02>Máquinas de fiação contínua.
+
+<01>677.052.481	
+<02>Máquinas para preparo de material de
+alimentação.
+
+<01>677.052.481.5/.8 
+<02>dividido como 677.051.15/.18
+
+<01>677.052.482	
+<02>Máquinas para separação e limpeza da fibra.
+<09>Máquinas para extração de refugo.
+
+<01>677.052.483	
+<02>Dispositivos para transferência e transporte de
+fibra.
+
+<01>677.052.484	
+<02>Dispositivos para formação de fio.
+
+<01>677.052.485	
+<02>Dispositivos para tomada de fio. Dispositivos
+para desfibração.
+
+<01>677.052.49	
+<02>Outras máquinas de fiação.
+
+<01>677.052.5	
+<02>Máquinas de fiação em mula (mulas de
+autopropulsão).
+
+<01>677.052.6	
+<02>Dobradoras e torcedoras.
+<09>679.7.05 Máquinas, equipamento, instalações, fábrica e ferramentas
+
+<01>677.052.62	
+<02>Dobradoras e torcedoras volantes.
+
+<01>677.052.63	
+<02>Dobradoras e torcedoras de anel.
+
+<01>677.052.64	
+<02>Torcedoras verticais (estruturas de torcer com
+vários deques, várias plataformas).
+
+<01>677.052.65	
+<02>Torcedoras de dois para um.
+
+<01>677.052.66	
+<02>Outras máquinas de torcer.
+<06>677.052.66-137 Máquinas centrífugas de torcer
+
+<01>677.052.68	
+<02>Máquinas para fabricação de cordões de corda,
+
+<01>677.052.78	
+<02>Equipamento, máquinas para fabricação de fios texturízados. Inclusive Encrespadoras de engrenagem. Máquinas de tecer por extrusão
+
+<01>677.052.9	
+<02>Partes das máquinas de fiar, torcer, trançar, texturizar.
+
+<01>677.052.93	
+<02>Fusos. Volantes. Trilhos de anel. Anéis e lançadeiras.
+
+<01>677.052.94	
+<02>Dispositivos de puxar.
+
+<01>677.052.942	
+<02>Dispositivos cilíndricos de puxar.
+
+<01>677.052.943	
+<02>Dispositivos corrediços de puxar.
+
+<01>677.052.944	
+<02>Dispositivos de puxar de tubo torcido.
+
+<01>677.052.945	
+<02>Dispositivos de puxar de aletas.
+
+<01>677.052.946	
+<02>Dispositivos cilíndricos de puxar do tipo porco-espinho.
+
+<01>677.052.947	
+<02>Outros dispositivos de puxar, tirar.
+
+<01>677.052.948	
+<02>Partes de dispositivos de tirar. Inclusive Cilindros. Coberturas de cilindros. Dispositivos de pesagem
+
+<01>677.052.95	
+<02>Dispositivos e movimentos diversos.
+<06>677.052.95-59 Movimentos de parada de fio.
+
+<01>677.052.952	
+<02>Guias de fio.
+
+<01>677.052.953	
+<02>Limpadores de fio.
+
+<01>677.052.954	
+<02>Freios de fio. Reguladores de tensão.
+
+<01>677.052.955	
+<02>Dispositivos contra a formação de balões,
+separadores.
+
+<01>677.052.956	
+<02>Dispositivos de alimentação de fio. Trilhos.
+<09>Dispositivos para troca automática de
+carretilha.
+
+<01>677.052.96	
+<02>Tubos. Bobinas. Carretéis, etc.
+
+<01>677.052.97	
+<02>Outras partes.
+
+<01>677.052.972	
+<02>Cilindros de limpeza. Placas de limpeza.
+<09>Limpadores pneumáticos.
+
+<01>677.052.974	
+<02>Aparelhos para umedecimento, fiação úmida ou torção úmida. Inclusive Tinas. 
+
+<01>677.052.976 
+<02>Dispositivos para tratamento posterior.
+
+<01>677.052.98	
+<02>Partes especiais de determinados tipos de
+máquinas.
+
+<01>677.052.982	
+<02>Partes especiais de estruturas para fiação
+preliminar.
+
+<01>677.052.983	
+<02>Partes especiais de estruturas de fiação de anel.
+
+<01>677.052.984	
+<02>Partes especiais de determinadas estruturas de
+fiação.
+
+<01>677.052.985	
+<02>Partes especiais de máquinas de fiação em
+mula
+
+<01>677.052.985.2 
+<02>Cabeçotes.
+
+<01>677.052.985.4 
+<02>Quadrante. Bloco de bobinagem.
+
+<01>677.052.985.6 
+<02>Carro da máquina.
+
+<01>677.052.985.8 
+<02>Trilho formador. Placa de carne. Placas formadoras. Movimentos de bobinagem (movimento para direita, movimento reverso).
+
+<01>677.052.988	
+<02>Partes especiais de máquinas para fabricação de fios texturizados.
+
+<01>677.053	
+<02>Equipamento, máquinas para bobinar, enrolar (nos cilindros dos teares) enovelar, urdir, engomar, estirar fios.
+
+<01>677.053.2	
+<02>Equipamento, máquinas para enrolar, bobinar, enovelar os fios, etc.
+
+<01>677.053.23	
+<02>Máquinas de bobinar.
+
+<01>677.053.27	
+<02>Equipamento, máquinas para enrolar, enovelar, enrolar em meadas, etc.
+
+<01>677.053.273	
+<02>Máquinas de enrolar em meadas.
+
+<01>677.053.275	
+<02>Máquinas para embalar. Máquinas para enrolar o fio nas cardas.
+
+<01>677.053.276	
+<02>Dispositivos de enrolar em montagem.
+
+<01>677.053.277	
+<02>Máquinas para dispor os fios em latas.
+
+<01>677.053.28	
+<02>Equipamento, máquinas para preparação de fios.Inclusive Máquinas para umedecer, para dar brilho aos fios.
+
+<01>677.053.29	
+<02>Partes. Acessórios.
+
+<01>677.053.292	
+<02>Partes. Inclusive Guias de fio. Tensionadores. Limpadores de fio. Dispositivos para colocação nos
+<04>fusos.
+
+<01>677.053.296	
+<02>Acessórios. Inclusive Tubos e outros suportes. Aparelhos para dar nós.
+
+<01>677.053.7	
+<02>Equipamento, máquinas para urdir, engomar,
+enrolar etc. os fios (inclusive fios dobrados).
+
+<01>677.053.72	
+<02>Casal de urdideiras, esquinadeiras. Suportes em
+viga de urdideiras.
+
+<01>677.053.73	
+<02>Urdideiras seccionais.
+
+<01>677.053.74	
+<02>Máquinas de urdir de viga.
+
+<01>677.053.75	
+<02>Máquinas de colagem.
+
+<01>677.053.76	
+<02>Máquinas de cilindros de tear.
+
+<01>677.053.77	
+<02>Equipamento, máquinas para preparar a
+urdidura para ulterior processamento.
+<09>Máquinas de cruzamento.
+<09>Máquinas de puxar. Máquinas de estirar.
+<09>Máquinas de molduras semicilíndricas ou
+de dente. Máquinas de amarrar a urdidura.
+
+<01>677.054	
+<02>Teares. Máquinas de tecer e dispositivos
+auxiliares.
+<09>681.124 Dispositivos de contagem, de totalização
+
+<01>677.054.3	
+<02>Teares. Máquinas de tecer.
+
+<01>677.054.32	
+<02>Teares grandes.
+
+<01>677.054.32 
+<02>dividido como 677.054.8
+
+<01>677.054.33	
+<02>Teares para tecidos estreitos. Teares para
+pequenas peças.
+
+<01>677.054.33 
+<02>dividido como 677.054.8
+
+<01>677.054.35 
+<02>Teares circulares.
+
+<01>677.054.35 
+<02>dividido como 677.054.8
+
+<01>677.054.39	
+<02>Outros tipos de tear.
+
+<01>677.054.5	
+<02>Máquinas de tecer segundo o tecido fabricado.
+
+<01>677.054.52	
+<02>Máquinas para tecer tecidos lisos.
+
+<01>677.054.53/.54 
+<02>Máquinas para tecer tecidos felpudos.
+
+<01>677.054.53	
+<02>Máquinas para tecer tecidos felpudos de trama,
+do tipo chenílle.
+
+<01>677.054.54	
+<02>Máquinas para tecidos felpudos de urdidura.
+
+<01>677.054.57	
+<02>Máquinas para tecer tipos especiais de tapetes, carpetes. Inclusive Máquinas para tecer tapetes 
+<04>Axminster.
+
+<01>677.054.58	
+<02>Máquinas para tapetes de nós.
+
+<01>677.054.8	
+<02>Mecanismos e movimentos de tecelagem.
+
+<01>677.054.82	
+<02>Movimentos para soltar a urdidura e
+compensar o pano. Varas, barras do tear.
+
+<01>677.054.823	
+<02>Movimentos para soltar a urdidura. Inclusive Freios dos cilindros de urdidura. Dispositivos para regular a tensão dn
+<04>urdidura.
+
+<01>677.054.825	
+<02>Movimentos de compensação do pano. Inclusive Cilindros do pano.
+
+<01>677.054.827	
+<02>Barras, varas do tear. Matrizes.
+
+<01>677.054.83	
+<02>Mecanismos, movimentos de abertura.
+
+<01>677.054.832	
+<02>Movimentos impulsores.
+
+<01>677.054.833	
+<02>Dobbies (teares mecânicos para tecidos de
+fantasia).
+
+<01>677.054.834	
+<02>Máquinas Jacquard.
+
+<01>677.054.835	
+<02>Movimentos de abertura para abertura
+multifásica.
+
+<01>677.054.836	
+<02>Movimentos combinados de abertura (inclusive
+unidade formadora de ourela).
+
+<01>677.054.838	
+<02>Partes dos movimentos de abertura. Acessórios
+de abertura.
+
+<01>677.054.838.2	
+<02>Liços dos teares. Passadores, etc.
+
+<01>677.054.838.3	
+<02>Acessórios para Jacquard. Inclusive Liço de Jacquard. Pranchas de pentear.
+
+<01>677.054.838.4	
+<02>Dispositivos para controle da abertura. Inclusive Cardas. Cilindro de carda. Agulhas, ganchos, rodas de laço. Cilindro 
+<04>cavilhado. Facas.
+
+<01>677.054.838.5	
+<02>Impulsores. Alavancas que suspendem o eixo.
+
+<01>677.054.838.6	
+<02>Movimentos de reversão. Movimentos de reversão de mola.
+
+<01>677.054.838.7	
+<02>Dispositivos para limpeza de abertura de urdidura.
+
+<01>677.054.84	
+<02>Mecanismos, movimentos de pinçagem. Movimentos de mudança de trama.
+
+<01>677.054.842	
+<02>Dispositivos para inserção de trama.
+
+<01>677.054.842.2	
+<02>Lançadeiras. Carretéis.
+
+<01>677.054.842.3	
+<02>Garras.
+
+<01>677.054.842.4	
+<02>Agulhas para inserção de trama.
+
+<01>677.054.842.5	
+<02>Jatos para inserção de trama.
+
+<01>677.054.843	
+<02>Caixas de lançadeiras e seus componentes.
+
+<01>677.054.844	
+<02>Movimentos para inserção de trama.
+
+<01>677.054.844.2	
+<02>Movimentos de pinçagem. Inclusive Pinçagem contínua.
+
+<01>677.054.844.6	
+<02>Movimentos não-pinçadores. Inclusive Movimentos pneumáticos-Movimentos Hidráulicos. Movimentos eletromagnéticos.
+
+<01>677.054.844.8	
+<02>Partes dos movimentos de pinçagem. Inclusive Eixo de pinçagem (vareta de pinçagem). Pinças.
+
+<01>677.054.845	
+<02>Pente (de tecelão). Inclusive Guias de lançadeira.
+
+<01>677.054.846	
+<02>Movimentos de mudança de trama. Inclusive Mecanismos de mudança de lançadeira.
+
+<01>677.054.847	
+<02>Movimentos para reenchimento da trama ou da lançadeira. Inclusive Tambor, bateria. Movimentos de corte da trama. 
+<09>Cortadores
+
+<01>677.054.85	
+<02>Dispositivos de segurança. Movimentos de parada.
+
+<01>677.054.87	
+<02>Equipamento, máquinas para produção de cartões. Inclusive Máquinas de perfurar cartões.
+<09>676.815.4 Cartões perfurados para controle de máquinas (p. ex., de máquinas de contabilidade, máquinas têxteis)
+
+<01>677.054.89	
+<02>Outros dispositivos auxiliares, partes e
+acessórios para máquinas de tecer.
+
+<01>677.055	
+<02>Máquinas e equipamento de malharia.
+
+<01>677.055.3	
+<02>Máquinas de malharia de barra reta.
+
+<01>677.055.32	
+<02>Máquinas de malharia do tipo algodão.
+
+<01>677.055.34	
+<02>Máquinas de malharia com nervuras.
+
+<01>677.055.38 
+<02>Partes características das máquinas de barra reta.
+
+<01>677.055.382	
+<02>Dispositivos de agulha e agulha-guia. Inclusive Haste da agulha. Agulha-guia e urdidor. Puxa-fios.
+
+<01>677.055.383	
+<02>Dispositivos de padronagem.
+
+<01>677.055.384	
+<02>Dispositivos de virada do debrum e de transferência de canelura.
+
+<01>677.055.385	
+<02>Portadores de fio (seleção). Caixas de atrito, etc.
+
+<01>677.055.386	
+<02>Dispositivos de regulagem.
+
+<01>677.055.387	
+<02>Mecanismos de tiragem.
+
+<01>677.055.388	
+<02>Dispositivos de padronagem. Inclusive Dispositivos de fazer renda. Dispositivos de fazer pelúcia. Dispositivos para fazer 
+<06>listras. 
+
+<01>677.055.4	
+<02>Máquinas de malharia de barra plana.
+
+<01>677.055.42	
+<02>Com um só leito de agulha.
+
+<01>677.055.44	
+<02>Com dois leitos de agulha.
+
+<01>677.055.45	
+<02>Máquinas de malharia com leito em V.
+<09>Máquinas de malharia do tipo Lamb.
+
+<01>677.055.46	
+<02>Máquinas de malharia de ponto reverso.
+
+<01>677.055.47	
+<02>Máquinas de malharia (ou tricô) para uso doméstico.
+
+<01>677.055.48	
+<02>Partes características das máquinas de barra plana. Inclusive Montagem do leito de agulhas. Sistemas de carro e ressalto. Dispositivos de padronagem (p. ex., dispositivos de fazer listras).
+
+<01>677.055.5	
+<02>Máquinas de malharia circulares.
+
+<01>677.055.52 
+<02>Máquinas de malharia de roda perfuradora.
+<09>Máquinas de malharia de roda em laço.
+
+<01>677.055.522	
+<02>Com agulhas horizontais.
+
+<01>677.055.524	
+<02>Com agulhas verticais.
+
+<01>677.055.528	
+<02>Partes perculiares às máquinas de roda perfuradora e roda de laço. Inclusive Montagem da roda perfuradora. Dispositivos de 
+<04>padronagem (p. ex., dispositivos de fazer listras, acessórios para preguear).
+
+<01>677.055.54/.56 
+<02>Máquinas de malharia circulares (com exceção das maquinas de roda perfuradora e das máquinas de roda em laço).
+
+<01>677.055.54	
+<02>Máquinas de malharia circulares pequenas (diâmetro até 165 mm).
+
+<01>677.055.542	
+<02>Máquinas de cilindro único sem mostrador.
+
+<01>677.055.546	
+<02>Máquinas de cilindro duplo.
+
+<01>677.055.548	
+<02>Partes características de máquinas de malharia circulares pequenas. Inclusive Montagem do cilindro. Montagem do 
+<04>mostrador. Sistemas de carnes. Dispositivos de padronagem (p. ex., dispositivos para fazer listras).
+
+<01>677.055.56	
+<02>Máquinas de malharia circulares grandes
+(diâmetro superior a 165 mm). Máquinas interloque.
+
+<01>677.055.562	
+<02>Máquinas de cilindro único sem mostrador.
+
+<01>677.055.564	
+<02>Máquinas de cilindro único com mostrador.
+
+<01>677.055.566	
+<02>Máquinas de cilindro duplo.
+
+<01>677.055.568	
+<02>Partes características de máquinas de malharia circulares grandes.
+
+<01>677.055.6	
+<02>Máquinas de malharia de trama.
+
+<01>677.055.62	
+<02>Máquinas de malharia de trama plana. Inclusive Máquinas de malharia de tricô. Máquinas milanesas. Máquinas 
+<04>Raschel (teares de dupla nervura). Máquinas de galões.
+
+<01>677.055.64	
+<02>Máquinas de malharia de trama circular. Inclusive Máquinas Maratte.
+
+<01>677.055.68	
+<02>Partes características de máquinas de malharia de trama. Inclusive Cilindros de urdidura. Ações de tricotar (p. ex., barras de 
+<04>agulha, barras perfuradoras). Dispositivos de padronagem (placas de queda, etc.).
+
+<01>677.055.7	
+<02>Outros tipos de máquinas de malharia. Inclusive Waltex.
+
+<01>677.055.8	
+<02>Elementos de formação de laço.
+
+<01>677.055.82	
+<02>Agulhas.
+
+<01>677.055.84	
+<02>Perfuradoras.
+
+<01>677.055.86	
+<02>Corrediços.
+
+<01>677.056	
+<02>Outras máquinas de fabricação de tecidos.
+
+<01>677.056.1	
+<02>Máquinas de acolchoar.
+
+<01>677.056.2	
+<02>Máquinas para fabricação de almofadados e
+feltros estofados.
+
+<01>677.056.22	
+<02>Máquinas para produção de almofadados.
+
+<01>677.056.24	
+<02>Máquinas para produção de feltros estofados.
+
+<01>677.056.3	
+<02>Máquinas para produção de feltros de agulha.
+
+<01>677.056.4	
+<02>Máquinas para produtos não-tecidos.
+<06>677.056.4 dividido como 677.026.4
+
+<01>677.056.5	
+<02>Máquinas para produção de renda.
+<09>Máquinas para produção de renda
+
+<01>677.056.6	
+<02>Máquinas de bordar.
+
+<01>677.056.7	
+<02>Máquinas para produção de tecidos com nós,
+tranças e franjas.
+
+<01>677.056.73	
+<02>Máquinas para produção de tecidos com nós,
+franjas.
+
+<01>677.056.75	
+<02>Máquinas para produção de tranças. Máquinas
+de trançar.
+
+<01>677.056.77	
+<02>Máquinas para produção de enfeites,
+guarnições, passamanaria.
+
+<01>677.057	
+<02>Equipamento, máquinas para tingimento,
+estampagem e acabamento de têxteis.
+
+<01>677.057.1	
+<02>Equipamento, máquinas para processamento de
+todos os estágios de tingimento e acabamento.
+
+<01>677.057.11	
+<02>Equipamento, máquinas para controle e
+remoção preliminar de falhas, para inspeção de produtos.
+
+<01>677.057.12	
+<02>Equipamento, máquinas para remoção de água e ar.
+
+<01>677.057.13	
+<02>Equipamento, máquinas para tensionar e secar.
+<09>Secadoras.
+
+<01>677.057.14	
+<02>Equipamento, máquinas para umidificar,
+molhar, borrifar.
+
+<01>677.057.15	
+<02>Equipamento para vaporizar. Vaporizadores.
+
+<01>677.057.17	
+<02>Empilhadores, abridores e espalhadores de
+corda. Equipamento para cortar, empilhar e enrolar.
+
+<01>677.057.2	
+<02>Equipamento, máquinas para tratamento
+preparatório (ao acabamento têxtil).
+
+<01>677.057.21	
+<02>Equipamento, máquinas para preparo de produtos. Inclusive Máquinas de costura
+<09>687.053.Máquinas de costura. Equipamento de costura
+
+<01>677.057.22	
+<02>Equipamento para chamuscagem.
+
+<01>677.057.25	
+<02>Equipamento, máquinas para limpeza. Inclusive Equipamento, máquinas para lavagem.
+
+<01>677.057.26	
+<02>Equipamento, máquinas para banho cáustico.
+<09>677.057.65 Máquinas de mercerizar
+
+<01>677.057.27	
+<02>Equipamento, máquinas para alvejamento.
+
+<01>677.057.4	
+<02>Equipamento, máquinas para secagem.
+<09>667.2 Indústria de pigmentos. Fabricação e uso de pigmentos
+
+<01>677.057.41	
+<02>Equipamento para preparo de solução corante.
+
+<01>677.057.42	
+<02>Tinas, cubas de tingimento.
+
+<01>677.057.43	
+<02>Equipamento para tingimento. Inclusive Armações de alfinete. Equipamento de modelar por pressão.
+
+<01>677.057.44	
+<02>Máquinas de tingir. Inclusive Guincho e cuba. Talhas, tinas.
+
+<01>677.057.46	
+<02>Equipamento para processos especiais de tingimento. Inclusive Câmaras de tingimento e tratamento a vapor.
+
+<01>677.057.47	
+<02>Aparelhos e equipamento para tingimento contínuo.
+
+<01>677.057.5	
+<02>Equipamento, máquinas para estampagem em
+têxteis.
+<09>655.3.025 Impressão em várias superfícies, exceto papel
+<09>677.057.77 Máquinas de estampagem da ourela
+
+<01>677.057.51	
+<02>Equipamento, máquinas para produção de
+pastas de estampagem.
+
+<01>677.057.52	
+<02>Equipamento para estampagem manual.
+
+<01>677.057.53	
+<02>Máquinas de estampagem. Inclusive Máquinas de estampagem com blocos. Máquinas de estampagem com as. Máquinas de 
+<04>estampagem com rolos.
+<09>681.625.7 Impressoras para impressão em materiais diversos
+
+<01>677.057.54	
+<02>Equipamento para estampagem fotomecânica.
+
+<01>677.057.6	
+<02>Equipamento, máquinas para acabamento.
+
+<01>677.057.61	
+<02>Equipamento, máquinas para acabamento
+mecânico.
+
+<01>677.057.611	
+<02>Equipamento, máquinas para triturar, decatizar,
+umedecer.
+
+<01>677.057.612	
+<02>Equipamento, máquinas para felpar, tosar,
+polir.
+
+<01>677.057.613	
+<02>Equipamento, máquinas para escovar, bater,
+fragmentar.
+
+<01>677.057.615	
+<02>Equipamento, máquinas para calandrar, prensar, moldar.
+
+<01>677.057.617	
+<02>Equipamento, máquinas para encolhimento
+mecânico.
+
+<01>677.057.62	
+<02>Equipamento, máquinas para estofamento. Inclusive Foulards (calandras de estofamento).
+
+<01>677.057.63	
+<02>Equipamento, máquinas para revestimento. Inclusive Equipamento para evaporação de metais e outras substâncias. 
+<04>Equipamento para aspergir, espalhar, tratar, derramar, borrifa. Aplicadores de cilindros.
+
+<01>677.057.64	
+<02>Equipamento, máquinas para polimerização e condensação.
+
+<01>677.057.65	
+<02>Máquinas de mercerizar.
+<09>677.057.26 Equipamento, máquinas para banho cáustico 
+
+<01>677.057.7	
+<02>Equipamento, máquinas para processos finais.
+
+<01>677.057.71	
+<02>Equipamento para conferência, controle.
+<09>658.562 Controle das operações. Supervisão da produção. Controle e  inspeção de qualidade
+
+<01>677.057.72	
+<02>Equipamento e máquinas para medição.
+<09>681.2 Fabricação de instrumentos em geral. Instrumentação. Instrumentos de medição e sua fabricação. Balanças. Mecanismos de pesagem
+
+<01>677.057.73	
+<02>Máquinas para estender. Máquinas para dobrar.
+<09>Máquinas para passar a ferro.
+<09>648.43 Prensamento mecânico. Máquinas de passar roupa. Calandras de prensar
+<09>687.054 
+
+<01>677.057.74	
+<02>Máquinas para enrolar. Máquinas para embrulhar.
+
+<01>677.057.75	
+<02>Máquinas combinadas (p. ex.. máquinas para medir e dobrar),
+
+<01>677.057.77	
+<02>Máquinas de estampagem da ourela.
+<09>677.057.5 Equipamento, máquinas para estampagem em têxteis
+
+<01>677.057.78	
+<02>Máquinas de prensagem. Máquinas de embalagem.
+<09>621.798 Equipamento de acondicionamento e embalagem. Invólucros, recipientes, materiais, 
+<04>máquinas, etc.
+
+<01>677.07	
+<02>Produtos da indústria têxtil.
+<04>Especificar a forma e tipo por meio de -48...
+<04>Indicar as aplicações por meio de :...
+<06>677.07:645 Tecidos para móveis
+<06>677.07:66.067.123.2 Tecidos para filtros
+
+<01>677.071	
+<02>Produtos da fiação de fibras artificiais. Produtos da preparação de fibras naturais e artificiais (antes da fiação).
+
+<01>677.071.2	
+<02>Produtos obtidos da fiação de fibras artificiais.
+
+<01>677.071.25	
+<02>Filamentos. Fibras têxteis.
+
+<01>677.071.252	
+<02>Filamentos contínuos.
+
+<01>677.071.258	
+<02>Fibras têxteis.
+
+<01>677.071.27	
+<02>Fibras têxteis artificiais feitas a partir de
+<06>lâminas. Fibras divididas.
+
+<01>677.071.28	
+<02>Estopa artificial.
+
+<01>677.071.5/.8	
+<02>Produtos obtidos da preparação de fibras
+naturais antes da fiação.
+
+<01>677.071.5	
+<02>Produtos da extração c processamento de fibras naturais. Inclusive Fibras maceradas, descortinadas, descaroçadas, enroladas.
+
+<01>677.071.6	
+<02>Produtos do corte, quebra, abertura, limpeza, mistura. Inclusive Fibras naturais cortadas. Fibras naturais quebradas.
+
+<01>677.071.7	
+<02>Produtos da cardação. Inclusive Trama. Estofamento. Tiras de carda. Mechas.
+
+<01>677.071.8	
+<02>Produtos da gramação, penteadura, estiramento
+e lavagem em água corrente. Fios preliminares. Fios soltos.
+
+<01>677.072	
+<02>Fios. Fios dobrados. Cordões. Cordas.
+
+<01>677.072.2	
+<02>Fios fabricados em fiadeiras volantes.
+
+<01>677.072.3	
+<02>Fios fiados em anel.
+<06>677.072.3:677.022.6 Filamentos para fazer fios torcidos
+
+<01>677.072.32	
+<02>Fios derivados da fiação de fã, de
+condensadores. Fios de lã. Fios de condensador.
+
+<01>677.072.33	
+<02>Fios derivadas da fiação de lã e de algodão
+penteado.
+
+<01>677.072.34	
+<02>Fios derivados de processos de fiação de fibra
+do floema.
+
+<01>677.072.35	
+<02>Fios derivados de processos de fiação schappe.
+
+<01>677.072.36	
+<02>Fios de fibra artificial derivados de processos
+de fiação direta.
+
+<01>677.072.39	
+<02>Fios de fantasia. Inclusive Fios de voile. Fios de crepe. Jaspé.
+
+<01>677.072.4	
+<02>Fios derivados de processos especiais de fiação. Inclusive Fios contínuos. Fios autotorcidos.
+
+<01>677.072.5	
+<02>Fios derivados de mulas de fiação.
+
+<01>677.072.6	
+<02>Fios torcidos e dobrados. Inclusive Linhas. Cordéis. Cordas. 
+<06>677.072.6:677.024 Fios para tecer 
+<06>677.072.6:687.023 Fios de costura
+
+<01>677.072.61	
+<02>Fios torcidos e dobrados, etc., segundo o grau de torção. Inclusive Fios de núcleo fiado. Linhas reforçadas.
+
+<01>677.072.62	
+<02>Fios torcidos e dobrados simples.
+
+<01>677.072.63	
+<02>Fios de fantasia retorcidos. Inclusive Fios ondeados. Fios de crepe torcidos.
+
+<01>677.072.68	
+<02>Cordéis. Cordas.
+
+<01>677.072.7	
+<02>Fios texturizados. Inclusive Fios de torção falsa. Fios encrespados. Fios encorpados.
+
+<01>677.073	
+<02>Produtos do enrolamento em bobinas, carretéis, novelos, urdidura, engomação , etc,
+de fios simples e dobrados.
+
+<01>677.073.2	
+<02>Fios enrolados. Fios em carretéis. Fios em novelos.
+
+<01>677.073.7	
+<02>Fios tecidos. Fios engomados. Fios cilindrados.
+
+<01>677.074	
+<02>Tecidos, fazendas.
+<06>677.074:664.742 Tecido de tela para classificar trigo
+
+<01>677.074.1	
+<02>Projeto e aspectos de fabricação.
+
+<01>677.074.13	
+<02>Tipo de fio.
+<09>Especificar por meio de :677.072...
+
+<01>677.074.14	
+<02>Arranjo, Arranjo da trama. Arranjo da urdidura.
+
+<01>677.074.15	
+<02>Sistemas de trama e urdidura.
+
+<01>677.074.16	
+<02>Padrão da tecelagem. Tipos de tecelagem.
+
+<01>677.074.162	
+<02>Tecelagens básicas. Tramas derivadas de
+tecelagens básicas.
+
+<01>677.074.162.3 
+<02>Teceduras lisas. Tecedura de tafetá. Tecedura de chita. Tecedura de panamá.
+
+<01>677.074.162.5 
+<02>Tecedura de sarja. Tecedura casa-de-abelha.
+
+<01>677.074.162.7 
+<02>Tecedura de cetim.
+
+<01>677.074.164	
+<02>Teceduras combinadas.
+
+<01>677.074.164.2	
+<02>Teceduras listradas.
+
+<01>677.074.164.3	
+<02>Teceduras em xadrez.
+
+<01>677.074.164.4	
+<02>Teceduras com gradações.
+
+<01>677.074.164.5	
+<02>Teceduras em crepe.
+
+<01>677.074.164.7 
+<02>Teceduras adamascadas.
+
+<01>677.074.166	
+<02>Teceduras reforçadas. Teceduras duplas.
+<09>Teceduras múltiplas.
+
+<01>677.074.167	
+<02>Teceduras de reforma. Teceduras terciárias.
+
+<01>677.074.168	
+<02>Outras teceduras.
+
+<01>677.074.168.2 
+<02>Teceduras em pregas. Teceduras atoalhadas.
+
+<01>677.074.168.4	
+<02>Teceduras em brocado.
+
+<01>677.074.168.5	
+<02>Teceduras felpudas. Teceduras de veludo.
+<09>Teceduras de pelúcia. Teceduras atoalhadas.
+<09>Teceduras com laçadas.
+
+<01>677.074.168.6	
+<02>Teceduras de gaze de algodão. Teceduras de rede.
+
+<01>677.074.17	
+<02>Composição de cor. Inclusive Matiz único (cor própria). Com padrões diversos. 
+
+<01>677.074.3/.5 
+<02>Tecidos segundo as dimensões, forma e
+estrutura da superfície.
+
+<01>677.074.3	
+<02>Tecido largo. Tecido estreito. Artigos têxteis
+pequenos. Tecido tubular.
+
+<01>677.074.32	
+<02>Tecido largo.
+
+<01>677.074.33	
+<02>Tecido estreito. Pequenos artigos de tecido. Inclusie Fitas. Tiras. Cadarços.
+
+<01>677.074.35	
+<02>Tecidos produzidos por teares circulares.
+
+<01>677.074.5	
+<02>Tecidos lisos. Tecido felpudo.
+<09>Tecidos lisos. Tecido felpudo
+
+<01>677.074.52	
+<02>Tecido liso.
+
+<01>677.074.53	
+<02>Tecidos felpudos de trama. Inclusive Tecidos com trama de chenille.
+
+<01>677.074.54	
+<02>Tecidos felpudos de urdidura. Inclusive Tapetes de felpa dupla. Tecidos atoalhados. Toalhas.
+
+<01>677.074.57	
+<02>Tipos especiais de tapetes. Inclusive Tapetes Axminster.
+
+<01>677.074.58 
+<02>Tapetes de nós. Tapetes de nós feitos a máquina. Inclusive Tapetes Ghiordes. Tapetes Smyrna. Tapetes persas. Tapetes Senné.
+<06>677.074.58(55-86) Tapetes persas
+
+<01>677.074.6	
+<02>Filós. Tule.
+
+<01>677.075	
+<02>Tecidos de malha.
+<09>687.31/.36
+
+<01>677.075.3	
+<02>Tecidos de malha de trama plana.
+
+<01>677.075.4	
+<02>Tecidos de malha plana.
+
+<01>677.075.42	
+<02>Tecidos de malha plana simples.
+
+<01>677.075.44 
+<02>Tecidos de malha plana canelada.
+
+<01>677.075.46 
+<02>Tecidos de malha plana com laçada.
+
+<01>677.075.5	
+<02>Tecidos de malha de trama circular. Inclusive Tecidos de malha atoalhada. Tecidos de interloque.
+
+<01>677.075.6	
+<02>Tecidos de malha de urdidura. Inclusive Tecidos de malha tricotada. Tecidos de malha milanesa.
+
+<01>677.076	
+<02>Outros produtos da indústria têxtil.
+
+<01>677.076.1	
+<02>Tecidos com tufos.
+
+<01>677.076.12	
+<02>Tecidos com tufos produzidos com uma só agulha.
+
+<01>677.076.14	
+<02>Tecidos com tufos produzidos com mais de uma agulha.
+
+<01>677.076.2	
+<02>Estofados. Feltros almofadados.
+
+<01>677.076.22	
+<02>Estofados.
+
+<01>677.076.24	
+<02>Feltros encorpados. Feltros de lã. Feltros de pêlo.
+
+<01>677.076.3	
+<02>Feltros de agulha.
+
+<01>677.076.4	
+<02>Não-tecidos.
+
+<01>677.076.42	
+<02>Panos de fibra colada. Estopa de fibra.
+
+<01>677.076.44	
+<02>Não-tecidos reforçados. Inclusive Estopa de agulha.
+
+<01>677.076.45	
+<02>Tramas de malha costurada. Tecidos ligados por pontos de costura.
+
+<01>677.076.49	
+<02>Outros não-tecidos.
+
+<01>677.076.5	
+<02>Renda
+
+<01>677.076.52	
+<02>Renda feita à mão.
+<09>746.21 Confecção de rendas
+
+<01>677.076.56	
+<02>Renda feita a máquina.
+
+<01>677.076.6	
+<02>Bordado.
+
+<01>677.076.62	
+<02>Bordado manual.
+<09>746.3 Bordado
+
+<01>677.076.64	
+<02>Bordado de espátula.
+
+<01>677.076.66	
+<02>Bordado feito à máquina.
+
+<01>677.076.7	
+<02>Panos, tecidos de nós. Tecidos de tranças.
+<09>Tranças. Arremates, enfeites, guarnições.
+
+<01>677.076.73	
+<02>Tecidos de nós. Redes.
+<09>746.25 Trabalho trançado, de nós. Franjas (macramé), borlas, tranças, pompons
+
+<01>677.076.75	
+<02>Produtos trançados. Inclusive Cordéis trançados. Guarnições. Cordões, cadarços de sapato. Franjas.
+
+<01>677.076.77	
+<02>Guarnições, orlas, beiradas.
+
+<01>677.076.9	
+<02>Outros produtos têxteis. Inclusive Alcântara.
+
+<01>677.077	
+<02>Produtos do tingimento, estampagem e acabamento têxtil.
+
+<01>677.077 
+<02>dividido como 677.027
+
+<01>677.077.4	
+<02>Tecidos tingidos.
+
+<01>677.077.5	
+<02>Tecidos estampados.
+
+<01>677.077.6	
+<02>Tecidos acabados.
+
+<01>677.077.611	
+<02>Tecidos apisoados e encorpados. Inclusive Flanela.
+
+<01>677.077.613	
+<02>Tecidos de felpa levantada e tosada. Inclusive Velado.
+
+<01>677.077.623.52 
+<02>Tecidos mercerizados.
+
+<01>677.077.625.13 
+<02>Tecidos impermeáveis. Inclusive Tecido à prova d 'água.
+
+<01>677.08	
+<02>Resíduos e subprodutos da indústria têxtil.
+<09>Divisões principais
+
+<01>677.1/.5	
+<02>Fibras têxteis.
+
+<01>677.1/.3	
+<02>Fibras naturais.
+<09>677.51 Fibras minerais naturais
+
+<01>677.1/.2	
+<02>Fibras vegetais.
+<09>633.5 Plantas têxteis e fibrosas
+
+<01>677.1	
+<02>Fibras de floema (fibras de caules
+de dicotiledôneas). Fibras duras (de folhas e frutos de monocotiledôneas).
+<09>633.52 Linho e fibras semelhantes
+<09>677.2 Pelos vegetais
+
+<01>677.11/.15	
+<02>Fibras de caules de monocotiledôneas.
+<09>Fibras de floema.
+
+<01>677.11	
+<02>Linho. Fibras de linho (do cânhamo).
+
+<01>677.12	
+<02>Cânhamo.
+
+<01>677.13	
+<02>Juta.
+<09>677.143 Outras fibras malváceas
+
+<01>677.14	
+<02>Várias fibras de caules lenhosos das
+dicotiledôneas.
+
+<01>677.141	
+<02>Cânhamo de suna (Crotalaria juncea).
+
+<01>677.142	
+<02>Kenaf. Bimli. Gambo. Deccan. Ambari.
+
+<01>677.143	
+<02>Outras fibras malváceas.
+
+<01>677.146/.149	
+<02>Outras fibras de caules lenhosos de
+dicotiledôneas.
+
+<01>677.146/.149 
+<02>dividido como 582.6/.9
+
+<01>677.15	
+<02>Fibras diversas de caules não-lenhosos de
+dicotiledôneas.
+
+<01>677.151	
+<02>Fibras de rami.
+
+<01>677.152	
+<02>Urtiga. Fibras de urtiga.
+
+<01>677.153	
+<02>Yercum. Mudar.
+
+<01>677.154	
+<02>Fibras de Bauhinia.
+
+<01>677.156/.159	
+<02>Outras fibras de caules não-lenhosos de
+dicotiledôneas.
+
+<01>677.156/.159 
+<02>dividido como682.6/.9
+
+<01>677.16	
+<02>Fibras de folhas e bainhas de folhas de
+monocotiledôneas.
+
+<01>677.161	
+<02>Fibras de musáceas. Inclusive Cânhamo-de-manilha (abacá). Fibras de bananeira.
+
+<01>677.162	
+<02>Fibras de agave. Inclusive Sisal. Henequém.
+
+<01>677.163	
+<02>Fibras de fúrcreas linho.
+
+<01>677.164	
+<02>Fibras de liliáceas. Inclusive Fibra de fórmio (cânharno-da-nova-zelândia}. Fibra da iúca.
+
+<01>677.165	
+<02>Fibras de bromeliáceas. Inclusive Fibras do abacaxizeiro. Caroá.
+
+<01>677.166	
+<02>Fibras de pandanáceas.
+
+<01>677.167	
+<02>Fibras de Stipa. Esparto (alfa).
+<09>677.542 Esparto (para esteiras)
+
+<01>677.168	
+<02>Fibras de folhas de palmáceas. Fibras da
+folha de palmeiras. Ráfia.
+
+<01>677.17	
+<02>Fibras de caules de monocotiledôneas (de
+talos, pecíolos, troncos).
+
+<01>677.172	
+<02>Fibras de gramíneas. Capim. Palha.
+
+<01>677.173	
+<02>Fibras de ciperáceas. Juncos.
+
+<01>677.174	
+<02>Fibras de palmáceas. Fibras de piaçava.
+
+<01>677.175	
+<02>Fibras de juncáceas. Juncos.
+
+<01>677.177	
+<02>Fibras de tília. Crina vegetal.	
+
+<01>677.178	
+<02>Fibras de caules, talos, troncos, de outras
+monocotiledôneas. 
+
+<01>677.178 
+<02>dividido como 582.52
+
+<01>677.18	
+<02>Fibras de frutos de monocotiledôneas. Inclusive Fibra de coco. Fibras de bucha.
+
+<01>677.19	
+<02>Outras fibras vegetais.
+
+<01>677.191	
+<02>Fibras de casca de árvore.
+
+<01>677.192	
+<02>Fibras de musgos e samambaias.
+
+<01>677.193	
+<02>Fibras de plantas aquáticas. Fibras
+marinhas. Inclusive Algas.
+
+<01>677.194	
+<02>Fibras de turfa.
+<09>674.88 Processamento de turfa (exceto como combustível e para a indústria têxtil)
+
+<01>677.195	
+<02>Fibras obtidas sob forma de aparas, lascas.
+<09>Fibras de agulhas de coníferas.
+<09>674.82 Lã de madeira. Aparas de madeira. Serragem
+<09>674.87 Processamento de agulhas de coníferas (p. ex., em lã de agulhas de coníferas)
+
+<01>677.2	
+<02>Pêlos vegetais.
+
+<01>677.21	
+<02>Algodão.
+
+<01>677.21.08 
+<02>Resíduos e subprodutos da indústria do algodão. Estofados de algodão
+
+<01>677.22	
+<02>Outros pêlos de sementes. Inclusive Paina.
+
+<01>677.23	
+<02>Pêlos de frutas. Penugem vegetal. Inclusive Capoque.
+
+<01>677.3	
+<02>Fibras animais.
+<09>637.62 Cabelo. Pêlo. Cerdas. Lã
+
+<01>677.31	
+<02>Lã de ovelhas.
+<06>677.31:636.36 Lã de merino etc.
+
+<01>677.312	
+<02>Lã ovina em geral. Lã não-tratada.
+
+<01>677.313	
+<02>Lã de fibra longa (para pentear).
+
+<01>677.314	
+<02>Lã de fibra curta (para cardar).
+
+<01>677.316	
+<02>Lã de pele. Lã arrancada. Inclusive Lã suada.
+
+<01>677.318	
+<02>Lã exceto. Lã de trapo. Refugos de Lã.
+
+<01>677.32	
+<02>Lã de auquenídeos. Inclusive Alpaca. Vicunha. Lhama.
+
+<01>677.33	
+<02>Pêlo de cabra. Inclusive Caxemira. Mohair.
+
+<01>677.34	
+<02>Pêlo de camelo.
+
+<01>67735	
+<02>Outros pêlos e cerdas.
+
+<01>677351	
+<02>Pêlo de gado bovino.
+
+<01>677352	
+<02>Cerda de suínos.
+
+<01>677353	
+<02>Pêlo de cão. Pêlo de gato.
+
+<01>677354	
+<02>Pele de lebre. Pele de coelho.
+
+<01>677.354.5	
+<02>Pêlo de coelho angorá.
+
+<01>677.356	
+<02>Pêlo de castor.
+
+<01>677.358	
+<02>Pêlo de cavalo (da crina e da cauda).
+
+<01>677.37	
+<02>Seda.
+<09>638.2 Criação de bicho-da-seda. Sericicultura
+
+<01>677.371	
+<02>Seda cultivada. Seda verdadeira (do bicho-
+da-seda, Bombix mori).
+
+<01>677.371.1	
+<02>Seda crua (filamento). Grège.
+
+<01>677.371.2	
+<02>Seda de trama. Inclusive Organza.
+
+<01>677.371.3	
+<02>Seda semifervida. Seda macia.
+
+<01>677.371.4	
+<02>Seda fervida. Seda lavada. Seda desgornada.
+
+<01>677.371.5	
+<02>Seda pesada.
+
+<01>677.371.7	
+<02>Schappe.
+
+<01>677.371.8	
+<02>Noils de seda.Bourette.
+
+<01>677.372/.373 
+<02>Sedas selvagens.
+
+<01>677.372	
+<02>Seda selvagem de Antheraea pernyi. Seda detussor.
+
+<01>677.373	
+<02>Seda selvagem de outras espécies de bicho-da-seda.
+
+<01>677.373.1	
+<02>Seda de Eri. Seda de Ailanthus (da espécie
+<09>Samia).
+
+<01>677.373.2	
+<02>Seda de Fagara (de Attacus atlas).
+
+<01>677.373.5	
+<02>Seda de Anafe. Seda de ninho (da espécie
+<09>Anaphe).
+
+<01>677.375	
+<02>Outras sedas naturais.Inclusive Seda de aranha. Seda de moluscos. Seda-do-mar
+<09>638.54 Aranhas (Araneida)
+
+<01>677.39	
+<02>Outras fibras de origem animal.
+<06>677.39:637.63 De penas, etc.
+<06>677.39:637.663 De vísceras, do intestino
+
+<01>677.4	
+<02>Fibras artificiais.
+<09>Fibras artificiais
+
+<01>677.46/.47	
+<02>Fibras artificiais de polímeros naturais.
+
+<01>677.46	
+<02>Fibras artificiais de celulose ou outros
+polissacarídeos.
+<09>661.728 Celulose e seus derivados
+<09>676.1 Pastas de papel
+
+<01>677.461	
+<02>Raiom de nitrato de celulose.
+
+<01>677.462	
+<02>Raiom de cupramônio.
+
+<01>677.463	
+<02>Raiom de viscose.
+
+<01>677.464	
+<02>Fibras artificiais de acetato de celulose.
+
+<01>677.465	
+<02>Fibras artificiais de outros ésteres
+celulósicos.
+
+<01>677.466	
+<02>Fibras artificiais de éteres de celulose.
+
+<01>677.467	
+<02>Outras fibras celulósicas.
+
+<01>677.469	
+<02>Fibras artificiais de outros polissacarídeos,
+exceto a celulose e seus compostos (p. ex., poliuronídeos). Inclusive Fibras de alginatos.
+
+<01>677.47	
+<02>Fibras artificiais de proteínas e outros
+materiais naturais nitrogenados.
+
+<01>677.472	
+<02>Fibras de proteínas. Inclusive Fibras de caseína. Fibras de soja.
+
+<01>677.473	
+<02>Fibras de outros materiais nitrogenados.
+<09>Quitina e seus derivados.
+
+<01>677.494	
+<02>Fibras sintéticas.
+
+<01>677.494 
+<02>dividido como 678
+
+<01>677.494.6	
+<02>Fibras de policondensados.
+
+<01>677.494.674	
+<02>Fibras de poliéster.
+
+<01>677.494.675	
+<02>Fibras de poliamida. Náilon.
+
+<01>677.494.7	
+<02>Fibras de polimerizados.
+
+<01>677.494.742	
+<02>Fibras de poliolefinas. Inclusive Fibras de polietileno. Fibras de polipropileno.
+
+<01>677.494.745.3 
+<02>Fibras de poliacrilonitrilo (fibras acrílicas). Fibras de dinitrilo de polivinilideno.
+
+<01>677.499	
+<02>Outras fibras sintéticas.
+
+<01>677.5	
+<02>Fibras minerais e metálicas.
+<09>Matérias para trançar. Fios de borracha. Fios de papel.
+
+<01>677.51	
+<02>Fibras minerais naturais.
+<09>677.1/.3
+
+<01>677.511	
+<02>Fibra de amianto.
+
+<01>677.512	
+<02>Fibras de lava natural.
+
+<01>677.52	
+<02>Fibras minerais artificiais.
+
+<01>677.521	
+<02>Fibras de vidro.
+<09>666.189.21 Fibras de vidro e seus produtos. Vidro têxtil
+
+<01>677.522	
+<02>Fibras de escória, de rochas e lava artificial.
+<04>Especificar por meio de  :552...
+
+<01>677.523	
+<02>Fibras cerâmicas.
+
+<01>677.53	
+<02>Fibras de metal, metálicas.
+<06>677.53:669,21 De ouro e suas ligas. Fio de ouro
+<09>621.778 Trefilação e usinagem de barras, arames e materiais perfilados semelhantes
+
+<01>677.531	
+<02>Tecidos de metais preciosos.
+
+<01>677.532	
+<02>Gaze metálica. Gaze de arame. Gaze para
+telas. Gaze de cobre, latão, aço, etc..
+
+<01>677.533	
+<02>Rede de arame. Telas de latão, aço, aço
+galvanizado, etc.
+
+<01>677.534	
+<02>Telas de metal perfurado (metal furado ou expandido
+
+<01>677.536	
+<02>Tela de arame com elos vedados com
+cimento ou terracota.
+
+<01>677.54	
+<02>Materiais vegetais para trançar e
+preguear.
+<09>633.58 Plantas que produzem fibras para fabricação de cestos, peneiras, fiação grosseira
+<09>677.1 Fibras de floema (fibras de caules de dicotiledôneas). Fibras duras (de folhas e frutos de monocotiledôneas).
+
+<01>677.541	
+<02>Palha e produtos semelhantes. Inclusive Esteiras de palha.. Palha trançada, pregueada
+
+<01>677.542	
+<02>Esparto (para esteiras),
+<09>677.167 Floras de stipa
+
+<01>677.543	
+<02>Brotos de salgueiro. Vimeiros (para
+produção de cestas).
+
+<01>677.544	
+<02>Canas e juncos (das juncáceas e
+ciperáceas).
+
+<01>677.545	
+<02>Bambu. Rattan.
+
+<01>677.546	
+<02>Aparas. Inclusive Palha de arroz.
+
+<01>677.547	
+<02>Folhas. Partes de folhas.
+
+<01>677.548	
+<02>Floema. Floema de tília.
+
+<01>677.55	
+<02>Fios e fibras de borracha e materiais elásticos semelhantes.
+
+<01>677.55 
+<02>dividido como 678
+
+<01>677.554	
+<02>Fios de borracha natural.
+
+<01>677.557	
+<02>Fios de borracha sintética.
+
+<01>677.57	
+<02>Fios e linhas de papel.
+
+
+<01>678 
+<02>Indústrias baseadas em materiais macromolecuIares. Indústria da borracha. Indústria de plásticos
+<09>547 Química orgânica
+<09>66.0 Engenharia química em geral
+
+<09>Subdivisões auxiliares especiais
+<06>678-1	Propriedades e composição de materiais específicos.
+<09>Especificar por meio de :53... e :54...
+<04>Os auxiliares de 62-1... não são aplicáveis a 678 e suas subdivisões
+<06>678-13		Copolímeros. 
+<09>678.7 Produtos de polimerização sintética. Polimerizados. Polímeros. Borrachas sintéticas
+<06>678-19	Misturas de materiais macromoleculares.
+<06>678-2/-9	Detalhes de máquinas, instalações e produtos.
+<09>678.05 Instalações. Máquinas. Equipamento
+<04>Os auxiliares especiais -2/-9 (de 62-2/-8 e 66-9) são aplicáveis na classe 678 
+<06>678-2 Componentes de máquinas 678-4 Forma e modelos dos produtos 
+<06>678-5/-8 Operação, controle, manutenção, acessórios e fontes de energia de instalações e máquinas
+
+<01>678.0	
+<02>Informação geral. Propriedades.
+<09>Análise e testes. Processos de fabricação, instalações e equipamento. Produtos e suas aplicações.
+
+<01>678.01	
+<02>Propriedades. Defeitos. Constituição.
+<09>Aplicabilidade. Amostragem. Análise.
+<09>Testes.
+<06>678.01:53 Propriedades físicas, defeitos, testes, etc.
+<06>678.01:54 Propriedades químicas, defeitos. Testes, etc.
+
+<01>678.011	
+<02>Variáveis de fabricação. Outros fatores que
+afetam as propriedades.
+
+<01>678.012	
+<02>Análise química. Determinação de
+componentes, da complexidade molecular, etc.
+<09>Indicar os componentes químicos por meio de :546...e:547...
+
+<01>678.016	
+<02>Testes de aplicabilidade (sob condições práticas).
+<09>Especificar por meio de  .620.16...
+
+<01>678.017	
+<02>Testes de propriedades mecânicas.
+<09>Especificar por meio de :620.17...
+
+<01>678.019	
+<02>Defeitos materiais. Resistência a ataques diversos.
+
+<01>678.019 
+<02>dividido como 620.19
+<09>678.028.4 Falhas e dificuldades na vulcanização e cura
+
+<01>678.02	
+<02>Processos e operações de fabricação.
+<09>66.09 Decomposição. Craqueamento
+<06>678.02:66.095.26 Processos de polimerização (nas indústrias de borracha e plástico) 
+<06>678.02:66.095.261.1 Polimerização por adição 
+<06>678.02-.66.095.261.2 Policondensação
+
+<01>678.021	
+<02>Processos anteriores à composição (combinação) e/ou à formação.
+
+<01>678.021.1	
+<02>Processos de pré-coagulação. Tratamento do látex.
+
+<01>678.021.12	
+<02>Conservação do látex.
+
+<01>678.021.13	
+<02>Remoção de monômeros. Fracionamento. Filtração. Desnatação.
+
+<01>678.021.14	
+<02>Diluição com água.
+
+<01>678.021.15	
+<02>Concentração.
+
+<01>678.021.16	
+<02>Homogeneização. Mistura.
+
+<01>678.021.17	
+<02>Combinação.
+
+<01>678.021.172	
+<02>Espessamento.
+
+<01>678.021.174	
+<02>Sensibilização.
+
+<01>678.021.18	
+<02>Dispersão artificial. Redispersão.
+
+<01>678.021.2	
+<02>Coagulação. Coagulação espontânea
+
+<01>678.021.3	
+<02>Coagulação por processos mecânicos.
+
+<01>678.021.5	
+<02>Coagulação por defumação.
+
+<01>678.021.6	
+<02>Coagulação por adição de produtos químicos
+(ou materiais naturais que contêm tais
+produtos).
+
+<01>678.021.7	
+<02>Coagulação por secagem.
+
+<01>678.021.8	
+<02>Coagulação por métodos biológicos.
+
+<01>678.021.9	
+<02>Coagulação por outros processos. Inclusive Processos de coagulação elétricos, ultra-sônicos, térmicos. Coagulação por 
+<04>congelamento. Aglomeração. Agregação.
+
+<01>678.022	
+<02>Tratamento de coagulados.
+
+<01>678.022.1	
+<02>Tratamento de coagulados coerentes em geral.
+
+<01>678.022.2	
+<02>Tratamento antes do rolamento ou laminação.
+
+<01>678.022.3	
+<02>Processo de laminação de crepe.
+
+<01>678.022.4	
+<02>Preparo de crepes duplos, quádruplos e desola.
+
+<01>678.022.5	
+<02>Secagem de crepes.
+
+<01>678.022.7	
+<02>Processo de enrolamento em folhas.
+
+<01>678.022.8	
+<02>Defumação de folhas.
+
+<01>678.022.9	
+<02>Tratamento de coagulados não-coesos,
+perolados, etc.
+
+<01>678.023	
+<02>Redução do tamanho. Cominuição.
+<09>Combinação. Amassamcnto. Separação.
+<09>Peneiragem.
+
+<01>678.023.1	
+<02>Amassamento. Mastigação.
+
+<01>678.023.2	
+<02>Pulverização. Moagem. Separação. Peneiragem.
+<09>621.926/.928 
+
+<01>678.023.3	
+<02>Mistura.
+<09>66.063.7 Mistura e amassadura de substâncias plásticas
+
+<01>678.024	
+<02>Conversão em pré-formas, massas informes, etc. para moldagem e formação.
+
+<01>678.025	
+<02>Operações intermediárias. Inclusive Pré-aquecimento. Resfriamento. Purificação. Filtração,
+
+<01>678.026	
+<02>Impregnação, revestimento e cobertura com
+composto macromolecular. Reforço.
+<09>Impermeabilização. Ligação. Decoração, etc.
+<09>678.029.6 Impregnação, revestimento e cobertura com materiais de proteção
+
+<01>678.026.2	
+<02>Impregnação (com composto macromolecular).
+
+<01>678.026.3	
+<02>Revestimento e cobertura (com composto macromolecular). Inclusive Imersão. Borrifamento. Borrifamento a chama. Difusão, revestimento por difusão. Eletrodeposição.
+
+<01>678.027	
+<02>Operações de formação.
+
+<01>678.027.2	
+<02>Calandragem.
+
+<01>678.027.3	
+<02>Extrusão.
+
+<01>678.027.4	
+<02>Fiação.
+<09>677.021.125.2 Fiação
+
+<01>678.027.5	
+<02>Fundição de película.
+
+<01>678.027.6	
+<02>Imersão.
+
+<01>678.027.7	
+<02>Moldagem. Moldagem por prensa. Fundição
+(em moldes).
+
+<01>678.027.72	
+<02>Moldagem por compressão. Pré-moldagem.
+
+<01>678.027.73	
+<02>Moldagem por transferência.
+
+<01>678.027.74	
+<02>Moldagem por injeção. Moldagem por
+esguicho. Moldagem por injeção excêntrica.
+
+<01>678.027.75	
+<02>Moldagem a frio.
+
+<01>678.027.76	
+<02>Moldagem por sopro. Formação da pressão do
+fluido.
+
+<01>678.027.77	
+<02>Fundição (em moldes).
+<09>677.027.5 Fundição de película
+
+<01>678.027.78	
+<02>Moldagem por explosão.
+
+<01>678.027.9	
+<02>Operações especiais de formação não-plástica.
+
+<01>678.027.92	
+<02>Moldagem profunda.
+
+<01>678.027.93	
+<02>Moldagem a baixa pressão.
+
+<01>678.027.94	
+<02>Métodos de acamação. Inclusive Laminação. Prensagem.
+
+<01>678.027.95	
+<02>Moldagem por sinterização de pó. Método Engels.
+
+<01>678.027.96	
+<02>Moldagem de artigos de espuma.
+
+<01>678.027.97	
+<02>Raspagem.
+
+<01>678.027.98	
+<02>Orientação.
+
+<01>678.028	
+<02>Cura. Vulcanização. Regeneração. Outras operações químicas durante ou depois da
+moldagem.
+
+<01>678.028.2	
+<02>Processos.
+
+<01>678.028.22	
+<02>Cura a quente em banho de enxofre.
+
+<01>678.028.24	
+<02>Vulcanização em solução de monocloreto de
+enxofre. Cura a frio.
+
+<01>678.028.25	
+<02>Vulcanização a vapor.
+
+<01>678.028.26	
+<02>Vulcanização com enxofre coloidal. Processo Peachey.
+
+<01>678.028.27	
+<02>Vulcanização a calor seco. Inclusive Vulcanização a vácuo. Vulcanização a alta freqüência. Vulcanização infravermelha.
+
+<01>678.028.28	
+<02>Curas autógenas. Vulcanização em temperatura ambiente.
+
+<01>678.028.292	
+<02>Vulcanização e cura em solução.
+
+<01>678.028.295	
+<02>Solarização. Vulcanização e cura por meio de luz.
+
+<01>678.028.296	
+<02>Vulcanização por radiação. Cura por radiação. Inclusive Vulcanização gama. Vulcanização por elétrons. Vulcanização por 
+<04>termorradiação.
+
+<01>678.028.297	
+<02>Vulcanização a alta velocidade.
+
+<01>678.028.298	
+<02>Pós-vulcanização.Velocidade e estado de vulcanização e cura.
+
+<01>678.028.3	
+<02>Falhas e dificuldades na vulcanização e cura.
+<09>678.019 Defeitos materiais. Resistência a ataques diversos
+
+<01>678.028.5	
+<02>Desvulcanização.
+
+<01>678.028.6	
+<02>Processo de reciclagem. Processo de recuperação.
+<09>678.046.1 Materiais que contêm borracha
+<09>678.46 Derivados regenerados de enxofre. Borracha regenerada
+
+<01>678.029	
+<02>Usinagem. Fabricação. Acabamento.
+
+<01>678.029.3	
+<02>Usinagem. Modelagem.
+<09>621.9 Trabalho ou usinagem com formação de cavacos, aparas. Usinagem com abrasivos. Martelos e prensas.
+
+<01>678.029.4	
+<02>Ligação, reforço, aumento de resistência de
+superfícies.
+
+<01>678.029.42	
+<02>Cementação.
+<09>621.792 Junção por adesão
+
+<01>678.029.43	
+<02>Soldagem.
+<09>621.791 Soldagem e técnicas afins
+
+<01>678.029.44	
+<02>Costura.
+
+<01>678.029.45	
+<02>Ligação mecânica. Ligação com parafusos, grampos, rebites.
+<09>621.88 Dispositivos de fixação. Prendedores
+
+<01>678.029.46	
+<02>Reforço, Reforço mecânico,
+
+<01>678.029.5	
+<02>Ligação. União com outros materiais.
+<06>678.029.5:669 Ligação a metais 
+<06>678.029.5:677 Ligação a têxteis
+
+<01>678.029.6	
+<02>Impregnação, revestimento e cobertura com
+materiais de proteção.
+<09>675.026 Acabamento de peles, de couros
+
+<01>678.029.7	
+<02>Acabamento. Polimento. Endurecimento da
+superfície, etc.
+
+<01>678.029.71	
+<02>Assamento. Secagem.
+
+<01>678.029.72	
+<02>Amadurecimento.
+
+<01>678.029.73	
+<02>Enrijecimento, têmpera.
+
+<01>678.029.74	
+<02>Tratamento contra estática.
+
+<01>678.029.76	
+<02>Polimento. Inclusive Polimento por pressão. Polimento mecânico.
+
+<01>678.029.77	
+<02>Polimento químico com solventes ou vapores.
+
+<01>678.029.78	
+<02>Endurecimento da superfície.
+
+<01>678.029.8	
+<02>Decoração. Alvejamento. Tingimento.
+<09>Coloramento.
+<09>66 Tecnologia química. Indústrias químicas e afins 
+<09>678.047 Materiais colorantes. Corantes. Pigmentos
+
+<01>678.029.93	
+<02>Polvilhamento com pós.
+
+<01>678.029.94	
+<02>Desodorização,
+
+<01>678.029.98	
+<02>Operações finais.
+
+<01>678.03	
+<02>Matérias-primas (primárias) e materiais
+semiprocessados (intermediários) para as indústrias de borracha e plástico.<09>633.91, 66
+
+<01>678.031	
+<02>Látex (látex bruto).
+
+<01>678.031 
+<02>dividido como 678.021.1
+
+<01>678.031.3	
+<02>Látex purificado.
+
+<01>678.031.5	
+<02>Látex concentrado.
+
+<01>678.032	
+<02>Coagulados. Inclusive Borracha natural, bruta (não-tratada, não-curada). Borracha em bloco. crepe, folha.
+
+<01>678.032.1	
+<02>Coágulo. Bolas de borracha. Borracha não-tratada.
+
+<01>678.032.12/.19 
+<02>dividido como 678.021.2/.9
+
+<01>678.032.15	
+<02>Coágulo obtido por defumação.
+
+<01>678.032.2	
+<02>Borracha em bloco. Placas. Espirais.
+
+<01>678.032.3	
+<02>Crepes.
+
+<01>678.032.4	
+<02>Crepes-sola.
+
+<01>678.032.5	
+<02>Crepes secos.
+
+<01>678.032.6	
+<02>Crepes de baixo teor.Borracha de raspas.
+<09>Borracha do solo. Borracha de nata.
+
+<01>678.032.7	
+<02>Borracha em mantas (não-defumadas).
+
+<01>678.032.8	
+<02>Mantas defumadas.
+
+<01>678.033	
+<02>Materiais compostos. Fórmulas.
+
+<01>678.034	
+<02>Formas preliminares de vários feitios. Inclusive Bolotas, Tabletes. Lascas. Grumos.
+
+<01>678.04	
+<02>Materiais complementares. Aditivos.
+<09>66.022.3 Aditivos. Tratamento com aditivos
+
+<01>678.041	
+<02>Aditivos para látex.
+
+<01>678.042	
+<02>Solventes.
+<09>Especificar por meio de :546... e :547...
+
+<01>678.043	
+<02>Agentes vulcanizantes. Agentes de ligação cruzada.
+<09>661.2 Produção de enxofre e seus derivados
+<09>661.49 Percompostos inorgânicos em geral. Sais peróxidos em geral
+<09>661.691 Selênio. Compostos de selênio
+<09>661.692 Telúrio. Compostos de telúrio
+<09>661.729 Peróxidos orgânicos
+<09>661.8`02 Óxidos
+
+<01>678.044	
+<02>Aceleradores. Catalisadores. Iniciadores.
+<09>Ativadores.
+<09>66.097 Processos catalíticos. Catalisadores. Veículos catalisadores
+
+<01>678.045	
+<02>Retardadores de vulcanização. Inibidores de
+polimerização. Reguladores de cadeia.
+
+<01>678.046	
+<02>Cargas, enchimentos. Extensores.
+<09>Ingredientes da composição que exercem
+mais de uma ação.
+
+<01>678.046.1	
+<02>Materiais que contêm borracha. Inclusive  Borracha regenerada.
+<09>678.028.6 Processo de reciclagem. Processo de recuperação
+<09>678.46 Derivados regenerados de enxofre. Borracha vulcanizada flexível
+
+<01>678.046.2	
+<02>Negro-de-fumo. Grafita.
+
+<01>678.046.3	
+<02>Cargas minerais. Cargas inorgânicas. Inclusive Metais. Caulim.
+
+<01>678.046.5	
+<02>Cargas vegetais (exceto borracha). Inclusive Resíduos de madeira. Resíduos de algodão.
+
+<01>678.046.6	
+<02>Cargas animais. Inclusive Proteínas. Resíduos, aparas de couro. Refugos de pele. Lã.
+
+<01>678.046.7	
+<02>Cargas sintéticas.
+
+<01>678.047	
+<02>Materiais colorantes. Corantes. Pigmentos.
+<09>667 Indústrias de pigmentos
+<09>678.029.8 Decoração. Alvejamento. Tingimento. Coloramento
+
+<01>678.048	
+<02>Antioxidantes. Preservativos. Estabilizadores.
+<09>66.094.3 097.8 041 Antioxidação. Inibição da oxidação
+<09>66.097.8 Catalisadores negativos. Inibição. Liberação. Estabilização da reação. Estabilizadores. Inibidores. Passivadores. Agentes de liberação
+<09>678. Indústrias baseadas em materiais macromoleculares. Indústria da borracha. Indústria de plásticos
+
+<01>678.049	
+<02>Amaciantes. Plastificadores. Agentes
+umidificantes. Lubrificantes. Outros
+aditivos de menor importância.
+
+<01>678.049.1	
+<02>Amaciantes em geral. 
+<04>Para substâncias específicas, ver 661.7... 
+<09>66.063.72 Emolientes, plastificadores e seu emprego
+
+<01>678.049.2	
+<02>Asfaltos. Betumes.
+<09>665.775 Betume asfáltico
+
+<01>678.049.3	
+<02>Outros produtos de óleos minerais. Inclusive Parafina líquida. Parafinas. Vaselina.
+
+<01>678.049.4	
+<02>Óleos vegetais. Ácidos graxos e seus derivados.
+<09>Sabões.
+<09>661.187 Indústria do sabão
+<09>665.3 Óleos, gorduras, ceras, fosfatídeos vegetais
+
+<01>678.049.5	
+<02>Óleos animais.
+<09>665. 21 Óleos de origem animal
+
+<01>678.049.6	
+<02>Resinas. Óleos de resinas. Ácido abiético.
+
+<01>678.049.7	
+<02>Agentes umidificantes. Emulsificadores.
+<09>Peptizadores.
+<09>66.063.5/.6
+
+<01>678.049.8	
+<02>Odorizantes.
+<09>66.022.392 Aditivos que afetam as reações organolépticas (cheiro, gosto, textura)
+<09>665.577 Perfumaria. Fabricação de perfumes a paartir de diversas substâncias
+
+<01>678.049.9	
+<02>Outros aditivos de menor importância.
+
+<01>678.049.91	
+<02>Agentes de resistência ao fogo.
+
+<01>678.049.92	
+<02>Agentes de resistência ao congelamento.
+
+<01>678.049.93	
+<02>Lubrificantes. Lubrificantes de molde.
+
+<01>678.05	
+<02>Instalações. Máquinas. Equipamento.
+
+<01>678.051	
+<02>Instalações, etc. para os processos anteriores
+à combinação.
+
+<01>678.052	
+<02>Instalações, etc. para tratamento de
+coagulados, borracha crua, etc.
+
+<01>678.053	
+<02>Instalações de moagem. Instalações de
+mistura. Instalações de classificação.
+<06>678.033 dividido como 678.023
+
+<01>678.054	
+<02>Instalações e maquinaria para pré-soldagem.
+<09>Inclusive Máquinas para fazer tabletes. Máquinas para fazer briquetes.
+
+<01>678.055	
+<02>Instalações, etc. para operações
+intermediárias. Instalações de aquecimento e secagem.
+
+<01>678.056	
+<02>Equipamento para revestimento. Inclusive Instalações de imersão. Instalações de aspersão. 
+<06>678.056 dividido como 678.026
+
+<01>678.057	
+<02>Instalações de moldagem.
+
+<01>678.057 
+<02>dividido como 678.027
+<09>621.979.3 Prensas de ação indireta
+
+<01>678.057.2	
+<02>Calandras. Calandras de duplicação. Rolos de
+duplicação.
+
+<01>678.057.3	
+<02>Máquinas de extrusão. Extrusores.
+
+<01>678.057.7	
+<02>Prensas de moldagem. Máquinas de moldagem.
+
+<01>678.058	
+<02>Instalações de cura. Instalações de
+vulcanização.
+
+<01>678.058.1	
+<02>Vasilhas de vulcanização.
+
+<01>678.058.2	
+<02>Autoclaves de vulcanização.
+
+<01>678.058.3	
+<02>Prensas de vulcanização.
+
+<01>678.058.4	
+<02>Fornos de ar quente para vulcanização.
+
+<01>678.058.5	
+<02>Vulcanizadores para reparos. Vulcanizadores
+para objetos usados, gastos.
+
+<01>678.058.6	
+<02>Instalações de reciclagem. Instalações de
+recuperação.
+
+<01>678.059	
+<02>Instalações de usinagem. Instalações de
+fabricação. Instalações de acabamento.
+
+<01>678.059 
+<02>dividido como 678.029  
+<09>621.9 Trabalho ou usinagem com formação de cavacos, aparas. Usinagem com abrasivos. Martelos e prensas
+
+<01>678.06	
+<02>Aplicações de materiais  macromoleculares. Produtos acabados.
+<06>678.06:615.4 Produtos macromoleculares para material e equipamento médico -<09>615.462 
+<06>678.06:621.798 Produtos macromoleculares para embalagem 
+<06>678.06:687 Uso de produtos macromoleculares na industria do vestuário e em cosmetologia 
+<09>677.462 Raiom de cupramônio
+
+<01>678.061	
+<02>Produtos de látex. Composições e misturas. Inclusive Lubrificantes. Graxas. Tintas. Lacas. Adesivos.
+<09>678.031 Látex (látex bruto)
+
+<01>678.062	
+<02>Produtos não-curados. Produtos não-
+vulcanizados. Produtos de borracha crua.
+<09>678.032 Coagulados
+
+<01>678.063	
+<02>Produtos curados. Produtos vulcanizados.
+
+<01>678.065	
+<02>Pneus, lagartas (esteiras) e dispositivos
+similares de tração. Inclusive Laças. Adesivos.
+
+<01>678.066	
+<02>Produtos impregnados. Produtos
+impermeabilizados. Inclusive Tecidos impregnados, impermeabilizados.
+
+<01>678.067	
+<02>Objetos moldados. Moldes. Fundições.
+
+<01>678.069	
+<02>Produtos decorados. Produtos pintados.
+<09>Produtos de superfície acabada.
+
+<01>678.07	
+<02>Classificação segundo características especiais.
+
+<01>678.072	
+<02>Materiais termofixos em geral.
+<09>678.6 Produtos sintéticos de policondensação. Policondensados. Resinas sintéticas. Fibras sintéticas, etc.
+
+<01>678.073	
+<02>Materiais termoplásticos em geral.
+<09>678.5 Plásticos
+<09>678.7 Produtos de polimerização sintética. Polimerizados. Polímeros. Borrachas sintéticas
+
+<01>678.074	
+<02>Elastômeros. Materiais elásticos em geral.
+<09>678.4 Borracha natural. Outros produtos macromoleculares naturais que contêm apenas carbono e hidrogênio
+<09>678.7 Produtos de polimerização sintética. Polimerizados. Polímeros. Borrachas sintéticas
+
+<01>678.075	
+<02>Plastômeros.
+<09>Plásticos
+
+<01>678.076	
+<02>Materiais flexíveis.
+
+<01>678.077	
+<02>Materiais duros. Materiais rígidos.
+
+<01>678.078	
+<02>Estereoestrutura. Inclusive Polímeros estereoespecíficos. Polímeros atáticos.
+
+<01>678.09	
+<02>Materiais derivados de processos
+particulares.
+
+<01>678.09 
+<02>dividido como 66.09
+
+<01>678.094.2	
+<02>Produtos de redução.
+
+<01>678.094.25	
+<02>Derivados hidrogenados.
+
+<01>678.094.3	
+<02>Produtos de oxidação. Derivados oxigenados.
+
+<01>678.094.413	
+<02>Derivados clorados.
+
+<01>678.095.21	
+<02>Produtos de isomerização.
+
+<01>678.095.268	
+<02>Produtos de despolimerização.
+<09>Divisões principais
+
+<01>678.4	
+<02>Borracha natural. Outros produtos
+macromoleculares naturais que
+contêm apenas carbono e
+hidrogênio.
+
+<01>678.43	
+<02>Derivados com baixo teor de enxofre.
+<09>Borracha vulcanizada flexível.
+
+<01>678.44	
+<02>Derivados com alto teor de enxofre.
+<09>Borracha vulcanizada dura. Inclusive Ebonite. Vulcanite.
+
+<01>678.46	
+<02>Derivados regenerados de enxofre.
+<09>Borracha regenerada.
+<09>678.028.6 Processo de reciclagem. Processo de recuperação
+<09>678.046.1 Materiais que contêm borracha
+
+<01>678.47	
+<02>Derivados de borracha natural (exceto a
+vulcanizada).
+
+<01>678.471	
+<02>Sem conter elementos adicionais.
+
+<01>678.471.095.252 
+<02>Cidoborrachas
+
+<01>678.472	
+<02>Que contêm apenas hidrogênio adicional.
+<09>Derivados hidrogenados.
+
+<01>678.473	
+<02>Que contêm halógenos. Derivados
+halogenados.
+
+<01>678.474	
+<02>Derivados hidroalogenados.
+
+<01>678.475	
+<02>Que contêm elementos do 6° e/ou do 5° grupo.
+
+<01>678.476	
+<02>Derivados alquilados.
+
+<01>678.477	
+<02>Produtos de adição Diels-Alder.
+
+<01>678.479	
+<02>Derivados que contêm metal.
+
+<01>678.48	
+<02>Guta-percha. Balata.Chicle. Guaiúle, etc.
+
+<01>678.481	
+<02>Guta-percha.
+
+<01>678.482	
+<02>Balata.
+
+<01>678.483	
+<02>Chicle.
+
+<01>678.484	
+<02>Guaiúle.
+
+<01>678.5	
+<02>Plásticos.
+<09>Especialmente os plásticos semi-sintéticos baseados em celulose, proteínas e outras substâncias macromoleculares naturais que contêm carbono, hidrogênio e oxigênio ou outros elementos
+<09>678.7 Produtos de polimerização sintética. Polimerizados. Polímeros. Borrachas sintéticas
+
+<01>678.54	
+<02>Plásticos baseados em celulose ou seus
+derivados.
+<09>661.728 Celulose seus derivados
+<09>677.46 Fibras artificiais de celulose ou outros polissacarídeos
+
+<01>678.542	
+<02>Plásticos à base de celulose ou celulose
+regenerada.
+
+<01>678.542.3	
+<02>Celulose regenerada. Inclusive Viscose. Celulose de cupramônio.
+
+<01>678.542.7	
+<02>Fibras vulcanizadas.
+<09>676.872 Artigos de fibra vulcanizada
+
+<01>678.544	
+<02>Plásticos à base de ésteres de celulose. Inclusive Nitrato de celulose, celulóide. Acetato de celulose.
+
+<01>678.546	
+<02>Plásticos à base de éteres simples de
+celulose.
+
+<01>678.547	
+<02>Plásticos à base de éteres mistos de
+celulose (p. ex., com álcool metílico ou etílico).
+
+<01>678.55	
+<02>Plásticos à base de compostos (não-
+celulósicos) que contêm apenas carbono,
+hidrogênio e oxigênio.
+
+<01>678.552	
+<02>Plásticos à base de amido.
+
+<01>678.554	
+<02>Plásticos à base de alginatos.
+
+<01>678.555	
+<02>Plásticos à base de ágar-ágar.
+
+<01>678.557	
+<02>Plásticos à base de lignina.
+
+<01>678.56	
+<02>Plásticos à base de proteínas ou outros
+compostos naturais nitrogenados (com ou sem oxigênio e/ou enxofre).
+
+<01>678.562	
+<02>Plásticos à base de proteínas vegetais. Inclusive Plásticos à base de proteína de soja, proteína de amendoim.
+
+<01>678.563	
+<02>Plásticos à base de outras substâncias
+nitrogenadas de origem vegetal.
+
+<01>678.565	
+<02>Plásticos à base de caseína. Inclusive Formaldeído de caseína.
+
+<01>678.567	
+<02>Plásticos à base de ceratina, gelatina
+(colágeno), outras escleroproteínas.
+
+<01>678.569	
+<02>Plásticos à base de outras substâncias
+nitrogenadas de origem animal.
+
+<01>678.58	
+<02>Plásticos à base de piches, resinas e outras substâncias naturais não consideradas convencionalmente como
+<04>macromoleculares.
+
+<01>678.582	
+<02>Plásticos à base de óleos, gorduras, ceras.
+<04>Especificar por meio de  665...
+
+<01>678.584	
+<02>Plásticos à base de substâncias
+betuminosas, asfaltos, alcatrões.
+<09>665.775 Betume asfáltico
+
+<01>678.586	
+<02>Plásticos à base de substâncias resinosas naturais. Inclusive Plásticos à base de copais, piche de resina.
+<09>Especificar por meio de ::665.94...
+
+<01>678.6	
+<02>Produtos sintéticos de
+policondensação. Policondensados. Resinas sintéticas. Fibras sintéticas, etc.
+<09>Os policondensados sintéticos são considerados aqui como formados pela interação de pelo menus dois componentes, cada qual compreendendo um grupo funcional contido em um ou mais compostos
+<04>Os grupos funcionais são indicados por ...2 até... 7... e ...82 até ...86, acrescentados em ordem decrescente a 678.6, 
+<04>começando com o número mais alto envolvido na reação 
+<04>Assim, já que 3 indica os grupos cíclicos –OH,  e 2 indica os grupos –CHO, seus produtos de policondensação(os
+<04>fenolaldeídos ou fenoplastos) têm o número principal 678.632
+<04>Do mesmo modo,  678.675 indica os policondensados de poliamida. tais como náilons, com o acréscimo de 4 (para
+<04>–                 -OH acíclico), resultando em 678.675.4 como o número para as poliamidas de poliéster
+<04>Aqui são relacionados os próprios grupos funcionais (678.6 com ...2 ate...7 e ...82 até ...86) e combinações 
+	selecionadas 
+<09>665.939.56 Adesivos derivados de produtos sintéticos de policondensação
+<09>677.494 Fibras sintéticas
+
+<01>678.62	
+<02>Policondensados sintetizados dos grupos -CHO,
+
+<01>678.622	
+<02>-CHO com -CHO. Policondensados de aldeído-aldeído.
+
+<01>678.63	
+<02>Policondensados sintetizados dos grupos
+cíclicos -OH.
+
+<01>678.632	
+<02>-OH aril com -CHO. Policondensados de
+fenolaldeído. Fenoplastos. Policondensados fenólicos.
+
+<01>678.64	
+<02>Policondensados sintetizados de grupos -
+<09>OH acíclicos.
+
+<01>678.642	
+<02>-OH acíclicos com -CHO. Policondensados
+de álcool-aldeído.
+
+<01>678.643	
+<02>-OH acíclicos com -OH cíclicos.
+<09>Policondensados de álcool-fenol.
+
+<01>678.644	
+<02>-OH acíclicos com -OH acíclicos.
+<09>Policondensados de álcool-álcool,
+policondensados diol-diol. Inclusive Policondensados de áxido de alquileno. Óxido de polietileno.
+
+<01>678.65	
+<02>Policondensados sintetizados dos grupos -NH.
+
+<01>678.652	
+<02>=NH com -CHO. Policondensados de
+amino-aldeído. Aminoplastos.
+<09>Policondensados de anilina, uréia e
+melanina.
+
+<01>678.653	
+<02>=NH com -OH cíclicos. Policondensados de
+amina-fenol.
+
+<01>678.654	
+<02>=NH com -OH acíclico. Policondensados de
+amina-álcool.
+
+<01>678.66	
+<02>Policondensados sintetizados dos grupos -
+<09>N=C=O.
+
+<01>678.662	
+<02>-N=C=O com -CHO. Policondensados de
+isocianato-aldeído.
+
+<01>678.663	
+<02>-N=C=O com -OH cíclico. Policondensados
+de isocianato-fenol.
+
+<01>678.664	
+<02>-N=C=O com -OH aciclico.
+<09>Policondensados de isocianato-álcool, de
+diisocianato-diol.
+
+<01>678.665	
+<02>-N=C=O com =NH. Pólicondensados de
+isocianato-amina, diisocianato-diamína.
+
+<01>678.666	
+<02>-N=C=O com -N=C=O. Policondensados de
+isocianato-isocianato.
+
+<01>678.67	
+<02>Policondensados sintetizados dos grupos -
+<09>COOH
+
+<01>678.672	
+<02>-COOH com -CHO. Policondensados de
+Ácido aldeído.
+
+<01>678.673	
+<02>-COOH com -OH cíclico. Policondensados
+de ácido-fenol.
+
+<01>678.674	
+<02>-COOH com -OH acíclico. Policondensados
+de ácido-álcool. Policondensados de
+poliéster. Policondensados de alquido.
+<09>Gliptais.
+
+<01>678.675	
+<02>-COOH com =NH. Policondensados de
+ácido-amina. Policondensados de
+poliamida. Náilon.
+
+<01>678.676	
+<02>-COOH com -N-C=O. Policondensados de
+ácido-isocianato.
+
+<01>678.677	
+<02>-COOH com -COOH. Policondensados de
+ácido-ácido.
+
+<01>678.68	
+<02>Policondensados sintetizados do grupo
+=CO, de grupos que contêm halógenos, grupos que contêm enxofre e outros grupos funcionais.
+
+<01>678.682	
+<02>Policondensados sintetizados de grupos que
+contêm halógenos.
+
+<01>678.683	
+<02>Policondensados sintetizados dos grupos
+=CO. Policondensados de cetona.
+
+<01>678.684	
+<02>Policondensados sintetizados de grupos que
+contêm enxofre ou sulfetos.
+<09>Policondensados de polissulfeto.
+
+<01>678.684.82	
+<02>Policondensados sintetizados de polissulfeto-
+haleto. Tiocol.
+
+<01>678.685	
+<02>Policondensados sintetizados dos grupos
+=CH.
+
+<01>678.685.82	
+<02>Policondensados de cloreto de benzil.
+
+<01>678.686	
+<02>Policondensados sintetizados dos grupos
+epóxi. Poliepóxidos. Resinas epóxi.
+
+<01>678.7	
+<02>Produtos de polimerização
+sintética. Polimerizados. Polímeros. Borrachas sintéticas.
+<06>678.7-13 Copolímeros sintéticos 
+<09>665.939.57 Adesivos derivados de produtos sintéticos de polimerização
+
+<01>678.71	
+<02>Polimerizados de hidrocarbonetos em geral.
+
+<01>678.74	
+<02>Polimerizados monolênicos (um =C reativo).
+
+<01>678.741	
+<02>Polimerizados alifáticos, acíclicos em geral.
+
+<01>678.742	
+<02>Polimerizados monolênicos de
+hidrocarbono.
+
+<01>678.742.2	
+<02>Polietileno.
+
+<01>678.742.3	
+<02>Polipropeno. Polipropileno.
+
+<01>678.742.4	
+<02>Polibuteno. Polibutileno. Poliisobutileno.
+
+<01>678.742.5	
+<02>Polipentenos.
+
+<01>678.742.6	
+<02>Poliexenos.
+
+<01>678.743	
+<02>Polimerizados monolênicos de haletos.
+
+<01>678.743.2	
+<02>Polímeros de haleto de vinil. Haletos de
+polivinil. Inclusive Fluoreto de polivinil (PVF). Cloreto de polivinil (PVC).
+
+<01>678.743.3	
+<02>Polímeros de haleto de vinilideno.
+
+<01>678.743.4	
+<02>Polímeros tetraalo-olefmas.
+<09>Politetraaloetilenos. Inclusive Politetrafluoroetileno (PTFE) e homólogos.
+
+<01>678.743.5	
+<02>Polímeros de haleto alil, Haletos polialil.
+
+<01>678.744	
+<02>Polímeros monolênicos que contêm
+oxigênio.
+
+<01>678.744.3	
+<02>Polímeros insaturados de carboxiácidose seus
+ésteres.
+
+<01>678.744.32	
+<02>Polímeros acrílicos e seus ésteres. Inclusive Ácido  poliacrílico.
+
+<01>678.744.33	
+<02>Polímeros metacrílicos.
+
+<01>678.744.34	
+<02>Polímeros de ácido dicarboxílico e seus ésteres.
+
+<01>678.744.4	
+<02>Polímeros de éster de álcoois insaturados. Inclusive Acetoto de polivinil (PVAC).
+
+<01>678.744.5	
+<02>Polimerizados de éter.
+
+<01>678.744.6	
+<02>Polimerizados de cetona. Polimerizados de
+aldeído.
+
+<01>678.744.7	
+<02>Polimerizados de álcool. Inclusive Álcool polivinil (PVAL).
+ 
+
+<01>678.745	
+<02>Polimerizados monolênicos que contêm
+nitrogênio, enxofre e outros elementos.
+
+<01>678.745.2	
+<02>Polimerizados de amina. Polimerizados de
+imina. Poliaminas, Poliiminas. Inclusive Amina de polivinil.
+
+<01>678.745.3	
+<02>Polimerizados de cianeto. Polimerizados de nitrila.Inclusive Poliacrilonitrila. Cianeto de polivinil.
+
+<01>678.745.6	
+<02>Polimerizados que contêm enxofre. Inclusive Polimerizados de tioéter. Polimerizados de tioálcool.
+
+<01>678.745.7	
+<02>Que contêm outros elementos, exceto nitrogênio e enxofre.
+
+<01>678.745.8	
+<02>Que contêm dois ou mais heteroelementos diferentes. Inclusive Polimerizados oxiato, Amida poliacrílica.  Amida polimetacrílica.
+
+<01>678.746	
+<02>Polimerizados aromáticos monolênicos sem reativo =C nos anéis.
+
+<01>678.746.2	
+<02>Polimerizados de hidrocarboneto. Inclusive Poliestireno.
+
+<01>678.746.3	
+<02>Polimerizados de haleto.
+
+<01>678.746.4	
+<02>Polimerizados que contêm oxigênio. Inclusive Polimerizados de éter.Polimerizados de cetona. Polimerizados de
+<04>fenol. Polimerizados de álcool.
+
+<01>678.746.5	
+<02>Polimerizados que contêm nitrogênio. Inclusive Polimerizados de amina. Polimerizados de imina, Poliamina. Poliiminas.
+
+<01>678.746.6	
+<02>Polimerizados que contêm enxofre.
+
+<01>678.746.7	
+<02>Que contêm outros heteroelementos.
+
+<01>678.746.8	
+<02>Que contém dois ou mais heteroelementos diferentes. Inclusive Polinitroestireno. Fosfato de polivinilfenil.
+
+<01>678.747	
+<02>Polimerizados monolênicos aromáticos com um =C reativo em pelo menos um anel. Inclusive Polimerizados de 
+cumarona.Policumarona. Subdividir genericamente como 678.746...
+
+<01>678.76	
+<02>Polimerizados multilênicos (dois ou mais
+=C reativos ou um ou mais -C).
+
+<01>678.761	
+<02>Polimerizados multilênicos alifáticos em geral. Inclusive Polimerizados multilênicos de
+hidrocarboneto. Polimerizados dieno. Inclusive Polibutadieno.
+
+<01>678.763	
+<02>Polimerizados multilênicos de haleto. Polialoprenos. Inclusive Policloropreno. Neopreno.
+
+<01>678.764	
+<02>Polimerizados multilênicos que contêm oxigênio.
+
+<01>678.765	
+<02>Polimerizados multilênicos que contêm
+nitrogênio, enxofre ou outros
+heteroelementos.
+
+<01>678.766	
+<02>Polimerizados multilênicos aromáticos ou
+cíclicos sem -C reativo nos anéis.
+
+<01>678.767	
+<02>Polimerizados multilênicos aromáticos ou
+cíclicos com =C reativo em pelo menos um
+anel.
+
+<01>678.768	
+<02>Polimerizados multilênicos com três ou
+mais =C.
+
+<01>678.769	
+<02>Polimerizados multilênicos com -C.
+<09>Polímeros de acetileno.
+
+<01>678.8	
+<02>Materiais macromoleculares
+diversos não incluídos em 678.4A/Z.
+
+<01>678.82	
+<02>Compostos macromoleculares sintéticos
+obtidos em parte pela saturação das
+<06>ligações carbono-carbono. Polimerizados
+condensados mistos. Inclusive Polímeros de sulfona-olefina.
+
+<01>678.83	
+<02>Polímeros orgânicos não incluídos em
+outros lugares.
+
+<01>678.84	
+<02>Polímeros que contêm silício. Inclusive Silicones. Polímeros de organossiloxano. Siloxanos.
+
+<01>678.85	
+<02>Polímeros que contêm fósforo. Polímeros
+de fosfonato.
+
+<01>678.86	
+<02>Polímeros baseadas em outros elementos
+inorgânicos.
+
+<01>679 
+<02>Indústrias baseadas em diversos materiais processáveis
+
+<01>679.7	
+<02>Indústrias de cabos e cordas.
+<09>62-427 Objetos compostos de arames, fios, filamentos. Multifiliares
+<09>Subdivisões auxiliares especiais
+
+<01>679.7.02	
+<02>Métodos de fabricação, processamento e
+tratamento.
+<09>677.02 Processos da indústria têxtil
+
+<01>679.7.022	
+<02>Métodos de fabricação, processamento e
+tratamento de arames, fios ou fitas.
+<09>621.778 Trefilação e usinagem de barras, arames e materiais perfilados semelhantes
+
+<01>679.7.022.1	
+<02>Tratamento mecânico.
+<09>Especificar por meio de :621.7... e :621.9...
+<06>679.7.022.1:621.771.25 Laminação
+<06>679.7.022.1:621.914 Trituração
+
+<01>679.7.022.3	
+<02>Tratamento térmico.
+<09>Especificar por meio de :621. 78...
+
+<01>679.7.022.4	
+<02>Tratamento mecânico e térmico. Inclusive  Sinterização. Estiramento (de plásticos).
+
+<01>679.7.022.5	
+<02>Tratamento químico. Solução ácida.
+<09>621.794 Acabamento químico e tratamento de superfícies
+
+<01>679.7.022.6	
+<02>Limpeza (de fio estirado).
+
+<01>679.7.022.8	
+<02>Revestimento.
+<06>679.7.022.8:621.793 Metalização
+<06>679.7.022.8:621.795.3 Envernizamento
+
+<01>679.7.023	
+<02>Métodos para a fabricação de arames, cabos,
+em fios simples ou fios torcidos.
+<09>621.778.24 Torção de barras ou arame de rio único
+<09>677.022.6 Torção. Trançado
+
+<01>679.7.023.2	
+<02>Segundo o número de fios (condutores), almas
+dos cabos e fios a serem dispostos.
+
+<01>679.7.023.3	
+<02>Disposição dos fios numa só operação.
+
+<01>679.7.023.4	
+<02>Disposição em mais de uma operação.
+
+<01>679.7.024	
+<02>Métodos de revestimento, de cobertura.
+
+<01>679.7.024.2	
+<02>Enrolamento. Dobra.
+
+<01>679.7.024.7	
+<02>Revestimento.
+
+<01>679.7.025	
+<02>Métodos de condicionamento.
+
+<01>679.7.025.2	
+<02>Secagem.
+
+<01>679.7.025.3	
+<02>Imersão.
+
+<01>679.7.025.4	
+<02>Impregnação.
+
+<01>679.7.025.5	
+<02>Aplicação de betume. Graxa.
+
+<01>679.7.025.6	
+<02>Aplicação de oxido de cálcio. Aplicação de
+greda.
+
+<01>679.7.025.7	
+<02>Condicionamento por tratamento térmico.
+
+<01>679.7.025.8	
+<02>Outros métodos de condicionamento.
+
+<01>679.7.027	
+<02>Métodos de junção dos fios e revestimentos/
+coberturas.
+<09>621.79 Ligação de materiais. Tratamento e acabamento da superfície. Guarda e armazenamento. Embalagem e acondicionamento
+
+<01>679.7.027.2	
+<02>Rebitamento.
+
+<01>679.7.027.3	
+<02>Soldagem.
+
+<01>679.7.027.4	
+<02>Fusão.
+
+<01>679.7.027.5	
+<02>Colagem.
+
+<01>679.7.027.6	
+<02>Torção em conjunto.
+
+<01>679.7.027.8	
+<02>Envolvimento com arame.
+
+<01>679.7.028	
+<02>Processos especiais de tratamento.
+
+<01>679.7.028.2	
+<02>Bobinamento e desbobinamento da cápsula de
+fios múltiplos.
+
+<01>679.7.028.4	
+<02>Enrolamento. Enrolamento em tambores.
+<06>679.7.028-5	Esticamento, amaciamento e prensagem de
+roletes de papel.
+
+<01>679.7.028.7	
+<02>Coloração.
+<09>621.794
+<09>621.795
+
+<01>679.7.028.8	
+<02>Marcação. Entintamento. Estampagem.
+
+<01>679.7.029	
+<02>Outros métodos.
+
+<01>679.7.03	
+<02>Matérias-primas.
+<09>Indicar o material por meio de -03... (Tabela Ik)
+
+<01>679.7.032	
+<02>Matérias-primas para arames, cordas e fios
+(exceto para invólucros e coberturas).
+
+<01>679.7.034	
+<02>Matérias-primas para invólucros e cobertura.
+
+<01>679.7.05	
+<02>Maquinas, equipamento, instalações, fábrica
+ferramentas.
+<09>677.052.6 Dobradoras e torcedoras
+
+<01>679.7.052	
+<02>Equipamento, máquinas para fabricação
+separada de arames, cordas, fios, fitas (como
+de empacotamento).
+
+<01>679. 
+<02>7.052 dividido como 679.7.022
+
+<01>679.7.053	
+<02>Equipamento, máquinas para fios, de fazer fios. Inclusive Quadders.
+
+<01>679.7.054	
+<02>Equipamento, máquinas para cobrir os fios.
+
+<01>679.7.054 
+<02>dividido como 679.7.024
+
+<01>679.7.055	
+<02>Equipamento, máquinas para condicionamento.
+
+<01>679.7.055 
+<02>dividido como 679.7.025
+
+<01>679.7.057	
+<02>Equipamento, máquinas para junção de fios e
+invólucros/coberturas.
+
+<01>679.7.058	
+<02>Máquinas e instalações especiais.
+
+<01>6 
+<02>79.7.058 dividido como 679.7.028
+
+<01>679.7.059	
+<02>Outros equipamentos e máquinas.
+<09>Divisões principais
+
+<01>679.72	
+<02>Fabricação de filamento de fibra, fios
+soltos, corda de fibra e produtos semelhantes.
+<09>Indicar os materiais por meio de -03... (Tabela 1k)
+
+<01>679.722	
+<02>Fabricação de filamento de fibra e fios
+soltos.
+
+<01>679.724	
+<02>Fabricação de almas de cabos.
+
+<01>679.725	
+<02>Fabricação de filamento de fibra, fios de
+fibra, corda de fibra e de produtos
+semelhantes segundo a construção. Inclusive Prega. Dobra.
+
+<01>679.726	
+<02>Fabricação de filamento de fibra, fios de
+fibra, corda de fibra e produtos semelhantes
+segundo o campo de aplicação.
+<06>679.726:621.798 Para a indústria de embalagem
+
+<01>679.727	
+<02>Projeto, fabricação e montagem de
+terminais, acabamentos e conexões de fios,
+cabos e cordas.
+
+<01>679.728	
+<02>Teste de matérias-primas, produtos
+semimanufaturados e produtos finais.
+<09>Especificar por meio de :620.1...
+
+<01>679.73	
+<02>Fabricação de arames, fios e cordas de
+arame (especialmente de arames de aço,
+fios e cordas de arame de aço).
+<09>Indicar os materiais por meio de -03.. (Tabela Ik)
+
+<01>679.732	
+<02>Fabricação de arames e fios d e arame,
+segundo a função.
+
+<01>679.733	
+<02>Coberturas de arame, fios e cordas de
+arame (principalmente os feitos de aço)
+segundo a função. Inclusive Blindagem.
+
+<01>679.734	
+<02>Fabricação de almas de cabos nos fios de
+arame e cordas de arame (especialmente as
+feitas de aço).
+
+<01>679.735	
+<02>Fabricação de arame, fios de arame e
+cordas de arame (principalmente as feitas
+de aço) segundo a construção.
+
+<01>679.736	
+<02>Fabricação de arame, fios de arame e
+cordas de arame (principalmente as feitas
+de aço) segundo o campo de aplicação.
+
+<01>679.737	
+<02>Projeto, fabricação e montagem de
+terminais, acabamento, conexões de fios e
+cordas.
+
+<01>679.738	
+<02>Teste das matérias-primas, produtos
+semimanufaturados e produtos finais.
+<09>Especificar por meio de :620. l...
+
+<01>679.74	
+<02>Fãbricação de fio e cabo para condução de
+eletricidade (condutores para energia e
+sinais).
+<09>621.315 Transmissão de energia elétrica. Linhas de distribuição de força e de telecomunicação. Condutores. Materiais isolantes. Acessórios. Projeto, construção das linhas
+<09>Indicar os materiais por meio de -03... (Tabela 1k)
+
+<01>679.742	
+<02>Fabricação de condutores, segundo a função. Inclusive Como condutor principal, neutro, fio de terra, auxiliar.
+
+<01>679.743	
+<02>Revestimento (inclusive camadas líquida e
+gasosa) de condutores, almas de cabos e fios
+condutores, segundo a função.
+
+<01>679.743.1	
+<02>Isolamento elétrico.
+
+<01>679.743.2	
+<02>Isolamento térmico.
+
+<01>679.743.3	
+<02>Proteção contra o ingresso de umidade
+(revestimento de chumbo/alumínio).
+
+<01>679.743.4	
+<02>Proteção mecânica.
+
+<01>679.743.5	
+<02>Proteção química.
+
+<01>679.743.6	
+<02>Filtração elétrica.
+
+<01>679.743.8	
+<02>Enchimento.
+
+<01>679.744	
+<02>Fabricação de almas de cabos (exceto condutores). Inclusive Enchimentos.
+
+<01>679.745	
+<02>Fabricação de fios e cabos elétricos segundo
+a construção.
+
+<01>679.746	
+<02>Fabricação dos fios e cabos elétricos
+segundo o campo de aplicação.
+
+<01>679.746.2	
+<02>Cabos de transmissão e distribuição de energia elétrica.
+
+<01>679.746.3	
+<02>Fios e cabos de instalação.
+
+<01>679.746.4	
+<02>Fiação elétrica. Sistemas de fiação elétrica.
+
+<01>679.746.5	
+<02>Cabos para transmissão de informação.
+
+<01>679.746.52	
+<02>Cabos para telecomunicação.
+
+<01>679.746.522	
+<02>Cabos para telefonia.
+
+<01>679.746.523	
+<02>Cabos para modulação de código de pulso.
+
+<01>679.746.524	
+<02>Cabos para televisão de antena central,
+televisão a cabo.
+
+<01>679.746.528	
+<02>Cabos para finalidades especiais de
+telecomunicação. Inclusive Cabos de microfone. Cabos aéreos.
+
+<01>679.746.55	
+<02>Cabos submarinos. Cabos fluviais.
+
+<01>679.747	
+<02>Projeto, fabricação e montagem de peças
+necessárias à aplicação de fios e cabos
+elétricos.
+
+<01>679.748	
+<02>Teste de matérias-primas e produtos finais.
+<09>Especificar por meio de :620.1...
+
+<01>679.76	
+<02>Fabricação de cabos de fibras ópticas.
+
+<01>679.8	
+<02>Tecnologia da pedra. Indústria da pedra.
+<09>622 Mineração
+<09>Subdivisões auxiliares especiais
+
+<01>679.8.02	
+<02>Processos e operações do trabalho com pedras.
+<09>671.15 Trabalho com pedras preciosas, gemas, pérolas
+
+<01>679.8.021/.027 
+<02>dividido como 679.8.051/.057
+
+<01>679.8.022	
+<02>Fragmentação e polimento de pedras.
+
+<01>6 
+<02>79.8.02
+
+<01>679.8.028	
+<02>Tratamento da superfície de pedras.
+
+<01>679.8.028.2	
+<02>Limpeza.
+
+<01>679.8.028.3	
+<02>Impregnação.
+
+<01>679.8.05	
+<02>Ferramentas e máquinas para trabalho com
+pedras.
+
+<01>679.8.051	
+<02>Equipamento para aplainamento. Equipamento
+<04>para laminação.
+
+<01>679.8.052	
+<02>Equipamento para esmerilhamento.
+<04>Equipamento para polimento.
+
+<01>679.8.053	
+<02>Equipamento para corte.
+
+<01>679.8.054	
+<02>Equipamento para tornear. Tornos.
+
+<01>679.8.055	
+<02>Equipamento para perfuração.
+
+<01>679.8.056	
+<02>Equipamento para limpeza. Equipamento para
+dividir, separar.
+
+<01>679.8.057	
+<02>Equipamento para acabamento, martelagem.
+
+<01>679.8.06	
+<02>Produtos de pedra.
+<09>Divisões principais
+
+<01>679.82	
+<02>Pedras artificiais feitas por síntese
+química. Pedras preciosas sintéticas. Pedras fabricadas em laboratórios ou fábricas, cuja composição química corresponde à composição das pedras naturais.
+<06>679.82.02:66.046.5 Processos de fusão. P. ex., processo de Verneuil (fusão à chama). Fusão por fluxo
+<09>549.091 Pedras preciosas. Gemologia
+<09>666.23 Strass. Pedras preciosas artificiais. Pedras de massa vítrea. Gemas de imitação feitas de vidro
+<09>671 Artigos feitos de metais preciosos, emas e pedras preciosas
+<09>681.11.035.2 Rolamentos, coxinetes, mancais
+<06>679.82:66.046.5 Processos de fusão. P. ex.: processo de Vermeuil (fusão à chama). Fusão por fluxo
+
+<01>679.822	
+<02>Coríndons sintéticos.
+
+<01>679.823	
+<02>Outros óxidos sintéticos,  exceto coríndons. Inclusive Quartzo sintético.
+
+<01>679.824	
+<02>Espinélios sintéticos.
+
+<01>679.826	
+<02>Diamantes sintéticos.
+
+<01>679.827	
+<02>Berilos sintéticos. Inclusive Esmeraldas sintéticas.
+
+<01>679.829	
+<02>Outras pedras artificiais. Inclusive Pedras artificiais à base de magnésio. à base de terrazzo. Arenito artificial.
+
+<01>679.85	
+<02>Pedra natural. Pedra de construção.
+<09>Pedras para monumentos. Cantaria.
+<09>622.35 Pedras naturais. Pedras para construção. Pedras para monumentos. Pedras comuns
+
+<01>679.854.8	
+<02>Produtos de mármore.
+
+<01>679.86	
+<02>Terras e minerais não-preciosos diversos.
+
+<01>679.86 
+<02>dividido como533.6
+
+<01>679.861	
+<02>Argila. Caulim. Feldspato. Outros.
+
+<01>679.867	
+<02>Amianto. Mica. Vermiculita. Outros.
+
+<01>679.87	
+<02>Pedras preciosas e sem i preciosa s.
+<09>549.091 Pedras preciosas. Gemolologia
+<09>622.37 Pedras preciosas e semipreciosas. Gemas
+<09>671 Artigos feitos de metais preciosos, gemas e pedras preciosas
+
+<01>679.89	
+<02>Outras pedras. Inclusive Pedras muito duras
+
+<01>679.9	
+<02>Tecnologia de outros materiais
+naturais processáveis.
+
+<01>679.91	
+<02>Âmbar. Meerschaum (sepiolita).
+<09>553.673 Depósitos do grupo do talco
+<09>679.86 Terras e minerais não-preciosos diversos
+
+<01>679.92	
+<02>Conchas (de animais). Inclusive Casco de tartaruga. Madrepérola.
+<09>637.61 Peles. Couros. Conchas
+<09>639.41 Cultura de ostras (e outras fontes de pérolas)
+<09>675.86 Indústrias baseadas no processamento dos refugos de tecidos duros (refugos esqueléticos)
+
+<01>679.93	
+<02>Corais.
+<09>639.62 Coral
+
+<01>679.931	
+<02>Corais genuínos.
+
+<01>679.932	
+<02>Corais negros. Inclusive Gorgônia, Antipatária. Gerárdia.
+
+<01>679.933	
+<02>Corais de origem vegetal.
+
+<01>679.937	
+<02>Opala vegetal. Tabashir.
+
+<01>679.94	
+<02>Corozo. Marfim-vegetal.
+
+
+<01>68 
+<02>Indústria, artes e ofícios de artigos acabados ou montados
+<04>Os auxiliares -1/-9 de 62-1/-8 e 66-9 são  aplicáveis em 68,  com exceção de -l em 687, -3- e -6 em 681.6
+
+
+<01>681 
+<02>Mecanismos e instrumentos de precisão
+
+<01>681.1	
+<02>Aparelhos com mecanismos de roda ou motor.
+
+<01>681.11	
+<02>Horologia. Fabricação de relógios.
+<04>Indicar os mecanismos de relógios por meio de -1/-9 (de 62-17-8 e 66-9) 
+<06>681.11-187.4 Relógios de alta precisão. Relógios de precisão 
+<06>681.11-218 Montagens. Suspensão. Dispositivos de fixação de relógios 
+<06>681.11-752 Dispositivos para amortecer vibrações, choques
+<09>006.924 Hora oficiala. Fusos horários. Sinais da hora
+<09>531.761 Medição de intervalos de tempo. Padrões de tempo
+<09>671.1 Artigos de ouro e prata. Artigos de outros metais preciosos. Joalheria. Ourivesaria
+<09>623.542 Medição e aparelhos relativos ao tempo. Cronógrafos balísticos
+<09>739.3 Horologia artística
+<09>Subdivisões auxiliares especiais
+
+<01>681.11.03	
+<02>Componentes. Inclusive Movimentos do relógio. Mecanismo de relógio.
+
+<01>681.11.031	
+<02>Dispositivos de fornecimento de energia, de
+força motriz. Mecanismos de corda.
+
+<01>681.11.031.1 
+<02>Fontes e armazenamento de energia.
+
+<01>681.11.031.11	
+<02>Armazenamento de energia mecânica. Inclusive Sistemas de gravidade, pesos. Sistemas elásticos, molas.
+
+<01>681.11.031.12	
+<02>Fontes e armazenamento de energia química. Inclusive Pilhas. Baterias.
+
+<01>681.11.031.13	
+<02>Fontes de energia nuclear.
+
+<01>681.11.031.2 
+<02>Dispositivos para conversão de energia. Mecanismos de corda, etc.
+
+<01>681.11.031.21	
+<02>Dispositivos mecânicos. Inclusive Cordas, chaves manuais. Cordas automáticas (dispositivos automáticos de corda). Pesos 
+<04>oscilantes.
+
+<01>681.11.031.22	
+<02>Dispositivos elétricos. Inclusive Eletroímã. Motor elétrico.
+
+<01>681.11.031.23	
+<02>Dispositivos termodinâmicos. Inclusive Dispositivos bimetálicos.
+
+<01>681.11.031.24	
+<02>Dispositivos ópticos. Inclusive Células fotoelétricas. Retificadores.
+
+<01>681.11.032	
+<02>Reguladores, comandos (principalmente osciladores e escapos).
+
+<01>681.11.032.1 
+<02>Reguladores periódicos.
+
+<01>681.11.032.11	
+<02>Osciladores harmônicos. Inclusive Pêndulos. Osciladores elásticos (balancim e cabelo, etc.). Osciladores eletromagnéticos. 
+<04>Masers.
+
+<01>681.11.032.12	
+<02>Osciladores de afrouxamento. Osciladores de base de tempo.
+
+<01>681.11.032.13	
+<02>Reguladores rotativos. Inclusive Pêndulos cônicos. Comandos centrífugos. Rolantes.
+
+<01>681.11.032.2	
+<02>Reguladores não-periódicos. Inclusive Relógios de água (clepsidras). Ampulhetas.
+
+<01>681.11.032.3	
+<02>Distribuidores de energia. Inclusive Escapos.
+
+<01>681.11.032.4 
+<02>Dispositivos de cronometragem. Reguladores de índice. Condensadores de ajuste, etc.
+
+<01>681.11.033	
+<02>Dispositivos de indicação.
+
+<01>681.11.033.1	
+<02>Dispositivos de indicação ópticos, visuais. Inclusive Mostradores. Mostradores visuais. Lâminas. Tabletes. Ponteiros
+<04>Ponteiros do relógio.
+
+<01>681.11.033.2	
+<02>Dispositivos de indicação acústicos. Inclusive Campainhas. Carrilhões. Relógio falante.
+<09>654.925 Dispositivos para despertar. Alarmes ajustados para tempo predeterminado
+
+<01>681.11.033.3	
+<02>Dispositivos de indicação tátil. Inclusive Relógios para cegos.
+
+<01>681.11.034	
+<02>Dispositivos de transmissão.
+
+<01>681.11.034.1 
+<02>Trens de engrenagem de relógios.
+
+<01>681.11.034.2	
+<02>Mecanismos de roda. Rodas, eixos, pinhões, etc. Inclusive Movimentos. Mecanismos de sonoridade.
+
+<01>681.11.034.3	
+<02>Mecanismos de movimento. Inclusive Cilindros de pinhão. Rodas de minuto. Raquetes e travas.
+
+<01>681.11.034.4	
+<02>Mecanismos de ajuste manual.
+
+<01>681.11.034.5	
+<02>Dispositivos de transmissão para finalidades especiais.Inclusive Para ligar e travar o alarme. Para mostradores com calendário, data.
+
+<01>681.11.034.6	
+<02>Dispositivos para transmitir, ampliar,
+converter os impulsos nos cronógrafos.
+
+<01>681.11.034.7	
+<02>Dispositivos para transmissão de sinais
+cronométricos a longa distância.
+
+<01>681.11.035	
+<02>Corpos. Estruturas. Armações.
+
+<01>681.11.035.1	
+<02>Chapas. Fiel do regulador e de ponte.
+
+<01>681.11.035.2	
+<02>Rolamentos, coxinetes, mancais.
+<09>Coxinete de mola. Coxinetes magnéticos. Bouchons. Rubis. Coxinetes de esferas. 
+<06>681.11.035.2-752 Absorventes de choques
+
+<01>681.11.035.3	
+<02>Dispositivos de montagem. Inclusive Cravos. Parafusos. Pinos. Espirais.
+
+<01>681.11.036	
+<02>Caixas e acessórios.
+<09>671.121 Broches. Braceletes. Anéis, etc.
+
+<01>681.11.036.1	
+<02>Caixas de relógios (de parede, grandes). 
+
+<01>681.11.036.2	
+<02>Caixas de relógios (portáteis).
+
+<01>681.11.036.3	
+<02>Vidros de relógios em geral.
+
+<01>681.11.036.4	
+<02>Dispositivos externos de comando. Botões,
+<04>peças de empurrar, etc.
+
+<01>681.11.05	
+<02>Ferramentas de relojoeiro. Equipamento e
+máquinas horológicas.
+
+<01>681.11.054	
+<02>Máquinas, ferramentas mecânicas. Inclusive Tornos. Ferramentas de Jacot. Ferramentas para colocação de rubis.
+
+<01>681.11.057	
+<02>Dispositivos de medição, aferição, regulagem, cronometragem. Inclusive  Cronometradores de relógios. Simuladores de movimentos.
+
+<01>681.11.058	
+<02>Ferramentas manuais. Inclusive Limas de escapo. Polidores. Alicates. Pinças. Tornos. Perfuradores da mola principal.
+<09>Divisões principais
+
+<01>681.111/.118	
+<02>Tipos de relógio. Relógios de parede, de
+mesa, cronômetros, etc.
+
+<01>681.111	
+<02>Relógios sem impulso mecânico. Tipos
+antigos de relógio.
+
+<01>681.111.1	
+<02>Relógios de sol.
+<09>712.7 Ornamentos de jardim
+
+<01>681.111.3	
+<02>Clepsidras. Relógios de água,.Relógios de areia. Ampulhetas.
+
+<01>681.111.6	
+<02>Relógios de vela. Relógios de lâmpada.
+
+<01>681.111.8	
+<02>Relógios com escapo de vara (roda de coroa).
+<09>Relógios com escapo em foliot.
+
+<01>681.113	
+<02>Cronômetros não-portáteis.
+
+<01>681.113.1 
+<02>Relógios domésticos. Inclusive Relógios de parede, de mesa. Relógios de pêndulo. Relógios de caixa
+<04>grande (relógios de pé, relógios de parede).
+
+<01>681.113.17	
+<02>Relógios despertadores, de alarme.
+<09>681.11.033.2 Dispositivos de indicação acústicos
+
+<01>681.113.3	
+<02>Relógios externos. Inclusive Relógios de torres. Relógios de campanários.
+
+<01>681.113.9	
+<02>Cronômetros não-portáteis para fins especiais
+
+<01>681.113.91	
+<02>Relógios astronômicos.
+
+<01>681.113.92	
+<02>Cronômetros para navegação (p. ex., cronômetros de navios).
+
+<01>681.113.93	
+<02>Relógios de cristal de quartzo.
+
+<01>681.113.94	
+<02>Relógios moleculares, atômicos.
+
+<01>681.114	
+<02>Cronômetros portáteis (usados pela
+pessoa).
+
+<01>681.114.1	
+<02>Relógios de bolso. Relógios de algibeira.
+
+<01>681.114.8	
+<02>Relógios de pulso.
+
+<01>681.114.9	
+<02>Outros tipos de relógio. Inclusive Relógios de anel. Relógios de broche. Relógios de medalhão.
+
+<01>681.116	
+<02>Sistemas de relógios.
+
+<01>681.116.1	
+<02>Relógios-mestre.
+
+<01>681.116.2	
+<02>Relógios subordinados, escravos.
+
+<01>681.116.3	
+<02>Relógios sincrônícos.
+
+<01>681.118	
+<02>Cronógrafos. Dispositivos de controle e transmissão de hora.
+<09>681.174/.175
+
+<01>681.118.1	
+<02>Dispositivos para marcar tempo.
+<09>621.395.663 Contadores de chamadas (medidores de chamadas)
+<04>Cronoscópios (cronômetros, etc.). Contadores de tempo para telefones. Parquímetros.
+
+<01>681.118.5	
+<02>Mecanismos de controle de tempo.Inclusive Relógios de controle programado. Dispositivos de retardamento em 
+<04>câmaras fotográficas (disparadores automáticos).
+
+<01>681.118.7	
+<02>Dispositivos de registro de tempo. Relógios do registro. Inclusive Carimbos com a hora marcada. Relógio de vigia. Outros cronômetros com registro visual.
+
+<01>681.118.8	
+<02>Mecanismos de impulso do tipo relógio. Inclusive Mecanismos em instrumentos da registro. Mecanismos em barógrafos
+<04>(barômetros com registro).
+
+<01>681.12	
+<02>Medidores de consumo. Medidores industriais. Medidores de fluxo. Contadores, etc.
+<09>621.138.8 Medidores automáticos (de inserção de moeda ou ficha) para gás, água, eletricidade (medidores de pagamento antecipado)
+<09>Subdivisões auxiliares especiais
+
+<01>681.12.08	
+<02>Métodos de medição.
+
+<01>681.12.08 
+<02>dividido como 53.08 
+<09>Divisões principais
+
+<01>681.121	
+<02>Medidores de fluidos. Dispositivos de
+medição para líquidos, gases, vapores.
+<09>532.5 7 Medição de fluxo. Velocidade, taxa de fluxo. Quantidade, fluxo total
+
+<01>681.121.1	
+<02>Recipientes, vasos para medição de fluidos.
+
+<01>681.121.2	
+<02>Medidores com pistões alternativos (medidores
+positivos).
+
+<01>681.121.3	
+<02>Medidores de pistões oscilantes. rotativos
+(medidores semipositivos).
+
+<01>681.121.4	
+<02>Medidores rotativos, de turbina (medidores
+inferenciais).
+
+<01>681.121.5	
+<02>Medidores basculantes de fluxos. Fluxômetros.
+
+<01>681.121.7	
+<02>Fluxômetros que operam com base em
+principies diversos.
+
+<01>681.121.72	
+<02>Medidores compostos, de combinação.
+
+<01>681.121.74	
+<02>Fluxômetros parciais (que indicam proporções
+relativas de fluidos diferentes). Medidores
+proporcionais.
+
+<01>681.121.8	
+<02>Medidores da velocidade de fluxo. Medidores
+de corrente.
+
+<01>681.121.83	
+<02>Medidores de velocidade de fluxo que
+trabalham com base em princípios térmicos. Inclusive Fluxômetros calorimétricos. Medidores de trocadores de calor.
+
+<01>681.121.84	
+<02>Medidores de pressão diferencial (medidores de
+diferença de pressão).
+
+<01>681.121.85	
+<02>Fluxômetros auxiliares e parciais.
+
+<01>681.121.87	
+<02>Medidores de velocidade de fluxo para canais
+abertos.
+
+<01>681.121.88	
+<02>Medidores de descarga.
+
+<01>681.121.89	
+<02>Outros tipos de medidores ou métodos de
+velocidade de fluxo.
+
+<01>681.122	
+<02>Medidores de gases e vapores.
+
+<01>681.122.2	
+<02>Medidores de gases úmidos.
+
+<01>681.122.3	
+<02>Medidores de gases secos.
+
+<01>681.123	
+<02>Medidores de substâncias em pó ou
+granulosas secas.
+
+<01>681.124	
+<02>Dispositivos de contagem, de totalização.
+<06>681.124:677.054 Dispositivos de contagem em máquinas de tecelagem
+<09>Subdivisões auxiliares especiais
+
+<01>681.124.07	
+<02>Características especiais nos dispositivos de contagem.
+
+<01>681.124.072	
+<02>Dispositivos para marcação de decimais, de múltiplos de dez.
+
+<01>681.124.076	
+<02>Dispositivos para zerar.
+
+<01>681.124.077	
+<02>Acionamento automático de uma operação. Inclusive Desligamento de máquinas. Desligamento após ter atingido um total
+<04>preestabelecido.
+<09>Divisões principais
+
+<01>681.124.1	
+<02>Dispositivos de contagem segundo o tipo de mecanismo de contagem. Inclusive Mecanismos de ponteiro. Mecanismos de tambor
+<04>. Mecanismos de disco.
+
+<01>681.124.2	
+<02>Dispositivos de contagem segundo o tipo de
+mecanismo de impulso (mecânico, elétrico).
+
+<01>681.124.5	
+<02>Contadores de distância. Odômetros.
+
+<01>681.124.6	
+<02>Taxímetros.
+
+<01>681.124.7	
+<02>Dispositivos de monitorização, de controle de veículos.
+<09>629.054 Instrumentos instalados no veículo
+
+<01>681.125	
+<02>Calorímetros.
+
+<01>681.128	
+<02>Indicadores de nível ou estágio para
+recipientes, vasilhames.
+
+<01>681.128.2	
+<02>Indicadores com bolha de nível.
+
+<01>681.128.3	
+<02>Indicadores com bóia.
+
+<01>681.128.4	
+<02>Indicadores que se baseiam em princípios
+hidrostáticos.
+
+<01>681.128.5	
+<02>Indicadores que se baseiam em princípios
+manométricos (com pressão ou sucção de ar).
+
+<01>681.128.6	
+<02>Indicadores que se baseiam em princípios elétricos. Inclusive Pela medição de variação de resistência, variação de capacitando, variação de indutância. Indicadores termoelétricos. Indicadores fotoelétricos.
+
+<01>681.128.7	
+<02>Indicadores com corpos imersos (estacionados ou moventes).Inclusive Hastes graduadas de nível. Rodas de palhetas.
+
+<01>681.128.8	
+<02>Indicadores que se baseiam em diversos
+métodos especializados.
+
+<01>681.128.82	
+<02>Indicadores que se baseiam em vibração.
+
+<01>681.128.83	
+<02>Indicadores que se baseiam em peso.
+<09>Dispositivos para pesar fluidos.
+
+<01>681.128.84	
+<02>Indicadores com dispositivo magnético de
+indicação.
+
+<01>681.128.9	
+<02>Indicadores de nível para substâncias em pó ou
+granulosas secas.
+
+<01>681.13	
+<02>Máquinas automáticas (de inserção de moedas ou fichas). Máquinas de vender automáticas.
+<06>681.13:625.748.54 Bombas de combustível acionadas por dinheiro
+<06>681.13:641.87 Máquinas fornecedoras de bebidas, acionadas por moedas/fichas
+<06>681.13:654.172 Máquinas automáticas, à base de moedas, para televisão, vídeo
+<06>681.13:654.195.6 Máquinas automáticas de rádio à base de moedas
+<06>681.13:658.713 Máquinas à base de  moedas para aluguel automático
+<06>681.13:658.713:681.752 Máquinas à base de moedas para instrumentos ópticos, binóculos de teatro, etc.
+<06>681.13:681.12 Medidores à base de moedas para gás, água, eletricidade  (medidores de pagamento antecipado)
+<06>681.13:681.2 Dispositivos de medição à base de  moedas com finalidades especiais
+<06>681.13:681.2:612.14 Máquinas à base de  moedas para medir a pressão sangüínea
+<06>681.13:681.26 Máquinas à base de moedas para pesar
+<06>681.13:681.6-6 Mecanismos à base de moedas para imprimir
+<06>681.13:681.845 Gramofone à base de moedas, fonógrafos à base de moedas. Jukeboxes (vitrolas automáticas), 
+<04>nickelodeons (pianolas automáticas)
+<06>681.13:685.82 Máquinas acionadas por moedas/fichas para jogos de azar. Inclusive caça-níqueis
+<06>681.13:681.13:77 Máquinas automáticas, à base de moedas, para tirar fotografias
+<06>681.13:778.5 Máquinas automáticas, à base de moedas, de exibição de imagens. Inclusive para fotos em movimento 
+<04>(cinescópio, mutoscópio, etc.)
+<06>681.13:794.85 Máquinas à base de  moedas para jogos de habilidade. Inclusive fliperama
+<09>621.395.663.6 Aparelhos para pagamento antecipado
+<09>681.172.2 Máquinas para emitir, distribuir, pagar dinheiro. Mecanismos para dar troco
+
+<01>681.17	
+<02>Dispositivos de registro, gravação e controle.
+<09>681.026 Dispositivos para carimbar, numerar, datar
+<09>Subdivisões auxiliares especiais
+
+<01>681.171	
+<02>Caixas registradoras com mecanismos de
+registro. Caixas registradoras.
+
+<01>681.171.07	
+<02>Caixas registradoras com mecanismos de
+cálculo.
+
+<01>681.171.072	
+<02>Dispositivos de cálculo de dezenas, de decimais.
+
+<01>681.171.073	
+<02>Equipamento para mecanismos de subtração.
+
+<01>681.171.074	
+<02>Equipamento para mecanismos de
+multiplicação e divisão.
+
+<01>681.171.08	
+<02>Outros componentes.
+
+<01>681.171.085	
+<02>Mecanismos de indicação, de sinalização.
+<09>Obturadores. Mostrador.
+
+<01>681.171.087	
+<02>Mecanismos de registro, gravação, impressão.
+<09>Mecanismos para emitir cupons, notas ou
+recibos.
+<09>Divisões principais
+
+<01>681.172	
+<02>Máquinas para trocar, separar, distribuir,
+contar dinheiro.
+
+<01>681.172.2	
+<02>Máquinas para emitir, distribuir, pagar dinheiro. Inclusive Mecanismos para dar troco. 
+<09>621.395.663.6 Aparelhos para pagamento antecipado
+<09>681.13 Máquinas automáticas (de inserção de moedas ou fichas). Máquinas de vender automáticas
+
+<01>681.172.3	
+<02>Máquinas de separação de dinheiro.
+
+<01>681.172.4	
+<02>Tubos, recipientes de moedas. Recipientes
+automáticos de dinheiro.
+
+<01>681.172.5	
+<02>Dispositivos para contar e embalar dinheiro.
+
+<01>681.172.6	
+<02>Máquinas para testar, verificar dinheiro.
+
+<01>681.173	
+<02>Máquinas de tíquetes, bilhetes. Máquinas para
+cancelar. Máquinas de franquia.
+<09>656.035.22 Máquinas automáticas de vender bilhetes
+
+<01>681.173.2	
+<02>Equipamento para impressão e emissão de
+tíquetes, bilhetes.
+<09>681.625.834 Impressões de bilhetes de viagem
+
+<01>681.173.4	
+<02>Dispositivos para cancelar tíquetes de viagem e
+outros. Perfuradores de bilhetes, dispositivos
+de perfuração, etc.
+
+<01>681.173.6	
+<02>Dispositivos para receber e controlar passagens
+(em transportes públicos, etc.).
+
+<01>681.173.7	
+<02>Máquinas de franquia postal.
+<09>656.835.33.Porte pago com o uso de máquinas de franquear
+<09>686.866 Equipamento para selar e marcar. Equipamento para umedecer, colar e afixar selos
+
+<01>681.173.9	
+<02>Outros tipos de máquinas de aferição e controle.
+
+<01>681.173.92	
+<02>Máquinas de estampilhas fiscais.
+
+<01>681.174	
+<02>Dispositivos de controle de pessoal.
+<09>Relógios de ponto. Dispositivos de controle
+de horário.
+
+<01>681.174.7	
+<02>Relógios de vigia. Inclusive 
+<09>Para os aspectos horológicos,  ver 681.118.7
+
+<01>681.175	
+<02>Mecanismos de controle de tempo.
+<09>Para os aspectos horológicos, ver 681.118.1/.7
+
+<01>681.175.2	
+<02>Dispositivos de cronometragem de corridas.
+<09>Cronoscópios. Relógios de parada, de
+intervalos.
+
+<01>681.175.3	
+<02>Dispositivos de partida automática: cancelas de
+partida (para corridas de cavalo, de cães).
+
+<01>681.175.5	
+<02>Carimbos marcadores de hora e data.
+
+<01>681.176	
+<02>Máquinas para loterias, jogos de azar, de apostas, etc. Dispositivos de contagem de
+<04>pontos, de apostas, de votos. Inclusive Máquinas de votar. Dispositivos para extração de loterias, sorteio de rifas, etc.
+<04>Totalizadores.
+
+<01>681.178	
+<02>Dispositivos de controle para ativar máquinas. Outros dispositivos de controle. Inclusive Dispositivos para conferir 
+<04>a identidade, cartões de crédito, tiquetes, etc.
+
+<01>681.18	
+<02>Máquinas de seleção. Máquinas de codificação e decodificação, máquinas de criptografia. 
+<09>681.325.67 Dispositivos de classificação e seleção. Dispositivos de fusão e intercalação (inclusive de unidade de 
+<04>recuperação)
+
+<01>681.182	
+<02>Dispositivos de seleção para classificação
+segundo o peso.
+
+<01>681.183	
+<02>Dispositivos de seleção para selecionar
+segundo diversas características físicas.
+
+<01>681.183 
+<02>dividido como 53
+
+<01>681.184	
+<02>Dispositivos de seleção para selecionar
+segundo a forma.
+
+<01>681.184 
+<02>dividido como 62-4
+
+<01>681.187	
+<02>Máquinas de seleção de correspondência.
+<09>656.851 Preparo da mala postal para expedição. Classificação e traçado da rota. Codificação do endereço, do destino (códigos postais)
+
+<01>681.188	
+<02>Dispositivos criptográficos. Máquinas de codificação. Máquinas de decodificação.
+<09>003.26 Sistemas de escrita secretos. Criptografias
+
+<01>681.2	
+<02>Fabricação de instrumentos em geral. Instrumentação. Instrumentos de medição e sua fabricação. Balanças. 
+<04>Mecanismos de pesagem.
+<04>Indicar a finalidade do instrumento por meio de :... 
+<04>Indicar os detalhes do instrumento por meio de -1/-9(de 62-1/-8 e 66-9) 
+<06>681.2:531.7 Fabricação de instrumentos de medição para quantidades geométricas e mecânicas 
+<06>681.2:621.317.7 Fabricação de instrumentos de medição para quantidades elétricas 
+<06>681.2-2 Partes fixas e móveis de instrumentos 
+<06>681.2-5 Operação, controle, regulagem de instrumentos 
+<06>681.2-7 Assistência, manutenção, montagem e proteção de instrumentos
+<09>Subdivisões auxiliares especiais
+
+<01>681.2.08	
+<02>Princípios gerais e teoria sobre medidas e
+projeto de instrumentos. Métodos de medição. 681.2.08=53.08
+
+<01>681.2.081	
+<02>Unidades. Constantes.
+
+<01>681.2.082	
+<02>Princípios de medição. Aplicação de fenômenos
+mecânicos, ópticos, elétricos, etc.
+
+<01>681.2.083	
+<02>Métodos de medição. Direto, por
+compensação, diferencial, etc.
+
+<01>681.2.084	
+<02>Componentes primários. Construção.
+
+<01>681.2.085	
+<02>Dispositivos de indicação. Escalas. Outros
+componentes.
+
+<01>681.2.087	
+<02>Observação. Registro.
+
+<01>681.2.088	
+<02>Correção de erros.
+
+<01>681.2.089	
+<02>Outras questões. Calibração. Teste.
+<09>Divisões principais
+
+<01>681.26	
+<02>Máquinas de pesagem. Balanças.
+
+<01>681.26.003.54 
+<02>Máquinas de pesagem públicas 
+<09>Subdivisões auxiliares especiais
+
+<01>681.26.06	
+<02>Cargas e dispositivos afins.
+
+<01>681.26.07	
+<02>Aparelhos de elevação, de suspensão. Pesos.
+
+<01>681.26.072	
+<02>Guias paralelas, projeto de escalas, etc.
+
+<01>681.26.074	
+<02>Pesos.
+
+<01>681.26.077	
+<02>Outros dispositivos diversos. Inclusive Dispositivos de teste, ajuste, aferição. Dispositivos de segurança. Dispositivos de 
+<04>nivelamento.
+<09>Divisões principais
+
+<01>681.261	
+<02>Balanças de travessão.
+
+<01>681.261.1	
+<02>Balanças de travessão simples.
+
+<01>681.261.2	
+<02>Balanças de precisão. Balanças de laboratório.
+<09>Balanças para atividades químicas, físicas.
+
+<01>681.262	
+<02>Alavancas de pesagem com fiel deslizante
+ou tensor. Balanças romanas.
+
+<01>681.263	
+<02>Balanças de plataforma com elo de
+<09>Roberval (ou dispositivos semelhantes de
+compensação).
+
+<01>681.264	
+<02>Balanças de plataforma com alavanca
+composta (para cargas comerciais pesadas).
+<09>Pontes de pesagem.
+
+<01>681.264.1	
+<02>Balanças decimais simples.
+
+<01>681.264.3	
+<02>Balanças de ferrovias. Pontes de pesagem de
+ferrovias.
+
+<01>681.264.4	
+<02>Balanças de roda única (para medir o peso
+sobre cada roda de um veículo).
+
+<01>681.266	
+<02>Balanças de mola.
+
+<01>681.267	
+<02>Outros tipos de mecanismos de pesagem
+não-automáticos.
+
+<01>681.267.1	
+<02>Balanças de inclinação.
+
+<01>681.267.2	
+<02>Balanças com dispositivos para alterar a
+capacidade de pesagem pelo acréscimo de
+pesos auxiliares.
+
+<01>681.267.3	
+<02>Balanças de plataforma.
+
+<01>681.267.4	
+<02>Balanças de torção.
+
+<01>681.267.5	
+<02>Balanças hidráulicas e pneumáticas.
+
+<01>681.268	
+<02>Mecanismos de pesagem automática.
+
+<01>681.268.2 
+<02>Máquinas de pesagem automática com
+alimentação contínua (para substâncias em movimento).
+
+<01>681.268.4	
+<02>Máquinas automáticas de pesagem para
+enchimento de recipientes.
+
+<01>681.269	
+<02>Outros tipos de mecanismos de pesagem, segundo a utilização ou finalidade.
+
+<01>681.269.1	
+<02>Balanças para correspondência.
+
+<01>681.269.2	
+<02>Máquinas de pesagem para malas ou sacolas.
+
+<01>681.269.4	
+<02>Máquinas de pesagem para artigos de
+determinado tipo (papel, lã, Fio, arame, etc.).
+
+<01>681.269.4 
+<02>dividido como 62-4
+
+<01>681.269.6	
+<02>Dispositivos de pesagem para manipulação mecânica e aparelhos de transporte. Inclusive Para correias transportadoras. Para 
+elevadores de noras. Para cabos aéreos.
+
+<01>681.269.7	
+<02>Dispositivos de pesagem para guindastes ou
+mecanismos de içamento.
+
+<01>681.269.8	
+<02>Máquinas de pesar e calcular o preço. Dispositivos que indicam o peso e o preço das mercadorias. Balanças comerciais de lojas
+varejistas, supermercados.
+
+<01>681.337	
+<02>Equipamento analógico auxiliar. . Seções de entrada e saída
+
+<01>681.5	
+<02>Engenharia de controle automático.
+<09>Sistemas, técnicas, equipamento de controle. Tecnológica da cibernética e da automação.
+<09>004 Ciência e tecnologia da computação. Computação. Processamento de dados
+<09>007 Atividade e organização. Informação. Teoria da comunicação e do controle em geral (Cibernetica). 
+<04>“Engenharia humana”
+<09>331.103. 255 Trabalho automatizado
+<09>338.364 Produção automatizada
+<09>62-5 Operação e controle de máquinas e processos
+<09>621.3.078 Regulagem automática
+<09>Subdivisões auxiliares especiais
+
+<01>681.5.01	
+<02>Princípios e teoria da engenharia de controle.
+
+<01>681.5.011	
+<02>Teoria básica da engenharia de controle.
+
+<01>681.5.012	
+<02>Análise.
+
+<01>681.5.013	
+<02>Síntese.
+
+<01>681.5.015	
+<02>Identificação, modelagem, parâmetros, etc.
+
+<01>681.5.015.2	
+<02>Parâmetros em equações diferenciais ordinárias.
+
+<01>681.5.015.22	
+<02>Aproximação diferencial.
+
+<01>681.5.015.23	
+<02>Otimização de parâmetros.
+
+<01>681.5.015.24	
+<02>Métodos baseados em controle ótimo.
+
+<01>681.5.015.26	
+<02>Referência de modelo.
+
+<01>681.5.015.27	
+<02>Resposta por etapa.
+
+<01>681.5.015.28	
+<02>Integração repetida.
+
+<01>681.5.015.3	
+<02>Parâmetros em estado analítico.
+
+<01>681.5.015.32	
+<02>Técnica de pesquisa.
+
+<01>681.5.015.33	
+<02>Método de Prony.
+
+<01>681.5.015.4	
+<02>Parâmetros em modo discreto.
+
+<01>681.5.015.42 
+<02>Estimativa estatística.
+
+<01>681.5.015.44 
+<02>Filtração de Kalman.
+
+<01>681.5.015.5	
+<02>Coeficientes numa expansão de série funcional.
+
+<01>681.5.015.52	
+<02>Expansão de Volterra.
+
+<01>681.5.015.54 
+<02>Teoria de Wiener.
+
+<01>681.5.015.7	
+<02>Resposta ao impulso.
+
+<01>681.5.015.72	
+<02>Teste do impulso direto.
+
+<01>681.5.015.73	
+<02>Desconvolução.
+
+<01>681.5.015.75 
+<02>Técnicas de correlação.
+
+<01>681.5.015.77 
+<02>Método de momentos.
+
+<01>681.5.015.8	
+<02>Resposta à freqüência.
+<04>Para resposta à freqüência no desempenho de sistemas,  ver 681.5.034
+
+<01>681.5.015.83	
+<02>Teste de pulso.
+
+<01>681.5.015.85 
+<02>Respostas à freqüência a partir de resposta transiente. 
+
+<01>681.5.015.87 
+<02>Resposta à freqüência a partir de análise espectral.
+
+<01>681.5.017	
+<02>Simulação (sistemas de controle).
+
+<01>681.5.03	
+<02>Desempenho de sistemas.
+
+<01>681.5.032	
+<02>Desempenho estático de sistemas de controle.
+
+<01>681.5.033	
+<02>Desempenho dinâmico de sistemas de controle.
+<09>Características de transferência de impulso.
+
+<01>681.5.033.2	
+<02>Transientes e suas qualidades.
+
+<01>681.5.033.22	
+<02>Medidas de freqüência de qualidade.
+
+<01>681.5.033.23	
+<02>Medidas integrais de qualidade.
+
+<01>681.5.033.25	
+<02>Medidas de qualidade de lugar da raiz.
+
+<01>681.5.033.26	
+<02>Lugares da raiz.
+
+<01>681.5.033.3	
+<02>Estado constante.
+
+<01>681.5.033.5	
+<02>Características de transferência.
+
+<01>681.5.034	
+<02>Resposta à freqüência.
+<09>Para os princípios e teoria da resposta à freqüência, ver 681.5.015.8
+
+<01>681.5.034.2	
+<02>Resposta à freqüência-ganho.
+
+<01>681.5.034.3	
+<02>Resposta à freqüência-fase.
+
+<01>681.5.034.4	
+<02>Resposta à fase-ganho.
+
+<01>681.5.034.7	
+<02>Resposta à freqüência logarítmica.
+
+<01>681.5.035	
+<02>Circuitos dinâmicos padrões.
+
+<01>681.5.037	
+<02>Estabilidade.
+
+<01>681.5.037.2	
+<02>Critérios de estabilidade.
+
+<01>681.5.037.22 
+<02>Critérios de freqüência. Inclusive Nvquist. Michailov. 
+
+<01>681.5.037.24 
+<02>Critérios algébricos. Inclusive Routh. Hurwitz.
+<06>681.5.037.26 Critério de Liapunov (método direto).
+
+<01>681.5.037.4	
+<02>Margem de estabilidade.
+
+<01>681.5.037.5	
+<02>Grau de estabilidade.
+
+<01>681.5.037.6	
+<02>Estabilidade absoluta.
+
+<01>681.5.037.7	
+<02>Estabilidade energética.
+
+<01>681.5.037.8	
+<02>Estabilidade de processos.
+
+<01>681.5.04	
+<02>Diagramas.
+
+<01>681.5.042	
+<02>Diagramas estruturais.
+
+<01>681.5.043	
+<02>Diagramas funcionais.
+
+<01>681.5.044	
+<02>Diagramas de bloco.
+
+<01>681.5.045	
+<02>Diagramas de circuito.
+
+<01>681.5.07	
+<02>Sensibilidade. Precisão. Controlabilidade.
+
+<01>681.5.072	
+<02>Sensibilidade.
+
+<01>681.5.073	
+<02>Precisão.
+
+<01>681.5.075	
+<02>Observabilidade. Controlabilidade.
+
+<01>681.5.08	
+<02>Medição: instrumentos, registro, etc.
+<06>681.5.08 dividido como 53.08
+<09>681.518 Sistemas de informação em controle automático
+
+<01>681.5.09	
+<02>Falhas e defeitos do sistema de controle.
+<09>Métodos de correção.
+<09>Divisões principais
+
+<01>681.51	
+<02>Sistemas de controle automático em geral.
+<09>Características cibernéticas técnicas.
+
+<01>681.511	
+<02>Sistemas descontrole automático segundo a
+<06>linearidade da descrição matemática.
+
+<01>681.511.2	
+<02>Sistemas de controle linear.
+
+<01>681.511.22	
+<02>Sistemas de controle de amostragem de dados.
+
+<01>681.511.26	
+<02>Sistemas de controle contínuo.
+
+<01>681.511.4	
+<02>Sistemas de controle não-linear.
+
+<01>681.511.42	
+<02>Sistemas de controle de amostragem de dados.
+
+<01>681.511.43	
+<02>Sistemas de controle de relé.
+
+<01>681.511.44	
+<02>Sistemas de controle de amostragem de dados
+com relé.
+
+<01>681.511.46	
+<02>Sistemas de controle continuo.
+
+<01>681.511.48	
+<02>Linearização.
+
+<01>681.513	
+<02>Sistemas de controle de entrada
+determinada.
+
+<01>681.513.1	
+<02>Sistemas estabilizantes de controle.
+
+<01>681.513.2	
+<02>Sistemas controlados de programa (seqüência).
+
+<01>681.513.3	
+<02>Sistemas de servocontrole. Servossistemas.
+
+<01>681.513.4	
+<02>Sistemas extremos de controle.
+
+<01>681.513.5	
+<02>Sistemas ótimos de controle.
+
+<01>681.513.52	
+<02>Sistemas ótimos de controle de tempo.
+
+<01>681.513.54	
+<02>Sistemas previsores (ótimos) de controle.
+
+<01>681.513.6	
+<02>Sistemas adaptativos determinados de controle
+(determinado).
+
+<01>681.513.62	
+<02>Sistemas de controle adaptativos com critério
+de qualidade de função-par.
+
+<01>681.513.63	
+<02>Sistemas de controle adaptativos
+unidimensionais e multidimensionais passo-a-
+passo.
+
+<01>681.513.64	
+<02>Sistemas de controle adaptativos baseados no
+método Gauss-Leides.
+
+<01>681.513.66	
+<02>Sistemas de controle adaptativos com
+referência a modelo.
+
+<01>681.513.67	
+<02>Sistemas de controle adaptativos segundo o tipo de fonte de informação.
+
+<01>681.513.672	
+<02>Sistemas de controle adaptativos ajustados
+segundo as características.
+
+<01>681.513.673	
+<02>Sistemas de controle adaptativos ajustados à entrada.
+
+<01>681.513.674	
+<02>Sistemas de controle adaptativos ajustados à saída.
+
+<01>681.513.675	
+<02>Sistemas de controle adaptativos com
+ajustamento de entrada ~e saída combinados.
+
+<01>681.513.68	
+<02>Sistemas de controle adaptativos segundo o
+método de renovação da informação.
+
+<01>681.513.682	
+<02>Sistemas de controle adaptativos do tipo não-
+pesquisa.
+
+<01>681.513.683	
+<02>Sistemas de controle adaptativos do tipo
+pesquisa.
+
+<01>681.513.685	
+<02>Sistemas de controle adaptativos do tipo
+pesquisa/não-pesquisa combinados.
+
+<01>681.513.7	
+<02>Sistemas de controle (determinado) de
+aprendizado.
+
+<01>681.513.8	
+<02>Sistemas de controle (determinado) auto-
+organizáveis.
+
+<01>681.514	
+<02>Sistemas de controle com entrada
+estocástica.
+<06>681.514 dividido como 681.513
+
+<01>681.515	
+<02>Sistemas de controle automático ou
+controladores, segundo a lei de controle.
+
+<01>681.515.2	
+<02>Controladores proporcionais ou estáticos
+(controladores P).
+
+<01>681.515.3	
+<02>Controladores integrais ou asiáticos
+(controladores I).
+
+<01>681.515.4	
+<02>Controladores proporcionais-integrais
+(controladores PI).
+
+<01>681.515.5	
+<02>Controladores derivados (controladores D).
+
+<01>681.515.6	
+<02>Controladores proporcionais-derivados
+(controladores PD).
+
+<01>681.515.7	
+<02>Controladores integrais-derivados
+(controladores ID).
+
+<01>681.515.8	
+<02>Controladores proporcionais-integrais-
+deri vados (controladores PID).
+
+<01>681.516	
+<02>Sistemas de controle automático segundo a
+configuração do circuito de controle.
+
+<01>681.516.2	
+<02>Sistemas de controle de ciclo aberto (Sistemas
+se controle de alimentação progressiva).
+
+<01>681.516.3	
+<02>Sistemas de controle de ciclo fechado (sistemas
+de controle de retroalimentação).
+
+<01>681.516.31	
+<02>Sistemas de controle de um ciclo. Inclusive Com retroalimentação negativa ou positiva.
+
+<01>681.516.32	
+<02>Sistemas de controle de multiciclos. Inclusive Com retroalimentação positiva ou negativa.
+
+<01>681.516.33	
+<02>Sistemas de controle combinados com
+características adicionais de entrada.
+
+<01>681.516.35	
+<02>Sistemas de controle de ciclo fechado
+invariante.
+
+<01>681.516.4	
+<02>Sistemas de controle segundo características
+dimensionais.
+
+<01>681.516.41	
+<02>Sistemas de controle unidimensionais.
+
+<01>681.516.42	
+<02>Sistemas de controle multidimensionais.
+
+<01>681.516.5	
+<02>Sistemas de controle segundo características de
+interação.
+
+<01>681.516.52	
+<02>Sistemas interatuantes de controle.
+
+<01>681.516.54	
+<02>Sistemas não-interatuantes de controle.
+
+<01>681.516.7	
+<02>Sistemas de controle segundo o parâmetro e a
+estrutura.
+
+<01>681.516.72	
+<02>Sistemas de controle de parâmetros
+amontoados.
+
+<01>681.516.73	
+<02>Sistemas de controle de parâmetros
+distribuídos.
+
+<01>681.516.74	
+<02>Sistemas de controle de parâmetros constantes.
+
+<01>681.516.75	
+<02>Sistemas de controle de parâmetros variáveis.
+
+<01>681.516.77	
+<02>Sistemas de controle de estruturas variáveis.
+
+<01>681.518	
+<02>Sistemas de informação em controle
+automático.
+
+<01>681.518.2	
+<02>Sistemas de estimativa de quantidade e
+processo.
+
+<01>681.518.22	
+<02>Sistemas para estimativa de valores atuais.
+
+<01>681.518.23	
+<02>Sistemas para estimativa de valores passados.
+
+<01>681.518.24	
+<02>Sistemas de interpolação.
+
+<01>681.518.25	
+<02>Sistemas para estimativa de valores futuros. Inclusive Extrapolações. Predição-
+
+<01>681.518.3	
+<02>Sistemas de medição de informação.
+
+<01>681.518.5	
+<02>Sistemas de supervisão automática. Sistemas de
+diagnóstico técnico.
+
+<01>681.518.52	
+<02>Sistemas de supervisão automática.
+
+<01>681.518.54	
+<02>Sistemas de diagnóstico técnico.
+
+<01>681.52	
+<02>Sistemas de controle automático e
+controladores segundo o princípio da ação.
+
+<01>681.521	
+<02>Sistemas de controle automático de ação
+direta (sistemas auto-atuados de controle),
+
+<01>681.521.2	
+<02>Sistemas de controle automático mecânicos.
+
+<01>681.521.3	
+<02>Sistemas de controle (diretos) por ação de fluidos.
+
+<01>681.521.34	
+<02>Sistemas hidráulicos de controle por ação direta.
+
+<01>681.521.35	
+<02>Sistemas pneumáticos de controle por ação direta.
+
+<01>681.521.4	
+<02>Sistemas acústicos de controle por ação direta.
+
+<01>681.521.5	
+<02>Sistemas ópticos de controle por ação direta.
+
+<01>681.521.6	
+<02>Sistemas térmicos de controle por ação direta.
+
+<01>681.521.7	
+<02>Sistemas elétricos e magnéticos de controle por ação d i reta.
+
+<01>681.522	
+<02>Sistemas de controle automático por ação
+indireta (sistemas de controle com energia
+auxiliar) em geral.
+
+<01>681.523	
+<02>Sistemas de controle automático por ação de fluidos.
+
+<01>681.523.1	
+<02>Sistemas de controle automático do tipo estrangulamento.
+
+<01>681.523.2	
+<02>Sistemas fluídicos de controle e engenharia.
+
+<01>681.523.21	
+<02>Moldadores fluídicos.
+
+<01>681.523.22	
+<02>Diodos fluídicos.
+
+<01>681.523.24	
+<02>Osciladores fluídicos.
+
+<01>681.523.25	
+<02>Detonadores fluídicos. Contadores fluídicos.
+
+<01>681.523.27	
+<02>Amplificadores fluídicos.
+<09>681.583.3 Amplificadores fluídicos, de ação fluida
+
+<01>681.523.4	
+<02>Sistemas hidráulicos de controle automático.
+
+<01>681.523.45	
+<02>Sistemas pneumáticos de controle automático.
+
+<01>681.524	
+<02>Sistemas acústicos de controle automático.
+
+<01>681.525	
+<02>Sistemas ópticos de controle automático.
+
+<01>681.526	
+<02>Sistemas de ação térmica de controle
+automático.
+<09>681.536.5 Sistemas de controle de temperatura. Termostatos
+
+<01>681.527	
+<02>Sistemas elétricos e magnéticos de controle automático.
+
+<01>681.527.2	
+<02>Sistemas eletromeâánicos de controle.
+
+<01>681.527.3	
+<02>Sistemas eletrofluídicos (eletro-hidráulico,
+eletropneumático) de controle.
+
+<01>681.527.34	
+<02>Sistemas eletro-hidráulicos de controle.
+
+<01>681.527.35	
+<02>Sistemas eletropneumáticos de controle.
+
+<01>681.527.4	
+<02>Sistemas eletroacústicos de controle.
+
+<01>681.527.5	
+<02>Sistemas eletroópticos de controle.
+
+<01>681.527.6	
+<02>Sistemas eletrotérmicos de controle.
+
+<01>681.527.7	
+<02>Sistemas eletrônicos de controle.
+
+<01>681.527.72	
+<02>Sistemas semicondutores de controle.
+
+<01>681.527.73	
+<02>Sistemas fotoeletrônicos de controle.
+
+<01>681.527.74	
+<02>Sistemas eletroquímicos de controle.
+
+<01>681.527.75	
+<02>Sistemas de válvula termiônica de controle.
+
+<01>681.527.76	
+<02>Sistemas de válvula termiônica/semicondutores
+de controle.
+
+<01>681.527.8	
+<02>Sistemas magnéticos e eletromagnéticos de
+controle.
+
+<01>681.527.83	
+<02>Sistemas magnéticos de controle.
+
+<01>681.527.87	
+<02>Sistemas eletromagnéticos de controle.
+
+<01>681.528	
+<02>Sistemas de controle automático que
+utilizam energia nuclear, química e outras
+formas.
+
+<01>681.528.2	
+<02>Sistemas de controle que utilizam energia
+nuclear, radioisótopos.
+
+<01>681.528.4	
+<02>Sistemas de controle que usam ação química.
+
+<01>681.53	
+<02>Sistemas de controle automático segundo
+a variável física controlada.
+
+<01>681.532	
+<02>Sistemas de controle de variáveis
+mecânicas.
+
+<01>681.532.1	
+<02>Sistemas de controle de comprimento, deslocamento, viagem.
+
+<01>681.532.2	
+<02>Sistemas de controle de áreas e seções de superfície.
+
+<01>681.532.3	
+<02>Sistemas de controle de volume e quantidade
+(de substâncias sólidas, secas).
+
+<01>681.532.32	
+<02>Sistemas de controle de volume (para sólidos secos).
+
+<01>681.532.33	
+<02>Sistemas de controle de quantidade (massa, peso).
+
+<01>681.532.5	
+<02>Sistemas de controle de velocidade e aceleração.
+
+<01>681.532.52	
+<02>Sistemas de controle de velocidade em geral.
+
+<01>681.532.53	
+<02>Sistemas de controle de velocidade relativa, de
+velocidade proporcional.
+
+<01>681.532.55	
+<02>Sistemas de controle de velocidade angular, de
+velocidade rotativa.
+
+<01>681.532.57	
+<02>Sistemas de controle de aceleração.
+
+<01>681.532.58	
+<02>Sistemas de controle de desaceleração, de frenagem.
+
+<01>681.532.6	
+<02>Sistemas de controle de força (esforço),
+pressão e momento.
+
+<01>681.532.62	
+<02>Sistemas de controle de força (esforço).
+
+<01>681.532.63	
+<02>Sistemas de controle de pressão.
+
+<01>681.532.65	
+<02>Sistemas de controle de momento.
+
+<01>681.532.7	
+<02>Sistemas de controle de energia e potência.
+
+<01>681.532.8	
+<02>Sistemas de controle de ângulo, posição e
+direção.
+
+<01>681.533	
+<02>Sistemas de controle de variáveis fluidas.
+
+<01>681.533.3	
+<02>Sistemas de controle de variáveis fluidas em geral.
+
+<01>681.533.33	
+<02>Sistemas de controle de volume de fluido.
+
+<01>681.533.34	
+<02>Sistemas de controle de quantidade de fluido.
+
+<01>681.533.36	
+<02>Sistemas de controle de pressão e momento do fluido.
+
+<01>681.533.38	
+<02>Sistemas de controle de fluxo de fluido.
+
+<01>681.533.4	
+<02>Sistemas de controle de variáveis líquidas.
+<06>681.533.4 dividido como 681.533.3
+
+<01>681.533.44	
+<02>Sistemas de controle de nível do líquido.
+
+<01>681.533.5	
+<02>Sistemas de controle de variáveis gasosas (inclusive ar).
+<06>681.533.5 dividido como 681.533.3
+
+<01>681.533.56	
+<02>Sistemas de controle de pressão de gás.
+
+<01>681.534	
+<02>Sistemas de controle de variáveis acústicas.
+
+<01>681.535	
+<02>Sistemas de controle de variáveis ópticas.
+
+<01>681.536	
+<02>Sistemas de controle de variáveis térmicas.
+
+<01>681.536.5	
+<02>Sistemas de controle de temperatura. Termostatos.
+
+<01>536.5 
+<02>dividido como 66-9?
+<09>536.58 Controle de temperatura
+<09>621.316.79 Regulagem elétrica de quantidades não-elétricas, exceto o movimento
+
+<01>681.536.53	
+<02>Sistemas de controle de temperaturas muito baixas. Criostatos.
+
+<01>681.536.54	
+<02>Sistemas de controle de temperaturas baixas. 681.536.5
+
+<01>681.536.55	
+<02>Sistemas de controle de temperaturas normais (temperatura ambiente).
+
+<01>681.536.57	
+<02>Sistemas de controle de temperaturas altas.
+
+<01>681.536.58	
+<02>Sistemas de controle de temperaturas muito altas.
+
+<01>681.536.6	
+<02>Sistemas de controle calórico, de quantidade de calor.
+
+<01>681.537	
+<02>Sistemas de controle de variáveis elétricas e magnéticas.
+
+<01>681.538	
+<02>Sistemas de controle de variáveis nucleares e radiativas.
+
+<01>681.54	
+<02>Sistemas de controle de constituição,
+estado e propriedades químicas.
+
+<01>681.542	
+<02>Sistemas de controle de composição
+química e propriedades químicas (ou físico-
+químicas).
+
+<01>681.542.2	
+<02>Sistemas de controle de composição química.
+
+<01>681.542.3	
+<02>Sistemas de controle de propriedades dos fluidos.
+
+<01>681.542.32	
+<02>Sistemas de controle de concentração.
+
+<01>681.542.35	
+<02>Sistemas de controle de densidade.
+
+<01>681.542.37	
+<02>Sistemas de controle de viscosidade.
+
+<01>681.542.4	
+<02>Sistemas de controle do teor de umidade, de água
+
+<01>681.542.6	
+<02>Sistemas de controle de propriedades térmicas.
+
+<01>681.542.7	
+<02>Sistemas de controle de propriedades elétricas. Inclusive Sistemas de controle de condutividade.
+
+<01>681.542.8	
+<02>Sistemas de controle de acidez ou alcalinidade (pH).
+
+<01>681.543	
+<02>Sistemas de controle de variáveis químicas do estado sólido.
+<06>681.543 dividido como 681.542
+
+<01>681.544	
+<02>Sistemas de controle de variáveis químicas do estado líquido.
+<06>681.544 dividido como 681.542
+
+<01>651.545	
+<02>Sistemas de controle de variáveis químicas do estado gasoso.
+
+<01>681.545 
+<02>dividido como 681.542
+
+<01>681.547	
+<02>Sistemas de controle de constituição de fase.
+
+<01>681.58	
+<02>Componentes de sistemas automáticos de
+controle. Servocomponentes.
+
+<01>681.583	
+<02>Amplificadores. Servoamplificadores.
+
+<01>681.583.2	
+<02>Amplificadores mecânicos.
+
+<01>681.583.3	
+<02>Amplificadores fluídicos, de ação fluida.
+<09>681.523.27 Amplificadores fluídicos
+
+<01>681.583.31	
+<02>Amplificadores de estrangulamento.
+
+<01>681.583.312	
+<02>Amplificadores de estrangulamento sem
+retroalimentação.
+
+<01>681.583.313	
+<02>Amplificadores de retroalimentaçao de
+estrangulamento.
+
+<01>681.583.315	
+<02>Amplificadores de retroalimentaçào de carga.
+
+<01>681.583.318	
+<02>Amplificadores de estrangulamento
+combinados ao sistema de controle.
+
+<01>681.583.32	
+<02>Dispositivos de amplificador fluídico.
+
+<01>681.583.322	
+<02>Amplificadores fluídicos sem retroalimentação.
+
+<01>681.583.323	
+<02>Amplificadores fluídicos com retroalimentação.
+
+<01>681.583.34	
+<02>Amplificadores hidráulicos.
+
+<01>681.583.35	
+<02>Amplificadores pneumáticos. Inclusive Amplificadores pneumáticos de membrana.
+
+<01>681.583.7	
+<02>Amplificadores elétricos e magnéticos.
+<09>621.375 Amplificadores
+
+<01>681.584	
+<02>Relés.
+
+<01>681.584.2	
+<02>Relés mecânicos.
+
+<01>681.584.3	
+<02>Relés de ação fluida.
+
+<01>681.584.31	
+<02>Relés de bocal.
+
+<01>681.584.32	
+<02>Dispositivos de relé fluídico.
+
+<01>681.584.34	
+<02>Relés hidráulicos.
+
+<01>681.584.35	
+<02>Relés pneumáticos em geral.
+
+<01>681.584.36	
+<02>Relés de membrana, de esfera, de válvula (pneumáticos).
+
+<01>681.584.37	
+<02>Relés fluido-elétricos. Relés pneumático- elétricos.
+
+<01>681.584.4	
+<02>Relês acústicos.
+
+<01>681.584.5	
+<02>Fotorrelés. Fotorrelés sem contato.
+
+<01>681.584.6	
+<02>Termorrelés. Relés bimetálicos e
+termoelétricos.
+
+<01>681.584.62	
+<02>Termorrelés.
+
+<01>681.584.63	
+<02>Relés de temperatura.
+
+<01>681.584.64	
+<02>Bimetais. Tiras bimetálicas.
+
+<01>681.584.67	
+<02>Relés termoelétricos.
+
+<01>681.584.7	
+<02>Relés elétricos e magnéticos.
+<09>621.318.5 Relés
+
+<01>681.584.71	
+<02>Relés elétricos (sem contato).
+
+<01>681.584.72	
+<02>Relés semicondutores.
+
+<01>681.584.73	
+<02>Relés fotoelétricos.
+
+<01>681.584.74	
+<02>Relés eletrolíticos, eletroquímicos.
+
+<01>681.584.75	
+<02>Relés de dispositivos de eletrovácuo.
+
+<01>681.584.76	
+<02>Relés baseados em dispositivos iônicos.
+
+<01>681.584.77	
+<02>Relés eletrostáticos.
+
+<01>681.584.78	
+<02>Relés magnéticos.
+
+<01>681.584.781	
+<02>Relés de contato em geral.
+
+<01>681.584.782	
+<02>Relés eletromagnéticos. Inclusive Relés de palheta.
+
+<01>681.584.783	
+<02>Relés magnetoelétricos.
+
+<01>681.584.784	
+<02>Relés eletrodinâmicos.
+
+<01>681.584.785	
+<02>Relés magnetoestritivos.
+
+<01>681.584.787	
+<02>Relés de amplificador magnético.
+
+<01>681.584.8	
+<02>Relés radiativos.
+
+<01>681.586	
+<02>Transdutores. Sensores.
+
+<01>681.586.2	
+<02>Transdutores e sensores mecânicos.
+<09>Dispositivos giroscópicos.
+
+<01>681.586.3	
+<02>Transdutores fluídicos. hidráulicos, pneumáticos.
+
+<01>681.586.34	
+<02>Transdutores e sensores hidráulicos.
+
+<01>681.586.35	
+<02>Transdutores e sensores pneumáticos.
+
+<01>681.586.37	
+<02>Transdutores elétricos para fluídicos.
+<09>Transdutores elétricos para pneumáticos.
+
+<01>681.586.4	
+<02>Transdutores e sensores acústicos.
+
+<01>681.586.48	
+<02>Transdutores ultra-sônicos.
+
+<01>681.586.5	
+<02>Transdutores e sensores ópticos.
+
+<01>681.586.54	
+<02>Transdutores acústico-ópticos.
+
+<01>681.586.57	
+<02>Transdutores eletroópticos.
+
+<01>681.586.59	
+<02>Transdutores magnetoópticos.
+
+<01>681.586.6	
+<02>Transdutores e sensores térmicos.
+
+<01>681.586.62	
+<02>Transdutores termomecânicos. Inclusive Transdutores bimetálicos.
+
+<01>681.586.67	
+<02>Transdutores termoelétricos. Inclusive Transdutores termoacoplados.
+
+<01>681.586.69	
+<02>Termistores.
+
+<01>681.586.7	
+<02>Transdutores elétricos e magnéticos.
+
+<01>681.586.71	
+<02>Transdutores potenciométricos. de resistência.
+
+<01>681.586.72	
+<02>Transdutores semicondutores. Inclusive Transdutores de efeito de Hall.
+
+<01>681.586.73	
+<02>Transdutores optoeletrônicos. Inclusive Transdutores fotoelétricos
+<04>.<09>681.586.74 Transdutores eletroquímicos e eletrolíticos
+
+<01>681.586.74	
+<02>Transdutores eletroquímicos e eletrolíticos.
+
+<01>681.586.76	
+<02>Transdutores de válvula termiônica.
+
+<01>681.586.77	
+<02>Transdutores eletrostáticos.
+
+<01>681.586.772	
+<02>Transdutores de capacitância.
+
+<01>681.586.773	
+<02>Transdutores piezoelétricos.
+
+<01>681.586.774	
+<02>Transdutores termelétricos. Inclusive Transdutores de sal de Rochelle.
+
+<01>681.586.776	
+<02>Transdutores de saída de freqüência.
+
+<01>681.586.78	
+<02>Transdutores de saída magnética (inclusive
+eletromagnética).
+
+<01>681.586.782	
+<02>Transdutores eletromagnéticos.
+
+<01>681.586.783	
+<02>Transdutores magnetoelétricos.
+
+<01>681.586.784	
+<02>Transdutores eletrodinâmicos.
+
+<01>681.586.785	
+<02>Transdutores magnetoestritivos.
+
+<01>681.586.787	
+<02>Transdutores de transformador rotativo (pelo
+método de troca mútua de indutância).
+
+<01>681.586.788	
+<02>Transdutores de transformador diferencial
+(bobina híbrida).
+
+<01>681.586.8	
+<02>Transdutores radiativos. Transdutores de
+ionização.
+
+<01>681.586.82	
+<02>Transdutores de ressonância nuclear.
+
+<01>681.586.84	
+<02>Transdutores de ionização. Sólions.
+
+<01>681.587	
+<02>Atuadores. Ativadores.
+
+<01>681.587.2	
+<02>Atuadores, ativadores mecânicos.
+
+<01>681.587.3	
+<02>Atuadores, ativadores de controle de fluido.
+
+<01>681.587.31	
+<02>Atuadores, ativadores de controle por
+estrangulamento.
+
+<01>681.587.32	
+<02>Atuadores, ativadores de controle fluídico.
+
+<01>681.587.33	
+<02>Atuadores, ativadores de controle de volume.
+
+<01>681.587.34	
+<02>Atuadores, ativadores hidráulicos.
+
+<01>681.587.344	
+<02>Amadores, ativadores de vibração hidráulica.
+
+<01>681.587.347	
+<02>Atuadores, ativadores eletro-hidráulicos.
+
+<01>681.587.35	
+<02>Atuadores, ativadores pneumáticos.
+
+<01>681.587.354	
+<02>Atuadores, ativadores de vibração pneumática.
+
+<01>681.5	
+<02>87.357	Atuadores, ativadores eletropneumáticos.
+
+<01>681.587.7 
+<02>Atuadores, atiradores elétricos e magnéticos.
+
+<01>681.587.72	
+<02>Atuadores, ativadores eletromecânicos,
+
+<01>681.587.73	
+<02>Atuadores, ativadores de eletromáquinas.
+
+<01>681.587.75	
+<02>Atuadores, ativadores elétricos com manivelas.
+
+<01>681.587.78	
+<02>Atuadores, ativadores eletromagnéticos.
+
+<01>681.6	
+<02>Máquinas e equipamento de reprodução gráfica.
+<04>Os auxiliares de 62-3... e 62-6... não são aplicáveis em 681.6 e suas subdivisões
+<09>76 Artes gráficas. Gravuras
+<09>778.1 Fotocópia. Reprodução e impressão fotográfica. Reprografia
+<09>Subdivisões auxiliares especiais
+<06>681.6-3	Processos de impressão.
+<06>681.6-32	Impressão tipográfica, em relevo.
+<06>681.6-33	Diagrafia. Impressão com estêncil e tela.
+<06>681.6-34	Impressão planográfica.
+<06>681.6-35	Impressão por entalhe.
+<06>681.6-6	Máquinas de reprodução gráfica segundo
+diversas características.
+<06>681.6-61	Equipamento segundo a cor da tinta.
+<06>681.6-612	As cores separadamente.
+<04>Indicar as cores por meio de –026.613... (Tabela Ik)
+<06>681.6-62	Equipamento segundo o número de cores.
+<06>681.6-62-623 Equipamento tricromático
+<06>681.6-63	Máquinas segundo o estado da tinta usada, etc.
+<06>681.6-631	Que usam tintas líquidas móveis.
+<06>681.6-632	Que usam tintas viscosas.
+<06>681.6-633	Que usam matérias sólidas. Inclusive  Que usam folha de metal, pó de metal.
+<06>681.6-64	Impressão sem tinta (em relevo, com efeito de
+relevo). Gravação em relevo.
+
+<01>681.6.09	
+<02>Máquinas combinadas (para mais de um
+processo de impressão).
+<09>Divisões principais
+
+<01>681.61	
+<02>Máquinas de escrever. Máquinas estenográficas. Máquinas de composição (de compor). Equipamento para 
+<04>produção de superfícies de impressão.
+<09>Subdivisões auxiliares especiais
+
+<01>681.61.06	
+<02>Detalhes de máquinas de escrever e de compor.
+
+<01>681.61.061	
+<02>Tipos e matrizes.
+
+<01>681.61.062	
+<02>Mecanismos internos. Dispositivos de
+<04>movimento e controle.
+
+<01>681.61.062.1	
+<02>Controle de barras de tipo.
+
+<01>681.61.062.2	
+<02>Mecanismos de mudança de caixa (alta e baixa).
+
+<01>681.61.062.3	
+<02>Mecanismos de operação do carro.
+
+<01>681.61.062.4	
+<02>Mecanismos de espaçamento de linhas.
+
+<01>681.61.062.5	
+<02>Mecanismos de retrocesso.
+
+<01>681.61.062.6	
+<02>Mecanismos de retomo do carro.
+
+<01>681.61.062.7	
+<02>Mecanismos de giro do rolo.
+
+<01>681.61.062.8	
+<02>Mecanismos para sustentar e dirigir o tipo. Inclusive Barras de tipo. Rodas de tipo.
+
+<01>681.61.063	
+<02>Detalhes do carro de máquinas de escrever.
+<09>Fitas de registro (dispositivos de controle) de
+máquinas de composição.
+
+<01>681.61.063.2	
+<02>Controles de margens.
+
+<01>681.61.063.3	
+<02>Dispositivos para indicar a posição do carro.
+
+<01>681.61.063.4	
+<02>Construção e guia do carro.
+
+<01>681.61.063.5	
+<02>Dispositivos de guia do papel. Inclusive Rolos de alimentação. Placas de guia.
+
+<01>681.61.063.6	
+<02>Rolos, cilindros. Suportes para os rolos.
+
+<01>681.61.064	
+<02>Mecanismos de entintamento.
+
+<01>681.61.064.3 
+<02>Segundo a forma do dispositivo de entintamento.
+
+<01>681.61.064.34	
+<02>Mecanismos com fita de entintamento. Fitas
+(de máquina de escrever).
+
+<01>681.61.064.35	
+<02>Mecanismos com almofadas de tinta.
+
+<01>681.61.064.37 
+<02>Mecanismos com rolos de tinta.
+
+<01>681.61.065	
+<02>Teclas. Teclados.
+
+<01>681.61.067	
+<02>Dispositivos relativos ao tipo e ao texto composto.
+
+<01>681.61.067.1	
+<02>Mecanismos para ajustar a visibilidade do tipo.
+<09>Densidade. Controle de impacto do tipo.
+
+<01>681.61.067.2	
+<02>Dispositivos de absorção de som.
+
+<01>681.61.067.3	
+<02>Mecanismos de sublinhamento ou traçado de linhas.
+
+<01>681.61.067.4	
+<02>Mecanismos para apagar e corrigir.
+
+<01>681.61.067.6	
+<02>Mecanismos para duplicação e cópias múltiplas.
+
+<01>681.61.067.7	
+<02>Contadores de caracteres, palavras, linhas e páginas.
+
+<01>681.61.067.9	
+<02>Outras peças. Inclusive Dispositivos para limpeza de tipos. Divisório, porta-originais.
+
+<01>681.61.068	
+<02>Dispositivos de alinhamento.
+<09>Divisões principais
+
+<01>681.612	
+<02>Máquinas de escrever em geral.
+
+<01>681.612.1	
+<02>Máquinas de barra de tipo com tipos cobertos.
+
+<01>681.612.2	
+<02>Máquinas de barra de tipo com leito de tipos a descoberto.
+
+<01>681.612.3	
+<02>Máquinas de escrever com roda, cilindro,
+tambor de tipos, etc., com teclas.
+
+<01>681.612.4	
+<02>Máquinas de escrever com roda, cilindro,
+tambor de tipos, etc., com dispositivo único de
+tipo (p. ex,. apontador, indicador).
+
+<01>681.612.5	
+<02>Outras máquinas de escrever com ação mecânica. Inclusive Com placas que contêm os tipos. Com os tipos em barras de percussão. Com tipos em correias ou fitas sem fim, ou em réguas. Com esferas de tipos.
+
+<01>681.612.7	
+<02>Máquinas de escrever elétricas.
+
+<01>681.612.8	
+<02>Acessórios. Tabuladores.
+
+<01>681.612.84	
+<02>Mecanismo de justificação. Máquinas de escrever com justifícação.
+<09>655.286 Composição datilográfica
+
+<01>681.612.9	
+<02>Outras máquinas de escrever. Inclusive Máquinas de escrever silenciosas. Máquinas de escrever automáticas para cópias,  etc..
+
+<01>681.613	
+<02>Máquinas de escrever especializadas, segundo a finalidade.
+<09>681.188 Dispositivos criptográficos. Máquinas de codificação. Máquinas de decodificação
+
+<01>681.613.1	
+<02>Máquinas de escrever em braile.
+
+<01>681.613.2	
+<02>Máquinas de escrever que produzem formas
+especiais de registro ou símbolos. Máquinas de
+escrever de perfuração (para produção de
+registro perfurado, p. ex., fita perfurada).
+
+<01>681.613.3	
+<02>Máquinas estenográfícas ou taquigráficas.
+<09>651.933 Máquinas estenográficas ou taquigráficas
+
+<01>681.613.4	
+<02>Máquinas de teletipo. Teleimpressoras.
+<09>621.394.625.3 Gravação por impressão direta. Teleimpressores como gravadores. Máquinas receptoras de fitas, etc.
+<09>654.145 Comunicação por teleimpressora. Serviço de telex
+
+<01>681.613.5	
+<02>Máquinas de escrever para notação musical.
+
+<01>681.613.7	
+<02>Máquinas de escrever para entradas em livros
+de contabilidade. Máquinas de escrever de
+cilindro plano.
+
+<01>681.613.8	
+<02>Máquinas de escrever de tubulação. Máquinas
+de escrever para tabelas, material tabular.
+
+<01>681.615	
+<02>Máquinas e equipamento para produção de
+tipos. Tipos de impressão.
+
+<01>681.615.2	
+<02>Espécies de tipos. Inclusive Letras. Símbolos. Material de justificação, material branco. Entrelinhas. Fios.
+
+<01>681.615.4	
+<02>Máquinas e equipamento para fundição de tipos. Equipamento de fundição de tipos.
+
+<01>681.616	
+<02>Máquinas e equipamento de composição tipográfica.
+<06>681.616.061 Matrizes 
+<06>681.616.063 Suporte para controle automático, p. ex., fita perfurada 
+<06>681.616.065 Teclados de máquinas de composição 
+<06>681.616.068 Dispositivos de justificação em máquinas de composição
+
+<01>681.616.1	
+<02>Ferramentas e equipamento de composição.Inclusive Ramas. Cunhos. Estantes, cavaletes de composição. Componedores. Galés.
+
+<01>681.616.2	
+<02>Equipamento tipográfico primitivo de composição manual.
+
+<01>681.616.3	
+<02>Mecanismos para compor e distribuir os tipos prontos.
+
+<01>681.616.4	
+<02>Máquinas para composição e fundição de tipo, por matriz.
+
+<01>681.616.42	
+<02>Máquinas de composição e fundição de linha
+(máquinas de fundição de linhas-bloco). Inclusive Linotipo. Intertipo.
+
+<01>681.616.422	
+<02>Magazines. Mecanismos de matriz de magazines.
+
+<01>681.616.423	
+<02>Mecanismos de composição.
+
+<01>681.616.424	
+<02>Mecanismos de alimentação.
+
+<01>681.616.425	
+<02>Mecanismos de fundição.
+
+<01>681.616.426	
+<02>Mecanismos para alinhamento e trava de matrizes.
+
+<01>681.616.427	
+<02>Mecanismos para acabamento de linhas-bloco
+fundidas (remoção de rebarbas, irregularidades).
+
+<01>681.616.429	
+<02>Matrizes e espaçadores para máquinas de fundição de linhas.
+
+<01>681.616.43	
+<02>Máquinas de composição e fundição de letras isoladas (máquinas de fundição de caracteres). Inclusive Monotipo.
+
+<01>681.616.432	
+<02>Caixas de matrizes.
+
+<01>681.616.435	
+<02>Mecanismos de fundição de tipos.
+
+<01>681.616.436	
+<02>Mecanismos de reunir linhas de tipos.
+
+<01>681.616.47	
+<02>Máquinas para montagem de tipos fundidos
+para pequenas máquinas de impressão em relevo. Inclusive Máquinas Multigraph.
+
+<01>681.616.48	
+<02>Máquinas para distribuição de tipos fundidos
+para pequenas máquinas de impressão em relevo.
+
+<01>681.616.5	
+<02>Máquinas para gofragern que usam matrizes
+móveis ou tintas. Máquinas de carimbagem por matriz.
+
+<01>681.616.6	
+<02>Máquinas de composição com teclado.
+
+<01>681.616.7	
+<02>Máquinas de composição fotográfica.
+<09>Máquinas e equipamento de fotocomposíção.
+<09>655.287 Fotocomposição (fototipografia, composição filmográfica)
+
+<01>681.616.8	
+<02>Dispositivos, especiais para composição.
+
+<01>681.616.82	
+<02>Máquinas e equipamento para produção do suporte de controle (p. ex., fita) para as máquinas de composição.
+<04>Inclusive Perfuradoras de fitas de papel.
+
+<01>681.616.86	
+<02>Equipamento para programação de máquinas de
+composição por meio de processamento de dados.
+
+<01>681.617	
+<02>Máquinas e equipamento para produção de superfícies de impressão em relevo.
+<09>655.222 Reprodução, duplicação de superfícies de impressão. Duplicação de chapas, clichês, tipos. Conversão
+<04>de superfícies de impressão, de matrizes, de um processo para outro
+<09>655.225 Produção de superfícies de impressão original em relevo. Gravação por processo fotomecâanico
+
+<01>681.617.2	
+<02>Máquinas e equipamento para produção de
+estereótipos. Clichês (inclusive de borracha e
+plástico).
+
+<01>681.617.21	
+<02>Flã (cartão de estereotipia) c outros materiais
+de moldagem.
+
+<01>681.617.22	
+<02>Máquinas e equipamento para produção de
+moldes de estereotipia.
+
+<01>681.617.23	
+<02>Máquinas e equipamento para fundição e
+processamento de estereótipos.
+
+<01>681.617.24	
+<02>Máquinas e equipamento para processamento
+de superfícies de impressão em relevo de todos
+os tipos.
+
+<01>681.617.26	
+<02>Equipamento para revestir ou recobrir
+estereótipos e outras superfícies de relevo. Inclusive Equipamento para cromagem.
+
+<01>681.617.3	
+<02>Máquinas e equipamento para duplicação
+galvanoplástica de clichês (eletrotipia).
+
+<01>681.617.4	
+<02>Máquinas e equipamento para produção de
+clichês originais de relevo (gravação a água-
+forte, gravação fotomecânica, gravação
+fotoelétrica).
+
+<01>681.617.6	
+<02>Máquinas e equipamento para produção de
+superfícies curvas de relevo.
+
+<01>681.617.8	
+<02>Equipamento para redução ou ampliação de imagens. Inclusive Pantógrafos.
+
+<01>681.618	
+<02>Máquinas e equipamento para produção de superfícies de impressão sem relevo.
+<09>655.224 Produção de superfícies de impressão por entalhe. Gravura
+<09>655.226/.227
+
+<01>681.618.3	
+<02>Máquinas e equipamento para produção de superfícies de impressão planográficas.
+
+<01>681.618.4	
+<02>Máquinas e equipamento para produção de
+superfícies de impressão de entalhe.
+
+<01>681.618.5	
+<02>Máquinas e equipamento para produção de
+superfícies de impressão diagráfica (estênceis e telas).
+
+<01>681.62	
+<02>Máquinas de reprodução gráfica.
+<09>Máquinas impressoras. Maquinaria
+auxiliar para impressão.
+<09>Subdivisões auxiliares especiais
+
+<01>681.62.06	
+<02>Detalhes. Componentes.
+
+<01>681.62.061	
+<02>Cilindros e suas peças.
+
+<01>681.62.063	
+<02>Mecanismos de impressão. Fixação de superfícies de impressão.
+
+<01>681.62.063.3	
+<02>Platinas.
+
+<01>681.62.063.4	
+<02>Mesas.
+
+<01>681.62.063.5	
+<02>Cilindros, rolos de impressão.
+
+<01>681.62.063.6	
+<02>Fixação de superfícies de impressão (à mesa ou
+ao cilindro).
+
+<01>681.62.064	
+<02>Mecanismos para entintamento e
+desentintamento da superfície de impressão.
+
+<01>681.62.064.1 
+<02>Mecanismos de entintamento em geral.
+
+<01>681.62.064.2	
+<02>Reservatórios de tinta.
+
+<01>681.62.064.3	
+<02>Dispositivos de entintamento. Inclusive Escovas. Dispositivos capilares. Almofadas. Rolos.
+
+<01>681.62.064.4	
+<02>Dispositivos para tintas pulverizadas e sólidas.
+
+<01>681.62.064.5	
+<02>Mecanismos de umedecimento.
+
+<01>681.62.064.6	
+<02>Dispositivos de sustentação do tinteiro.
+
+<01>681.62.064.7	
+<02>Substituição de tinteiros.
+
+<01>681.62.064.9	
+<02>Dispositivos desentintadores. Limpadores.
+
+<01>681.62.066	
+<02>Mecanismos para alimentação do material a ser
+impresso (alimentação do papel, etc.).
+
+<01>681.62.066.1	
+<02>Alimentação a partir da bobina de papel.
+
+<01>681.62.066.2	
+<02>Alimentação de folhas separadas.
+<09>Alimentadores de folhas em geral.
+
+<01>681.62.066.3	
+<02>Alimentadores de folhas com cilindros de
+atrito, fitas de atrito, etc.
+
+<01>681.62.066.5	
+<02>Alimentadores de folhas com agulhas, escovas
+de metal, etc.
+
+<01>681.62.066.6	
+<02>Dispositivos para levantaras folhas separadas
+por sucção.
+
+<01>681.62.066.7	
+<02>Dispositivos para elevar, para abaixar da pilha.
+
+<01>681.62.066.8	
+<02>Mecanismos de alimentação automática para cartões e envelopes.
+
+<01>681.62.066.9	
+<02>Outros detalhes. Inclusive Dispositivos de retardamento. Transportadores de folhas.
+
+<01>681.62.067	
+<02>Outros mecanismos para transporte e tratamento de material a ser impresso, dentro
+da impressora.
+
+<01>681.62.067.1	
+<02>Dispositivos para limpeza da superfície do material a ser impresso.
+
+<01>681.62.067.2	
+<02>Dispositivos para umedecer o papel.
+
+<01>681.62.067.3	
+<02>Mecanismos diversos. Pegadores de grampo.
+<09>Pegadores de sucção. Dispositivos de ponta.
+
+<01>681.62.067.4	
+<02>Dispositivos para evitar manchas, sujeira do papel.
+
+<01>681.62.067.5	
+<02>Mecanismos de recepção, empilhamento de folhas impressas.
+
+<01>681.62.067.6	
+<02>Mecanismos para conferência, seleção de folhas impressas. Inclusive Bandejas de recepção. Prateleiras de seleção.
+
+<01>681.62.067.7	
+<02>Mecanismos para dobra e corte de folhas impressas.
+<09>621.967.8 Tesouras combinadas com punção (tesouras de estamparia)
+
+<01>681.62.067.8	
+<02>Aquecedores. Secadores. Dispositivos antiestáticos.
+<09>Divisões principais
+
+<01>681.621	
+<02>Máquinas impressoras para uso
+administrativo, no escritório e no
+<06>laboratório. Duplicadores.
+
+<01>681.621.1	
+<02>Duplicadores. Inclusive Copiadoras. Copiadoras de documentos. Hectógrafos. Duplicadores a álcool.
+
+<01>681.621.3	
+<02>Máquinas duplicadoras por estêncil.
+
+<01>681.621.4	
+<02>Máquinas duplicadoras com tipos de impressão.
+
+<01>681.621.5	
+<02>Duplicadoras planográficas, diretas e offset. Impressoras litográficas rotativas diretas.
+<09>Duplicadoras offset.
+
+<01>681.621.6	
+<02>Máquinas de endereçamento.
+
+<01>681.621.62	
+<02>Máquinas de endereçamento que usam placas em relevo.
+
+<01>681.621.63	
+<02>Máquinas de endereçamento que usam estêncil.
+
+<01>681.621.64	
+<02>Máquinas de endereçamento que usam placas fundidas.
+
+<01>681.621.65	
+<02>Máquinas de endereçamento que usam processos a álcool.
+
+<01>681.621.7	
+<02>Impressoras de laboratório (para duplicação de
+relatórios de experiências).
+
+<01>681.621.8	
+<02>Máquinas para processos especiais (elétricos,
+químicos) de duplicação.
+
+<01>681.621.83	
+<02>Para processos elétricos de duplicação.
+
+<01>681.621.84	
+<02>Para processos químicos de duplicação.
+
+<01>681.622	
+<02>Impressoras, prelos manuais. Prensas de platina.
+
+<01>681.622.1	
+<02>Prensas primitivas, de madeira.
+
+<01>681.622.2	
+<02>Prensas de platina monocrômicas. Prensas de
+platina para impressão monocrômica.
+
+<01>681.622.3	
+<02>Prensas de platina multicromáticas. Prensas de
+platina para impressão colorida.
+
+<01>681.622.4	
+<02>Prensas de platina para provas.
+
+<01>681.622.6	
+<02>Prensas de platina para gofragem, relevo.
+
+<01>681.624	
+<02>Prensas para impressão em relevo.
+<09>Máquinas impressoras tipográficas.
+<09>681.622 Para prensas de platina em relevo
+
+<01>681.624.1	
+<02>Impressoras planocilíndricas.
+
+<01>681.624.4	
+<02>Impressoras rotativas tipográficas.
+
+<01>681.624.41	
+<02>Impressoras rotativas tipográficas com
+alimentação de folhas soltas.
+
+<01>681.624.44	
+<02>Impressoras rotativas tipográficas com
+alimentação de papel em bobina.
+
+<01>681.624.5	
+<02>Impressoras rotativas tipográficas com
+alimentação do papel em bobina para
+impressão policrômica.
+
+<01>681.624.8	
+<02>Impressoras flexográficas.
+
+<01>681.625	
+<02>Impressoras por processos que não usam
+relevo. Impressoras para fins especiais.
+
+<01>681.625.1	
+<02>Impressoras para matrizes de entalhe.Impressoras calcográficas.
+
+<01>681.625.11	
+<02>Calcográficas de cobre. Impressoras de gravuras.
+
+<01>681.625.12	
+<02>Calcográficas planas.
+
+<01>681.625.14	
+<02>Calcográficas rotativas.
+
+<01>681.625.142	
+<02>Calcográficas de alimentação por folhas soltas.
+
+<01>681.625.143	
+<02>Calcográficas de alimentação por papel em bobina.
+
+<01>681.625.2	
+<02>Impressoras planográficas.
+
+<01>681.625.21	
+<02>Impressoras planográficas manuais.
+
+<01>681.625.22	
+<02>Impressoras planográficas diretas.
+
+<01>681.625.23	
+<02>Impressoras planográficas offset.
+<09>681.621.5 Duplicadoras planográficas, diretas e offset. Impressoras litográficas rotativas diretas. Duplicadoras offset
+
+<01>681.625.232	
+<02>Impressoras offset planocilíndricas.
+
+<01>681.625.233	
+<02>Impressoras offset rotativas de alimentação por folhas soltas.
+
+<01>681.625.234	
+<02>Impressoras offset de alimentação por papel em bobina.
+
+<01>681.625.3	
+<02>Impressoras díagráficas. Impressoras de tela e
+estêncil, impressoras para serigrafia.
+
+<01>681.625.6	
+<02>Impressoras colográficas. Máquinas de colotipia.
+
+<01>681.625.7	
+<02>Impressoras para impressão em materiais diversos.
+<09>666.1.058.4 Decalque no vidro. Impressão e nebulização do vidro. Impressão por tela não-vidro (p. ex., processo de serigrafia)
+<09>677.057.53 Máquinas de estampagem
+
+<01>681.625.71	
+<02>Impressoras para impressão em metal. Inclusive Impressoras de placas.
+
+<01>681.625.74	
+<02>Em madeira.
+
+<01>681.625.75	
+<02>Em couro ou materiais semelhantes,.
+
+<01>681.625.78	
+<02>Em borracha ou plástico.
+
+<01>681.625.8	
+<02>Impressoras para determinados produtos.
+<09>655.28.026 Composição para determinados tipos de produtos gráficos
+
+<01>681.625.811	
+<02>Impressoras de livros.
+
+<01>681.625.812	
+<02>Impressoras de jornais.
+
+<01>681.625.813	
+<02>Impressoras de revistas.
+
+<01>681.625.823	
+<02>Impressoras de obras.
+
+<01>681.625.825	
+<02>Impressoras para embalagens, rótulos.
+
+<01>681.625.827	
+<02>Impressoras para impressão de transferências.
+
+<01>681.625.834	
+<02>Impressoras de bilhetes de viagem.
+<09>681.173.2 Equipamento para impressão e emissão de tíquetes
+
+<01>681.625.835	
+<02>Impressoras de formulários.
+
+<01>681.625.836	
+<02>Impressoras de papel-moeda, cédulas de dinheiro.
+
+<01>681.625.838	
+<02>Impressoras de braile.
+
+<01>681.625.842	
+<02>Impressoras de partituras musicais.
+
+<01>681.625.843	
+<02>Impressoras de mapas.
+
+<01>681.625.845	
+<02>Impressoras de papéis de parede.
+
+<01>681.625.9	
+<02>Outras impressoras para finalidades especiais. Inclusive Impressoras de computador. Máquinas para editoração eletrônica. 
+<09>004.356.2 Impressoras e periféricos
+
+<01>681.625.91	
+<02>Impressoras de impacto. Inclusive Impressoras matriciais de impacto. Impressoras de linha.
+
+<01>681.625.912	
+<02>Impressoras matriciais de impacto
+
+<01>681.625.914	
+<02>Impressoras de linha
+
+<01>681.625.918	
+<02>Impressors plotadoras
+
+<01>681.625.92	
+<02>Impressoras que não são de impacto.
+<04>Indicar as características dos processos não relacionados aqui por meio de :77... 
+<06>681.625.92:771.429 Impressoras escaneadoras, impressoras eletrônicas, etc.
+<06>681.625.92:772.938 Impressoras eletrográficas
+
+<01>681.625.922	
+<02>Impressoras térmicas. Inclusive Impressoras térmicas de transferência de cor.
+
+<01>681.625.923	
+<02>Impressoras a jato de tinta.
+
+<01>681.625.924	
+<02>Impressoras laser, impressoras de diodos emissores de luz e impressoras similares de
+páginas.
+<06>681.625.924:772.16 Impressoras laser que usam processos a seco de prata
+
+<01>681.625.97	
+<02>Máquinas de pautação. Impressoras para
+gráficos, papéis quadriculados, milimetrados.
+
+<01>681.626	
+<02>Dispositivos para carimbar, numerar, datar.
+
+<01>681.626.064.3 
+<02>Tinteiros. Almofadas de tinta 
+<09>681.17 Dispositivos de registro, gravação e controle
+
+<01>681.626.1	
+<02>Dispositivos para carimbar. Dispositivos para rotular.
+
+<01>681.626.11	
+<02>Carimbos manuais. Dispositivos manuais para carimbar.
+
+<01>681.626.13	
+<02>Dispositivos e máquinas para carimbar, para
+selar cartas (para correspondência).
+
+<01>681.626.2	
+<02>Mecanismos de numeração para impressoras.
+
+<01>681.626.3	
+<02>Carimbos de data. Datadores.
+
+<01>681.626.4	
+<02>Perfuradores. Máquinas perfuradoras.
+
+<01>681.628	
+<02>Equipamento auxiliar para trabalhos de impressão.
+<09>686.1.053 Máquinas de dobrar. Dobradeiras
+
+<01>681.628.3	
+<02>Máquinas e dispositivos de perfuração.
+
+<01>681.628.4	
+<02>Máquinas e dispositivos de bronzear.
+
+<01>681.628.5	
+<02>Dispositivos para imprimir margens em folhas,
+envelopes, etc.
+
+<01>681.628.7	
+<02>Máquinas para tratamento preliminar e posterior de material a ser impresso.
+
+<01>681.628.8	
+<02>Máquinas para lavagem de rolos.
+
+<01>681.628.9	
+<02>Outros acessórios.
+
+<01>681.628.93	
+<02>Mecanismos transportadores. Mesas transportadora. Rolos transportadores.
+
+<01>681.628.94	
+<02>Aparelhos de medição. Inclusive Medidores da altura do clichê. Medidores da profundidade do talhe dn gravura. 
+<04>Ampliadores.
+
+<01>681.628.95	
+<02>Dispositivos e máquinas para confecção de clichês.
+
+<01>681.629	
+<02>Máquinas impressoras combinadas.
+
+<01>681.629.2	
+<02>Para mais de um processo de impressão (p. ex.,
+impressoras de relevo e calcográficas).
+
+<01>681.629.6	
+<02>Para impressão e processamento combinados. Inclusive Máquinas de impressão e perfuração.
+
+<01>681.65	
+<02>Acessórios para trabalhos de impressão.
+<09>667.52 Tintas de impressão (pretas ou coloridas)
+<09>676.22 Papel e papelão para impressão
+
+<01>681.651	
+<02>Massas e materiais diversos.
+
+<01>681.652	
+<02>Matrizes e clichês de impressão. Metais
+usados na impressão.
+
+<01>681.652.2	
+<02>Matrizes de impressão de pedra natural e sintética. Clichês de pedra sobre bases metálicas.
+
+<01>681.652.3	
+<02>Matrizes de metal para impressão.
+
+<01>681.652.4	
+<02>Matrizes de impressão feitas de outros
+materiais (p. ex., borracha, plástico).
+<09>Indicar o material por meio de -03...
+
+<01>681.652.5	
+<02>Matrizes flexíveis de impressão.
+
+<01>681.652.6	
+<02>Superfícies curvas rígidas de impressão.
+<09>681.62.061 Cilindros e suas peças
+
+<01>681.654	
+<02>Rolos, cilindros para entintamento,
+umedecimento, limpeza, etc.
+
+<01>681.654.3	
+<02>Rolos de limpeza. Cilindros de limpeza.
+
+<01>681.654.5	
+<02>Branquetas de cilindro. Branquetas de borracha.
+
+<01>681.654.6	
+<02>Rolos umedecedores. Camisa de rolos umedecedores.
+
+<01>681.654.7	
+<02>Rolos de tinta. Rolos de tintagem, de revestimento.
+
+<01>681.7	
+<02>Aparelhos e instrumentos ópticos.
+<09>520 Instrumentos e técnicas astronômicos
+<09>77 Fotografia e processos similares
+<04>Especificar os instrumentos ópticos por meio de -1-9 (de 62-1/-8  e 66-9) 
+<09>Subdivisões auxiliares especiais
+
+<01>681.7.01	
+<02>Teoria e características gerais de instrumentos ópticos.
+
+<01>681.7.012	
+<02>Aberrações.
+
+<01>681.7.013	
+<02>Características e desempenho de instrumentos ópticos.
+<09>77.022.8 Ajustamento, determinação da distância. Profundidade de campo (foco), teoria e cálculo
+
+<01>681.7.013.1	
+<02>Percurso do raio.
+
+<01>681.7.013.2	
+<02>Capacidade de concentrar a luz.
+
+<01>681.7.013.22	
+<02>Abertura.
+
+<01>681.7.013.24	
+<02>Intensidade luminosa.
+
+<01>681.7.013.25	
+<02>Transmitância de luz.
+
+<01>681.7.013.3	
+<02>Campo focal.
+
+<01>681.7.013.5	
+<02>Distância focal.
+
+<01>681.7.013.6	
+<02>Escala da imagem. Inclusive Ampliação. Redução.
+
+<01>681.7.013.7	
+<02>Profundidade de foco.
+
+<01>681.7.013.8	
+<02>Qualidade da imagem. Inclusive Poder de resolução. Contraste da imagem.
+
+<01>681.7.015	
+<02>Extensão de comprimento de onda de instrumentos ópticos.
+
+<01>681.7.015.2	
+<02>Luz infravermelha.
+
+<01>681.7.015.3	
+<02>Luz visível.
+
+<01>681.7.015.4	
+<02>Luz ultravioleta.
+
+<01>681.7.02	
+<02>Métodos de produção de elementos ópticos.
+<09>666.22 Vidros ópticos
+
+<01>681.7.022	
+<02>Trabalho sem desbastamento. Inclusive Fundição. Moldagem. Laminação.
+
+<01>681.7.023	
+<02>Usinagem (com formação de aparas). Inclusive Corte. Perfuração.
+
+<01>681.7.023.4	
+<02>Fresa.
+
+<01>681.7.023.5	
+<02>Formação de bordas.
+
+<01>681.7.023.7	
+<02>Esmerilhamento e polimento.
+
+<01>681.7.024	
+<02>Montagem de vidros ópticos. Colagem. Inclusive Cimentação fina. Contato óptico. Compressão. Fusão. Soldagem.
+
+<01>681.7.025	
+<02>Montagem e fixação para trabalho. Inclusive Cimentação grosseira. Fixação mecânica e pneumática.
+
+<01>681.7.026	
+<02>Outros processos da indústria óptica.
+
+<01>681.7.026.2	
+<02>Descimentação, descolamento.
+
+<01>681.7.026.3	
+<02>Limpeza.
+
+<01>681.7.026.4	
+<02>Envemizamento. Laqueação.
+
+<01>681.7.026.5	
+<02>Rotulação. Marcação da graduação.
+<09>Quadrículos. Retículos.
+
+<01>681.7.026.6	
+<02>Processos de película fina.
+
+<01>681.7.027	
+<02>Seleção. Prescrição. Montagem.
+
+<01>681.7.027.2	
+<02>Seleção e ajuste de lentes.
+
+<01>681.7.027.4	
+<02>Escolha da armação.
+
+<01>681.7.027.6	
+<02>Inserção de lentes na armação. Preparo de
+óculos completos.
+
+<01>681.7.028	
+<02>Testes. Correção, ajustamento de aparelhos
+ópticos.
+
+<01>681.7.028.1	
+<02>Combinações de lentes (inclusive combinações
+experimentais).
+
+<01>681.7.028.2	
+<02>Correção. Ajustamento.
+
+<01>681.7.03	
+<02>Materiais para fabricação de aparelhos ópticos.
+<09>Vidros ópticos e outros materiais.
+<09>666.22 Vidros ópticos
+
+<01>681.7.031	
+<02>Vidros ópticos. Vidros para óculos. Vidros coloridos. Vidros de filtro.
+
+<01>681.7.032	
+<02>Vidro de espelho. Vidro espelhado.
+
+<01>681.7.033	
+<02>Vidro técnico.
+
+<01>681.7.034	
+<02>Vidro de quartzo.
+
+<01>681.7.035	
+<02>Cerâmica de vidro.
+
+<01>681.7.036	
+<02>Cristais.
+
+<01>681.7.037	
+<02>Plástico.
+
+<01>681.7.038	
+<02>Metal.
+
+<01>681.7.04	
+<02>Materiais auxiliares para fabricação de aparelhos ópticos.
+
+<01>681.7.042	
+<02>Abrasivos. Materiais de esmerilhamento.
+
+<01>681.7.043	
+<02>Agentes de polimento. Inclusive  Sesquióxido de ferro. Óxido de cromo. Óxidos de terras-raras.
+
+<01>681.7.044	
+<02>Veículos para agentes polidores. Inclusive Piche. Têxteis. Plásticos.
+
+<01>681.7.045	
+<02>Cimentos.
+
+<01>681.7.046	
+<02>Solventes. Inclusive Álcool. Acetona. Benzeno. Éter.
+
+<01>681.7.047	
+<02>Revestimentos. Vernizes. Lacas.
+
+<01>681.7.048	
+<02>Refrigerantes. Lubrificantes (óleos, etc.).
+
+<01>681.7.049	
+<02>Tecidos e têxteis ópticos para limpeza. Inclusive Tecidos abrasivos. Tecidos de polimento. Tecidos de limpeza. 
+<04>Estofamentos.
+
+<01>681.7.05	
+<02>Equipamento, instalações, maquinaria, ferramentas,  etc. para fabricação de instrumentos ópticos.
+
+<01>681.7.052	
+<02>Instalações.
+<09>661.1.03 Processos e instalações para fundir e trabalhar o vidro
+
+<01>681.7.052.2	
+<02>Instalações de limpeza.
+
+<01>681.7.052.3	
+<02>Instalações de ventilação.
+
+<01>681.7.052.4	
+<02>Bombas de refrigeração.
+
+<01>681.7.052.5	
+<02>Equipamento para depósito de películas finas.
+
+<01>681.7.052.6	
+<02>Fornos. Fornalhas. Estufas.
+
+<01>681.7.053	
+<02>Máquinas.
+
+<01>681.7.053.2	
+<02>Máquinas de produção e preparação geral. Inclusive Máquinas de corte. Máquinas de perfuração. Máquinas de formação 
+<04>de bordas.
+
+<01>681.7.053.3	
+<02>Máquinas para produção de superfícies planas e esféricas. Inclusive Máquinas de fresar, esmerilhar e polir. Máquinas 
+<04>para centrar. Máquinas de chanfrar.
+
+<01>681.7.053.4	
+<02>Máquinas para produzir outros tipos de superfícies.
+
+<01>681.7.054	
+<02>Ferramentas e equipamento.
+
+<01>681.7.054.2	
+<02>Ferramentas para trabalhar superfícies ópticas. Inclusive Suportes, portadores (p. ex., de lentes). Ferramentas de 
+<04>esmerilhamento e polimento. Ferramentas de pressão. Ferramentas e dispositivos de montagem, regulagem.
+
+<01>681.7.054.3	
+<02>Ferramentas de diamante.
+
+<01>681.7.054.4	
+<02>Ferramentas mecânicas. Inclusive Placas de torno. Mandris. Fusos de esmerilhamento.
+
+<01>681.7.054.5	
+<02>Grampos de centralização. Mandris de centralização para cimentar.
+
+<01>681.7.054.6	
+<02>Armações de lavagem.
+
+<01>681.7.055	
+<02>Ferramentas de medição e teste. Equipamento de teste.
+
+<01>681.7.055.2	
+<02>Aparelhos para medição ou testes de distâncias, diâmetros e centralização. Inclusive Calibradores.
+
+<01>681.7.055.3	
+<02>Aparelhos para teste de qualidade de superfície com uso de interferência. Inclusive Óculos de teste. Esferômetros.
+
+<01>681.7.055.4	
+<02>Aparelhos para teste de propriedades de materiais. Inclusive Aparelhos para medição de Índice de refração. Aparelhos para teste de schilerização.
+
+<01>681.7.055.5	
+<02>Dispositivos para medição de ângulos. Goniômetros.
+
+<01>681.7.055.6	
+<02>Dispositivos para medir distâncias focais.
+
+<01>681.7.056	
+<02>Técnicas de controle.
+
+<01>681.7.057	
+<02>Equipamento de transporte. Material de embalagem,
+
+<01>681.7.06	
+<02>Elementos ópticos.
+
+<01>681.7.062	
+<02>Espelhos.
+
+<01>681.7.062.1	
+<02>Espelhos segundo a posição e curvatura da
+superfície refletora.
+
+<01>681.7.062.12 
+<02>Espelhos de superfície frontal.
+
+<01>681.7.062.14	
+<02>Espelhos de superfície posterior.
+
+<01>681.7.062.2	
+<02>Espelhos planos.
+
+<01>681.7.062.3	
+<02>Espelhos esféricos.
+
+<01>681.7.062.4	
+<02>Espelhos não-esféricos (exceto os espelhos
+planos).
+
+<01>681.7.062.42 
+<02>Espelhos de seção cênica. Inclusive Espelhos parabólicos, elípticos, hiperbólicos.
+
+<01>681.7.062.44 
+<02>Espelhos cilíndricos.
+
+<01>681.7.062.47	
+<02>Espelhos elasticamente deformáveis.
+
+<01>681.7.062.6	
+<02>Espelhos líquidos.
+
+<01>681.7.062.7	
+<02>Espelhos poligonais (dispostos em paralelo ao
+eixo). Espelhos piramidais. Espelhos tríplices.
+<09>Espelhos escalonados. Espelhos em colméia
+(arranjos hexagonais de espelhos).
+
+<01>681.7.062.8	
+<02>Espelhos para dispersão do feixe de luz.
+
+<01>681.7.063	
+<02>Retículos (com várias pautações em superfícies
+diversas). Retículos de duração de tendas
+interseccionais.
+
+<01>681.7.064	
+<02>Aberturas. Lâminas, chapas. Filtros. Círculos
+divididos. Divisões.
+
+<01>681.7.064.2	
+<02>Paradas (diafragmas). Aberturas.
+
+<01>681.7.064.3	
+<02>Lâminas de planos paralelos com propriedades
+mecânicas e geométrico-ópticas especiais (com
+superfícies polidas, foscas ou revestidas).
+
+<01>681.7.064.4	
+<02>Lâminas de planos paralelos com propriedades
+especiais elétricas e de transmissão. Filtros.
+
+<01>681.7.064.42	
+<02>Filtros de absorção.
+
+<01>681.7.064.43	
+<02>Filtros de interferência.
+
+<01>681.7.064.44	
+<02>Filtros de interferência de polarização. Filtros de Lyolt
+
+<01>681.7.064.45	
+<02>Películas finas para finalidades ópticas.
+
+<01>681.7.064.46	
+<02>Filtros em cunha.
+
+<01>681.7.064.5	
+<02>Lâminas com superfícies não-esféricas.
+
+<01>681.7.064.6	
+<02>Lâminas com graduações. Inclusive Retículas. Escalas de medida. Círculos divididos.
+
+<01>681.7.064.7	
+<02>Lâminas com vários elementos de superfície.
+
+<01>681.7.064.8	
+<02>Polarizadores.
+
+<01>681.7.064.82	
+<02>Prismas de polarização de material cristalino.
+
+<01>681.7.064.83	
+<02>Polarizadores de reflexão.
+
+<01>681.7.064.84	
+<02>Polarizadores dicróicos.
+
+<01>681.7.065	
+<02>Prismas.
+
+<01>681.7.065.2	
+<02>Prismas segundo o tipo de superfície e o grau
+de reflexão (com superfície plana, curva: parcial
+ou completamente refletiva).
+
+<01>681.7.065.3	
+<02>Prismas segundo a função. Inclusive Prismas refletores. Prismas refratores. Prismas com efeito de filtro. Prismas com efeito 
+<04>polarizador.
+
+<01>681.7.066	
+<02>Lentes.
+
+<01>681.7.066.2	
+<02>Lentes esféricas.
+
+<01>681.7.066.22	
+<02>Lentes convexas. Lentes convergentes.
+
+<01>681.7.066.23	
+<02>Lentes côncavas. Lentes divergentes.
+
+<01>681.7.066.3	
+<02>Lentes não-esféricas.
+
+<01>681.7.066.32	
+<02>Lentes esférico-cilíndricas. Lentes cilíndricas.
+
+<01>681.7.066.35	
+<02>Lentes de Fresnel (de degrau). Lentes de
+tambor. Lentes de zonas.
+
+<01>681.7.066.36	
+<02>Lentes prismáticas.
+
+<01>681.7.066.4	
+<02>Lentes sem efeito óptico (sem potência
+refratora).
+
+<01>681.7.066.6	
+<02>Lentes de proteção. Lentes de segurança.
+<09>681.738 Óculos sem efeito óptico
+
+<01>681.7.066.8	
+<02>Lentes com efeitos especiais. Inclusive Lentes com efeito de cor especial. Lentes para correção da aniseiconia.
+
+<01>681.7.067	
+<02>Sistemas de lentes. Objetivas. Oculares.
+<09>Sistemas de inversão. Condensadores.
+
+<01>681.7.067.2	
+<02>Objetivas.
+
+<01>681.7.067.22	
+<02>Objetivas de lentes em geral. Inclusive Acromáticas. Apocromáticas. Monocromáticas. Objetivas de fluorita.
+
+<01>681.7.067.23	
+<02>Objetivas de espelho (objetivas catóptricas) cm geral.
+
+<01>681.7.067.24	
+<02>Objetivas de telescópio.
+
+<01>681.7.067.25	
+<02>Objetivas fotográficas.
+<09>771.351 Objetivas de câmaras fotográficas	
+
+<01>681.7.067.252	
+<02>Objetivas de lentes fotográficas,
+
+<01>681.7.067.252.2	
+<02>Objetivas grandes-angulares.
+
+<01>681.7.067.252.3	
+<02>Objetivas normais.
+
+<01>681.7.067.252.4	
+<02>Objetivas para telefotografia.
+
+<01>681.7.067.252.5	
+<02>Objetivas especiais.
+
+<01>681.7.067.252.6	
+<02>Objetivas zoom.
+
+<01>681.7.067.253	
+<02>Objetivas fotográficas de espelho (objetivas catóptricas).
+
+<01>681.7.067.254	
+<02>Objetivas anamórficas (anamorfotos).
+
+<01>681.7.067.26	
+<02>Objetivas de projeção óptica.
+
+<01>681.7.067.26 
+<02>dividido como 681.7.067.25
+
+<01>681.7.067.27	
+<02>Objetivas cinematográficas.
+
+<01>681.7.067.27 
+<02>dividido como 681. 7.067.25
+
+<01>681.7.067.28	
+<02>Objetivas de microscópio.
+
+<01>681.7.067.281	
+<02>Objetivas secas.
+
+<01>681.7.067.282	
+<02>Objetivas de imersão.
+
+<01>681.7.067.283	
+<02>Objetivas de microscópio de espelho (objetivas
+catóptricas).
+
+<01>681.7.067.285 
+<02>Objetivas catadióptricas.
+
+<01>681.7.067.288 
+<02>Tipos especiais de objetivas. Inclusive Objetivas de contraste. Objetivas de interferência de microscópio. Objetivas
+<04>microfotográficas.
+
+<01>681.7.067.3	
+<02>Oculares.
+
+<01>681.7.067.32	
+<02>Oculares segundo o número de componentes.
+
+<01>681.7.067.322 
+<02>Oculares com dois componentes
+
+<01>681.7.067.33	
+<02>Oculares de Huygens.
+
+<01>681.7.067.34	
+<02>Oculares de Ramsden.
+
+<01>681.7.067.35	
+<02>Oculares de Kellner.
+
+<01>681.7.067.36	
+<02>Oculares ortoscópicas. Oculares de
+compensação. Oculares periplanáticas.
+
+<01>681.7.067.37	
+<02>Oculares de projeção. Projetivas.
+
+<01>681.7.067.38	
+<02>Oculares de quartzo. Oculares de medição. Oculares especiais. Inclusive Micrômetros de microscópio. 
+<04>Oculares de autocolimação.
+
+<01>681.7.067.5	
+<02>Sistemas de inversão, principalmente para telescópios.
+
+<01>681.7.067.7	
+<02>Condensadores.
+
+<01>681.7.067.72	
+<02>Condensadores de campo brilhante.
+
+<01>681.7.067.73	
+<02>Condensadores de campo escuro.
+
+<01>681.7.067.74	
+<02>Condensadores de luz mista (com luz de várias cores).
+
+<01>681.7.067.75	
+<02>Condensadores de comutação.
+
+<01>681.7.067.76	
+<02>Condensadores de iluminação vertical
+(Condensadores de iluminação de topo).
+
+<01>681.7.067.77	
+<02>Condensadores especiais.
+
+<01>681.7.067.772	
+<02>Condensadores de contraste. Condensadores e
+contraste de fase.
+
+<01>681.7.067.773	
+<02>Condensadores de interferência.
+
+<01>681.7.067.775 
+<02>Condensadores pancráticos (de zoom).
+
+<01>681.7.067.778 
+<02>Condensadores ultravioleta.
+
+<01>681.7.068	
+<02>Dispositivos de fibras ópticas.
+<09>666.189.21 Fibras de vidro e seus produtos. Vidro têxtil
+
+<01>681.7.068.1	
+<02>Dispositivos de fibras ópticas segundo a
+flexibilidade (rígidos; flexíveis).
+
+<01>681.7.068.2	
+<02>Fibras únicas.
+
+<01>681.7.068.3	
+<02>Feixes de fibras.
+
+<01>681.7.068.4	
+<02>Chapas de fibras. Feixes cênicos de fibras.
+
+<01>681.7.068.5	
+<02>Bordas retas de fibras. Pentes de fibras.
+
+<01>681.7.068.6	
+<02>Fibras codificadas por cor (fibras de cores diversas em feixes).
+
+<01>681.7.068.7	
+<02>Conversores de seção.
+
+<01>681.7.069	
+<02>Fontes de radiação. Receptores de radiação.
+
+<01>681.7.069.2	
+<02>Fontes de radiação.
+
+<01>681.7.069.22	
+<02>Fontes naturais de luz.
+
+<01>681.7.069.24 
+<02>Fontes artificiais de luz. Inclusive Lasers.
+
+<01>681.7.069.3	
+<02>Receptores de radiação. Inclusive Olhos. Receptores fotoelétricos. Conversores de imagem. Receptores fotoquimicos.
+
+<01>681.7.07	
+<02>Elementos mecânicos para os instrumentos ópticos.
+
+<01>681.7.072	
+<02>Montagens e armações.
+
+<01>681.7.072.2	
+<02>Montagens para os elementos ópticos (exceto
+<06>lentes de óculos) segundo o projeto. Montagens simples. Montagens com provisão para centralização. Montagens com
+meios de focalização. Montagens com adesivos, meios de vedação.
+
+<01>681.7.072.4	
+<02>Armações, aros para lentes de óculos.
+<06>681.7.072.4-034 Armações de metal
+
+<01>681.7.072.42 
+<02>Armações para lentes de óculos.
+
+<01>681.7.072.43	
+<02>Elementos das armações de óculos. Inclusive  Aros. Pontes. Hastes laterais. Peças de ajuste nas orelhas.
+
+<01>681.7.072.44 
+<02>Encaixes, armações, p. ex., para óculos sem aro.
+
+<01>681.7.072.6	
+<02>Bancadas e suportes ópticos.
+
+<01>681.7.073	
+<02>Caixas. Estojos. Tubos.
+
+<01>681.7.074	
+<02>Cabeças de tubo.
+
+<01>681.7.075	
+<02>Dispositivos de regulagem, de focalização. Reguladores. Inclusive Macro-reguladores. Cremalheiras. Micro-reguladores. 
+<04>Parafusos de micrômetro,  engrenagens.
+
+<01>681.7.076	
+<02>Suportes. Reforços traseiros (p. ex.. de vidro, de metal).
+
+<01>681.7.077	
+<02>Platinas. Inclusive Platinas deslizantes. Platinas transversas. Platinas rotatórias.
+
+<01>681.7.078	
+<02>Suportes para instrumentos ópticos.
+
+<01>681.7.08	
+<02>Princípios gerais e teoria de medições ópticas e do projeto de aparelhos de medição óptica.
+
+<01>681.7.08 
+<02>dividido como 53.08
+<09>Divisões principais
+
+<01>681.72	
+<02>Ampliadores. Microscópios.
+
+<01>681.722	
+<02>Ampliadores.
+<09>662.591 Acendedores que utilizam o calor solar. Lentes de aumento, lupas
+
+<01>681.723	
+<02>Microscópios.
+
+<01>681.723.2	
+<02>Microscópios segundo seu modo de ação.
+
+<01>681.723.21	
+<02>Microscópios de luz transmitida.
+
+<01>681.723.22	
+<02>Microscópios de luz incidente.
+
+<01>681.723.23	
+<02>Microscópios de contraste.
+
+<01>681.723.24	
+<02>Microscópios de projeção. Microscópios solares.
+
+<01>681.723.25	
+<02>Ultramicroscópios.
+
+<01>681.723.26	
+<02>Microscópios de interferência.

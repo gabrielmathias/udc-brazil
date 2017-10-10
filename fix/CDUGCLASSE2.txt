@@ -1,0 +1,3573 @@
+﻿2  Religião. Teologia
+<09>124 Teleologia
+<09>125 Finidade. Finitude. Infinidade. Imensidade. Infinitude. A infinitude e a infinidade.
+<09>322 Relações entre a Igreja e o Estado. Política relativa à religião. Política da igreja
+<09>348 Direito eclesiástico. Direito canônico. Direito religioso (opção)
+
+<09>Subdivisões auxiliares especiais
+<06>2-1		Teoria e filosofia da religião. Natureza da religião. Fenômeno da religião.
+<06>2-11		Escolas de teologia caracterizadas por diferentes atributos.
+<06>2-11:141.72 Teologia feminista
+<06>2-11:141.78 Teologia pós-moderna
+<06>2-12	Conceitos em religião. Idéias religiosas. Teologia.
+<06>2-13		O santo. O sacro. O sobrenatural. Objeto(s) da religião/culto.
+<06>2-132		Definição. 
+<06>2-133		Origem 
+<06>2-134		Natureza. Tabu. Herem. Santidade.
+<06>2-135		Representação. Símbolo. Simbolismo.
+<04>Para símbolos no culto, ver 2-526.6
+<06>2-135.2		Símbolos individuais.
+<06>2-135.3		Letras e números. Numerologia.
+<06>2-136		Manifestação do sobrenatural.
+<09>2-166 Encarnações divinas. Manifestações
+<06>2-136.2	Forma do sobrenatural. Morfologia.
+<06>2-136.3	Dinamismo. Pré-animismo.
+<06>2-136.4	Fetichismo. Culto de objetos animados e inanimados.
+<06>2-136.6	Panteísmo. O sobrenatural inerente ao mundo material.
+<06>2-136.7	Animismo. 
+<06>2-136.8	Totemismo. 
+<06>2-137		Objetos de culto especificamente.
+<06>2-137:502 Culto da natureza
+<06>2-137:52 Corpos astronômicos (celestes)
+<06>2-137:523.3 Lua
+<06>2-137:523.9 Sol
+<06>2-137:536.46 Fogo (pirolatria)
+<06>2-137:55 Terra (ctonismo)
+<06>2-137:551.5 Fenômenos atmosféricos
+<06>2-137:551.51 Céu (firmamento). Uranolatria
+<06>2-137:552 Pedras, rochas
+<06>2-137:556 Adoração da água
+<06>2-137:58 Árvores. Plantas
+<06>2-137:59 Animais
+<09>2-172.4 Aspectos teológicos dos elementos do mundo material (diferentes de seu
+<04>papel como objetos de culto)
+<09>2-526 Objetos no culto. Mobiliário e decoração
+<06>2-138		Seres humanos e partes de seres humanos
+<06>2-138:616.6 Culto do falo. Falicismo.
+<06>2-138:616.7 Adoração do crânio
+<06>2-14		Deus. Deus(es) personalizado(s), distinto(s) dos espíritos imanentes.
+<06>2-141		Existência de Deus.
+<06>2-142		Origem de/dos Deus(es). Obras de/dos Deus(es).
+<06>2-143		Atividade de/dos Deus(es). Obras de/dos Deus(es).
+<06>2-144		Atributos de/dos Deus(es).
+<06>2-144.2	Nome de/dos Deus(es).
+<06>2-144.3	Forma física, aparência.
+<06>2-144.3:599.61 Deus elefante
+<06>2-144.3:599.82 Deus macaco
+<06>2-144.4	Antropomorfismo. 
+<06>2-144.5	Representação de/dos Deus(es). Imagens de/dos Deus(es).
+<09>2-526.6 Símbolos. Imagens
+<06>2-144.7	Espírito de/dos Deus(es). Essência de Deus.
+<06>2-144.8	Características pessoais, traços. Natureza de/dos Deus(es).
+<06>2-144.81	Domínio. Realeza.
+<06>2-144.82	Benevolência. 
+<06>2-144.84	Conhecimento. Onisciência.
+<06>2-144.86	Poder. Onipotência.
+<06>2-144.87	Presença. Onipresença.
+<06>2-145		Papel, função de/dos Deus(es).
+<06>2-145.2	Deus criador. Demiurgo. Deus designador. Deísmo.
+<06>2-145.3	Deus protetor. Teísmo. Providência. Proteção e governo do mundo.
+<06>2-145.4	Deus destruidor.
+<06>2-145.5	Deus controlador. Deus ex machina.
+<06>2-145.55	Intervenção divina. Milagres.
+<06>2-145.6	Responsabilidade. Áreas de influência.
+<06>2-145.8	Deus(es) como juiz(es). Juízo divino.
+<06>2-145.6:551.5 Tempo
+<06>1-145.8:57.017.5 Fertilidade
+<06>2-146		Tipologia de/dos Deus(es).
+<06>2-146.2	Pai do Céu.
+<06>2-146.3	Mãe da Terra.
+<06>2-146.5	Deuses guerreiros.
+<06>2-146.6	Deuses ardilosos.
+<06>2-15		Natureza de/dos Deus(es).
+<06>2-154		Deus único. Ser Supremo. Monoteísmo.
+<06>2-156		Deuses adversários. Deuses pares/Pares de deuses. Dualismo.
+<06>2-157		Multiplicidade de deuses. Panteão. Politeísmo.
+<06>2-158		Deuses/deusas com nomes.
+		      Especificar por meio da extensão alfabética A/Z (Tabela Ih)
+<06>2-162		O gênero de/dos Deus(es).
+<06>2-162.2	Sem gênero (Geralmente presumido).
+<06>2-162.4	Deuses. 
+<06>2-162.6	Deusas. 
+<06>2-162.8	Deuses hermafroditas. Andróginos
+<06>2-163		Hierarquia dos deuses, organização do panteão.
+<06>2-164		Semideuses. 
+<06>2-165		Personificações divinas. União hipostática.
+<06>2-166		Encarnação divina. Avatares. Manifestações.
+<06>2-167		Seres sobrenaturais. Espíritos. Gênios.
+<06>2-167.2	Anjos. Angelologia. Hierarquia dos anjos.
+<06>2-167.25	Arcanjos (por função).
+<06>2-167.3	Mensageiros. 
+<06>2-167.4	Guardiães (por características).
+<06>2-167.5	Benevolentes. 
+<06>2-167.6	Malevolentes. 
+<06>2-167.62	Demônios. Diabos.
+<06>2-167.64	Satã. Satanaz. O diabo. O mal.
+<06>2-167.7	Mutáveis. Imprevisíveis.
+<06>2-167.8	Seres semidivinos.
+<06>2-168		Seres deificados, divinizados.
+<06>2-168:321.011.1-051 Soberanos deificados, divinizados.
+<06>2-168:599.89 Seres humanos deificados, divinizados.
+<06>2-169		Criaturas míticas.
+<06>2-169.5	Seres teriantrópicos (em parte, humanos; em parte, animais).
+<06>2-17		O universo. Natureza do universo. Cosmologia.
+<06>2-172		O mundo material. O ambiente físico
+<06>2-17.2		Origens. Cosmogonia. Criação do mundo.
+<06>2-17.24	Estado antes da criação. O Caos. O Caos inicial.
+<06>2-17.25	A batalha inicial.
+<06>2-17-27	O eixo do mundo.
+<06>2-172.4	Aspectos teológicos dos elementos do mundo material (diferentes de seu papel como 
+<04>objetos de culto).
+<06>2-172.4:52 Os céus
+<06>2-172.4:524 Estrelas
+<06>2-172.4:551 Terra
+<06>2-172.4:556 Água
+<06>2-172.4:556.5 Desastres naturais. Enchentes
+<06>2-172.4:57.017.5 Fertilidade.
+<06>2-172.4:58 Vegetação 
+<06>2-173		O inferno. O mundo dos mortos.
+<09>2-188.7 O inferno. O mundo dos mortos. O hades.O cheol.
+<06>2-174		O reino do espírito. O céu. A morada dos deuses. O mundo do espírito.
+		      Quando percebido como parte do universo material; do contrário, usar 2-188
+<06>2-175		Escatologia. O fim do mundo. Os novíssimos.
+<06>2-175.2	O apocalipse. Apocalíptico.
+<06>2-175.25	Os sinais do fim dos tempos.
+<06>2-175.27	Os acontecimentos do fim dos tempos.
+<06>2-175.3	O juízo final.
+<06>2-175.35	A condenação.
+<06>2-175.4	A aniquilação. A conflagração. A destruição do mundo.
+<06>2-175.5	O crepúsculo dos deuses.
+<06>2-175.6	Restauração cósmica. Apocatástase. Transformação.
+<06>2-175.7	O reino, o governo de/dos Deus(es).
+<06>2-175.75	O Milenarismo. O Quiliasmo.
+<06>2-18		O homem. O gênero humano. A humanidade. Antropologia doutrinal.
+<06>2-181		Origens do homem.
+<06>2-181.5	A criação do homem.
+<06>2-18.7		O paraíso primitivo. O paraíso terrestre.
+<06>2-182		O sentido, o destino do homem.
+<06>2-183		A natureza do homem.
+<06>2-183.5	A alma. O espírito. O espírito humano.
+<06>2-183.7	A liberdade. O livre arbítrio. A predestinação.
+<06>2-184		Relação do homem com Deus(es).
+<06>2-184.2	Sentimentos religiosos. Experiência religiosa.
+<06>2-184.25	Sentimentos anormais. Fanatismo.
+<06>2-184.27	Sentimentos, experiências ilusórias. Ilusões.
+<06>2-184.3	A fé. A crença em Deus.
+<06>2-184.35	O reconhecimento formal da fé. A conversão religiosa.
+<09>2-767 Proselitismo. Conversão.
+<06>2-184.4	Dúvida. Descrença.
+<06>2-184.5	Negação. Rejeição. Apostasia.
+<06>2-184.6	A graça.
+<06>2-184.7	Relações baseadas no Pacto.
+<06>2-184.8	A resposta de Deus ao homem.
+<06>2-184.85	As dádivas de Deus ao homem. Os dons do Espírito Santo.
+<06>2-185		A Experiência humana. A vida.
+<06>2-185.2	O sofrimento.
+<06>2-185.3	O mal. O problema do mal ou pecado. O pecado.
+		      Classificar aqui apenas idéias gerais sobre a natureza e o entendimento religioso do que é 
+<04>o pecado. A Conformidade com os requisitos específicos do direito e da praxe 
+<04>religiosos classifica-se em 2-42 Observância religiosa e teologia moral
+<06>2-185.32	A origem e a natureza do pecado. A natureza do mal.
+<06>2-185.325	O pecado original. A condição inerentemente pecadora da humanidade. A queda do
+<04>homem.
+<06>2-185.33	O arrependimento. A contrição.
+<06>2-185.35	A expiação do pecado.
+<06>2-185.36	O perdão. A remissão. A absolvição.
+<06>2-185.5	A salvação. Soteriologia.
+<06>2-185.52	A justificação.
+<06>2-185.53	A redenção.
+<06>2-185.57	A reconciliação.
+<06>2-186		A morte. Os mortos.
+<04>Para costumes e ritos fúnebres, ver 2-557
+<06>2-187		A vida após a morte. A vida futura. O porvir.
+<06>2-187.2	Os estados do ser. As formas de existência ininterrupta..
+<06>2-187.3	A imortalidade. A persistência da vida.
+<06>2-187.4	A reintegração (apocatástase) das almas.
+<06>2-187.5	A reincarnação. Metempsicose. Metamorfose.
+<06>2-187.55	Nascimento e renascimento.
+<06>2-187.6	Ressurreição. Rejuvenescimento. Recuperação do corpo físico.
+<06>2-187.7	O corpo espiritual, imaterial. O corpo celestial.
+<06>2-187.8	A separação da alma do corpo.
+<06>2-187.85	Aniquilação. Cessação da existência. O não-ser. Assimilação. O nirvana.
+<06>2-188		Os reinos espirituais. Os mundos não-materiais. O mundo do espírito.
+<09>2-173 O inferno. O mundo dos mortos
+<09>2-174 Os reinos do espírito. O céu. A morada dos deuses. O mundo do espírito.
+<06>2-188.2	O acesso ao mundo do espírito.
+<06>2-188.25	A preparação.
+<06>2-188.26	O juízo.
+<06>2-188.3	A viagem ao mundo do espírito. Ascensão. Descida.
+<06>2-188.5	O céu. Os céus. O paraíso. A morada dos deuses. O plano astral.
+<06>2-188.55	A morada dos antepassados.
+<06>2-188.6	Estado intermediário. O limbo. O purgatório.
+<06>2-188.7	O inferno. O hades. O cheol.
+<06>2-188.75	A morada dos espíritos.
+<06>2-2		Evidências da religião.
+<06>2-21		Teologia natural. Evidência do mundo natural. Argumentos racionais em favor da fé.
+<06>2-22		Teologia revelada. A revelação de/dos Deus(es).
+<06>2-225		Teofania. Hierofania. Cratofania.
+		      Para revelação dos deuses em forma humana, ver 2-166
+<06>2-23		Livros sagrados. Escrituras. Textos religiosos.
+		      Na maioria das religiões existem livros sagrados centrais (que foram amplamente 
+<04>enumerados em cada religião.Tipos secundários de material (leis religiosas,
+<04>material litúrgico, etc.) também foram incluídos. Estes materiais não devem ser
+<04>confundidos com as próprias escrituras  a Torá, p. ex., é considerada como escritura,
+<04>e não como direito religioso, embora possua forma de lei). Os exemplos aqui 
+<04>(apresentados)foram colhidos principalmente nas fontes hebraica e cristã e nos textos
+<04>religiosos; eles devem servir  de padrão para as obras de outras religiões, as quais se
+<04>encontram enumeradas no lugar apropriado da tabela principal
+<06>2-232		Textos originais. Obras canônicas da escritura.
+<06>2-233		Variantes. 
+<06>2-234		Traduções (i.e., do texto original).
+		      Usar as Tabelas auxiliares comuns 1c e 1g para especificar a língua e o período, 
+<04>conforme necessário).
+<06>2-234"05” A Vulgata
+<06>2-235		Versões. 
+		      Formas de texto não traduzido das fontes originais.
+		      Usar as Tabelas auxiliares comuns 1c e 1g para especificar a língua e o período.
+<06>2-236		Textos re-escritos. Paráfrases.
+<06>2-236.5	Resumos de narrativas. Estórias da Bíblia.
+<06>2-236.7	Paródias. 
+<06>2-24		Textos específicos. Textos e livros com seus nomes.
+		       Usar para enumerar textos, livros, elementos específicos, etc. dos escritos sagrados
+<04>de determinada religião
+<06>2-25		Literatura secundária. Pseudocanônicos.
+<06>2-252		Apócrifos. Pseudo epígrafos (diferentemente de como nomeados).
+<06>2-254		Comentários sobre obras sagradas.
+<06>2-256		Obras interpretativas. Obras para orientação prática.
+<06>2-262		Formas orais. Tradição oral.
+<06>2-264		Mitos e lendas.
+<06>2-265		Outras formas literárias.
+<06>2-265.2	Obras poéticas.
+<06>2-265.3	Epopéias e sagas.
+<06>2-265.4	Obras dramáticas.
+<06>2-265.6	Drama ritual.
+<06>2-266		Lei. Direito. Códigos legais. Textos legais.
+<06>2-268		Textos sobre assuntos “profanos”(p.ex., medicina, ciência).
+<06>2-27		Obras críticas.
+<06>2-271		Auxílios para o estudo.
+<06>2-271.4	Formas paralelas. Textos interlineares. Harmonias.
+<06>2-271.5	Versões anotadas.
+<06>2-272		Concordâncias. 
+<06>2-272.4	Concordâncias verbais.
+<06>2-272.5	Concordâncias temáticas.
+<06>2-273		Comentários. 
+<06>2-274		Crítica em geral.
+<06>2-274.2	Autoria, origem dos textos.
+<06>2-274.4	Cânone. Canonicidade.
+<06>2-274.6	Autoridade, ausência de erro na escritura.
+<06>2-275		Crítica textual.
+<06>2-275.2	Aparato textual.
+<06>2-276		Crítica literária.
+<06>2-276.2	Origem e formação das escrituras.
+<06>2-276.3	Hipóteses documentais.
+<06>2-276.4	Crítica da forma. Formegeschichte.
+<06>2-276.5	Crítica da redação.
+<06>2-276.6	Conteúdo literário.
+<06>2-276.63	Simbolismo. 
+<06>2-276.64	Tipologia. 
+<06>2-276.66	Alegoria. 
+<06>2-276.7	Crítica histórica. História da salvação. Heilsgeschichte.
+<06>2-277		Interpretação. Compreensão. “Estudos da Bíblia”.
+<06>2-277.2	Exegese. Hermenêutica.
+<06>2-277.3	Eisegesis. 
+<06>2-277.4	Interpretação literalista, fundamentalista.
+<06>2-277.6	Interpretação alegórica.
+<06>2-277.7	Desmitologização. 
+<06>2-278		Teologia dos textos sagrados. Conteúdo teológico.
+		      Indicar maiores detalhes por meio de combinação com os auxiliares com hífen
+<06>27-278-31 Cristologia do Novo Testamento.
+<06>2-279		A religião conforme demonstrada nos textos sagrados. Prática religiosa.
+		      Indicar maiores detalhes por meio de combinação com os auxiliares com hífen
+<06>26-279-538 O sacrifício no Velho Testamento
+<06>2-28		Outros textos religiosos.
+<06>2-282		Obras litúrgicas. Textos litúrgicos.
+		      Esta classe permite a enumeração dos textos religiosos, se necessário. Normalmente 
+<04>os materiais litúrgicos se subordinam ao rito aos quais se referem
+<06>2-282.2	Obras litúrgicas abrangentes.
+<06>2-282.3	Credos e confissões de fé.
+<06>2-282.4	Catecismos. 
+<06>2-282.5	Livros de orações. Livros de preces.
+<06>2-282.7	Livros cerimoniais. Missais. Breviários.
+<06>2-283		Documentos históricos. Documentos de evidência. Registros históricos. Relatos 
+<04>contemporâneos. Cartas.
+<06>2-284		Obras de doutrina, de dogma. Artigos de fé. Teologia sistemática. Dogmática.
+		      Normalmente a doutrina de, digamos, uma prática, se subordina àquela prática; p.ex 
+<04>ex.: 27-549-284 A doutrina da Sagrada Comunhão. 2-284 pode ser usado para reunir 
+<04>todas as obras de doutrina, p. ex.: 27-284.549 A doutrina da Sagrada Comunhão.
+<06>2-285		Defesa e exposição da doutrina.
+		      Obras gerais, apenas. Normalmente subordinar ao assunto em discussão, usando 
+<04>combinação com hífen. Ver nota acima, em 2-284.
+<06>2-285.2		Apologética. 
+<06>2-285.4	Polêmica. 
+<06>2-286		Outras formas de texto religioso.
+<06>2-287		Sermões como uma das formas.
+<06>2-29		Literatura religiosa.
+		      Literatura imaginosa, destinada a apoiar a fé, ou contendo assuntos religiosos como
+<04>tema.
+<06>2-291		Poesia religiosa.
+<06>2-292		Drama religioso.
+<04>Peças religiosas. Ver 2-265.6 para drama ritual.
+<06>2-293.1	Romances religiosos.
+<06>2-3		Pessoas em religião.
+		      Funcionários religiosos, pessoas detentoras de autoridade na fé religiosa, etc., são
+<04>apresentadas sob a estrutura institucional da religião, em 2-725/-727. Há,
+<04>entretanto, algumas classes gerais de agentes que não se ligam dessa, forma com
+<04>determinada atividade religiosa; essas classes são apresentadas aqui.
+		      Geralmente falando, as pessoas deveriam subordinar-se à função que desempenham
+<04>por meio dos auxiliares comuns de pessoas, Tabela 1k; p. ex.:
+<06>2-468.6-051 Curandeiro = curar + pessoas
+<06>2-788-051 Monges = ordens monásticas + pessoas
+<06>2-31		O originador, fundador, figura central da religião.
+<06>2-312		A vida do fundador.
+<06>2-312.3	O nascimento, natividade.
+<06>2-312.4	A família do fundador.
+<06>2-312.45	O pai.
+<06>2-312.47	A mãe.
+<06>2-312.5	Outros indivíduos importantes.
+<06>2-312.55	Primeiros seguidores. Patrocinadores.
+<06>2-312.6	Iniciação. Conversão. Iluminação.
+<06>2-312.7	Ministério. Vida pública.
+<06>2-312.8	Morte. 
+<06>2-312.9	Acontecimentos após a morte.
+<06>2-313		Relíquias do fundador.
+<06>2-315		Relatos, material anedótico.
+<06>2-317		Memórias. Ditos. Feitos.
+<06>2-318		O fundador como modelo, exemplo.
+<06>2-32		O Messias.
+<06>2-33		Pessoas inspiradas.
+<06>2-335		Acadêmicos. Eruditos. Pensadores. Filósofos.
+<06>2-337		Reformadores. 
+<06>2-34		Mártires. 
+<06>2-35		Ascética. Eremitas. Faquires.
+<06>2-36		Santos. Boddhisatvas. Iluminados.
+<06>2-37		Mahatmas. Gurus. Sábios.
+<06>2-38		Carismáticos. Pessoas com poderes sobrenaturais.
+<06>2-382		Xamãs. Curandeiros. Pessoal médico. Feiticeiros.
+<09>256 Religião da Ásia central. Xamanismo.
+<06>2-384		Padres do culto. Sumos-sacerdotes.
+<06>2-386		Taumaturgos. Operadores de maravilhas.
+<06>2-39		Soberanos teocráticos. Reis escolhidos pela divindade.
+<06>2-4		Atividades religiosas. Práticas religiosas.
+<06>2-41		Comportamento e atividades sociais. Prática e observância religiosas não-formais.
+<06>2-42		Comportamento moral. Teologia moral. 
+		      A teologia moral se distingue da discussão teológica sobre a natureza do pecado, que
+<04>se encontra em 2-185.3. Esta classe diz respeito às ações da ética humana, como as noções 
+<04>de certo e errado, virtude e vício, em vez de à condição inerente de pecado
+<06>2-423		Certo e errado. Bem e mal.
+<06>2-423.3	Conhecimento do certo e do errado.
+<06>2-423.35	Consciência. Culpa.
+<06>2-423.4	Liberdade de ação. Livre-arbítrio.
+<06>2-423.42	Influências no exercício do livre-arbítrio.
+<06>2-423.44	Determinismo. 
+<06>2-423.45	Predestinação. 
+<06>2-423.47	Tentação. 
+<06>2-423.5	Malfeito. Pecado.
+<06>2-423.53	Origem, fonte do mal-agir.
+<06>2-423.55	Natureza do mal-agir. Natureza do pecado. Inclusive Gravidade do pecado.
+<06>2-423.57	Pecados específicos. 
+<06>2-423.57-184.3 Pecado contra a fé
+<06>2-423.58	Os sete pecados capitais. Pecados mortais.
+<06>2-423.59	Pecados veniais.
+<06>2-423.7	Bem. Virtude. O bem.
+<06>2-423.73	Origem do bem.
+<06>2-423.75	Natureza da virtude.
+<06>2-423.77	Virtudes específicas.
+<06>2-423.78	Virtudes cardeais.
+<06>2-423.79	Virtudes teologais. Inclusive A fé. A esperança. A caridade.
+<06>2-425		Sistemas éticos. Teoria da ética.
+		      Devem ser derivados da filosofia
+<06>2-425:17.023.6 Casuística. Situações éticas
+<06>2-425:17.026.4 Imperativo categórico. Ética kantiana
+<06>2-425:17.036.2 Utilitarismo
+<06>2-426		Ética religiosa. Ética diretamente derivada de sistemas religiosos.
+<06>2-427		Promoção informal da fé. A ação como exemplo ou embaixadora da fé.
+<06>2-428		Leis religiosas, obrigações, preceitos morais, leis morais. Regulamentos. Deveres
+<04>religiosos.
+		      Muitos desses não são particularmente de caráter “moral”, e, se necessário, serão
+<04>subordinados à prática religiosa a que se referem; assim, leis dietéticas, à prática
+<04>dietética
+<06>2-428.2	Natureza da lei religiosa.
+<06>2-428.3	Exigências da lei.
+<06>2-428.4	Proibições. 
+		      Para proibições específicas, usar combinação com dois pontos. P. ex.:
+<06>2-428.4:002 Livros proibidos
+<06>2-428.5	Obediência à lei.
+<06>2-428.6	Interpretação da lei.
+<09>256 Religião da Ásia central. Xamanismo.
+<06>2-428.7	Isenção da lei.
+<06>2-428.8	Transgressão da lei.
+<06>2-428.85	Mitigação. 
+<06>2-428.87	Indulgências. 
+<06>2-428.9	Emendas, revogação da lei.
+<06>2-43		Costumes e práticas sociais. Teologia social.
+		      Esta classe é vista como abrangendo a teologia pastoral, mas há uma distinção clara
+<04>entre comportamento social (como leis de alimento, costumes sexuais) e comportamento
+<04>pastoral (esmola, aconselhamento).
+<06>2-44		Comportamento social.
+<06>2-441		Auto-esvaziamento. Kenosis.
+<06>2-442		Alimento e dieta.
+<06>2-442.4	Leis sobre alimentos.
+<06>2-442.45	Requisitos da dieta. Limitações da dieta.
+<06>2-442.47	Abstinência. Jejum. Proibição.
+<06>2-442.5	Regras relativas a comidas e bebidas específicas.
+<06>2-442.5:637.5 Regras relativas a carne
+<06>2-442.5:663.2/.5 Regras relativas a bebidas alcoólicas
+<06>2-443		Higiene e aparência pessoais. Conduta pessoal.
+<06>2-443.3	Asseio. Ablução.
+<06>2-443.5	Roupas. Chapéus.
+<06>2-443.7	Corte, uso, arrumação do cabelo.
+<06>2-444		Relações sociais.
+<06>2-444.2		Amizades. 
+<06>2-444.4		Conversação. 
+<06>2-444.6		Silêncio. 
+<06>2-445		Costumes e rotinas domésticos.
+<06>2-446		Cuidados e tratamento médicos.
+<06>2-446:612.1 Atitudes com respeito a transfusão de sangue
+<06>2-446:615 Atitudes com respeito a drogas
+<06>2-447		Relações sexuais. Atividade sexual.
+<06>2-447.2		Separação dos sexos.
+<06>2-447.4		Castidade. Pureza.
+<06>2-447.6		Fidelidade sexual. Promiscuidade.
+<06>2-447.7		Abstinência. Celibato.
+<06>2-447.8		Prostituição. 
+<06>2-45		O casamento e a família.
+<06>2-452		A corte. Seleção dos parceiros do casamento. Noivado.
+<06>2-452.2	O contrato de casamento.
+<06>2-453		Os parceiros maritais.
+<06>2-453.2	Monogamia. 
+<06>2-453.5	Poligamia. Poliandria.
+<06>2-454		Divórcio. 
+<06>2-455		Filhos. 
+<06>2-456		Gravidez. 
+<06>2-456.2	Aborto. 
+<06>2-456.5	Parto. 
+<06>2-457		Paternidade. Maternidade.
+<06>2-457.5	Adoção. 
+<06>2-458		Substituto. 
+<06>2-46		Caridade. Auxílio aos outros. Atividades pastorais. Teologia pastoral em sentido lato.
+<06>2-462		Agências, instituições de cuidados pastorais e apoio.
+<06>2-463		Dádiva caridosa.
+<06>2-463.2	Dízimos. Mordomia.
+<06>2-463.4	Assistência aos mendigos.
+<06>2-463.6	Cessão de riqueza, de posses. Pobreza voluntária.
+<06>2-464		Apoio prático. Trabalho voluntário.
+<06>2-465		Aconselhamento. 
+<06>2-466		Visitas. 
+<06>2-467		Hospitalidade. 
+<06>2-468		Cuidados. Cuidados físicos e assistência.
+<06>2-468.2	Cuidados temporários, nas folgas.
+<06>2-468.4	Cuidados em domicílio.
+<06>2-468.45	Abrigo. Alojamento.
+<06>2-468.47	Albergues. Hospícios.
+<06>2-468.5	Cuidados de enfermeiros. Cuidados médicos.
+<06>2-468.6	Cura. 
+<06>2-468.65	Imposição das mãos.
+<06>2-47		Educação 
+<09>2-725:37 Educação.
+<06>2-472		Educação religiosa.
+<06>2-472-053.2 Educação religiosa para crianças. Escola dominical.
+<06>2-472.3	Preparação para a iniciação. Instrução religiosa. Inclusive Catecismo.
+<06>2-472.5	Educação religiosa contínua(da).
+<06>2-474		Estudo e interpretação das escrituras (para educação).
+<09>2-277 Interpretação. Compreensão. “Estudo da Bíblia”
+<06>2-475		Pregação (como educação e instrução).
+<09>2-766 Atividade evangélica. Evangelismo
+<06>2-475.2	Homilética. Teoria da pregação.
+<06>2-475.5	Sermões. 
+		      Ver 2-287 para sermões como forma.
+<06>2-48		Objetos dos cuidados pastorais. Tipos e grupos sociais.
+<06>2-482		Crianças. 
+<06>2-483		Pessoas de idade avançada. Idosos.
+<06>2-484		Vítimas. 
+<06>2-484.3	Vítimas de crime.
+<06>2-484.5	Vítimas de guerra.
+<06>2-484.7	Grupos oprimidos. Teologia da libertação.
+<06>2-484.75	Pessoas oprimidas religiosa e politicamente.
+<06>2-485		Grupos minoritários.
+<06>2-485.5	Minoria étnica.
+<06>2-486		Enfermos. 
+<06>2-486.3	Doentes mentais.
+<06>2-486.5	Doentes físicos.
+<06>2-486.7	Inválidos. 
+<06>2-487		Moribundos. 
+<06>2-488		Outros grupos em desvantagem.
+<06>2-488.2	Necessitados. Pobres.
+<06>2-488.3	Sem-teto. 
+<06>2-488.4	Sem-emprego. 
+<06>2-488.5	Desamparados. 
+<06>2-488.6	Prisioneiros. 
+<06>2-488.65	Famílias dos prisioneiros.
+<06>2-488.7	Viúvas e órfãos.
+<06>2-488.8	Estrangeiros. Alienígenas. Forasteiros.
+<06>2-488.85	Refugiados. 
+<06>2-5		Adoração em sentido amplo. Culto. Ritos e cerimônias.
+<06>2-52		Agentes do culto.
+<06>2-522		Sítios religiosos, lugares. Lugares santos.
+<06>2-522.2	Situação, posição, localização, orientação.
+<06>2-522.4	Lugares de espiritualidade particular, de santidade.
+<06>2-522.5	Lugares associados ao espiritual.
+<06>2-522.52	Lugares de visões.
+<06>2-522.54	Lugares de martírio.
+<06>2-522.58	Lugar do nascimento de pessoas santas.
+<06>2-523		Edifícios para uso religioso.
+<06>2-523.2	Partes dos edifícios. Cômodos. Áreas.
+<06>2-523.3	Monumentos. Santuários.
+<06>2-523.4	Centros de culto (significado religioso).
+		      Para arquitetura religiosa, ver 726.
+<06>2-523.41	Principais centros de culto. Inclusive Principais templos, mesquitas, catedrais.
+<06>2-523.42	Centros de culto locais e da periferia. Inclusive Templos. Mesquitas. Igrejas paroquiais.
+<06>2-523-43	Centros de culto pequenos, simples ou austeros. Inclusive Santuários e capelas 
+<04>independentes.
+		      Para santuários que não são constituídos por prédios, ver 2-523.3
+<06>2-523.44	Santuário. Área sagrada.
+<06>2-523.45	Denominação. Dedicação.
+<06>2-523.46	Cômodos laterais. Capelas.
+<06>2-523.47	Anteparos. 
+<06>2-523.472	Portas. 
+<06>2-523.48	Cômodos funcionais. Cômodos dos paramentos. Sacristia.
+<06>2-523.5	Estruturas auxiliares, anexas
+<06>2-523.6	Mosteiros. Prédios comunitários.
+<06>2-523.8	Prédios com finalidades profanas.
+<06>2-524		Meios para os atos do culto.
+<06>2-524:536.46 Fogo
+<06>2-524:612.1 Sangue
+<06>2-524:662 Cinza
+<06>2-524-032.2 Água
+<06>2-524-035.8 Óleo
+<06>2-525.2 Incenso.
+<06>2-525.4	Vestes. Roupa. Paramentos.
+<06>2-525.5	Incenso.Máscaras. 
+<06>2-525.6	Adornos para a cabeça.
+<06>2-525.7	Tecidos usados na religião. Tapeçarias e ornatos de pano. Têxteis.
+<06>2-526		Objetos do culto. Mobiliário e decoração.
+<06>2-526.1	Móveis. Estrados. Estantes.
+<06>2-526.2	Altares. Mesas.
+<06>2-526.3	Recipientes. Vasos sagrados. Cálices. Píxides.
+<06>2-526.4	Auxílios para o devoto. Rosários. Rodas do orante (caixa cilíndrica giratória com orações
+<04>gravadas).
+<06>2-526.5	Luzes. 
+<06>2-526.6	Símbolos. Imagens.
+<06>2-526.62	Símbolos pictóricos. Ícones.
+<06>2-526.63	Dispositivos e objetos decorativos.
+<06>2-526.64	Estatuária. Estátuas.
+<09>730 Escultura em geral. Estatuária.
+<06>2-526.65	Monumentos funerários. Túmulos e pedras tumulares. Monumentos comemorativos.
+<06>2-526.7	Relíquias. Relicários. Recipientes para objetos religiosos.
+<06>2-526.8	Objetos usados no corpo. Amuletos. Berloques. Talismãs.
+<06>2-526.9	Instrumentos musicais no culto.
+		      Como parte do ritual; p. ex: trompas, sinos, campainhas, shofar. Ver 2-535 para 
+<04>música religiosa.
+<06>2-528		Liturgia. 
+		      Apenas abordagens gerais da liturgia. Textos litúrgicos devem subordinar-se aos ritos 
+<04>e cerimônias a que se referem, usando 2-282. P. ex.: 272-555-282 Textos da cerimônia    
+<04>católica do casamento. Alternativamente 2-282 pode ser usado sozinho para reunir todos
+<04>os textos litúrgicos de uma religião
+<06>2-528.5	Formas de rito. Ofício.
+<06>2-53		Atos de culto (pelos participantes).
+<06>2-532.2	Culto público. Culto comunitário. Funções (Geralmente presumidas). 
+<06>532.2“345” Funções noturnas. Vigílias
+<06>2-532.24	Cerimonial. Cerimônias em escala grandiosa.
+<06>2-532.26	Cerimônias do Estado.
+<06>2-532.28	Parcialmente públicas.
+<06>2-532.3	Observâncias domésticas.Culto familiar. Culto doméstico.
+<06>2-532.4	Culto pessoal. Devoções particulares.
+<06>2-532.5	Culto secreto (por grau de obrigação).
+<06>2-532.6	Compulsório. Obrigatório.
+<06>2-532.7	Recomendado. 
+<06>2-532.8	Voluntário. Opcional.
+<06>2-533		(Objeto do culto). 
+		      Usar combinação de dois pontos com os números de toda a classificação.
+<06>2-533-312.47 Mariolatria
+<06>271-533-526.62 Veneração de imagens (ícones) na igreja ortodoxa.
+<06>2-534		Forma dos ritos, do culto (oral).
+<06>2-534.2	Chamado ao culto, à prece.
+<06>2-534.3	Prece. 
+<06>2-534.35	Preces específicas.
+<06>2-534.4	Leitura de textos.
+<06>2-534.5	Cânticos. Encantamentos. Magias.
+<06>2-534.6	Profecia. 
+<06>2-534.7	Glossolalia. Falas em êxtase. Ato (dom) de falar línguas.
+<06>2-535		Música no culto.
+		      O lugar preferido para música religiosa é em 783.
+		      Música segundo a função e o objetivo, em geral subordinada à função; p. ex:,
+<06>2-555-535 Música de casamento. Essa localização pode ser usada para reunir obras
+<04>de música, se necessário
+<06>2-535.2	Canto solo.
+<06>2-535.3	Música coral.
+<06>2-535.35	Cânticos. Cantochão. Canto gregoriano.
+<06>2-535.36	Cânticos antifonais.
+<06>2-535.4	Música congregacional. Canto público. Canto comunitário.
+<06>2-535.5	Música instrumental.
+<06>2-535.6	Acompanhamentos musicais litúrgicos.
+<06>2-535.65	De textos.
+<06>2-535.67	De cerimônias.
+<06>2-535.7	Hinos. 
+		      Esta classe pode ser usada para reunir coleções de hinos e hinologia, se se desejar 
+<04>fazê-lo.
+<06>2-535.7:631.5 Hinos da colheita
+<06>2-535.7-23 Hinos baseados em textos de livros sagrados.
+<06>2-535.7-544.5 Hinos de ação de graças
+<06>2-535.75	Antífonas. 
+<06>2-535.8	Salmos. 
+<06>2-535.85	Salmos metrificados.
+<06>2-535.9	Obras de música religiosa. Oratórios. Cantatas.
+<06>2-536		Ritos e cerimônias físicos.
+<06>2-536.1	Lavadura. Ablução. Imersão em água.Aspersão com água.
+<06>2-536.2	Emprego de outros materiais e substâncias.
+<06>2-536.25	Óleo. Sagração. Unção.
+<06>2-536.27	Incenso. Queima de incenso. Incensação
+<06>2-536.3	Posturas. 
+<06>2-536.32	Orientação. 
+<06>2-536.34	Reverência. Flexão.
+<06>2-536.35	Ato de ajoelhar-se. Genuflexão.
+<06>2-536.36	Prostração. 
+<06>2-536.37	Imposição das mãos.
+<09>2-468.65Imposição das mãos.
+<06>2-536.4	Gestos simbólicos.
+<06>2-536.5	Procissão. 
+<06>2-536.6	Dança. 
+<06>2-536.65	Drama. Representação simbólica.
+<06>2-536.7	Comida. Ritos e cerimônias associadas a comida.
+<06>2-536.72	Comida compartilhada. Refeição ritual. Fração do pão.
+<06>2-536.74	Jejum ritual. Abstinência de comida.
+<09>2-442.7 Abstinência. Jejum. Proibição.
+<06>2-536.76	Bebida. 
+<06>2-536.765	Poções. 
+<06>2-536.8	Marcas no corpo.
+<06>2-536.82	Marcas e cicatrizes rituais.
+<06>2-536.84	Perfurações no corpo.
+<06>2-536.86	Circuncisão. 
+<06>2-536.9	Controle do corpo.
+<06>2-536.92	Resistência à dor.
+<06>2-536.94	Caminhada sobre fogo.
+<06>2-536.96	Levitação. 
+<06>2-537		Oferendas. 
+<06>2-537:58 Oferendas vegetais
+<06>2-537:59 Oferendas de origem animal
+<06>2-537:599.89 Humanas
+<06>2-537:633.1 Oferendas de alimento
+<06>2-537-032.2 Libações
+<06>2-538		Sacrifícios. 
+<06>2-538.2	Oferendas queimadas.
+<06>2-538.4	Oferendas inteiras queimadas.
+<06>2-538.6	(Segundo o tema do sacrifício).
+<06>2-538.6:599.89 Sacrifício humano
+<09>392.89 Canibalismo. Antropofagia. Ato de comer carne humana.
+<06>2-54		Cerimônias segundo o objetivo.
+<06>2-542.3	Pessoal. 
+<06>2-542.5	Altruístico. 
+<06>2-542.7	Vicário. 
+<06>2-543.2	Homenagem. Adoração. Veneração. Culto em sentido estrito.
+<06>2-543.3	Profissão de fé. Credo. Confissão de fé.
+<06>2-543.4	Intercessão. Influência.
+<06>2-543.5	Propiciação. 
+<06>2-543.6	Petição (segundo o assunto do pedido).
+<06>2-543.6:551.578.1 Chuva.
+<06>2-543.6:57.017.5 Fertilidade
+<06>2-543.7	Confissão dos pecados.
+<06>2-543.8	Penitência. Arrependimento.
+<06>2-544.2	Expiação. Reparação.
+<06>2-544.25	Bode expiatório
+<06>2-544.3	Absolvição. Perdão.
+<06>2-544.4	Purificação. Catarse.
+<06>2-544.5	Ação de graças.
+<06>2-544.55	Comemoração. 
+<06>2-544.6	Dedicação. Votos. Promessa.
+<06>2-544.7	Conhecimento. Iluminação. Discernimento.
+<06>2-544.8	Conhecimento de acontecimentos. Adivinhação. Presságio. Predições. Oráculos.
+<06>2-545		Controle de eventos. Magia.
+<06>2-545.2	Magia simpática.
+<06>2-545.3	Magia contagiosa.
+<06>2-545.5	Homeopática. Ritos imitativos.
+<06>2-545.6	Que prende e que liberta.
+<06>2-545.7	Ritos geradores.
+<06>2-546.2	Bênção. Santificação. Consagração.
+<06>2-546.4	Maldição. Anátema. Excomunhão. Profanação.
+<06>2-546.6	Dessagração 
+<06>2-547		Evocação. “Convocação” dos espíritos.
+<06>2-547.5	Evocação dos mortos. Necromancia.
+<06>2-548		Eliminação. Desprofanação. Expulsão.
+<09>2-544.25 Bode expiatório
+<06>2-548.5	Exorcismo. 
+<06>2-549		Comunicação com a divindade.Comunhão com a divindade.
+<06>2-549.2	Evocação da divindade.
+<06>2-549.3	Chegada da divindade. Presença da divindade.
+<06>2-549.4	Assimilação da divindade.
+<06>2-549.6	Partida da divindade.
+<06>2-55		Sacramentos. Sacramentais.
+		      Conquanto haja diferença de uma religião para outra, o conceito de 
+<04>		      sacramentos é inerente a muitas crenças. Cada sacramento vem
+		      especificado, mas a lista é mais abrangente do que exige qualquer uma 
+		      das religiões.
+<06>2-552		Ritos de passagem. Estágios na vida.
+<06>2-553		Nascimento. 
+<06>2-553.2	Pré-natal. Pré-nascimento.
+<06>2-553.3	Perinatal. 
+<06>2-553.4	Pós-natal. 
+<06>2-554		Adolescência. Puberdade. Transição para a idade adulta.
+<06>2-555		Noivado. Casamento. Cerimônias de casamento.
+<06>2-555.5	Procriação. Fertilidade. Parto.
+<06>2-556		Velhice. 
+<06>2-557		Morte. Cerimônias fúnebres.
+<06>2-557.5	Cerimônias de desembaraço. Sepultamento. Cremação.
+<06>2-558		Estágios da vida espiritual.
+<06>2-558.2	Iniciação. 
+<06>2-558.3	Batismo. Cerimônias de atribuição de nome.
+<06>2-558.4	Confirmação. Reinicio da vida adulta.
+<06>2-558.5	Ordenação. Ingresso no sacerdócio.
+<06>2-558.6	Beatificação. 
+<06>2-558.7	Canonização. 
+<06>2-558.8	Expulsão. Excomunhão.
+<06>2-559		Coroação. Entronização.
+<06>2-56		Celebração. 
+<06>2-562		Festas e Festividades. Dias santos.
+		      Por características específicas.
+		      Elaborar a síntese empregando os auxiliares comuns, os auxiliares especiais e
+<04>combinação com dois pontos
+<06>2-562:631.5 Festas da colheita
+<06>2-562“321” Festas da Primavera
+<06>2-562-31 Nascimento do fundador
+<06>2-563		Dias especiais da semana. Dias de descanso. Sábado judaico.
+<06>2-563.5	Tempos especiais do dia. Horas de prece. Horas de culto.
+<06>2-564		Calendário religioso. Ano religioso.
+<06>2-565		Festas pelo nome.
+		      Especificar por meio da extensão alfabética A/Z (Tabela 1h).
+<06>2-567		Anos especiais. Anos santos. Anos sabáticos. Jubileus.
+<06>2-57		Peregrinação. 
+		      Lugar da peregrinação: usar os auxiliares comuns de lugar, Tabela 1e.
+		      Objetivo da peregrinação: indicar por meio de combinação com hífen e 
+		      o restante da classe.
+<06>2-57-543.8 Peregrinação penitencial
+<06>2-57(532) Peregrinação islâmica a Meca
+<09>2-522 Sítios religiosos, localização. Lugares santos
+<06>2-58		Religião de contemplação e reflexão.
+<06>2-58-2 Literatura devocional
+<06>2-58-282.5 Livros pessoais de preces.
+<06>2-582		A experiência religiosa.
+<06>2-583		Meditação. Contemplação. Prece no sentido pessoal.
+<06>2-584		A vida espiritual.
+<06>2-584.5	Crescimento e desenvolvimento espirituais.
+<06>2-584.7	Exercícios espirituais.
+<06>2-585		Ascetismo. 
+<06>2-585.5	Abnegação. 
+<06>2-585.7	Mortificação da carne.
+<06>2-586		Retirada. Recuo.
+<06>2-586.5	Eremitério. Isolamento.
+<06>2-587		Misticismo. Estados alterados da consciência. Experiências místicas.
+<06>2-587-184.27 Experiências místicas falsas
+<06>2-587.3	Transes. 
+<06>2-587.5	Visões. 
+<06>2-587.6	Fenômenos místicos.
+<06>2-587.65	Estigmas. 
+<06>2-587.7	Experiência direta do divino.
+<06>2-6		Processos em religião.
+		      A maioria das atividades em religião encontrar-se-á sob os cabe-
+		      çalhos de operações (prática religiosa, observância, ritual, admi-
+		      nistração das igrejas, cuidados pastorais, missões, etc.). Alguns termos muito 
+		      mais gerais que denotam atividade tratam da dinâmica interna das religiões e de
+<04>suas relações umas com as outras. Essas ações, bem menos concretas e
+		     internalizadas, são analisadas como “processos”. Embora alguns digam res-
+		     peito a desenvolvimento, não devem, entretanto, ser vistos como históricos
+		     (a história de um assunto está mais do que adequadamente tratada pela CDU 
+		     através da aplicação dos auxiliares comuns e do emprego criterioso dos dois 
+		     pontos).
+<06>2-63		Processos de desenvolvimento. Processos internos.
+<06>2-632		Origem da fé. Gênese.
+<06>2-633		Evolução. Desenvolvimento.
+<06>2-635		Crescimento. Expansão.
+<06>2-636		Reflorescimento. Rejuvenescimento. Renascimento.
+<06>2-637		Morte. Extinção.
+<06>2-64		Processos relativos. Processos externos. Interação entre crenças religiosas.
+<06>2-65		Comparação. 
+		      Uma advertência sobre o emprego do termo “Religião comparada”. Esse 
+		      termo geralmente significa abrangente, e não comparada; as obras sobre 
+		      religião comparada ainda são, geralmente, descritivas quanto à natureza,
+		      tradicionalmente usadas quando se lida com religião não-cristã, e a maior
+		      parte da literatura refletirá esse fato. Por conseguinte, o termo “comparação”
+<04>deve ser empregado em um sentido conservador
+<06>2-66		Influência. 
+<06>2-662		Influência sobre. Efeito sobre.
+<06>2-663		Dependência. 
+<06>2-664		Influenciado por.
+<06>2-664.3	Sincretismo. Empréstimo.
+<06>2-664.5	Assimilação. 
+<06>2-67		Relações entre religiões, ou delas com a sociedade em geral. Religião e sociedade.
+<09>322 Relações entre Igreja e Estado. Política relativa à religião. Política da  
+<04>Igreja.
+<06>2-672		Isolamento. Separação.
+<06>2-673		Coexistência. 
+<06>2-673.5	Tolerância. 
+<06>2-674		Conflito. Antagonismo. Hostilidade.
+<06>2-674.5	Perseguição. 
+<06>2-675		Diálogo. Ecumenismo.
+<06>2-676		Cooperação. 
+<06>2-677		Intercomunhão. 
+<06>2-678		Integração. Fusão. Amálgama.
+<06>2-679		Re-união. 
+<06>2-7		Organização e administração religiosas.
+		      Tudo o que tem a ver com a estrutura e a organização de uma religião.
+<04>Subordinadas à estrutura estão as atividades associadas ao gerenciamento
+		      e à administração das igrejas, religiões e movimentos.
+<06>2-72		Natureza e estrutura da religião organizada, da igreja. Eclesiologia.
+<06>2-72-1 Doutrina da entidade religiosa, da igreja
+<06>2-72-133/-134 Origem e natureza da igreja
+<06>2-72-144 Características da igreja
+<06>2-72-4 Prática da religião. Costume e tradição religiosos
+<06>2-722		Pessoas em religião.
+		      Normalmente as pessoas em religião, com funções específicas, estarão 
+<04>subordinadas à função que desempenham, e serão representadas através 
+<04>do emprego dos auxiliares comuns de pessoas, Tabela 1k. P. ex.:
+<06>2-544.8 Adivinhos.
+<06>2-76-051 Missionários.
+		     Este local é usado para lidar com material sobre o “clero” ou funcionários 
+<04>desse grupo, de uma forma geral, e para prover uma única classe onde reunir
+<04>tal literatura
+<06>2-725		Funcionários da religião. Padres. Ministros. Líderes.
+		      A maioria dos detalhes nesta classe será fornecida pela combinação com hífen
+<04>ou dois pontos e as classes principais apropriadas.
+<06>2-725:331.2 Apoio financeiro. Salários. Estipêndios
+<06>2-725:332.8 Apoio físico. Moradia
+<06>2-725:37 Educação e treinamento do clero
+<06>2-725:377 Escolas de treinamento. Seminários.
+<06>2-725-428 Obrigações
+<06>2-725-447.7 Celibato dos padres
+<06>2-725-45 Casamento dos padres
+<06>2-725-544.6 Votos
+<06>2-725-584 Vida espiritual
+<06>2-726		Níveis de liderança
+<09>Chefe da religião
+<06>2-726.1	Arcebispos. Metropolitanos.
+<06>2-726.2	Superior. Bispos. Abades.
+<06>2-726.3	Padres. Ministros.
+<06>2-726.4	Diáconos. Ministros assistentes.
+<06>2-726.5 Ajudantes leigos.
+<06>2-726.6	Laicato em geral. Pessoas leigas. Aderentes.
+<06>2-726.7	Os mais velhos. Membros mais antigos (leigos ou ministros).
+<06>2-727		Não-adeptos da religião. Não-crentes.
+<06>2-73		Governo da religião.
+<06>2-732		Autoridade da igreja (Agentes da autoridade).
+<06>2-732-31 Autoridade do fundador
+<06>2-732.1	Fonte de autoridade
+<06>2-732.2	Chefe da religião.
+<06>2-732.3	Órgãos reguladores. Sínodos. Assembléias. Reuniões.
+<06>2-732.3-284 Doutrina, julgamento de sínodos e concílios
+<06>2-732.4	Concílios. Órgãos reunidos com objetivos de estabelecer doutrina e prática.
+<06>2-732.5	Autoridade dos funcionários, dos padres.
+<06>2-732.6	Leigos. Adeptos.
+<06>2-733		Profissão religiosa. Vocação.
+<06>2-735		Gerenciamento e administração.
+		      Os detalhes nesta classe serão geralmente proporcionados pela combinação 
+<04>com dois pontos
+<06>2-735:336 Bens temporais. Riqueza da igreja
+<06>2-735:347.23 Propriedades da igreja, terras, patrimônio
+<06>2-735:657 Contabilidade
+<06>2-735:658.14/.17 Assuntos financeiros
+<06>2-735:658.3 Administração de pessoal
+<06>2-736		Outras instituições, agências, organizações dentro da religião ou da igreja.
+<06>2-737		Congregações. Adoradores.
+<06>2-74		Administração do direito. Direito religioso. Direito canônico.
+		      Em muitos casos, o direito religioso trata apenas da disciplina dentro da
+<04>religião; nesse caso, a maioria dos detalhes pode ser obtida pela combinação
+<04>de hífen com outras partes da Classe 2. Direito religioso pode também,
+<04>entretanto, ser a Lei da  Terra; nesse caso, foram tomadas providências que
+<04>permitem anexar detalhes da Classe 34, se desejado.
+<06>2-74-67 O direito religioso e o direito da terra
+<09>348 Direito eclesiástico. Direito canônico. Direito religioso.
+<06>2-741		Teoria do direito canônico. Jurisprudência religiosa.
+<06>2-742		Fontes do direito
+<06>2-742-14 Inspiração divina. Deus como fonte
+<06>2-742-23 Textos. Textos religiosos
+<06>2-742:266 Códigos de leis.
+<06>2-742:267 Comentário e interpretação. Textos legais
+<06>2-744		Prática e procedimento legais.
+<06>2-746		Julgamentos religiosos.
+<06>2-747		Sujeitos do direito.
+<06>2-747:342 Direito público
+<06>2-747:343 Direito criminal, penal
+<06>2-747:347 Direito civil. Direito privado
+<06>2-747:347.2 Direito de propriedade
+<06>2-747:347.6 Direito de família
+<06>2-747-1/-9	Tópicos do direito religioso.
+		      Em geral o direito de conceitos específicos como os abaixo deve ser 
+<04>considerado como indistinguível/indissociável do costume e da praxe, e
+<04>colocado junto com a praxe; as exceções devem ser os casos em que 
+<04>o assunto em discussão é claramente o próprio direito
+<06>2-747-1/-9-442 Leis sobre dieta
+<06>2-747-1/-9-443 Leis sobre higiene pessoal
+<06>2-75		Educação. 
+		      Educação como função da igreja central, da religião.
+		      Para educação no nível local, inclusive instrução religiosa e escolas
+<04>dominicais, ver 2-47 e suas subdivisões
+<06>2-752		Educação secular. Escolas, fundações religiosas.
+<06>2-754		Educação terciária. Faculdades associadas à religião.
+<06>2-756		Educação superior. Universidades baseadas em religião.
+<06>2-76		Recrutamento. Atividade missionária. Missões em sentido amplo. Missiologia.
+<06>2-76-051 Missionários
+<06>2-76-736 Sociedades missionárias
+<06>2-762		Obra missionária. Formas de atividade missionária.
+<06>2-763		Campanhas. Cruzadas.
+<06>2-764		Missões no estrangeiro. Missões no sentido estrito.
+<06>2-765		Propaganda. Propaganda religiosa. Publicidade.
+<06>2-766		Atividade evangélica. Evangelismo.
+<09>2-475 Pregação (como educação e instrução)
+<06>2-767		Proselitismo. Conversão.
+<06>2-768		Conversão forçada. Conversão pela espada. Imposição da fé. Guerra santa.
+<06>2-769		Conquista religiosa.
+<06>2-77		Estrutura organizacional da fé, da religião.
+<06>2-771		Níveis administrativos.
+<06>2-772		Nível mais alto.
+<06>2-773		Intermediário. Organização regional. Diocese. Circunscrição.
+<06>2-774		Local. Paróquias. Comunidades locais. Grupos locais.
+<06>2-775		Vizinhança. Grupos domésticos. Grupos informais.
+<06>2-78		Organizações religiosas. Sociedades e associações religiosas.
+<06>2-78-028.85 Organizações religiosas proibidas, banidas<09>35.078.17
+<06>2-78-05 Organizações religiosas para determinadas pessoas
+<06>2-78-055.2 Grupos religiosos femininos
+<06>2-78-053.2 Organizações religiosas de crianças
+<06>2-78-46 Associações religiosas segundo as atividades ou finalidade
+<06>2-784-463 Instituições religiosas beneficentes
+<06>2-784-468.5 Agências e organizações religiosas de natureza médica
+<06>2-784-488.85 Organizações religiosas para refugiados
+<06>2-784		Grupos religiosos e ordens leigas não definidos pela objetivo ou tipo de membros.
+		      Esses são numerosos. O tratamento preferido deve ser religião – grupos 
+<04>religiosos – A/Z
+<06>233-784VHP Visva Hindu Parisad (VHP)
+<06>26-784BNA Bnai Brith
+<06>27-784ROS Rosacruz
+<06>2-784.5	Sociedades secretas
+<06>2-788		Ordens religiosas propriamente ditas. Ordens monásticas. Monaquismo.
+<04>(Pessoas em ordens religiosas)
+<06>2-788-055.1 Monges
+<06>2-788-055.2 Freiras
+<06>2-788-1/-9	Religião e prática monásticas.
+<06>2-788.2	Ordens de clausura. Separadas do mundo.
+<06>2-788.3	Ordens mendicantes.
+<06>2-788.4	Ordens trabalhadoras.
+<06>2-788.435	Militantes, militares.
+<06>2-788.437	Docentes 
+<06>2-788.461	Médicas, enfermeiras, assistentes sociais. Hospitalários.
+<06>2-788.5	Ordens celibatárias.
+<06>2-788.6	Ordens silenciosas.
+<06>2-789		Ordens monásticas por nome
+<06>2-79		Seitas. Movimentos sectários.
+		      Geralmente, quando relevantes, serão especificados ou enumerados
+<04>como subclasses de determinada religião.Usar este local para obras
+<04>gerais sobre movimentos sectários, ou quando a seita em questão não 
+<04>estiver especificada de outra forma.
+<06>2-8		Religiões caracterizadas por diferentes propriedades.
+		      Não é recomendável usar esta faceta para a formação de classes
+<04>compostas que deveriam, na verdade, ser enumeradas como subclasses
+<04>de uma religião;p. ex., Cristandade Ortodoxa, Judaísmo reformado 
+<04>deveriam ser vistos como divisões relevantes da religião e ser tratados 
+<04>como movimentos independentes.
+<04>A sutileza e complexidade das relações entre os movimentos religiosos 
+<04>não fazem concessão aos resultados simplistas obtidos por análise de 
+<04>faceta excessivamente rigorosa onde claramente ela não cabe
+<06>2-81		Classificação das religiões.
+<04>(Propriedades derivadas de facetas anteriores)
+<06>2-81-154 Religiões monoteístas.
+<06>2-81-22 Religiões reveladas
+<06>2-81-26-23 “Religiões do Livro”
+<06>2-82		Propriedades relacionadas com o ministério.
+<06>2-823		Religiões com estrutura hierárquica, níveis de ministério. “Episcopaliana”.
+<06>2-824		Religiões com ministros, padres. “Presbiteriana”.
+<06>2-825		Religiões sem ministros, padres. “Congregacional”.
+<06>2-83		Propriedades relacionadas com ortodoxia.
+<06>2-832		Ultra-ortodoxos. 
+<06>2-833		Ortodoxos. 
+<06>2-834		Heterodoxos 
+<06>2-835		Moderados. 
+<06>2-836		Reformados. 
+<06>2-837		Liberais. 
+<06>2-838		Reconstruídos. 
+<06>2-84		Propriedades relacionadas com o estado.
+<06>2-842		Religiões nacionais.
+<06>2-844		Igrejas estabelecidas. Religiões do estado.
+<06>2-846		Religiões de regiões ou países específicos.
+		      Usar auxiliares comuns de lugar, Tabela 1e, para detalhes.
+<06>2-846(1-773) Religiões do Terceiro Mundo
+<06>2-846(519) Religiões da Coréia
+<06>2-85		Propriedades relacionadas com o grau de burocracia.
+<06>2-852		Oficial. Corrente principal.
+<06>2-852.5	Filosofias. Escolas de pensamento.
+		      Usar para facções, grupos reconhecidos dentro de uma religião.
+<06>2-853		Popular. Religião popular. Religiosidade popular.
+<06>2-853.5	Superstição. 
+<09>133 O paranormal. O oculto. O fenômeno Psi
+<09>398 Folclore no sentido estrito
+<06>2-854		Dissidente. 
+<06>2-855		Separatista. 
+<06>2-856		Não-oficial. 
+<06>2-86		Grupos de facções. Facções.
+		      Grupos que são parte reconhecida de uma religião central, mas que
+<04>formam entidade separada distinta e identificável. 
+<04>Há uma distinção clara entre facções dissidentes no seio de uma 
+<04>religião, e as que se separaram, classificadas em 2-856. Classificar aqui 
+<04>as que divergem fortemente em matéria de teologia e de doutrina. As 
+<04>últimas devem ser vistas como heresias ou cismas, e devem ser 
+<04>classificadas em 2-87
+<06>2-87		Grupos cismáticos. Heresias.
+		      Grupos que estão em disputa com a maior parte da religião ou não 
+<04>aceitam doutrinas importantes.
+<06>2-9		História da crença, religião, denominação ou igreja
+<09>Divisões principais
+
+<01>21/29	
+<02>Sistemas religiosos. Religiões e crenças.
+<04>Existem inúmeros critérios para definir o que constitui uma religião; 
+<04>neste arranjo foi considerado que, no nível mais abrangente, uma 
+<04>religião é um sistema que possui algum reconhecimento de uma
+<04>dimensão espiritual ou  sobrenatural em sua visão do mundo.
+<04>O arranjo fundamental é histórico, mas dentro deste as religiões são
+<04>organizadas em grupos de famílias, i.e., Hinduismo, Jainismo, 
+<04>Sikhismo. Surgem problemas na colocação de grupos “novos” que 
+<04>possuem raízes em  religiões antigas, mas que se consideram a si 
+<04>próprios como independentes.Isso fica particularmente claro no caso
+<04>de movimentos do século XX. Como regra geral, auto-definição é aceita 
+<04>como autoridade Para auxiliar o indexador, e para acomodar um 
+<04>número enorme de termos  especializados da literatura religiosa, 
+<04>proporcionou-se um grande número de exemplos de combinação no 
+<04>caso de um grupo de religiões e crenças. 
+<04>Pretende-se que o indexador use esses exemplos como padrão para 
+<04>o desenvolvimento das classes de todas as outras religiões, caso 
+<04>necessário.
+
+<01>21	
+<02>Religiões pré-históricas e primitivas.
+
+<01>212	
+<02>Religiões pré-históricas.
+
+<01>213	
+<02>Religiões primitivas.
+		      Em geral apenas a classe abrangente deve ser usada, e nenhum 
+<04>movimento específico deve ser localizado aqui
+
+<01>22	
+<02>Religiões que tiveram origem no Extremo Oriente.
+
+<01>221	
+<02>Religiões da China.
+<06>221-853 Religião popular da China. Religião popular chinesa
+
+<01>221.3	
+<02>Taoísmo.
+
+<01>221.5	
+<02>Confucionismo.
+
+<01>223	
+<02>Religiões da Coréia.
+
+<01>225	
+<02>Religiões do Japão.
+
+<01>225.2	
+<02>Xintoísmo.
+
+<01>225.22	
+<02>Seicho-no-ie
+
+<01>225.24	
+<02>Sekai Kyuseikyo.
+
+<01>225.26	
+<02>Zenrinkai.
+
+<01>225.27	
+<02>Tensho Kotai Kingukyo.
+
+<01>225.28	
+<02>Ennokyo.
+
+<01>23	
+<02>Religiões originárias do subcontinente indiano. Religião hindu em sentido 
+<04>amplo.
+		      O Hinduísmo é extremamente difícil de definir. O Vedismo e o
+<04>Bramanismo podem ser considerados a religião do período arcaico, e como 
+<04>regra geral deve ser usado 233 para obras sobre o Hinduísmo.
+
+<01>231	
+<02>Vedismo.
+
+<01>232	
+<02>Bramanismo.
+
+<01>233	
+<02>Hinduísmo em sentido estrito.
+		      A autoridade em matéria de vocabulário, de ortografia e de 
+<04>definições, é Klostermaier, K. Hinduism. Oxford: Oneworld, 1998.
+<09>Subdivisões auxiliares especiais
+<06>233-13		O Santo. Brama. O ser absoluto.
+<06>233-14		Deus(es) e deusa(s).
+<06>233-158D	Devi. 
+<06>233-158G	Ganesh. 
+<06>233-158K	Kali. 
+<06>233-158S	Siva. 
+<06>233-158V	Vixnu. 
+<06>233-158V-144.2 Milhares de nomes de Vixnu
+<06>233-158V-144.8 O Senhor Vixnu
+<06>233-158V-145.25 Vixnu, o protetor
+<06>233-166	Encarnações. Avatares. Manifestações.
+<06>233-166K	Krishna. 
+<06>233-166R	Rama. 
+<06>233-167	Seres espirituais.
+<06>233-167.62	Asuras. Demônios.
+<06>233-167.8	Seres semidivinos. Apsaras. Ninfas.
+<06>233-17		O universo.
+<06>233-172.4	Asat. Estado antes da criação.
+<06>233-175	O fim do mundo.
+<06>233-175.4	Pralaya. Aniquilação. Dissolução universal.
+<06>233-18		O homem. A humanidade.
+<06>233-183	Atman. A alma individual.
+<06>233-184	Anugraha. A graça.
+<06>233-185	A vida humana.
+<06>233-185.2	O sofrimento.
+<06>233-185.3	Adharma. Falta de retidão. Iniqüidade. Pecado.
+<06>233-186	A morte.
+<06>233-187	A vida após a morte.
+<06>233-187.5	A reencarnação.
+<06>233-187.55	Samsara. O ciclo nascimento e renascimento.
+<06>233-187.6	Mukti. Moksa. A libertação da alma.
+<06>233-187.79	Aprakrta sarira. O corpo imaterial.
+<06>233-187.8	Ananda. Cessação do ser.
+<06>233-188	Reinos espirituais.
+<06>233-188.5	Pitra loka. O mundo dos antepassados.
+<06>233-188.7	Narakas. Infernos.
+<06>233-188.75	Preta loka. O mundo dos espíritos.
+<06>233-23		Textos sagrados do Hinduísmo.
+		      Todos os textos sagrados do Hinduísmo estão reunidos aqui, embora,
+<04>rigorosamente falando, os Vedas pudessem ficar subordinados ao 
+<04>Vedismo. Numerosos textos antigos são, eles próprios, interpretações,
+<04>comentários e desenvolvimento de tradições antigas, e é difícil 
+<04>estabelecer a fronteira entre o texto original e o texto desenvolvido
+<06>233-24		Sruti. Escritos revelados. Os Vedas no mais amplo sentido.
+<06>233-242	Os Vedas no sentido mais restrito. Samhitas.
+		      Coleções de material textual; os próprios textos
+<06>233-242.2	Trayi Vidya. A doutrina tríplice.
+<06>233-242.3	Rig Veda.
+<06>233-242.4	Yajur Veda.
+<06>233-242.45	Krsna. A tradição “negra”.
+<06>233-242.452	Taittiriya. 
+<06>233-242.454	Maitrayani. 
+<06>233-242.455	Kathaka samhitas.
+<06>233-242.46	Sukla. A tradição “branca”.
+<06>233-242.6	Samsa Veda.
+<06>233-242.7	Atharva Veda.
+<06>233-243	Brâmanes. 
+		      Manuais para brâmanes; interpretações de textos antigos; inícios da 
+<04>tradição hermenêutica.
+<06>233-245	Aranyakas. 
+<06>233-247	Upanishads. Vedanta.
+<06>233-247.2	Brhadaranyaka. 
+<06>233-247.3	Chandogya. 
+<06>233-247.4	Taittiriya. 
+<06>233-247.5	Isa. 
+<06>233-247.6	Svetasvatara. 
+<06>233-247.7	Mahanarayana. 
+<06>233-247.8	Mandukya. 
+<06>233-25		Smrti. Tradição.
+<06>233-256	Sutras. Textos relacionados com a praxe ritual, os ritos domésticos, os ritos de 
+<04>passagem, o direito e as relações sociais.
+<06>233-256.2	Svanta-sutras. 
+<06>233-256.4	Gryha-sutras. 
+<06>233-256.6	Dharma-sutras. 
+<06>233-65.3	Itihasa. Epopéias e sagas.
+<06>233-265.32	Ramayana. 
+<06>233-265.33	Mahabharata. 
+<06>233-265.34	Bhagavadgita. 
+<06>233-265.35	Puranas. 
+		      Vasto material, que inclui mitologias das divindades hindus; possui 
+<04>vínculo com o sectarismo e com o Hinduísmo popular.
+<06>233-266	Smrtis. Códigos de leis.
+<06>233-268	Upavedas. 
+<06>233-271	Vedangas. 
+<06>233-282	Tantras e Agamas. Textos rituais.
+		      Textos sectários, fortemente associados ao Shivaísmo, os Tantras são
+<04>textos usados também pelos jainistas e pelos budistas
+<06>233-286	Textos não-sânscritos. Tradições vernáculas.
+<06>233-286.5	Tiravaimoli. ‘Tamil-veda`.
+<06>233-286.7	Outros. 
+		      Localizar escrituras sectárias junto ao movimento sectário;p. ex.:
+<06>233.2-242Vaisnava 
+<04>Usar os auxiliares comuns da Tabela 1c para línguas específicas; p. ex. 
+<06>233-291=214.32 Poesia devota em bengali
+<06>233-3		Pessoas no Hinduísmo.
+<06>233-33		Pessoas inspiradas. Vultos principais.
+<06>233-335	Reformadores. 
+<06>233-335G Gandhi.
+<06>233-335T Tagore
+<06>233-34		Mártires. 
+<06>233-35		Ascetas. Eremitas. Faquires. Sadhus. Sannyasi.
+<06>233-36		Sants. Santos. 
+<06>233-36R Ramakrishna.
+<06>233-37		Mahatmas. Gurus. Eruditos. 
+<06>233-37R Radhakrishnan.
+<06>233-4		Prática religiosa hindu.
+<06>233-42		Comportamento moral. Teologia moral.
+<06>233-423	Certo e errado.
+<06>233-423.5	Adharma. Falta de retidão. Iniqüidade. Improbidade. O mal.
+<06>233-423.57	Aparadha. Pecados específicos.
+		      Detalhar por meio da extensão alfabética A/Z (Tabela Ih)
+<06>233-423.57A Avidya. Ignorância.
+<06>233-423.57H Himsa. Violência.
+<06>233-423.58	Mahapatakas. Grandes pecados. Brahmanahatya. Surapana. Steya. 
+<04>Guruvanganagana.
+<06>233-423.7	Dharma. Deus. A virtude. A vida reta.
+<06>233-423.77	Virtudes específicas. Ahimsa. Aparigrapha. Asteya. Vidya.
+<06>233-425	Sistemas éticos. Acara. Regras de vida.
+<06>233-428	Ética religiosa.
+<06>233-428.5	Obrigações. Preceitos morais. Deveres religiosos.
+<06>233-43		Costumes e praxe social.
+<06>233-44		Comportamento social.
+<06>233-442	Comida e dieta.
+<06>233-442.45	Exigências dietéticas.
+<06>233-442.47	Upavasa. Jejum.
+<06>233-45		Vivaha. Casamento.
+<06>233-46		Caridade. 
+<06>233-463	Dana. Doação caridosa.
+<06>233-5		Culto no Hinduísmo.
+<06>233-52		Sítios, lugares religiosos.
+<06>233-52(282) Rios sagrados. Os sete rios. Saptasindhu.
+<06>233-523	Edifícios religiosos.
+<06>233-523.6	Ashrams. Mosteiros. Edifícios comunitários.
+<06>233-524	Veículos dos atos de culto.
+<06>233-524:662 Bhasma. Cinzas.
+<06>233-524:663.2 Soma. Vinho. Álcool.
+<06>233-525.2	Gandha. Perfumes. Incenso.
+<06>233-526	Objetos religiosos.
+<06>233-526.4	Mala.Rosários. 
+<06>233-526.5	Dipa. Lâmpadas. Luz.
+<06>233-526.6	Murti. Imagens da divindade. Astamurti.
+<06>233-526.8	Janeu. Adornos pessoais.
+<06>233-53		Atos do culto.
+<06>233-532.6	Nitya. Compulsórios.
+<06>233-522.8	Naimittika. Devoções voluntárias.
+<06>233-533	Objetos do culto.
+<06>233-526-526.6 Puga. Culto de imagens.
+<06>233-534	Ritos e rituais.
+<06>233-534.3	Preces. 
+<06>233-534.35	Preces específicas. Gayatri.
+<06>233-534.4	Leitura de textos.
+<06>233-534.45	Leituras específicas.
+<06>233-534.5	Cânticos. 
+<06>233-534.55	Mantras. Japa (repetição do mantra).
+<06>233-535	Música. 
+<06>233-535.4	Kirtana. Canto público.
+<06>233-535.7	Stotra. Hinos. Stotramalas. Coleções de hinos.
+<06>233-536	Atos rituais.
+<06>233-536.2	Abhisekha. Unção.
+<06>233-536.3	Posturas. 
+<06>233-536.38	Namaskara. Pranama. Prostração.
+<06>233-537	Oferendas. 
+<06>233-537:645 Prasada. Oferendas de comida
+<06>233-538	Medha. Sacrifícios.
+<06>233-538.2	Oferendas queimadas. Agnihotra. Sacrifício do fogo.
+<06>233-538.25	Agnicayana, oferenda do fogo.
+<06>233-538.6	Sacrifícios segundo o assunto. 
+<06>233-538.6:599.89 Sacrifício humano.
+<06>233-54		Finalidade da cerimônia.
+<06>233-544.6	Vrata.Votos, promessa.
+<06>233-546.2	Asirveda. Bênção.
+<06>233-549.2	Avahana. Invocação da divindade.
+<06>233-549.5	Visarjana. Partida da divindade.
+<06>233-552	Samskara. Ritos de passagem.
+<06>233-553	Jata-karma. Ritual do nascimento.
+<06>233-555	Vivaha. Cerimônias de casamento.
+<06>233-557	Sraddha. Antyesti. Mrtyu-samskara. Últimos ritos. Cerimônias fúnebres.
+<06>233-557.5	Sati. Disposição do corpo.
+<06>233-558.2	Upanayana. Iniciação.
+<06>233-558.5	Diksa. Ingressos em comunidade religiosa.
+<06>233-56		Festas e festividades. Dias santos.
+<06>233-565	Denominação das festas e festejos.
+<06>233-565DI Divali.
+<06>233-565DU Durga puja. Dassehra.
+<06>233-565HO Holi.
+<06>233-565JA Jagannath.
+<06>233-565MA Makara-sankranti.
+<06>233-565NA Naga Panchami.
+<06>233-565PO Pongal.
+<06>233-565RA Ramlila.
+<06>233-565VA Vaisakhi.
+<06>233-852.5	Filosofias. Escolas de pensamento. Darsanas. Teorias.
+<06>233-852.5N Nyaya.
+<06>233-852.5P Purva Mimamsa.
+<06>233-852.5S Samkhya.
+<06>233-852.5U Uttara Mimamsa. Vedanta.
+<06>233-855.5V Vaisesika.
+<06>233-852.5Y Ioga (Yoga).
+<09>Divisões principais
+
+<01>233.2	
+<02>Vixnuísmo.
+
+<01>233.3	
+<02>Sivaísmo.
+
+<01>233.4	
+<02>Shaktismo. Shakatas.
+
+<01>233.5	
+<02>Neo-Hinduísmo. Hinduísmo da Reforma.
+
+<01>233.7	
+<02>Virashaivas. Lingayats. 
+<04>Consideram-se a si próprios independentes do Hinduísmo, mas 
+<04>a maioria dos governos e de outras organizações oficiais os trata como
+<04>seitas.
+
+<01>234	
+<02>Jainismo.
+
+<01>234.3	
+<02>Svetambara.
+
+<01>234.5	
+<02>Sthanakavasis.
+
+<01>234.7	
+<02>Digambaras.
+
+<01>235	
+<02>Sikhismo.
+
+<01>239	
+<02>Outras religiões de origem oriental.
+
+<01>239.4	
+<02>Teosofia.
+
+<01>239.6	
+<02>Sri Chinmoy.
+
+<01>24	
+<02>Budismo.
+<09>Subdivisões auxiliares especiais
+<06>24-1		Teoria e filosofia do Budismo. Natureza do Budismo.
+<06>24-17		A visão budista do universo. Cosmologia.
+<06>24-172		O mundo material. O ambiente físico.
+<06>24-172.2	Origens. Cosmogonia. Criação do mundo.
+<06>24-18		O homem. A humanidade.
+<06>24-183		A natureza do homem.
+<06>24-183.2	O corpo material. Rupa.
+<06>24-183.3	O não-material. Nama.
+<06>24-183.4	A consciência.
+<06>24-183.5	Atma. A alma. O espírito. O espírito humano.
+<09>24-584.5 Crescimento e desenvolvimento espirituais. Anna. 
+<04>Conhecimento. Gnose.
+<06>24-183.55	Anatta. Anatma. Não-si mesmo. Negação da personalidade.
+<06>24-183.7	Liberdade. Livre-arbítrio. Predestinação.
+<06>24-185		A experiência humana. Vida.
+<06>24-185.2	O sofrimento. Dukkha.
+<06>24-185.325	Karma. Desejo. Apetência.
+<06>24-186		A morte. Os mortos.
+<09>24-557 Costumes e ritos fúnebres.
+<06>24-186.5	Fim da vida. Parinirvana (para os iluminados)
+<06>24-187		A vida após a morte. O pós-vida. O futuro. O porvir.
+<06>24-187.2	Estados do ser. Formas de existência contínua(da). Transmigração.
+<06>24-187.5	Renascimento. Reencarnação. Metempsicose. Metamorfose.
+<06>24-187.55	Samsara. Ciclo nascimento e morte.
+<06>24-187.56	Ananda. Geração dependente.
+<06>24-187.6	Libertação da alma.
+<06>24-187.85	Aniquilação. Cessação da existência. Não-ser. Assimilação. Nirvana. Nibbana.
+<06>24-188		Mundo não-material. Reinos espirituais. Planos de vida. Destinos.
+<06>24-188.5	Deva-loka. Mundos Deva.
+<06>24-188.75	Morada dos deuses. Preta-loka.
+<06>24-2		Evidências da religião.
+<06>24-23		Livros sagrados budistas. Escrituras. Textos religiosos.
+<06>24-232		Textos originais. Obras canônicas da escritura
+<06>24-233		Variantes. 
+<06>24-234		Traduções (i.e., do texto original)
+		      Indicar a língua e o período por meio das Tabelas auxiliares comuns 
+<06>1c e 1g.
+<06>24-234=111 Escrituras budistas em inglês.
+<06>24-235		Versões. Inclusive a série Devanagari Pali (Sociedade do Texto Pali).
+<06>24-24		O Cânon Pali (cânon da escola Theravada. Tipitaka. Os Três Cestos.
+<06>24-244		Vinaya pitaka. Cesto da disciplina.
+<09>24-788 Ordens budistas propriamente ditas. Ordens monásticas. 
+<04>Monaquismo.
+<06>24-244.2	Mahavagga. 
+<06>24-244.3	Cullavagga. 
+<06>24-244.4	Parajika. 
+<06>24-244.5	Pacittiya. 
+<06>24-244.7	Parivara. 
+<06>24-246		Sutta pitaka. Cesto de instruções.
+<06>24-246.2	Digha Nikaya.
+<06>24-246.3	Majjhima Nikaya.
+<06>24-246.4	Samyutta Nikaya.
+<06>24-246.5	Anguttara Nikaya.
+<06>24-246.6	Khuddaka Nikaya.
+<06>24-246.622	Khuddakapatha 
+<06>24-246.624	Dhammapada. 
+<06>24-246.625	Udana. 
+<06>24-246.626	Itivuttaka. 
+<06>24-246.627	Sutta Nipata.
+<06>24-246.632	Vimanavatthu. 
+<06>24-246.634	Petavatthu. 
+<06>24-246.635	Theragatha. 
+<06>24-246.637	Therigatha. 
+<06>24-246.642	Jataka. 
+<06>24-246.643	Nidessa. 
+<06>24-246.644	Patisambhidamagga. 
+<06>24-246.652	Apadana. 
+<06>24-246.653	Buddhavamsa. 
+<06>24-246.654	Carriyapitaka. 
+<06>24-248		Abhidhamma Pitaka. Cesto do dhama superior.
+<06>24-248.2	Dhammasangani. 
+<06>24-248.3	Vibhanga. 
+<06>24-248.4	Dhatukatha. 
+<06>24-248.5	Puggalapannatti. 
+<06>24-248.6	Kathavatthu. 
+<06>24-248.7	Yamaka. 
+<06>24-248.8	Patthana. 
+<06>24-252		Literatura Pali pós-canônica.
+<06>24-252.2	Dipavamsa. 
+<06>24-252.3	Mahavamsa. 
+<06>24-252.4	Callavamsa. 
+<06>24-252.5	Dhammapada attakatha.
+<06>24-252.6	Milindipanha. 
+<06>24-252.7	Nettipakarana. 
+<06>24-252.8	Visuddhimagga. 
+<06>24-252.9	Vimuttimagga. 
+<06>24-253		Literatura budista em sânscrito. Inclusive Textos Mahayana.
+		      Classificar aqui apenas se houver exigência de manter juntos todos 
+<04>os textos sagrados. Na dúvida, preferir 242-24/-257
+<06>24-254		Comentários às obras sacras.
+<06>24-256		Obras interpretativas. Obras de orientação sobre a prática.
+<06>24-262		Formas orais. Tradição oral.
+<06>24-264		Mitos e lendas.
+<06>24-265		Outras formas literárias.
+<06>24-265.2	Obras poéticas.
+<06>24-265.3	Epopéias e sagas.
+<06>24-266		Direito. Códigos de leis. Textos legais.
+<06>24-278		Teologia dos textos sagrados. Conteúdo teológico.
+		      Acrescentar a 24-278 detalhes de toda a tabela auxiliar
+<06>24-279		A religião conforme demonstrada nos textos sagrados. Prática religiosa.
+<06>24-28		Outros textos religiosos.
+<06>24-282		Obras litúrgicas. Textos litúrgicos.
+<06>24-283		Documentos históricos. Documentos de evidência. Registros 
+<04>históricos.Relatos contemporâneos. Cartas.
+<06>24-284		Obras de doutrina, dogma. Artigos de fé. Teologia sistemática. Dogmática.
+<06>24-285		Quatro verdades nobres. Ariya sacca. Arya satya.
+<06>24-285.2	Sobre a existência do sofrimento.
+<06>24-285.3	Sobre a origem do sofrimento.
+<06>24-285.4	Sobre o conhecimento do término do sofrimento.
+<06>24-285.5	O caminho constituído de oito partes. Magga.
+<06>24-285.52	Sabedoria. Panna.
+<06>24-285.523	Sammaditthi. Opiniões corretas, compreensão correta. Conhecimento.
+<04>Nana.
+<06>24-285.524	Sammasamkappa. Aspirações justas, pensamento correto.
+<06>24-285.53	Moralidade. Sila.
+<06>24-285.533	Sammavaca. Fala correta..
+<06>24-285.534	Sammakamanta. Conduta correta, ação correta.
+<06>24-285.535	Sammaajiva. Meio de vida correto.
+<06>24-285.543	Sammavayama. Esforço correto.
+<06>24-285.544	Saammasati. Cuidado justo.
+<06>24-285.545	Sammasamadhi. Contemplação correta.
+<06>24-286		Outras formas de textos religiosos.
+<06>24-287		Sermões como uma forma.
+<06>24-3		Pessoas no Budismo.
+<06>24-31		Buda. Gautama Buda. Adi Buda.
+<06>24-31-1	Teologia do Buda.
+<06>24-31-144.3 Trikaya. Doutrina dos três corpos 
+<06>24-31-144.32 Nirmana-kaya. Corpo temporal
+<06>24-31-244.34 Sambhoga-kaya. Buda glorioso
+<06>24-31-144.36 Dharma-kaya. Buda essencial
+<06>24-312		A vida de Buda.
+<06>24-312.47	A Mãe de Buda. Mãe adotiva.
+<06>24-312.55	Os primeiros seguidores. Arhants.
+<06>24-312.6	Esclarecimento. 
+<06>24-312.9	A volta do Buda [como Maitreya]
+<06>24-315		Relatos, material anedótico.
+<06>24-317		Memórias. Ditos. Feitos.
+<06>24-318		Buda como modelo, exemplo.
+<06>24-35		Ascética. Eremitas.
+<06>24-36		Santos. Baddhisatvas. Pessoas iluminadas. 
+<06>24-365		Arahant (disciplina no estágio final da iluminação).
+<06>24-37		Acariya. Sábios.
+<06>24-4		Atividades religiosas. Prática religiosa.
+<06>24-42		Comportamento moral. Teologia moral.
+<06>24-423.5	Adhamma. Mau procedimento.
+<06>24-423.5DOS Dosa. Ódio
+<06>24-423.5HIM Himsa. Violência
+<06>24-423.5LOB Lobha. Gula
+<06>24-423.5MOH Moha. Delusão
+<06>24-423.58	Cinco obstáculos. Nivaranani.
+<06>24-423.582	Desejos dos sentidos. Cobiça.
+<06>24-423.583	Malevolência. 
+<06>24-423.584	Preguiça. 
+<06>24-423.585	Inquietude. 
+<06>24-423.586	Dúvidas. 
+<06>24-423.7	Dhamma. Bem. Virtude. O bem. Viver corretamente.
+<06>24-423.77	Virtudes específicas.
+<06>24-423.77AHI Ahimsa. Não-ofensa. Respeito à vida.
+<06>24-423.78	Dez virtudes transcendentais. Paramis.
+<06>24-423.780	Dana. Generosidade.
+<06>24-423.781	Sila. Moralidade.
+<06>24-423.782	Nekkhamma. Renúncia.
+<06>24-423783	Panna. Sabedoria.
+<06>24-423.784	Viriya. Energia.
+<06>24-423.785	Khanti. Paciência.
+<06>24-423.786	 Sacca. Veracidade.
+<06>24-423.787	Adhitthana. Resolução.
+<06>24-423.788	Metta. Afabilidade amorosa.
+<06>24-423.789	Upekkha. Equanimidade.
+<06>24-426		Ética budista.
+<06>24-428		Leis religiosas, obrigações, preceitos morais, leis morais. 
+<04>Regulamentos. Deveres religiosos.
+<06>24-43		Costumes e práticas sociais. Teologia social.
+<06>24-442.45	Exigências dietéticas. Limitações dietéticas.
+<06>24-442.47	Abstinência. Jejum. Proibição.
+<06>24-442.5	Regras relativas a alimentos e bebidas específicos.
+<06>24-442.5:637.5 Regras relativas a carne
+<06>24-442.5:663.2/.5 Regras relativas a bebidas alcoólicas.
+<06>24-443		Higiene e aparência pessoais. Conduta pessoal.
+<06>24-443.5	Roupa. Vestuário.
+<06>24-447		Relações sexuais, atividade sexual.
+<06>24-447.7	Abstinência. Celibato.
+<06>24-46		Obrigação para com os outros. Apoio à comunidade monástica.
+<06>24-5		Ritos, cerimônias, etc.
+<06>24-557		Costumes e rituais fúnebres.
+<06>24-58		Contemplação e reflexão.
+<06>24-583		Meditação. Contemplação.
+<06>24-584		Vida espiritual.
+<06>24-584.5	Crescimento e desenvolvimento espiritual. Anna. Conhecimento. Gnose.
+<06>24-584.52/.55 Estágios de desenvolvimento.
+<06>24-584.52	Sotapanna (ingresso).
+<06>24-584.53	Sahadagamin. 
+<06>24-584.54	Anagamin (que nunca retorna).
+<06>24-584.55	Arantship. 
+<06>24-584.7	Exercícios espirituais.
+<06>24-6		Processos em religião.
+<06>24-64		Processos relativos. Processos externos. Interações entre o Budismo 
+<04>e outras religiões.
+<06>24-664.3	Sincretismo. Empréstimo.
+<06>24-664.5	Assimilação. 
+<06>24-67		Relações entre o Budismo e a sociedade em geral.
+<06>24-673.5	Tolerância. Irênicos.
+<06>24-674		Conflito. Antagonismo. Hostilidade.
+<06>24-674.5	Perseguição. 
+<06>24-7		Organização e administração budistas.
+<06>24-722		Pessoas no Budismo.
+		      Normalmente pessoas em religião com funções específicas ficam 
+<04>subordinadas às funções que desempenham, e são indicadas por meio 
+<04>dos auxiliares comuns de pessoas (Tabela 1k –05); p. ex.: indicar 
+<04>adivinhadores por meio de 24-544.8-051
+<06>24-725		Samgha. Comunidade de discípulos. “Sacerdócio”.
+<06>24-732.2	Chefe de religião.
+<06>24-732.4	Concílios budistas.
+<06>24-732.6	Leigos. Adeptos.
+<06>24-78		Organizações budistas. Sociedades e associações budistas.
+<06>24-788		Ordens budistas propriamente ditas. Ordens monásticas. Monaquismo.
+<06>24-788-05 Pessoas nas ordens religiosas budistas.
+<06>24-788-055.1 Monges budistas
+<06>24-788-055.2 Freiras budistas
+<06>24-788-428 Regras monásticas budistas<09>24-244
+
+<06>24-79		Seitas. Movimento sectário.
+<06>24-9		História do Budismo.
+<06>24-9-732.4	Concílios budistas. Inclusive Primeiro concílio em Rajagrha, em 544 AC; 
+<04>Segundo concílio em Vaisali, em 444 AC; Terceiro concílio em 
+<04>Pataliputra, em 247 AC; Quarto concílio em 100 DC; Quinto concílio em 
+<04>Rangoon, em 1871 DC; Sexto concílio em Rangoon, em 1954-6 DC.
+<06>24-9852.5	Escolas históricas de pensamento. As dezoito escolas.
+<09>Divisões Principais
+
+<01>241	
+<02>Budismo hinayana. O veículo menor. Budismo Theravada. Escola Pali.
+		      Estes termos não são sinônimos, mas são intercambiáveis no uso 
+<04>comum. Este é o Budismo “ortodoxo”do mundo budista meridional (Índia, 
+<04>Sri-Lanka, Birmânia, Tailândia).
+
+<01>242	
+<02>Mahayana. O grande veículo.
+		      O Budismo “reformado”da área setentrional (Tibete, Nepal, Coréia, 
+<04>China e  Japão) dá mais ênfase à participação popular e a aspectos 
+<04>religiosos tradicionais do que o Budismo Hinayana.Visto que a 
+<04>maioria dos exemplos de prática religiosa convencional deve ser 
+<04>encontrada no Budismo Mahayana,aqueles conceitos encontram-se 
+<04>enumerados neste lugar 
+<09>Subdivisões auxiliares especiais
+<06>242-162.6	Prajnaparamita. Mãe de todos os Budas.
+<06>242-163	Hierarquia panteísta.
+<06>242-24		Textos Mahayana. Literatura budista sânscrita.
+<06>242-253	Sutras. 
+<06>242-254	Sastras. 
+<06>242-257	Tantras. 
+<06>242-31-1	Budologia. 
+<06>242-31-169	Budas míticos.
+<06>242-36		Boddhisattvas. Ideal Boddhisattva. 
+<06>242-5		Puja. Culto budista em sentido amplo.
+<06>242-522	Lugares santos budistas.
+<06>242-522.4	Lugares de espiritualidade especial, de santidade.
+<06>242-523	Edifícios para uso religioso.
+<06>242-523.3	Santuários budistas.
+<06>242-523.4	Templos. 
+<06>242-523.6	Mosteiros. Edifícios comunitários
+<06>242-524	Veículos dos atos de culto.
+<06>242-524:536.46 Fogo
+<06>242-524:612.1 Sangue
+<06>242-524:662 Cinzas
+<06>242-524:-032.2 Água
+<06>242-524:-035.8 Óleo
+<06>242-526	Objetos no culto. Mobiliário e decorações.
+<06>242-526.4	Auxílios à prece. Rodas do orante.
+<06>242-526.64	Estatuária. Estátuas. Ídolos.
+<06>242-526.64-31 Representações do Buda
+<06>242-528	Liturgia. 
+<06>242-533	Objetos de culto, de devoção.
+<06>242-533-36 Boddhisattvas como objetos de devoção
+<06>242-534.4	Leitura de textos.
+<06>242-534.5	Mantras. Cânticos. Encantamentos.
+<06>242-536	Ritos e cerimônias físicas.
+<06>242-536.1	Ablução. Imersão em água. Aspersão com água.
+<06>242-536.27	Incenso. Incensação.
+<06>242-536.3	Posturas. 
+<06>242-536.4	Gestos simbólicos.
+<06>242-536.5	Procissão. Caminhada em círculo, circum-ambulação.
+<06>242-537	Oferendas. 
+<06>242-537:58 Oferendas de plantas. Oferendas de flores.
+<06>242-537:633.1 Oferendas de cereais (refeição)
+<06>242-537-537-032.2 Libações
+<06>242-552	Ritos de passagem. Estágios da vida.
+<06>242-553	Nascimento. 
+<06>242-554	Adolescência. Puberdade. Transição para a vida adulta.
+<06>242-556	Velhice. 
+<06>242-557	Morte. Cerimônias fúnebres.
+<06>242-557.5	Cerimônias de disposição. Enterro. Cremação.
+<06>242-558	Estágios da vida espiritual.
+<06>242-558.2	Iniciação. 
+<06>242-558.4	Confirmação. Reiniciação adulta.
+<06>242-558.5	Ordenação. 
+<06>242-562	Festas e festividades. Dias santos.
+<06>242-563.5	Tempos especiais do dia. Horas de prece. Horas de culto.
+<06>242-564	Calendário religioso. Ano religioso.
+<06>242-565	Festejos pelo nome
+		      Detalhar por meio de A/Z
+<06>242-9		História do Budismo Mahayana.
+<06>242-9-852.5	Escolas de pensamento.
+<06>242-9-852.5MAD Madhyamaka
+<06>242-9-852.5YOG Yogacarins
+<09>Divisões principais
+
+<01>242.5	
+<02>Budismo chinês.
+<09>Subdivisões Auxiliares Especiais
+<06>242.5-24	Tipitaka chinês.
+<06>242.5-31-1	Budologia chinesa.
+<06>242.5-36	Boddhisattvas no Budismo chinês.
+		      Indicar por meio de A/Z os Boddhisattvas com nome
+<06>242.5-36AMI Amitabha
+<06>242.5-36BHA Bhaisayyaguru
+<06>242.5-36KSH Kshitigarbha Boddhisattva
+<06>242.5-79	Seitas 
+<06>242.5-792	Escolas clássicas, incluindo-se Kosa, Fa-hsiang.
+<06>242.5-793	Seitas católicas, incluindo-se T`ien t’ai, Chen-yen.
+<06>242.5-795	Seitas exclusivas.
+<06>242.5-795.2	Terra pura.
+<06>242.5-795.4	Ch`an. 
+<09>Divisões principais
+
+<01>243	
+<02>Lamaísmo.
+
+<01>243.2	
+<02>Tantrayana. Budismo tântrico.
+
+<01>243.4	
+<02>Budismo tibetano.
+
+<01>243.6	
+<02>Vajrayana (= aspecto tântrico do Mahayana).
+
+<01>244	
+<02>Budismo japonês.
+
+<01>244.2	
+<02>Seitas Nara.
+
+<01>244.4	
+<02>Tendai.
+
+<01>244.6	
+<02>Shingon.
+
+<01>244.8	
+<02>Kamakara.
+
+<01>244.82	
+<02>Zen-budismo.
+
+<01>25	
+<02>Religiões da antiguidade. Cultos e religiões menores.
+
+<01>251	
+<02>Religião do Egito Antigo.
+
+<01>252	
+<02>Religiões da Mesopotâmia.
+
+<01>252.1	
+<02>Sumérias.
+
+<01>252.3	
+<02>Babilônias.
+
+<01>252.5	
+<02>Elamitas.
+
+<01>253	
+<02>Outras religiões da Ásia ocidental.
+
+<01>253.1	
+<02>Hititas.
+
+<01>253.4	
+<02>Canaanitas e fenícias. Religião ugarítica.
+
+<01>253.6	
+<02>Aramaica. Religião síria.
+
+<01>253.8	
+<02>Árabe pré-islâmica.
+
+<01>253.89	
+<02>Religião sabéia.
+
+<01>254	
+<02>Religiões do Irã.
+
+<01>254.2	
+<02>Zoroastrismo.
+<09>Subdivisões auxiliares especiais
+<06>254.2-24	Avesta. Zend avesta.
+<09>Divisões principais
+
+<01>254.25	
+<02>Parsismo (Comunidade indiana).
+
+<01>254.27	
+<02>Gabars (Comunidade iraquiana).
+
+<01>254.4	
+<02>Maniqueísmo.
+
+<01>254.6	
+<02>Mandeísmo.
+
+<01>254.8	
+<02>Parseísmo.
+
+<01>255	
+<02>Antiguidade clássica.
+
+<01>255.2	
+<02>Religião grega.
+
+<01>255.4	
+<02>Religião etrusca.
+
+<01>255.6	
+<02>Religião romana.
+
+<01>255.8	
+<02>Religiões helênicas.
+
+<01>255.83	
+<02>Religiões misteriosas.
+
+<01>255.85	
+<02>Gnosticismo.
+
+<01>256	
+<02>Religião da Ásia central. Xamanismo.
+
+<01>257	
+<02>Religiões da Europa.
+
+<01>257.1	
+<02>Paganismo.
+
+<01>257.22	
+<02>Religião da deusa Wicca. Bruxaria.
+
+<01>257.4	
+<02>Religião germânica.
+
+<01>257.6	
+<02>Religião celta.
+
+<01>257.62	
+<02>Druidismo.
+
+<01>257.7	
+<02>Religiões eslavas e bálticas.
+
+<01>257.8	
+<02>Religiões nórdicas, escandinavas.
+
+<01>258	
+<02>Religiões das Américas do Sul e Central. Religiões indígenas pré-
+<04>colombianas.
+
+<01>258.1	
+<02>Religião dos maias.
+
+<01>258.3	
+<02>Religião dos astecas.
+
+<01>258.5	
+<02>Religião dos incas.
+
+<01>259	
+<02>Religiões de outras áreas.
+
+<01>259.2	
+<02>Religião indígena da América do Norte.
+
+<01>259.4	
+<02>Religiões de origem africana.
+
+<01>259.42	
+<02>Religião ioruba.
+
+<01>259.43	
+<02>Vodu. Religião vodu.
+
+<01>259.44	
+<02>Rastafarismo.
+
+<01>259.6	
+<02>Religiões australianas.
+
+<01>259.62	
+<02>Religião aborígene.
+
+<01>259.7	
+<02>Religiões da Oceania.
+
+<01>26	
+<02>Judaísmo.
+<09>Subdivisões auxiliares comuns
+<06>26“652” Religião do período bíblico. Judaísmo antigo. Antigo Testamento.
+<06>26“652”-1	Conceitos religiosos. Teologia do período bíblico
+<06>26“652”-144.3 Shekinah. Presença de Deus
+<06>26“652”-39	Realeza. Realeza sagrada.
+<06>26“652”-4/-5	Prática religiosa.
+<06>26“652”-522	Lugares religiosos.
+<06>26“652”-522.4	Lugares altos.
+<06>26“652”-523.4	O Templo.
+<06>26"652”-523.4-051 O Sacerdócio. O Sumo-sacerdote.
+<06>26“652”-526.3	A Arca da Aliança.
+<06>26“652”-538	Sacrifício. 
+<06>26“652”-544.7 Profecia ritual.
+<06>26“652”-565 Festejos no período bíblico.
+<06>26"652”-565 Rosh haShanah. Festejos do Ano Novo.
+<06>26“652”-86	Escolas. Facções.
+<06>26"652”-86E Essênios.
+<06>26"652”-86E-2 Os Pergaminhos do Mar Morto.
+<06>26"652”-86E-24 Textos bíblicos.
+<06>26"652”-86E-24 1QM Pergaminho da guerra
+<06>26"652”-86E-24Q175 Antologia messiânica
+<06>26"652”-86E-24Q186 Calendários e material astronômico
+<06>26"652”-86E-24Q258 Regra da Comunidade
+<06>26"652”-86E-24Q434 Hinos ao pobre
+<06>26"652”-86P Fariseus
+<06>26"652”-86S Saduceus
+<09>Subdivisões auxiliares especiais
+<06>26-1		Teologia judaica.
+<06>26-13		Kedushah. O santo. O sagrado.
+<06>26-14		Deus. Compreensão judaica de Deus.
+<06>26-144.2	Os nomes de Deus. Adonai, Eloim, haShem, haKodesh baruch hu, Ribbono
+<04>shel olam, Avinu she`ba shamayim.
+<06>26-144.3	A aparência de Deus. Kavod. A glória de Deus.
+<06>26-144.7	Ruah haKodesh.O Espírito Santo. O Espírito de Deus.
+<06>26-167		Seres sobrenaturais.
+<06>26-167.2	Anjos. 
+<06>26-167.4	Guardiães. Querubins.
+<06>26-167.6	Seres malevolentes.
+<06>26-167.6ASM Asmodeus.
+<06>26-167.62	Espírito do mal. Dibbuk.
+<06>26-183		Natureza do homem.
+<06>26-183.5	Nephesh. A alma.
+<06>26-184		Relação do homem com Deus.
+<06>26-184.5	Incredulidade. Renegação. Apostasia.
+<06>26-184.5-05	Meshumad. Apóstata.
+<06>26-184.7	A Aliança.
+<06>26-185.3	Pecado. Mau procedimento.
+<06>26-185.33	Teshuvah. Arrependimento.
+<06>26-185.33-051 Ba`al teshuvah. Penitente.
+<06>26-187		Olam haba. O mundo futuro. Vida após a morte.
+<06>26-187.6	Tehiyat haMetim. Ressurreição dos mortos.
+<06>26-188.7	Gehenna (Geena). Inferno.
+<06>26-22		Nirah. Revelação divina.
+<06>26-23		Textos sagrados.
+<06>26-24		Tanakh. A Bíblia hebraica.
+		      Ver também 27-24 O Antigo Testamento, onde a seqüência dos livros 
+<04>obedece à ordem costumeira adotada pela Bíblia cristã
+<06>26-242		Torah (Torá). A Lei. O Pentateuco.
+<06>26-242.2	Gênese. 
+<06>26-242.3	Êxodo. 
+<06>26-242.4	Levítico. 
+<06>26-242.5	Números. 
+<06>26-242.6	Deuteronômio. 
+<06>26-243		Nebiim. Os Profetas.
+<06>26-243.2	Os Profetas antigos. Hanebiim harishonim.
+<06>26-243.3	Josué. 
+<06>26-243.4	Juízes. 
+<06>26-243.5	Samuel a
+<06>26-243.6	Samuel b.
+<06>26-243.7	Reis a.
+<06>26-243.8	Reis b.
+<06>26-244/-245	Os Profetas recentes. Hanebiim haacharonim.
+<06>26-244.2	Isaías. 
+<06>26-244.3	Jeremias. 
+<06>26-244.4	Ezequiel. 
+<06>26-244.5	Oséias. 
+<06>26-244.6	Joel. 
+<06>26-244.7	Amós. 
+<06>26-244.8	Obadias. 
+<06>26-245.2	Jonas. 
+<06>26-245.3	Miquéias. 
+<06>26-245.4	Naum. 
+<06>26-245.5	Habacuque. 
+<06>26-245.6	Sofonias. 
+<06>26-245.7	Ageu. 
+<06>26-245.8	Zacarias. 
+<06>26-245.9	Malaquias. 
+<06>26-246/-247	Ketubim. Os escritos. Hagiógrafos.
+<06>26-246.2	Salmos. 
+<06>26-246.3	Provérbios. 
+<06>26-246.4	Jó. 
+<06>26-246.5	Cântico dos Cânticos.
+<06>26-246.6	Rute. 
+<06>26-246.7	Lamentações. 
+<06>26-246.8	Eclesiastes. 
+<06>26-247.2	Ester. 
+<06>26-246.3	Daniel. 
+<06>26-246.4	Esdras. 
+<06>26-246.5	Neemias. 
+<06>26-246.6	Crônicas I
+<06>26-246.7	Crônicas II.
+<06>26-248/-249	Os Apócrifos.
+<06>26-248.2	Esdras I.
+<06>26-248.3	Esdras II.
+<06>26-248.4	Tobias. 
+<06>26-248.5	Judite. 
+<06>26-248.6	Ester. 
+<06>26-248.7	Sabedoria de Salomão.
+<06>26-248.8	Eclesiástico. 
+<06>26-249.2	Baruque. 
+<06>26-249.3	Carta de Jeremias.
+<06>26-249.4	Canto das Três Santas Crianças.
+<06>26-249.5	Susana. 
+<06>26-249.6	Bel e o Dragão.
+<06>26-249.7	Oração de Manassés.
+<06>26-249.8	Macabeus I.
+<06>26-249.9	Macabeus II.
+<06>26-252		Pseudo epígrafos.
+<06>26-252.2	Livro dos Jubileus.
+<06>26-252.3	I Esdras.
+<06>26-252.4	III Macabeus.
+<06>26-252.5	IV Macabeus.
+<06>26-252.6	Vida de Adão e Eva.
+<06>26-252.7	Epístola de Aristéias.
+<06>26-252.8	Martírio de Isaías.
+<06>26-252.9	Salmos de Salomão.
+<06>26-253.2	Livro de Enoque.
+<06>26-253.3	Assunção de Moisés.
+<06>26-253.4	Apocalipse de Baruque.
+<06>26-253.5	IV Esdras.
+<06>26-253.6	Oráculos sibilinos.
+<06>26-253.7	Testamento dos Doze Patriarcas.
+<06>26-253.8	Outros pseudo epígrafos da Bíblia hebraica.
+<06>26-254		Literatura rabínica.
+<06>26-254.2	Midrash. Midrashim. Interpretação de texto.
+<06>26-254.22	Halakhah. Midrashim haláquico. Instruções.
+<06>26-254.23	Haggadah. Midrashim haggádico. Estórias. Anedotas.
+<06>26-254.24	Tarlgums. Textos e comentários bíblicos em aramaico.
+<06>26-254.25	Targum onkelos.
+<06>26-254.26	Targum Jonathan.
+<06>26-254.27	Targum Yerushalmi.
+<06>26-254.28	Midrash Rabbah.
+<06>26-254.4	Mishnah (Misná). A tradição oral. O direito oral.
+<06>26-254.42	Seis ordens da Misná. Sedarim.
+<06>26-254.43	Zeraim. Progênie.
+<06>26-254.44	Mo`ed. Festejos.
+<06>26-254.45	Nashim. Mulheres.
+<06>26-254.46	Nezikin. Danos.
+<06>26-254.47	Kodashim. Coisas santas.
+<06>26-254.48	Tohoroth. Purezas.
+<06>26-254.6	Tosefta. Coleções alternativas do direito oral.
+<06>26-256		Talmude. 
+<06>26-256.2	Gemara. Comentários da Misná.
+<06>26-256.4	Talmude de Jerusalém. Talmude palestino.
+<06>26-256.6	Talmude babilônio. Talmud babli.
+<06>26-277.2	Hermenêutica bíblica no Judaísmo.
+<06>26-282.5	Siddur. O livro de preces.
+<06>26-284		Dogmática judaica. Ikkarim. Artigos de fé. Princípios da fé.
+<06>26-285.2	Apologética judaica.
+<06>26-285.4	Polêmica judaica.
+<06>26-3		Pessoas no Judaísmo.
+<06>26-32		O Messias.
+<06>26-335		Eruditos. 
+<06>26-335AKI O rabi Akiva.
+<06>26-335MAI Maimonides.
+<06>26-4		Prática religiosa judaica, observância. Costumes judaicos. Minhagim.
+<06>26-42		Teologia moral.
+<06>26-423.5	Yetzer hara`. Má intenção.
+<06>26-423.57	Pecados específicos.
+<06>26-423.57G	Gezelah. Roubo.
+<06>26-423.7	Yetzer hatov. Boa intenção. Hesed. Bem. Virtude. Zedakah.
+<06>26-426		Derekh eretz. Comportamento social e moral corretos.
+<06>26-428.6	Mizvah. Mizvoth. Mandamentos. Deveres religiosos. Minhag. Obrigações derivadas 
+<04>mais do costume do que da lei.
+<06>26-44		Prática social, comportamento.
+<06>26-442		Leis sobre dieta.
+<06>26-442.45	Kasruth. Regras kosher.
+<06>26-442.45:637.5 Carne
+<06>26-442.45:637.5:339.176-051 Shohet. Açougueiro kosher
+<06>26-442.45:637.513 Shehita. Matança ritual
+<06>26-443.3	Asseio. Limpeza.
+<06>26-443.35	Mikvah. Banho ritual.
+<09>26-536.1 Rahtzah. Lava-mãos ritual
+<06>26-443.5	Roupa. Chapéu. Kippah. Solidéu.
+<06>26-443.7	Corte, uso, arrumação do cabelo.
+<06>26-443.75	Payoth. Costeletas, suíças. Mechas.
+<06>26-447		Prática sexual.
+<06>26-447.7	Abstinência. Celibato.
+<06>26-45		O casamento e a família.
+<06>26-45-447.7	Niddah. Abstinência no casamento.
+<06>26-452		Corte. Acasalamento. Casamento.
+<06>26-452-051 Shadkhan. Casamenteiro.
+<06>26-454		Get. Divórcio.
+<06>26-363		Zedakah. Dádiva caridosa.
+<06>26-467		Hakhnasat orehim. Hospitalidade em relação a estranhos.
+<06>26-47		Educação. 
+<06>26-472		Hinukh. Instrução religiosa. Exercitação na fé.
+<06>26-475		Pregação. 
+<06>26-475-051 Darshan. Pregador.
+<06>26-5		Prática ritual. Culto.
+<06>26-522		Lugares de especial significado.
+<06>26-522(569.4) Israel. Eretz Yisrael.
+<06>26-523		Edifícios religiosos.
+<06>26-523.4	Sinagoga. Beth knesset.
+<06>26-523.4:37 Beth midrash. Salão de estudo
+<06>26-523.4:373.3 Heder. Sala das crianças
+<06>26-523.4:643.9 Genizah. Despensa
+<06>26-523.4-523.1-055.2 Ezrat nashim. Seção feminina.
+<06>26-525.4	Kittel. Vestimenta religiosa. Inclusive Tallit. Xale.
+<06>26-525.45	Tzitzit. Franjas.
+<06>26-525.7	Parokhet. Cortina de cobrir a arca.
+<06>26-526.1	Bimah, almemar. Plataforma. Shulhan. Mesa. Amud. Estante. Atril.
+<06>26-526.3	Aron kodesh. A Arca Santa.
+<06>26-526.5M	Menorah. O Candelabro.
+<06>26-526.5N	Ner Tamid. A Lâmpada Santa. A “Lâmpada do Santuário”.
+<06>26-526.6	Magen David. A Estrela de Davi (Símbolos religiosos).
+<06>26-526.7	Mezuzah. Mezuzoth.
+<06>26-526.8	Tefillin. Amuletos. Talismãs.
+<06>26-53		Atos do culto.
+<06>26-532.2	Tefilat tzibbur. Culto público. Cerimônias.
+<06>236-532.2"344.3” Shachrit. Culto matutino.
+<06>236-532.2"344.7” Minha. Culto vespertino.
+<06>236-532.2"345.3” Maariv. Culto ao anoitecer.
+<06>26-532.4	Tefilat yahid. Culto privado.
+<06>26-534.3	Prece. 
+<06>26-534.3-051 Hazzan. Cantor solista. Shaliah. Tzibbur. Entoador.
+<06>26-534.35	Preces específicas.
+<06>26-534.35ALE Alenu
+<06>26-534.35AMI Amidah. Shmoneh Esrai. Dezoito bênçãos
+<06>26-534.35ANI Ani maarim
+<06>26-534.35BIR Birkhat kohanim. Bênção sacerdotal
+<06>26-534.35BOR Borchu
+<06>26-534.35KAD Kaddish
+<06>26-534.4	Aliyah. Leitura de texto.
+<06>26-534.4-051 Ba`al Torah. Leitor da Lei (Torá)
+<06>26-534.42	Torah. Torá (Lei).
+<06>26-534.44	Haftarah. 
+<06>26-534.5	Recitação. Encantação. Salmodia.
+<06>26-534.5-051 Solista. Hazzan.
+<06>26-535.7	Zmiroth. Hinos. Cânticos.
+<06>26-535.75ADO	Adon olam.
+<06>26-535.8	Salmos. 
+<06>26-535.8#113-118 Hallel
+<06>26-535.8#136 Hallel haGadol.
+<06>26-536.1	Rahtzah. Lava-mãos ritual/Ritual do lava-mãos.
+<06>26-536.6	Dança no culto.
+<06>26-543.3	Shema. Confissão de fé.
+<06>26-543.8	Penitência. Orações penitenciais. Selihoth.
+<06>26-544.2	Kapparah. Cerimônia de reparação.
+<06>26-546.2	Kiddush. Santificação. Berakhah. Bênção.
+<06>26-546.4	Herem. Anátema. Maldição.
+<06>26-55		Sacramentos. Sacramentais. Ritos de passagem.
+<06>26-553		Cerimônias do nascimento. Cerimônias para atribuir nome (à criança).
+<06>26-553.536.86 Circuncisão. Pacto da circuncisão. Brit milah.
+<06>26-553.536.86-051 Mohel. Executor da circuncisão.
+<06>26-554		Adolescência. Idade madura.
+<06>26-554-055.1 Bar mitzvah
+<06>26-554-055.2 Bath mitzvah
+<06>26-555		Nisuin. Casamento. Cerimônia do casamento.
+<06>26-555-526	(Objetos na cerimônia). Inclusive Hupah. Proteção. Pálio.
+<06>26-555-534	(Forma do rito). Ketuba. Contrato de casamento. Kiddushim. Noivado. 
+<04>Santificação. Sheva berakhoth. Sete bênçãos. Divórcio. Halitzah. Cerimônia da 
+<04>desobrigação. Get. Documento do divórcio. Ptur. Cartas de desobrigação.
+<06>26-557		Morte. Luto.
+<06>26-557-543.3"4” Períodos de luto
+<06>26-557-543.3"403” Shiva. Luto de sete dias
+<06>26-557-543.3"404” Shloshim. Luto de trinta dias
+<06>26-557-543.3"405” Avehuth. Luto de doze meses
+<06>26-557-543.3"465” Yahrzeit. Aniversário da morte.
+<06>26-557-534.3	Preces pelos mortos.
+<06>26-558.5	Semikhah. Ordenação ao Rabinato.
+<06>26-558.8	Excomunhão. Expulsão.
+<06>26-562		Festas e festividades.
+<06>26-563		Sábado 
+<06>26-565		Festas principais.
+<06>26-565-282.5 Mazhor. Livro de preces dos festejos.
+<06>26-565.2	Rosh haShanah. Ano Novo.
+<06>26-565.22	Yom haZikaron. Dia da recordação.
+<06>26-565.24	Yom teruah. Dia de soar o sofar.
+<06>26-565.24-526.9 Sofar (trombeta).
+<06>26-565.26	Y`mai teshuvah. Dez dias de arrependimento.
+<06>26-565.3	Yom Kippur. Dia da reparação.
+<06>26-565.3-53KO Kol nidre
+<06>26-565.3-53NE Neilah
+<06>26-565.3-543.7 Ashamnu. Confissão do pecado
+<06>26-565.4	Succoth. Festa dos Tabernáculos.
+<06>26-565.4-526 Succah
+<06>26-565.4-526.6 Os quatro símbolos. Etrog. Lulav. Hadas. Arava.
+<06>26-565.5	Shmini Atzeret.. Simhat Torah. Festa da assembléia solene
+<06>26-565.6	Pesach. Pão ázimo. Páscoa.
+<06>26-565.6-524 Símbolos da Páscoa. Ervas amargas, etc.
+<06>26-565.6-532.3 Seder da Páscoa. Culto em casa
+<06>26-565.6-532.3-282.7 Haggadah da Páscoa
+<06>26-565.7	Sefirat haOmer. Contagem do omer.
+<06>26-565.8	Shavuoth. Festa de semanas
+<06>26-565.9	Festejos menores
+<06>26-565.92	Hanukah. 
+<06>26-565.93	Purim. 
+<06>26-565.94	Tisha B`av. Destruição do Templo.
+<06>26-565.95	Hamisha Asar. Tu b`Shevat. Ano Novo para árvores.
+<06>26-565.96	Lag b`Omer. Festejos do erudito.
+<06>26-565.97	Yom atzmaut. Dia da independência.
+<06>26-565.98	Yom Yerushalayim. Reunificação de Jerusalém.
+<06>26-565.99	Outros festejos e dias santos.
+<06>26-587		Kabbalah (Cabala). Misticismo.
+<06>26-587.5	Visões. Misticismo merkavah. Misticismo chariot.
+<06>26-67		Relações com a sociedade, com outras religiões.
+<06>26-674		Anti-semitismo. 
+<06>26-674.5	Perseguição religiosa aos judeus.
+<06>26-7		Estrutura organizacional do Judaísmo.
+<06>26-725		Líderes. Rabinos.
+<06>26-726.3	Kohanim. Padres.
+<06>26-726.6	Leigos. Gabbai. Chefe leigo da comunidade.
+<06>26-727		Goyim. Não-judeus. Não-adeptos.
+<06>26-74		Direito. Direito religioso.
+<06>26-747.5	Direito de família.
+<06>26-747.527.2	Procedimentos quanto ao divórcio.
+<06>26-747.99	Beth din. Tribunal religioso.
+<06>26-747.99-725 Av beth din. Líder do tribunal religioso.
+<06>26-756		Educação secular. Educação religiosa. Yeshiva. Escola diária judaica.
+<06>26-76		Missões judaicas.
+<06>26-768		Conversão forçada.
+<06>26-768(46)-051 Marranos
+<06>26-768-051 Anusim. Conversos forçados (geralmente para o Cristianismo
+<04>ou o Islamismo).
+<06>26-775		Havuaroth. Grupos informais de culto. Grupos domésticos.
+<06>26-78		Grupos religiosos.
+<06>26-784		Sociedades e associações religiosas.
+<06>26-784BNA Bnai Brith
+<06>26-784HAD Hadassah. Movimento Sionista Feminino da América.
+<06>26-8		Escolas e movimentos judaicos de pensamento.
+<06>26-832		Ultra-ortodoxos. Movimento hasídico.
+<06>26-846		O Judaísmo em determinados países
+<06>26-846(63) Falashas (Etiópia)
+<06>26-87		Heresias. 
+<06>26-87-051 Apikoros. Heréticos.
+<06>26-87.2	Caraítas. 
+<06>26-87.7	Sabetaianismo. 
+<06>26-87.7-3 Shabbetai Zevi
+<09>Divisões principais
+
+<01>262	
+<02>Judaísmo asquenazita.
+
+<01>264	
+<02>Judaísmo sefardita.
+
+<01>265	
+<02>Judaísmo ortodoxo.
+
+<01>265.5	
+<02>Neo-ortodoxia.
+
+<01>266	
+<02>Judaísmo progressista.
+
+<01>266.2	
+<02>Judaísmo liberal
+
+<01>266.4	
+<02>Judaísmo conservador.
+
+<01>266.6	
+<02>Judaísmo reconstrucionista.
+
+<01>266.8	
+<02>Judaísmo humanista.
+
+<01>267	
+<02>Movimentos modernos originários do Judaísmo.
+
+<01>267.5	
+<02>Judeus negros.
+
+
+<01>27	
+<02>Cristandade. Igrejas e denominações cristãs.
+<09>Subdivisões auxiliares especiais
+<06>27-1		Teologia cristã
+<06>27-14		Deus. Compreensão cristã de Deus.
+<06>27-141		Existência de Deus. Provas da existência de Deus.
+<06>27-143		Obras de Deus
+<06>27-144		Atributos de Deus.
+<06>27-144.7	Essência de Deus.
+<06>27-144.8	Natureza de Deus.
+<06>27-144.89	A Trindade.
+<06>27-144.892	Deus Pai.
+<06>27-144.894	Deus Filho.
+<06>27-144.896	Deus Espírito Santo. O Paráclito.
+<06>27-145.2	Deísmo. Criação. Deus criador. Deus planejador.
+<06>27-145.3	Teísmo. Providência. Providência e proteção divinas.
+<06>27-145.55	Intervenção divina.
+<06>27-167		Seres sobrenaturais.
+<06>27-167.2	Anjos. A hierarquia angélica. Tronos. Dominações. Principados. Potestades.
+<06>27-167.25	Arcanjos. Miguel. Rafael. Gabriel.
+<06>27-167.4	Anjos da guarda.
+<06>27-167.6	Anjos maus. Seres malevolentes.
+<06>27-167.64	O diabo. Satã. Lúcifer.
+<06>27-167.64-185.325 A queda dos anjos
+<06>27-175		Novíssimos. Escatologia. Fim do mundo.
+<06>27-175.2	O Apocalipse.
+<06>27-175.27	Eventos. A vinda do Anticristo.
+<06>27-175.3	O juízo final.
+<06>27-175.4	Destruição do mundo.
+<06>27-175.7	Reino eterno de Cristo.
+<06>27-175.75	Quiliasmo. O reino dos mil anos.
+<06>27-18		O homem.
+<06>27-181		Origem do homem.
+<06>27-181.5	Criação do homem.
+<06>27-181.7	O Jardim do Éden.
+<06>27-183.5	A alma.
+<06>27-184		Relação do homem com Deus.
+<06>27-184.2	Sentimentos religiosos. Sentimentos cristãos.
+<06>27-184.3	A fé. Fé em Deus.
+<06>27-184.35	Conversão religiosa. Reconhecimento formal da fé.
+<06>27-184.4	Dúvida. Descrença.
+<06>27-184.6	A graça.
+<06>27-184.8	A resposta de Deus ao homem.
+<06>27-184.85	Dons do espírito.
+<06>27-185.3	O pecado.
+<06>27-185.32	O pecado original. A queda do homem.
+<06>27-185.33	Arrependimento. Penitência. Contrição.
+<06>27-185.36	Remissão dos pecados.
+<06>27-185.5	A salvação. Soteriologia.
+<06>27-185.52	A justificação.
+<06>27-185.53	A redenção.
+<06>27-186		A morte.
+<06>27-187		Vida após a morte. Vida futura.
+<06>27-187.3	A imortalidade da alma.
+<06>27-187.6	Ressurreição do corpo.
+<06>27-187.85	Aniquilação do ser.
+<06>27-188		Reinos espirituais.
+<06>27-188.26	Julgamento do indivíduo.
+<06>27-188.5	Céu. Paraíso celestial.
+<06>27-188.6	Purgatório. Limbo.
+<06>27-188.7	Inferno. 
+<06>27-22		Revelação de Deus. Teologia revelada.
+<06>27-225		Teofania. Manifestação de Deus.
+<06>27-23		A Bíblia.
+<09>26-23 Textos sagrados.
+<06>27-232		Textos originais.
+<06>27-235		Versões da Bíblia.
+<06>27-236		Paráfrases da Bíblia.
+<06>27-236.5	Estórias da Bíblia.
+<06>27-242		O Antigo Testamento.
+<06>27-242.2	O Heptateuco.
+<06>27-242.3	O Hexateuco.
+<06>27-242.4	O Pentateuco.
+<06>27-242.5	O Gênese.
+<06>27-242.6	Êxodo. 
+<06>27-242.7	Levítico. 
+<06>27-242.8	Números. 
+<06>27-242.9	Deuteronômio. 
+<06>27-243.2	Os livros históricos.
+<06>27-243.22	Josué. 
+<06>27-243.25	Juízes. 
+<06>27-243.27	Rute. 
+<06>27-243.32	I Samuel (I Reis).
+<06>27-243.35	II Samuel (II Reis).
+<06>27-243.42	I Reis (III Reis).
+<06>27-243.45	II Reis (IV Reis).
+<06>27-243.46	I Crônicas.
+<06>27-243.47	II Crônicas.
+<06>27-243.55	Esdras. 
+<06>27-243.56	Neemias. 
+<06>27-243.57	Ester. 
+<06>27-243.6	Literatura de sabedoria. Os livros poéticos.
+<06>27-243.62	Jó. 
+<06>27-243.63	Salmos. 
+<06>27-243.65	Provérbios. 
+<06>27-243.66	Eclesiastes. 
+<06>27-243.67	Cântico dos Cânticos.
+<06>27-244		Os Profetas.
+<06>27-244.2	Os profetas maiores.
+<06>27-244.22	Isaías. 
+<06>27-244.23	Jeremias. 
+<06>27-244.24	Lamentações. 
+<06>27-244.25	Ezequiel. 
+<06>27-244.27	Daniel. 
+<06>27-244.32	Os profetas menores.
+<06>27-244.33	Oséias. 
+<06>27-244.34	Joel. 
+<06>27-244.35	Amós. 
+<06>27-244.37	Obadias. 
+<06>27-244.42	Jonas. 
+<06>27-244.45	Miquéias. 
+<06>27-244.47	Naum. 
+<06>27-244.48	Habacuque. 
+<06>27-244.52	Sofonias. 
+<06>27-244.53	Ageu. 
+<06>27-244.55	Zacarias. 
+<06>27-244.57	Malaquias. 
+<06>27-245		Os Apócrifos. Apócrifos do Antigo Testamento.
+<06>27-245.24	Esdras I.
+<06>27-245.26	Esdras II.
+<06>27-245.28	Tobias. 
+<06>27-245.32	Judite. 
+<06>27-245.34	Ester. 
+<06>27-245.36	Sabedoria de Salomão
+<06>27-245.38	Eclesiástico. 
+<06>27-245.42	Baruc. 
+<06>27-245.44	Epistola de Jeremias.
+<06>27-245.46	Cântico das Três Crianças Santas.
+<06>27-245.48	Susana. 
+<06>27-245.52	Bel e o dragão.
+<06>27-245.54	Oração de Manassés.
+<06>27-245.56	Macabeus I.
+<06>27-245.58	Macabeus II.
+<06>27-245.6/.7	Pseudoepígrafos do Antigo Testamento.
+<06>27-245.62	Livro dos Jubileus.
+<06>27-245.63	I Esdras.
+<06>27-245.64	III Macabeus.
+<06>27-245.65	IV Macabeus.
+<06>27-245.66	Vida de Adão e Eva.
+<06>27-245.67	Epístola de Aristéias.
+<06>27-245.68	Martírio de Isaías.
+<06>27-245.69	Salmos de Salomão.
+<06>27-245.72	Livro de Enoque.
+<06>27-245.73	Assunção de Moisés.
+<06>27-245.74	Apocalipse de Baruc.
+<06>27-245.76	Oráculos sibilinos.
+<06>27-245.77	Testamento dos Doze Patriarcas.
+<06>27-245.8	Outros pseudo epígrafos do Antigo Testamento.
+<06>27-246		O Novo Testamento.
+<06>27-247		Os Evangelhos.
+<06>27-247.2	Os Evangelhos Sinóticos.
+<06>27-247.4	Mateus. 
+<06>27-247.6	Marcos. 
+<06>27-247.7	Lucas. 
+<06>27-247.8	João. 
+<06>27-248.2	Atos dos Apóstolos.
+<06>27-248.3	Epístolas. 
+<06>27-248.4	Epístolas paulinas.
+<06>27-248.42	Romanos 
+<06>27-248.44	Coríntios I.
+<06>27-248.46	Coríntios II.
+<06>27-248.48	Gálatas. 
+<06>27-248.52	Efésios. 
+<06>27-248.54	Filipenses. 
+<06>27-248.56	Colossenses. 
+<06>27-248.58	Tessalonicenses I.
+<06>27-248.62	Tessalonicenses II.
+<06>27-248.64	Timóteo I.
+<06>27-248.66	Timóteo II.
+<06>27-248.68	Tito. 
+<06>27-248.72	Filemon. 
+<06>27-248.74	Hebreus. 
+<06>27-248.76	Tiago. 
+<06>27-248.78	Pedro I.
+<06>27-248.82	Pedro II.
+<06>27-248.83	João I.
+<06>27-248.84	João II.
+<06>27-248.86	João III.
+<06>27-248.88	Judas. 
+<06>27-249		A revelação de João.
+<06>27-252		Os apócrifos e pseudoapócrifos do Novo Testamento.
+<06>27-252.2	Evangelhos apócrifos e pseudoapócrifos.
+<06>27-252.4	Epístolas pseudo epígrafas.
+<06>27-252.6	Outros Apócrifos e Pseudo apócrifos do Novo Testamento.
+<06>27-27		Obras críticas. Introdução à Bíblia.
+<06>27-271.4	Formas paralelas. Harmonias bíblicas.
+<06>27-271.5	Versões anotadas.
+<06>27-272		Concordâncias bíblicas.
+<06>27-272.4	Concordâncias verbais.
+<06>27-272.5	Concordâncias temáticas.
+<06>27-273		Comentários à Bíblia.
+<06>27-274.2	Autoria. Origem dos textos.
+<06>27-274.4	Cânon. Canonicidade da Bíblia.
+<06>27-274.6	Autoridade. Ausência de erro na Escritura.
+<06>27-275		Crítica textual.
+<06>27-276		Crítica literária.
+<06>27-277		Estudo da Bíblia. 
+<06>27-277.2	Exegese bíblica. Hermenêutica bíblica.
+<06>27-278		Teologia bíblica.
+<06>27-28		Textos cristãos não-bíblicos.
+<06>27-282		Textos litúrgicos.
+<06>27-282.3	Credos e confissões de fé.
+<06>27-282.3NIC Credo niceno
+<06>27-282.3-144.89 A Trindade no Credo. NOTA: classificar aqui 
+<04>a questão “Filioque”
+<06>27-282.4	Catecismo. 
+<06>27-282.5	Livros de orações.
+<06>27-282.7	Livros de cerimônia.
+<06>27-284		Teologia cristã sistemática. Teologia dogmática.
+<06>27-285.2	Apologética. 
+<06>27-285.4	Polêmica cristã.
+<06>27-285.4:26 Contra os judeus
+<06>27-285.4:27-87 Contra os hereges
+<06>27-29		Literatura cristã.
+<06>27-31		Jesus Cristo. Cristologia.
+<06>27-31-144.894 Divindade de Cristo
+<06>27-31:244.894.2 Cristo como Logos, Verbo de Deus
+<06>27-31:144.894.25 Pré-existência do Logos
+<06>27-31-166 Encarnação de Cristo. Humanidade de Cristo
+<06>27-31-185.53 Cristo e Redenção
+<06>27-31-384 Sacerdócio de Cristo
+<06>27-31-475 Ensinamento de Cristo
+<06>27-31-543.4 Intercessão de Cristo
+<06>27-312		Vida de Jesus.
+<06>27-312.3	Natividade e infância de Cristo.
+<06>27-312.4	A Sagrada Família.
+<06>27-312.45	José. 
+<06>27-312.47	Maria. A Virgem Maria. Theotokos (Mãe de Deus). Mariologia.
+<06>27-312.5	João Batista.
+<06>27-312.55	Os discípulos.
+<06>27-312.7	Ministério. Vida pública.
+<06>27-312.8	Paixão de Cristo. Julgamento e Crucifixão. Amortalhamento. 
+<04>Sepultamento.
+<06>27-312.9	Ressurreição. Ascensão.
+<06>27-317		Palavras e ditos de Jesus. Feitos de Jesus.
+<06>27-317.3	Parábolas. 
+<06>27-317.5	Milagres. 
+<06>27-318		Jesus como exemplo para os cristãos. Imitação de Cristo.
+<06>27-32		Jesus como Messias.
+<06>27-32-12 Conceito de Messias. Natureza, compreensão do Messias.
+<06>27-32-23 O Messias segundo a Bíblia
+<06>27-32-24 Genealogia do Messias
+<06>27-32-244 Profecias messiânicas na Bíblia
+<06>27-36		Santos. 
+<06>27-36ATH Santo Atanásio
+<06>27-36BAS São Basílio
+<06>27-36CYR São Cirilo (Constantino)
+<06>27-36IGN Santo Inácio
+<06>27-36JOS São José
+<06>27-36MAX São Máximo
+<06>27-36MET São Métódio
+<06>27-36NIL São Nilo
+<06>27-36SERA São Serafim
+<06>27-36SERG São Sérgio
+<06>27-4		Teologia prática. Prática cristã.
+<06>27-42		Teologia moral.
+<06>27-423		Certo e errado.
+<06>27-423.3	Conhecimento do certo e do errado.
+<06>27-42335	Consciência. 
+<06>27-423.4	Livre-arbítrio. Liberdade de ação.
+<06>27-423.42	Fatores que afetam o livre-arbítrio. Ignorância. Medo.
+<06>27-423.45	Predestinação. 
+<06>27-423.5	Mau procedimento.
+<06>27-423.5-051 Pecadores
+<06>27-423.57	Pecados específicos.
+<06>27-423.58	Pecados mortais. Soberba. Avareza. Inveja. Luxúria. Ira. Gula. Preguiça.
+<06>27-423.7	Virtudes. 
+<06>27-423.75	Virtudes específicas.
+		      Detalhar por meio da extensão alfabética A/Z (Tabela Ih)
+<06>27-423.77	Virtudes morais. Humildade. Arrependimento. Modéstia. Zelo. Apostolado.
+		Castidade. Continência. Pobreza. Obediência.
+<06>27-423.78	Virtudes cardeais. Justiça. Prudência. Fortaleza. Temperança.
+<06>27-423.79	Virtudes teologais. Fé. Esperança. Caridade.
+<06>27-428		Leis morais, obrigações, regulamentos. Os mandamentos da Igreja.
+<06>27-428-23	Mandamentos derivados da Bíblia.
+<06>27-428-242.6	Os Dez Mandamentos. 
+		      A ordem de apresentação dos mandamentos é a da Igreja Católica
+<04>Romana, com o fim de acomodar os detalhes enumerados na tabela 
+<04>cancelada. Fica a critério dos usuários interpretar a numeração dos
+<04>mandamentos conforme julguem mais útil. 
+<06>27-428-242.6.1 O primeiro mandamento. Adesão a e transgressão do primeiro 
+<04>mandamento. Adoração. Oração. Observância das festas. Superstição.
+<04>Idolatria.
+<04>Magia. Adivinhação.
+<06>27-428-242.6.2 Adesão a e transgressão do segundo mandamento. Tentação a Deus.
+<04>Sacrifício. Simonia. Blasfêmia. Imprecação. Juramento. Praga.
+<06>27-428-242.6.3 O terceiro mandamento. Adesão a e transgressão do terceiro
+<04>mandamento.
+<06>27-428-242.6.4 O quarto mandamento. Adesão a e transgressão do quarto mandamento.
+<06>27-428-242.6.5 O quinto mandamento. Adesão a e transgressão do quinto mandamento.
+<04>Suicídio. Homicídio. Assassinato. Aborto. Duelo. Guerra.
+<06>27-428-242.6.6 O sexto mandamento. Adesão a e transgressão do sexto mandamento.
+<06>27-428-242.6.7 O sétimo mandamento. Adesão a e transgressão do sétimo mandamento.
+<06>27-428-242.6.8 O oitavo mandamento. Adesão a e transgressão do oitavo mandamento.
+<04>Mentira. Falso juízo. Falso testemunho. Difamação. Calúnia. Insolência.
+<04>Contumélia. Obrigação do segredo. Discrição. Hipocrisia. Jactância.
+<06>27-428-242.6.9 O nono mandamento. Adesão a e transgressão do nono mandamento.
+<06>27-428-242.6.99	O décimo mandamento. Adesão a e transgressão do décimo mandamento.
+<06>27-428.2	Natureza da lei.
+<06>27-428.4	Exigências da lei.
+<06>27-428.6	Interpretação da lei. Epiquéia.
+<06>27-428.7	Isenção da lei.
+<06>27-428.8	Transgressão da lei.
+<06>27-428.85	Mitigação da lei.
+<06>27-428.87	Clemência. 
+<06>27-428.9	Emendas, revogação da lei.
+<06>27-43		Costumes e práticas sociais cristãs. Teologia social.
+<06>27-442		Comida e dieta.
+<06>27-442.47	Jejum. 
+<06>27-443.5	Traje, aparência.
+<06>27-447		Atividade e prática sexuais.
+<06>27-447.7	Celibato. 
+<06>27-45		Casamento e família cristãos.
+<06>27-452		Casamento cristão.
+<06>27-555 Casamentos. Bodas. Núpcias
+<06>27-452.5	Contratos de casamento.
+<06>27-454		Divórcio. 
+<06>27-46		Teologia pastoral. Obra pastoral. Caridade cristã.
+<06>27-463		Dádiva caridosa.
+<06>27-463.2	Dízimos. Mordomia.
+<06>27-464		Trabalho voluntário.
+<06>27-468		Caridade. Cuidados e atendimento físicos.
+<06>27-468.5	Enfermagem. 
+<06>27-468.6	Cura. Ministério da cura.
+<06>27-47		Educação cristã.
+<06>27-472		Instrução religiosa.
+<06>27-475		Pregação. Oratória religiosa.
+<06>27-475.2	Homilética. 
+<06>27-475.5	Sermões. 
+<06>27-475.5-23 Sermões baseados na Sagrada Escritura.
+<06>27-48		Beneficiários dos cuidados. Grupos em teologia pastoral.
+<06>27-484.7	Grupos oprimidos. Teologia da libertação.
+<06>27-5		Culto e ritual cristãos.
+<06>27-522		Sítios cristãos. Lugares cristãos.
+<06>27-522.2	Localização, orientação.
+<06>27-523		Eclesiologia. Edifícios da igreja e seu conteúdo.
+<06>27-523:7 Edifícios por período e estilo
+<06>27-523.4	Edifícios de igreja cristã (significado religioso).
+		      Para arquitetura religiosa, ver 726
+<06>27-523.4:7.033.2 Igrejas bizantinas
+<06>27-523.4:033.5 Igrejas góticas
+<06>27-523.41	Catedrais. 
+<06>27-523.42	Igrejas. Igrejas paroquiais.
+<06>27-523.43	Capelas separadas, independentes, livres. Inclusive Igrejas auxiliares.
+<06>27-524		Veículos dos atos de culto.
+<06>27-525.4	Paramento e objetos pessoais. Casula. Sobrepeliz. Barrete. Mitra. Báculo.
+<06>27-525.7	Roupa branca da igreja. Cortinas. Toalhas do altar.
+<06>27-526.1	Mobiliário. Pia batismal. Atris. Púlpitos. Mesas de oração,
+<06>27-526.2	Altares. Mesas. Mesas de comunhão.
+<06>27-526.22	Tabernáculos. Píxides.
+<06>27-526.24	Armários 
+<06>27-526.3	Vasos. Inclusive Cálices. Cibórios. Ostensórios.
+<06>27-526.5	Luzes. Iluminação.
+<06>27-526.6	Símbolos e imagens cristãs.
+<06>27-526.6-137 Veneração de imagens.
+<06>27-526.62	Ícones. Afrescos. Pinturas. Iconografia.
+<06>27-526.63	Objetos e dispositivos de decoração. Vitrais.
+<06>27-526.64	Imagens. Estátuas.
+<06>27-526.65	Monumentos funerários. Lápides.
+<06>27-526.7	Relíquias. 
+<06>27-528		Liturgia cristã.
+<06>27-528:001.4 Linguagem litúrgica.
+<06>27-528-274.2 Fontes, origem da liturgia cristã
+<06>27-528-274.6 Autoridade da liturgia
+<06>27-528-276.63 Simbolismo da liturgia
+		      -276.63:535.6 Cores litúrgicas
+<06>27-528.1/.8	Liturgias cristãs tradicionais.
+<04>A maioria data de antes da divisão da Igreja; entretanto, as bibliotecas 
+<04>podem preferir subordiná-los a determinadas denominações e igrejas.
+<06>27-528.1	Rito romano antigo.
+<06>27-528.2	Rito gálico.
+<06>27-528.3	Rito moçárabe.
+<06>27-528.4	Ambrosiano. 
+<06>27-528.5	Liturgias africanas.
+<06>27-528.55	Liturgias etíope, copta.
+<06>27-528.57	Ritos egípcio, alexandrino.
+<06>27-528.6	Ritos sírio, palestino, antioqueno.
+<06>27-528.7	Ritos britânicos. Inclusive Rito de Sarum. De York. De Hereford.
+<06>27-528.75	Rito celta.
+<06>27-528.8	Rito bizantino. Ritos ortodoxos.
+<06>27-53		Atos cristãos de culto.
+<06>27-532.2	Culto público. Cerimônias. Ofícios.
+<06>27-532.2"345”Cerimônias noturnas. Vigílias.
+<06>27-532.2"-282 Livros de ofícios. Livros de cerimônia
+<06>27-532.3	Culto familiar. Culto doméstico. Culto em casa.
+<06>27-532.4	Culto privado. Devoções pessoais.
+<06>27-534.3	Orações. Ladainhas, prefácios.
+<06>27-534.35	Orações específicas.
+<06>27-534.35AVE Ave Maria
+<06>27-534.35PAT Pater Noster. Pai Nosso. Oração do Senhor.
+<06>27-534.4	Leitura de textos. Lições.
+<06>27-534.5	Cânticos. 
+<06>27-534.6	Profecia. 
+<06>27-534.7 Glossolalia. Dom das línguas.
+<06>27-535		Música. 
+<06>27-535.35	Cânticos. 
+<06>27-535.7	Hinos. 
+<06>27-535.7-23 Hinários:
+<06>27-535.8	Salmos. 
+<06>27-536		Ritos físicos.
+<06>27-536.1	Uso de água. Asperges, aspersão.
+<06>27-536.27	Incensação. 
+<06>27-536.3	Posturas corporais.
+<06>27-536.34	Reverência. 
+<06>27-536.35	Ato de ajoelhar-se. Genuflexão.
+<06>27-536.36	Prostração. 
+<06>27-536.4	Gestos simbólicos.
+<06>27-536.42	Sinal da Cruz.
+<06>27-536.45	Beijo da paz.
+<06>27-536.5	Procissões. 
+<06>27-536.7	Imposição das mãos.
+<09>27-468.65 Imposição das mãos
+<06>27-537		Oferendas. 
+<06>27-54		Cerimônias segundo a finalidade.
+<06>27-543.7	Confissão. 
+<06>27-43.8	Penitência. 
+<06>27-544.3	Absolvição. Perdão.
+<06>27-544.6	Consagração. Voto. Promessa.
+<06>27-546.2	Bênção. 
+<06>27-546.4	Maldição. Anátema. Profanação.
+<06>27-546.4-526.6 Iconoclasmo.
+<06>27-546.4-528.82 Eucaristia de São João Crisóstomo.
+<06>27-546.4-528.83 Eucaristia de São Basílio.
+<06>27-546.4-528.84 Eucaristia de São Tiago, o irmão do Senhor.
+<06>27-546.4-528.85 Eucaristia dos pré-santificados.
+<06>27-548.5	Exorcismo. 
+<06>27-549		Eucaristia. Comunhão. Santa Comunhão. Missa.
+<06>27-549-544.55 Comunhão como comemoração.
+<06>27-549.3	Presença de Cristo na comunhão.
+<06>27-549.3-284 Doutrina da presença de Cristo. Transubstanciação. 
+<04>Consubstanciação
+<06>27-55		Sacramentos. 
+		      A maioria das religiões possui algum conceito de sacramentos, 
+<04>embora não coincidam com o que é considerado como sacramental.
+<04>Conseqüentemente, esta posição geral é proporcionada para tratamentos
+<04>abrangentes dos sacramentos. Os sacramentos individuais não são
+<04>necessariamente contíguos quando se trata de determinada religião
+<06>27-555		Casamento. Bodas. Núpcias.
+<06>27-555-546.2 Bênção, consagração de casamentos
+<06>27-557		Funerais. Ritos fúnebres.
+<06>27-557-287 Discursos fúnebres
+<06>27-557-536.25 Extrema-unção
+<06>27-558		Estágios da vida religiosa.
+<06>27-558.3	Batismo. 
+<06>27-558.4	Confirmação, crisma.
+<06>27-558.5	Ordem. 
+<06>27-558.6	Beatificação. 
+<06>27-558.7	Canonização. 
+<06>27-559		Coroações. 
+<06>27-562		Festividades e festas.
+<06>27-563		Domingos. Dia de Sábado. Dia do Senhor.
+<06>27-563:331.311 Trabalho aos domingos.
+<06>27-563:79 Diversão aos domingos
+<06>27-563.4	Observância do domingo.
+<06>27-563.5	Horas especiais. Tempo para oração. Horas canônicas.
+<06>27-564		Ano eclesiástico. Calendário cristão.
+<06>27-565		Festividades e festas mais importantes.
+<06>27-565.2	Advento. 
+<06>27-565.3	Natal. Período do Natal.
+<06>27-565.35	Epifania. 
+<06>27-565.36	Apresentação no Templo (Candelária, Festividade da Purificação).
+<06>27-565.37	Setuagésima. Sexagésima. Qüinquagésima.
+<06>27-565.4	Quaresma. 
+<06>27-565.42	Quarta-feira de cinzas.
+<06>27-565.44	Domingo (Dominga) de Ramos.
+<06>27-565.5	Semana Santa. Período da Paixão.
+<06>27-565.52	Sexta-feira santa.
+<06>27-565.54	Período da Páscoa.
+<06>27-565.6	Dia da Páscoa.
+<06>27-565.6-549 Comunhão pascal.
+<06>27-565.72	Ascensão. 
+<06>27-565.73	Pentecostes. 
+<06>27-565.74	Trindade. 
+<06>27-565.75	Corpus Christi. Corpo de Deus.
+<06>27-565.76	Todos os Santos.
+<06>27-565.77	Todas as almas. Finados.
+<06>27-565.79	Dias dos santos.
+<06>27-565.8	Festividades de Maria. Anunciação. Assunção. Imaculada Conceição.
+<06>27-565.9	Outras festividades e festas.
+<06>27-57		Peregrinações 
+<06>27-58		Religião contemplativa e reflexiva.
+<06>27-58-472 Orientação espiritual
+<06>27-58-544.7 Iluminação. Autoconhecimento
+<06>27-583		Meditação. Contemplação. Oração pessoal.
+<06>27-584		Vida espiritual.
+<06>27-584.5	Crescimento e desenvolvimento espirituais.
+<06>27-584.7	Exercícios espirituais.
+<06>27-585		Ascetismo. 
+<06>27-586		Retraimento. Retiro.
+<06>27-587		Misticismo. Estados alterados de consciência. Êxtases divinos.
+<06>27-587.7	Experiência direta do Divino.
+<06>27-636		Reavivamentos cristãos.
+<06>27-64		Relações da Cristandade.
+<06>27-662		Influência exercida pelas igrejas cristãs.
+<06>27-662:3 Influência da Igreja na sociedade. Inclusive Movimentos
+<04>sociais cristãos.
+<06>27-67		Relações da Cristandade com outras religiões.
+<06>27-67:26 Relações com o Judaísmo.
+<06>27-67:27-727 Relações com os não-cristãos.
+<06>27-673.5	Irenismo. 
+<06>27-675		Ecumenismo. 
+<06>27-676		Cooperação. Unidade da igreja.
+<06>27-72		A Igreja. A igreja Cristã.
+<06>27-72-144 Características da Igreja. Unidade. Santidade. Catolicidade.
+<04>Apostolicidade. Visibilidade.
+<06>27-72-4 Costumes e tradição da Igreja.
+<06>27-725		Ministros cristãos.
+<06>27-725:37 Educação dos padres
+<06>27-725-12 Conceito de sacerdócio
+<06>27-725-13 Santidade do sacerdócio
+<06>27-725-428.5 Deveres religiosos dos ministros
+<06>27-725-443.5 Aparência pessoal do clero
+<06>27-725-447.7 Celibato do clero
+<06>27-725-46 Papel pastoral do clero
+<06>27-725-558.5 Ordenação dos padres
+<06>27-725-735 Benefícios eclesiásticos. Meios de vida
+<06>27-726.1	Arcebispos. 
+<06>27-726.2	Bispos. 
+<06>27-726.25	Sacerdotes mais antigos. Arcediagos. Cônegos. Deões. Arciprestes.
+<06>27-726.3	Padres. Ministros. Vigários.
+<06>27-726.4	Ministros assistentes. Diáconos.
+<06>27-726.6	Leigos. Membros da Igreja. Crentes.
+<06>27-726.6-428.5 Deveres religiosos dos leigos
+<06>27-726.6-427 Promoção informal da fé Católica Romana por leigos.
+<04>NOTA: classificar aqui o sacerdócio universal da religião, prelazia 
+<04>pessoal e movimentos tais como a Opus Dei
+<06>27-727		Não-cristãos. Não-crentes.
+<06>27-732		Autoridade da Igreja.
+<06>27-732.1	Fonte da autoridade. Inclusive Sucessão apostólica.
+<06>27-732.3	Órgãos reguladores das igrejas. Sínodos. Concílios.
+<06>27-732.3"325”Concílio de Nicéia
+<06>27-732.3"325”-875.26 O Arianismo e o Concílio de Nicéia.
+<06>27-732.3"1438/1439) Concílio de Florença
+<06>27-732.4	Outros concílios diferentes dos órgãos reguladores.
+<06>27-732.4-675 Concílios ecumênicos.
+<06>27-733		Vocação religiosa.
+<06>27-74		Direito religioso. Direito religioso cristão. Direito canônico.
+<06>27-74-725 Pessoas no direito canônico
+<06>27-742-24	A Bíblia como fonte do Direito.
+<06>27-742-266	Código de leis. Inclusive Corpus Iuris Canonici. Código de Direito 
+<04>Canônico.
+<06>27-742-267 Comentário e interpretação. Textos legais.
+<06>27-745		Tribunais religiosos cristãos.
+<06>27-75		Educação. 
+<06>27-752		Escolas dominicais.
+<06>27-76		Missões cristãs.
+<06>27-76-051	Missionários. 
+<06>27-763		Companhias missionárias. Cruzadas.
+<06>27-764		Missões além-mar. Missões no estrangeiro.
+<06>27-767		Proselitismo. 
+<06>27-772		Sés. Dioceses.
+<06>27-774		Paróquias. 
+<06>27-774-46 Obra pastoral em paróquias
+<06>27-774-475 Educação em paróquias.
+<06>27-774-735 Gerência e administração em paróquias
+<06>27-774-763 Administração da paróquia. Missões. Campanhas 
+<04>paroquiais.
+<06>27-784		Associações e organizações cristãs.
+<06>27-784-055.1 Associações cristãs para homens
+<06>27-784-055.2 Associações cristãs para mulheres
+<06>27-784-055.3 Associações cristãs para crianças, jovens.
+<06>27-784-46 Organizações para obra pastoral.
+<06>27-786		Grupos religiosos e ordens leigas.
+<06>27-788		Ordens monásticas. Monaquismo. Ordens religiosas propriamente ditas.
+<06>27-788-056 Funcionários. Pessoas ordenadas.
+<06>27-788-055.1 Ordens masculinas. Monges.
+<06>27-788-055.2 Ordens femininas. Freiras.
+<06>27-788-1/-9	Religião e prática monásticas.
+<06>27-788-35	Ascética em geral. Inclusive Eremitas. Reclusos. Anacoretas. Estilitas.
+<06>27-788-428.5	Deveres das pessoas ordenadas. Obrigações. Regras.
+<06>27-788-544.6	Votos 
+<06>27-788-544.6-428.5 Obediência
+<06>27-788-544.6-447.4 Castidade
+<06>27-788-544.6-463.6 Pobreza
+<06>27-788-558.2	Noviciado. 
+<06>27-788-733	Vocação para as ordens.
+<06>27-788-9	História do monaquismo.
+<06>27-788.4	Ordens cristãs trabalhadoras.
+<06>27-788.435 Ordens militares. Inclusive Cavaleiros Templários.
+<06>27-788.461 Ordens médicas, de enfermeiros. Inclusive Cavaleiros 
+<04>Hospitalários.
+<06>27-789		Ordens monásticas cristãs específicas.
+		      Uma quantidade de ordens nomeadas aqui só tem representação
+<04>na Igreja Católica Romana; entretanto, tal não pode ser dito de 
+<04>todas, e, conseqüentemente,  este lugar foi providenciado para uma 
+<04>classe una para as ordens monásticas. Ordens individuais
+<04>podem, sem dúvida, subordinar-se ao Catolicismo Romano, se 
+<04>necessário. P. ex.: 272-789.5 Jesuítas.
+<06>27-789.1	Ordens antigas. Ordens no modelo oriental.
+<06>27-789.15	Regra de São Pacômio.
+<09>27-789.2-428 Regra de São Bento.
+<06>27-789.17	Regra de São Basílio.
+<06>27-789.17-028.11 Regra mais longa
+<06>27-789.17-028.13 Regra mais curta
+<06>27-789.2	Beneditinos. 
+<09>27-789.2-428 Regra de São Bento.
+<06>27-789.23	Camaldulenses. 
+<06>27-789.24	Cartuxos (Cartusianos).
+<06>27-789.25	Cistercienses. “Monges brancos”.
+<06>27-789.255	Trapistas (Cistercienses Reformados).
+<06>27-789.3	Ordens mendicantes em geral.
+<06>27-789.32	Franciscanos. Frades Menores. Frades Cinzentos.
+<06>27-789.325	Capuchinhos. 
+<06>27-789.33	Dominicanos. Frades negros. Jacobinos.
+<06>27-789.34	Carmelitas. Frades brancos.
+<06>27-789.35	Servitas. 
+<06>27-789.4	Agostinianos. 
+<06>27-789.43	Premonstratenses. Norbertinos. Cônegos brancos.
+<06>27-789.45	Ursulinos. 
+<06>27-789.5	Jesuítas (Companhia de Jesus).
+<06>27-789.6	Ordens menores.
+<06>27-789.62	Redentoristas. 
+<06>27-789.63	Vicentinos. 
+<06>27-789.64	Sociedade de São Francisco de Sales. Salesianos.
+<06>27-789.67	Beguinas. 
+<06>27-789.9	Outras ordens.
+<06>27-852.5	Escolas cristãs de pensamento, filosofias.
+<06>27-87		Heresia. Heresias.
+<06>27-872		Heresias antigas. Heresias do período patrístico.
+<06>27-873		Antinomianismo. 
+<06>27-874		Gnosticismo e heresias com o mesmo relacionados.
+<06>27-874-3	Simão Mago.
+<06>27-874.3	Valentino. Valentinianos.
+<06>27-874.5	Basilidianos. 
+<06>27-874.6	Marcion. Marcionitas.
+<06>27-874.7	Mani. Maniqueísmo.
+<06>27-874.8	Priscilianistas. 
+<06>27-875.2	Heresias sobre a natureza de Deus e da Trindade.
+<06>27-875.22	Docetismo. 
+<06>27-875.23	Montanismo. 
+<06>27-875.24	Adocianismo. 
+<06>27-875.25	Sabelianismo. 
+<06>27-875.26	Aruabusni 
+<06>27-875.27	Macedonianismo. 
+<06>27-875.5	Heresias sobre a encarnação.
+<06>27-875.53	Ebionitas. 
+<06>27-875.54	Elcesaítas. 
+<06>27-875.55	Nestorianismo. 
+<06>27-875.56	Monofisitas. 
+<06>27-875.57	Eutiquianismo. 
+<06>27-875.6	Heresias sobre a natureza da Igreja e dos crentes.
+<06>27-875.64	Novacianismo. 
+<06>27-875.66	Donatismo. 
+<06>27-875.68	Pelagianismo. 
+<06>27-876		Heresias na história recente da Igreja.
+<06>27-876.2	Neo-Maniqueísmo. Heresias gnósticas. Credos dualísticos.
+<06>27-876.3	Paulicianos. 
+<06>27-876.4	Cátaros. 
+<06>27-876.45	Bogomilos. 
+<06>27-876.7	Iconoclastas. 
+<06>27-877		Heresias dos séculos XIII-XV.
+<06>27-877.2	Hesicastas. 
+<06>27-877.3	Joaquimitas. 
+<06>27-877.4	Flagelantes. 
+<06>27-877.5	Begardos. 
+<09>27-789.67 Beguinas. Begardos.
+<06>27-877.6	Wiclefitas. 
+<06>27-877.7	Lolardos. 
+<06>27-878		Heresias do século XVI em diante.
+<06>27-877.2	Jansenistas. 
+<06>27-877.3	Utraquistas. 
+<06>27-877.4	Hussitas. 
+<06>27-877.5	Brethren Boêmios (Irmãos da Boêmia)
+<06>27-879		Outras heresias.
+<06>27-9		História da igreja. História geral da Igreja Cristã.
+<06>27-9“.../1054” História da Igreja até o Grande Cisma.
+<06>27-9“00”	Igreja apostólica primitiva. A Igreja durante o primeiro século.
+<06>27-9“0100/0325”A Igreja no período pré-niceno.
+<06>27-9“01/07”	História do segundo ao oitavo século DC. Período dos padres da Igreja. Período
+<04>patrístico.
+<06>27-9“01/07”-284Patrística em sentido estrito. Escritos do período patrístico.
+<04>Estes podem ser mais adequadamente organizados por século, e, em seguida,
+<04>alfabeticamente por autor.
+<06>27-9“01”CLE Clemente
+<06>27-9“01”TER Tertuliano
+<06>27-9“01”ORI Orígenes
+<06>27-9“01”JER Jerônimo
+<06>27-9“0325/1054”A Igreja no período pós-niceno
+<06>27-9“08/09”	Atividades de São Fócio.
+-36FO
+<06>27-9“0858/1204”Período de desavenças.
+<09>Divisões principais
+
+<01>271/279	
+<02>Igrejas e denominações cristãs.
+
+<01>271	
+<02>Igreja do Oriente.
+
+<01>271.2	
+<02>Igreja Ortodoxa. Ortodoxa do Oriente. Ortodoxa grega e russa..
+<06>271.2-1 A “Tradição” ortodoxa. NOTA: é distinta de tradições, e compreende todo o corpo 
+<04>de doutrina da fé, a Bíblia, os Padres, os Concílios, etc. A Tradição abrange a Escritura, 
+<04>os Concílios, os Padres, a Liturgia, os Cânones, os Ícones.
+<06>271.2-23 A Bíblia ortodoxa. NOTA: esta Bíblia abrange os Setenta, i.e., 39 livros do 
+<04>Antigo Testamento, 10 livros deuterocanônicos e o Novo Testamento.                
+<06>271.2-282.7-247 O livro do Evangelho
+<06>271.2-282.7-247-536.36 Prostração ante o Livro do Evangelho
+<06>271.2-284 Declarações doutrinárias. Livros simbólicos
+<06>271.2-423.461 Capela da Prothesis, Preparação
+<06>271.2-423.463 Diakonikon
+<06>271.2-472-022.43 O Catecismo Maior
+<06>271.2-523.47 Ikonostasis
+<06>271.2-523.472 Porta Santa. Porta Real
+<06>271.2-523.472-525.7 Cortina através da Porta Santa
+<06>271.2-525.4 Estolas. Epitrachilia
+<06>271.2-526.2 Santa Mesa. Santo Trono
+<06>271.2-526.3 Colher para distribuir a Comunhão
+<06>271.2-526.4 Terços. Rosários. Barbantes do orante
+<06>271.2-526.5 Velas
+<06>271.2-528-534.5 Ladainhas
+<06>271.2-528-549 A Santa Liturgia
+<06>271.2-528-549-536.4-022.51 Pequeno Intróito. Sinaxe
+<06>271.2-528-549-536.4-022.56 Grande Intróito
+<06>271.2-528-549.3 Epiclesis
+<06>271.2-528.8 Rito bizantino
+<06>271.2-532.4 Antologia de textos ascéticos e místicos. Philokalia
+<06>271.2-534.35 Invocação do Nome
+<06>271.2-534.35-312 Oração de Jesus
+<06>271.2-536.1-032.2 Bênção da água
+<06>271.2-536.4 Sinal da Cruz. NOTA: classificar aqui o uso de dois dedos 
+<04>(praxe russa) e de três dedos (praxe grega)
+<06>271.2-536.72:644.642-024.42 Antidoron. NOTA: restos não-consagrados do
+<04>pão usado para a Comunhão, distribuídos no fim da Eucaristia
+<06>271.2-55 Sacramentos
+<06>271.2-55-543.7-544.3 Penitência
+<06>271.2-55-549 Santa Comunhão
+<06>271.2-55-555 Matrimônio
+<06>271.2-55-557-536.25 Unção dos enfermos
+<06>271.2-55-558.3 Batismo
+<06>271.2-55-558.4 Crisma
+<06>271.2-55-558.5 Ordem
+<06>271.2-55-022.51 Sacramentais
+<06>271.2-55-022.51-557 Ritos fúnebres
+<06>271.2-55-022.51-565.35-536.1-032.2 Bênção da água na Epifania
+<06>271.2-55-022.51-788-558.2 Profissão monástica. Vestimenta do religioso
+<06>271.2-55-022.51-532.36-536.2 Unção do monarca
+<06>271.2-563.5 O ofício divino
+<06>271.2 563.51 Primeira hora (Prima)
+<06>271.2-563.52 Terceira hora (Terça)
+<06>271.2-563.53 Matinas
+<06>271.2-563.54 Sexta hora (Sexta)
+<06>271.2-563.55 Vésperas
+<06>271.2-563.56 Completas
+<06>271.2-563.57 Ofício da Meia-Noite
+<06>271.2-564.11/.43 O ano ortodoxo. NOTA sobre o calendário: o ano da Igreja 
+<04>Ortodoxa começa em 1o de setembro
+<06>271.2-564.11-565.8 Natividade de Nossa Senhora (8 de setembro)
+<06>271.2-564.12-565.9-312.8 Exaltação da Santa Cruz (14 de setembro)
+<06>271.2-564.15-565.2 A festividade do Natal (15 de novembro - 24 de 
+<04>dezembro)
+<06>271.2-564.17 Entrada de Nossa Senhora no Templo (21 de novembro)
+<06>271.2-564.19–565.3 Natal
+<06>271.2-564.21-565.35 Epifania (Batismo do Senhor)
+<06>271.2-564.23-565.36 Apresentação no Templo (2 de fevereiro)
+<06>271.2-564.25-565.4 O Grande Jejum (7 semanas antes da Páscoa)
+<06>271.2-564.27-564.17 Anunciação (25 de março)
+<06>271.2-564.29-565.44 Domingo de Ramos
+<06>271.2-564.31-565.72 Ascensão
+<06>271.2-564.33-565.73 Pentecostes
+<06>271.2-564.35-565.79PET São Pedro e São Paulo (29 de junho)
+<06>271.2-564.37-565.79-442.47 Jejum dos Apóstolos. NOTA: começa na
+<04>segunda-feira depois de Pentecostes e termina em 28 de junho
+<06>271.2-564.39-565.8ASS-442.47 Jejum da Assunção (1o-14 de agosto)
+<06>271.2-564.41-565.9TRA Transfiguração (6 de agosto)
+<06>271.2-564.43-565.8ASS Assunção (15 de agosto)
+<06>271.2-726.1 Patriarcas
+<06>271.2-726.2 Bispos
+<06>271.2-726.3 Padres
+<06>271.2-726.3-447.7 Padres celibatários. Padres “negros” 
+<06>271.2-726.3-45 Padres casados. Padres “brancos”
+<06>271.2-726.4 Diáconos
+<06>271.2-726.52 Subdiáconos
+<06>271.2-726.54 Leitor(es). NOTA: estas são ordens menores distintas na Igreja Ortodoxa
+<06>271.2-74 Cônegos da Igreja Ortodoxa
+<06>271.2-788 Ordens monásticas
+<06>271.2-788(234.425.21) Monte Athos. O Grande Lavra
+<06>271.2-788(477.41) Petchersky Lavra. O mosteiro das Grutas
+<06>271.2-788-726.7 Os anciãos. Startsy (Singular: starets) 
+<09>Subdivisões auxiliares especiais
+<06>271.2-1	A “Tradição” ortodoxa.
+		      É distinta de tradições, e compreende todo o corpo de doutrina da fé, 
+<04>a Bíblia, os Padres, os Concílios, etc. A Tradição abrange a Escritura, 
+<04>os Concílios, os Padres, a Liturgia, os Cânones, os Ícones
+<06>271.2-23	A Bíblia ortodoxa.
+<04>Esta Bíblia abrange os Setenta, i.e., 39 livros do Antigo Testamento, 10
+<06>livros Deuterocanônicos e o Novo Testamento.
+<06>271.2-282.7-247 O Livro do Evangelho.
+<06>271.2-282.7-247-536.36 Prostração ante o livro do Evangelho
+<06>271.2-284	Enunciados doutrinários. Livros simbólicos.
+<06>271.2-423.461 Capela da Prothesis, Preparação.
+<06>271.2-423.463	Diakonikon. 
+<06>271.2-472	O catecismo maior
+-022.43
+<06>271.2-523.47	Ikonostasis. 
+<06>271.2-523.472	Porta Santa. Porta Real.
+<06>271.2-523.472-525.7 Cortina ao longo da Porta Santa
+<06>271.2-525.4	Estolas. Epitrachilia.
+<06>271.2-526.2	A Santa Mesa. O Santo Trono.
+<06>271.2-526.3	Colher (para distribuir Comunhão).
+<06>271.2-526.4	Terços. Rosários. Barbantes do orante.
+<06>271.2-526.5	Velas. 
+<06>271.2-528-534.5	Ladainhas. 
+<06>271.2-528-549 A Santa Liturgia.
+<06>271.2-528-549-536.4-022.51 Pequeno Intróito. Sinaxis (Sinaxe).
+<06>271.2-528-549-536.4-022.56 Grande Intróito.
+<06>271.2-528-549-536.3 Epiclesis (Epiclese)
+<06>271.2-528.8	Rito bizantino.
+<06>271.2-532.4	Antologia de textos ascéticos e místicos. Philokalia.
+<06>271.2-534.35	Invocação do nome.
+<06>271.2-534.35-312 A oração de Jesus
+<06>271.2-536.1	Bênção da água.
+-032.2
+<06>271.2-536.4	Sinal da Cruz.
+<04>Classificar aqui o uso de dois dedos (praxe russa) e dos três dedos (praxe
+<04>grega)
+-271.2-537.2:	Antidoron.
+
+<01>664.642	
+<02>
+-024.42	
+<04>Restos não-consagrados do pão usado para a Comunhão, distribuídos no
+<04>fim da Eucaristia
+<06>271.2-55	Sacramentos. 
+<06>271.2-55-543.7/-544.3 Penitência.
+<06>271.2-55-549 Santa Comunhão
+<06>271.2-55-555 Santo Matrimônio
+<06>271.2-55-557-536.25 Unção dos enfermos
+<06>271.2-55-558.3 Batismo.
+<06>271.2-558.4 Crisma. Confirmação.
+<06>271.2-55-558.5 Ordem
+<06>271.2-55-022.51 Sacramentalia. Sacramentais.
+<06>271.2-55-022.51-557 Ritos fúnebres
+<06>271.2-55-022.51-565.35-536.1-032.2 Bênção da água na Epifania
+<06>271.2-55-022.51-788-558.2 Profissão monástica. Vestimenta do religioso.
+<06>271.2-55-022.51-532.36-536.2 Unção do monarca.
+<06>271.2-563.5	Ofício Divino.
+<06>271.2-563.51 Primeira hora (Prima)
+<06>271.2-563.52 Terceira hora (Terça)
+<06>271.2-563.53Matinas 
+<06>271.2-563.54Sexta hora (Sexta)
+<06>271.2-563.55 Vésperas
+<06>271.2-563.56 Completas
+<06>271.2-563.57 Ofício da Meia-Noite
+<06>271.2-		O ano ortodoxo. Calendário.
+
+<01>564.11/.43	
+<02>
+<04>O ano na Igreja Ortodoxa começa em 1o de setembro
+<06>271.2-564.11-565.8 Natividade de Nossa Senhora (8 de setembro)
+<06>271.2-564.12-565.9-312.8 Exaltação da Santa Cruz (14 de setembro)
+<06>271.2-564.15-565.2 O Jejum do Natal(15 de novembro-24 de dezembro)
+<06>271.2-564.17 Entrada de Nossa Senhora no Templo (21 de novembro)
+<06>271.2-564.19-565.3 Natal
+<06>271.2-564.21-565.35 Epifania (Batismo de Nosso Senhor)
+<06>271.2-564.23-565.36 Apresentação no Templo (2 de fevereiro)
+<06>271.2-564.25-565.4 O Grande Jejum (7 semanas antes da Páscoa)
+<06>271.2-564.27-564.17 Anunciação (25 de março)
+<06>271.2-564.29-565.44 Domingo de Ramos
+<06>271.2-564.31-565.72 Ascensão
+<06>271.2-564.33-565.73 Pentecostes
+<06>271.2-564.35-565.79PET São Pedro e São Paulo (29 de junho)
+<06>271.2-564.37-565.79-442.47 Jejum dos Apóstolos (começa na semana
+<04>depois de Pentecostes, e termina em 28 de junho)
+<06>271.2-564.39-565.8ASS-442.47 Jejum da Assunção (10-14 de agosto)
+<06>271.2-564.41-565.9TRA Transfiguração (6 de agosto)
+<06>271.2-564.43-565.8ASS Assunção (15 de agosto)
+<06>271.2-726.2	Bispos. 
+<06>271.2-726.3	Padres. 
+<06>271.2-726.3	Padres celibatários. Padres “negros”.
+-447.7
+<06>271.2-726.3	Padres casados. Padres “brancos”
+-45
+<06>271.2-726.4	Diáconos. 
+<06>271.2-726.52	Subdiáconos. 
+		      Subdiáconos e Leitores são ordens menores distintas na Igreja Ortodoxa
+<04>. Ver também 271.2-726.54
+<06>271.2-726.54	Leitor. 
+		      Ver também 721.2-726.52
+<06>271.2-74	Cônegos da Igreja Ortodoxa.
+<06>271.2-788	Ordens monásticas.
+<06>271.2-788(234.425.21) Monte Athos. O Grande lavra
+<06>271.2-788(477.41) PetcherskyLavra. O Mosteiro das Grutas
+<06>271.2-788-726.7 Os anciãos.Startsy (Singular: starets)
+<09>Divisões principais
+
+<01>271.21	
+<02>Patriarcados orientais.
+<06>271.21(560) Constantinopla
+<06>271.21(560)-726.1 Patriarca Ecumênico (Universal)
+<06>271.21(569.1) Antioquia
+<06>271.21(569.4) Jerusalém
+<06>271.2(620) Alexandria
+
+<01>271.22	
+<02>Igrejas nacionais.
+		      Usar auxiliares comuns de lugar (Tabela 1e)
+
+<01>271.222	
+<02>Igrejas autocéfalas
+		      Usar auxiliares comuns de lugar (Tabela 1e)
+
+<01>271.222	
+<02>Igreja Ortodoxa da República Checa e da Eslováquia
+(473.3+473.6)
+<06>271.222(438)	Igreja Ortodoxa Polonesa.
+<06>271.222(438)-726.1 Arcebispo, Metropolita da Polônia
+
+<01>271.222	
+<02>Igreja Ortodoxa Russa.
+(470+571)
+<06>271.222(470+571)-726.1 Patriarca da Igreja Russa
+<06>271.222(470+571) -86 Igrejas no exílio. Diáspora Ortodoxa Russa. Inclusive
+<06>1. O Patriarcado de Moscou – paróquias em emigração, que preferiram
+<04>manter laços diretos com a Rússia (ca. 300 000/400 000 membros); 2. Igreja
+<04>Ortodoxa Russa fora da Rússia (IORFR). Sínodo de Karlotvsky – Sínodo
+<04>dos Bispos da Igreja Russa no Exílio, originalmente na Iugoslávia, 
+<04>atualmente em Nova Iorque. 3. A Diocese Ortodoxa Russa na Europa 
+<04>ocidental. “Jurisdição de Paris” (ca. 50 000 membros); 4. Igreja Católica 
+<04>Grega Ortodoxa Russa (IOA) (1 000 000 de membros)
+<06>271.222(470+571)"1700/1917”-732.3 Colégio Espiritual. Santo Sínodo.
+<06>271.222(470+571)-86"16” Sectários. Velhos Crentes. Raskolniki 
+<04>(dissidentes quanto ao ritual, não a doutrina)
+<06>271.222(470+571)-86POP Popovtsky. NOTA: esta seita possui padres e
+<04>bispos.
+<06>271.222(470+571) -86BEZ Bezpopovtsky. NOTA: esta seita não possui 
+<04>padres [NB: ambas ainda existem]
+<06>271.222(470+571) -9"1917/1925” Anos de luta para preservar a liberdade 
+<04>da igreja
+<06>271.222(470+571)-9"1918.2.1”-546.4 Anátema de São Tikhon
+<06>271.222(470+571)-9-672 A “Igreja Viva”-
+<06>271.222(470+571)-9"1925/1943” Anos da tentativa de “modus vivendi” do
+<04>Metropolita Sérgio
+<06>271.222(470+571)-9"1943/1959” Anos de reavivamento da vida da igreja
+<04>sob Stalin. Restauração do Patriarcado
+<06>271.222(470+571)-9"1959/1964”Anos de perseguição sob Krushchev
+<06>271.222(470+571)-9"1964/1888” Anos de reavivamento, quando o 
+<04>movimento dissidente surge e é esmagado
+<06>271.222(470+571)-9"1976” Comitê Cristão para a Defesa dos Direitos dos
+<04>Crentes
+<06>271.222(470-25) Patriarca de Moscou
+<06>271.222(477)	Igreja Ortodoxa Autocéfala da Ucrânia
+		      [NB: dividida em dois grupos, nenhum dos quais é reconhecido por 
+<04>nenhuma outra igreja ortodoxa]
+<06>271.222(477.41)-726.1 Patriarca de Kiev. A partir de 1453 subordinado ao
+<04>Patriarca de Moscou, anteriormente superior
+
+<01>271.222	
+<02>Igreja Ortodoxa da Geórgia.
+(479.22)
+<06>271.222(479.22)-726.1 Patriarca Katholikos
+<06>271.222(495)	Igreja Ortodoxa Grega.
+<06>271.222(495)-726.1 Arcebispo Metropolitano da Grécia
+
+<01>271.222	
+<02>Igreja Ortodoxa da Albânia.
+(496.5)		
+<06>271.222(496.5)-726.1 Arcebispo Metropolitano da Albânia
+
+<01>271.222	
+<02>Igreja Ortodoxa Sérvia.
+(497.11)	
+<06>271.222(497.11)-726.1 Patriarca da Igreja Sérvia
+
+<01>271.222	
+<02>Igreja Ortodoxa Búlgara.
+(497.2)		
+<06>271.222(497.2)-726.1 Patriarca da Igreja Búlgara
+
+<01>271.222	
+<02>Igreja Ortodoxa Romena.
+<06>271.222(498)-726.1 Patriarca da Igreja Romena
+
+<01>271.222	
+<02>Igreja Ortodoxa de Chipre
+(564.3)		
+<06>271.222(564.3)-726.1 Arcebispo Metropolitano de Chipre
+
+<01>271.224	
+<02>Igrejas autônomas.
+<04>Usar auxiliares comuns de lugar (Tabela 1e)
+<06>271.224(480) Igreja Ortodoxa da Finlândia
+<06>271.224(510) Igreja Ortodoxa da China
+<06>271.224(520) Igreja Ortodoxa do Japão
+<06>271.224(620SINAI) Igreja Ortodoxa do Sinai
+
+<01>271.3	
+<02>Igrejas separadas.
+
+<01>271.4	
+<02>Igrejas uniate .
+
+<01>271.6	
+<02>A Igreja do Oriente (Nestoriana).
+
+<01>271.7	
+<02>Ritos monofisitas.
+
+<01>271.72	
+<02>(Igreja) Armênia. (Igreja) Alexandrina.
+
+<01>271.722	
+<02>Igreja Copta.
+
+<01>271.723	
+<02>Igreja Etíope. Igreja Abissínia.
+
+<01>271.74	
+<02>Igreja Antioquena.
+
+<01>271.742	
+<02>Igreja Síria.
+
+<01>271.744	
+<02>Igreja Maronita.
+
+<01>272/279	
+<02>Igreja Ocidental.
+
+<01>272/273	
+<02>Igreja Católica
+
+<01>272	
+<02>Igreja Católica Romana.
+<09>Subdivisões auxiliares especiais
+<06>272-282	Obras litúrgicas da Igreja Católica Romana.
+<06>272-282.7	Missais. 
+<06>272-549	A Missa.
+<06>272-549-282 Liturgia da Missa
+<06>272-662	Influência exercida pela Igreja Católica Romana.
+<06>272-662:3 Influência da Igreja Católica Romana na sociedade. Inclusive
+<04>Movimentos sociais. Ação Católica.
+<06>272-726.6-427	Promoção informal da fé Católica Romana por parte de leigos.
+<04>Classificar aqui o sacerdócio universal do fiel, prelazia pessoal e
+<04>movimentos tais como a Opus Dei
+<06>272-732.2	O Papado.
+<06>272-732.2:321 Poder político, temporal, do Papado
+<06>272-732.2-284 Doutrina do Papado
+<06>272-732.2-72 Estrutura do Papado
+<06>272-732.2-725 Pessoas nos assuntos domésticos do Papa. 
+<04>Administração
+<06>272-732.2-725.2 Cardeais. Inclusive Colégio de Cardeais. Conclave
+<06>272-732.2-725.4 Legados. Núncios. Delegados apostólicos
+<06>272-732.2-725.6 Protonotários apostólicos
+<06>272-74		Direito canônico Católico Romano.
+<06>272-742-266	Código de Direito. Inclusive Codex Iuris Canonici (CIC). Código de Direito 
+<04>Canônico.
+<06>272-745	Tribunais religiosos. Tribunais papais. Cúria.
+<06>272-745.2	Congregações Romanas.
+<06>272-745.4	Tribunais. 
+<06>272-745.5	Deveres da Cúria. Inclusive Chancelaria Apostólica. Câmara Apostólica.
+<06>272-745.6	Comissões. 
+<09>Divisões principais
+
+<01>273	
+<02>Igrejas episcopais não-Católico-Romanas.
+
+<01>273.2	
+<02>Velhos Católicos.
+
+<01>273.4	
+<02>Igreja Anglicana.
+<06>273.4(4/9)	Igreja Anglicana em diferentes países.
+<06>273.4(94) Igreja Anglicana na Austrália
+
+<01>273.6	
+<02>Aglipayans (Aglipaianos). Igreja Filipina Independente.
+
+<01>274/278	
+<02>Igrejas protestantes.
+
+<01>274	
+<02>Protestantismo em geral. Protestantes. Dissidentes. Puritanos.
+
+<01>274.3	
+<02>Movimentos menores no Protestantismo dos primórdios.
+
+<01>274.36	
+<02>Pietismo.
+
+<01>274.37	
+<02>Labadistas.
+
+<01>274.38	
+<02>Arminianos. Remonstrantes.
+
+<01>274.5	
+<02>Igrejas Luteranas. Luteranos.
+
+<01>275	
+<02>Igrejas Reformadas.
+
+<01>275.2	
+<02>Morávios.
+
+<01>275.4	
+<02>Calvinistas.
+
+<01>275.5	
+<02>Huguenotes.
+
+<01>275.6	
+<02>Presbiterianos.
+
+<01>276	
+<02>Anabatistas.
+
+<01>276.2	
+<02>Igrejas Menonitas. Menonitas.
+
+<01>277	
+<02>Igrejas Livres. Não-conformistas.
+
+<01>277.2	
+<02>Congregacionalistas.
+
+<01>277.4	
+<02>Batistas.
+
+<01>277.6	
+<02>Metodistas. Igrejas metodistas
+
+<01>278	
+<02>Outras igrejas protestantes.
+
+<01>278.15	
+<02>Unitarianos.
+
+<01>278.17	
+<02>Quakers. Sociedade dos Amigos.
+
+<01>278.19	
+<02>Exército da Salvação.
+
+<01>279	
+<02>Outros movimentos e igrejas cristãs.
+
+<01>279.12	
+<02>Movimentos cristãos modernos.
+		      Estes são tratados separadamente dos grupos cristãos “per se”, uma vez
+<04>que esses movimentos atravessam fronteiras, e alguns podem incluir 
+<04>membros da igreja tradicional. Alguns termos podem também ser aplicados
+<04>a outros grupos de fé (p. ex., fundamentalistas)
+
+<01>279.122	
+<02>Renascidos.
+
+<01>279.123	
+<02>Evangélicos.
+
+<01>279.124	
+<02>Fundamentalistas.
+
+<01>279.125	
+<02>Pentecostais.
+
+<01>279.127	
+<02>Carismáticos.
+
+<01>279.13	
+<02>Adventistas.
+
+<01>279.14	
+<02>Adventistas do Sétimo Dia.
+
+<01>279.15	
+<02>Igrejas pentecostais.
+<09>279 Outros movimentos e igrejas cristãs.
+
+<01>279.153	
+<02>Assembléias de Deus.
+
+<01>279.154	
+<02>Igreja de Deus em Cristo.
+
+<01>279.156	
+<02>Igreja Universal do Reino de Deus.
+
+<01>279.16	
+<02>Santos do Último Dia. Mórmons.
+
+<01>279.167	
+<02>Santos do Último Dia Reorganizados (SUDR).
+
+<01>279.17	
+<02>Testemunhas de Jeová.
+
+<01>279.19	
+<02>Igrejas apostólicas.
+
+<01>279.21	
+<02>Ciência Cristã.
+
+<01>279.22	
+<02>Pensamento Novo (derivada da Ciência Cristã).
+
+<01>279.222	
+<02>Igreja da Unidade.
+
+<01>279.224	
+<02>Ciência Religiosa.
+
+<01>279.226	
+<02>Ciência Divina.
+
+<01>279.228	
+<02>Movimento de Restauração (Igrejas cristãs e Igrejas de Cristo).
+
+<01>279.23	
+<02>Católicos livres.
+
+<01>279.25	
+<02>Christengemeinschaft.
+
+<01>279.27	
+<02>Swedenborgianos.
+
+<01>279.28	
+<02>Seitas indígenas africanas.
+
+<01>279.285	
+<02>Igrejas Africanas de Iniciados, Indígenas, Independentes (AICs/IAIs).
+
+<01>279.287	
+<02>Igreja Kimbanguista.
+
+<01>279.99	
+<02>Outras. Deutsche Christen. Doukhobors.
+<04>Especificar por meio da extensão alfabética A/Z (Tabela 1h)
+
+<01>28	
+<02>Islamismo.
+
+<01>282	
+<02>Sunni. Ismalismo sunita.
+
+<01>284	
+<02>Shi`a. Islamismo xiita.
+
+<01>284.5	
+<02>Ahmadiya. 
+<04>Considerado herético pela corrente principal do Islamismo
+
+<01>284.55	
+<02>Grupo de Lahore (Ahmadiya Anjuman-i-Isha`at-i-Islam).
+
+<01>284.7	
+<02>Drusos 
+
+<01>285	
+<02>Babi-Baha`i.
+
+<01>285.5	
+<02>Babismo não-Bahai.
+
+<01>285.52	
+<02>Babismo Azali.
+
+<01>286	
+<02>Baha`i.
+
+<01>286.2	
+<02>BSCP/BUPC (Baha`i está sujeitos às cláusulas do Pacto/Baha’is under the 
+<04>provisions of the Covenant).
+
+<01>286.4	
+<02>Baha`is ortodoxos.
+
+<01>286.6	
+<02>Fé de Deus.
+
+<01>286.7	
+<02>Fé Baha`i Ortodoxa sob a Regência.
+
+<01>286.8	
+<02>Sociedade Charles Mason Remey.
+
+<01>29	
+<02>Movimentos espirituais modernos.
+		      Há deles um grande número, predominantemente do século XX (a maioria
+<04>dos da lista precedente são fenômenos do século XIX). Eles,  com
+<04>freqüência, não possuem vínculo algum com nenhuma religião particular,
+<04>embora alguns tenham surgido no seio de determinado contexto cultural e
+<04>possam revelar características da religião dominante daquela cultura 
+<04>(p. ex., Idade Nova e Paganismo). Muitos possuem um número avultado de 
+<04>adeptos, talvez por serem religião “oficial” do Estado, mas, mesmo assim, 
+<04>não são amplamente reconhecidos fora de seus próprios territórios
+
+<01>299	
+<02>Sistemas filosóficos.
+		      Em geral, discussões sobre o ateísmo, etc., devem ser colocadas em 
+<04>filosofia, mas foram previstas aqui, uma vez que elas geralmente tratam do
+<04>mesmo assunto (p. ex., existência de Deus, etc.).
+
+<01>299.2	
+<02>Ateísmo.
+
+<01>299.252	
+<02>Crenças derivadas do Xintoísmo.
+
+<01>299.252.5	
+<02>Tenrikyo.
+
+<01>299.252.6	
+<02>Omoto-kyo.
+
+<01>299.3	
+<02>Agnosticismo.
+
+<01>299.4	
+<02>Humanismo.
+
+<01>299.42	
+<02>Kyodan da (V)ida (P)erfeita.
+
+<01>299.5	
+<02>Ausência de religião. Secularismo.
+
+<01>299.572	
+<02>Neo-Paganismo.
+
+<01>299.6	
+<02>Irreligião.
+
+<01>299.7	
+<02>Movimentos com elementos cristãos.
+
+<01>299.72	
+<02>Movimento antroposófico.
+
+<01>299.725	
+<02>Comunidade Cristã.
+
+<01>299.73	
+<02>Mar de Fé.
+
+<01>299.92	
+<02>Cao Dai.
+		      Movimento sincrético e nacionalista do Vietnã.
+
+<01>299.93	
+<02>Cientologia.
+
+<01>299.935	
+<02>Dianética.
+
+<01>299.94	
+<02>Idade Nova.

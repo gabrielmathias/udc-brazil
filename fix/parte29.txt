@@ -1,0 +1,4331 @@
+﻿Microinterferômetro de Michelson. Ampliador de interferência. Lente ocular de cristal.
+
+<01>681.723.27	
+<02>Microscópios de fluorescência.
+
+<01>681.723.28	
+<02>Microscópios de polarização. Inclusive Ortoscópios. Conoscópios.
+
+<01>681.723.4	
+<02>Microscópios segundo o projeto. Inclusive Microscópios monoculares. Microscópios binoculares. Microscópios
+<04>pancráticos (com aumento em zoom). Microscópios de autocolimação.
+
+<01>681.723.7	
+<02>Microscópios segundo sua aplicação. Inclusive Microscópios universais. Microscópios de dissecção.
+
+<01>681.723.78	
+<02>Microscópios de bolso. Microscópios de viagem.
+
+<01>681.73	
+<02>Óculos. Monóculos. Lentes de contato.
+
+<01>681.731	
+<02>Monóculos.
+
+<01>681.732	
+<02>Óculos (com efeito óptico) em geral. Com
+<06>lentes rnonofocais, bifocais, multifocais.
+
+<01>681.733	
+<02>Pincenês. Lornhões.
+
+<01>681.735	
+<02>Lentes de contato (lentes escleróticas e córneas).
+
+<01>681.738	
+<02>Óculos sem efeito óptico. Inclusive Óculos de segurança. Óculos de proteção. Óculos de natação. Óculos contra luz solar.
+<09>614.893.2 Óculos de proteção de tipos diversos
+<09>666.247 Vidros que não transmitem determinadas radiações. Vidros opacos a certos comprimentos de onda
+<09>681.7.066.6 Lentes de proteção. Lentes de segurança
+
+<01>681.75	
+<02>Telescópios. Binóculos.
+
+<01>681.751	
+<02>Telescópios monoculares.
+
+<01>681.751.2	
+<02>Telescópios astronômicos.
+<09>520.2 Telescópios astronômicos
+<09>681.782 Instrumentos ópticos astronômicos
+
+<01>681.751.3	
+<02>Telescópios terrestres. Inclusive Telescópios de observação. Telescópios de mira (para vistas telescópicas). Telescópios 
+<04>periscópicos.
+
+<01>681.752	
+<02>Telescópios binoculares. Binóculos. Inclusive Binóculos de prisma. Binóculos de campo, para esportes. Binóculos 
+<04>galileanos. Binóculos de teatro.
+
+<01>681.756	
+<02>Telescópios com objetivas de espelho
+côncavo. Telescópios de reflexão.
+
+<01>681.758	
+<02>Radiotelescópios.
+
+<01>681.77	
+<02>Câmaras. Projetores.Colimadores.
+
+<01>681.772	
+<02>Câmaras.
+
+<01>681.772.2	
+<02>Câmaras fotográficas. Câmaras para pose.
+<09>771.31 Câmaras e outros aparelhos de exposição
+
+<01>681.772.3	
+<02>Câmaras cinematográficas (câmaras de cinema).
+<09>778.53 Filmagem cinematográfica
+
+<01>681.772.7	
+<02>Câmaras de televisão. Câmaras de vídeo.
+<09>621.397.42 Equipamento de varredura de imagens e geação de sinais de imagens. Câmaras  de
+vídeo
+
+<01>681.775	
+<02>Projetores.
+<09>628.946 Projetores de luz
+
+<01>681.775.2	
+<02>Projetores de imagens paradas.
+<09>778.27 Projetores: tipos diversos
+
+<01>681.775.22	
+<02>Diascópios.
+
+<01>681.775.23	
+<02>Episcópios.
+
+<01>681.775.24	
+<02>Epidiascópios.
+
+<01>681.775.5	
+<02>Projetores cinematográficos.
+<09>688.746 Equipamento para cinemas. Acessórios para projeção de filmes
+<09>778.55 Projeção e projetores cinematográficos
+
+<01>681.775.7	
+<02>Projetores de televisão.
+
+<01>681.777	
+<02>Colimadores.
+<09>Autocolimadores.
+
+<01>681.78	
+<02>Instrumentos ópticos e optoelétricos de
+medição e observação.
+
+<01>681.782	
+<02>Instrumentos ópticos astronômicos.
+<09>520 Isnstrumentos e técnicas atronômicos
+<09>681.751.2 Telescópios astronômicos
+
+<01>681.782.2	
+<02>Instrumentos de observação e medição
+astronômica.
+
+<01>681.782.22	
+<02>Astrógrafos.
+
+<01>681.782.23	
+<02>Astrolábios.
+
+<01>681.782.24	
+<02>Instrumentos de trânsito.
+
+<01>681.782.25	
+<02>Círculos meridianos.
+
+<01>681.782.26	
+<02>Telescópios zenitais.
+
+<01>681.782.27	
+<02>Círculos verticais.
+
+<01>681.782.4	
+<02>Equipamento auxiliar.
+<09>520.3 Instrumentos auxiliares. Instrumentos de registro
+
+<01>681.782.42	
+<02>Instrumentos para observação solar. Inclusive Ce/óstatos. Espectro-heliógrajos. Coronógrafos, Helioscóitos, heliômctros. 
+<04>Helíóstatos. Heliótropos. heliógrafos. Magnetógrafos solares.
+<09>520.24 Instrumentos solares
+
+<01>681.782.43	
+<02>Fotômetros.
+
+<01>681.782.44	
+<02>Interfetômetros.
+
+<01>681.782.45	
+<02>Micrômetros.
+
+<01>681.782.46	
+<02>Espectrógrafos.
+
+<01>681.782.47	
+<02>Equipamento de guia e controle.
+
+<01>681.782.5	
+<02>Equipamento de avaliação. Comparadores.
+
+<01>681.782.7	
+<02>Planetários.
+<09>520.98 Planetários
+<09>520.24 727 Edifícios para fins educacionais, científicos, culturais
+
+<01>681.782.8	
+<02>Simuladores.
+
+<01>681.783	
+<02>Instrumentos de medição geodésica e
+fotogramétrica.
+<09>525.5 Instrumentos e equipamentos geodésicos
+
+<01>681.783.2	
+<02>Instrumentos ópticos de medição geodésica.
+<09>Níveis. Teodolitos. Taqueômetros (taquímetros). Telêmetros a laser. Prismas de marcação.
+
+<01>681.783.3	
+<02>Instrumentos fotogramétricos.
+<09>528.7 Fotogrametria: aérea, terrestre
+
+<01>681.783.32	
+<02>Equipamento fotogramétrico aéreo,
+
+<01>681.783.322	
+<02>Instrumentos de levantamento topográfico. Inclusive Câmaras de levantamento aéreo em série (câmaras automáticas). 
+<04>Instrumentos de navegação. Instnunentos de laboratório.
+
+<01>681.783.323	
+<02>Instrumentos de transformação.
+
+<01>681.783.325	
+<02>Instrumentos de avaliação. Inclusive Instrumentos de mapeamento topográfico. Etíereocomparadores.  
+<04>Trianguladores radiais. Estereoscópios.
+
+<01>681.783.33	
+<02>Instrumentos terrestres.
+
+<01>681.783.332	
+<02>Instrumentos de levantamento. Inclusive Câmaras de medição balisticc.
+
+<01>681.783.335	
+<02>Instrumentos de avaliação (instrumentos de estereomapeamento).
+
+<01>681.784	
+<02>Instrumentos de teste e medição para óptica médica e oftalmológica.
+<09>616-072 Diagnóstico instrumental
+<09>616-7 Instrumentos e equipamentos médicos e cirúrgicos 
+<09>617.7 Oftalmologia. Afecções oculares e seu tratamento
+
+<01>681.784.2	
+<02>Aparelhos para determinar as propriedades das lentes de óculos (métodos objetivos). Inclusive Ofialmômetros
+	 Ceratoscópios. 
+<04>Esquiascópios.
+
+<01>681.784.3	
+<02>Aparelhos para determinar a acuidade visual e as propriedades de lentes de óculos (métodos subjetivos). Inclusive Lentes 
+(lentes de teste) de medição da refração. Experiências de casos. Forópteros. Equipamento de teste de visão (p. ex., pranchas de exame, objetos para exame). Instrumentos de teste de visão. Cilindros transversos. Compensadores de cilindros. Instrumentos para testar a coordenação dos olhos. Optôtnetros.
+
+<01>681.784.4	
+<02>Outros instrumentos para medição e bservação dos olhos.
+
+<01>681.784.41	
+<02>Oftalmoscópios.
+
+<01>681.784.43	
+<02>Instrumentos para medir o campo visual.
+
+<01>681.784.44	
+<02>Instrumentos para testar a visão das cores.
+
+<01>681.784.45	
+<02>Instrumentos para medir a pressão interna do olho. Tonômetros.
+
+<01>681.784.46	
+<02>Adaptômetros.
+
+<01>681.784.47	
+<02>Acomodômetros.
+
+<01>681.784.48	
+<02>Exoftalmômetros. Pupilômetros.
+
+<01>681.784.5	
+<02>Instrumentos para ajustar as lentes ao olho.
+
+<01>681.784.6	
+<02>Instrumentos para medições relativas aos óculos e as lentes dos óculos. Inclusive Refractômetros de vértice. Esferômetros.
+
+<01>681.784.7	
+<02>Dispositivos para terapia óptica. Inclusive Lâmpadas de radiação. Condensadores de luz. Instrumentos ortópticos 
+<04>e pleópticos.
+
+<01>681.784.8	
+<02>Recursos auxiliares de observação e diagnóstico óptico. Inclusive Ampliadores para diagnóstico. Gonioscópios. 
+<09>Microscópios cirúrgicos. Endoscópios. Colorimetros especiais. Dispositivos para contagem de corpúsculos sangüíneos. Câmaras de fundo de olho.
+
+<01>681.785	
+<02>Instrumentos para medição de propriedades ópticas. Instrumentos ópticos para determinação de propriedades 
+<04>não-ópticas.
+
+<01>681.785.2	
+<02>Refractômetros.
+
+<01>681.785.22	
+<02>Refractômetros de ângulo-limite. Inclusive Refractômetros de Abbé. Refractômetros de imersão. Refractômetros de esfera. 
+<04>Refractômetros de rubi(de gema).
+
+<01>681.785.23	
+<02>Refractômetros de deflexao. Inclusive Reftactómetros de diferença. Refractômetros de Hilger. Refractômetros de
+<04>Chance. Refractômetros de microscópios. Espectrômetros.
+
+<01>681.785.24	
+<02>Refractômetros de reflexão.
+
+<01>681.785.3	
+<02>Polarímetros. Polariscópios. Elipsômetros.
+
+<01>681.785.4	
+<02>Fotômetros.
+<09>771.376 Acessórios para determina a exposição e qualidade da luz. Fotômetros. Medidores de luz
+
+<01>681.785.42	
+<02>Fotômetros segundo sua função e amplitude de comprimento de onda.
+
+<01>681.785.422	
+<02>Fotômetros de filtro.
+
+<01>681.785.423	
+<02>Espectrofotômetros.
+
+<01>681.785.43	
+<02>Fotômetros para medir a absorção.
+
+<01>681.785.44	
+<02>Fotômetros para medição de emissão. Inclusive Fotômetros de arco. Fotômetros de faísca.
+
+<01>681.785.45	
+<02>Fotômetros para luminescência. Fotômetros de
+fluorescência. Fotômetros de fosforescência.
+
+<01>681.785.46	
+<02>Fotômetros para radiação de Raman.
+
+<01>681.785.47	
+<02>Fotômetros para medição da luz difusa. Fotômetros de luz difusa. Inclusive Fotômetros de turbidez.
+
+<01>681.785.5	
+<02>Aparelhos espectroscópicos.
+<09>543.42 Análise espectral
+
+<01>681.785.52	
+<02>Equipamento de filtro.
+
+<01>681.785.53	
+<02>Aparelhos espectroscópicos de prisma. Inclusive Prismas de dispersão (p. ex, prismas de Abbé. Amici. Rutherford).
+<04>Espectroscópios de prisma. Espectrômetros de prisma. Espectrógrafos de prisma, Monocromadores de prisma.
+<04>Espectrofotômetros de prisma Instrumentos para produção de cores ótimas com o emprego de prismas.
+<04>Instrumentos para misturar a luz dispersa espectralmenle com o emprego de prismas.
+
+<01>681.785.55	
+<02>Aparelhos espectroscópicos com retículo. Inclusive Reticulos de difração. Espectroscópios de reliculo. Espectrômetros 
+<04>de reticulo. Espectrógrafos de retículo. Monocromadores de reticulo. Espectrofotômetros de retículo Instrumentos para 
+<04>produção de cores ótimas com uso de retículos. Instrumento para misturar a luz espectralmente dispersa com uso de 
+<04>reticulos.
+
+<01>681.785.57	
+<02>Aparelhos espectroscópicos de interferência. Inclusive Espectroscópios de interferência. Espectrômetros de interferência. 
+<04>Espectrômetros de Fourier.
+
+<01>681.785.58	
+<02>Aparelhos de avaliação para espectrogramas. Aparelho auxiliar para calibração. Inclusive Fotômetros de linha espectral.
+
+<01>681.785.6	
+<02>Outros instrumentos para mediçüo de propriedades ópticas. Inclusive Densitômetros. Goniofotômetros. 
+<04>Instrumentos  para determinar distâncias, aberturas focais. Instrumentos para determinar propriedades, 
+<04>aberrações da imagem. Instrumentos para determinar as funções de transmissão óptica. Instrumentos de 
+<04>telescópios duplos.
+
+<01>681.786	
+<02>Instrumentos para medição das propriedades geométricas. Inclusie Instrumentos para medição de 
+<04>comprimento, medição de distância. Instrumentos para divisão em ângulos. medição de ângulos. Goniômetros. 
+<04>Instrumentos para medição de coordenadas Instrumentos para medição de área.
+
+<01>681.786.3	
+<02>Instrumentos para medição e divisão angular. Inclusive Goniômetros. Sextantes
+<09>656.61.052 Controle de embarcações. Navegação. manobras
+
+<01>681.787	
+<02>Instrumentos interferométricos.
+
+<01>681.787.2	
+<02>Refractômetros de interferência.
+
+<01>681.787.5	
+<02>Comparadoresde interferência. Inclusive 
+<09>Interferômetros de Väisälä   . Interferômetros de Dewell.
+
+<01>681.787.6	
+<02>Interferômetros de raio múltiplo.
+
+<01>681.787.7	
+<02>Interferômetros especiais.
+<09>Interferômetros de cubo de canto. Interferômetros de espelho angulado.
+
+<01>681.787.8	
+<02>Interferômetros de polarização.
+
+<01>681.8	
+<02>Acústica técnica.
+
+<01>681.84	
+<02>Gravação e reprodução de som.
+<09>621.395.4 Receptores telefônicos com gravação
+<09>Subdivisões auxiliares especiais
+
+<01>681.84.081	
+<02>Dispositivos para gravação e reprodução de
+ondas sonoras.
+
+<01>681.84.081.3	
+<02>Agulhas de toca-discos. Agulhas de gravação.
+<09>Agulhas de transdução. Dispositivos para troca
+de agulhas.
+
+<01>681.84.081.4	
+<02>Caixas de som. Captadores de som.
+
+<01>681.84.081.42 
+<02>Caixas de som mecânico direto (caixas de som
+acústicas)
+
+<01>681.84.081.45 
+<02>Caixas de som pneumáticas, de ar comprimido.
+
+<01>681.84.081.47	
+<02>Captadores sonoros eletromagnéticos.
+
+<01>681.84.081.48	
+<02>Caixas acústicas de microfone-condensador.
+<09>Captadores sonoros eletrodinâmicos:
+eletrostáticos, piezoelétricos e outros.
+
+<01>681.84.082	
+<02>Controle da agulha. Outros dispositivos
+relacionados com captadores sonoros.
+
+<01>681.84.082.2	
+<02>Controle, guia da agulha.
+
+<01>681.84.082.3	
+<02>Suportes de agulha. Suportes, cartuchos de agulha.
+
+<01>681.84.082.4	
+<02>Dispositivos para controle automático de captadores sonoros.
+
+<01>681.84.082.5	
+<02>Mecanismos de parada e partida.
+
+<01>681.84.082.9 
+<02>Outros dispositivos. Inclusive Dispositivos de rastreamento para indicar determinada passagem numa 
+<04>gravação. Dispositivos de marcação e sinalização.
+
+<01>681.84.083	
+<02>Processos físicos diversos de registro e reprodução de som (exceto mecânicos ou acústicos diretos).
+
+<01>681.84.083.5	
+<02>Gravação óptica de som.
+<09>778.534.4 Gravação sonora de filme
+
+<01>681.84.083.7	
+<02>Gravação do som por resistência elétrica.
+
+<01>681.84.083.8	
+<02>Gravação magnética de som.
+
+<01>681.84.084	
+<02>Dispositivos para transmissão acústica de ondas sonoras. Inclusive  Braços de som. Cornetas, trompetes. Tubos acústicos (para se falar). Refletores de som.
+
+<01>681.84.085	
+<02>Projeto e construção de estúdios e equipamento de gravação.
+
+<01>681.84.086	
+<02>Amplificação de som e amplificadores. Inclusive Megafones. Ressonadores. Refletores. Moduladores. 
+<09>621.375 Amplificadores
+
+<01>681.84.087	
+<02>Dispositivos diversos para modificação de som.
+
+<01>681.84.087.2	
+<02>Regulagem.
+
+<01>681.84.087.3	
+<02>Mixagem. Superposição.
+
+<01>681.84.087.4	
+<02>Distorção e sua correção.
+
+<01>681.84.087.7	
+<02>Estereoacústica na gravação e reprodução de
+som. Obtenção de efeito direcional e de profundidade.
+
+<01>681.84.089	
+<02>Outros dispositivos.
+
+<01>681.84.089.1	
+<02>Suportes de discos, porta-discos (nos toca-discos). Inclusive Pratos giratórios. Pinos.
+
+<01>681.84.089.2	
+<02>Caixas, recipientes para toca-discos. Gabinetes, etc. Equipamentos portáteis.
+
+<01>681.84.089.3	
+<02>Armazenamento de discos, envoltórios. Inclusive Capas de discos, tambores. Estojos, prateleiras para discos.
+
+<01>681.84.089.5	
+<02>Indicadores de velocidade.
+
+<01>681.84.089 
+<02>7	Dispositivos de limpeza de discos.
+
+<01>681.84.089.8	
+<02>Trabalho sobre gravações já feitas. Inclusive Corte, montagem, edição de ftlas gravadas
+<09>Divisões principais
+
+<01>681.841	
+<02>Questões gerais relativas à gravação sonora. Inclusive Análise do som. Medição de altura e volume. Gravações de 
+tcsle.
+
+<01>681.842	
+<02>Máquinas de reprodução de som em geral.
+
+<01>681.843	
+<02>Máquinas de tocar cilindros, rolos.
+<09>Fonógrafos de cilindro.
+
+<01>681.844	
+<02>Máquinas toca-discos. Fonógrafos de disco.
+<09>Gramofones. Vitrolas.
+
+<01>681.845	
+<02>Máquinas para múltiplos discos.
+<09>Reprodutores para mais de um cilindro ou disco. Inclusive Trocadoras automáticas de discos. Jukeboxes
+<09>681.135.5 Máquinas automáticas de tocar discos, fonógrafos automáticos à base de moedas
+
+<01>681.846	
+<02>Máquinas de gravação e reprodução de som
+segundo o processo físico empregado.
+
+<01>681.846.3	
+<02>Gravação e reprodução mecânica direta
+(gravação e reprodução acústica).
+
+<01>681.846.5	
+<02>Gravação e reprodução óptica.
+
+<01>681.846.7	
+<02>Gravação e reprodução elétrica ou magnética.
+<09>Gravadores magnéticos.
+
+<01>681.846.73	
+<02>Bobinamento e rebobinamento do suporte de
+gravação (fita, fio, etc.).
+
+<01>681.846.8	
+<02>Com gravação e reprodução eletroóptica de
+som. Gravadores ópticos. Inclusive Gravadores de discos compactos (CDs}.
+
+<01>681.847	
+<02>Máquinas de gravação e reprodução do som segundo a aplicação.
+
+<01>681.847.2	
+<02>Máquinas de ditado.
+
+<01>681.847.4	
+<02>Reprodutores de som operados por teclado Inclusive Voders.
+
+<01>681.848	
+<02>Máquinas de reprodução de som combinadas com outros equipamentos (p.
+ex., com equipamento cinematográfico, relógios, móveis).
+<09>681.11.033.2 Dispositivos de indicação acústicos
+
+<01>681.85	
+<02>Produção de suportes de gravação. Discos, fitas.
+<09>Indicar os materiais por meio de -03 (Tabela 1k) 
+<06>681.854-036.7 Discos polimerizados sintéticos de gramofone 
+<06>681.855-034.71 Discos compactos de alumínio 
+<09>(086.7) Documentos sonoros. Gravações sonoras
+<09>Subdivisões auxiliares especiais
+
+<01>681.85.025	
+<02>Transcrição óptica e eletroóptica.
+
+<01>681.85.027	
+<02>Métodos elétricos de duplicação. Regravação.
+<09>Remasterização.
+<09>Divisões principais
+
+<01>681.853	
+<02>Fabricação de gravações cilíndricas.
+
+<01>681.854	
+<02>Fabricação de gravações em disco (discos de gramofone).
+
+<01>681.855	
+<02>Fabricação de discos compactos para
+gravação sonora.
+
+<01>681.857	
+<02>Fabricação de fitas magnéticas para
+gravação sonora.
+
+<01>681.858	
+<02>Fabricação de fitas ópticas para gravação
+sonora.
+
+<01>681.88	
+<02>Dispositivos de detecção acústica,
+<06>localização, direcionamento e alcance. Localizadores de som. Hidrofones. Sonar.
+
+<01>681.881	
+<02>Na atmosfera: pelo processo biauricular,
+com sensores planos.
+
+<01>681.882	
+<02>Na atmosfera: segundo o princípio do grupo.
+
+<01>681.883	
+<02>Métodos e equipamento de sonar.
+<09>Localização de objetos subaquáticos.
+<09>Sondagem e localização por meio do eco.
+<09>629.052.2 Sistemas acústicos 
+<09>Subdivisões auxiliares especiais
+
+<01>681.883.02	
+<02>Métodos de busca do alvo.
+
+<01>681.883.022	
+<02>Métodos ativos de sonar.
+
+<01>681.883.024	
+<02>Métodos passivas de sonar.
+
+<01>681.883.03	
+<02>Resolução.
+
+<01>681.883.04	
+<02>Alcance.
+
+<01>681.883.05	
+<02>Meios de varredura.
+
+<01>681.883.052	
+<02>Varredura passo-a-passo.
+
+<01>681.883.053	
+<02>Varredura circular.
+
+<01>681.883.054	
+<02>Varredura lateral.
+
+<01>681.883.06	
+<02>Sistemas e equipamento de sonar segundo a
+localização.
+
+<01>681.883.062	
+<02>Sistemas transportados em embarcações.
+
+<01>681.883.062.2 
+<02>Sistemas transportados em embarcações de
+superfície
+
+<01>681.883.062.4 
+<02>Sistemas transportados em submarinos.
+
+<01>681.883.063	
+<02>Sistemas no leito, no fundo do mar.
+
+<01>681.883.064	
+<02>Sistemas de imersão.
+
+<01>681.883.065	
+<02>Sistemas trasnportados em bóias.
+
+<01>681.883.066	
+<02>Sistemas rebocados.
+
+<01>681.883.067	
+<02>Sistemas de flutuação livre.
+
+<01>681.883.068	
+<02>Sistemas aerotransportados.
+
+<01>681.883.07	
+<02>Sistemas e equipamento de sonar segundo a
+finalidade.
+
+<01>681.883.072	
+<02>S istemas  de sonar para pesq uisa.
+
+<01>681.883.074	
+<02>Sistemas de sonar para navegação.
+
+<01>681.883.078	
+<02>Sistemas de sonar com objetivos especiais. Inclusive Sonar militar. Sonar naval. 
+<09>Divisões principais
+
+<01>681.883.2	
+<02>Sistemas de sonar segundo o tipo de radiação.
+
+<01>681.883.22	
+<02>Sistemas de sonar de pulso.
+
+<01>681.883.24	
+<02>Sistemas de sonar de radiação continua.
+
+<01>681.883.26	
+<02>Posicionamento por meio de sistemas de sonar
+não-direcionais.
+
+<01>681.883.27	
+<02>Posicionamento por meio de sistemas
+dírecionaís de sonar.
+
+<01>681.883.28	
+<02>Posicionamento biauricular.
+
+<01>681.883.4	
+<02>Equipamento de sonar (inclusive sistemas de
+contramedidas e navegação).
+
+<01>681.883.41	
+<02>Sonares.
+
+<01>681.883.42	
+<02>Equipamento de determinação do eco.
+
+<01>681.883.43	
+<02>Localizadores de som. Hidrofones.
+
+<01>681.883.44	
+<02>Sonobóias.
+
+<01>681.883.45	
+<02>Comunicação subaquática. Telegrafia
+supersônica. Sistemas de telemetria acústica.
+
+<01>681.883.47	
+<02>Contramedidas contra o equipamento de sonar. Inclusive Geradores de ruído. Alvos falsos.
+
+<01>681.883.48	
+<02>Sistemas de sonarpara navegação.
+
+<01>681.883.6	
+<02>Unidades de sonar.
+
+<01>681.883.7	
+<02>Dispositivos de leitura e gravação (indicadores e gravadores).
+
+<01>681.883.74	
+<02>Dispositivos auditivos.
+
+<01>681.883.75	
+<02>Dispositivos de observação visual.
+
+<01>681.883.77 
+<02>Equipamento de classificação do alvo.
+
+<01>681.884	
+<02>Fixação e localização por medição em bases largas.
+
+<01>681.89	
+<02>Outros dispositivos e instrumentos acústicos.
+
+<01>681.892	
+<02>Dispositivos para detectar as vibrações
+mecânicas (p. ex., em pesquisa geológica,
+em testes de máquinas).
+
+<01>681.9	
+<02>Máquinas para entalhar e esculpir.
+<09>Reprodução de formas de relevo.
+<09>73 Artes plásticas
+<09>76 Artes gráficas. Gravura
+
+<01>681.92	
+<02>Equipamento para pirografia, relevo,
+entalhe, etc.
+
+<01>681.922	
+<02>Equipamento para entalhe ou escultura por calor. Inclusive Para pirografia, pirogravura, marcação a fogo.
+
+<01>681.923	
+<02>Equipamento para trabalho em relevo.
+<09>Equipamento para entalhe em superfícies metálicas.
+
+<01>681.924	
+<02>Equipamento de entalhe, de gravação.
+
+<01>681.93	
+<02>Equipamento para reprodução de formas de relevo.
+
+<01>681.932	
+<02>Equipamento para reprodução deesculturas
+(fac-símiles, redução, ampliação).
+
+<01>681.933	
+<02>Dispositivos para tomar as medidas de uma
+escultura.
+
+<01>681.934	
+<02>Equipamento para produção de maquetes,
+modelos. Equipamento para cópia de
+contornos de moldes. Equipamento para
+fazer moldes de partes do corpo humano e
+outros objetos plásticos.
+
+<01>681.94	
+<02>Equipamento de gravação, de gravura.
+
+<01>681.944	
+<02>Equipamento para fresagem ou outras
+formas de gravação de superfícies
+cilíndricas, rolos, etc. Máquinas para cortar
+rodas (de engrenagem).
+
+<01>681.945	
+<02>Máquinas para cortar superfícies fresadas
+ou serrilhadas de segurança em puxadores
+de interruptores, etc.
+
+<01>681.946	
+<02>Máquinas para cortar linhas retangulares
+ou paralelas em superfícies planas.
+<09>Máquinas para hacburas, para hachuras
+transversais.
+
+<01>681.947	
+<02>Equipamento para trabalho em guilhochês.
+<06>682 Ferraria. Trabalho de ferrador. Trabalho com ferro forjado a mão
+<09>621.73 Trasbalho de forja. Instalação e equipamento da forja. Forjamento aberto e com matriz
+<09>683 Ferragens. Utensílios de ferro. Serralheria. Fabricação de garrafas. Lâmpadas. Utensílios para aquecimento
+<09>739 Artes do metal
+
+<01>682.1	
+<02>Trabalho de ferrador. Ferraria de ferraduras.
+<09>636.083.42 Cuidados com os cascos. Ferração. Arnês, arreios
+<09>Subdivisões auxiliares especiais
+
+<01>682.1.03	
+<02>Cravos de ferradura.
+
+<01>682.1 
+<02>05	Ferramentas do ferrador. Inclusive Tenazes. Martelo. Grosas
+<09>Divisões principais
+
+<01>682.12	
+<02>Ferraduras de uma só peça.
+
+<01>682.13	
+<02>Ferraduras múltiplas.
+
+<01>682.14	
+<02>Ferraduras macias. Inclusive Protetores de casco, inserções macias.
+
+<01>682.15	
+<02>Ferraduras para diferentes animais, exceto os eqüinos. Inclussive Ferraduras para fissipedes.
+
+<01>682.17	
+<02>Rornpões de ferraduras. Garras.
+
+<01>682.18	
+<02>Métodos e dispositivos para cuidado com os cascos.
+
+<01>682.3	
+<02>Ferraria de ferramentas. Forja de ferramentas cortantes.
+<09>621.73 Trabalho de forja. Instalação e equipamento da forja. Forjamento aberto e com matriz
+<09>672.3 Artigos soldados ou rebitados de aço
+<09>672.71 Instrumentos e armas de cortar e furar
+
+<01>682.5	
+<02>Ferraria para móveis.
+<09>672.94 Móveis de metal
+<09>683.3 Serralheria. Fabricação de fechaduras. Ferragens de portas
+<09>739.4 Objetos de metal ferroso decorativamente trabalhados: forjados, batidos ou fundidos
+
+<01>682.6	
+<02>Ferraria para construção.
+<09>672.11 Componentes e acessórios de trabalho de ferro fundido e aço
+
+<01>682.62	
+<02>Grades. Balcões. Balaustradas.
+
+<01>682.64	
+<02>Ferraria ornamental. Placas, letreiros,
+etc.
+ 
+
+<01>683 
+<02>Ferragens. Utensílios de ferro. Serralheria. Fabricação de garrafas. Lâmpadas.  Utensílios para aquecimento
+
+<09>672.3 Artigos soldados ou rebitados de aço
+<09>691.8 Componentes simples. Ferramentas do construtor
+
+<01>683.1	
+<02>Ferragens. Utensílios de ferro.
+<09>Classificam-se aqui as questões e informações gerais sobre fabricação de vários tipos de ferragens. As ferragens específicas são classificadas no número específico para o assunto, p. ex:, 621.88 Dispositivos de fixação (ganchos, fixações de parafuso, etc.)
+
+<01>683.3	
+<02>Serralheria. Fabricação de fechaduras. Ferragens de portas.
+<09>684.419 Acessórios dos móveis. Ferragens de armários
+<09>739.4 Trabalhos artísticos de ferro. Trabalho artístico de serralheiro. Objetos de metal ferroso decorativamente 
+<04>trabalhados: forjados, batidos ou fundidos
+
+<01>683.31	
+<02>Trancas. Ferrolhos.
+
+<01>683.311	
+<02>Trancas simples.
+
+<01>683.312	
+<02>Trancas múltiplas.
+
+<01>683.313	
+<02>Trancas de segurança.
+
+<01>683.33	
+<02>Fechaduras. Chaves.
+<09>Subdivisões auxiliares especiais
+
+<01>683.33.07 
+<02>Componentes de fechaduras.
+
+<01>683.33.071	
+<02>Alças de fechadura. Maçanetas de fechaduras. Pinos para destravar.
+
+<01>683.33.072	
+<02>Componentes de fechaduras. Inclusive Lingüetas. Retentores. Volteadores. Buracos de fechaduras.
+
+<01>683.33.073	
+<02>Dispositivos para impedir a retirada da chave.
+
+<01>683.33.074	
+<02>Seguranças de fechadura. Tampas do buraco da fechadura.
+
+<01>683.33.078	
+<02>Chaves.
+<09>Divisões principais
+
+<01>683.331	
+<02>Fechaduras simples. Fechaduras com trava diurna.
+
+<01>683.334	
+<02>Cadeados.
+
+<01>683.335	
+<02>Fechaduras de segurança (com vários tipos de chave). Inclusive Fechaduras dormidas.
+
+<01>683.336	
+<02>Fechaduras com diversos dispositivos de segurança.
+
+<01>683.336.2	
+<02>Fechaduras de combinação, de segredo.
+
+<01>683.336.3	
+<02>Fechaduras que revelam abertura não autorizada.
+
+<01>683.336.4	
+<02>Fechaduras de tempo.
+
+<01>683.336.5	
+<02>Fechaduras com dispositivo de alarme.
+
+<01>683.336.6	
+<02>Fechaduras operadas por dispositivos elétricos, eletrônicos ou magnéticos.
+
+<01>683.336.9	
+<02>Tipos de fechadura segundo os componentes auxiliares.
+
+<01>683.336.96	
+<02>Fechaduras de encaixe e outras fechaduras com elementos retráteis.
+
+<01>683.336.98	
+<02>Fechaduras abertas por pressão ou impacto
+perpendicular à cobertura da fechadura
+(empurrando ou puxando).
+
+<01>683.338	
+<02>Fechaduras segundo a aplicação.
+
+<01>683.338.2	
+<02>Fechaduras de porta.
+
+<01>683.338.3	
+<02>Fechaduras para móveis, caixas, malas.
+
+<01>683.338.4	
+<02>Fechaduras para fixar.
+
+<01>683.338.48	
+<02>Dispositivos de fechadura para prisioneiros. Inclusive Algemas. Grilhões.
+
+<01>683.34	
+<02>Recipientes e locais para salvaguada de valores.
+<04>.<09>672.93 Caixas, arcas, caixotes de metal
+
+<01>683.341	
+<02>Caixas fortes. Inclusive Caixas, cofres de dinheiro. Caixas para títulos.
+
+<01>683.342	
+<02>Cofres.
+
+<01>683.343	
+<02>Cofres como parte da construção. Inclusive  Cofres de parede. Depósitos de segurança.
+
+<01>683.35	
+<02>Dispositivos de sustentação em geral. Prendedores.
+
+<01>683.352	
+<02>Prendedores de porta.
+
+<01>683.352.2	
+<02>Prendedores de porta com dispositivos para manter a porta fechada ou entreaberta.
+
+<01>683.352.3	
+<02>Prendedores de porta sem dispositivos de movimento. Inclusive Prendedores de esfera.
+
+<01>683.352.4	
+<02>Prendedores de porta com dispositivos de alarme. Inclusive Prendedores de portas de lojas.
+<04>com sinos.
+
+<01>683.352.6	
+<02>Correntes de segurança.
+
+<01>683.353	
+<02>Dispositivos de segurança de janelas (prendedores, fechaduras de janelas etc.). 
+
+<01>683.36	
+<02>Gonzos. Pinos de gonzos. Ferragens de portas e janelas. Inclusive Gonzos de junta. Carretilhas para partas de correr.
+<09>621.888.2 Dobradiças. Pivôs. Gonzos
+
+<01>683.37	
+<02>Fechos, travas, retentores,, etc. para portas e janelas.
+
+<01>683.372	
+<02>Fechos de porta.
+
+<01>683.373	
+<02>Dispositivos de fechamento automático
+para janelas, portas, venezianas (ativados
+pelo tempo, cronômetros etc.).
+
+<01>683.374	
+<02>Travas de porta e janela (para impedir que
+batam), sozinhos ou combinados com
+fechos.
+
+<01>683.376	
+<02>Travas ou retentores para janelas, portas,
+venezianas, na posição aberta.
+
+<01>683.378	
+<02>Dispositivos para clarabóias, grades,
+janelas corrediças, pérsia nas de enrolar, etc.
+
+<01>683.5	
+<02>Fabricação de garrafas e acessórios para servir.
+<09>621.642.17 Garrafas. Frascos. Tambores
+<09>621.798.147 Recipientes pequenos para líquidos
+<09>663.059 Engarrafamento e tratamento final antes do consumo
+<09>666.171 Garrafas, garrafões, etc. de vidro
+
+<01>683.51	
+<02>Vasilhames e acessórios para servir e beber. Inclusive  Garrafas. Frascos. Jarras.
+
+<01>683.53	
+<02>Tampas. Tampos, rolhas, chapinhas , etc.
+
+<01>683.531	
+<02>Tampas para fechamento de vasilhames de
+armazenamento (principalmente
+vasilhames de armazenamento de bebidas
+alcoólicas).
+
+<01>683.532	
+<02>Tampas com outros dispositivos,  além da vedação. Inclusive Tampas com dispositivos para verter, com vaporizadores, aplicadores.
+
+<01>683.533	
+<02>Tampas, chapinhas de garrafas.
+
+<01>683.534	
+<02>Tampas esféricas.
+
+<01>683.535	
+<02>Tampas do tipo estribo.
+
+<01>683.54	
+<02>Dispositivos para impedir o reenchimento
+de garrafas. Válvulas que impedem a
+reutilização.
+
+<01>683.55	
+<02>Lacres e outros dispositivos de segurança
+para fechos, tampas.
+
+<01>683.56	
+<02>Limpeza, enchimento e vedação de
+recipientes. Dispositivos para abrir e
+servir.
+
+<01>683.561	
+<02>Limpeza de garrafas, copos, da serpentina
+dos barris de cerveja.
+
+<01>683.561.2	
+<02>Limpeza de garrafas.
+
+<01>683.561.4	
+<02>Limpeza de vasilhames usados para beber.
+
+<01>683.561.5	
+<02>Limpeza da serpentina de barris de cerveja.
+
+<01>683.562	
+<02>Equipamento para encher. Enchimento de
+garrafas e barris, tonéis.
+
+<01>683.562.2	
+<02>Instalações para engarrafamento de bebidas
+alcoólicas etc. Enchimento por pressão.
+<09>Sifonagem.
+
+<01>683.562.3	
+<02>Instalações para encher barris, toneis.
+
+<01>683.563	
+<02>Fechamento, arrolhamento, aramagem de garrafas.
+
+<01>683.564	
+<02>Dispositivos para abrir garrafas e outros
+recipientes. Abridores de garrafas.
+
+<01>. 
+<02><09>641.516 Abertura de rcipientes. Remoção de fechos, tampas. Rolhas, etc. Abertura de latas
+<04>.<09>672.466 Abridores de latas. Métodos de vedação. Abertura de latas
+
+<01>683.564.2	
+<02>Saca-roíhas.
+
+<01>683.564.3	
+<02>Dispositivos para abrir garrafas. Abridores de
+garrafas.
+
+<01>683.564.4	
+<02>Dispositivos para abrir latas e vidros.
+<09>Abridores de lata. Abridores de vidros de
+conservas.
+
+<01>683.564.5	
+<02>Dispositivos para extrair os batoques dos
+barris. Saca-batoques.
+
+<01>683.564.8	
+<02>Dispositivos para abrir caixas. Abridores de
+caixas.
+
+<01>683.565	
+<02>Equipamento para servir, distribuir.
+<09>Dispositivos para sangrar, tirar, sifonar, etc.
+
+<01>683.565.1 
+<02>Dispositivos para servir, Inclusive Bombas para cerveja.
+
+<01>683.565.2	
+<02>Compressores de ar para servir bebidas.
+<09>Equipamento de pressão para cerveja, chope.
+
+<01>683.565.3	
+<02>Dispositivos paradióxido de carbono e outros gases.
+
+<01>683.565.4	
+<02>Dispositivos para servir diretamente das garrafas. Inclusive Garrafas sifonadas.
+
+<01>683.565.6	
+<02>Reguladores de pressão. Protetores de
+espalhamento do líquido.
+
+<01>683.566	
+<02>Tampas de barris. Batoques , etc. Fixadores
+de batoques.
+
+<01>683.567	
+<02>Torneiras para servir. Bicas, válvulas,
+torneiras.
+.<09>621.646.6 Torneiras. Bicas
+
+<01>683.56	
+<02>Dispositivos para medir e indicar o volume
+de líquido.
+
+<01>683.58	
+<02>Apoios para copos de cerveja, de chopes.
+<09>Discos, para contar o número de copos
+<09>Servidos,  etc
+
+<01>683.8	
+<02>Lâmpadas a combustível ou de chama. Lampiões.
+.<09>628.9 Iluminação. Engenhaia da iluminação
+
+<01>683.86	
+<02>Detalhes de lâmpadas de combustível.
+.<09>628.95 Acessórios para as armações de iluminação. Peças, materiais, etc.
+
+<01>683.862	
+<02>Reservatório da lâmpada.
+
+<01>683.864	
+<02>Abastecimento, alimentação de
+combustível.
+
+<01>683.865	
+<02>Afixação de refletores, refratores, quebra-
+<06>luzes, etc.
+
+<01>683.867	
+<02>Pavios, mechas e acessórios. Inclusive Aparadores de pavios.
+
+<01>683.868	
+<02>Corpos incandescentes, camisas, etc.
+<09>Suportes da camisa.
+
+<01>683.87	
+<02>Queimadores.
+
+<01>683.871	
+<02>Queimadores de pavio brilhante em geral.
+
+<01>683.872	
+<02>Queimadores de pavio de chama azul.
+
+<01>683.873	
+<02>Disposição do pavio no queimador. Inclusive Buchas de pavio. Ajustadores do pavio. Dispositivos de ajustamento do pavio.
+
+<01>683.874	
+<02>Queimadores lentos (nos quais o gás
+produzido no pavio não é imediatamente
+queimado).
+
+<01>683.875	
+<02>Queimadores de bujão. Queimadores de
+chama chata.
+
+<01>683.876	
+<02>Queimadores a vapor (para combustível
+<06>líquido volatilizado). Queimadores a vapor de hidrocarboneto. Inclusive Volatiíizadores. Evaporadores.
+
+<01>683.877	
+<02>Queimadores a gás incandescente. Queimadores de acetileno.
+.<09>662.951.2 Queimadores de gás em geral
+
+<01>683..878	
+<02>Queimadores a gás de chama azul.
+.<09>621.791 Soldagem e técnicas afins
+
+<01>683.88	
+<02>Dispositivos de ignicão e apagamento da chama.
+
+<01>683.882	
+<02>Dispositivos de ignição para lâmpadas com
+combustíveis líquidos ou sólidos.
+
+<01>683.883	
+<02>Dispositivos de apagamento para lâmpadas
+com combustíveis líquidos ou sólidos. Inclusive Apagadores. Sopradores. Abafadores.
+
+<01>683.884	
+<02>Dispositivos de ignição e apagamento para lâmpadas de gás.
+
+<01>683.887	
+<02>Auto-acendedores, acendedores automáticos a gás catalítico.
+
+<01>683.888	
+<02>Piloto (chamas- piloto) e seu projeto. Inclusive Chamas que aumentam. Linhas de retorno de chama.
+
+<01>683.89	
+<02>Outras partes e acessórios. Inclusive Cilindros, mangas de lâmpada. Protetores contra o vento. Seguradores.
+
+<01>683.9	
+<02>Aparelhos de aquecimento. Estufas.
+.<09>621.365 Geração de calor pela eletricidade. Aquecimento elétrico
+.<09>641.53 Cozimento com vários utensílios de aquecimento
+.<09>644.12 Equipamento de lareiras em aposentos e cozinhas
+.<09>66.041 Fornalhas. Fornos. Fornalhas de redução
+.<09>662.9 Engenharia de fornos e combustão
+.<09>697 Calefação, ventilação e ar-condicionado nas construções
+
+<01>683.92	
+<02>Lareiras, estufas e fogões de cozinha em
+geral.
+
+<01>683.922	
+<02>Dispositivos de abastecimento de
+combustível.
+
+<01>683.923	
+<02>Suprimento de ar. Regulagem da tiragem
+de ar.
+
+<01>683.927	
+<02>Fornos e fogões de cozinha com aquecedor
+para suprimento de água quente, com aquecedor de pratos, etc.
+
+<01>683.929	
+<02>Remoção de cinzas. Limpeza.
+
+<01>683.93	
+<02>Lareiras abertas para aquecimento do
+ambiente. Lareiras. Grelhas.
+.<09>697.243.3 Aquecedores a comustível sólido de ação primariamente radiante
+
+<01>683.94	
+<02>Lareiras fechadas para aquecimento do
+ambiente. Fogões, estufas.
+
+<01>683.943	
+<02>Fogões, estufas de combustível sólido.
+
+<01>683.944	
+<02>Fogões, estufas de combustível líquido.
+.<09>662.94 Fornos de combustível líquido
+
+<01>683.945	
+<02>Fogões, aquecedores a gás. Lareiras a gás.
+.<09>662.95 Fornos de combustível gasoso. Fornos a gás
+
+<01>683.946	
+<02>Fogões, estufas para combustíveis sólidos,
+<06>líquidos ou gasosos.
+
+<01>683.95	
+<02>Fogões de cozinh a.
+
+<01>683.953	
+<02>Fogões de cozinha a combustível sólido.
+
+<01>683.954	
+<02>Fogões de cozinha a combustível líquido.
+
+<01>683.955	
+<02>Fogões de cozinha a gás. Fogareiros a gás.
+
+<01>683.956	
+<02>Fogões de cozinha que usam diversos
+combustíveis (p. ex., carvão e gás).
+
+<01>683.957	
+<02>Fogões elétricos de cozinha.
+
+<01>683.96	
+<02>Pequenos dispositivos portáteis para
+aquecimento.
+
+<01>683.97	
+<02>Aquecedores de água. Tanques de água quente.
+<09>644.62.Abastecimento de água quente nos domicílios
+<09>696.4 Abastecimeno de água quente
+
+<01>683.972	
+<02>Sistemas de circulação de água. Tanques de
+água quente.
+
+<01>683.973	
+<02>Contato direto do recipiente de água com as
+chamas. Caldeiras, aquecedores de
+cozinhas.
+
+<01>683.974	
+<02>Aquecimento indireto por meio de gases de
+combustão.
+
+<01>683.975	
+<02>Aquecimento por meio da imersão do
+elemento. Aquecedores de imersão.
+
+<01>683.98	
+<02>Acessórios para aparelhos de aquecimento. Inclusive Acendedores (p. ex, de gás). J. Ferros para ativar o fogo.
+
+
+<01>684 
+<02>Indústria do mobiliário e indústrias afins. Fabricação de móveis. Estofamento
+
+.<09>645 Móveis e acessórios domésticos
+.<09>674 Indústria da madeira e de trabalhos com madeira
+<09>Indicar detalhes, componentes, etc., dos móveis por meio de -1/-9 (de 62-1/-8 e 66-9)
+ 
+
+<01>684.4	
+<02>Móveis. Projeto e fabricação de
+móveis.
+<06>684.5:022.9 Projeto e fabricação de móveis para bibliotecas
+<06>684.4:615.478.2 Projeto e fabricação de móveis para hospitais
+<04>. 684.4: 645.63 Projeto e fabricação de móveis para cozinhas
+<06>684.4:005.936.33 Projeto e fabricação de móveis para escritório  .<09>005.749.1
+
+<01>. 
+<02><09>005.936.33:645.4 Móveis de escritório
+
+<01>. 
+<02><09>672.94 Móveis de metal
+
+<01>. 
+<02><09>674.23 Fabricação de móveis
+<09>Subdivisões auxiliares especiais
+
+<01>684.4.03	
+<02>Movei s de reprodução deestilo.Móveisque imitam estilos históricos.
+.<09>749. l 684.4.03 749.1 Mobília artística (antiga e modern)
+<06>684.4.03 dividido como 7.03
+
+<01>684.4.034	
+<02>Móveis que imitam o estilo renascentista.
+684.4.03
+
+<01>684.4.04	
+<02>Móveis segundo o material usado em sua
+fabricação.
+<04>Especificar por meio de -03...
+
+<01>684.4.05	
+<02>Fabricação de móveis: processos e
+equipamento.
+
+<01>684.4.051	
+<02>Tratamento preliminar do material.
+
+<01>684.4.053	
+<02>Moldagem. Corte. Perfuração. Envergamento.
+
+<01>684.4.057	
+<02>Tratamento preparatório da superfície. Inclusive Aplainamento. Emassamento.
+
+<01>684.4.058	
+<02>Montagem. Ligação, encaixe de peças.
+
+<01>684.4.059	
+<02>Tratamento final da superfície. Acabamento. Inclusive Pintura. Envernizamento. Polimento.
+<04>Especificar por meio de : 621.794/795,: 665.92 ou 667.6/.77
+
+<01>684.4.07	
+<02>Móveis estofados.
+.<09>684.73 Estofagem
+<09>Divisões principais
+
+<01>684.41	
+<02>Componentes dos móveis. Acessórios dos
+móveis.
+
+<01>684.412	
+<02>Bases. Componentes de suporte. Pedestais.
+<09>Pernas. Pés. Apoios, etc.
+
+<01>684.414	
+<02>Superfícies horizontais.
+
+<01>684.415	
+<02>Peças de extremidades. Peças da parte
+posterior. Peças laterais.
+
+<01>684.415.2	
+<02>Peças de extremidades.
+
+<01>684.415.6	
+<02>Peças da parte posterior.
+
+<01>684.415.8	
+<02>Peças laterais. Inclusive Braços.
+
+<01>684.416	
+<02>Peças de fechamento. Coberturas. Inclusive  Portas. Tampas. Abas.
+
+<01>684.417	
+<02>Gavetas, prateleiras, etc.
+
+<01>684.419	
+<02>Acessórios dos móveis. Ferragens de Armários. Inclusive Maçanetas. Puxadores.
+<09>683.3 Serralheria. Fabricação de fechadurs. Ferragens de portas 
+
+<01>684.42	
+<02>Camas. Berços. Divãs. Sofás.
+.<09>615.578.2 Móveis. Roupa de cama e mesa
+
+<01>684.422	
+<02>Camas.
+<06>684.422-182.6 Camas dobráveis .
+<09>685.533 Equipamento portátil para dormir
+
+<01>684.426	
+<02>Berços.
+
+<01>684.428	
+<02>Divas. Sofás-cama. Sofás.
+.<09>684.433.3 Sofás
+
+<01>684.43	
+<02>Assentos. Cadeiras. Bancos. Tamboretes.
+
+<01>684.43.07 
+<02>Assentos estofados
+
+<01>684.432	
+<02>Cadeiras simples (não-estofadas). Cadeiras
+de encosto reto.
+
+<01>684.433	
+<02>Poltronas. Espreguiçadeiras. Cadeiras de
+braços. Conjuntos de sofá e poltrona.
+
+<01>684.433.2	
+<02>Cadeiras de braços, poltronas. Cadeiras de
+descanso. Cadeiras para repousar diante da lareira.
+
+<01>684.433.3	
+<02>Sofás.
+.<09>684.428 Divãs. Sofás-cama. Sofás
+
+<01>684.433.4	
+<02>Cadeiras para assistir à televisão.
+
+<01>684.433.7 
+<02>Cadeiras de balanço.
+
+<01>684.434	
+<02>Tipos especiais de cadeira.
+
+<01>684.434.2	
+<02>Cadeiras de pernas altas. Inclusive Cadeiras altas para crianças. Tamboretes de trabalho.
+
+<01>684.434.5	
+<02>Cadeiras de pedestal. Cadeiras giratórias.
+
+<01>684.434.7	
+<02>Assentos de veículos.
+
+<01>684.434.8	
+<02>Tronos. Cadeiras indicativas de hierarquia. Cadeiras grandes.
+
+<01>684.435	
+<02>Tamboretes.
+
+<01>684.436	
+<02>Assento com vários lugares. Inclusive Bancos. Bancos de igrejas.
+
+<01>684.44	
+<02>Mesas. Escrivaninhas. Bancadas de trabalho.
+
+<01>684.442	
+<02>Mesas.
+
+<01>684.444	
+<02>Escrivaninhas. Mesas de escritório. Birôs.
+<09>Mesas de leitura. Carteiras.
+
+<01>684.446	
+<02>Balcões. Balcões de loja. Balcões para
+outros serviços.
+
+<01>684.447	
+<02>Bancadas de trabalho. Mesas de trabalho.
+<09>Bancadas de laboratório. Mesas de
+açougueiro, etc.
+
+<01>684.45	
+<02>Armários. Cômodas. Arcas. Armários
+divisores de ambiente.
+
+<01>684.452	
+<02>Arcas. Cômodas.
+
+<01>684.452.07 
+<02>Otomanas (arcas estofadas)
+
+<01>684.453	
+<02>Armários, guarda-louças.
+
+<01>684.453.2	
+<02>Armários de mantimentos.
+
+<01>684.453.5	
+<02>Guarda-roupas. Armários para roupa de cama e mesa.
+
+<01>684.453.6	
+<02>Escaninhos com chave (para vestiários.
+fábricas, escolas, etc.).
+
+<01>684.453.7	
+<02>Armários de cabeceira. Criados-mudos.
+
+<01>684.453.8	
+<02>Armários para fins especiais. Inclusive Armários de bebida. Bares.
+
+<01>684.454	
+<02>Armários de cozinha. Aparadores.
+
+<01>684.455	
+<02>Gaveteiros.
+
+<01>684.455.2	
+<02>Arcas com gavetas.
+
+<01>684.455.3	
+<02>Toucadores. Penteadeiras.
+
+<01>684.455.5	
+<02>Arquivos (móveis).
+
+<01>684.455.6	
+<02>Armários para guardar plantas (arquitetônicas, etc.).
+
+<01>684.456	
+<02>Armários para expor objetos. cristaleiras.
+<09>Armários para fins especiais (p. ex.,
+armários, gabinetes para rádio e eletrolas).
+
+<01>684.457	
+<02>Armários de livros.
+
+<01>684.458	
+<02>Armários divisores de ambiente. Unidades
+combinadas de armário e estante.
+
+<01>684.46	
+<02>Prateleiras. Estantes. Suportes.
+
+<01>684.462	
+<02>Prateleiras. Estantes.
+
+<01>684.466	
+<02>Cabides de saguão, de pé. Cabides de casacos, sobretudos, Cabides de chapéus.
+<04>Porta-guarda-chuvas.
+
+<01>684.468	
+<02>Cabides para fins especiais. Inclusive 
+<04>Indicar as finalidades por meio de :...
+
+<01>684.49	
+<02>Móveis menores.
+
+<01>684.494	
+<02>Telas. Guarda-fogo de lareira.
+
+<01>684.496	
+<02>Cestas. Inclusive Cestas de roupa suja. Cestas de papel,
+
+<01>684.498	
+<02>Pranchas para apresentação vertical. Inclusive Quadros-negros. Quadros de avisos.
+
+<01>684.6	
+<02>Folheado. Marchetaria. Incrustação, etc.
+
+<01>. 
+<02><09>674.24 Marchetaria. Trabalho de incrustação em madeira
+
+<01>. 
+<02><09>745 Artes manuais decorativas. Artesanato decorativo
+
+<01>684.61	
+<02>Folheado. Afixação de outros materiais. Inclusive Afixação de plástico, de metal
+
+<01>684.62	
+<02>Incrustaçao.
+
+<01>684.63	
+<02>Marchetaria.
+
+<01>684.64	
+<02>Trabalho em relevo. Inclusive Filetes. Enfeites.
+
+<01>684.65	
+<02>Acabamentos artísticos pintados e similares.
+
+<01>684.7	
+<02>Estofagem. Pertences de cama.
+<09>Cobertas. Cortinas.
+
+<01>. 
+<02><09>698.7 Ofícios complementares de decoração. Ofíios de cortineiro, tapeceiro e estofador
+		.<09>745 Artes manuais decorativas. Artesanato decorativo
+
+<01>684.72	
+<02>Pertences de cama. Colchões. Colchas.
+
+<01>684.721	
+<02>Colchões sem molas, Almofadões.
+<09>Travesseiros.
+
+<01>684.722	
+<02>Colchões de molas.
+
+<01>684.723	
+<02>Edredons. Cobertas de cama.
+
+<01>684.73	
+<02>Estofagem.
+.<09>675.16 Couro para equipamento de viagem e esporte. Couro para coberturas de chão e de parede. Couro para estofamento de móveis e usos domésticos
+.<09>675.61 Peles para soalhos. Peles para paredes. Peles para carpetes e tapetes. Peles de pendurar. Peles para cobertas. Peles para estofamento
+.<09>684.4.07 Móveis estofados
+
+<01>684.74	
+<02>Capas para móveis, colgaduras para móveis.
+
+<01>684.75	
+<02>Cortinas para salas, colgaduras. Inclusive Cortinas de janelas. Cortinas de parede. Tapeçaria
+<04>.<09>691.15 Outras substâncias vegetais fibrosas
+
+<01>.	
+<02><09>745.52 Trabalho artístico com têxteis 
+
+<01>684.76	
+<02>Cortinas para fins especiais. Inclusive Cortinas para funerais. Cortinas para festas internas c externas. .→
+.<09>688.76 Decorações para cerimônias, comemorações, festividades públicas
+
+
+<01>685 
+<02>Selaria. Calçados. Luvas. Equipamento para viagem, esportes, jogos e outros
+
+
+<01>685.1	
+<02>Selaria. Fabricação de arreios.
+.<09>629.313 Veículos sobre rodas puxados por animais
+.<09>636.083.7 Arnês, arreios
+.<09>675.12 Couro de sela. Couro de arreios. Couros para vestuário
+<09>Subdivisões auxiliares especiais
+
+<01>685.1.05	
+<02>Ferramentas de seleiro.
+<09>Divisões principais
+
+<01>685.11	
+<02>Capas para o interior de veículos.
+
+<01>685.12	
+<02>Selaria em sentido estrito. Selas e arreios
+para cavalos de montaria e de coche.
+
+<01>685.121	
+<02>Selas.
+
+<01>685.122	
+<02>Acessórios de sela. Inclusive Mantas de selas. Barrigueiras.
+
+<01>685.123	
+<02>Arreios de cabeça. Rédeas e acessórios. Antolhos.
+
+<01>685.126	
+<02>Arreios de coche.
+
+<01>685.14	
+<02>Fabricação de arreios. Selas e a rreios para cavalos de tração e outros eqüinos. Inclusive Selas para transporte. Cestas. Arreios para arrasto. Arreios para trenó.
+
+<01>685.15	
+<02>Fabricação de esporas. Fabricação de esporas e estribos. Outros acessórios. Inclusive Freios. Fivelas. Objetos de metal
+<04>para cavalo.
+
+<01>685.16	
+<02>Fabricação de arreios especiais. Equipamento para outros animais,  exceto os eqüinos (p. ex., bois, camelos).
+
+<01>685.17	
+<02>Chicotes. Barrigueiras. Tirantes, etc.
+
+<01>685.2	
+<02>Acessórios de vestuário. Fabricação de cintos. Peças de couro e outras peças.
+.<09>646.4 Roupas. Acessórios
+.<09>675.12 Couro de sela. Couro de arreios. Couros para vestuário
+.<09>687.38 Dispositivos para segurar e proteger os artigos de vestuário
+
+<01>685.22	
+<02>Peças usadas em volta da cintura. Cintos, cinturões. Fivelas e apetrechos de cintos.
+
+<01>685.23	
+<02>Peças usadas sobre os ombros. Inclusive Faixas a tira-colo. Boldriès de rifles. Suspensóno de calças.
+
+<01>685.24	
+<02>Peças para proteção de braços e mãos. Inclusive Manguitos. Protetores dos braços. Regalos.
+
+<01>. 
+<02><09>687.39 Outos acessórios de proteção
+
+<01>685.25	
+<02>Peças para proteger o corpo. Inclusive Aventais de couro. Plasírões. Coletes salva-vidas.
+<09>614.818 Equipamento de salvamento
+<09>614.895 Proteção do corpo. Proteção do corpo inteiro
+<09>687.17 Roupas de trabalho (artigos para proteção geral). Guarda-pós
+
+<01>685.3	
+<02>Calçados. Outras peças que ajudam na locomoção.
+<09>646.4. Roupas. Acessórios
+<09>675.14 Couro para calçados. Couro para botas e sapatos
+
+<01>685.34	
+<02>Indústria de calçados. Fabricação de sapatos. Fabricação de botas. 
+<04>Classificar conserto de calçados em 646.46.004.67
+<09>Subdivisões auxiliarei especiais
+
+<01>685.34.01	
+<02>Moda, desenho de calçados. Propriedades e
+defeitos. Métodos de teste.
+
+<01>685.34.01	
+<02>Moda.
+
+<01>685.34.01	
+<02>Métodos de pesquisa. Tamanho e largura de
+calçados.
+
+<01>685.34.016	
+<02>Modelos de calçados. Inclusive Modelagem. Construção.
+
+<01>685.34.017	
+<02>Propriedades físicas, mecânicas e de processamento de calçados. Testes.
+<09>531.7 Medição de quantidades geométricas e mecânicas: instrumentos, métodos e unidades
+<09>620.113 Base da amostragem  Erros na seleção. Processos de amostragem
+
+<01>685.34.019	
+<02>Defeitos e avarias. Controle e correção.
+<09>Especificar os defeitos nos principais materiais por meio de .03, em materiais auxüiares,  por meio de  04; defeitos de produção,  porameio de .02
+
+<01>685.34.02	
+<02>Processos de produção.
+<06>685.34.02-932.2 Processos contínuos
+
+<01>685.34.021	
+<02>Processos de preparo.
+<09>621.923.6 Retificação para formação do gume e da ponta. Retificação, afiação da ferramente
+<09>665.9 Indústrias químicas orgânicas diversas
+
+<01>685.34.021.2	
+<02>Produção, medidas e corte de moldes.
+
+<01>685.34.021.3	
+<02>Formas de sapateiro. Medidas das formas.
+
+<01>685.34.022	
+<02>Processos que se repetem em estágios
+separados da produção de sapatos.
+
+<01>685.34.022.2	
+<02>Divisão (igualamento). Divisão das partes de
+couro.
+
+<01>685.34.022.3	
+<02>Desbastamento. Polimento. Esmerilhamento.
+
+<01>685.34.022.4	
+<02>Colagem.
+
+<01>685.34.022.5	
+<02>Evaporação.
+
+<01>685.34.022.6	
+<02>Estampagem. Marcação.
+
+<01>685.34.023	
+<02>Métodos especiais para fabricação de sapatos
+ou partes de sapatos com materiais polímeros.
+<09>Exempplo(s) de ombinação(ões):
+<06>685.34.023-036.664 Fabricação com poliuretano
+
+<01>685.34.024	
+<02>Perfuração, corte e usinagem dos componentes
+do calçado.
+
+<01>685.34.024.3	
+<02>Perfuração, corte de materiais para
+componentes de sapatos.
+
+<01>685.34.024.4	
+<02>Dispositivos e equipamento para a parte
+superior do calçado.
+
+<01>685.34.024.5 
+<02>Usinagem das partes da sola.
+
+<01>685.34.025	
+<02>Fabricação das partes superiores. Montagem
+do sapato.
+
+<01>685.34.025.2	
+<02>Fabricação das partes superiores.
+
+<01>685.34.025.4	
+<02>Montagem do sapato. Inclusive Pinçamento e ajuste das partes superiores sobre a forma. Ligação da sola
+<04>e calcanhar.
+
+<01>685.34.027	
+<02>Acabamento dos sapatos e componentes.
+
+<01>685.34.027.2	
+<02>Acabamento da sola do sapato.
+
+<01>685.34.027.3	
+<02>Ligação do calcanhar a parti r de dentro.
+
+<01>685.34.027.5	
+<02>Acabamento da parte superior.
+
+<01>685.34.027.6	
+<02>Acabamento dos sapatos.
+
+<01>685.34.027.7	
+<02>Acabamento decorativo.
+
+<01>685.34.03	
+<02>Materiais principais usados na fabricação de sapatos. 
+<04>Para as propriedades dos materiais de calçados,  ver os campos correspondentes de aplicação. P. ex.: para as propriedades 
+<04>flsicas e mecânicas do couro e seus testes,  ver 675.017
+<06>685.34.03 dividido como -03 (Tabela 1k)
+
+<01>685.34.04	
+<02>Materiais complementares usados na fabricação de sapatos.
+
+<01>685.34.042	
+<02>Materiais complementares para montagem de calçados. Inclusive  Linhas de coser. Tachas de sapatos. Adesivos. Piche de 
+<04>McKay.
+
+<01>685.34.043	
+<02>Agentes de acabamento. Inclusive Tinta. Verniz. Graxa.
+<09>665 Óleos. Gorduras. Ceras. Adesivos. Colas. Gomas. Resinas
+<09>667.2 Indústria de prigmentos. Fabricação e uso de pigmentos
+<09>667.63 Revestimento: produção e uso
+
+<01>685.34.045	
+<02>Acessórios. Decorações. Inclusive Filas. Tiras. Fivelas. Cordões. Cadarços.
+
+<01>685.34.046	
+<02>Dispositivos antiderrapantes.Inclusive Travas. Cravos.
+
+<01>685.34.05	
+<02>Máquinas, ferramentas e equipamento de fabricação de calçados.
+<06>685.34.05-2 Componentes das máquinas de calçados
+<06>685.34.05-5 Operação e controle das máquinas de calçados
+
+<01>685.34.051	
+<02>Máquinas e instrumentos para processos preparatórios.
+<09>621.923.6 Retificação para formação do gume e da ponta. Retificação, afiação da ferramenta
+
+<01>685.34.052	
+<02>Máquinas, ferramentas e instrumentos usados
+em vários estágios da fabricação de calçados.
+
+<01>685.34.052 
+<02>dividido como 685.34.022
+
+<01>685.34.052.2 
+<02>Máquinas de divisão para o couro da parle de cima
+
+<01>685.34.053	
+<02>Máquinas para fabricaçüo de sapatos ou partes
+<04>de calçados com materiais polímeros.
+
+<01>685.34.054	
+<02>Máquinas para perfurar, cortar e trabalhar as
+<04>partes dos calçados.
+
+<01>685.34.054 
+<02>dividido como 685.34.024
+
+<01>685.34.055	
+<02>Máquinas para fabricação das partes superiores
+dos calçados e montagem dos calçados.
+
+<01>685.34.055 
+<02>dividido como 685.34.025
+
+<01>685.34.057	
+<02>Máquinas para acabamento dos calçados e
+partes dos calçados.
+
+<01>685.34.057 
+<02>dividido como 685.34 027'
+
+<01>685.34.07	
+<02>Partes do calçado. Produtos intermediários.
+<09>Especificar os materiais por meio de -03...
+
+<01>685.34.072	
+<02>Partes superiores. Gáspeas.
+
+<01>685.34.073	
+<02>Solas. Partes das solas. Inclusive Solas. Calcanhares.
+
+<01>685.34.074	
+<02>Dispositivos de proteção.
+
+<01>685.34.08	
+<02>Refugos, resíduos da produção de calçados.
+<06>685.34.08-035.51 Couro de retugo. Restos de couro 
+<09>Divisões principais
+
+<01>685.341	
+<02>Calçados segundo várias propriedades.
+<09>Indicar as combinações das subdivisões de .1/.8 entre si ou com 685.343/.348 e suas  subdivisões por meio do aóstrofo    (de preferência em ordem alfabética descendente)
+<06>685.341.83`72’42 Botas impermeáveis para mulheres 
+<06>685.346`852’371.l Sapatos esportivos de lona e tênis) para meninos
+
+<01>685.341.1 
+<02>Sapatos segundo os processos de fabricação ou
+produção.
+
+<01>685.341.12	
+<02>Sapatos produzidos em grande escala.
+
+<01>685.341.14	
+<02>Sapatos feitos à mão.
+
+<01>685.341.2	
+<02>Sapatos segundo os processos de fabricação.
+
+<01>685.341.22	
+<02>Fundos com solas de mola.
+
+<01>685.341.223	
+<02>Solas aparafusadas.
+
+<01>685.341.224	
+<02>Solas pregadas.
+
+<01>685.341.23	
+<02>Processos de costura.
+
+<01>685.341.25	
+<02>Processos químicos.
+
+<01>685.341.252	
+<02>Solas coladas.
+
+<01>685.341.253	
+<02>Solas vulcanizadas.
+
+<01>685.341.254	
+<02>Solas moldadas por injeção.
+
+<01>685.341.3	
+<02>Calçados segundo o material principal.
+
+<01>685.341.3 
+<02>dividido como -03 (Tabela 1k)
+
+<01>685.341.353	
+<02>Calçados de madeira. Tamancos.
+
+<01>685.341.355.1 
+<02>Calçados de couro.
+
+<01>685.341.355.3 
+<02>Calçados de imitação de couro.
+
+<01>685.341.364	
+<02>Calçados de borracha.
+
+<01>685.341.371.1 
+<02>Calçados de lona.
+
+<01>685.341.4	
+<02>Calçados segundo as propriedade de proteção.
+<09>685.345 Calçados profissionais
+
+<01>685.341.42	
+<02>À prova d'água.
+
+<01>685.341.43	
+<02>Com proteção contra impacto.
+
+<01>685.341.47	
+<02>Resistentes à derrapagem. Antiderrapantes.
+
+<01>685.341.6	
+<02>Calçados segundo os componentes.
+<09>685.34.07 Partes do calçado. Produtos intermediários
+
+<01>685.341.7	
+<02>Calçados segundo a forma.
+
+<01>685.341.72	
+<02>Botas.
+
+<01>685.341.73	
+<02>Sapatos.
+
+<01>685.341.74	
+<02>Meios sapatos. Inclusive Calçados flexíveis. Mocassins.
+
+<01>685.341.75	
+<02>Chinelos. Pantufas.
+
+<01>685.341.76	
+<02>Sandálias.
+
+<01>685.341.79	
+<02>Outras formas.
+
+<01>685.341.8	
+<02>Calçados segundo o sexo e idade dos usuários.
+
+<01>685.341.82	
+<02>Calçados masculinos, para homens.
+
+<01>685.341.83	
+<02>Calçados femininos, para mulheres.
+
+<01>685.341.85	
+<02>Calçados de crianças.
+
+<01>685.341.852	
+<02>Calçados de meninos.
+
+<01>685.341.853	
+<02>Calçados de meninas.
+
+<01>685.341.86	
+<02>Calçados para bebês, criancinhas.
+
+<01>685.343/.348	
+<02>Calçados para fins especiais.
+<09>Para o uso do apóstrofo `...,  ver a nota em 685.341
+
+<01>685.343	
+<02>Sapatos para uso diário.
+
+<01>685.343.2	
+<02>Sapatos de passeio.
+
+<01>685.343.4	
+<02>Sapatos para uso em casa 
+
+<01>685.343.8 
+<02>Galochas.
+
+<01>685.344	
+<02>Calçados para ocasiões festivas. Inclusive Sapatos de luxo. Sapatos de festas.
+<06>685.344:793.3 Sapatos de dança
+
+<01>685.345	
+<02>Calçados profissionais.
+<09>614.897 Proteção das pernas e dos pés
+<09>685.341.4 calçados segundo as propriedades de proteção
+
+<01>685.345.2	
+<02>Calçados para ocupações industriais.
+
+<01>685.345.2 
+<02>dividido como 6
+
+<01>685.345.222	
+<02>Calçados para mineiros.
+
+<01>685.345.26	
+<02>Calçados para trabalhadores da indústria
+química.
+
+<01>685.345.4	
+<02>Calçados para artistas. Inclusive Sapatos de teatro, p. e.x, .borzeguins, Sapatilhas de balé. Calçados para artistas de 
+<04>circo.
+
+<01>685.345.5	
+<02>Calçados militares.
+
+<01>685.346	
+<02>Calçados para atividades esportivas.
+
+<01>685.346.4	
+<02>Calçados de banho. Calçados de praia.
+<06>6S5.346.6/.9	Sapatos para determinados esportes c jogos.
+
+<01>685.346.6/.9 
+<02>dividido como 796/799
+
+<01>685.346.633.2 
+<02>Chuteiras de futebol.
+
+<01>685.346.652	
+<02>Botas e sapatos para alpinismo.
+
+<01>685.348	
+<02>Calçados higiênicos e ortopédicos.
+
+<01>685.348.2	
+<02>Calçados profiláticos (para evitar doenças do éé). Inclusive Calçados com dispositivos ortopédicos ou higiênicos
+
+<01>685.348.4	
+<02>Calçados ortopédicos.
+<09>Especificar a doença, o problema por meio de :6/6...
+685.346.6/.9
+
+<01>685.348.42	
+<02>Para pés deformados.
+
+<01>685.348.43	
+<02>Para pessoas com uma perna mais curta.
+
+<01>685.36	
+<02>Calçados especializados e acessórios para
+viagem no gelo, neve, água.
+<09>685.65 Equipamento e instalações para patinação no gelo, esquiagem, tobogã, etc.
+
+<01>685.361	
+<02>Patins de gelo e acessórios.
+
+<01>685.362	
+<02>Patins de rodas e dispositivos com os mesmos relacionados. Inclusive Skateboards.
+
+<01>685.363	
+<02>Sapatos de neve. Esquis. Acessórios (p. ex., bastões de esqui).
+
+<01>685.363.1	
+<02>Sapatos de neve.
+
+<01>685.363.2	
+<02>Esquis.
+
+<01>685.363.3	
+<02>Acessórios para manutenção e reparo. Inclusive Ceras de esqui.
+
+<01>685.363.4	
+<02>Peles e outros dispositivos antiderrapantes.
+
+<01>685.363.7	
+<02>Bastões para esquiar e andar na neve. Bastões de esqui.
+
+<01>685.364	
+<02>Esquis aquáticos. Acessórios.
+
+<01>685.37	
+<02>Equipamento para andar e locomover-se em terrenos especiais. Dispositivos para ampliar a força do salto. Inclusive  Varas de salto. Pernas de pau.
+
+<01>685.38	
+<02>Acessórios para a locomoção de enfermos e feridos.
+
+<01>685.381	
+<02>Muletas.
+<09>616-089.22 Apoio. Imobilização. Restrição Tração
+
+<01>685.382	
+<02>Pernas de pau. Pés de pau.
+<09>615.477.22 Pernas artificiais
+
+<01>685.383	
+<02>Cadeiras de rodas  para deficientes físicos.
+<09>615.478.3 Cadeiras de rodas. Cadeiras de banho. Macas com rodas. Carrinhos. Outros meios de transporte nos hospitais
+<09>629.312 Meios de transporte sobre rodas impulsionados (ou arrastados) por seres humanos
+
+<01>685.4	
+<02>Fabricação de luvas. Luvas.
+<09>646.4 Roupas. Acessórios
+<09>675.15 Couro para peças de roupa. Couro para luvas. Couro para chapéus, artigos de chapelaria. Couro para forro de roupas. Couro para pequenos artigos de vestuário
+<09>675.62 Peles para peças de vestuário. Peles para vestuário. Peles para forros e enfeites
+
+<01>685.41	
+<02>Luvas de couro comum. Inclusive Luvas de pelica.
+
+<01>685.42	
+<02>Luvas longas de couro. Luvas até o
+cotovelo, para noite. Luvas femininas de
+baile.
+
+<01>685.43	
+<02>Luvas de couro forradas e revestidas.
+<09>Luvas de pele. Regalos. Luvas
+acolchoadas. Luvas de boxe. Outras.
+
+<01>685.44	
+<02>Luvas de pano, cortadas e costuradas.
+
+<01>685.45	
+<02>Luvas de borracha.
+
+<01>685.46	
+<02>Luvas inteiramente tecidas. Luvas de
+tricô. Luvas de renda. Outras.
+
+<01>685.5	
+<02>Artigos de viagem. Equipamento
+de acampamento.
+<09>675.16 Couro para equipamento de viagem e esporte. Couro para coberturas de chão
+<04>e de parede. Couro para estofamento de móveis e usos domésticos
+
+<01>685.51	
+<02>Malas de viagem. Inclusive  Malas. Baús. Maletas de mão.Sacos de viagem. 
+<09>688.33 688.33 Sacolas de toalete. Estojos de maquiagem
+
+<01>685.511	
+<02>Malas e baús em geral.
+<09>674.62 Baús de madeira. Arcas de madeira (caixas-fortes)
+
+<01>685.512	
+<02>Maletas de mão. Valises. Porta-casacos.
+
+<01>685.513	
+<02>Nécessaires. Frasqueiras. Sacolas de
+miudezas.
+
+<01>685.514	
+<02>Mochilas. Alforjes. Embornais. Sacos.
+
+<01>685.516	
+<02>Caixas para utensílios. Cantis.
+
+<01>685.517	
+<02>Equipamento para piquenique.
+<09>641 Alimentos. Preparação de alimentos. Pratos
+<09>642 Relações e horários das refeições. Louça, talheres, etc.
+
+<01>685.53	
+<02>Equipamento de acampamento.
+
+<01>685.531	
+<02>Barracas.
+<09>Subdivisões auxiliares especiais
+
+<01>685.531.05	
+<02>Componentes. Equipamento.
+
+<01>685.531.051	
+<02>Estruturas, armações de barracas.
+
+<01>685.531.053	
+<02>Coberturas de barracas e conexões das beiradas.
+
+<01>685.531.054	
+<02>Paus de barraca.
+
+<01>685.531.055	
+<02>Pinos da barraca (para fixá-la à terra).
+
+<01>685.531.056	
+<02>Elos entre a barraca e os pinos. Inclusive Cordas. Juntas.
+
+<01>685.531.057	
+<02>Piso da barraca.
+<09>Divisões principais
+
+<01>685.531.2	
+<02>Barracas individuais. Barracas de excursão.
+
+<01>685.531.3	
+<02>Barracas grandes. Barracas de parede. Tendas
+de oficiais em campanha. Tendas com
+arcabouço.
+
+<01>685.531.4	
+<02>Barracas em sino. Barracas cênicas.
+
+<01>685.531.5	
+<02>Barracas de encostar. Barracas como extensão. Inclusive Barracas que se estendem a partir de veículos.
+
+<01>685.532	
+<02>Abrigos temporários. Inclusive  Bivaques.
+
+<01>685.533	
+<02>Equipamento portátil para dorm ir.
+<09>645.425 Tipos especiais de cama (segundo a construção)
+
+<01>685.533.2	
+<02>Camas de campanha.
+
+<01>685.533.5	
+<02>Camas de ar. Colchões infláveis.
+
+<01>685.533.8	
+<02>Sacos de dormir.
+<09>645.482 Cobertas de cama. Colchas. Edredons. Sacos de dormir
+
+<01>685.534	
+<02>Redes.
+
+<01>685.535	
+<02>Assentos portáteis, dobráveis. Bancos de
+acampamento. Cadeiras dobráveis.
+
+<01>685.538	
+<02>Almofadas para viagem. Apoios de cabeça.
+<09>Assentos de viagem.
+
+<01>685.54	
+<02>Dispositivos para carregar peso, carga. Equipamento para levantar ou carregar
+grandes pesos. Inclusive  Ganchos, correias. Cintos porta-tudo (com bolso,s etc.) Bandoleiras.  
+<09>685.22 Peças usadas em volta da cintura. Cintos, cinturões. Fivelas e apetrechos de cintos
+<09>685.23 Peças usadas sobre os ombros
+
+<01>685.55	
+<02>Guarda-chuvas, etc. Bengalas.
+<09>Subdivisões auxiliares especiais
+
+<01>685.55.07	
+<02>Componentes.
+
+<01>685.55.072	
+<02>Armações. Cabos. Ponteiras. Pontas.
+
+<01>685.55.076	
+<02>Mecanismos de abrir e fechar.
+<09>Divisões principais
+
+<01>685.551	
+<02>Guarda-chuvas.
+
+<01>685.552	
+<02>Guarda-sol. Sombrinhas.
+
+<01>685.554	
+<02>Armações especiais de guarda-chuvas e
+sombrinhas. Guarda-sol de jardim. Toldos.
+<09>Pátios.
+
+<01>685.555	
+<02>Guarda-chuvas e sombrinhas dobráveis,
+telescópicos. Guarda-chuvas de bolsa, etc.
+
+<01>685.557	
+<02>Bordões. Bengalas.
+<09>674.73 Bengalas e bastões para andar. Cabos, coronhas
+
+<01>685.558	
+<02>Bengalas e guarda-chuvas conversíveis em assentos, mesas, etc. Inclusive Bengalas que atiram (espingardas
+<04>em forma de bengala).
+
+<01>685.59	
+<02>Outros artigos de viagem. Porta-etiquetas, protetores de etiquetas. Redes contra mosquitos, insetos. Dispensários de 
+<04>campo. Farmácias portáteis. Estojos de primeiros socorros.
+
+<01>685.6	
+<02>Equipamento para esportes e jogos. Equipamento e instalações para atletismo, ginástica, exercícios físicos.
+<09>796.022 Equipamento parra jogos, ginástica, esportes. Apetrechos e acessórios esportivos para competições, torneios
+
+<01>685.61	
+<02>Questões gerais.
+
+<01>685.618	
+<02>Dispositivos de indicação e contagem de
+pontos. Placares.
+
+<01>685.619	
+<02>Equipamento para instalação de campos de
+esportes. Equipamento para delimitação das
+áreas de jogo.
+<09>712.257 Campos de jogos. Campos de esportes
+
+<01>685.62	
+<02>Equipamento e instalações para jogos de movimento e destreza. Inclusive Cordas de pular Arcos e varas. Piões. Bolas 
+de gude. Discos de arremesso, ioiôs.
+
+<01>685.626	
+<02>Equipamento de badminton.
+
+<01>685.628	
+<02>Equipamento para boliche, bagatela, jogos de ferraduras, etc. Inclusive Equipamento de boliche.
+
+<01>685.63	
+<02>Equipamento e instalações para jogos de bola e arremesso.
+
+<01>685.632	
+<02>Equipamento para jogos de bola pelo alto
+jogados com uma bola grande (basquetebol, .voleibol, etc.). Inclusive Bolas. Redes, Equipamento de proteção.
+
+<01>685.633	
+<02>Equipamento para futebol, etc. (futebol, rúgbi, futebol americano,  etc.). Inclusive Bolas. Traves. Redes.
+
+<01>685.634	
+<02>Equipamento para jogos de bola e raquete (tênis, tamboretes, etc.). Inclusive Bolas. Redes. Raquetes.
+
+<01>685.635	
+<02>Equipamento para jogos de bastão, malho (golfe, pólo, hóquei, beisebol, criquete, etc.). Inclusive Bolas. Bastões. Tacos. Paus.
+
+<01>685.637	
+<02>Equipamento para arremesso (sem mira). Inclusive Discos. Pesos. Martelos. Dardos.
+
+<01>685.638	
+<02>Equipamento para arremesso com mira. Inclusive Bumerangues. Projéteis, bastões de madeira.
+
+<01>685.639	
+<02>Outros equipamentos para jogos de bola e arremesso. Inclusive Marcas. Alvos. Topos.
+
+<01>685.64	
+<02>Equipamento e instalações para ginástica, atletismo, acrobacia.
+
+<01>085.641	
+<02>Equipamento de ginástica. Inclusive Halteres. Maças. Extensores do peitoral. Molas de mão.
+
+<01>685.643	
+<02>Equipamento para saltar, equilibrar-se e exercícios semelhantes.
+
+<01>685.643.2	
+<02>Equipamento para saltar (salto em altura, salto em distância, salto com vara). Inclusive Estruluras, barras, cordas para saltos. Varas de salto.
+
+<01>685.643.3	
+<02>Equipamentos para salto. Cavalos de pau.
+
+<01>685.643.4	
+<02>Barreiras.
+
+<01>685.643.5	
+<02>Pranchas de saltos. Barras e blocos. Blocos de impulso.
+
+<01>685.643.6	
+<02>Esteiras de ginástica. Colchões. Tatames.
+
+<01>685.643.8	
+<02>Equipamento para exercícios de equilíbrio. Inclusive Cordas bambas. Postes de equilíbrio, figas.
+
+<01>685.644	
+<02>Barras horizontais e paralelas.
+
+<01>685.645	
+<02>Barras transversais.
+
+<01>685.646	
+<02>Trapézios. Anéis. Cordas. Barras de parede. Passos-de-gigante, carrossel de corda. Outros equipamentos.
+
+<01>685.647	
+<02>Equipamento para exercícios acrobáticos e contorcionistas. Inclusive Trampolins.
+
+<01>685.648	
+<02>Equipamento para exercício, treinamento.
+<06>685.648 dividido como 79
+
+<01>685.648.683	
+<02>Equipamento para treinamento de boxe. Inclusive Sacos de pancada. Bonecos de
+socar.
+
+<01>685.648.712.3 
+<02>Equipamento para prática de remo.
+
+<01>685.65	
+<02>Equipamento e instalações para patinação no gelo, esquiagem, tobogã, etc.
+<09>685.36 Calçados especialaizados e acessórios para viagem no gelo, neve, água
+
+<01>685.659	
+<02>Instalações para esportes de inverno.
+
+<01>685.659.1 
+<02>Instalações para patinação no gelo. Rinques de gelo, etc.
+
+<01>685.659.3	
+<02>Instalações para esquiagem.
+
+<01>685.659.32	
+<02>Saltos de esqui. Rampas artificiais de salto de esqui.
+
+<01>685.659.33	
+<02>Guindastes, elevadores para rampas de esqui. Inclusive  Elevadores de esqui, reboques de esqui, guindastes de esqui. 
+<04>Elevadores de cadeirinha. guindastes de cadcirinha. 
+<09>625.5 7 Vias aéreas de cabo e de corda. Teleféricos de cabo
+
+<01>685.659.39	
+<02>Outros equipamentos. Inclusive Equipamento para esqui a seco. Pistas de esqui a seco.
+
+<01>685.659.4	
+<02>Pistas de trenó, corridas de tobogã.
+
+<01>685.659.5	
+<02>Pistas de trenó duplo, trenó de corrida (bobsleigh).
+
+<01>685.659.6	
+<02>Equipamento para esportes, jogos no gelo Ipara
+hóquei no gelo, beisebol no gelo, etc.),
+
+<01>685.68	
+<02>Equipamento para boxe e luta livre.
+<09>Ringues de box e luta livre. 
+<09>685.43 Luvas de couro forradas e revestidas. Luvas de pele. Regalos. Luvas acolchoadas. Luvas de boxe. Outras
+
+<01>685.7	
+<02>Equipamento de montanhismo,
+alpinismo, escalada. Equipamento
+de natação.
+<09>796 Esportes. Jogos atléticos. Exercícios físicos
+
+<01>685.72	
+<02>Equipamento de montanhismo, alpinismo. Inclusie Ganchos, arpões, ferros, pitões, etc. de escalar. Equipamento de 
+<04>cordas. Machados, picaretas de gelo. Grampos.
+
+<01>685.73	
+<02>Equipamento e instalações para natação. Inclusive Nadadeiras, pés-de-pato Dispositivos para boiar (bóias de braço, 
+<04>bóias circulares, etc.). Equipamento, balizas, etc. para jogos aquáticos.
+
+<01>685.8	
+<02>Equipamento para jogos de mesa e tabuleiro.
+<09>688.72 Brinquedos
+<09>794.022 Equipamento
+
+<01>685.81	
+<02>Equipamento e acessórios para jogos de cartas.
+
+<01>685.811	
+<02>Cartas de jogar (fabricação, aparência e tipos).
+
+<01>685.811.2	
+<02>Aparência (modelos, desenhos, seqüências, etc.).
+
+<01>685.811.3	
+<02>Cartas de jogar tradicionais. Cartas comuns.
+<09>Cartas para serem combinadas. Cartas de combinação.
+
+<01>685.811.4	
+<02>Cartas de jogar de fantasia com seqüências -
+padrão (cartas de jogar ilustradas,
+comemorativas, instrutivas).
+
+<01>685.811.5	
+<02>Cartas de jogar de fantasia sem referência aos
+sistemas-padrão de seqüência. Inclusive  Jogos de quartetos, sete famílias. Loteria mexicana.
+
+<01>685.811.6	
+<02>Cartas de tarô (tradicionais, ilustradas, simplificadas).
+
+<01>685.811.7	
+<02>Cartas de cartomancia (com comentários, signos do zodíaco, outras imagens e ilustrações).
+
+<01>685.811.8	
+<02>Cartas de mágica (cartas de ilusionistas, mágicos).
+
+<01>685.82	
+<02>Equipamento e acessórios para jogos de azar. Inclusive Dados. Copos de dados, etc. Equipamento de roleta. Equipamento 
+<04>para loto, bingo, tômbola, etc.
+
+<01>685.84	
+<02>Acessórios de jogos de tabuleiro.
+
+<01>685.841	
+<02>Conjuntos de xadrez, tabuleiros e peças. 
+
+<01>685.842	
+<02>Tabuleiros e peças para jogos menores de
+tabuleiros que não dependem da sorte. Inclusive Para jogos de damas.
+
+<01>685.843	
+<02>Tabuleiros e peças para gamão, dominó e outros jogos de mesa.
+
+<01>685.85	
+<02>Equipamento e acessórios para jogos de modelos ou quebra-cabeças que requerem paciência e destreza.
+<09>688.727.9 Jogos de construção. Quebra-cabeças
+
+<01>685.87	
+<02>Equipamento e acessórios para jogos de bola e taco. Inclusive  Mesas, bolas, tacos de bilhar. Equipamento para variantes de bilhar.
+
+<01>685.88	
+<02>Equipamento para tênis de mesa. Mesas, redes, bolas, raquetes de pingue-pongue.
+ 
+
+
+<01>686	
+<02>Encadernação de livros. Metalização. Fabricação de espelhos. Artigos de papelaria
+
+
+<01>686.1	
+<02>Encadernação de livros.
+<09>655.4 Edição e comércio de livros em geral
+<09>655.534 Encadernação, capa, sobrecapa, lombada
+<09>Subdivisões auxiliares especiais
+
+<01>686.1.01	
+<02>Teoria. Limites. Defeitos.
+
+<01>686.1.01 
+<02>dividido como 621.7.01
+
+<01>686.1.019	
+<02>Defeitos e dificuldades em encadernação.
+
+<01>686.1 
+<02>02	Processos de encadernação.
+
+<01>686.1.02 
+<02>dividido como como 686.1.05
+
+<01>686.1.03	
+<02>Materiais e acessórios de encadernação de livros.
+
+<01>686.1 
+<02>031	Materiais para reunir folhas e cadernos. Inclusive Unha. Grampos de metal. Argolas. Espirais. Pentes. Talagarça.
+
+<01>686.1 
+<02>032	Materiais para a encadernação, revestimento ou capa.
+<06>686.1.032:665.93 Adesivos 
+<06>686.1.032:676.267.2 Papel desenhado. Papel marmorizado
+
+<01>686.1 
+<02>033	Materiais para ornamentação. Cores e folhas de metal. 
+<06>686.1.033:667.5 Tintas de encademador
+
+<01>686.1.039	
+<02>Ferramentas e outros acessórios da
+encadernação.
+
+<01>686.1.05	
+<02>Máquinas de encadernação.
+
+<01>686.1 
+<02>051	Máquinas para processar folhas e cadernos.
+
+<01>686.1 
+<02>051.2	Máquinas de igualamento. Igualadoras.
+
+<01>686.1.051.3	
+<02>Máquinas para aplicar adesivo. Máquinas de colar. Coladeiras. Máquinas de colar as folhas
+<04>de guarda, colar encartes e colar cantos e bordas.
+
+<01>686.1 
+<02>051.5	Máquinas e equipamento de alcear folhas, cadernos.
+
+<01>686.1.051.54	
+<02>Alceadeiras.
+<09>Exempio(s) de combinação(ões):
+
+<01>686.1 
+<02>051.54-79 Mecanismo de alcear das alceadeiras 
+
+<01>686.1 
+<02>051.58              Máquinas de inserir encartes.
+
+<01>686.1.052	
+<02>Prensas de encademador. Inclusive Prensas de enfardar.
+
+<01>686.1.053	
+<02>Máquinas de dobrar. Dobradeiras.
+
+<01>686.1.054	
+<02>Máquinas e equipamento para reunir folhas e cadernos.
+
+<01>686.1.054.2	
+<02>Máquinas e equipamento de costura. Inclusive Armações de costura. Máquinas de costura.
+
+<01>686.1 
+<02>054.3	Máquinas e equipamento para prender com arame. Inclusive Máquinas de grampear.
+<09>Grampeadores. Máquinas para encadernar com espiral, com argolas.
+
+<01>686.1 
+<02>054.7	Máquinas para encadernação sem costura (com cola).
+
+<01>686.1.055	
+<02>Máquinas e equipamento para processar o livro
+costurado (sem capa).
+
+<01>686.1.055.2	
+<02>Máquinas para arredondar a lombada.
+
+<01>686.1.055.3	
+<02>Máquinas para consolidar, compactar, prensar.
+
+<01>686.1.055.7	
+<02>Máquinas para colar. Máquinas para revestir.
+
+<01>686.1 
+<02>055.8	Máquinas para colorir e dourar bordas.
+
+<01>686.1.056	
+<02>Máquinas e equipamento para cortar e
+guilhotinar papel e papelão. Inclusive Cutelos. cortadores, guilhotinas, aparadores de papel.
+
+<01>686.1 
+<02>057	Máquinas e equipamento para produção das
+capas, revestimentos do livro. Inclusive Prensas para dourar. Prensas de relevo.
+
+<01>686.1 
+<02>058	Máquinas e equipamento para fixar a capa ao livro costurado. Inclusive Máquinas de revestimento.
+<09>Máquinas de brochurar, encadernarão mole. Prensas de livros (para prensar
+depois de encapados). Máquinas para aplicar sobrecapas.
+
+<01>686.1.059	
+<02>Máquinas e mecanismos de encadernação para fins especiais que funcionam de modo conjugado a fim de elaborar produtos 
+<04>semi-acabados ou acabados de encadernação industrial ou de produção em massa. Séries de máquinas em linha. 
+<09>Divisões principais
+
+<01>686.11	
+<02>Encadernação propriamente dita. Encadernação tradicional, à mão. Caixas para livros em forma de rolo, de volumen. 
+
+<01>686.12	
+<02>Encadernação mecanizada, em larga escala.
+
+<01>686.121	
+<02>Tipos de brochura, folhetos, etc.
+
+<01>686.121.1	
+<02>De folhas soltas.
+ 
+
+<01>686.121.11	
+<02>Com encadernação em espiral.
+
+<01>686.121.12	
+<02>Com encadernação denteada (plástico).
+
+<01>686.1.21.13	
+<02>Com linhas ou cordões.
+
+<01>686.121.14	
+<02>Com argolas.
+
+<01>686.121.2	
+<02>Formada por um só caderno.
+
+<01>686.121.3	
+<02>Formada por mais de um caderno.
+
+<01>686.122	
+<02>Tipos de encadernação, pastas com grampos
+para folhas soltas em forma de livro, etc.
+
+<01>686.122.3	
+<02>Encadernações acabadas à mão.
+
+<01>686.122.6	
+<02>Encadernações industriais, de produção em massa.
+
+<01>686.122.61	
+<02>Encadernações de papelão. Encadernações com
+revestimento de papel especial.
+
+<01>686.122.62	
+<02>Encadernações de tecido ou couro artificial.
+
+<01>686.122.64 
+<02>Encadernações de couro.
+
+<01>686.122.66	
+<02>Encademações de plástico.
+
+<01>686.122.8	
+<02>Guamições de livros. Inclusive Fechos de livros. Capas protetoras para livros. Sobre-capas. Estojos de livro. Caixas.     
+<04>Marcadores de livros.
+
+<01>686.122.9	
+<02>Outras pastas, capas ou protetores em forma de livro. Inclusive Pastas, capas com parafuso. Pastas de ganchos ou molas.
+
+<01>686.125	
+<02>Técnicas de encadernação para outros produtos. Inclusive  Montagem de mapas e estampas.
+
+<01>686.126	
+<02>Colagem de papel e outros materiais em papel, papelão, etc. Plastificação (com
+película transparente; com película metalizada), etc.
+<09>676.264 Papel e cartolina laminados. Papéis com duas ou mais camadas. Papel e cartolina laqueados
+
+<01>686.4	
+<02>Metalização. Envernizamento metálico.
+<09>Aqui se classifica somente a metalização de ametais
+<09>621.357 Indústria eletroquímica. Eletrólise, eletrodeposição
+<09>621.793 Revestimento, banho de metal, galvanização. Produção de revestimentos e películas condutoras, semicondutoras, resistentes, dielétricas, magnéticas. Metalização
+<09>666.1.056 Revestimento do vidro com outras substâncias. Metalização do vidro. Produção de películas protetoras no vidro
+<09>667.649.2 Aplicação de oropel (folhas de metal). Aplicação de decalcomanias
+<09>669.058 Metais aplicados como acabamento (sobre metal ou qualquer outro material)
+
+<01>686.41	
+<02>Douração. Aplicação de ouro.
+
+<01>686.43	
+<02>Prateamento. Aplicação de prata.
+
+<01>686.45	
+<02>Bronzeamento. Aplicação de bronze.
+
+<01>686.49	
+<02>Aplicação de outros metais a ametais.
+
+<01>686.49 
+<02>dividido como  669
+
+<01>686.493	
+<02>Cobreamento. Aplicação de cobre.
+
+<01>686.5	
+<02>Molduras. Fabricação de molduras
+para quadros.
+
+<01>686.6	
+<02>Vidraçaria. Corte de vidro.
+<09>698.3 Envidraçamento. Ofício de vidraceiro
+
+<01>686.7	
+<02>Espelhos. Fabricação de espelhos.
+<09>645.492 Espelhos
+<09>666.1.056 Revestimento do vidro com outras substâncias. Metalização do vidro. Produção de películas protetoras no vidro
+<09>666.266.4 Vidro com revetimento metálico para outras finalidades
+
+<01>686.71	
+<02>Espelhos de mão. Espelhos de bolso.
+<09>Espelhos de barbear.
+
+<01>686.72	
+<02>Espelhos de parede (emoldurados ou não).
+<09>Espelhos como parte de móveis (p. ex., de
+guarda-roupas).
+
+<01>686.74	
+<02>Espelhos com superfícies curvas.
+<09>Espelhos côncavos e convexos. Espelhos de seções cilíndricas ou cônicas.
+
+<01>686.77	
+<02>Espelhos esféricos. Globos prateados.
+<09>Refletores multifacetados.
+
+<01>686.8	
+<02>Equipamento de escritório. Artigos
+de papelaria. Acessórios para escrever, para desenhar e para artistas.
+<09>005.936.33 Equipamento de escritório. Máquinas de escritório
+<09>005.936.41 Suprimentos. Matéria-prima
+
+<01>686.81	
+<02>Blocos de escrever. Livros de
+escrituração. Cadernos, blocos de
+exercícios.
+
+<01>686.811	
+<02>Blocos de escrever. Blocos com papel-
+carbono.
+
+<01>686.812	
+<02>Livros de escrituração, livros comerciais.
+<09>Blocos de notas de vendas. Blocos de folhas
+carbonadas.
+
+<01>686.814	
+<02>Papel em rolo. Formulários contínuos.
+
+<01>686.816	
+<02>Cadernos de exercícios.
+
+<01>686.82	
+<02>Álbuns. Inclusive Montagens adesivas, cantoneiras.
+
+<01>686.83	
+<02>Pastas. Pastas para arquivos. Portfólios. Inclusive Pastas de documentos. Pastas i/t' correspondência.
+
+<01>686.84	
+<02>Equipamento para fichárío.
+<09>686.84 Equipamento para fichário
+<09>686.874 Móveis para fichários. Armários para fichas
+
+<01>686.842	
+<02>Equipamento para fichário vertical (p. ex.,
+em forma de gabinete).
+
+<01>686.843	
+<02>Equipamento para fichários com fichas-
+guia visíveis.
+
+<01>686.845	
+<02>Equipamento para fichários em formato  de livro.
+
+<01>686.846	
+<02>Equipamento para fichários, índices
+manuais que empregam cartões perfurados. Inclusive  Equipamento de recuperação para fichários, índices manuais que empregam cartões perfurados
+
+<01>686.851	
+<02>Mata-borrões.
+<09>676.252.32 Papel e cartolina mata-borrão
+
+<01>686.853	
+<02>Calendários. Inclusive Calendários de folhas destacáveis. Calendários perpétuos.
+
+<01>686.854	
+<02>Suportes para jornal. Suportes para leitura.
+
+<01>686.855	
+<02>Caixas para jornais. Pastas protetoras para jornais.
+
+<01>686.86	
+<02>Equipamento de escritório.
+
+<01>686.861	
+<02>Tinteiros. Frascos de tinta.
+<09>667.4 Tintas. Tintas de escrever
+
+<01>686.862	
+<02>Implementos para escrever.
+<09>003.58 Instrumentos para escrever 
+
+<01>686.862.1 
+<02>Canetas. Penas de escrever. Suportes para
+penas.
+
+<01>686.862.2	
+<02>Lápis em geral.
+<09>667.56 Lápis. Lápis de cera
+
+<01>686.862.21	
+<02>Lápis de grafita.
+
+<01>686.862.22	
+<02>Lápis coloridos de cera. Lápis de cor.
+
+<01>686.862.23	
+<02>Lápis de cópia. Lápis-tinta. Lápis indeléveis.
+
+<01>686.862.3	
+<02>Lapiseiras. Lapiseiras recarregáveis.
+
+<01>686.862.4	
+<02>Canetas-tinteiro.
+
+<01>686.862.5	
+<02>Canetas esferográficas.
+
+<01>686.862.6	
+<02>Canetas com ponta de feltro. Canetas com ponta de fibra. Inclusive Canetas com ponta de feltro com
+tinta fluorescente. Canetas para marcar. Marcadores de texto.
+
+<01>686.862.8	
+<02>Outros instrumentos para escrever.
+
+<01>686.862.81	
+<02>Carvão.
+
+<01>686.862.82	
+<02>Giz.
+
+<01>686.864	
+<02>Equipamento auxiliar para desenhar e escrever. Inclusive Réguas. Esquadros. Transferidores. Curvas francesas. Tachas,
+percevejos.
+
+<01>686.865	
+<02>Itens diversos de equipamentos para escritório.
+
+<01>686.865.2	
+<02>Máquinas para cortar, para cominuição do papel.
+
+<01>686.865.22	
+<02>Guilhotinas.
+
+<01>686.865.24	
+<02>Retalhadoras.
+
+<01>686.865.26	
+<02>Perfuradoras
+
+<01>686.865.3	
+<02>Furadores (perfuradores) de escritório, de mesa.
+
+<01>686.865.4	
+<02>Pesos para papel.
+
+<01>686.865.5	
+<02>Equipamento para prender e grampear. Isnclusive Clipes e grampos para papel. Grampeadores.
+
+<01>686.865.7	
+<02>Sustentadores de papel. Porta-páginas.
+<09>Viradores de página. Indicadores de unha e
+coluna.
+
+<01>686.865.9	
+<02>Dispositivos auxiliares de escrita para cegos e
+outras pessoas deficientes. Inclusive Equipamento de braile.
+
+<01>686.866	
+<02>Equipamento para selar e marcar. Equipamento para umedecer, colar e afixar selos.
+<09>681.173.7 Máquinas de franquia postal
+
+<01>686.866.4	
+<02>Alimentadores de folhas de papel e cortadores
+para rolos de papel ou selos.
+
+<01>686.866.5	
+<02>Equipamento de umedecimento.
+
+<01>686.866.6	
+<02>Dispositivos para colar e prender. Inclusive Afixadores de selo.
+
+<01>686.867	
+<02>Equipamento para abrir e lacrar cartas.
+
+<01>686.867.1 
+<02>Abridores de cartas.
+
+<01>686.867.5	
+<02>Dispositivos para inserir conteúdos em envelopes.
+
+<01>686.867.6	
+<02>Equipamento de lacragem. Inclusive  Cera de lacre. Selos. sinetes.
+<09>736.3 Sigilografia. Esfragística
+
+<01>686.868.7	
+<02>Apontadores de lápis. Máquinas de apontar lápis.
+
+<01>686.868.8	
+<02>Materiais para corrigir e apagar.
+
+<01>686.868.81	
+<02>Borrachas.
+
+<01>686.868.83	
+<02>Facas para apagar.
+
+<01>686.868.85	
+<02>Removedor de tinta.
+
+<01>686.868.87	
+<02>Liquido corretivo.
+
+<01>686.87	
+<02>Móveis e instalações do escritório.
+<09>645.4 Móveis e acessórios
+<09>651.2 Equipamento de escritório. Máquinas de escritório. Suprimentos de escritório
+
+<01>686.872	
+<02>Recipientes e móveis para papéis,
+formulários, etc. Armários, gabinetes de
+papéis.
+
+<01>686.873	
+<02>Suportes, estantes de livros. Estantes de
+<06>livros portáteis, móveis e giratórias.
+
+<01>686.874	
+<02>Móveis para fichários. Armários para
+fichas.
+<09>686.84 Equipamento para fichários
+
+<01>686.878	
+<02>Cestas de papel, de lixo.
+
+<01>686.88	
+<02>Acessórios para desenho e para artistas.
+<09>741.02 Técnica do desenho. Métodos de trabalho. Equipamento de desenho.  Materiais de desenho
+<09>75.022 Instrumentos, equipamento de pintura
+
+<01>686.881	
+<02>Caixas de tinta para aquarelas, para
+pintura a óleo. Vasilhas para tintas. Paletas.
+
+<01>686.884	
+<02>Materiais para modelagem. Estojos,
+ferramentas, etc. de modelagem.
+
+<01>686.886	
+<02>Conjuntos de instrumentos para desenho
+ou matemática.
+
+<01>686.887	
+<02>Caixas, prateleiras, estantes para canetas ou lápis.
+
+<01>686.888	
+<02>Lousas para escritura apagável. Inclusive  Quadros-negros. Lousas de parede. Apagadores de quadro-negro
+
+<01>687 
+<02>Indústria do vestuário. Confecção de artigos de vestuário. Cosmetologia
+<09>Os auxiliares 687.02/.078 são aplicáveis apenas em 687. 1/.3 e suas subdivisões
+<09>646.4 Roupas. Acessórios
+<09>675.15 Couro para peças de roupa. Couro para luvas. Couro para chapéus, artigos de chapelaria. Couro para forro de roupas. Couro para pequenos artigos de vestuário
+<09>675.62 Peles para peças de vestuário. Peles para vestuário. Peles para forros e enfeites
+<09>677 Indústria Têxtil
+<09>746.4 Alfaiataria. Confecção de vestidos. Costura. Tricô. Crochê 
+<09>Subdivisões auxiliares especiais
+<06>687-1	Tipos de material têxtil.
+<04>Os auxiliares de 62-1... não são aplicáveis em 687 e suas subdivisões 
+<06>687-11/-15 dividido como 677.1/.5 
+<09>Subdivisões auxiliares especiais
+
+<01>687.01	
+<02>Princípios, estética, desenho e outros
+fundamentos.
+
+<01>687.016	
+<02>Técnica. Corte. Estilo.
+
+<01>687.02	
+<02>Técnicas, procedimentos de trabalho.
+
+<01>687.021	
+<02>Medidas, medição. Produção de moldes.
+
+<01>687.022	
+<02>Corte do tecido.
+
+<01>687.023	
+<02>Costura.
+
+<01>687.03	
+<02>Matérias-primas para a indústria do
+vestuário. Tecidos, Aviamentos.
+
+<01>687.05	
+<02>Ferramentas e máquinas para a indústria
+do vestuário.
+
+<01>687.051	
+<02>Ferramentas e máquinas para o trabalho
+preparatório.
+
+<01>687.051.2	
+<02>Dispositivos para tomar medidas.
+
+<01>687.051.3	
+<02>Moldes para cortar e medir.
+
+<01>687.051.4	
+<02>Manequins de alfaiates. Manequins de costureiras.
+
+<01>687.051.5	
+<02>Produção de moldes (p. ex., moldes de papel). Inclusive Gabaritos para moldes desenhados. Produção de moldes por cópia.
+
+<01>687.052	
+<02>Dispositivos de corte.
+
+<01>687.053	
+<02>Máquinas de costura. Equipamento de costura.
+<09>677.057.21 Equipamento, máquinas para preparo de produtos
+
+<01>687.053.1	
+<02>Dispositivos relativos a linha. Inclusive Guias de linha. Tensionadores. Alimentadores de linha.
+
+<01>687.053.2	
+<02>Agulhas. Inclusive Agulhas de máquinas de costura
+<09>672.82 Agulhas
+
+<01>687.053.3	
+<02>Lançadeiras. Laçadeiras. Bobinas.
+
+<01>687.053.4	
+<02>Dispositivos relativos ao tecido a ser costurado. Inclusive Entrada do tecido. Embainhadores. Dispositivos para preguear,. franzir.
+
+<01>687.053.5	
+<02>Propulsão da máquina de costura.
+<06>687.053.5-83 Propulsão elétrica 
+<06>687.053.5-872.7 Propulsão manual ou por pedal
+
+<01>687.053.6	
+<02>Máquinas de costura segundo sua construção.
+
+<01>687.053.62	
+<02>Máquinas de alinhavo. Máquinas de ponto longo.
+
+<01>687.053.63	
+<02>Máquinas de ponto cadeia.
+
+<01>687.053.64	
+<02>Máquinas de pesponto duplo.
+
+<01>687.053.65	
+<02>Máquinas para ponto cadeia e pesponto.
+
+<01>687.053.66	
+<02>Máquinas para pontos especiais.
+
+<01>687.053.661 
+<02>Máquinas para pontos decorativos.
+
+<01>687.053.663	
+<02>Máquinas de ponto de bainha.
+
+<01>687.053.664	
+<02>Máquinas de chulear, debruar.
+
+<01>687.053.665	
+<02>Máquinas para ponto de luva.
+
+<01>687.053.666	
+<02>Máquinas de laçada, arremate.
+
+<01>687.053.67	
+<02>Máquinas de agulha basculante.
+
+<01>687.053.68	
+<02>Máquinas para bordar.
+
+<01>687.053.7	
+<02>Máquinas de costura segundo o uso.
+
+<01>687.053.72	
+<02>Máquinas de costura para tecidos grossos.
+<09>Máquinas de costura para couro,
+principalmente de calçados.
+<09>685.34.055 Máquinas para fabricação das partes superiores dos calçados e montagem dos calçados
+
+<01>687.053.73	
+<02>Máquinas de costura para casear.
+
+<01>687.053.74	
+<02>Máquinas para costurar guarnições diversas nos tecidos. Inlusie Máquinas para costurar abas de palha, fitas nos chapéus, contas, botões.
+
+<01>687.053.75	
+<02>Máquinas para costurar palha. Inclusive Máquinas para costurar esteiras de palha, cobertas de palha para garrafas.
+
+<01>687.053.76	
+<02>Máquinas para costurar cobertas acolchoadas.
+
+<01>687.053.77	
+<02>Máquinas para remendo de tecidos.
+<09>Equipamento para cerzir, etc..
+
+<01>687.053.78	
+<02>Máquinas para costurar tapetes, etc.
+
+<01>687.053.9	
+<02>Processos e dispositivos auxiliares relacionados
+com a costura. Inclusive Dedais. Caixas de agulhas. Almofadas para alfinetes.
+<09>614.896 Proteção de braços e mãos
+
+<01>687.054	
+<02>Equipamento para passar, umedecer. Ferros de passar roupa, de engomar. Tábuas de passar roupa.
+<09>677.057.73 Máquinas para estender. Máquinas para dobrar. Máquinas para passar a ferro
+
+<01>687.056	
+<02>Equipamento auxiliar. Inclusive  Equipamento para marcar, Equipamento para alfinetar e prender.
+
+<01>687.072	
+<02>Roupas feitas sob medida.
+
+<01>687.073	
+<02>Roupas compradas prontas.
+
+<01>687.076	
+<02>Reforços em artigos de roupa. Forro.
+<09>Revestimento. Entretela. Enchimento.
+
+<01>687.078	
+<02>Fechos de vestuário.
+<09>672.83 Fechos
+
+<01>687.078.2	
+<02>Ganchos, ilhoses.
+
+<01>687.078.3	
+<02>Fechos de pressão em geral.
+
+<01>687.078.4	
+<02>Casas de botão.
+
+<01>687.078.6	
+<02>Fechos com cordões, cadarços. Fechos de
+colchete. Fechos de ganchos. Cadarços e ilhoses.
+
+<01>687.078.7	
+<02>Fecho ecler. Zíper.
+
+<01>687.079	
+<02>Outras questões. Ajuste de tamanho de artigos de vestuário.
+<09>Divisões principais
+
+<01>687.1	
+<02>Roupa de cima. Alfaiataria.
+
+<01>687.11	
+<02>Roupa de cima masculina (trajes masculinos).
+
+<01>687.112	
+<02>Ternos.
+
+<01>687.112.2	
+<02>Paletós.
+
+<01>687.112.3	
+<02>Coletes.
+
+<01>687.112.4	
+<02>Calças. Inclusive Shorts. Bermudas.
+
+<01>687.119	
+<02>Outros artigos de roupas de cima masculinas. Guarda-pós. Pulôveres. Suéteres.
+
+<01>687.12	
+<02>Roupas de cima femininas.
+
+<01>687.122	
+<02>Vestidos. Conjuntos.
+
+<01>687.123	
+<02>Saias. Calças. Inclusive Bermudões, Saias-calças. Shorts. Culotes.
+
+<01>687.124	
+<02>Blusas. Pulôveres. Suéteres.
+
+<01>687.129 
+<02>Outros artigos de roupas de cima femininas.
+
+<01>687.13	
+<02>Roupas de cima de crianças.
+
+<01>687.131	
+<02>Roupas de meninos.
+<06>687.131 dividido como 687.11
+
+<01>687.132	
+<02>Roupas de meninas.
+<06>687.132 dividido como 687.12
+
+<01>687.14	
+<02>Roupas esportivas.
+<04>Indicar o esporter po meio de 796/799
+<09>796.022.7 Vestuário esportivo
+<06>687.14:797.2 Roupas de natação
+
+<01>687.15	
+<02>Roupa formal. Roupas profissionais.
+<09>Roupas de trabalho. Roupas para uso em
+casa.
+<09>7.022.7 Roupas especiais
+
+<01>687.151	
+<02>Roupa formal.
+
+<01>687.151.1	
+<02>Roupas formais masculinas. Inclusive Roupas para noite. Ternos formais. Casacas. Summers.
+
+<01>687.151.2	
+<02>Roupas formais femininas. Inclusive Vestidos de noite. Vestidos de baile.
+
+<01>687.152	
+<02>Uniformes.
+<09>355.14 Uniformes. Insígnia Cores distintivas
+<09>355.665 Roupas. Fardas
+
+<01>687.153	
+<02>Roupas oficiais. Trajes de gala.
+<09>27-525.4 Paramento e objetos pessoais. Casula. Sobrepeliz. Barrete. Mitra. Báculo.
+<09>371.896 Vestuário distintivo
+
+<01>687.157	
+<02>Roupas profissionais. Roupas de trabalho.
+<09>615.479.4 Vestuário para os médicos e o pessoal de enfermagem
+
+<01>687.158	
+<02>Roupas de casa, para uso em casa. Inclusive Aventais. Roupões de banho. Roupas diversas para uso no serviço doméstico.
+
+<01>687.16	
+<02>Vestuário teatral. Roupas de representação teatral.
+<09>792.024.2 Figurinos
+
+<01>687.17	
+<02>Roupas de trabalho (artigos para proteção geral). Guarda-pós.
+<09>614.89 Riscos para partes especificas do corpo. Equipamento pessoal de proteção. Vestuário de proteção, etc.
+<09>685.25 Peças para proteger o corpo
+
+<01>687.172	
+<02>Guarda-pós. Sobretudos. Casacos.
+
+<01>687.172.1	
+<02>Sobretudos, casacos masculinos.
+
+<01>687.172.2	
+<02>Sobretudos, casacos femininos.
+
+<01>687.173	
+<02>Capas para proteção contra o tempo. Inclusive Capas de chuva. Anoraques.
+
+<01>687.174	
+<02>Roupa de trabalho. Sobretudos, casacos
+para trabalho e esporte.
+
+<01>687.175	
+<02>Artigos de vestuário para proteção contra efeitos mecânicos. Inclusive Contra mordidas, picadas, ferroadas, impado, projéteis.
+
+<01>687.179	
+<02>Aventais.
+
+<01>687.18	
+<02>Partes do vestuário.
+
+<01>687.182	
+<02>Forros. Entretelas.
+<09>687.076 Reforços em artigos de roupa. Forro
+
+<01>687.183	
+<02>Bolsos.
+
+<01>687.2	
+<02>Roupa de baixo. Lingerie.
+
+<01>687.21	
+<02>Roupa de baixo em geral.
+
+<01>687.24	
+<02>Roupa de baixo lavável.
+
+<01>687.241	
+<02>Camisas.
+
+<01>687.242	
+<02>Cuecas.
+<09>687.254.5 Roupa de baixo em geral
+
+<01>687.244	
+<02>Roupa de criança. Enxoval de criança. Inclusive  Fraldas. Cueiros. Babadouros.
+
+<01>687.245	
+<02>Lenços.
+
+<01>687.246	
+<02>Roupa de dormir.
+
+<01>687.25	
+<02>Acessórios de vestuário.
+
+<01>687.251	
+<02>Peitilhos. Peitos postiços de camisas.
+
+<01>687.252	
+<02>Colarinhos destacáveis. Barbatanas de
+colarinho.
+
+<01>687.253	
+<02>Punhos. Protetores de punhos.
+
+<01>687.254	
+<02>Roupa de baixo. Meias.
+
+<01>687.254.5	
+<02>Roupa de baixo em geral. Inclusive Camisetas. Combinações. Calcinhas. Anáguas.
+
+<01>687.254.8	
+<02>Meias e acessórios.
+
+<01>687.254.81	
+<02>Meias. Inclusive  Meias de seda.  Meias-calça. Meias curtas. Meias sem pé.
+
+<01>687.254.85	
+<02>Cintas para meias. Ligas, etc.
+
+<01>687.255	
+<02>Anquinhas. Crinolinas.
+
+<01>687.256	
+<02>Sutiãs. Espartilhos. Corpetes.
+
+<01>687.26	
+<02>Roupa de cama e mesa.
+
+<01>687.268	
+<02>Roupa de cama. Roupa de mesa. Toalhas de
+banho. Panos de prato.
+<06>687.268 dividido como 645.48
+
+<01>687.3	
+<02>Roupa de malha, de tricô. Gravatas. Dispositivos para segurar e proteger roupas.
+<06>687.3-037.21 Roupa de malha de algodão
+<06>687.3-037.21-037.31 Roupa de malha de lã e algodão
+<06>687.3-03731 Roupa de malha de lã
+<06>687.3-037.37 Roupa de malha de seda
+<06>687.3-037.47 Roupa de malha sintética
+<09>677-489 Misturas de fibras
+<09>677.075 Tecidos de malha
+
+<01>687.37	
+<02>Roupa para o pescoço e acessórios. Inclusive Gravatas. Alfinetes, grampos, anéis para gravatas.
+
+<01>687.38	
+<02>Dispositivos para segurar e proteger os artigos de vestuário. Inclusive 
+<09>Suspensónos de calças. Cintos. Braçadeiras. Clipes das pernas da calça para andar de bicicleta.
+<09>685.22 Peças usadas em volta da cintura. Cintos, cinturões. Fivelas e apetrechos de cintos
+<09>685.24 Peças usadas sobre os ombros
+
+<01>687.39	
+<02>Outros acessórios de proteção.
+<09>685.24 Peças para a aproteção de braços e mãos
+
+<01>687.392	
+<02>Protetores do pescoço e da garganta. Inclusive Echarpes. Cachecóis. Lenços de pescoço.
+
+<01>687.393	
+<02>Protetores de cabeça. Protetores de orelhas.
+
+<01>687.394	
+<02>Protetores dos braços. Protetores das pernas. Inclusive  Munhequeiras. Joelheiras. Caneleiras. Polainas. perneiras.
+
+<01>687.4	
+<02>Artigos para a cabeça. Fabricação de chapéus. Chapelaria.
+<09>Os auxiliares  687.02./.078  relacionados em 687 não são aplicáveis a 687.4 e suas  subdivisões
+<09>Subdivisões auxiliares especiais
+
+<01>687.4.02	
+<02>Processos da confecção de chapéus.
+
+<01>687.4.022	
+<02>Confecção manual de chapéus.
+
+<01>687.4.023	
+<02>Confecção mecânica de chapéus.
+
+<01>687.4.05	
+<02>Máquinas, ferramentas e equipamento de
+confecção de chapéus.
+<09>Divisões principais
+
+<01>687.42	
+<02>Chapéus para homens (de feltro, pele, palha ,etc.).
+
+<01>687.43	
+<02>Bonés de homens.
+
+<01>687.431	
+<02>Bonés sem abas. Inclusive Boinas.
+
+<01>687.432	
+<02>Bonés com aba em ponta.
+
+<01>687.433	
+<02>Bonés para proteção contra o sol. Chapéus tropicais.  Inclusive Capacete de cortiça, capacete tropical.
+
+<01>687.434	
+<02>Capacetes de proteção para fins especiais. Inclusive Capacetes de bombeiros. Capacetes de mergulho.
+
+<01>687.44	
+<02>Chapéus militares. Inclusive Capacetes. Quepes hussardos. Barretinas de pele.
+<09>623.445.2 Equipamento de proteção. Armaduras, elmos, etc.
+
+<01>687.45	
+<02>Chapéus femininos. Chapéus, boinas, bonés para mulheres. Inclusive Toucas de banho. Véus para chapéus.
+
+<01>687.46	
+<02>Chapéus e toucas para crianças.
+
+<01>687.48	
+<02>Enfeites de chapéus. Decorações para chapéus.
+
+<01>687.5	
+<02>Indústrias de cosmetologia.
+<04>Os auxiliares 687.02/. 078 relacionados em 687 não são aplicáveis a 687.5 e suas subdivisões
+<09>391.6 Cuidados com o corpo. Cuidados de beleza. Perfumaria
+<09>613.49 Artigos do toucador. Cosméticos. Maquiagem. Loções. Colorantes
+<09>646.7 Cuidado corporal. Cuidados de beleza. Acessórios para vestir-se e dispir-se
+<09>661.187.84 Sabões para uso na pele
+<09>665.58 Cosméticos. Artigos de toalete
+<09>Subdivisões auxiliares especiais
+
+<01>687.5.01	
+<02>Estética. Moda. Estilo.
+<09>688.75 Fantasias e roupas de disfarce. Acessórios de festa
+
+<01>687.5.02	
+<02>Processos de trabalho.
+
+<01>687.5.04	
+<02>Materiais e produtos auxiliares.
+
+<01>687.5.05	
+<02>Máquinas, ferramentas e equipamento.
+<09>Divisões principais
+
+<01>687.51	
+<02>Fabricação de cabelos artificiais.
+<09>Fabricação de perucas. -)
+<09>688.75 Fantasias e roupas de disfarce. Acessórios de festa
+
+<01>687.512	
+<02>Perucas.
+
+<01>687.513	
+<02>Chinos. Coques de cabelo. Trancçs de
+cabelo.
+
+<01>687.516	
+<02>Topetes. Meias-perucas.
+
+<01>687.517	
+<02>Barbas e bigodes falsos.
+
+<01>687.518	
+<02>Pestanas, cílios postiços.
+
+<01>687.53	
+<02>Cuidados com o cabelo. Cuidados com a
+barba. Profissão de cabeleireiro. Barbeiro.
+<09>Subdivisões auxiliares especiais
+
+<01>687.53.02	
+<02>Processos de trabalho.
+
+<01>687.53.02 
+<02>dividido como 687.53.05
+
+<01>687.53.03	
+<02>Uso de produtos para cuidados com o cabelo.
+<09>Especificar por  meio de :665.585...
+
+<01>687.53.04	
+<02>Materiais auxiliares. Inclusive  Pedra-ume (pedras para amolar navalha).
+
+<01>687.53.05	
+<02>Máquinas, ferramentas e equipamento para cuidado com os cabelos.
+
+<01>687.53.051	
+<02>Equipamento de ensaboadura.
+<09>687.974 Pincéis de barbear
+
+<01>687.53.052	
+<02>Equipamento de corte de cabelo. Equipamento de barbear. Inclusive Tesouras de cabelo. .Máquinas para
+corte de cabelo. Navalhas.
+<09>672.715 Navalhas
+<09>672.718 Máquinas de tosquiar, tosquiadoras. Tosquiadoras de cabelo
+
+<01>687.53.053	
+<02>Equipamento para compor cabelo e barba.
+
+<01>687.53.053.2	
+<02>Ferros quentes para ondulação.
+
+<01>687.53.053.4 
+<02>Equipamento para ondular e encachear o cabelo
+(exceto ferros quentes).
+
+<01>687.53.053.41	
+<02>Equipamento simples. Rolos de cabelo.
+<06>687.53.053.41-65 Rolos de cabelo aquecidos eletricamente
+
+<01>687.53.053.42	
+<02>Equipamento elétrico ou químico de ondulação permanente. Onduladores de cabelo.
+
+<01>687.53.053.43 
+<02>Aquecedores para o equipamento de ondulação. 
+
+<01>687.53.053.45 
+<02>Outros equipamentos para ondulação de cabelo. Inclusive Grampos para pinçar. Equipamento para resfriamento.
+
+<01>687.53.053.47	
+<02>Dispositivos auxiliares. Inclusive Papelotes, envoltórios dos cachos, etc.
+
+<01>687.53.053.48	
+<02>Toucas ou capuzes para ondulação do cabelo. Redes de cabelo.
+
+<01>687.53.053.5	
+<02>Escovas de cabelo. Grampos. Pinças de cabelo.
+<09>Presilhas. Objetos decorativos para sustentar o
+penteado já acabado.
+<09>672.81Alfinetes
+
+<01>687.53.054	
+<02>Equipamento para lavar e secar o cabelo.
+<09>Dispositivos par pintar o cabelo. Pentes.
+
+<01>687.53.054.2	
+<02>Equipamento para lavar o cabelo. Equipamento para ensaboar.
+
+<01>687.53.054.3	
+<02>Equipamento para secar o cabelo. Secadores de
+cabelo (inclusive os secadores manuais).
+
+<01>687.53.054.4	
+<02>Dispositivos para pintar o cabelo.
+
+<01>687.53.054.5	
+<02>Pentes. Pentes para desembaraçar. Escovas de cabelo.
+
+<01>687.53.054.6	
+<02>Dispositivos para limpar os pentes.
+
+<01>687.53.058	
+<02>Outros equipamentos para a profissão de
+cabeleireiro.
+
+<01>687.53.058.3	
+<02>Potes, tijelas de espuma de barbear.
+
+<01>687.53.058.8	
+<02>Aventais, capas protetoras para o corte de
+cabelo. Descansos para o pescoço. Outros
+equipamentos.
+<09>Divisões principais
+
+<01>687.54	
+<02>Cuidado das unhas. Manicure. Pedicure.
+<09>Subdivisões auxiliares especiais
+
+<01>687.54.05	
+<02>Equipamento para cuidado das unhas.
+
+<01>687.54.052	
+<02>Dispositivos para cortar e limar as unhas. Inclusive Tesouras de unha. Alicates de  unha. Limas de unha.
+
+<01>687.54.053	
+<02>Dispositivos para polir e limpar as unhas.
+
+<01>687.54.053.2	
+<02>Equipamento para polir as unhas.
+
+<01>687.54.053.6	
+<02>Limpadores de unhas.
+
+<01>687.54.058	
+<02>Conjuntos para cuidado das unhas. Equipamento combinado de cuidado das unhas. Conjuntos de manicure.
+<09>688.33 Sacolas de toalete. Estojos de maquiagem
+<09>Divisões principais
+
+<01>687.55	
+<02>Cosmetologia. Cuidados de beleza.
+
+<01>687.552	
+<02>Cuidado medicinal de beleza.
+
+<01>687.552.2	
+<02>Cuidado da pele.
+
+<01>687.552.3	
+<02>Cuidado do cabelo.
+
+<01>687.553	
+<02>Cuidado estético.
+
+<01>687.553.2	
+<02>Maquiagem. Uso de cosméticos.
+
+<01>687.56	
+<02>Outros equipamentos auxiliares para
+cosmetologia.
+
+<01>687.561	
+<02>Recipientes e estantes para cuidado da
+beleza.
+
+<01>687.561.5	
+<02>Caixas de pó facial. Pós faciais compactos.
+
+<01>687.561.6	
+<02>Recipientes para cremes, óleos, pomadas.
+
+<01>687.563	
+<02>Equipamento para preparados de toalete em
+forma de pó.
+
+<01>687.563.2	
+<02>Esponjas para pó facial. Papéis para pó facial.
+
+<01>687.563.3	
+<02>Borrifadores, empoadores de pó.
+
+<01>687.563.6	
+<02>Estojos para lápis, bastonetes de
+maquiagem.
+
+<01>687.566	
+<02>Bolsinhas de perfume, sachês. Vidros de
+água de cheiro ou perfume.
+
+<01>687.8	
+<02>Peleteria artificial.
+<09>675.6/.8
+
+<01>687.84	
+<02>Peleteria artificial segundo a matéria-prima. Inclusive Peles artificiais de penas, cabelo de animal, lã, material 
+<04>sintético.
+
+<01>687.9	
+<02>Indústria de escovas e pincéis. Vassouras, etc.
+<06>687.9-1 Escovas, pincéis segundo o tipo de fibra
+<09>687-1 Tipos de material têxtil
+<09>648.524 Equipamento de varrer e escovar
+<09>675.82 Indústrias que processam os resíduos de cabelo, pelos e cerdas
+<09>Subdivisões auxiliares especiais
+
+<01>687.9.05	
+<02>Ferramentas e equipamento da indústria de escovas e pincéis. 
+<09>Divisões principais
+
+<01>687.92	
+<02>Escovas e pincéis segundo a construção.
+
+<01>687.921	
+<02>Escovas sem cabo em geral.
+
+<01>687.922	
+<02>Escovas com cabo em geral.
+
+<01>687.924	
+<02>Escovas rotativas.
+
+<01>687.925	
+<02>Escovas com reservatório para
+abastecimento de liquido ou materiais de
+limpeza.
+
+<01>687.93	
+<02>Vassouras.
+
+<01>687.95	
+<02>Escovas para limpar roupas, móveis,
+carpetes e tapetes.
+
+<01>687.96	
+<02>Escovas para lavagem. Inclusive Escovas para garrafas, vidros, barris. Escovas para esfregar.
+
+<01>687.97	
+<02>Escovas para fins especiais.
+
+<01>687.971	
+<02>Escovas de cabelo.
+
+<01>687.972	
+<02>Escovas dedentes. Escovas de unhas.
+
+<01>687.974 
+<02>Pincéis de barbear.
+<09>687.53.051 Equipamento de ensaboadura
+
+<01>687.977	
+<02>Escovas para lustrar. Inclusive Escovas de engraxar sapatos.
+
+<01>687.978	
+<02>Pincéis de pintura. Pincéis para artistas.
+
+
+<01>688 
+<02>Artigos de fantasia. Brinquedos. Artigos decorativos
+
+<09>745 Artes manuais decorativas. Artesanato decorativo
+
+<01>688.1	
+<02>Trabalho em marfim.
+<09>675.862 Indústrias que processam dentes, presas, etc. Indústria do marfim
+
+<01>688.2	
+<02>Botões. Fabricação de botões.
+<09>672.87 Botões de metal
+
+<01>688.21	
+<02>Botões em geral.
+
+<01>688.211	
+<02>Botões de plástico, osso, vidro, etc.
+
+<01>688.212	
+<02>Botões de tecido. Botões laváveis. Outros
+botões para roupas.
+
+<01>688.27	
+<02>Fechos, abotoaduras para colarinhos.
+<09>Fechos, abotoaduras para punhos.
+
+<01>688.272	
+<02>Abotoaduras para colarinhos e dispositivos
+de segurança. Inclusive Botões de colarinho.
+
+<01>688.273	
+<02>Fechos para punhos e dispositivos de segurança. Inclusive Abotoaduras.
+
+<01>688.3	
+<02>Artigos de fantasia.
+<09>Subdivisões auxiliares especiais
+
+<01>688.3.072	
+<02>Complementos para bolsas, malas, caixas. etc.
+
+<01>688.3.073	
+<02>Fechos para bolsas, malas, caixas, etc.
+
+<01>688.3.077	
+<02>Enfeites para bolsas de mão, etc.
+<09>Divisões principais
+
+<01>688.31	
+<02>Caixas. Estojos.
+
+<01>688.312	
+<02>Caixas de óculos.
+
+<01>688.313	
+<02>Estojos para bindculos,etc..
+
+<01>688.314	
+<02>Coberturas de proteção para relógios.
+
+<01>688.316	
+<02>Caixas de jóias.
+
+<01>688.317	
+<02>Chaveiros.
+
+<01>688.33	
+<02>Sacolas de toalete. Estojos de maquiagem.
+<09>687.54.058 Conjuntos para cuidado das unhas. Equipamento combinado de cuidado das unhas. Conjuntos de manicure
+
+<01>688.34	
+<02>Caixas de ferramentas. Sacolas de
+ferramentas.
+
+<01>688.35	
+<02>Bolsas. Pastas para documentos.
+
+<01>688.351	
+<02>Maletas para documentos. Pastas. Pastas de
+executivos.
+
+<01>688.353	
+<02>Sacolas de compras. Sacolas de barbante.
+
+<01>688.359	
+<02>Bolsas de mão para mulheres.
+
+<01>688.36	
+<02>Carteiras. Porta-notas.
+
+<01>688.362	
+<02>Carteiras.
+
+<01>688.4	
+<02>Flores, plantas e plumas artificiais.
+<09>Artigos feitos de pêlo.
+
+<01>688.42	
+<02>Flores artificiais.
+
+<01>688.429	
+<02>Frutas artificiais.
+
+<01>688.43	
+<02>Guirlandas artificiais.
+
+<01>688.44	
+<02>Coroas, cruzes de flores artificiais.
+
+<01>688.46	
+<02>Artigos feitos de plumas. Plumas artificiais. 
+<09>675.84 Indústria de processamento dos refugos de penas
+
+<01>688.47	
+<02>Artigos feitos de pêlo. Inclusive Flores, medalhões, etc. de pêlo.
+<09>675.82 Indústrias que processam os resíduos de cabelo, pelos e cerdas
+
+<01>688.5	
+<02>Leques.
+
+<01>688.6	
+<02>Quebra-luzes. Abajures.
+<09>Refletores. Telas, biombos.
+<09>Coberturas de vasos de plantas.
+
+<01>688.61	
+<02>Abajures e refletores. Quebra-luzes.
+<09>628.952 Abajures. Quebra-luzes. Difusores. Armações decorativas para pendurar as lâmpadas
+
+<01>688.62	
+<02>Biombos.
+
+<01>688.621	
+<02>Biombos contra a luz,
+
+<01>688.622	
+<02>Biombos, telas contra fogo.
+
+<01>688.623	
+<02>Biombos, telas contra corrente de ar,
+
+<01>688.63	
+<02>Coberturas para vasos de plantas.
+
+<01>688.7	
+<02>Brinquedos. Artigos para divertimento, para brincadeiras. Decorações.
+<09>674.5 Artigos de madeira e sua fabricação
+
+<01>688.72	
+<02>Brinquedos.
+<06>688.72:621.715.2 Conjuntos de ferramentas de brinquedo 
+<06>688.72:648.524 Vassouras, escovas para limpeza, etc. de brinquedo
+<09>623.447 Armas de teatro e de brinquedo. Dispositivos inofensivos, com carga de festim
+
+<01>688.721	
+<02>Bonecas e bonecos e respectivos complementos.
+<09>688.726 Objtos de brinquedo que não se movem
+
+<01>688.721.2	
+<02>Bonecos e bonecas em geral. Bichinhos de brinquedo, de pelúcia, etc. Inclusive Ursinhos de pelúcia
+
+<01>688.721.25	
+<02>Tipos especiais de bonecos e bonecas. Inclusive Bonecos miniaturas. Bonecos para espetáculos de marionetes. 
+<04>Bonecos que bebem, dançam, etc.
+
+<01>688.721.27	
+<02>Complementos para bonecas e bonecos. Inclusive Roupas, móveis, berços de bonecas. Equipamento de brinquedo, p. ex.,
+<04>telefones de brinquedo.
+
+<01>688.721.3	
+<02>Bonecas de papel. Figuras para cortar, dobrar e vestir.
+
+<01>688.722	
+<02>Casas de boneca e complementos. Quartos e equipamento de casas de boneca.
+
+<01>688.723	
+<02>Bonecos de engonço. Marionetes. Fantoches. Mamulengos.
+
+<01>688.724	
+<02>Objetos que se movem. Brinquedos mecânicos.
+
+<01>688.724.2	
+<02>Objetos com autopropulsão. Objetos que sobem.
+
+<01>688.724.3	
+<02>Objetos que se movem à mão.
+
+<01>688.724.4	
+<02>Brinquedos com objetos conjugados que se movem por meio mecânico.
+
+<01>688.725	
+<02>Piões.
+
+<01>688.726	
+<02>Objetos de brinquedo que não se movem. Inclusive Soldadinhos de chumbo. Animais de brinquedo.
+
+<01>688.727	
+<02>Brinquedos que se movem (p. ex., carrinhos de brinquedo).
+<06>688.727-8 Segundo a força motriz
+
+<01>688.727.1 
+<02>Veículos terrestres de brinquedo (exceto os veículos de ferrovia).
+<09>Especificar por meio de :629.3...
+
+<01>688.727.2	
+<02>Veículos aquáticos de brinquedo.
+<09>Especificar por meio de : 629.5...
+
+<01>688.727.31	
+<02>Veículos aéreos, aeroplanos, aviões de brinquedo, etc.
+<09>Especificar por meio de :629.7...
+
+<01>688.727.35	
+<02>Brinquedos infláveis.
+
+<01>688.727.38	
+<02>Brinquedos que fazem bolhas. Brinquedos que fazem fumaça.
+
+<01>688.727.4	
+<02>Projéteis. Catapultas.
+
+<01>688.727.5	
+<02>Brinquedos ópticos. Brinquedos coloridos.
+
+<01>688.727.7	
+<02>Brinquedos magnéticos e elétricos.
+
+<01>688.727.8	
+<02>Ferrovias de brinquedo. Trenzinhos de brinquedo.
+
+<01>688.727.81	
+<02>Trilhos. Curvas. Pontas. Acessórios.
+<06>688.727.81 dividido como 625.1
+
+<01>688.727.82	
+<02>Material rodante de brinquedo. Locomotivas de
+brinquedo.
+<09>Especificar por meio de : 62 9.4...
+
+<01>688.727.9	
+<02>Jogos de construção. Quebra-cabeças.
+<09>685.85 Equipamento  e acessórios para jogos de modelos ou quebra-cabeças que reuerem paciência e destreza
+
+<01>688.728	
+<02>Armaduras de brinquedo. Capacetes de brinquedo. Roupas de índio. Arreios para cavalos de brinquedo.
+
+<01>688.729.1 
+<02>Aros, argolas, bambolês.
+
+<01>688.729.2	
+<02>Brinquedos para jogos de areia. Inclusive Formas de areia.
+
+<01>688.73	
+<02>Brinquedos musicais. Instrumentos musicais para crianças.
+<09>780.6 Instrumentos e acessórios musicais
+
+<01>688.731	
+<02>Brinquedos musicais.
+
+<01>688.731 
+<02>dividido como 681.8
+
+<01>688.731.181	
+<02>Cometas de brinquedo.
+<09>688.731 Brinquedos musicais
+
+<01>688.732	
+<02>Instrumentos musicas como partes de brinquedos. Brinquedos que fazem ruído. Inclusive  Chocalhos. Revólveres de espoleta
+<09>623.447 Armas de teatro e de brinquedo. Dispositivos inofensivos, com carga de festim
+
+<01>688.74	
+<02>Equipamento de teatro. Equipamento de panorama. Equipamento de circo. Equipamento para espetáculos musicais.
+<09>Equipamento para parques de recreio.
+<09>792.023 Equipamento e acessórios de palco. Objetos de cena. Cenários. Móveis, etc.
+
+<01>688.741	
+<02>Equipamento de teatro. Inclusisve Cenários, cortinas. Equipamento para movimentar os cenários e as cortinas.
+
+<01>688.742	
+<02>Acessórios de teatro. Equipamento para efeitos teatrais.
+
+<01>688.742.2	
+<02>Plataformas do palco. Efeitos de palco. Inclusive Grama, nuvens, chuva artificial.
+
+<01>688.742.3	
+<02>Equipamento para melhor audição do teto e visibilidade da ação, Recursos acústicos.
+
+<01>688.742.4	
+<02>Equipamento para produção de efeitos sonoros especiais. Inclusive Máquinas de trovoadas. Máquinas de vento.
+
+<01>688.742.5	
+<02>Iluminação de palco. Imagens projetadas,etc.
+
+<01>688.742.6	
+<02>Equipamento para produção de efeitos especiais de luz. Inclusive Efeitos de fogo. Efeitos de raios.
+
+<01>688.742.8	
+<02>Equipamento para subir e baixar as pessoas. Alçapões. Maquinaria teatral.
+
+<01>688.743	
+<02>Equipamento para panoramas, dioramas, estereoramas, etc.
+
+<01>688.744	
+<02>Equipamento para circos, etc.
+
+<01>688.745	
+<02>Equipamento para teatros de marionetes, teatros de sombras, teatro de bonecos. Inclusive  Artesanato amador. Hobbies, passatempos técnicos.
+<09>792.9 Tipos especiais de teatro
+mamulengo. Equipamento para espetáculos secundários.
+
+<01>688.746	
+<02>Equipamento para cinemas. Acessórios para projeção de filmes.
+<09>778.55 Projeção e projetores cinematográficos
+<09>791 Cinema. Filmes cinematográficos
+
+<01>688.747	
+<02>Equipamento para espetáculos vistos por
+<06>luneta, caleidoscópios e outros, onde há
+interação de cor e música.
+
+<01>688.749.8	
+<02>Equipamento para labirintos.
+
+<01>688.75	
+<02>Fantasias e roupas de disfarce.
+<09>Acessórios de festa.
+
+<01>688.751	
+<02>Máscaras. Inclusive  Máscaras de veludo. Meias-máscaras. 
+
+<01>688.752	
+<02>Fantasias. Roupas de disfarce. Dominós. Pierrôs.
+
+<01>688.753	
+<02>Figuras grotescas e cômicas. Fantasias de animal.
+
+<01>688.754	
+<02>Disfarces.
+<09>687.571 Fabricação de cabelos artificiais. Fabricação de perucas
+
+<01>688.755	
+<02>Brindes festivos. Prendas de festas.
+
+<01>688.756	
+<02>Acessórios para festas, festividades públicas, etc. Inclusive Confete. Serpentina. Bombinhas.
+<09>676.812 Bandeirolas de papel. Flocos de papel. Confete
+<09>676.816.8 Serpentinas de papel
+
+<01>688.757	
+<02>Surpresas. Ilusões. Brincadeiras.
+
+<01>688.76	
+<02>Decorações para cerimônias, comemorações, festividades públicas.
+<09>666.189.1 Objetos de vidro formando figuras
+
+<01>688.77	
+<02>Equipamento para áreas de diversão.
+<09>791.7 Parques de recreação, de diversões. Feiras de diversões
+
+<01>688.771	
+<02>Carrosséis.
+
+<01>688.773	
+<02>Balanços. Gangorras.
+
+<01>688.774	
+<02>Cavalos de balanço. Outros animais de
+brinquedo para montar. Cavalos de
+brinquedo, de pau.
+
+<01>688.775	
+<02>Escorregadores. Montanhas russas.
+<09>Escorregadores em água. Tobogã de água.
+<09>Rodas gigantes. Chãos moventes. Outros
+equipamentos.
+
+<01>688.78	
+<02>Artigos para efeitos decorativos.
+<09>Decorações murais.
+
+<01>688.782	
+<02>Decoração de superfícies. Inclusive Por queima: pirogravura.
+
+<01>688.783	
+<02>Decorações de relevo.
+
+<01>688.788	
+<02>Objetos ornamentais especiais. Decorações murais. Inclusive Molduras especiais de quadros. Ladrilhos ornamentais. Letras 
+<04>e números ornamentais.
+
+<01>688.79	
+<02>Outros efeitos decorativos. Imitações.
+
+<01>688.792	
+<02>Efeitos de iluminação. Inclusive Padrões produzidos por luz: projetada (refletida). Efeitos de luz  transmitida (p. ex.. vitrais de 
+<04>imitação).
+
+<01>688.793	
+<02>Efeitos de cor. Inclusive Pinturas cambiantes. Pinturas de ilusão.
+
+<01>688.794	
+<02>Efeitos lineares.
+
+<01>688.795	
+<02>Efeitos decorativos de superfície. Inclusive Marmorização. Padrão de batique.
+
+<01>688.796	
+<02>Imitações de vários objetos, efeitos tridimensionais, etc..
+
+<01>688.796.2	
+<02>Imitações de substâncias e padrões natura is.. Inclusive  Imitação do grão da madeira.
+
+<01>688.796.4	
+<02>Imitações de obras de arte, de padrões artificiais. Inclusive  Reproduções de pintura com imitação da textura.
+
+<01>688.797	
+<02>Padrões variantes, cambiantes. Padrões em superfícies cambiantes.
+
+<01>688.9	
+<02>Pequenos artigos diversos.
+
+<01>688.92	
+<02>Pegadores, fechos, ganchos, etc. Inclusive Pegadores, alfinetes de flores. Cabides de guarda-chuva. Alças, anéis, etc.
+para carregar.
+
+<01>688.93	
+<02>Artigos para fumantes.
+
+<01>688.932	
+<02>Cachimbos. Narguilês.
+
+<01>688.933	
+<02>Acessórios e componentes de cachimbos. Dispositivos de limpeza para caximbos. Limpadores de caximbo
+
+<01>688.934	
+<02>Acessórios para charutos e cigarros. Inclusive Piteiras de charutos. Piteiras de cigarros. Cortadores de charuto.
+
+<01>688.935	
+<02>Recipientes para fumo. Caixas de charuto. Estojos de cigarro, cigarreiras.
+
+<01>688.936	
+<02>Cinzeiros. Cinzeiros de pedestal.
+
+<01>688.94	
+<02>Caixas de fósforos. Recipientes para fósforos.
+<09>662.536.2 Caixas de fósforos. Cartelas de fósforos
+
+<01>688.96	
+<02>Caixas de dinheiro. Cofres de dinheiro.
+
+
+<01>689 
+<02>Artesanato amador. Hobbies, passatempos técnicos
+
+<06>689:621.396 Rádio-amador 
+<09>379.826 Trabalhos manuais, domésticos. Faça-você-mesmo
+<09>7.073. Apreiação da arte
+<09>7.077 Participação e participantes amadores (criadores, intérpetes, etc.)
+
+
+
+4
+
+
