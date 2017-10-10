@@ -17,6 +17,9 @@ gsed -E "s/\xe2\x80\x99/\`/" | \
 
 sed -e "s/auxilia rés/auxiliares/g" | \
 
+#Limpando linhas sem conteudo
+sed -e "s/^[  ]+$//g" | \
+
 # Corrige a letra l no lugar do 1 em alguns lugares
 # no MAC eh preciso utilizar o gsed em vez do sed
 gsed -E "s/(([0-9]+\.)+[0-9]*)(l[\.	])(.*)/\1\x31 \4/" | \
@@ -47,8 +50,6 @@ gsed -E  $"s/^(([0-9l*\.\`\/])+\s)(.*)/\\$CRLF\<01\>\1\\$CRLF\<02\>\3/g" | \
 gsed  -E $"s/^\s*([1-9l][0-9l]*[^   ]+)+\s+(.*)/<06\>\1 \2/g" | \
 
 
-
-
 # Tudo que comecar por tab + seta eh exemplo <09>
 # essas 2 regexes tem que continuar iguais:
 sed -E "s/->[ ]?(.+)$/\<09\>\1/" | \
@@ -64,6 +65,8 @@ sed -E "s/^([A-Z]+.+)$/\<09\>\1/" | \
 sed -E "s/[ $TAB]+(\<[0-9][0-9]\>.*)$/\1/g"  | \
 sed -E "s/(\<[0-9][0-9]\>)[ $TAB]+(.*)$/\1\2/g"  | \
 
+# linhas orfas com tabulacao no inicio, comecando sentenca avulsa serao consideradas <04>
+sed -E "s/^[    ]+([^→-].+)$/\<04\>\1/" | \
 
 #sed -E $"s/^[ ]+(.*)/\1/"  | \
 #sed -E "s/>[ ]+/>/g"  | \
@@ -78,6 +81,9 @@ sed -E "s/(<02>l.*)$/#ERRO1( l usado no lugar do 1 ?) \1/" | \
 sed -E "s/(.*[0-9]l.*)$/#ERRO1( l usado no lugar do 1 ?) \1/" | \
 sed -E "s/(l.\d)$/#ERRO1( l usado no lugar do 1 ?) \1/" | \
 #sed -E "s/^([^<][^0-9]{2}[^>])(.*)$/#ERRO2(Texto orfao sem tag ?)\1\2/" | \
+sed -E "s/^(<04>\s*.{1,5})$/#ERRO5( linha quebrada ?) \1/" | \
+
+sed -E "s/^(<06>\d.*)$/#ERRO6( linha quebrada ?) \1/" | \
 
 #Consertando os finalizadores de linha
 tr -d '\r' | \

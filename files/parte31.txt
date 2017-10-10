@@ -59,10 +59,9 @@ Exemplo(s) de combinação(ões):
 Exemplo(s) de combinação(ões):
       7.021.33-035.676.332.6 Pintura em laca
       7.021.33-035.8 Pintura em cera
-7.021.333	Afresco.
-Pintura em argamassa de gesso e anidrita úmida
+7.021.333	Afresco. Pintura em argamassa de gesso e anidrita úmida
 7.021.34		Pintura, tingimento com meio sólido. Inclusive Desenho. Desenho a pastel.
-Expandir, se necessário, usando a Tabela 1k–03 Auxiliares comuns de materiais.
+      Expandir, se necessário, usando a Tabela 1k–03 Auxiliares comuns de materiais.
 Exemplo(s) de combinação(ões):
       7.021.34-035.675.2 Com pincel de chumbo. Ponta de prata.
       7.021.34-035.683 Com lápis de carvão. 
@@ -177,8 +176,7 @@ Exemplo(s) de combinação(ões):
       7.031.2(=414/=45) Arte primitiva africana
       7.031.2(=821.173) Arte maia
       7.031.2(=822.21) Arte asteca
-      7.031.2(=87) Arte pré-colombiana (arte pré-hispânica) de antigas civilizações das Américas Central e do
-      Sul.
+      7.031.2(=87) Arte pré-colombiana (arte pré-hispânica) de antigas civilizações das Américas Central e do Sul.
       7.031.2(=873) Arte peruana antiga. Inclusive Inca. Tiahuanaco.  Nazca.
 7.031.3		Arte indígena, aborígene.
                                      Detalhar por meio de (=...) (Tabela 1f), ou de  (1/9) (Tabela 1e) e “...” (Tabela 1g), se for essa a opção.
@@ -525,8 +523,7 @@ Para grotescos em sentido estrito, usar 7.048.1
       → 741.5 Caricatura. Cartuns. Desenhos satíricos e humorísticos.
 7.049.6		Natureza-morta
       → 7.043 Vida vegetal. Flora
-7.05		Aplicações da arte (na indústria, no comércio, em casa, na vida cotidiana). Desenho (design) industrial, comercial,
-                               etc.
+7.05		Aplicações da arte (na indústria, no comércio, em casa, na vida cotidiana). Desenho (design) industrial, comercial, etc.
       .05 é modificado e subdividido em várias divisões da classe 7. 
       As aplicações específicas da arte e do desenho podem ser reunidas sob o próprio 7.05 por meio de : ...
 Exemplo(s) de combinação(ões):
@@ -1210,8 +1207,7 @@ Inclusive Galpões de ferramentas. Garagens domésticas
 728.98	Estufas. Varandas.
 → 631.23 Estruturas para cultivo e desenvolvimento de plantas
 728.991	Caramanchões. Mirantes. Abrigos do jardim.
-                                                                                      
-                                        73  Artes plásticas
+73  Artes plásticas
 
 Subdivisões auxiliares especiais
 73.02	Técnica de artes plásticas.
@@ -1411,7 +1407,7 @@ cristal.
 	      → 698.3 Envidraçamento. Ofício de vidraceiro
 748.6	Gravação em vidro. Vidro gravado.
 749	Mobília e dispositivos de aquecimento e iluminação artísticos.
-749.l	Mobília artística (antiga e moderna).
+749.1	Mobília artística (antiga e moderna).
       → 684.4.03 Móveis de reprodução de estilo. Móveis que imitam estilos históricos
 	      → 745.51 Trabalho artístico em madeira
 749.2	Dispositivos artísticos de aquecimento e iluminação.
@@ -2128,8 +2124,7 @@ Banhos interruptores.
 Especificar por meio de :546...
 Exemplo(s) de combinação(ões):
 771.74:546.33'223.2 Tiossulfato de sódio (hipossulfito de sódio)
-771.76	Auxiliares da lavagem. Inclusive Agentes de limpeza de hipossulfito de sódio. Eliminadores de hipossulfito de 
-                               sódio.
+771.76	Auxiliares da lavagem. Inclusive Agentes de limpeza de hipossulfito de sódio. Eliminadores de hipossulfito de sódio.
 771.762	Soluções salgadas.
 771.77	Agentes de viragem, branqueamento, redução e intensificação.
 771.771	Agentes de viragem. Viradores.
@@ -2332,7 +2327,7 @@ Exemplo(s) de combinação(ões):
 → 621.383 Válvulas e células fotoelétricas
 777.4	Duplicação, reprodução de chapas.
 → 655.22 Produção de superfícies de impressão (exceto composição)
-        → 681.6l7 Máquinas e equipamento para produção de superfícies de impressão em relevo
+        → 681.617 Máquinas e equipamento para produção de superfícies de impressão em relevo
 777.5	Processos de moldagem. Inclusive Fotogliptia (woodburytipia).
 777.6	Fotofiligranas (Woodbury). Marcas d'água de imitação. Litofania, etc.
 → 676.026.74 Modelagem
@@ -2496,8 +2491,7 @@ Cronofotografia.
 778.533.5	Dispositivos para bobinar e rebobinar filmes.
 778.533.6	Mecanismos (mecânicos, elétricos, etc.) de operação.
 778.534	Tipos, sistemas e métodos especiais de cinematografia.
-778.534.l		Cinematografia estereoscópica. Outros métodos para obter efeitos espaciais. Sistemas de tela grande e
-                           	panorâmica.
+778.534.1		Cinematografia estereoscópica. Outros métodos para obter efeitos espaciais. Sistemas de tela grande e panorâmica.
                                           → 778.4 Estereofotografia. Reprodução fotográfica plana com efeitos de solidez ou de relevo
 778.534.2	Cinematografia colorida (cinematografia policrômica).
 → 778.6 Fotografia colorida (fotografia policromática)

@@ -3107,7 +3107,7 @@ relevo. Impressoras para fins especiais.
 681.625.3	Impressoras díagráficas. Impressoras de tela e
 estêncil, impressoras para serigrafia.
 681.625.6	Impressoras colográficas. Máquinas de colotipia.
-681.625.7	lmpressoras para impressão em materiais diversos.
+681.625.7	Impressoras para impressão em materiais diversos.
 → 666.1.058.4 Decalque no vidro. Impressão e nebulização do vidro. Impressão por tela não-vidro (p. ex., processo de serigrafia)
 → 677.057.53 Máquinas de estampagem
 681.625.71	Impressoras para impressão em metal. Inclusive Impressoras de placas.
@@ -3132,7 +3132,7 @@ estêncil, impressoras para serigrafia.
 681.625.845	Impressoras de papéis de parede.
 681.625.9	Outras impressoras para finalidades especiais. Inclusive Impressoras de computador. Máquinas para editoração eletrônica. 
                                        → 004.356.2 Impressoras e periféricos
-681.625.91	lmpressoras de impacto. Inclusive Impressoras matriciais de impacto. Impressoras de linha.
+681.625.91	Impressoras de impacto. Inclusive Impressoras matriciais de impacto. Impressoras de linha.
 681.625.912	Impressoras matriciais de impacto
 681.625.914	Impressoras de linha
 681.625.918	Impressors plotadoras

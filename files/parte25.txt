@@ -613,14 +613,12 @@ dimensões. Lacre.
 656.831.7	Objetos postais combinados. Objetos
 amarrados juntos. Anexos.
 656.832	Aceitação de correspondência.
-656.832.	l	Aceitação incondicional de correspondência.
+656.832.1	Aceitação incondicional de correspondência.
 656.832.2                 Aceitação condicional de correspondência.
-656.832.4                 Recusa de correspondência. Exclusão do
-serviço postal.
-656.832.6	Restrições à importação, à exportação e ao
-trânsito.
+656.832.4                 Recusa de correspondência. Exclusão do serviço postal.
+656.832.6	Restrições à importação, à exportação e ao trânsito.
 656.833	Restrições à aceitação de correspondência.
-656.833.l		Tamanho ou peso máximo ou mínimo.
+656.833.1		Tamanho ou peso máximo ou mínimo.
 656.833.2	Total máximo ou mínimo.
 656.833.3	Restrições devidas ao conteúdo dos objetos.
 Inclusive Conteúdos frágeis ou perecíveis.
@@ -737,7 +735,7 @@ Entrega expressa.
 Correspondência devolvida (Reencaminhamento. Devolução ao remetente, etc.).
 656.88	Serviços postais.
 656.881	Serviço de cartas.
-656.881.l	Correspondência com comunicações pessoais. Cartas, cartões postais etc..
+656.881.1	Correspondência com comunicações pessoais. Cartas, cartões postais etc..
 656.881.3	Correspondência sem comunicações pessoais.
 656.881.33	Impressos.
 656.881.34	Documentos comerciais.
@@ -846,7 +844,7 @@ contábil).
 → 336.777 Letras. Instrumentos de crédito. Instrumentos negociáveis. Ordens de pagamento. Ordens bancárias
 → 347.457 Instrumentos de crédito civil. Letras de câmbio. Obrigações. Notas promissórias. Vales
 → 347.74  Contratos comerciais
-657.244.l	Notas de câmbio. Ordens de pagamento.
+657.244.1	Notas de câmbio. Ordens de pagamento.
 Notas promissórias. Cartas de crédito.
 657.244.2	Cheques. Documentos de transferência
 de dinheiro.
@@ -906,7 +904,7 @@ preparação de balanços.
 Exemplo(s) de combinação(ões):
 657.372.01 Teoria dos balanços. Balanços
 estáticos e dinâmicos
-657.372.l	Elaboração de balanços em geral.
+657.372.1	Elaboração de balanços em geral.
 657.372.12	Análise de lucros e perdas.
 657.44 Contas de lucros e perdas
 657.372.14	Fechamento dos livros contábeis e transporte
@@ -921,7 +919,7 @@ Depreciação, amortização. Cancelamento.
 → 347.715 Estabelecimentos comerciais, firmas. Valor do negócio, boa reputação na praça. Filiais
 → 657.421.3 Ativos incorpóreos e sua amortização (cancelamento)
 657.375	Tipos de balanço.
-657.375.l	Balanços anuais. Balanços comerciais.
+657.375.1	Balanços anuais. Balanços comerciais.
 657.375.2	Balanços fiscais.
 657.375.3	Balanços especiais, extraordinários. Inclusive
 Balanços de fundação, fusão, reorganização,
@@ -949,7 +947,7 @@ do capital próprio).
 → 657.44 Contas de lucros e perdas
 657.412		Capital de terceiros (capital de empréstimo).
 → 658.148 Capital externo
-657.412.l	Obrigações não-negociáveis. Debêntures.
+657.412.1	Obrigações não-negociáveis. Debêntures.
 Hipotecas. Cauções.
 → 336.763.3 Debêntures. Títulos de debêntures
 → 347.27 Hipoteca. Propriedade hipotecável. Terra hipotecada. Imóvel como garantia
@@ -978,7 +976,7 @@ clientela. Segredos comerciais.
 657.422	Ativos flutuantes, circulantes.
 Capital líquido.
 → 658.153.2 Tipos de capital de giro
-657.422.l		Dinheiro. Dinheiro em caixa. Depósitos
+657.422.1		Dinheiro. Dinheiro em caixa. Depósitos
 em banco. Crédito aberto. Moeda em conta corrente.
 657.422.2	Faturas, contas a receber e a pagar.
 657.422.3	Créditos para resgate.
@@ -1330,10 +1328,9 @@ Exemplo(s) de combinação(ões):
 Especialistas em pessoal. Gerentes de pessoal
 658.310.42	Relações do pessoal. Relações interpessoais.
 Exemplo(s) de combinação(ões):
-                                           658.310.42:364.636 Provocação no local de trabalho
-                                       658.3
+658.310.42:364.636 Provocação no local de trabalho
 658.310.8	Gerência e administração de pessoal
-                                       Especificar os tipos de pessoas por meio de –05... (Tabela 1k)
+      Especificar os tipos de pessoas por meio de –05... (Tabela 1k)
                                     Exemplo(s) de combinação(ões):
                                           658.310.8-051 Administradores de pessoal
 658.5	Engenharia e planejamento da produção. Projeto. Administração e controle da produção.
@@ -1543,10 +1540,8 @@ estoque. Registros do estoque.
  
 658.788.2	Procedimento. Documentação.
 658.788.4	Embalagem. Inclusive Rotulagem e marcação.
-Embalagens de empréstimo. Vasilhames
-restituíveis.
-→ 621.798 Equipamento de acondicionamento e embalagem. Invólucros, recipientes, materiais, máquinas,
-                                      etc.
+Embalagens de empréstimo. Vasilhames restituíveis.
+→ 621.798 Equipamento de acondicionamento e embalagem. Invólucros, recipientes, materiais, máquinas, etc.
 658.788.48	Abertura, esvaziamento dos recipientes.
 Desempacotamento das mercadorias.
 658.788.5	Transporte e entrega de mercadorias
@@ -1678,8 +1673,7 @@ Venda de mercadorias usadas.
 658.849.7	Venda por leilão. Leilão judicial.
 658.85	Técnica de venda. Arte de vender.
 Conversa de vendedor, etc.
-→ 659.144 Publicidade oral, falada, direta. A voz humana como meio de publicidade, de propaganda, 
-                                     etc.
+→ 659.144 Publicidade oral, falada, direta. A voz humana como meio de publicidade, de propaganda, etc.
 658.867.87	Canais de distribuição (atacado, varejo).
 658.86	Venda por atacado. Comércio atacadista.
 Venda por distribuição.
@@ -2603,7 +2597,7 @@ calor apenas. Secadores e vaporativos. Evaporadores.
 Exemplo(s) de combinação(ões):
 66.047.3.049.6 Secagem por sublimação. Secagem a vácuo após resfriamento profundo do material e
 congelamento da umidade com sublimação subseqüente
-66.047.3.085. l Secagem por radiação infravermelha. Secagem por termorradiação 
+66.047.3.085.1 Secagem por radiação infravermelha. Secagem por termorradiação 
 66.047.3.086.2 Secagem pôr correntes de alta freqüência. Secagem dielétrica
 66.047.4/.6	Secagem por contato direto do material que está secando com o agente secante. Secagem por convexão. Secagem por ar ou gás.
 → 66.047.1 Processos preliminares e auxiliares
@@ -3436,9 +3430,9 @@ Classificar os fertilizantes simples específicos em 661.5/.8
 661.152.3	Fertilizantes complexos.
 O conteúdo do fertilizante pode ser indicado por meio de 'l/'9 
 Exemplo(s) de combinação(ões):
-661.152.3’l’2 Fertilizantes de fosfato-nitrogênio (PN) 
-661.152.3’l’2’3 Fertilizantes de potássio-fosfato-nitrogênio 
-661.152.3’1l’2 Nitrofosfato 
+661.152.3’1’2 Fertilizantes de fosfato-nitrogênio (PN) 
+661.152.3’1’2’3 Fertilizantes de potássio-fosfato-nitrogênio 
+661.152.3’11’2 Nitrofosfato 
 661.152.3’13’7 Fertilizantes de uréia-formaldeído
 661.152.32	Fertilizantes compostos.
 661.152.33	Fertilizantes mistos e mistos compostos.
@@ -4101,9 +4095,9 @@ Exemplo(s) de Combinação(ões):
 661.862’O27 Aluminatos (sais correspondentes ao oxido Al2O3) 
 Subdivisões auxiliares especiais
 661.8-11/-18                Valência (do elemento metálico no composto). 
-Exemplo(sj de combinação(ões):
+Exemplo(s) de combinação(ões):
 661.8-11 Monovalente
-66l.8-l2 Bivalente
+661.8-12 Bivalente
 661.8’01		Compostos de especial importância.
 661.8’02		Óxidos.
 661.8’022	Óxido
@@ -4210,8 +4204,7 @@ Exemplo(s) de combinação(ões):
 661.8’078.4	Ftalato.
 661.8’08		Sais básicos.
 661.8’09		Sais duplos e complexos.
-      Quando se tratar de sais duplos, deve-se usar a divisão principal de 661.8 e subdivisões adicionais, como em
-    546.
+      Quando se tratar de sais duplos, deve-se usar a divisão principal de 661.8 e subdivisões adicionais, como em 546.
       Dividir 661.8’09 como 546; p. ex.: 661.842’045.5’091.6 Fosfato de fluoreto de cálcio.
 661.8’099.9	Misturas.
 

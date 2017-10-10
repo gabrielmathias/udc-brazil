@@ -11,8 +11,7 @@
 lentes rnonofocais, bifocais, multifocais.
 681.733	Pincenês. Lornhões.
 681.735	Lentes de contato (lentes escleróticas e córneas).
-681.738	Óculos sem efeito óptico. Inclusive Óculos de segurança. Óculos de proteção. Óculos de natação. Óculos contra luz 
-                                solar.
+681.738	Óculos sem efeito óptico. Inclusive Óculos de segurança. Óculos de proteção. Óculos de natação. Óculos contra luz solar.
                                       → 614.893.2 Óculos de proteção de tipos diversos
                                      → 666.247 Vidros que não transmitem determinadas radiações. Vidros opacos a certos comprimentos de onda
                                   → 681.7.066.6 Lentes de proteção. Lentes de segurança
@@ -360,12 +359,9 @@ ou paralelas em superfícies planas.
 Máquinas para hacburas, para hachuras
 transversais.
 681.947	Equipamento para trabalho em guilhochês.
-
    682  Ferraria. Trabalho de ferrador. Trabalho com ferro forjado a mão
-     
        → 621.73 Trasbalho de forja. Instalação e equipamento da forja. Forjamento aberto e com matriz
-      → 683 Ferragens. Utensílios de ferro. Serralheria. Fabricação de garrafas. Lâmpadas. Utensílios para 
-      aquecimento
+      → 683 Ferragens. Utensílios de ferro. Serralheria. Fabricação de garrafas. Lâmpadas. Utensílios para aquecimento
       → 739 Artes do metal
 682.1		Trabalho de ferrador. Ferraria de ferraduras.
       → 636.083.42 Cuidados com os cascos. Ferração. Arnês, arreios
@@ -1394,9 +1390,7 @@ ferramentas, etc. de modelagem.
 ou matemática.
 686.887	Caixas, prateleiras, estantes para canetas ou lápis.
 686.888	Lousas para escritura apagável. Inclusive  Quadros-negros. Lousas de parede. Apagadores de quadro-negro
-
 687 Indústria do vestuário. Confecção de artigos de vestuário. Cosmetologia
-      
 Os auxiliares 687.02/.078 são aplicáveis apenas em 687. 1/.3 e suas subdivisões
                       → 646.4 Roupas. Acessórios
 → 675.15 Couro para peças de roupa. Couro para luvas. Couro para chapéus, artigos de chapelaria. Couro para forro de roupas. Couro para pequenos artigos de vestuário
@@ -1523,11 +1517,10 @@ casa.
 687.16	Vestuário teatral. Roupas de representação teatral.
 → 792.024.2 Figurinos
 687.17	Roupas de trabalho (artigos para proteção geral). Guarda-pós.
-      → 614.89 Riscos para partes especificas do corpo. Equipamento pessoal de proteção. Vestuário de proteção, 
-                   etc.
+      → 614.89 Riscos para partes especificas do corpo. Equipamento pessoal de proteção. Vestuário de proteção, etc.
       → 685.25 Peças para proteger o corpo
 687.172	Guarda-pós. Sobretudos. Casacos.
-687.172.l	Sobretudos, casacos masculinos.
+687.172.1	Sobretudos, casacos masculinos.
 687.172.2	Sobretudos, casacos femininos.
 687.173	Capas para proteção contra o tempo. Inclusive Capas de chuva. Anoraques.
 687.174	Roupa de trabalho. Sobretudos, casacos

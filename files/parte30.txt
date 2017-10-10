@@ -10,9 +10,7 @@ Exemplo(s) de combinação(oes):
                        69-115 Construções para múltiplos fins 
                        69-5 Operações e controle das máquinas e processos em construções. Inclusive Edifícios inteligentes 
 Subdivisões auxiliares especiais
-69.0		Os auxiliares. 0 têm sentido semelhante em 624 e 69, usar preferencialmente. 03 e .05 (que se referem, sobretudo, 
-                                  a construções) principalmente em 69, mas. 0l, .04 e .07 (que se referem a todas as estruturas em geral) principalmente 
-                                 em 624 
+69.0		Os auxiliares. 0 têm sentido semelhante em 624 e 69, usar preferencialmente. 03 e .05 (que se referem, sobretudo, a construções) principalmente em 69, mas .01, .04 e .07 (que se referem a todas as estruturas em geral) principalmente em 624 
 69.01		Construções e partes de construções segundo o material. 
        Ver nota em 69.01
 Os auxiliares. 01 não são aplicáveis em 691 e 693 e suas subdivisões
@@ -455,17 +453,12 @@ Revestimentos especiais. Fachadas.
 Indicar os materiais por meio de :691... 
 Exemplo(s) de combinação(ões):
 692.232.7:691.327.3 Paredes de preenchimento de concreto leve
-692.233	Detalhes de paredes externas. Partes 
-diversas inter-relacionadas segundo a 
-localização. Projeções, etc.
+692.233	Detalhes de paredes externas. Partes diversas inter-relacionadas segundo a localização. Projeções, etc.
 → 692.29 Pormenores de paredes em geral
-692.233.2	Detalhes de cimos de paredes e junções do
-telhado. Abas do telhado. Cornijas. Parapeitos.
+692.233.2	Detalhes de cimos de paredes e junções do telhado. Abas do telhado. Cornijas. Parapeitos.
 692.233.3	Frontões. Empenas.
-692.237	Detalhes das junções do piso e da parede.
-Vigas de tímpano de arco. Tímpano de arco de janelas.
-692.238	Balcões. Zimbórios. Outras projeções em
-cantiléver.
+692.237	Detalhes das junções do piso e da parede. Vigas de tímpano de arco. Tímpano de arco de janelas.
+692.238	Balcões. Zimbórios. Outras projeções em cantiléver.
 692.239	Particularidades no nível do solo, térreo. Inclusive Entradas.
 692.24	Paredes internas. Paredes transversais.
 692.241.2	Paredes transversais de sustentação.
@@ -480,8 +473,7 @@ Exemplo(s) de combinação(ões}:
 692.2 53:694.5 Divisórias de armação de madeira. Divisórias de sarrafos
 692.256	Divisórias temporárias. Divisórias estruturais de madeira compensada. Divisórias de vidro, etc.
 692.29	Pormenores de paredes em geral.
-→ 692.233 Detalhes de paredes externas. Partes diversas inter-relacionadas segundo a localização. Projetos,
- etc.
+→ 692.233 Detalhes de paredes externas. Partes diversas inter-relacionadas segundo a localização, projetos, etc.
 692.292	Projeções da parede. Cornijas. Corbéis.
 Plintos. Sancas e roda-pés (interior).
 692.294	Junções da parede. Inclusive Cantos. Ângulos. Aberturas chanfradas.
@@ -718,9 +710,7 @@ Exemplo(s) de combinação(ões):
                                    → 684 Indústria do mobiliário e indústrias afins. Fabricação de móveis. Estofamento 
 
 693  Alvenaria, ofício de pedreiro e ofícios correlatos
-      
-→ 666.9 Indústrias de gesso, cal e cimento. Materiais de endurecimento. Estuques e composições. Argamassas 
-      e concreto
+→ 666.9 Indústrias de gesso, cal e cimento. Materiais de endurecimento. Estuques e composições. Argamassas e concreto
 693.1		Alvenaria em pedra natural. Alvenaria de pedras brutas, ligeiramente lavradas ou não. Pedras brutas irregulares.
 693.12	Corte e lavra de pedras. Dimensões de 
 pedras. Trabalho com pedras de revestimento.
@@ -904,11 +894,9 @@ Construção composta.
 693.97	Estruturas com armação de metal.
 693.972                      Estruturas com armação de aço.
 693.977                       Estruturas com armação de metal leve.
-693.98	Construções que combinam vários
-materiais. Construção composta.
+693.98	Construções que combinam vários materiais. Construção composta.
 
 694  Construções de madeira. Carpintaria. Marcenaria
-      
        → 674 Indústria da madeira e de trabalhos com madeira
 694.1		Construções de madeira em geral.
 Carpintaria. Trabalho de 
@@ -1015,9 +1003,7 @@ aquecedores.
 → 621.5 Energia pneumática, maquinaria e ferramentas pneumáticas. Refrigeração
 696.6	Instalações elétricas. Sistemas de fiação elétrica. Ofício de eletricista.
 → 621.316.1 Redes de distribuição (em edifícios, etc.)
-
 697  Calefação, ventilação e ar-condicionado nas construções
-      
 → 628.8 Clima interior. Ar-condicionado. Calefação. Ventilação
       → 644.1 Climatização. Calefação. Ventilação. Ar-condicionado
       → 662.6/.9 Economia de calor. Economia de combustível em geral. Combustão. Combustíveis naturais
@@ -1299,11 +1285,8 @@ da construção, das instalações).
 → 621.61/.63
 697.983	Coletores.
 697.984	Capelas de coleta. Coifas.
-697.986	Desenho, projeto, disposição e construção de 
-ductos e canalizações.
-
+697.986	Desenho, projeto, disposição e construção de ductos e canalizações.
 698  Ofícios de acabamento e decoração.
-     
     → 747 Decoração de interior
 698.1		Ofícios de pintura e decoração.
 698.12	Pintura de construções. Pintura 
@@ -1328,7 +1311,6 @@ tapeceiro e estofador.
 
 699.81	Proteção contra incêndios. Medidas contra incêndio nas construções. Instalações e 
 equipamento contra incêndio.
-                                   
 	        → 614.84 Riscos de incêndio. Incêndios. Proteção contra incêndios
 699.812	Construção de edifícios à prova de fogo.
 Emprego de materiais resistentes ao fogo. Tintas à prova de fogo, revestimentos anticombustíveis.

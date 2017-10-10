@@ -60,9 +60,7 @@ Exemplo(s) de combinação(ões):
       666.96.022.32035.3 Agregados de madeira, cortiça, serragem, etc.
       → 666.914.5 Composições para primeira mão de emboço, revestimento final
       → 691.3/.5
-      → 692.53 Assoalhos. Acabamentos de assoalhos (superfícies de desgaste), inclusive os rodapés e molduras 
-      do
-      mesmo material.
+      → 692.53 Assoalhos. Acabamentos de assoalhos (superfícies de desgaste), inclusive os rodapés e molduras do mesmo material.
       → 693.7 Ladrilhamento de assoalhos. Ladrilhamento de paredes. Pavimentação. Ofício de calceteiro. 
       Trabalho com asfalto
 666.961	Cimento-amianto. Composições e produtos
@@ -994,7 +992,7 @@ Subdivisões auxiliares especiais
 669.09	Outros processos metalúrgicos.
 Subdividir como em 66.09... 
 Exemplo(s) de combinação(ões):
-669.094. l Redução de metais em geral. Hidrogenação
+669.094.1 Redução de metais em geral. Hidrogenação
 669.094.22	Redução com uso de carvão, coque e outras substâncias com alto teor de carbono
 669.094.23	Redução usando metais em geral (p.ex.,com alumínio. Aluminotermia, processo de termite)
 Divisões principais
@@ -1411,14 +1409,11 @@ Divisões principais
 669.187.24	Tetos e revestimentos de forno. Lancetas para
 injeção de oxigênio.
 669.187.25	Processos de fusão.
-→ 669.046Processos e instalações térmicas na metalurgia. Processos de aquecimento e 
-                                  fusão
+→ 669.046Processos e instalações térmicas na metalurgia. Processos de aquecimento e fusão
 669.187.28	Escórias da eletrossiderurgia.
-669.187.3	eletrofornos de aço ácido. Processo elétrico
-ácido.
+669.187.3	eletrofornos de aço ácido. Processo elétrico ácido.
 669.187.3 dividido como 669.187.2
-669.187.4	Eletrofornos de aço básico. Processo elétrico
-básico.
+669.187.4	Eletrofornos de aço básico. Processo elétrico básico.
 669.187.4 dividido como 2669.187.2
 669.187.5	Processos e fomos de refusão elétrica.
 669.187.52	Processos de refusão a vácuo.
@@ -1881,12 +1876,11 @@ Subdivisões auxiliares especiais
 Divisões principais
 671.41	Moedas.
 671.411/.418              Moedas de metal.
-671.41l/.4l8 dividido como 669.l/.8
+671.411/.418 dividido como 669.1/.8
 671.412.1	Moedas de ouro.
 671.419	Moedas não-metálicas.
-671.42	Medalhas. Medalhões. Placas.
-Plaquetas.
-67l.42 dividido como 67l.4
+671.42	Medalhas. Medalhões. Placas. Plaquetas.
+671.42 dividido como 671.4
 → 355.134.2 Insígnias. Distintivos de honra. Honras militares
 → 671.128 Distintivos e condecorações semelhantes
 

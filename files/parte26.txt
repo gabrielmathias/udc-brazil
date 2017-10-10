@@ -87,7 +87,7 @@ Exemplo(s) de combinação(ões):
 661.872’.022 Óxido de ferro. NOTA: (derivado de 661.8’022, subdivido mais ainda aqui)
 661.872.22-12 Óxido de ferro (II) (óxido ferroso) 
         661.872.22-13 Óxido de ferro (III) (óxido férrico) 
-661.872.222. l Óxido de ferro natural vermelho. Hematita. Ocre vermelho.
+661.872.222.1 Óxido de ferro natural vermelho. Hematita. Ocre vermelho.
 Terra-de-siena (giz vermelho, almagre) 
 661.872.222.3 Óxidos de ferro sintéticos vermelhos. Vermelho-inglês. Vermelho-
 veneziano. Vermelho-de-pompéia. Vermelho-de-nápoles. Vermelho-
@@ -2539,9 +2539,8 @@ e umbelifloras.
 → 639.388 Âmbar
 665.529.4	Almíscar.
 → 637.68 Algália. Almíscar. Castóreo
-665.53	Componentes principais de óleos
-essenciais.
-Especificar por meio de :547..., especialmente :547.9l3...
+665.53	Componentes principais de óleos essenciais.
+Especificar por meio de :547..., especialmente :547.913...
 665.54	Óleos essenciais sintéticos. Inclusive Almíscares artificiais.
 665.56	Essências de frutas.
 → 664.857 Xarope de frutas. Concentrados de sucos
@@ -3866,7 +3865,7 @@ Resfriamento e armazenamento do óxido de cálcio, clínquer de cimento, etc.
 666.9.053	Coloração do material em bruto.
                                       Para coloração de produtos moldados, ver 666.9.058
 666.9.055	Formação, fabricação, ligação, etc. de produtos rígidos.
-Especificar por meio de :62l.7...
+Especificar por meio de :621.7...
 666.9.056	Usinagem. Corte. Martelagem, etc.
 Especificar por meio de :621.9...
 666.9.058	Revestimento, coloração, impregnação, etc.

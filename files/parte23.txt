@@ -715,20 +715,15 @@ Enfardadoras. Agulhas. Atadores de nós.
 transportadoras. Transportadoras de corrente.
 Carregadores. Coletores, latas para grãos
 631.354.026	Mecanismos para debulhagem.
-63l.354.028	Levantadoras. dedos para seara. Divididores
-de seara. Contadores de feixes. Dispositivos para proteção animal.
+631.354.028	Levantadoras. dedos para seara. Divididores de seara. Contadores de feixes. Dispositivos para proteção animal.
 Divisões principais
 631.354.1	Enfardadeiras.
 631.354.2	Colheitadeiras combinadas.
-631.354.3	Catadoras. Descabeçadoras. Máquinas para
-colher as cabeças de trevo, etc.
+631.354.3	Catadoras. Descabeçadoras. Máquinas para colher as cabeças de trevo, etc.
 631.354.4	Atadores de feixes. Enfeixadeiras.
-631.355	Colheitadeiras de milho. Inclusive
-Catadoras. Descorticadoras. Debulhadoras.
-631.356	Máquinas e implementos para coleta de
-culturas em fileira.
-631.356.2	Colheitadeiras de raízes. Inclusive Dispositivos
-para arrancar do chão. Dispositivos para cortar a parte de cima (p. ex., da beterraba).
+631.355	Colheitadeiras de milho. Inclusive Catadoras. Descorticadoras. Debulhadoras.
+631.356	Máquinas e implementos para coleta de culturas em fileira.
+631.356.2	Colheitadeiras de raízes. Inclusive Dispositivos para arrancar do chão. Dispositivos para cortar a parte de cima (p. ex., da beterraba).
       → 631.3.06 Combinações de máquinas e implementos. Conjuntos de máquinas, etc. para uso em seqüência
 631.356.4	Colheitadeiras de batatas.
 631.358	Colheitadeiras para outras culturas.
@@ -1581,8 +1576,7 @@ armazenamento.
 632.184	Lesões mecânicas. Ferimentos das plantas.
 632.187	Dano por incêndio. Dano por bombas.
 632.2	Sintomatologia das plantas.
-                                       Classificam-se aqui apenas as questões gerais. Se for conhecido o agente causador, classificar as doenças e danos em 
-	631.1l e  632.3/.8
+      Classificam-se aqui apenas as questões gerais. Se for conhecido o agente causador, classificar as doenças e danos em 631.11 e  632.3/.8
 632.21	Galhas. Cecídios.
 632.23	Tumores. Cancro.
 632.24	Murcha. Ferrugem.
@@ -4232,7 +4226,7 @@ Peixes dourados. Peixes tropicais.
                    domésticos, mascotes, etc. (p.ex., pombas; cães de companhia, de estimação; gatos de estimação)
 639.37	Cultura de determinados tipos de peixe. Produtos da piscicultura em geral.
 639.371/.374	Tipos específicos de peixes e mamíferos marinhos.
-639.371/.374 dividido como 639.2l/.24
+639.371/.374 dividido como 639.21/.24
 639.38	Produtos diversos de peixes e outros animais marinhos.
       → 637’8 Produtos de peixes e outros animais aquáticos
 	             → 637.5’848 Carne de tartaruga marinha e produtos derivados
