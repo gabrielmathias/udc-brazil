@@ -88,6 +88,21 @@ sed -E "s/^(<06>\d.*)$/#ERRO6( linha quebrada ?) \1/" | \
 #Consertando os finalizadores de linha
 tr -d '\r' | \
 
+tr "\n\n" "\n" | \
+
+tr "\t" " " | \
+
+#Removendo o <09>
+grep -v "<09>" | \
+
+awk '{printf "%s%s", (NR>1 ? (/^</?ORS:OFS) : ""), $0} END{print ""}'  | \
+
+gsed -e 's/<01/\n<01/' | \
+gsed -e :a -e N -e 's/\n<0/<0/' -e ta | \
+#sed -e :a -e N -e 's/\n<06>/<06>/' -e ta | \
+
+#tr "\<01\>" "\n\<01\>" | \
+
 tee $saida | \
 
 egrep -i "<02>l " | \
