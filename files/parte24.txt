@@ -39,7 +39,7 @@ mecanização.
 64.011.4	Produtividade. Eficácia. Racionalização.
 Consciência dos custos.
       64.011.4 dividido como 65.011.4
-64.011.5	Trabalho manual. Mecanização e automação do lar.
+64.011.5    Trabalho manual. Mecanização e automação do lar.
 64.011.5 dividido como 65.011.5
 64.011.54	Mecanização.
 64.011.6	Situação, circunstâncias do lar.
