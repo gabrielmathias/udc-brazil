@@ -1,2777 +1,1437 @@
-﻿69 Indústria da construção. Materiais de construção. Práticas e procedimentos de construção
+﻿69 Indústria da construção. Materiais de construção. Práticas e procedimentos de construção <04>Classificam-se em 69 informações sobre a indústria da construção em geral, inclusive materiais, componentes, técnicas <04>e execução da construção. A fabricação de materiais e componentes de construção é classificada em 66/67; as <04>questões de engenharia civil em 624/628, as questões arquitetônicas,  em 72. <06>69:614 Aspectos dos edifícios do ponto de vista da saúde pública. Inclusive: “síndrome do edifício doente” <06>69-115 Construções para múltiplos fins <06>69-5 Operações e controle das máquinas e processos em construções. Inclusive Edifícios inteligentes  
 
-<04>Classificam-se em 69 informações sobre a indústria da construção em geral, inclusive materiais, componentes, técnicas 
-<04>e execução da construção. A fabricação de materiais e componentes de construção é classificada em 66/67; as 
-<04>questões de engenharia civil em 624/628, as questões arquitetônicas,  em 72. 
-<09>Os auxiliares -1/-9, de 62-1/-8 e 66-9, são aplicáveis em 69 
-<06>69:614 Aspectos dos edifícios do ponto de vista da saúde pública. Inclusive: “síndrome do edifício doente” 
-<06>69:614:725.1:005.912 Quarteirões de escritórios “doentes”<09>349.44, 351:69, 351.785 
-<06>69-115 Construções para múltiplos fins 
-<06>69-5 Operações e controle das máquinas e processos em construções. Inclusive Edifícios inteligentes 
-<09>Subdivisões auxiliares especiais
+<01>69.0 <02>Os auxiliares. 0 têm sentido semelhante em 624 e 69, usar preferencialmente. 03 e .05 (que se referem, sobretudo, a construções) principalmente em 69, mas .01, .04 e .07 (que se referem a todas as estruturas em geral) principalmente em 624  
 
-<01>69.0	
-<02>Os auxiliares. 0 têm sentido semelhante em 624 e 69, usar preferencialmente. 03 e .05 (que se referem, sobretudo, a construções) principalmente em 69, mas .01, .04 e .07 (que se referem a todas as estruturas em geral) principalmente em 624 
+<01>69.01 <02>Construções e partes de construções segundo o material. <04>Ver nota em 69.01 
 
-<01>69.01	
-<02>Construções e partes de construções segundo o material. 
-<04>Ver nota em 69.01
-<09>Os auxiliares. 01 não são aplicáveis em 691 e 693 e suas subdivisões
+<01>69.01 <02>dividido como 624.01 
 
-<01>69.01 
-<02>dividido como 624.01
+<01>69.03 <02>Dimensões, permanência, localização e forma das construções. 
 
-<01>69.03	
-<02>Dimensões, permanência, localização e forma das construções.
+<01>69.032 <02>Tamanho das construções em geral (grandes, médias, pequenas). 
 
-<01>69.032	
-<02>Tamanho das construções em geral (grandes, médias, pequenas).
-<09>69.053 Medidas, dimensões das edificações. Altura, largura (frente) e profundidade da construção 
+<01>69.032.2 <02>Construções de vários pavimentes em geral. 
 
-<01>69.032.2	
-<02>Construções de vários pavimentes em geral.
+<01>69.032.21 <02>Construções segundo o número de pavimento. 
 
-<01>69.032.21	
-<02>Construções segundo o número de pavimento.
+<01>69.032.22 <02>Construções altas. Edifícios altos. Arranha-céus.  
 
-<01>69.032.22	
-<02>Construções altas. Edifícios altos. Arranha-céus. 
+<01>69.032.4 <02>Construções muito pequenas. 
 
-<01>69.032.4	
-<02>Construções muito pequenas.
+<01>69.032.6 <02>Construções muito leves. 
 
-<01>69.032.6	
-<02>Construções muito leves.
+<01>69.033 <02>Construções desmontáveis,transportáveis e temporárias. Estruturas infláveis,  desinfláveis (estruturas p0hneumáticas,  pressurizadas ou de ar). prazo  
 
-<01>69.033	
-<02>Construções desmontáveis,transportáveis
-e temporárias. Estruturas infláveis, 
-desinfláveis (estruturas p0hneumáticas, 
-pressurizadas ou de ar).
-<09>351.778.534 Moradias temporárias. Habitação de emergência. Casas pré-fabricadas para uso a curto 
-prazo 
+<01>69.033.1 <02>Construções e estruturas desmontáveis (e desinfláveis). 
 
-<01>69.033.1 
-<02>Construções e estruturas desmontáveis (e
-desinfláveis).
+<01>69.033.15 <02>Estruturas infladas, desinfláveis (de borracha ou plástico). 
 
-<01>69.033.15	
-<02>Estruturas infladas, desinfláveis (de borracha ou
-plástico).
+<01>69.033.2 <02>Construções transportáveis. 
 
-<01>69.033.2	
-<02>Construções transportáveis.
+<01>69.033.6 <02>Construções temporárias. Construções de emergência, provisórias, cabanas. 
 
-<01>69.033.6	
-<02>Construções temporárias. Construções de
-emergência, provisórias, cabanas.
+<01>69.033.8 <02>Construções permanentes (em oposição a temporárias). 
 
-<01>69.033.8	
-<02>Construções permanentes (em oposição a
-temporárias).
+<01>69.034 <02>Construções relacionadas com a água. 
 
-<01>69.034	
-<02>Construções relacionadas com a água.
+<01>69.034.2 <02>Construções flutuantes. 
 
-<01>69.034.2	
-<02>Construções flutuantes.
+<01>69.034.3 <02>Construções na água (não-flutuantes). 
 
-<01>69.034.3	
-<02>Construções na água (não-flutuantes).
+<01>69.034.4 <02>Construções parcialmente na água. 
 
-<01>69.034.4	
-<02>Construções parcialmente na água.
+<01>69.034.5 <02>Construções subaquáticas. 
 
-<01>69.034.5	
-<02>Construções subaquáticas.
+<01>69.034.6 <02>Propriedades e composição da água que afetam  as estruturas na água. Inclusive Evaporação. 
 
-<01>69.034.6	
-<02>Propriedades e composição da água que afetam 
-as estruturas na água. Inclusive Evaporação.
+<01>69.034.7 <02>Depósitos. Cascalho. Seixos. Sedimento. Restos  de naufrágio. 
 
-<01>69.034.7	
-<02>Depósitos. Cascalho. Seixos. Sedimento. Restos 
-de naufrágio.
+<01>69.034.8 <02>Limpeza das partes afetadas. 
 
-<01>69.034.8	
-<02>Limpeza das partes afetadas.
+<01>69.034.9 <02>Proteção contra os efeitos da água e do ar. 
 
-<01>69.034.9	
-<02>Proteção contra os efeitos da água e do ar.
+<01>69.034.92 <02>Revestimentos. Coberturas. Paramentos. 
 
-<01>69.034.92	
-<02>Revestimentos. Coberturas. Paramentos.
+<01>69.034.93 <02>Enchimentos. Empanque. Vedação.  
 
-<01>69.034.93	
-<02>Enchimentos. Empanque. Vedação. 
+<01>69.034.96 <02>Drenagem. 
 
-<01>69.034.96	
-<02>Drenagem.
+<01>69.035 <02>Construções em áreas montanhosas. na rocha. Engenharia protetora da rocha em terreno montanhoso 
 
-<01>69.035	
-<02>Construções em áreas montanhosas.
-<09>Construções subterrâneas.
-<09>624.127 Proteção, reforço de inclinações 
-na rocha. Engenharia protetora da rocha em terreno montanhoso
-<09>624.144 Danos e acidentes causados pela neve e pelo gelo na terra (precauções, prevenção e controle)
+<01>69.035.2 <02>Construções em encostas. Construções em  montanhas e aclives de colinas. 
 
-<01>69.035.2	
-<02>Construções em encostas. Construções em 
-montanhas e aclives de colinas.
+<01>69.035.4 <02>Construções subterrâneas. Edifícios subterrâneos. 
 
-<01>69.035.4	
-<02>Construções subterrâneas. Edifícios subterrâneos.
+<01>69.036 <02>Construções segundo a planta baixa. 
 
-<01>69.036	
-<02>Construções segundo a planta baixa.
+<01>69.036.1 <02>Estruturas retas. 
 
-<01>69.036.1	
-<02>Estruturas retas.
+<01>69.036.2 <02>Estruturas enviesadas. 
 
-<01>69.036.2	
-<02>Estruturas enviesadas.
+<01>69.036.3 <02>Estruturas curvas. 
 
-<01>69.036.3	
-<02>Estruturas curvas.
+<01>69.036.4 <02>Estruturas com uma única abertura. 
 
-<01>69.036.4	
-<02>Estruturas com uma única abertura.
+<01>69.036.5 <02>Estruturas com diversas superestruturas  independentes. 
 
-<01>69.036.5	
-<02>Estruturas com diversas superestruturas 
-independentes.
+<01>69.036.6 <02>Estruturas com superestruturas conexas ou  contínuas. 
 
-<01>69.036.6	
-<02>Estruturas com superestruturas conexas ou 
-contínuas.
+<01>69.036.7 <02>Estruturas com armações de vigas entrecruzadas de sustentação de carga. 
 
-<01>69.036.7	
-<02>Estruturas com armações de vigas entrecruzadas
-de sustentação de carga.
+<01>69.036.8 <02>Estruturas de sustentação de carga de múltiplos  pavimentos. 
 
-<01>69.036.8	
-<02>Estruturas de sustentação de carga de múltiplos 
-pavimentos.
+<01>69.04 <02>Estática gráfica e analítica para estudo e cálculo de estruturas. Resistência, estabilidade , etc. 
 
-<01>69.04	
-<02>Estática gráfica e analítica para
-estudo e cálculo de estruturas. Resistência, estabilidade , etc.
-<09>Ver nota em 69.0  
+<01>69.04 <02>dividido como 624.04 
 
-<01>69.04 
-<02>dividido como 624.04
+<01>69.05 <02>Localização, organização e planta. 
 
-<01>69.05	
-<02>Localização, organização e planta.
-<09>Construção industrializada. Testes do terreno. Defeitos de construção. Durabilidade e manutenção da construção.
+<01>69.051 <02>Escolha e estudo do terreno. Estado do  terreno no início do trabalho. 
 
-<01>69.051	
-<02>Escolha e estudo do terreno. Estado do 
-terreno no início do trabalho.
-<09>624.131.31 Levantamento do terreno. Exame do local
+<01>69.052 <02>Vias de acesso ao canteiro de obras. Estradas acabadas. Estradas temporárias. 
 
-<01>69.052	
-<02>Vias de acesso ao canteiro de obras. Estradas acabadas. Estradas temporárias.
+<01>69.053 <02>Medidas, dimensões das edificações. Altura, largura (frente) e profundidade da construção. 
 
-<01>69.053	
-<02>Medidas, dimensões das edificações. Altura, largura (frente) e profundidade da construção.
-<09>69.032 Tamanho das construções em geral (grandes, médias, pequenas)
+<01>69.054 <02>Marcação e estabelecimento das estruturas previstas no projeto e das áreas de circulação. 
 
-<01>69.054	
-<02>Marcação e estabelecimento das estruturas previstas no projeto e das áreas de circulação.
+<01>69.055 <02>Arranjo e organização do canteiro de obras. 
 
-<01>69.055	
-<02>Arranjo e organização do canteiro de obras.
+<01>69.055.2 <02>Armazenamento de materiais e componentes de  construções industrializadas. Proteção contra  umidade e calor. Equipamento para pré- aquecimento ou resfriamento antes do  armazenamento. 
 
-<01>69.055.2	
-<02>Armazenamento de materiais e componentes de 
-construções industrializadas. Proteção contra 
-umidade e calor. Equipamento para pré-
-aquecimento ou resfriamento antes do 
-armazenamento.
+<01>69.055.6 <02>Construções temporárias no canteiro de obras. Inclusive Escritórios no canteiro de obras. Acampamento para <04>os trabalhadores. Barracões para guarda de equipamentos e ferramentas. 
 
-<01>69.055.6	
-<02>Construções temporárias no canteiro de obras. Inclusive Escritórios no canteiro de obras. Acampamento para 
-<04>os trabalhadores. Barracões para guarda de equipamentos e ferramentas.
+<01>69.055.7 <02>Serviços.<06>69.055.7:696. l Abastecimento de água <06>69.055.7:696.6 Abastecimento de eletricidade 
 
-<01>69.055.7	
-<02>Serviços.
-<06>69.055.7:696. l Abastecimento de água 
-<06>69.055.7:696.6 Abastecimento de eletricidade
+<01>69.056 <02>Preparação de partes para construção  industrializada. Sistemas industrializados  de construção. 
 
-<01>69.056	
-<02>Preparação de partes para construção 
-industrializada. Sistemas industrializados 
-de construção.
-
-<01>69.056.3	
-<02>Sistemas industrializados de construção segundo 
-sua intercambialidade. Inclusive Sistemas abertos (intercambiáveis). Sistemas fechados (não-intercambiáveis).
-
-<01>69.056.5	
-<02>Sistemas industriais de construção segundo o 
-tipo de componente.
+<01>69.056.3 <02>Sistemas industrializados de construção segundo  sua intercambialidade. Inclusive Sistemas abertos (intercambiáveis). Sistemas fechados (não-intercambiáveis). 
 
-<01>69.056.52	
-<02>Estruturas de placas de concreto pré-moldado 
-(placas do tipo parede).
+<01>69.056.5 <02>Sistemas industriais de construção segundo o  tipo de componente. 
 
-<01>69.056.53	
-<02>Estruturas de lajes (lajes de cobertura).
+<01>69.056.52 <02>Estruturas de placas de concreto pré-moldado  (placas do tipo parede). 
 
-<01>69.056.55	
-<02>Estruturas de armação. Inclusive Pilares, suportes.
-<09>624.94 Estruturas de esqueleto. Estruturas de arcabouço
+<01>69.056.53 <02>Estruturas de lajes (lajes de cobertura). 
 
-<01>69.056.56	
-<02>Estruturas celulares. Estruturas em caixote 
-(células do tamanho dos aposentos).
+<01>69.056.55 <02>Estruturas de armação. Inclusive Pilares, suportes. 
 
-<01>69.057	
-<02>Industrialização da construção. Processos 
-para edificação de partes pré-fabricadas e 
-estruturas completas.
+<01>69.056.56 <02>Estruturas celulares. Estruturas em caixote  (células do tamanho dos aposentos). 
 
-<01>69.057.1 
-<02>Pré-fabricação de partes de construção no 
-canteiro de obras ou perto dele. Fabricação no local da obra.
+<01>69.057 <02>Industrialização da construção. Processos  para edificação de partes pré-fabricadas e  estruturas completas. 
 
-<01>69.057.2	
-<02>Montagem no local.
+<01>69.057.1 <02>Pré-fabricação de partes de construção no  canteiro de obras ou perto dele. Fabricação no local da obra. 
 
-<01>69.057.4	
-<02>Levantamento, içamento, descida, 
-movimentação no ar de componentes separados 
-ou estruturas inteiras.
+<01>69.057.2 <02>Montagem no local. 
 
-<01>69.057.43	
-<02>Fixação e montagem de partes.
+<01>69.057.4 <02>Levantamento, içamento, descida,  movimentação no ar de componentes separados  ou estruturas inteiras. 
 
-<01>69.057.44	
-<02>Levantamento de torres, chaminés, tanques e 
-estruturas estacionárias para apoio de cargas 
-móveis.
+<01>69.057.43 <02>Fixação e montagem de partes. 
 
-<01>69.057.45	
-<02>Construção por métodos de elevação. Inclusive Elevação por guindastes, macacos, plataformas, etc. Método de laje levantada. 
+<01>69.057.44 <02>Levantamento de torres, chaminés, tanques e  estruturas estacionárias para apoio de cargas  móveis. 
 
-<01>69.057.46	
-<02>Descida até a posição adequada de componentes 
-ou estruturas completas no solo. 
+<01>69.057.45 <02>Construção por métodos de elevação. Inclusive Elevação por guindastes, macacos, plataformas, etc. Método de laje levantada.  
 
-<01>69.057.47	
-<02>Subida até a posição adequada e posicionamento 
-de unidades grandes ou estruturas completas. Inclusive Posicionamento de partes de pontes, túneis subaquáticos, tubulações. 
+<01>69.057.46 <02>Descida até a posição adequada de componentes  ou estruturas completas no solo.  
 
-<01>69.057.5	
-<02>Armações (moldes, fôrmas, arcabouço). Cimbre, 
-cambotas. Centralização.
+<01>69.057.47 <02>Subida até a posição adequada e posicionamento  de unidades grandes ou estruturas completas. Inclusive Posicionamento de partes de pontes, túneis subaquáticos, tubulações.  
 
-<01>69.057.51	
-<02>Tipos de armações.
+<01>69.057.5 <02>Armações (moldes, fôrmas, arcabouço). Cimbre,  cambotas. Centralização. 
 
-<01>69.057.52	
-<02>Fôrmas. Armações para paredes, divisórias e
-partes estruturais, geralmente verticais.
-<09>Armações verticais e horizontais móveis.
-<09>Fôrmas deslizantes. Armações ascendentes.
+<01>69.057.51 <02>Tipos de armações. 
 
-<01>69.057.53	
-<02>Armações para pisos. Armações para partes ou 
-estruturas geralmente horizontais.
+<01>69.057.52 <02>Fôrmas. Armações para paredes, divisórias e partes estruturais, geralmente verticais. 
 
-<01>69.057.55	
-<02>Fôrmas infláveis, desinfláveis. Fôrmas
-pneumáticas.
+<01>69.057.53 <02>Armações para pisos. Armações para partes ou  estruturas geralmente horizontais. 
 
-<01>69.057.58	
-<02>Cambotas e fôrmas para arcos. Fôrmas para
-pilares, colunas, chaminés, canalizações, ductos, etc.
+<01>69.057.55 <02>Fôrmas infláveis, desinfláveis. Fôrmas pneumáticas. 
 
-<01>69.057.59	
-<02>Armações permanentes. Armações auto-
-sustentáveis.
+<01>69.057.58 <02>Cambotas e fôrmas para arcos. Fôrmas para pilares, colunas, chaminés, canalizações, ductos, etc. 
 
-<01>69.057.6	
-<02>Andaimes de construção. Plataformas de trabalho. Inclusive Andaimes infláveis, desinfláveis.
-<09>62-774.5 Superfícies, lugares para ficar de pé
+<01>69.057.59 <02>Armações permanentes. Armações auto- sustentáveis. 
 
-<01>69.057.7	
-<02>Instalação e equipamento para manipulação e transporte no canteiro da obra.
-<06>69.057.7:621.867 Transportadores 
-<06>69.057.7:621.873 Guindastes em geral 
-<06>69.057.7:621.876 Elevadores, monta-cargas. Guinchos
-<06>69.057.7:625.31 Ferrovias de bitola estreita 
-<06>69.057.7:629.353 Caminhões basculantes 
+<01>69.057.6 <02>Andaimes de construção. Plataformas de trabalho. Inclusive Andaimes infláveis, desinfláveis. 
 
-<01>69.058	
-<02>Ensaios, testes no local. Estudo de estruturas inteiras.
-<09>624.04 Projeto estrutural. Estática gráfica e analítica para pesquisa e cálculo de estruturas 
+<01>69.057.7 <02>Instalação e equipamento para manipulação e transporte no canteiro da obra.<06>69.057.7:621.867 Transportadores <06>69.057.7:621.873 Guindastes em geral <06>69.057.7:621.876 Elevadores, monta-cargas. Guinchos<06>69.057.7:625.31 Ferrovias de bitola estreita <06>69.057.7:629.353 Caminhões basculantes  
 
-<01>69.058.2	
-<02>Medições de deformação.
+<01>69.058 <02>Ensaios, testes no local. Estudo de estruturas inteiras. 
 
-<01>69.058.3	
-<02>Medições de movimento de estruturas 
-completas.
+<01>69.058.2 <02>Medições de deformação. 
 
-<01>69.058.4	
-<02>Medições de assentamento.
+<01>69.058.3 <02>Medições de movimento de estruturas  completas. 
 
-<01>69.058.5	
-<02>Medições de tensão, de esforço.
+<01>69.058.4 <02>Medições de assentamento. 
 
-<01>69.058.6	
-<02>Medições de levantamento.
+<01>69.058.5 <02>Medições de tensão, de esforço. 
 
-<01>69.058.7	
-<02>Medições de temperatura.
+<01>69.058.6 <02>Medições de levantamento. 
 
-<01>69.058.8	
-<02>Medições de efeitos dinâmicos de cargas.
+<01>69.058.7 <02>Medições de temperatura. 
 
-<01>69.059	
-<02>Manutenção de edificações.
+<01>69.058.8 <02>Medições de efeitos dinâmicos de cargas. 
 
-<01>69.059.1	
-<02>Manutenção em geral. Inclusive Vistoria. Limpeza.
+<01>69.059 <02>Manutenção de edificações. 
 
-<01>69.059.2	
-<02>Danos. Estragos. Conserto.
+<01>69.059.1 <02>Manutenção em geral. Inclusive Vistoria. Limpeza. 
 
-<01>69.059.22	
-<02>Danos.
+<01>69.059.2 <02>Danos. Estragos. Conserto. 
 
-<01>69.059.25	
-<02>Restauração. Consertos.
+<01>69.059.22 <02>Danos. 
 
-<01>69.059.28	
-<02>Desmoronamento. Perda total.
+<01>69.059.25 <02>Restauração. Consertos. 
 
-<01>69.059.3	
-<02>Reforço. Alteração. Conversão.
+<01>69.059.28 <02>Desmoronamento. Perda total. 
 
-<01>69.059.32	
-<02>Reforço de fundações e/ou da estrutura (por
-meios estruturais, injeção, etc.). Inclusive Calço. Suporte.
+<01>69.059.3 <02>Reforço. Alteração. Conversão. 
 
-<01>69.059.35	
-<02>Conversão. Alteração estrutural.
+<01>69.059.32 <02>Reforço de fundações e/ou da estrutura (por meios estruturais, injeção, etc.). Inclusive Calço. Suporte. 
 
-<01>69.059.38	
-<02>Extensões de construções ou pavimentos já 
-existentes. Anexos ligados. Acréscimo de 
-pavimentos.
+<01>69.059.35 <02>Conversão. Alteração estrutural. 
 
-<01>69.059.4	
-<02>Vida das edificações.
+<01>69.059.38 <02>Extensões de construções ou pavimentos já  existentes. Anexos ligados. Acréscimo de  pavimentos. 
 
-<01>69.059.5	
-<02>Deslocamento, movimento, elevação de
-edificações inteiras.
+<01>69.059.4 <02>Vida das edificações. 
 
-<01>69.059.6	
-<02>Demolição. Entulho.
-<09>628.4.036 Lixo deixado por construções. Entulho de obras. Entulho de demolição
+<01>69.059.5 <02>Deslocamento, movimento, elevação de edificações inteiras. 
 
-<01>69.059.62	
-<02>Demolição. Inclusive Desmonte para remontagem em outro local.
-<09>Indicar os processos por meio de... 
-<06>69.059.62-621.791.034 Com o emprego de maçaricos, etc. 
-<06>69.059.62:621.9.048.7 Com emprego de feixes de partículas 
-<09>711.164 Desobstrução. Demolição. Redução do número de edificações 
+<01>69.059.6 <02>Demolição. Entulho. 
 
-<01>69.059.63	
-<02>Limpeza de entulho.
+<01>69.059.62 <02>Demolição. Inclusive Desmonte para remontagem em outro local.<06>69.059.62-621.791.034 Com o emprego de maçaricos, etc. <06>69.059.62:621.9.048.7 Com emprego de feixes de partículas  
 
-<01>69.059.64	
-<02>Utilização de entulho.
+<01>69.059.63 <02>Limpeza de entulho. 
 
-<01>69.059.7	
-<02>Reconstrução. Reedificação (usando alguns 
-elementos da construção original).
+<01>69.059.64 <02>Utilização de entulho. 
 
-<01>69.07	
-<02>Elementos estruturais. Elementos
-sujeitos a carga.
-<09>Ver nota em 69.0.
+<01>69.059.7 <02>Reconstrução. Reedificação (usando alguns  elementos da construção original). 
 
-<01>69.07 
-<02>dividido como 624.0 
-<09>Divisões principais
-<06>691 Materiais de construção. Componentes de construção
-<06>691:620.l Ensaios de materiais de construção
-<06>691:699.8 Materiais de construção com propriedades protetoras e especiais
-<06>691:699.844 Materiais à prova de som. Materiais de isolamento acústico
-<06>691-4 Estado, condição, forma de materiais
-<09>624.01 Estruturas e partes estruturais segundo o material e método de construção 
+<01>69.07 <02>Elementos estruturais. Elementos sujeitos a carga. 
 
-<01>691.1	
-<02>Materiais de origem orgânica.
+<01>69.07 <02>dividido como 624.0 <06>691 Materiais de construção. Componentes de construção<06>691:620.l Ensaios de materiais de construção<06>691:699.8 Materiais de construção com propriedades protetoras e especiais<06>691:699.844 Materiais à prova de som. Materiais de isolamento acústico<06>691-4 Estado, condição, forma de materiais 
 
-<01>691.11	
-<02>Madeira. Produtos de madeira.
+<01>691.1 <02>Materiais de origem orgânica. 
 
-<01>691.112	
-<02>Madeiras duras.
+<01>691.11 <02>Madeira. Produtos de madeira. 
 
-<01>691.113	
-<02>Madeiras macias.
+<01>691.112 <02>Madeiras duras. 
 
-<01>691.115	
-<02>Refugos de madeira. Serragem. Maravalhas.
+<01>691.113 <02>Madeiras macias. 
 
-<01>691.116	
-<02>Madeira compensada. Madeira laminada.
-<09>Folheado de madeira. Tábua laminada.
+<01>691.115 <02>Refugos de madeira. Serragem. Maravalhas. 
 
-<01>691.12	
-<02>Caules de planta. Palha. Juncos. Bambu.
+<01>691.116 <02>Madeira compensada. Madeira laminada. 
 
-<01>691.13	
-<02>Cortiça. Substitutos da cortiça.
+<01>691.12 <02>Caules de planta. Palha. Juncos. Bambu. 
 
-<01>691.14	
-<02>Papel. Produtos de polpa de papel.
-<09>676.28 Papelão fibroso para construção. Papelão de parede. Papelão-feltro para telhado e assoalho
+<01>691.13 <02>Cortiça. Substitutos da cortiça. 
 
-<01>691.145	
-<02>Papéis de pa rede.
-<09>698.16 Ofício de empapelador  de paredes
+<01>691.14 <02>Papel. Produtos de polpa de papel. 
 
-<01>691.15	
-<02>Outras substâncias vegetais fibrosas. Inclusive Tecidos. Fazendas.
+<01>691.145 <02>Papéis de pa rede. 
 
-<01>691.16	
-<02>Materiais betuminosos. Inclusive Asfalto. Alcatrão. Piche. Placas, papelão alcatroado.
+<01>691.15 <02>Outras substâncias vegetais fibrosas. Inclusive Tecidos. Fazendas. 
 
-<01>691.17	
-<02>Materiais macromoleculares. Borracha, plásticos, etc.
+<01>691.16 <02>Materiais betuminosos. Inclusive Asfalto. Alcatrão. Piche. Placas, papelão alcatroado. 
 
-<01>691.173	
-<02>Borracha.
+<01>691.17 <02>Materiais macromoleculares. Borracha, plásticos, etc. 
 
-<01>691.175	
-<02>Plástico.
-<09>691.175.5/.8 dividido como 678.5/.8
+<01>691.173 <02>Borracha. 
 
-<01>691.178	
-<02>Gomas. Resinas e adesivos similares.
+<01>691.175 <02>Plástico. 
 
-<01>691.18	
-<02>Materiais de origem animal.
-<09>675.166 Couro para forração de assoalho e parede
+<01>691.178 <02>Gomas. Resinas e adesivos similares. 
 
-<01>691.2	
-<02>Pedras naturais. Outros materiais 
-minerais.
+<01>691.18 <02>Materiais de origem animal. 
 
-<01>691.21	
-<02>Pedras naturais (segundo a origem e composição).
+<01>691.2 <02>Pedras naturais. Outros materiais  minerais. 
 
-<01>691.21 
-<02>dividido como 553.5
+<01>691.21 <02>Pedras naturais (segundo a origem e composição). 
 
-<01>691.212	
-<02>Pedras plutônicas. Inclusive Granito. Sienito. 
+<01>691.21 <02>dividido como 553.5 
 
-<01>691.213	
-<02>Pedras e lavas vulcânicas.
+<01>691.212 <02>Pedras plutônicas. Inclusive Granito. Sienito.  
 
-<01>691.213.5	
-<02>Pedra-pome. Pozolana. Perlita.
+<01>691.213 <02>Pedras e lavas vulcânicas. 
 
-<01>691.214	
-<02>Pedras metamórficas. Xistos, etc.
+<01>691.213.5 <02>Pedra-pome. Pozolana. Perlita. 
 
-<01>691.214.2	
-<02>Ardósias (p. ex. ardósias de telhado).
+<01>691.214 <02>Pedras metamórficas. Xistos, etc. 
 
-<01>691.214.8	
-<02>Mármore.
+<01>691.214.2 <02>Ardósias (p. ex. ardósias de telhado). 
 
-<01>691.215	
-<02>Pedras sedimentares e carbonatadas. Inclusive Calcário. Arenito. 
+<01>691.214.8 <02>Mármore. 
 
-<01>691.216	
-<02>Arenitos calcários.
+<01>691.215 <02>Pedras sedimentares e carbonatadas. Inclusive Calcário. Arenito.  
 
-<01>691.217	
-<02>Pedras silicosas.
+<01>691.216 <02>Arenitos calcários. 
 
-<01>691.22	
-<02>Areia, cascalho e agregados semelhantes.
+<01>691.217 <02>Pedras silicosas. 
 
-<01>691.223/. 
-<02>224 dividido como 553.623/.624
+<01>691.22 <02>Areia, cascalho e agregados semelhantes. 
 
-<01>691.26	
-<02>Diversos materiais inorgânicos minerais
-econômicos e terras.
+<01>691.223/. <02>224 dividido como 553.623/.624 
 
-<01>691.261	
-<02>Argilas. Feldspatos. Depósitos similares de
-silicato de alumínio.
+<01>691.26 <02>Diversos materiais inorgânicos minerais econômicos e terras. 
 
-<01>691.261 
-<02>dividido como 553.61
+<01>691.261 <02>Argilas. Feldspatos. Depósitos similares de silicato de alumínio. 
 
-<01>691.263/.266	
-<02>Sais e outros compostos diversos.
-<06>691.263/-266 dividido como 553.63/.66
+<01>691.261 <02>dividido como 553.61 
 
-<01>691.263.5	
-<02>Gesso. gipsita. Alabastro.
+<01>691.263/.266 <02>Sais e outros compostos diversos.<06>691.263/-266 dividido como 553.63/.66 
 
-<01>691.27	
-<02>Silicatos fibrosos e folheados.
+<01>691.263.5 <02>Gesso. gipsita. Alabastro. 
 
-<01>691.27 
-<02>dividido como 553.6
+<01>691.27 <02>Silicatos fibrosos e folheados. 
 
-<01>691.3	
-<02>Pedra artificial. Concreto. Aglomerados diversos.
-<09>666.96/.97
-<09>691.54 Couro para forração de assoalho e parede
+<01>691.27 <02>dividido como 553.6 
 
-<01>691.31	
-<02>Pedra artificial. Pedra reconstituída.
-<09>Produtos de gipsita, gesso natural, para 
-construção. Pedra de silicato de cálcio.
-<09>666.91 Indústria do gesso e de anidrita. Estuques de gesso e produtos de estuque
+<01>691.3 <02>Pedra artificial. Concreto. Aglomerados diversos. 
 
-<01>691.311	
-<02>Materiais de construção de gipsita e anidrita.
-<06>691.31 l-419 Placa de gesso 
-<06>691.311 -431 Blocos de gesso 
+<01>691.31 <02>Pedra artificial. Pedra reconstituída. construção. Pedra de silicato de cálcio. 
 
-<01>691.316	
-<02>Tijolos artificiais de areia-óxido de cálcio.
-<09>Pedra de silicato de cálcio. Tijolos leves de
-oxido de cálcio-concreto.
+<01>691.311 <02>Materiais de construção de gipsita e anidrita.<06>691.31 l-419 Placa de gesso <06>691.311 -431 Blocos de gesso  
 
-<01>691.32	
-<02>Concreto. Elementos de concreto para 
-construção.
-<09>666.94 Indústria do cimento
-<09>666.97 Indústria de argamassa e concreto. Elementos de concreto. Produção de concreto em usinas
+<01>691.316 <02>Tijolos artificiais de areia-óxido de cálcio. oxido de cálcio-concreto. 
 
-<01>691.322	
-<02>Agregados (inclusive agregados leves). Cinzas. Clínquer. Escória. Pedra-pome. Agregados de concreto em geral.
+<01>691.32 <02>Concreto. Elementos de concreto para  construção. 
 
-<01>691.217	
-<02>Concreto não-armado, não-reforçado.
-<04>Indicar a forma de elementos de concreto para construção, por meio de -4..., de 62-4...
+<01>691.322 <02>Agregados (inclusive agregados leves). Cinzas. Clínquer. Escória. Pedra-pome. Agregados de concreto em geral. 
 
-<01>691.327.3	
-<02>Concreto não-armado leve.
+<01>691.217 <02>Concreto não-armado, não-reforçado.<04>Indicar a forma de elementos de concreto para construção, por meio de -4..., de 62-4... 
 
-<01>691.327.32	
-<02>Concreto agregado não-armado de peso leve.
-<09>Especificar o agregado por meio de  691... 
-<06>691.327.32:691.213.5 Concreto de pedra-pome 
+<01>691.327.3 <02>Concreto não-armado leve. 
 
-<01>691.327.33	
-<02>Concreto arejado. Concreto espumado.
+<01>691.327.32 <02>Concreto agregado não-armado de peso leve.<06>691.327.32:691.213.5 Concreto de pedra-pome  
 
-<01>691.327.332	
-<02>Concreto arejado.
+<01>691.327.33 <02>Concreto arejado. Concreto espumado. 
 
-<01>691.327.333	
-<02>Concreto espumado.
+<01>691.327.332 <02>Concreto arejado. 
 
-<01>691.328	
-<02>Concreto armado. Concreto protendido.
-<09>Elementos do concreto armado. 
-<09>666.982 Concreto armado
+<01>691.327.333 <02>Concreto espumado. 
 
-<01>691.328.1	
-<02>Concreto armado (concreto armado com aço).
-<09>Elementos do concreto armado.
+<01>691.328 <02>Concreto armado. Concreto protendido. 
 
-<01>691.328.2	
-<02>Concreto protendido. Elementos do concreto
-protendido.
+<01>691.328.1 <02>Concreto armado (concreto armado com aço). 
 
-<01>691.328.3	
-<02>Concreto armado de peso leve.
+<01>691.328.2 <02>Concreto protendido. Elementos do concreto protendido. 
 
-<01>691.328.4	
-<02>Concreto armado com outro elemento, exceto aço.
+<01>691.328.3 <02>Concreto armado de peso leve. 
 
-<01>691.328.42	
-<02>Concreto armado com metais não-ferrosos.
+<01>691.328.4 <02>Concreto armado com outro elemento, exceto aço. 
 
-<01>691.328.43	
-<02>Concreto armado com materiais inorgânicos 
-(exceto metais).
+<01>691.328.42 <02>Concreto armado com metais não-ferrosos. 
 
-<01>691.328.44	
-<02>Concreto armado com materiais orgânicos.
-<06>691.328.44:691.12 Concreto armado com bambu
+<01>691.328.43 <02>Concreto armado com materiais inorgânicos  (exceto metais). 
 
-<01>691.328.5	
-<02>Produtos de cimento armado. Produtos de 
-cimento-amianto, etc.
+<01>691.328.44 <02>Concreto armado com materiais orgânicos.<06>691.328.44:691.12 Concreto armado com bambu 
 
-<01>691.33	
-<02>Concretos e aglomerados artificiais com 
-outros aglutinantes inorgânicos, exceto o
-cimento.
+<01>691.328.5 <02>Produtos de cimento armado. Produtos de  cimento-amianto, etc. 
 
-<01>691.332	
-<02>Concretos e aglomerados com aglutinantes pozolânicos e aditivos de óxido de cálcio ou gipsita. Concreto de 
-<04>silicato. Concreto de óxido de cálcio.
-<09>691.316 Tijolos artificiais de areia-óxido de cálcio. Pedras de silicato 
+<01>691.33 <02>Concretos e aglomerados artificiais com  outros aglutinantes inorgânicos, exceto o cimento. 
 
-<01>691.332.2	
-<02>Concreto armado de silicato.
+<01>691.332 <02>Concretos e aglomerados com aglutinantes pozolânicos e aditivos de óxido de cálcio ou gipsita. Concreto de <04>silicato. Concreto de óxido de cálcio. 
 
-<01>691.332.3	
-<02>Concreto protendido de silicato.
+<01>691.332.2 <02>Concreto armado de silicato. 
 
-<01>691.332.5	
-<02>Concreto arejado de silicato. Concreto 
-espumoso de silicato. Concreto leve de óxido de cálcio.
+<01>691.332.3 <02>Concreto protendido de silicato. 
 
-<01>691.333	
-<02>Concretos e aglomerados com aglutinantes pozolânicos e álcalis ou ativadores hidráulicos. Concreto de solo-silicato.
+<01>691.332.5 <02>Concreto arejado de silicato. Concreto  espumoso de silicato. Concreto leve de óxido de cálcio. 
 
-<01>691.334	
-<02>Concretos e aglomerados com aglutinantes baseados em magnésio. Xilolito.
-<09>674.816 Composições de resíduos da madeira, serragem
+<01>691.333 <02>Concretos e aglomerados com aglutinantes pozolânicos e álcalis ou ativadores hidráulicos. Concreto de solo-silicato. 
 
-<01>691.34	
-<02>Concretos e aglomerados artificiais com aglutinantes orgânicos. Inclusive Concretos de resina sintética. Concretos plásticos.
+<01>691.334 <02>Concretos e aglomerados com aglutinantes baseados em magnésio. Xilolito. 
 
-<01>691.4	
-<02>Barro. Taipa. Argila. Artigos de barro. Materiais cerâmicos de construção.
-<09>666.7 Cerâmica grosseira. Artigos pesados de argila. Refratários. Materiais de cerâmica dura. Misturas de cerâmica e outros materiais
+<01>691.34 <02>Concretos e aglomerados artificiais com aglutinantes orgânicos. Inclusive Concretos de resina sintética. Concretos plásticos. 
 
-<01>691.41	
-<02>Barro seco. Adobe. Lama. Terra-pisada. Taipa.
+<01>691.4 <02>Barro. Taipa. Argila. Artigos de barro. Materiais cerâmicos de construção. 
 
-<01>691.42	
-<02>Cerâmica ou argila pesada. Argila queimada.
+<01>691.41 <02>Barro seco. Adobe. Lama. Terra-pisada. Taipa. 
 
-<01>691.421	
-<02>Tijolos de cerâmica.
-<06>691.421-478 Tijolos perfurados 
+<01>691.42 <02>Cerâmica ou argila pesada. Argila queimada. 
 
-<01>691.421.2	
-<02>Tijolos comuns (tijolos de argila).
+<01>691.421 <02>Tijolos de cerâmica.<06>691.421-478 Tijolos perfurados  
 
-<01>691.421.24	
-<02>Tijolos bem cozidos. Tijolos de clínquer.
+<01>691.421.2 <02>Tijolos comuns (tijolos de argila). 
 
-<01>691.421.4	
-<02>Tijolos para revestimento. Inclusive Tijolos vidrados
-<09>692.232.4 Paredes resistentes às intempéries. Revestimentos especiais. Fachadas
+<01>691.421.24 <02>Tijolos bem cozidos. Tijolos de clínquer. 
 
-<01>691.421.7	
-<02>Tijolos refratários. Tijolos quimicamente 
-resistentes.
+<01>691.421.4 <02>Tijolos para revestimento. Inclusive Tijolos vidrados 
 
-<01>691.421.76	
-<02>Tijolos refratários (resistentes ao fogo).
-<09>666.76 Corpos e produtos refratários
+<01>691.421.7 <02>Tijolos refratários. Tijolos quimicamente  resistentes. 
 
-<01>691.421.77	
-<02>Tijolos quimicamente resistentes. Tijolos 
-resistentes a álcalis. Tijolos resistentes a ácidos.
-<09>666.77 Corpos e produtos de argila pesada quimicamente resistente. Artigos de argila resistentes à corrosão 
+<01>691.421.76 <02>Tijolos refratários (resistentes ao fogo). 
 
-<01>691.424	
-<02>Telhas.
+<01>691.421.77 <02>Tijolos quimicamente resistentes. Tijolos  resistentes a álcalis. Tijolos resistentes a ácidos. 
 
-<01>691.43	
-<02>Artigos de cerâmica vitrificada, porosa ou 
-semiporosa.
+<01>691.424 <02>Telhas. 
 
-<01>691.432	
-<02>Cerâmica vitrificada por sal em geral.
+<01>691.43 <02>Artigos de cerâmica vitrificada, porosa ou  semiporosa. 
 
-<01>691.433	
-<02>Artigos de louça, de faiança.
-<06>691.433-431 Tijolos de faiança. Ladrilhos de barro vitrificado (para pavimentação)
-<06>691.433-462 Canos de barro vitrificado, manilhas
+<01>691.432 <02>Cerâmica vitrificada por sal em geral. 
 
-<01>691.434	
-<02>Artigos de barro, argila, vitrificados. 
-<09>Faiança. Terracota. Louça branca.
+<01>691.433 <02>Artigos de louça, de faiança.<06>691.433-431 Tijolos de faiança. Ladrilhos de barro vitrificado (para pavimentação)<06>691.433-462 Canos de barro vitrificado, manilhas 
 
-<01>691.434.2	
-<02>Faiança, terracota para revestimentos, etc.
+<01>691.434 <02>Artigos de barro, argila, vitrificados.  
 
-<01>691.434.3	
-<02>Louça branca. Inclusive Louça sanitária. Azulejos de parede.
+<01>691.434.2 <02>Faiança, terracota para revestimentos, etc. 
 
-<01>691.49	
-<02>Outros produtos de cerâmica. Inclusive Produtos de porcelana.
+<01>691.434.3 <02>Louça branca. Inclusive Louça sanitária. Azulejos de parede. 
 
-<01>691.5	
-<02>Aglutinantes. Materiais de base.
+<01>691.49 <02>Outros produtos de cerâmica. Inclusive Produtos de porcelana. 
 
-<01>691.51	
-<02>Óxidos de cálcio. Cal.
-<09>666.92 Indústria de cal. Cal e produtos de cal
+<01>691.5 <02>Aglutinantes. Materiais de base. 
 
-<01>691.53	
-<02>Argamassas em geral.
+<01>691.51 <02>Óxidos de cálcio. Cal. 
 
-<01>691.54	
-<02>Cimentos. Matérias pozolânicos.
-<09>666.944 Indústria do cimento
-<09>666.95 Pozolanas. Substâncias com efeito semelhante
-<09>691.3 Pedra artificial. Concreto. Aglomerados diversos
+<01>691.53 <02>Argamassas em geral. 
 
-<01>691.541	
-<02>Cimento romano.
+<01>691.54 <02>Cimentos. Matérias pozolânicos. 
 
-<01>691.542	
-<02>Cimento Portland.
+<01>691.541 <02>Cimento romano. 
 
-<01>691.544	
-<02>Outros cimentos. Inclusive Cimento com alto teor de alumina.
+<01>691.542 <02>Cimento Portland. 
 
-<01>691.545	
-<02>Materiais pozolânicos.
+<01>691.544 <02>Outros cimentos. Inclusive Cimento com alto teor de alumina. 
 
-<01>691.55	
-<02>Estuques, rebocos.
+<01>691.545 <02>Materiais pozolânicos. 
 
-<01>691.552	
-<02>Lama. Terra. Esterco. Sangue. Outras 
-misturas primitivas.
+<01>691.55 <02>Estuques, rebocos. 
 
-<01>691.553	
-<02>Estuques de gipsita. Estuques de anidrita.
-<09>Exemplo!s) de combinação(ões):
-<06>691.553:693.63 Massa de gipsita para estuque 
-<09>666.91 Indústria do gesso e de anidrita. Estuques de gessos e produtos de estuque
+<01>691.552 <02>Lama. Terra. Esterco. Sangue. Outras  misturas primitivas. 
 
-<01>691.554	
-<02>Massas de reboco de óxido de cálcio.
+<01>691.553 <02>Estuques de gipsita. Estuques de anidrita.<06>691.553:693.63 Massa de gipsita para estuque  
 
-<01>691.555	
-<02>Rebocos, estuques de cimento.
+<01>691.554 <02>Massas de reboco de óxido de cálcio. 
 
-<01>691.557 
-<02>Rebocos, estuques sintéticos.
+<01>691.555 <02>Rebocos, estuques de cimento. 
 
-<01>691.57	
-<02>Tintas. Tintas feitas de cal e cola.
-<09>Vernizes. Corantes. Conservantes.
-<09>667.6 Revestimentos e técnicas de revestimento. Tintas. Vernizes
+<01>691.557 <02>Rebocos, estuques sintéticos. 
 
-<01>691.58	
-<02>Materiais de base, enchimento e ligação.
-<09>Compostos para nivelamento. Mástique.
-<09>Massas de vidraceiro, almécegas.
-<09>Adesivos.
+<01>691.57 <02>Tintas. Tintas feitas de cal e cola. 
 
-<01>691.6	
-<02>Vidros. Vidraças. Vidro em placas.
-<09>Esmalte, etc.
+<01>691.58 <02>Materiais de base, enchimento e ligação. 
 
-<01>691.61/.62 
-<02>dividido como 666.1/.2 
+<01>691.6 <02>Vidros. Vidraças. Vidro em placas. 
 
-<01>691.615	
-<02>Vidro em folha. Vidro plano em geral.
+<01>691.61/.62 <02>dividido como 666.1/.2  
 
-<01>691.616	
-<02>Vidro plano trefilado.
+<01>691.615 <02>Vidro em folha. Vidro plano em geral. 
 
-<01>691.618.5	
-<02>Vidro prensado.
-<09>Vidro para construção, arquitetônico. Tijolos, ladrilhos, telhas, de vidro.
+<01>691.616 <02>Vidro plano trefilado. 
 
-<01>691.624	
-<02>Vidro colorido transparente. Inclusive Vidro para sol. Vidro que absorve o calor
+<01>691.618.5 <02>Vidro prensado. 
 
-<01>691.629	
-<02>Esmaltes. Vitrificados.
+<01>691.624 <02>Vidro colorido transparente. Inclusive Vidro para sol. Vidro que absorve o calor 
 
-<01>691.7	
-<02>Materiais metálicos de construção.
+<01>691.629 <02>Esmaltes. Vitrificados. 
 
-<01>691.71/.78 
-<02>dividido como 669.1/.8 com .018... como em 069.018
-<09>672.11 Componentes e acessórios de trabalho de ferro fundido e aço
-<09>682.6 Ferraria para construção
+<01>691.7 <02>Materiais metálicos de construção. 
 
-<01>691.713	
-<02>Ferro fundido.
+<01>691.71/.78 <02>dividido como 669.1/.8 com .018... como em 069.018 
 
-<01>691.714	
-<02>Aço.
-<06>691.714.018.8 Aço inoxidável. Aço não-corrosivo
+<01>691.713 <02>Ferro fundido. 
 
-<01>691.72	
-<02>Metais não-ferrosos em geral.
+<01>691.714 <02>Aço.<06>691.714.018.8 Aço inoxidável. Aço não-corrosivo 
 
-<01>691.73	
-<02>Cobre. Ligas de cobre. Inclusive Bronze. Latão. Bronze de canhão
+<01>691.72 <02>Metais não-ferrosos em geral. 
 
-<01>691.74	
-<02>Chumbo.
+<01>691.73 <02>Cobre. Ligas de cobre. Inclusive Bronze. Latão. Bronze de canhão 
 
-<01>691.75	
-<02>Zinco.
+<01>691.74 <02>Chumbo. 
 
-<01>691.77	
-<02>Metais  leves.
+<01>691.75 <02>Zinco. 
 
-<01>691.8	
-<02>Componentes simples 
-<09>Ferramentas do construtor.
-<09>682.6 Ferraria para construção
-<09>683 Ferragens. Utensílios de ferro. Serralheria. Fabricação de garrafas. Lâmpadas. Utensílios para aquecimento
+<01>691.77 <02>Metais  leves. 
 
-<01>691.81	
-<02>Componentes simples  pré-fabricados.
+<01>691.8 <02>Componentes simples  
 
-<01>691.87	
-<02>Materiais de construção para reforço em geral.
-<09>693.554 Reforço (com aço)
-<09>693.564 Reforço protendido. Aço protendido. Protensão
+<01>691.81 <02>Componentes simples  pré-fabricados. 
 
-<01>691.88	
-<02>Acessórios para fixação em geral. Inclusive Prendedores. Cavilhas. Pregos. Parafusos. Grampos. Braçadeiras
-<09>621.88 Dispositivos de fixação. Prendedores.
+<01>691.87 <02>Materiais de construção para reforço em geral. 
 
+<01>691.88 <02>Acessórios para fixação em geral. Inclusive Prendedores. Cavilhas. Pregos. Parafusos. Grampos. Braçadeiras  
 
-<01>692 
-<02>Partes estruturais e elementos de construções
+<01>692 <02>Partes estruturais e elementos de construções  
 
+<01>692.1 <02>Fundações de construções. 
 
-<01>692.1	
-<02>Fundações de construções.
-<09>69.055 Arranjo e organização do canteiro de obras
+<01>692.113 <02>Obras de terra, terraplenagem em geral. 
 
-<01>692.113	
-<02>Obras de terra, terraplenagem em geral.
-<09>624.13 Geotécnica. Mecânica do solo. Obras de terra. Engenharia do solo congelado
+<01>692.115 <02>Fundações. Subestrutura em geral. 
 
-<01>692.115	
-<02>Fundações. Subestrutura em geral.
-<09>624.15 Engenharia de fundações. Obras de subestrutura
+<01>692.2 <02>Paredes. Divisórias.<06>692.2:693.2 Paredes de tijolo ou bloco<06>692.2:693.3 Paredes de taipa<06>692.2:694.5 Paredes de madeira leve 
 
-<01>692.2	
-<02>Paredes. Divisórias.
-<06>692.2:693.2 Paredes de tijolo ou bloco
-<06>692.2:693.3 Paredes de taipa
-<06>692.2:694.5 Paredes de madeira leve
+<01>692.21 <02>Paredes limitantes e paredes divisórias em geral. 
 
-<01>692.21	
-<02>Paredes limitantes e paredes divisórias em geral.
+<01>692.212 <02>Paredes limitantes que circundam espaços  abertos, jardins, etc. (inclusive portões). 
 
-<01>692.212	
-<02>Paredes limitantes que circundam espaços 
-abertos, jardins, etc. (inclusive portões).
-<09>712.35 Limites
+<01>692.214 <02>Paredes divisórias.<06>692.214:699.81 Paredes divisórias resistentes ao fogo <06>692.214:699.844 Paredes divisórias à prova de som        p. ex. poço, meação 
 
-<01>692.214	
-<02>Paredes divisórias.
-<06>692.214:699.81 Paredes divisórias resistentes ao fogo 
-<06>692.214:699.844 Paredes divisórias à prova de som
-<09>347.238.2 Propriedade conjunta em meação, p. ex. de muros. Uso conjunto de acessórios, 
-	      p. ex. poço, meação
+<01>692.22 <02>Paredes abaixo do nível de impermeabilização. Paredes, partes, abaixo do solo em geral.<06>692.22:692.115 Paredes de fundações <06>692.22:699.82 Conjuntos de paredes à prova de umidade 
 
-<01>692.22	
-<02>Paredes abaixo do nível de
-impermeabilização. Paredes, partes, abaixo
-do solo em geral.
-<06>692.22:692.115 Paredes de fundações 
-<06>692.22:699.82 Conjuntos de paredes à prova de umidade
+<01>692.23 <02>Paredes externas. Paredes circundantes  acima do solo em geral. Paredes em  elevação. Fachadas. 
 
-<01>692.23	
-<02>Paredes externas. Paredes circundantes 
-acima do solo em geral. Paredes em 
-elevação. Fachadas.
-<09>692.23 Paredes externas. Paredes circundantes acima do solo em geral. Paredes em elevação. Fachadas.
+<01>692.231.2 <02>Paredes externas de sustentação. 
 
-<01>692.231.2	
-<02>Paredes externas de sustentação.
+<01>692.231.3 <02>Paredes externas que não são de sustentação. 
 
-<01>692.231.3	
-<02>Paredes externas que não são de sustentação.
+<01>692.232 <02>Paredes e fachadas externas. Partes da  construção resistentes às intempéries. 
 
-<01>692.232	
-<02>Paredes e fachadas externas. Partes da 
-construção resistentes às intempéries.
+<01>692.232.1 <02>Paredes sólidas, maciças. 
 
-<01>692.232.1 
-<02>Paredes sólidas, maciças.
+<01>692.232.2 <02>Paredes com cavidade. Paredes de camada dupla. 
 
-<01>692.232.2	
-<02>Paredes com cavidade. Paredes de camada dupla.
+<01>692.232.3 <02>Paredes com revestimentos impermeáveis. 
 
-<01>692.232.3	
-<02>Paredes com revestimentos impermeáveis.
+<01>692.232.4 <02>Partes resistentes às intempéries. 
 
-<01>692.232.4	
-<02>Partes resistentes às intempéries.
-<09>Revestimentos especiais. Fachadas.
+<01>692.232.42 <02>Revestimentos com componentes pequenos. Inclusive Com ladrilhos. Com placas de ardósia. Madeira tratada. 
 
-<01>692.232.42	
-<02>Revestimentos com componentes pequenos. Inclusive Com ladrilhos. Com placas de ardósia. Madeira tratada.
+<01>692.232.44 <02>Com componentes grandes. Inclusive Com lâminas, placas. 
 
-<01>692.232.44	
-<02>Com componentes grandes. Inclusive Com lâminas, placas.
+<01>692.232.45 <02>Paredes que fazem cortina de proteção. 
 
-<01>692.232.45	
-<02>Paredes que fazem cortina de proteção.
+<01>692.232.7 <02>Paredes de preenchimento do esqueleto da construção.<06>692.232.7:691.327.3 Paredes de preenchimento de concreto leve 
 
-<01>692.232.7	
-<02>Paredes de preenchimento do esqueleto da construção.
-<09>Indicar os materiais por meio de :691... 
-<06>692.232.7:691.327.3 Paredes de preenchimento de concreto leve
+<01>692.233 <02>Detalhes de paredes externas. Partes diversas inter-relacionadas segundo a localização. Projeções, etc. 
 
-<01>692.233	
-<02>Detalhes de paredes externas. Partes diversas inter-relacionadas segundo a localização. Projeções, etc.
-<09>692.29 Pormenores de paredes em geral
+<01>692.233.2 <02>Detalhes de cimos de paredes e junções do telhado. Abas do telhado. Cornijas. Parapeitos. 
 
-<01>692.233.2	
-<02>Detalhes de cimos de paredes e junções do telhado. Abas do telhado. Cornijas. Parapeitos.
+<01>692.233.3 <02>Frontões. Empenas. 
 
-<01>692.233.3	
-<02>Frontões. Empenas.
+<01>692.237 <02>Detalhes das junções do piso e da parede. Vigas de tímpano de arco. Tímpano de arco de janelas. 
 
-<01>692.237	
-<02>Detalhes das junções do piso e da parede. Vigas de tímpano de arco. Tímpano de arco de janelas.
+<01>692.238 <02>Balcões. Zimbórios. Outras projeções em cantiléver. 
 
-<01>692.238	
-<02>Balcões. Zimbórios. Outras projeções em cantiléver.
+<01>692.239 <02>Particularidades no nível do solo, térreo. Inclusive Entradas. 
 
-<01>692.239	
-<02>Particularidades no nível do solo, térreo. Inclusive Entradas.
+<01>692.24 <02>Paredes internas. Paredes transversais. 
 
-<01>692.24	
-<02>Paredes internas. Paredes transversais.
+<01>692.241.2 <02>Paredes transversais de sustentação. 
 
-<01>692.241.2	
-<02>Paredes transversais de sustentação.
+<01>692.241.3 <02>Paredes transversais que não são de sustentação. 
 
-<01>692.241.3	
-<02>Paredes transversais que não são de sustentação.
+<01>692.25 <02>Paredes divisórias. 
 
-<01>692.25	
-<02>Paredes divisórias.
-<09>694.5 Construções de madeira leve
+<01>692.251 <02>Divisórias de placas leves. 
 
-<01>692.251	
-<02>Divisórias de placas leves.
+<01>692.253 <02>Divisórias estruturadas, armadas.<06>692.253:691.311-419 Divisórias de gesso  
 
-<01>692.253	
-<02>Divisórias estruturadas, armadas.
-<09>Indicar os materiais de revestimento por meio de  :691... e o material da armação por meio de :693... ou: 694... 
-<06>692.253:691.311-419 Divisórias de gesso 
+<01>692.2 <02>53:694.5 Divisórias de armação de madeira. Divisórias de sarrafos 
 
-<01>692.2 
-<02>53:694.5 Divisórias de armação de madeira. Divisórias de sarrafos
+<01>692.256 <02>Divisórias temporárias. Divisórias estruturais de madeira compensada. Divisórias de vidro, etc. 
 
-<01>692.256	
-<02>Divisórias temporárias. Divisórias estruturais de madeira compensada. Divisórias de vidro, etc.
+<01>692.29 <02>Pormenores de paredes em geral. 
 
-<01>692.29	
-<02>Pormenores de paredes em geral.
-<09>692.233 Detalhes de paredes externas. Partes diversas inter-relacionadas segundo a localização, projetos, etc.
+<01>692.292 <02>Projeções da parede. Cornijas. Corbéis. 
 
-<01>692.292	
-<02>Projeções da parede. Cornijas. Corbéis.
-<09>Plintos. Sancas e roda-pés (interior).
+<01>692.294 <02>Junções da parede. Inclusive Cantos. Ângulos. Aberturas chanfradas. 
 
-<01>692.294	
-<02>Junções da parede. Inclusive Cantos. Ângulos. Aberturas chanfradas.
+<01>692.295 <02>Paredes curvas na planta baixa. 
 
-<01>692.295	
-<02>Paredes curvas na planta baixa.
+<01>692.297 <02>Pilastras de parede. Arcobotantes. Colunas. 
 
-<01>692.297	
-<02>Pilastras de parede. Arcobotantes. Colunas.
-<09>Vigas de apoio. Pilares e colunas isoladas.
+<01>692.298 <02>Recuos de parede. Nichos. 
 
-<01>692.298	
-<02>Recuos de parede. Nichos.
+<01>692.299 <02>Aberturas na parede e em áreas circunvizinhas em geral. Inclusive Vãos. Pórticos. Bandeiras de portas.  
 
-<01>692.299	
-<02>Aberturas na parede e em áreas circunvizinhas em geral. Inclusive Vãos. Pórticos. Bandeiras de portas. 
-<09>Bandeiras de portas. Portais. 
-<09>692.8 Portas. Portões. Janelas. Entradas de serviço
+<01>692.4 <02>Tetos e telhados. Acessórios de telhado.<04>Indicar o objetivo por meio de :72...<06>692.44:726 Cúpulas de igrejas 
 
-<01>692.4	
-<02>Tetos e telhados. Acessórios de telhado.
-<04>Indicar o objetivo por meio de :72...
-<06>692.44:726 Cúpulas de igrejas
-<09>624.042 Cálculo das cargas e esforços, tensões
-<09>624.072 Elementos para receber esforços biaxiais
+<01>692.41 <02>O telhado como cobertura de proteção. Inclusive Características dos telhados de resistência às intempéries. 
 
-<01>692.41	
-<02>O telhado como cobertura de proteção. Inclusive Características dos telhados de resistência às intempéries.
+<01>692.412 <02>Relação com o clima. Precauções contra  chuvas tropicais e outros elementos.<06>692.412:551.5 Fatores climáticos <06>692.412:696.121 Drenagem do telhado 
 
-<01>692.412	
-<02>Relação com o clima. Precauções contra 
-chuvas tropicais e outros elementos.
-<09>Proteção contra neve, etc.
-<06>692.412:551.5 Fatores climáticos 
-<06>692.412:696.121 Drenagem do telhado
+<01>692.413 <02>Inclinação do telhado. Queda do telhado. Ângulo de inclinação. 
 
-<01>692.413	
-<02>Inclinação do telhado. Queda do telhado.
-Ângulo de inclinação.
+<01>692.415 <02>Coberturas do telhado. Materiais de cobertura. 
 
-<01>692.415	
-<02>Coberturas do telhado. Materiais de
-cobertura.
+<01>692.42/.47 <02>Formas de telhado. Construção do telhado. 
 
-<01>692.42/.47	
-<02>Formas de telhado. Construção do telhado.
+<01>692.42 <02>Sistemas de estrutura, arcabouço plano. 
 
-<01>692.42	
-<02>Sistemas de estrutura, arcabouço plano.
-<09>Telhados de alta ou baixa inclinação.
+<01>692.421 <02>Telhados de vigas. Telhados de alpendres. Inclusive Telhados de viga de colarinho. Telhados de sela. Telhados de vão  em terças, etc. 
 
-<01>692.421	
-<02>Telhados de vigas. Telhados de alpendres. Inclusive Telhados de viga de colarinho. Telhados de sela. Telhados de vão
-	em terças, etc.
+<01>692.422 <02>Telhados com arestas. Inclusive Telhados curvos com a parte superior em aresta. Telhados com arestas e a parte <04>superior empenada. 
 
-<01>692.422	
-<02>Telhados com arestas. Inclusive Telhados curvos com a parte superior em aresta. Telhados com arestas e a parte 
-<04>superior empenada.
+<01>692.423 <02>Telhados de mansarda. Telhados com inclinações diferentes nos lados. Telhados de meia curva. 
 
-<01>692.423	
-<02>Telhados de mansarda. Telhados com
-inclinações diferentes nos lados. Telhados
-de meia curva.
+<01>692.425 <02>Telhados de barracão. Telheiros. Telhados  com entrada para a luz do norte. Telhados  serrilhados. 
 
-<01>692.425	
-<02>Telhados de barracão. Telheiros. Telhados 
-com entrada para a luz do norte. Telhados 
-serrilhados.
+<01>692.426 <02>Telhados de vão amplo. 
 
-<01>692.426	
-<02>Telhados de vão amplo.
+<01>692.43 <02>Telhados planos. Telhados de terraço. 
 
-<01>692.43	
-<02>Telhados planos. Telhados de terraço.
-<09>Telhados planos fechados.
+<01>692.432 <02>Telhados planos. 
 
-<01>692.432	
-<02>Telhados planos.
+<01>692.433 <02>Telhados de terraço. 
 
-<01>692.433	
-<02>Telhados de terraço.
+<01>692.435 <02>Telhados planos fechados. 
 
-<01>692.435	
-<02>Telhados planos fechados.
+<01>692.44/.47 <02>Sistemas de arcabouço tridimensional. 
 
-<01>692.44/.47 
-<02>Sistemas de arcabouço tridimensional.
+<01>692.44 <02>Cúpulas. Domos. Telhados abobadados. 
 
-<01>692.44	
-<02>Cúpulas. Domos. Telhados abobadados.
-<09>624.074.2 Domos. Cúpulas
-<09>624.074.3 Abóbadas. Construção abobadada
+<01>692.442 <02>Domos de Schwedler. 
 
-<01>692.442	
-<02>Domos de Schwedler.
+<01>692.443 <02>Domos de Zimmerman. 
 
-<01>692.443	
-<02>Domos de Zimmerman.
+<01>692.444 <02>Domos com nervuras. 
 
-<01>692.444	
-<02>Domos com nervuras.
+<01>692.445 <02>Domos com trabalho reticulado. Domos em  rede. 
 
-<01>692.445	
-<02>Domos com trabalho reticulado. Domos em 
-rede.
+<01>692.446 <02>Telhados de lamela. 
 
-<01>692.446	
-<02>Telhados de lamela.
+<01>692.447 <02>Telhados de pavilhões. Campanários. 
 
-<01>692.447	
-<02>Telhados de pavilhões. Campanários.
+<01>692.45 <02>Telhados em concha. 
 
-<01>692.45	
-<02>Telhados em concha.
-<09>624.074.4 Estruturas de membrana contínua. Estruturas de placa dobrada (prismáticas)
+<01>692.46 <02>Telhados de placas dobradas. 
 
-<01>692.46	
-<02>Telhados de placas dobradas.
+<01>692.47 <02>Telhados suspensos. 
 
-<01>692.47	
-<02>Telhados suspensos.
+<01>692.48 <02>Treliças de telhados. Vigas de telhado. de treliças. 
 
-<01>692.48	
-<02>Treliças de telhados. Vigas de telhado.
-<09>Treliças de estrutura. Partes estruturais
-de treliças.
-<09>624.078.4 Conexões de partes estruturais (e seu cálculo). Juntas de madeira, de aço, etc. Pontas de junção
+<01>692.484 <02>Partes de treliças com elementos mistos. 
 
-<01>692.484	
-<02>Partes de treliças com elementos mistos.
+<01>692.49 <02>Partes de telhados. Detalhes de telhados. 
 
-<01>692.49	
-<02>Partes de telhados. Detalhes de telhados.
+<01>692.492 <02>Aberturas nos telhados. Inclusive Clarabóias. Águas-furtadas. Luzes de telhados. 
 
-<01>692.492	
-<02>Aberturas nos telhados. Inclusive Clarabóias. Águas-furtadas. Luzes de telhados.
+<01>692.493 <02>Torres de cumeeira. 
 
-<01>692.493	
-<02>Torres de cumeeira.
+<01>692.497 <02>Vidraças em telhados. 
 
-<01>692.497	
-<02>Vidraças em telhados.
+<01>692.5 <02>Pisos. Pisos intermediários. Tetos. 
 
-<01>692.5	
-<02>Pisos. Pisos intermediários. Tetos.
-<09>624.074 Estruturas tridimensionais para suporte de carga (estruturas espaciais)
+<01>692.51 <02>Pisos apoiados no solo ou em vigas.<06>692.51:699.82 Membranas impermeáveis à umidade 
 
-<01>692.51	
-<02>Pisos apoiados no solo ou em vigas.
-<06>692.51:699.82 Membranas impermeáveis à umidade
+<01>692.52 <02>Pisos suspensos e elevados. Subsolos. internas. 
 
-<01>692.52	
-<02>Pisos suspensos e elevados. Subsolos.
-<09>Pisos elevados. Balcões e galerias 
-internas.
+<01>692.522 <02>Pisos de concreto e outros pisos similares  resistentes a fogo. Pisos de lajotas. Pisos de lajes nervuradas. Pisos de vigas protendidas. Pisos de tijolos furados. 
 
-<01>692.522	
-<02>Pisos de concreto e outros pisos similares 
-resistentes a fogo. Pisos de lajotas. Pisos de lajes nervuradas. Pisos de vigas protendidas. Pisos de tijolos furados.
-<09>624.073.136 Placas em apoios sem cabeça de cogumelo (p. ex. tetos em forma de cogumelo)
-<09>624.073.5 Armações em forma de placa ou estruturas em grade
+<01>692.526 <02>Pisos de madeira.<06>692.526:694.4 Pisos de madeira maciça<06>692.526:694.5 Pisos de traves de madeira 
 
-<01>692.526	
-<02>Pisos de madeira.
-<06>692.526:694.4 Pisos de madeira maciça
-<06>692.526:694.5 Pisos de traves de madeira
+<01>692.528 <02>Pisos elevados. Inclusive Painéis nervurados de aço laminado. 
 
-<01>692.528	
-<02>Pisos elevados. Inclusive Painéis nervurados de aço laminado.
+<01>692.53 <02>Assoalhos. Acabamentos de assoalho  (superfícies de desgaste). Inclusive os  
 
-<01>692.53	
-<02>Assoalhos. Acabamentos de assoalho 
-(superfícies de desgaste). Inclusive os 
-<09>Rodapés e molduras do mesmo material.
-<09>645.1 Pisos, guarnições de pisos, etc.
-<09>692.292 Projeções da parede. Cornijas. Corbéis. Plintos. Sancas e roda-pés (interior)
-<09>693.7 Ladrilhamento de assoalhos. Ladrilhamento de paredes. Pavimentação. Ofício de calceteiro. Trabalho com asfalto
+<01>692.533 <02>Assoalhos de metal ou outros minerais. 
 
-<01>692.533	
-<02>Assoalhos de metal ou outros minerais.
-<09>692.522 Pisos de concreto e outros pisos similares resistentes a fogo. Pisos de lajotas. Pisos de lajes nervuradas. Pisos de vigas protendidas. Pisos de tijolos furados
+<01>692.533.1 <02>Assoalhos feitos de materiais compostos, concreto, etc. 
 
-<01>692.533.1	
-<02>Assoalhos feitos de materiais compostos,
-concreto, etc.
+<01>692.533.2 <02>Assoalhos de mármore artificial (terrazzo). (para pisos, etc.) 
 
-<01>692.533.2	
-<02>Assoalhos de mármore artificial (terrazzo).
-<09>666.963 Mármore artificial (terrazzo). Aglomerados similares à base de cimento inorgânico 
-(para pisos, etc.)
+<01>692.533.3 <02>Assoalhos de mosaico e similares. 
 
-<01>692.533.3	
-<02>Assoalhos de mosaico e similares.
+<01>692.533.4 <02>Assoalhos de ladrilho. Assoalhos de lajotas. 
 
-<01>692.533.4	
-<02>Assoalhos de ladrilho. Assoalhos de lajotas.
-<09>Assoalhos de blocos.
+<01>692.533.5 <02>Assoalhos de lajes. Assoalhos de lajes grandes e similares. 
 
-<01>692.533.5	
-<02>Assoalhos de lajes. Assoalhos de lajes grandes e
-similares.
+<01>692.535 <02>Assoalhos de materiais não-minerais. 
 
-<01>692.535	
-<02>Assoalhos de materiais não-minerais.
+<01>692.535.1 <02>Assoalhos de madeira. Inclusive Assoalhos de taco, de parquete. 
 
-<01>692.535.1	
-<02>Assoalhos de madeira. Inclusive Assoalhos de taco, de parquete.
+<01>692.535.5 <02>Assoalhos de cortiça. Assoalhos de linóleo. 
 
-<01>692.535.5	
-<02>Assoalhos de cortiça. Assoalhos de linóleo.
-<09>Assoalhos de placas de fibra.
+<01>692.535.6 <02>Assoalhos de borracha. Assoalhos de plástico. 
 
-<01>692.535.6	
-<02>Assoalhos de borracha. Assoalhos de plástico.
+<01>692.535.7 <02>Grades (de metal ou madeira) de piso. 
 
-<01>692.535.7	
-<02>Grades (de metal ou madeira) de piso.
+<01>692.54 <02>Tetos. Tetos suspensos. 
 
-<01>692.54	
-<02>Tetos. Tetos suspensos.
-<09>692.52 Pisos suspensos e elevados. Subsolos. Pisos elevados. Balcões e galerias internas
+<01>692.6 <02>Escadas. Rampas. Elevadores.  
 
-<01>692.6	
-<02>Escadas. Rampas. Elevadores. 
-<09>Escadas rolantes.
+<01>692.61 <02>Generalidades. Dimensões. Declive.  
 
-<01>692.61	
-<02>Generalidades. Dimensões. Declive. 
-<09>Número de degraus por lance. Altura livre.
+<01>692.62 <02>Tipos de escadas. Escadas fixas. 
 
-<01>692.62	
-<02>Tipos de escadas. Escadas fixas.
+<01>692.622 <02>Escadas, escadarias segundo a localização. Inclusive Escadas externas. Escadas para terraço. Escadas internas. 
 
-<01>692.622	
-<02>Escadas, escadarias segundo a localização. Inclusive Escadas externas. Escadas para terraço. Escadas internas.
+<01>692.623 <02>Escadas fixas. Inclusive Escadas de ferro. Escadas de mão. 
 
-<01>692.623	
-<02>Escadas fixas. Inclusive Escadas de ferro. Escadas de mão.
+<01>692.625 <02>Escadas segundo o modelo ou forma. Inclusive Lances retos. Escadas em caracol, etc. 
 
-<01>692.625	
-<02>Escadas segundo o modelo ou forma. Inclusive Lances retos. Escadas em caracol, etc.
+<01>692.63 <02>Partes de escadas. 
 
-<01>692.63	
-<02>Partes de escadas.
+<01>692.631 <02>Pilares de escadas em caracol. 
 
-<01>692.631	
-<02>Pilares de escadas em caracol.
+<01>692.632 <02>Esteios dos pilares. 
 
-<01>692.632	
-<02>Esteios dos pilares.
+<01>692.633 <02>Corrimões. Balaústres e balaustradas. 
 
-<01>692.633	
-<02>Corrimões. Balaústres e balaustradas.
+<01>692.635 <02>Degraus sólidos. Pisos de degraus. Espelhos  (partes verticais de um degrau). 
 
-<01>692.635	
-<02>Degraus sólidos. Pisos de degraus. Espelhos 
-(partes verticais de um degrau).
+<01>692.637 <02>Armações laterais. 
 
-<01>692.637	
-<02>Armações laterais.
+<01>692.64 <02>Patamares. Plataformas. 
 
-<01>692.64	
-<02>Patamares. Plataformas.
+<01>692.65 <02>Planos inclinados. Rampas. 
 
-<01>692.65	
-<02>Planos inclinados. Rampas.
+<01>692.66 <02>Elevadores. 
 
-<01>692.66	
-<02>Elevadores.
-<09>621.876 Elevadores. Escadas rolantes. Monta-cargas
-<09>696.6 Instalações elétricas. Sistemas de fiação elétrica. Ofício de eletricista
+<01>692.67 <02>Escadas rolantes. 
 
-<01>692.67	
-<02>Escadas rolantes.
-<09>621.876.3 Instalações para movimento vertical de operação contínua
+<01>692.7 <02>Partes acessórias de construções. 
 
-<01>692.7	
-<02>Partes acessórias de construções.
+<01>692.71 <02>Chaminés. Torres de chaminés. 
 
-<01>692.71	
-<02>Chaminés. Torres de chaminés.
-<09>Exaustores.
-<09>697.8 Chaminés. Fumeiros
+<01>692.711 <02>Lareiras. 
 
-<01>692.711	
-<02>Lareiras.
+<01>692.713 <02>Exaustores de fumaça. 
 
-<01>692.713	
-<02>Exaustores de fumaça.
+<01>692.74 <02>Poços de ventilação. 
 
-<01>692.74	
-<02>Poços de ventilação.
+<01>692.75 <02>Poços, calhas diversas de escoamento e instalações de acesso. 
 
-<01>692.75	
-<02>Poços, calhas diversas de escoamento e
-instalações de acesso.
+<01>692.756 <02>Calhas para entrega de combustível. 
 
-<01>692.756	
-<02>Calhas para entrega de combustível.
-<09>Rampas de carvão.
+<01>692.758 <02>Tubos de descarga de lixo. 
 
-<01>692.758	
-<02>Tubos de descarga de lixo.
-<09>628.463 Coleta de lixo. Sistemas de coleta do lixo
-<09>628.47 Destino e utilização do lixo urbano
+<01>692.77 <02>Passagens para canos, etc. Passagens para fios, cabos. Ductos de calefação. Galerias por onde se pode andar. 
 
-<01>692.77	
-<02>Passagens para canos, etc. Passagens para
-fios, cabos. Ductos de calefação. Galerias
-por onde se pode andar.
+<01>692.78 <02>Meios de acesso a passagens e galerias de  serviço. Inclusive Coberturas horizontais. 
 
-<01>692.78	
-<02>Meios de acesso a passagens e galerias de 
-serviço. Inclusive Coberturas horizontais.
+<01>692.782 <02>Coberturas ou grades para passagens e galerias (acesso contínuo). 
 
-<01>692.782	
-<02>Coberturas ou grades para passagens e
-galerias (acesso contínuo).
+<01>692.783 <02>Dispositivos de visita, de inspeção. Tampas de poços de vistoria, de bueiros.<06>692.783:621.315.23 Para tubulação de fios elétricos <06>692.783:628.253 Para esgotos e águas servidas em geral <06>692.783:696.134.2 Para esgotos domésticos 
 
-<01>692.783	
-<02>Dispositivos de visita, de inspeção. Tampas
-de poços de vistoria, de bueiros.
-<06>692.783:621.315.23 Para tubulação de fios elétricos 
-<06>692.783:628.253 Para esgotos e águas servidas em geral 
-<06>692.783:696.134.2 Para esgotos domésticos
+<01>692.784 <02>Caixas pequenas de acesso. Caixas de<06>ligação para canalizações de água, de gás. 
 
-<01>692.784	
-<02>Caixas pequenas de acesso. Caixas de
-<06>ligação para canalizações de água, de gás.
-<09>621.646.92 Caixas
+<01>692.79 <02>Alçapões. Alçapões de porões. 
 
-<01>692.79	
-<02>Alçapões. Alçapões de porões.
+<01>692.8 <02>Portas. Portões. Janelas. Entradas de serviço. 
 
-<01>692.8	
-<02>Portas. Portões. Janelas. Entradas
-de serviço.
-<09>683.3 Serralheria. Fabricação de fechaduras. Ferragens de portas
-<09>692.299 Aberturas na parede e em áreas circunvizinhas em geral
+<01>692.81 <02>Portas. Portões. 
 
-<01>692.81	
-<02>Portas. Portões.
+<01>692.811 <02>Portões e portas articuladas, com dobradiças. Inclusive Portas giratórias. 
 
-<01>692.811	
-<02>Portões e portas articuladas, com dobradiças. Inclusive Portas giratórias.
+<01>692.812 <02>Portas e portões de correr. Inclusive  Portões levadiços. 
 
-<01>692.812	
-<02>Portas e portões de correr. Inclusive  Portões levadiços.
+<01>692.813 <02>Portas e portões do tipo grade. Inclusive Grade rolante. Grade articulada do tipo tesoura, grade pantográfica. 
 
-<01>692.813	
-<02>Portas e portões do tipo grade. Inclusive Grade rolante. Grade articulada do tipo tesoura, grade pantográfica.
+<01>692.814 <02>Portas e portões dobráveis ou telescópicos. 
 
-<01>692.814	
-<02>Portas e portões dobráveis ou telescópicos.
+<01>692.815 <02>Tipos combinados de portas e portões. 
 
-<01>692.815	
-<02>Tipos combinados de portas e portões.
+<01>692.817 <02>Portas segundo a finalidade. 
 
-<01>692.817	
-<02>Portas segundo a finalidade.
+<01>692.817.1 <02>Portas de entrada (portas externas). 
 
-<01>692.817.1 
-<02>Portas de entrada (portas externas).
+<01>692.817.3 <02>Portas de aposentos (portas internas). 
 
-<01>692.817.3	
-<02>Portas de aposentos (portas internas).
+<01>692.817.7 <02>Portas ocultas (portas secretas). 
 
-<01>692.817.7	
-<02>Portas ocultas (portas secretas).
+<01>692.82 <02>Janelas. 
 
-<01>692.82	
-<02>Janelas.
-<09>692.299 Aberturas na parede e em áreas circunvizinhas em geral
-<09>692.492 Aberturas nos telhados
-<09>698.3 Envidraçamento. Ofício de vidraceiro
+<01>692.821 <02>Janelas de batentes, de caixilho. Caixilhos  em cima. Caixilhos em baixo. Janelas  pivotantes. 
 
-<01>692.821	
-<02>Janelas de batentes, de caixilho. Caixilhos 
-em cima. Caixilhos em baixo. Janelas 
-pivotantes.
+<01>692.822 <02>Janelas de correr. Janelas corrediças. 
 
-<01>692.822	
-<02>Janelas de correr. Janelas corrediças.
+<01>692.823 <02>Tipos combinados de janelas. Inclusive  Janelas corrediças e dobráveis. 
 
-<01>692.823	
-<02>Tipos combinados de janelas. Inclusive  Janelas corrediças e dobráveis.
+<01>692.824 <02>Janelas de exibição. Vitrinas. 
 
-<01>692.824	
-<02>Janelas de exibição. Vitrinas.
+<01>692.826 <02>Janelas compostas que se projetam no  plano. Janelas oitavadas, salientes. Janelas  de arco. Janelas de canto. Muxarabiês. 
 
-<01>692.826	
-<02>Janelas compostas que se projetam no 
-plano. Janelas oitavadas, salientes. Janelas 
-de arco. Janelas de canto. Muxarabiês.
+<01>692.827 <02>Detalhes especiais. Inclusive Estruturas de segurança. Telas (contra insetos). Telas de vários tipos. 
 
-<01>692.827	
-<02>Detalhes especiais. Inclusive Estruturas de segurança. Telas (contra insetos). Telas de vários tipos.
+<01>692.828 <02>Dispositivos para proteção contra poeira e condensação nas janelas. 
 
-<01>692.828	
-<02>Dispositivos para proteção contra poeira e
-condensação nas janelas.
+<01>692.83 <02>Postigos. Venezianas. Persianas. 
 
-<01>692.83	
-<02>Postigos. Venezianas. Persianas.
+<01>692.831 <02>Venezianas rígidas. Venezianas de treliça. 
 
-<01>692.831	
-<02>Venezianas rígidas. Venezianas de treliça.
-<09>Postigos de venezianas.
+<01>692.833 <02>Persianas. Persianas de puxar. 
 
-<01>692.833	
-<02>Persianas. Persianas de puxar.
+<01>692.834 <02>Persianas de enrolar (para janelas). 
 
-<01>692.834	
-<02>Persianas de enrolar (para janelas).
+<01>692.836 <02>Toldos. Cobertas contra sol. Toldos contra intempéries. 
 
-<01>692.836	
-<02>Toldos. Cobertas contra sol. Toldos contra
-intempéries.
+<01>692.84 <02>Dispositivos de ventilação e vedação para portas e janelas. 
 
-<01>692.84	
-<02>Dispositivos de ventilação e vedação para
-portas e janelas.
+<01>692.842 <02>Dispositivos e acessórios de ventilação. 
 
-<01>692.842	
-<02>Dispositivos e acessórios de ventilação.
-<09>697.921.2 Ventilação natural
+<01>692.843 <02>Dispositivos de vedação. Eliminadores de correntes de ar, etc. 
 
-<01>692.843	
-<02>Dispositivos de vedação. Eliminadores de
-correntes de ar, etc.
+<01>692.848 <02>Dispositivos de vedação contra ar, contra gás. 
 
-<01>692.848	
-<02>Dispositivos de vedação contra ar, contra gás.
-<09>Especificar por meio de :699.87
+<01>692.86 <02>Bandeiras de portas. 
 
-<01>692.86	
-<02>Bandeiras de portas.
+<01>692.87 <02>Aberturas para serviço e observação. Grades. 
 
-<01>692.87	
-<02>Aberturas para serviço e observação. Grades.
+<01>692.871 <02>Portões, grades de serviço. 
 
-<01>692.871	
-<02>Portões, grades de serviço.
-<09>692.827 Detalhes especiais
+<01>692.876 <02>Aberturas para observação e inspeção. 
 
-<01>692.876	
-<02>Aberturas para observação e inspeção.
-<09>Painéis, olhos-mágicos, etc.
+<01>692.88 <02>Grades, gradis. Cercas. Catracas, roletas. 
 
-<01>692.88	
-<02>Grades, gradis. Cercas. Catracas, roletas.
-<09>Grades para entrada.
-<09>712.35 Limites
+<01>692.9 <02>Partes, equipamentos, acessórios auxiliares diversos.<06>692.9:628.94 Acessórios de lâmpadas <06>692.9:631.345 Suportes para plantas <06>692.9:673.5 Acessórios para sinos. Carrilhões, sinetas 
 
-<01>692.9	
-<02>Partes, equipamentos, acessórios
-auxiliares diversos.
-<06>692.9:628.94 Acessórios de lâmpadas 
-<06>692.9:631.345 Suportes para plantas 
-<06>692.9:673.5 Acessórios para sinos. Carrilhões, sinetas
-<09>691.88 Acessórios para fixação em geral
+<01>692.92 <02>Equipamentos e acessórios externos. Inclusive Postes, mastros e suas bases. <06>692.92:621.316.98 Acessórios para pára-raios 
 
-<01>692.92	
-<02>Equipamentos e acessórios externos. Inclusive Postes, mastros e suas bases. 
-<06>692.92:621.316.98 Acessórios para pára-raios
+<01>692.97 <02>Equipamentos e acessórios internos. Inclusive Ganchos. Pregadores. Suportes, ganchos   
 
-<01>692.97	
-<02>Equipamentos e acessórios internos. Inclusive Ganchos. Pregadores. Suportes, ganchos 
-<09>645 Móveis e acessórios domésticos
-<09>.646 Vestuário. Cuidados corporais
-<09>684 Indústria do mobiliário e indústrias afins. Fabricação de móveis. Estofamento 
+<01>693 <02>Alvenaria, ofício de pedreiro e ofícios correlatos 
 
+<01>693.1 <02>Alvenaria em pedra natural. Alvenaria de pedras brutas, ligeiramente lavradas ou não. Pedras brutas irregulares. 
 
-<01>693 
-<02>Alvenaria, ofício de pedreiro e ofícios correlatos
-<09>666.9 Indústrias de gesso, cal e cimento. Materiais de endurecimento. Estuques e composições. Argamassas e concreto
+<01>693.12 <02>Corte e lavra de pedras. Dimensões de  pedras. Trabalho com pedras de revestimento. 
 
-<01>693.1	
-<02>Alvenaria em pedra natural. Alvenaria de pedras brutas, ligeiramente lavradas ou não. Pedras brutas irregulares.
+<01>693.15 <02>Construção de muros de pedras. Inclusive Trabalho com pedras regulares e de forma aleatória. Trabalho com pedras <04>assentadas a seco ou com argamassa. Aglutinante. Forma das pedras. Assentamento. Juntas. 
 
-<01>693.12	
-<02>Corte e lavra de pedras. Dimensões de 
-pedras. Trabalho com pedras de revestimento.
+<01>693.2 <02>Alvenaria de material tratado,  pedras, blocos,etc. 
 
-<01>693.15	
-<02>Construção de muros de pedras. Inclusive Trabalho com pedras regulares e de forma aleatória. Trabalho com pedras 
-<04>assentadas a seco ou com argamassa. Aglutinante. Forma das pedras. Assentamento. Juntas.
+<01>693.21 <02>Alvenaria com pedras naturais  trabalhadas. Alvenaria com pedras  cortadas. Alvenaria com pedras de  cantaria. 
 
-<01>693.2	
-<02>Alvenaria de material tratado, 
-pedras, blocos,etc.
+<01>693.22 <02>Assentamento de tijolos. Aglutinantes de  tijolos. Juntas de argamassa. 
 
-<01>693.21	
-<02>Alvenaria com pedras naturais 
-trabalhadas. Alvenaria com pedras 
-cortadas. Alvenaria com pedras de 
-cantaria.
+<01>693.24 <02>Alvenaria de adobes (secos ao ar), blocos de adobe, cantaria de adobe. 
 
-<01>693.22	
-<02>Assentamento de tijolos. Aglutinantes de 
-tijolos. Juntas de argamassa.
-<09>Apontamento.
+<01>693.25 <02>Alvenaria com tijolos cozidos. 
 
-<01>693.24	
-<02>Alvenaria de adobes (secos ao ar), blocos
-de adobe, cantaria de adobe.
+<01>693.27 <02>Alvenaria de blocos, tijolos especiais, etc.  de concreto (ou outras massas artificiais  semelhantes). 
 
-<01>693.25	
-<02>Alvenaria com tijolos cozidos.
+<01>693.28 <02>Assentamento de blocos (em oposição ao  assentamento de tijolos). 
 
-<01>693.27	
-<02>Alvenaria de blocos, tijolos especiais, etc. 
-<09>Alvenaria de componentes pré-fabricados 
-de concreto (ou outras massas artificiais 
-semelhantes).
+<01>693.29 <02>Alvenaria composta. Alvenaria de componentes, etc. naturais e/ou artificiais. 
 
-<01>693.28	
-<02>Assentamento de blocos (em oposição ao 
-assentamento de tijolos).
+<01>693.3 <02>Alvenaria de terra estabilizada. 
 
-<01>693.29	
-<02>Alvenaria composta. Alvenaria de componentes, etc. naturais e/ou artificiais.
+<01>693.5 <02>Trabalho de construção com  concreto. Concretagem. Concreto feito no canteiro da obra. 
 
-<01>693.3	
-<02>Alvenaria de terra estabilizada.
-<09>Terra socada (construção de terra batida). Taipa.
+<01>693.54 <02>Técnica de concretagem em geral. 
 
-<01>693.5	
-<02>Trabalho de construção com 
-concreto. Concretagem. Concreto feito no canteiro da obra.
-<09>666.94 Indústria do cimento
-<09>666.97 Indústria de argamassa e concreto. Elementos de concreto. Produção de concreto em usinas
+<01>693.542 <02>Formação da massa. Mistura. Proporção de ingredientes na mistura. Controle da consistência. 
 
-<01>693.54	
-<02>Técnica de concretagem em geral.
-<09>Concreto simples (concreto em massa).
+<01>693.542.3 <02>Formação da massa. 
 
-<01>693.542	
-<02>Formação da massa. Mistura. Proporção de
-ingredientes na mistura. Controle da
-consistência.
+<01>693.542.4 <02>Aditivos, misturas. Arejamento. 
 
-<01>693.542.3	
-<02>Formação da massa.
+<01>693.542.5 <02>Mistura. Uso de misturadores de concreto, de betoneiras. Controle da consistência. 
 
-<01>693.542.4	
-<02>Aditivos, misturas. Arejamento.
-<09>Impermeabilizantes. Aceleradores. Plastificadores.
+<01>693.542.51 <02>Mistura manual. 
 
-<01>693.542.5	
-<02>Mistura. Uso de misturadores de concreto, de
-betoneiras. Controle da consistência.
+<01>693.542.52 <02>Mistura mecânica. Uso de misturadores de concreto, de betoneiras. 
 
-<01>693.542.51	
-<02>Mistura manual.
+<01>693.542.53 <02>Concreto pronto, concreto usinado. 
 
-<01>693.542.52	
-<02>Mistura mecânica. Uso de misturadores de
-concreto, de betoneiras.
+<01>693.546 <02>Aplicação e compactação do concreto. 
 
-<01>693.542.53	
-<02>Concreto pronto, concreto usinado.
+<01>693.546.1 <02>Aplicação descontínua ou aos poucos (p. ex. com carrinhos de mão ou caminhões). 
 
-<01>693.546	
-<02>Aplicação e compactação do concreto.
+<01>693.546.2 <02>Aplicação por calhas de escoamento, correias  transportadoras ou dispositivos semelhantes. 
 
-<01>693.546.1	
-<02>Aplicação descontínua ou aos poucos (p. ex.
-com carrinhos de mão ou caminhões).
+<01>693.546.3 <02>Aplicação por bombearnento, borrifação, injeção  ou métodos semelhantes. 
 
-<01>693.546.2	
-<02>Aplicação por calhas de escoamento, correias 
-transportadoras ou dispositivos semelhantes.
+<01>693.546.4 <02>Compactação por vibração. Concreto vibrado. Inclusive Com vibradores externos aplicados sobre fôrmas. 
 
-<01>693.546.3	
-<02>Aplicação por bombearnento, borrifação, injeção 
-ou métodos semelhantes.
+<01>693.546.5 <02>Pervibração.  <04>Transvibração. 
 
-<01>693.546.4	
-<02>Compactação por vibração. Concreto vibrado. Inclusive Com vibradores externos aplicados sobre fôrmas.
+<01>693.546.5 <02>Apisoamento. Secagem. Outros métodos de  compactação. 
 
-<01>693.546.5	
-<02>Pervibração.  
-<04>Transvibração.
+<01>693.546.7 <02>Acabamento, sarrafeamento, umedecimento (de  concreto). 
 
-<01>693.546.5	
-<02>Apisoamento. Secagem. Outros métodos de 
-compactação.
+<01>693.547 <02>Cura do concreto (inclusive cura a vapor),  aquecimento, resfriamento e outros  processos durante o assentamento e  endurecimento. 
 
-<01>693.546.7	
-<02>Acabamento, sarrafeamento, umedecimento (de 
-concreto).
+<01>693.547.1 <02>Métodos de cura. 
 
-<01>693.547	
-<02>Cura do concreto (inclusive cura a vapor), 
-aquecimento, resfriamento e outros 
-processos durante o assentamento e 
-endurecimento.
+<01>693.547.12 <02>Coberturas de água ou úmidas. 
 
-<01>693.547.1	
-<02>Métodos de cura.
+<01>693.547.13 <02>Membranas ou soluções especiais. 
 
-<01>693.547.12	
-<02>Coberturas de água ou úmidas.
+<01>693.547.14 <02>Cura a vapor. 
 
-<01>693.547.13	
-<02>Membranas ou soluções especiais.
+<01>693.547.2 <02>Tratamento a vácuo. Concreto a vácuo. 
 
-<01>693.547.14	
-<02>Cura a vapor.
+<01>693.547.3 <02>Concretagem em tempo frio. Construção de  concreto durante período de congelamento. 
 
-<01>693.547.2	
-<02>Tratamento a vácuo. Concreto a vácuo.
+<01>693.547.4 <02>Resfriamento de concreto em massa. 
 
-<01>693.547.3	
-<02>Concretagem em tempo frio. Construção de 
-concreto durante período de congelamento.
-<09>624.139 Engenharia de solo congelado
+<01>693.547.6 <02>Concretagem em tempo quente. Inclusive Umedecimento da superfície durante a cura. Coberturas úmidas. 
 
-<01>693.547.4	
-<02>Resfriamento de concreto em massa.
+<01>693.547.7 <02>Proteção contra vibração ou outras influências  mecânicas. 
 
-<01>693.547.6	
-<02>Concretagem em tempo quente. Inclusive Umedecimento da superfície durante a cura. Coberturas úmidas.
+<01>693.547.8 <02>Remoção ou quebra de fôrmas. Período de  desenformação. Limpeza de fôrmas. 
 
-<01>693.547.7	
-<02>Proteção contra vibração ou outras influências 
-mecânicas.
+<01>693.548 <02>Tratamento da superfície do concreto. Concreto aparente. Inclusive Endurecimento da superfície, batimento, etc. Lavagem (acabamento para exposição do agregado) 
 
-<01>693.547.8	
-<02>Remoção ou quebra de fôrmas. Período de 
-desenformação. Limpeza de fôrmas.
+<01>693.55 <02>Construção de concreto armado. 
 
-<01>693.548	
-<02>Tratamento da superfície do concreto. Concreto aparente. Inclusive Endurecimento da superfície, batimento, etc. Lavagem (acabamento para exposição do agregado)
+<01>693.552 <02>Formação da massa, mistura do concreto armado. 
 
-<01>693.55	
-<02>Construção de concreto armado.
-<09>666.982 Concreto armado
+<01>693.552 <02>dividido como 693.542 
 
-<01>693.552	
-<02>Formação da massa, mistura do concreto armado.
+<01>693.554 <02>Reforço (com aço). 
 
-<01>693.552 
-<02>dividido como 693.542
+<01>693.554.1 <02>Preparo e montagem do reforço.<06>693.554.1:621.791 Soldagem do reforço<06>693.554.l-.621.791.052.4 Pisoamento do reforço<06>693.554.l:621.882 Aparafusamento do reforço <06>693.554.l:621.981 Vergagem do reforço 
 
-<01>693.554	
-<02>Reforço (com aço).
+<01>693.554.2 <02>Reforço pré-fabricado. Inclusive Gaiolas de reforço. Estrutura de reforço. 
 
-<01>693.554.1 
-<02>Preparo e montagem do reforço.
-<06>693.554.1:621.791 Soldagem do reforço
-<06>693.554.l-.621.791.052.4 Pisoamento do reforço
-<06>693.554.l:621.882 Aparafusamento do reforço 
-<06>693.554.l:621.981 Vergagem do reforço
+<01>693.554.3 <02>Posição do reforço no concreto. 
 
-<01>693.554.2	
-<02>Reforço pré-fabricado. Inclusive Gaiolas de reforço. Estrutura de reforço.
+<01>693.554.6 <02>Assentamento e fixação do reforço. 
 
-<01>693.554.3	
-<02>Posição do reforço no concreto.
+<01>693.556 <02>Assentamento e compactação do concreto armado.<06>693.556 dividido como 693.546 
 
-<01>693.554.6	
-<02>Assentamento e fixação do reforço.
-<09>Ancoramentos. Ganchos e ilhoses. Laços. Espaçadores de barra.
-<09>Especificar por meio de -621.88...
+<01>693.557 <02>Cura do concreto armado (inclusive cura a  vapor). Aquecimento, resfriamento e outras medidas durante o assentamento e endurecimento.<06>693.557 dividido como 693.547 
 
-<01>693.556	
-<02>Assentamento e compactação do concreto
-armado.
-<06>693.556 dividido como 693.546
+<01>693.558 <02>Tratamento da superfície do concreto  armado. 
 
-<01>693.557	
-<02>Cura do concreto armado (inclusive cura a 
-vapor). Aquecimento, resfriamento e outras
-medidas durante o assentamento e
-endurecimento.
-<06>693.557 dividido como 693.547
+<01>693.56 <02>Construção com concreto protendido. 
 
-<01>693.558	
-<02>Tratamento da superfície do concreto 
-armado.
+<01>693.562 <02>Formação da massa, mistura do concreto protendido.<06>693.562 dividido como 693.542 
 
-<01>693.56	
-<02>Construção com concreto protendido.
+<01>693.564 <02>Reforço protendido. Aço protendido.  
 
-<01>693.562	
-<02>Formação da massa, mistura do concreto
-protendido.
-<06>693.562 dividido como 693.542
+<01>693.565 <02>Tensionamento, esforço. Pré-tensionamento (métodos e dispositivos).<06>693.565:536.41 Pré-tensionamento por expansão térmica <06>693.565:621.866 Pré-tensionamento por macacos 
 
-<01>693.564	
-<02>Reforço protendido. Aço protendido. 
-<09>Protensão.
+<01>693.566 <02>Colocação e compactação do concreto.<06>693.566 dividido como 693.546 
 
-<01>693.565	
-<02>Tensionamento, esforço. Pré-tensionamento
-(métodos e dispositivos).
-<06>693.565:536.41 Pré-tensionamento por expansão térmica 
-<06>693.565:621.866 Pré-tensionamento por macacos
+<01>693.567 <02>Cura do concreto (inclusive cura a vapor),  aquecimento, resfriamento e outras medidas  durante o assentamento e endurecimento.<06>693.567 dividido como 693.547 
 
-<01>693.566	
-<02>Colocação e compactação do concreto.
-<06>693.566 dividido como 693.546
+<01>693.568 <02>Tratamento da superfície do concreto  protendido. 
 
-<01>693.567	
-<02>Cura do concreto (inclusive cura a vapor), 
-aquecimento, resfriamento e outras medidas 
-durante o assentamento e endurecimento.
-<06>693.567 dividido como 693.547
+<01>693.6 <02>Ofício de estucador, emboçador. 
 
-<01>693.568	
-<02>Tratamento da superfície do concreto 
-protendido.
+<01>693.61 <02>Emboçamento. Reboco. 
 
-<01>693.6	
-<02>Ofício de estucador, emboçador.
-<09>Trabalho de acabamento.
-<09>666.91/.92 
+<01>693.611 <02>Emboço segundo seus componentes. 
 
-<01>693.61	
-<02>Emboçamento. Reboco.
+<01>693.612 <02>Emboço com aditivos. 
 
-<01>693.611	
-<02>Emboço segundo seus componentes.
+<01>693.613 <02>Preparo de superfícies para receber emboço. 
 
-<01>693.612	
-<02>Emboço com aditivos.
+<01>693.614 <02>Aplicação de emboços. Métodos de aplicação. 
 
-<01>693.613	
-<02>Preparo de superfícies para receber emboço.
-<09>Base, ripamento do emboço.
+<01>693.62 <02>Emboços segundo o uso e a finalidade.<06>693.62:692.2 Emboços de parede <06>693.62:692.54 Emboços de teto <06>693.62:699.82 Aplicações impermeáveis à água <06>693,62:699.844 Emboçamento à prova de som 
 
-<01>693.614	
-<02>Aplicação de emboços. Métodos de aplicação.
+<01>693.621 <02>Emboçamento de interiores. 
 
-<01>693.62	
-<02>Emboços segundo o uso e a finalidade.
-<06>693.62:692.2 Emboços de parede 
-<06>693.62:692.54 Emboços de teto 
-<06>693.62:699.82 Aplicações impermeáveis à água 
-<06>693,62:699.844 Emboçamento à prova de som
+<01>693.625 <02>Emboçamento de exterior. Revestimentos  com argamassa. Superfícies com textura. Emboçamento com ornatos. Estucagem. Acabamento com reboco grosso. Acabamento salpicado. Acabamento com seixos. Acabamento raspado. 
 
-<01>693.621	
-<02>Emboçamento de interiores.
+<01>693.63 <02>Estuque. 
 
-<01>693.625	
-<02>Emboçamento de exterior. Revestimentos 
-com argamassa. Superfícies com textura. Emboçamento com ornatos. Estucagem. Acabamento com reboco grosso. Acabamento salpicado. Acabamento com seixos. Acabamento raspado.
+<01>693.64 <02>Tratamento (técnico e artístico) de  superfícies de estuque de gesso. Inclusive Escaiola (imitação de mármore). Sgrafitto (trabalho com riscos,  grafitado). 
 
-<01>693.63	
-<02>Estuque.
+<01>693.65 <02>Com granulação. 
 
-<01>693.64	
-<02>Tratamento (técnico e artístico) de 
-superfícies de estuque de gesso. Inclusive Escaiola (imitação de mármore). Sgrafitto (trabalho com riscos, 
-grafitado).
+<01>693.66 <02>Ligação de juntas. Rejuntamento. Rejunte  de tijolos. 
 
-<01>693.65	
-<02>Com granulação.
+<01>693.69 <02>Acabamentos e revestimentos especiais diversos. 
 
-<01>693.66	
-<02>Ligação de juntas. Rejuntamento. Rejunte 
-de tijolos.
+<01>693.7 <02>Ladrilhamento de assoalhos. 
 
-<01>693.69	
-<02>Acabamentos e revestimentos especiais
-diversos.
+<01>693.73 <02>Assentamento de pisos sem juntas. Inclusive Assentamento de pisos em terrazo, em macadame. 
 
-<01>693.7	
-<02>Ladrilhamento de assoalhos.
-<09>Ladrilhamento de paredes. Pavimentação. Ofício de calceteiro. Trabalho com asfalto.
-<09>666.96 Composições de cimento de pega (de assentamento duro), aglomerados e produtos de pedra artificial (para primeira mão de emboço, revestimento final, camadas de suporte, enchimento, ligação, etc.)
+<01>693.74 <02>Assentamento de ladrilhos, lajotas, mosaicos pré-fabricados , etc. em tetos, paredes, instalações sanitárias, pisos. 
 
-<01>693.73	
-<02>Assentamento de pisos sem juntas. Inclusive Assentamento de pisos em terrazo, em macadame.
+<01>693.741 <02>Assentamento de mosaicos. 
 
-<01>693.74	
-<02>Assentamento de ladrilhos, lajotas, mosaicos pré-fabricados , etc. em tetos, paredes, instalações sanitárias, pisos.
-<09>666.268 Peças de vidro unidas por chumbo ou outro material adequado. Mosaicos de vidro. Vidros para produção de mosaicos
+<01>693.745 <02>Assentamento de placas de ardósia. 
 
-<01>693.741	
-<02>Assentamento de mosaicos.
+<01>693.75 <02>Pavimentação. Ofício de calceteiro. 
 
-<01>693.745	
-<02>Assentamento de placas de ardósia.
+<01>693.78 <02>Asfaltamento. Ofício de asfaltador. 
 
-<01>693.75	
-<02>Pavimentação. Ofício de calceteiro.
+<01>693.8 <02>Trabalho estrutural em aço e outros metais. 
 
-<01>693.78	
-<02>Asfaltamento. Ofício de asfaltador.
+<01>693.81 <02>Trabalho em ferro e aço. 
 
-<01>693.8	
-<02>Trabalho estrutural em aço e outros metais.
+<01>693.813 <02>Trabalho estrutural com ferro. Estruturas de ferro. 
 
-<01>693.81	
-<02>Trabalho em ferro e aço.
+<01>693.814 <02>Estruturas de aço. 
 
-<01>693.813	
-<02>Trabalho estrutural com ferro. Estruturas de ferro.
+<01>693.814.1 <02>Elementos diversos da estrutura de aço. Inclusive Elementos de aço protendido.<06>693.814.1.072.2 Vigas de aço 
 
-<01>693.814	
-<02>Estruturas de aço.
+<01>693.814.2 <02>Conexões de aço. Juntas de aço.<06>693.814.2 dividido como 624.078.4 
 
-<01>693.814.1	
-<02>Elementos diversos da estrutura de aço. Inclusive Elementos de aço protendido.
-<06>693.814.1.072.2 Vigas de aço
+<01>693.814.3 <02>Trabalhos com aço tubular. 
 
-<01>693.814.2	
-<02>Conexões de aço. Juntas de aço.
-<06>693.814.2 dividido como 624.078.4
+<01>693.82 <02>Estruturas de metais não-ferrosos em geral. 
 
-<01>693.814.3	
-<02>Trabalhos com aço tubular.
+<01>693.82 <02>dividido como 693.814 
 
-<01>693.82	
-<02>Estruturas de metais não-ferrosos em geral.
+<01>693.827 <02>Estruturas de metais leves (p.ex. alumínio). 
 
-<01>693.82 
-<02>dividido como 693.814
+<01>693.9 <02>Estruturas com preenchimento em painéis. Construções com  combinação de materiais diversos. 
 
-<01>693.827	
-<02>Estruturas de metais leves (p.ex. alumínio).
+<01>693.94 <02>Estruturas com armação de madeira. 
 
-<01>693.9	
-<02>Estruturas com preenchimento em
-painéis. Construções com 
-combinação de materiais diversos.
-<09>Construção composta.
+<01>693.95 <02>Estruturas com armação de concreto. 
 
-<01>693.94	
-<02>Estruturas com armação de madeira.
+<01>693.955 <02>Estruturas com armação de concreto armado. 
 
-<01>693.95	
-<02>Estruturas com armação de concreto.
+<01>693.956 <02>Estruturas com armação de concreto protendido. 
 
-<01>693.955	
-<02>Estruturas com armação de concreto armado.
+<01>693.97 <02>Estruturas com armação de metal. 
 
-<01>693.956	
-<02>Estruturas com armação de concreto protendido.
+<01>693.972 <02>Estruturas com armação de aço. 
 
-<01>693.97	
-<02>Estruturas com armação de metal.
+<01>693.977 <02>Estruturas com armação de metal leve. 
 
-<01>693.972 
-<02>Estruturas com armação de aço.
+<01>693.98 <02>Construções que combinam vários materiais. Construção composta.  
 
-<01>693.977 
-<02>Estruturas com armação de metal leve.
+<01>694 <02>Construções de madeira. Carpintaria. Marcenaria 
 
-<01>693.98	
-<02>Construções que combinam vários materiais. Construção composta.
+<01>694.1 <02>Construções de madeira em geral. carpinteiro. 
 
+<01>694.12 <02>Materiais de fixação. Prendedores. 
 
-<01>694 
-<02>Construções de madeira. Carpintaria. Marcenaria
-<09>674 Indústria da madeira e de trabalhos com madeira
+<01>694.14 <02>Juntas de madeira.<06>694.14 dividido como 624.078.4 
 
-<01>694.1	
-<02>Construções de madeira em geral.
-<09>Carpintaria. Trabalho de 
-carpinteiro.
+<01>694.3 <02>Construções temporárias de madeira. Inclusive Dimensionamento, corte, montagem de partes. 
 
-<01>694.12	
-<02>Materiais de fixação. Prendedores.
+<01>694.4 <02>Construção de madeira pesada. Inclusive Dimensionamento, corte, montagem das partes para fabricação dos <04>elementos de sustentação de carga pesada, arcabouço, vigas mestras, traves, armações. 
 
-<01>694.14	
-<02>Juntas de madeira.
-<06>694.14 dividido como 624.078.4
+<01>694.5 <02>Construções de madeira leve. Inclusive Dimensionamento. corte, montagem das partes para arcabouços leves, <04>paredes, tetos, assoalhos. 
 
-<01>694.3	
-<02>Construções temporárias de madeira. Inclusive Dimensionamento, corte, montagem de partes.
+<01>694.6 <02>Carpintaria. Inclusive Acabamentos, suportes, apoios de madeira. Ripas, escoras. Painéis. Portas. Janelas, ligamento <04>visível. Escadas. Assoalhos de tábuas.  
 
-<01>694.4	
-<02>Construção de madeira pesada. Inclusive Dimensionamento, corte, montagem das partes para fabricação dos 
-<04>elementos de sustentação de carga pesada, arcabouço, vigas mestras, traves, armações.
+<01>694.7 <02>Marcenaria. Marcenaria de ensamblagem ornamental.  
 
-<01>694.5	
-<02>Construções de madeira leve. Inclusive Dimensionamento. corte, montagem das partes para arcabouços leves, 
-<04>paredes, tetos, assoalhos.
+<01>696 <02>Equipamento, serviços, instalações (sanitárias, de gás, de vapor, elétricas) em construções. Encanador. Bombeiro. <04>Serralheiro. Instalador de esgotos. Eletricista. Outros ofícios. 
 
-<01>694.6	
-<02>Carpintaria. Inclusive Acabamentos, suportes, apoios de madeira. Ripas, escoras. Painéis. Portas. Janelas, ligamento 
-<04>visível. Escadas. Assoalhos de tábuas. 
-<09>674.21 Marcenaria de construção
+<01>696.1 <02>Ofício de instalador de canos, de encanador. Outros ofícios de trabalho em metal. 
 
-<01>694.7	
-<02>Marcenaria. Marcenaria de ensamblagem ornamental.
-<09>684.4 Móveis. Projeto e fabricação de móveis
-<09>684.6 Folheado. Marchetaria. Inscrustação, etc.
-<09>749.1 Mobília artística (antiga e moderna)
+<01>696.11 <02>Instalações de abastecimento de água. Inclusive Instalações para água potável.  
 
+<01>696.113 <02>Cisternas de abastecimento nas construções. 
 
-<01>696	
-<02>Equipamento, serviços, instalações (sanitárias, de gás, de vapor, elétricas) em construções. Encanador. Bombeiro.
+<01>696.115 <02>Disposição do abastecimento de água em relação aos equipamentos. Canos e respectivos calibres. 
 
-<04>Serralheiro. Instalador de esgotos. Eletricista. Outros ofícios.
+<01>696.117 <02>Torneiras. Registros. Acessórios. 
 
-<01>696.1	
-<02>Ofício de instalador de canos, de encanador. Outros ofícios de trabalho em metal.
-<09>628.1 Abastecimento de água. Tratamento de água. Consumo de água
+<01>696.12 <02>Drenagem por cima do solo. 
 
-<01>696.11	
-<02>Instalações de abastecimento de água. Inclusive Instalações para água potável. 
-<09>621.642/.646
-<09>644.61 Abastecimento de água potável
+<01>696.121 <02>Drenagem pelo telhado. Calhas, canos e  acessórios especiais para águas pluviais. Calhas de águas pluviais, etc. 
 
-<01>696.113	
-<02>Cisternas de abastecimento nas construções.
+<01>696.122 <02>Canos de águas servidas. Canos de esgotos. Tubos de ventilação. 
 
-<01>696.115	
-<02>Disposição do abastecimento de água em relação aos equipamentos. Canos e respectivos calibres.
+<01>696.13 <02>Drenagem sob o solo. Drenagem do terreno. Esgotos da casa. Destino do lixo local. 
 
-<01>696.117	
-<02>Torneiras. Registros. Acessórios.
+<01>696.132 <02>Esquema dos sistemas de drenagem. Inclusive Profundidade. Alinhamento. Gradiente. Dimensionamento. 
 
-<01>696.12	
-<02>Drenagem por cima do solo.
+<01>696.133 <02>Canos de drenagem, de esgoto e acessórios. 
 
-<01>696.121	
-<02>Drenagem pelo telhado. Calhas, canos e 
-acessórios especiais para águas pluviais. Calhas de águas pluviais, etc.
+<01>696.133.1 <02>Canos de esgoto. Inclusive Curvas, junções, ramais, conexões dos canos de esgoto. 
 
-<01>696.122	
-<02>Canos de águas servidas. Canos de esgotos. Tubos de ventilação.
-<09>628.2 Eliminação de águas urbanas servidas. Esgotos urbanos. Sistemas de esgotos
+<01>696.133.2 <02>Ventilação de esgotos locais. Inclusive Entrada de ar fresco e canos de ventilação (ventilação de induto e eduto).<04>Verificações para gás. Palhetas de mica. 
 
-<01>696.13	
-<02>Drenagem sob o solo. Drenagem do terreno. Esgotos da casa. Destino do lixo local.
-<09>628.242 Esgotos locais. Esgotos domiciliares (linhas de coleta)
+<01>696.133.3 <02>Alçapões (vigias de água, de gás). Bueiros, fossas. Interceptores. 
 
-<01>696.132	
-<02>Esquema dos sistemas de drenagem. Inclusive Profundidade. Alinhamento. Gradiente. Dimensionamento.
+<01>696.134 <02>Assentamento de esgotos. Construção de bueiros (câmaras de inspeção). Ofício de instalador de esgotos. 
 
-<01>696.133	
-<02>Canos de drenagem, de esgoto e acessórios.
+<01>696.134.1 <02>Construção de esgotos. 
 
-<01>696.133.1	
-<02>Canos de esgoto. Inclusive Curvas, junções, ramais, conexões dos canos de esgoto.
+<01>696.134.2 <02>Bueiros (alçapões de inspeção). Vigias (de acesso). 
 
-<01>696.133.2	
-<02>Ventilação de esgotos locais. Inclusive Entrada de ar fresco e canos de ventilação (ventilação de induto e eduto).
-<04>Verificações para gás. Palhetas de mica.
+<01>696.134.5 <02>Teste de impermeabilidade a água. Padrão  desejável de trabalho. 
 
-<01>696.133.3	
-<02>Alçapões (vigias de água, de gás). Bueiros, fossas. Interceptores.
+<01>696.135 <02>Destino de esgotos em construções isoladas. de tratamento de esgoto, de águas de esgoto. Obras para tratamento de esgotos 
 
-<01>696.134	
-<02>Assentamento de esgotos. Construção de bueiros (câmaras de inspeção). Ofício de
-instalador de esgotos.
+<01>696.136 <02>Sumidouros (para água de superfície). 
 
-<01>696.134.1 
-<02>Construção de esgotos.
+<01>696.138 <02>Sistemas de conservação. Fossas sanitárias. 
 
-<01>696.134.2	
-<02>Bueiros (alçapões de inspeção). Vigias (de acesso).
-<09>692.783 Dispositivos de visitas, de inspeção. Tampas de poços de vistoria, de bueiros
+<01>696.139 <02>Destino do lixo sólido. Inclusive Incineradores para uso local. 
 
-<01>696.134.5	
-<02>Teste de impermeabilidade a água. Padrão 
-desejável de trabalho.
+<01>696.14 <02>Instalações e acessórios sanitários em  construções. Acessórios de sanitários. 
 
-<01>696.135	
-<02>Destino de esgotos em construções isoladas.
-<09>Purificação de esgotos. Fossas sépticas.
-<09>628.32 Estações 
-de tratamento de esgoto, de águas de esgoto. Obras para tratamento de esgotos
+<01>696.141 <02>Privadas, vasos sanitários. Mictórios. Bidês. 
 
-<01>696.136	
-<02>Sumidouros (para água de superfície).
+<01>696.141.1 <02>Vasos sanitários. 
 
-<01>696.138	
-<02>Sistemas de conservação. Fossas sanitárias.
-<09>628.42 Latrinas. Fossas. Coleta e destino dado aos excrementos
+<01>696.141.2 <02>Mictórios. 
 
-<01>696.139	
-<02>Destino do lixo sólido. Inclusive Incineradores para uso local.
-<09>628.542 Enterramento
+<01>696.141.3 <02>Pias de águas servidas. 
 
-<01>696.14	
-<02>Instalações e acessórios sanitários em 
-construções. Acessórios de sanitários.
-<09>628.6 Esgotos e instalações sanitárias das edificações (especialmente os requisitos exigidos pela saúde pública)
-<09>644.68 Instalações e acessórios higiênicos e sanitários.
+<01>696.141.5 <02>Bidês. 
 
-<01>696.141	
-<02>Privadas, vasos sanitários. Mictórios. Bidês.
-<09>628.425 Instalações sanitárias públicas em geral
+<01>696.142 <02>Pias e acessórios. 
 
-<01>696.141.1	
-<02>Vasos sanitários.
+<01>696.143 <02>Bacias para as mãos. 
 
-<01>696.141.2	
-<02>Mictórios.
+<01>696.144 <02>Banheiras. Chuveiros. 
 
-<01>696.141.3	
-<02>Pias de águas servidas.
+<01>696.144.1 <02>Bacias para os pés. 
 
-<01>696.141.5	
-<02>Bidês.
+<01>696.144.2 <02>Chuveiros. Compartimentos para chuveiros. 
 
-<01>696.142	
-<02>Pias e acessórios.
+<01>696.144.4 <02>Banheiras de assento. 
 
-<01>696.143	
-<02>Bacias para as mãos.
+<01>696.144.5 <02>Banheiras para o corpo inteiro (inclusive painéis da banheira). 
 
-<01>696.144	
-<02>Banheiras. Chuveiros.
+<01>696.144.7 <02>Jacuzzis. 
 
-<01>696.144.1 
-<02>Bacias para os pés.
+<01>696.146 <02>Acessórios sanitários especiais para hospitais, consultórios odontológicos, etc.  
 
-<01>696.144.2	
-<02>Chuveiros. Compartimentos para chuveiros.
+<01>696.2 <02>Instalações de gás. Ofício de gasista. Tubos, acessórios para gás. 
 
-<01>696.144.4	
-<02>Banheiras de assento.
+<01>696.3 <02>Instalações para vapor.<04>caldeiras, principais elementos e componentes 
 
-<01>696.144.5	
-<02>Banheiras para o corpo inteiro (inclusive painéis da banheira).
+<01>696.4 <02>Abastecimento de água quente. 
 
-<01>696.144.7	
-<02>Jacuzzis.
+<01>696.42 <02>Instalações e equipamento de caldeiras,  aquecedores. 
 
-<01>696.146	
-<02>Acessórios sanitários especiais para hospitais, consultórios odontológicos, etc. 
-<09>615.478 Equipamento médico e cirúrgico para hospitais
+<01>696.43 <02>Tubulações e conexões para água quente. Inclusive Tamanho. Disposição, isolamento. 
 
-<01>696.2	
-<02>Instalações de gás. Ofício de
-gasista. Tubos, acessórios para gás.
-<09>Medidores de gás.
-<09>621.6.02 Gases. Vapores. Ar
-<09>621.643 Dispositivos para canalização e distribuição de fluidos. Tubulação. Canos
-<09>681.122 Medidores para gases e vapores
-<09>683.8 Lâmpadas a combustível ou de chama. Lampiões
-<09>607.245 Aquecedores a gás. Lareiras a gás
+<01>696.45 <02>Instalações para emissão de calor. Inclusive Secadores de toalhas de banho. 
 
-<01>696.3	
-<02>Instalações para vapor.
-<09>621.18 Caldeiras a vapor. Geradores de vapor. Usina, instalações a vapor em geral. Leiaute, esquema das 
-<04>caldeiras, principais elementos e componentes
-<09>697.5 Aquecimento central a vapor (por vapor direto e de escape, exaustão)
+<01>696.46 <02>Instalações para armazenamento de calor. Inclusive Cilindros de água quente. 
 
-<01>696.4	
-<02>Abastecimento de água quente.
-<09>644.62 Abastecimento de água quente
-<09>683.97 Aquecedores de água. Tanques de água quente
-<09>697.3/.4
+<01>696.48 <02>Sistemas e aparelhos para aquecimento de água. 
 
-<01>696.42	
-<02>Instalações e equipamento de caldeiras, 
-aquecedores.
+<01>696.5 <02>Instalações pneumáticas, de ar comprimido e vácuo. 
 
-<01>696.43	
-<02>Tubulações e conexões para água quente. Inclusive Tamanho. Disposição, isolamento.
+<01>696.6 <02>Instalações elétricas. Sistemas de fiação elétrica. Ofício de eletricista. 
 
-<01>696.45	
-<02>Instalações para emissão de calor. Inclusive Secadores de toalhas de banho.
+<01>697 <02>Calefação, ventilação e ar-condicionado nas construções 
 
-<01>696.46	
-<02>Instalações para armazenamento de calor. Inclusive Cilindros de água quente.
+<01>697.1 <02>Calefação de construções em geral. 
 
-<01>696.48	
-<02>Sistemas e aparelhos para aquecimento de água.
+<01>697.11 <02>Princípios gerais. Propriedades das  construções do ponto de vista do  aquecimento (medições, resultados). Níveis de temperatura. Consumo de combustível. 
 
-<01>696.5	
-<02>Instalações pneumáticas, de ar comprimido e vácuo.
-<09>621.5 Energia pneumática, maquinaria e ferramentas pneumáticas. Refrigeração
+<01>697.12 <02>Temperatura e requisitos de troca de ar  com referência especial ao cálculo de  perda de calor. 
 
-<01>696.6	
-<02>Instalações elétricas. Sistemas de fiação elétrica. Ofício de eletricista.
-<09>621.316.1 Redes de distribuição (em edifícios, etc.)
+<01>697.13 <02>Influências externas sobre a perda de calor  nas construções. 
 
-<01>697 
-<02>Calefação, ventilação e ar-condicionado nas construções
-<09>628.8 Clima interior. Ar-condicionado. Calefação. Ventilação
-<09>644.1 Climatização. Calefação. Ventilação. Ar-condicionado
-<09>662.6/.9 Economia de calor. Economia de combustível em geral. Combustão. Combustíveis naturais
-<09>683.9 Aparelhos de aquecimento. Estufas
+<01>697.132 <02>Temperatura externa, clima, estação, etc.  (com referência ao cálculo de perda de calor). 
 
-<01>697.1	
-<02>Calefação de construções em geral.
-<09>Princípios, requisitos, cálculos.
-<09>Influências externas e internas.
-<09>551.5 Meteorologia
-<09>612.5 Calor animal. Processos térmicos
-<09>699.86 Isolamento térmico de construções
+<01>697.133 <02>Perdas na transmissão de calor. Inclusive Influência da umidade e outros fatores. 
 
-<01>697.11	
-<02>Princípios gerais. Propriedades das 
-construções do ponto de vista do 
-aquecimento (medições, resultados). Níveis
-de temperatura. Consumo de combustível.
+<01>697.134 <02>Exposição a ventos (especialmente como  fator no cálculo da perda de calor). 
 
-<01>697.12	
-<02>Temperatura e requisitos de troca de ar 
-com referência especial ao cálculo de 
-perda de calor.
-<09>628.87 Requisitos de conforto. Regulação do clima interior e da temperatura do corpo
+<01>697.135 <02>Infiltração de ar (pelas janelas, aberturas de ventilação, portas, etc.). Perda de calor pelas correntes de ar. 
 
-<01>697.13	
-<02>Influências externas sobre a perda de calor 
-nas construções.
+<01>697.137 <02>Fatores de umidade na perda de calor. 
 
-<01>697.132	
-<02>Temperatura externa, clima, estação, etc. 
-(com referência ao cálculo de perda de
-calor).
+<01>697.14 <02>Influências internas na perda de calor das construções. Inclusive Efeitos da disposição, esquema, ocupação, etc. na perda  de calor. 
 
-<01>697.133	
-<02>Perdas na transmissão de calor. Inclusive Influência da umidade e outros fatores.
+<01>697.2 <02>Calefação de ambiente por dispositivos isolados geradores de calor nos aposentos. Inclusive Por lareiras, fogões, painéis de aquecimento. 
 
-<01>697.134	
-<02>Exposição a ventos (especialmente como 
-fator no cálculo da perda de calor).
+<01>697.24 <02>Aquecimento do ambiente por aquecedores que consomem combustível. 
 
-<01>697.135	
-<02>Infiltração de ar (pelas janelas, aberturas de
-ventilação, portas, etc.). Perda de calor pelas
-correntes de ar.
+<01>697.243 <02>Aquecedores a combustível sólido. 
 
-<01>697.137	
-<02>Fatores de umidade na perda de calor.
+<01>697.243.3 <02>Aquecedores a combustível sólido de ação primariamente radiante. Inclusive Fogos abertos. Lareiras. 
 
-<01>697.14	
-<02>Influências internas na perda de calor das construções. Inclusive Efeitos da disposição, esquema, ocupação, etc. na perda 
-de calor.
+<01>697.243.5 <02>Aquecedores a combustível sólido por ação de  convecção, primariamente. Fogões de combustível sólido. 
 
-<01>697.2	
-<02>Calefação de ambiente por dispositivos isolados geradores de calor nos aposentos. Inclusive Por lareiras, fogões, painéis de aquecimento.
-<09>644.11 Tipo de calefação
-<09>662.9 Engenharia de fornos e combustão
-<09>683.9 Aparelhos de aquecimento. Estufas
+<01>697.244 <02>Aquecedores a combustível líquido. Inclusive Aquecedores a querosene. 
 
-<01>697.24	
-<02>Aquecimento do ambiente por aquecedores
-que consomem combustível.
+<01>697.244.3 <02>Aquecedores a combustível líquido de ação  primariamente radiante. 
 
-<01>697.243	
-<02>Aquecedores a combustível sólido.
+<01>697.244.5 <02>Aquecedores a combustível líquido de ação  primariamente de convecção. 
 
-<01>697.243.3	
-<02>Aquecedores a combustível sólido de ação
-primariamente radiante. Inclusive Fogos abertos. Lareiras.
-<09>683.93 Lareiras abertas para aquecimento do ambiente. Lareiras. Grelhas
+<01>697.244.7 <02>Aquecedores combinados a combustível líquido e de radiação-convecção. 
 
-<01>697.243.5	
-<02>Aquecedores a combustível sólido por ação de 
-convecção, primariamente. Fogões de combustível sólido.
+<01>697.245 <02>Aquecedores a gás. Lareiras a gás. 
 
-<01>697.244	
-<02>Aquecedores a combustível líquido. Inclusive Aquecedores a querosene.
+<01>697.245.3 <02>Lareiras a gás de ação primariamente radiante  (que exigem normal mente chaminés). 
 
-<01>697.244.3	
-<02>Aquecedores a combustível líquido de ação 
-primariamente radiante.
+<01>697.245.5 <02>Aquecedores a gás de ação primariamente de  convecção. 
 
-<01>697.244.5	
-<02>Aquecedores a combustível líquido de ação 
-primariamente de convecção.
+<01>697.245.7 <02>Aquecedores combinados a gás e de ação  radiante e de convecção (sem escape). 
 
-<01>697.244.7	
-<02>Aquecedores combinados a combustível líquido
-e de radiação-convecção.
+<01>697.246 <02>Métodos combinados de calefação (p. ex.  aquecedores a carvão e gás). 
 
-<01>697.245	
-<02>Aquecedores a gás. Lareiras a gás.
+<01>697.27 <02>Aquecedores elétricos de ambientes. 
 
-<01>697.245.3	
-<02>Lareiras a gás de ação primariamente radiante 
-(que exigem normal mente chaminés).
+<01>697.273 <02>Aquecedores elétricos de ação  primariamente radiante. Lareiras elétricas. 
 
-<01>697.245.5	
-<02>Aquecedores a gás de ação primariamente de 
-convecção.
+<01>697.275 <02>Aquecedores elétricos de ação  primariamente de convecção. Radiadores  elétricos. 
 
-<01>697.245.7	
-<02>Aquecedores combinados a gás e de ação 
-radiante e de convecção (sem escape).
-<09>Aquecedores de painel a gás. Radiadores a gás.
+<01>697.278 <02>Aquecedores elétricos de armazenamento. 
 
-<01>697.246	
-<02>Métodos combinados de calefação (p. ex. 
-aquecedores a carvão e gás).
+<01>697.3 <02>Calefação central em geral  (inclusive de sistemas combinados de abastecimento de água quente e aquecimento de ambientes). 
 
-<01>697.27	
-<02>Aquecedores elétricos de ambientes.
-<09>621.365 Geração de calor pela eletricidade. Aquecimento elétrico
+<01>697.31 <02>Princípios gerais. Economia. Leiaute e projeto. 
 
-<01>697.273	
-<02>Aquecedores elétricos de ação 
-primariamente radiante. Lareiras elétricas.
+<01>697.32 <02>Local ou dependência da caldeira de  calefação. Espaço para armazenamento de combustível. 
 
-<01>697.275	
-<02>Aquecedores elétricos de ação 
-primariamente de convecção. Radiadores 
-elétricos.
+<01>697.325 <02>Fogões, caloríferos, estufas. 
 
-<01>697.278	
-<02>Aquecedores elétricos de armazenamento.
+<01>697.326 <02>Caldeiras (inclusive os tipos que combinam o abastecimento de água quente com  calefação central). 
 
-<01>697.3	
-<02>Calefação central em geral 
-(inclusive de sistemas combinados de abastecimento de água quente e aquecimento de ambientes).
-<09>696.4 Abastecimento de água quente
+<01>697.328 <02>Aparelhos de armazenamento do calor. 
 
-<01>697.31	
-<02>Princípios gerais. Economia. Leiaute e projeto.
+<01>697.329 <02>Dispositivos de aquecimento solar. Outros  aparelhos de transferência e  armazenamento de calor. 
 
-<01>697.32	
-<02>Local ou dependência da caldeira de 
-calefação. Espaço para armazenamento de combustível.
+<01>697.33 <02>Distribuição do meio de aquecimento. Tubulação. Inclusive Tamanho. Disposição, distribuição. Isolamento. 
 
-<01>697.325	
-<02>Fogões, caloríferos, estufas.
+<01>697.34 <02>Aquecimento distrital (zonal). Distribuição de calor à distância para diversas  construções ou edificações. 
 
-<01>697.326	
-<02>Caldeiras (inclusive os tipos que combinam o abastecimento de água quente com 
-calefação central).
-<09>621.18 Caldeiras a vapor. Geradores de vapor. Usina, instalações a vapor em geral. Leiaute, esquema das caldeiras, principais elementos e componentes
+<01>697.347 <02>Medição do consumo de calor (por vários  usuários). Controle do consumo de calor pelo uso de caloríferos. 
 
-<01>697.328	
-<02>Aparelhos de armazenamento do calor.
-<09>Caloríferos, a vapor ou água quente.
+<01>697.35 <02>Aparelhos emissores de calor. Inclusive Radiadores. Aquecedores por convecção. Aquecedores unitários. 
 
-<01>697.329	
-<02>Dispositivos de aquecimento solar. Outros 
-aparelhos de transferência e 
-armazenamento de calor.
-<09>662.997 Utilização de calor de fenômenos naturais
-<09>697.7 Outros métodos de aquecimento
+<01>697.352 <02>Tipos de radiador. Projeto, localização e  outros fatores que influem na capacidade de  aquecimento. 
 
-<01>697.33	
-<02>Distribuição do meio de aquecimento. Tubulação. Inclusive Tamanho. Disposição, distribuição. Isolamento.
+<01>697.353 <02>Aquecedores radiantes e de painel. Projeto, <06>localização e outros fatores que influem na capacidade de aquecimento. 
 
-<01>697.34	
-<02>Aquecimento distrital (zonal). Distribuição de calor à distância para diversas 
-construções ou edificações.
-<09>697.384 Aquecimento distrital (aquecimento zonal) apenas por ar ou gases quentes
-<09>697.434 Aquecimento distrital (zonal) por água quente a baixa pressão apenas
-<09>697.444 Aquecimento distrital (zonal) por água quente a alta pressão apenas
-<09>697.514 Aquecimento distrital (zonal) por vapor direto apenas
+<01>697.355 <02>Aquecedores por convecção. Convectores. Inclusive Grades. Coberturas. 
 
-<01>697.347	
-<02>Medição do consumo de calor (por vários 
-usuários). Controle do consumo de calor pelo uso de caloríferos.
-<09>681.125 Calorímetros
+<01>697.356 <02>Aquecedores unitários, individuais. 
 
-<01>697.35	
-<02>Aparelhos emissores de calor. Inclusive Radiadores. Aquecedores por convecção. Aquecedores unitários.
+<01>697357 <02>Bobinas de aquecimento, caloríficos. 
 
-<01>697.352	
-<02>Tipos de radiador. Projeto, localização e 
-outros fatores que influem na capacidade de 
-aquecimento.
+<01>697.358 <02>Capacidade de aquecimento. Métodos de  medição. Radiação diferencial. Coeficientes de convecção. 
 
-<01>697.353	
-<02>Aquecedores radiantes e de painel. Projeto, 
-<06>localização e outros fatores que influem na capacidade de aquecimento.
+<01>697.38 <02>Aquecimento por circulação de ar ou gases  quentes (sem contato direto com o ar no espaço a ser aquecido). Sistemas primitivos de aquecimento. Inclusive Hipocaustos. Gases de combustão. 
 
-<01>697.355	
-<02>Aquecedores por convecção. Convectores. Inclusive Grades. Coberturas.
+<01>697.381 <02>Princípios gerais. Economia. Projeto e leiaute. 
 
-<01>697.356	
-<02>Aquecedores unitários, individuais.
+<01>697.382 <02>Fornos e fornalhas para calefação a ar  quente (sem ventilação). Inclusive Estufas, fornalhas com ventoinhas. 
 
-<01>697357	
-<02>Bobinas de aquecimento, caloríficos.
-<09>Serpentinas.
+<01>697.383 <02>Distribuição, circulação de ar ou gases  quentes. Tamanho, disposição, distribuição, isolamento, etc. dos ductos. 
 
-<01>697.358	
-<02>Capacidade de aquecimento. Métodos de 
-medição. Radiação diferencial. Coeficientes de convecção.
+<01>697.384 <02>Aquecimento distrital (aquecimento zonal)  apenas por ar ou gases quentes. 
 
-<01>697.38	
-<02>Aquecimento por circulação de ar ou gases 
-quentes (sem contato direto com o ar no
-espaço a ser aquecido). Sistemas primitivos de aquecimento. Inclusive Hipocaustos. Gases de combustão.
+<01>697.385 <02>Aparelhos emissores de calor projetados  para sistemas de circulação indireta de ar ou  gás quente.<06>697.385 dividido como 697.35 
 
-<01>697.381	
-<02>Princípios gerais. Economia. Projeto e leiaute.
+<01>697.39 <02>Aquecimento adventício. Eficiência total da  instalação de aquecimento. Inclusive Aquecimento por escapamentos de chaminé. 
 
-<01>697.382	
-<02>Fornos e fornalhas para calefação a ar 
-quente (sem ventilação). Inclusive Estufas, fornalhas com ventoinhas.
+<01>697.4 <02>Aquecimento central a água  quente. Aquecimento central com outros líquidos, p. ex. óleo. 
 
-<01>697.383	
-<02>Distribuição, circulação de ar ou gases 
-quentes. Tamanho, disposição, distribuição,
-isolamento, etc. dos ductos.
-<09>Especificar por meio de :621.64... e :662.998
+<01>697.43 <02>Sistemas de aquecimento a água quente a  baixa pressão. 
 
-<01>697.384	
-<02>Aquecimento distrital (aquecimento zonal) 
-apenas por ar ou gases quentes.
-<09>697.34 Aquecimento distrital (zonal). Distribuição de calor à distância para diversas construções ou edificações
+<01>697.431 <02>Princípios gerais. Cálculos. Economia.  
 
-<01>697.385	
-<02>Aparelhos emissores de calor projetados 
-para sistemas de circulação indireta de ar ou 
-gás quente.
-<06>697.385 dividido como 697.35
+<01>697.432 <02>Instalações e equipamento da caldeira  (boiler).<06>697.432 dividido como 697.32 
 
-<01>697.39	
-<02>Aquecimento adventício. Eficiência total da 
-instalação de aquecimento. Inclusive Aquecimento por escapamentos de chaminé.
+<01>697.433 <02>Tubulações e conexões (tamanho,  distribuição e disposição, isolamento, etc.). 
 
-<01>697.4	
-<02>Aquecimento central a água 
-quente. Aquecimento central com outros líquidos, p. ex. óleo.
-<09>696.4 Abastecimento de água quente
+<01>697.433.2 <02>Circulação por gravidade. 
 
-<01>697.43	
-<02>Sistemas de aquecimento a água quente a 
-baixa pressão.
+<01>697.433.4 <02>Circulação acelerada. 
 
-<01>697.431	
-<02>Princípios gerais. Cálculos. Economia. 
-<09>Projeto.
+<01>697.434 <02>Aquecimento distrital (zonal), por água  quente a baixa pressão apenas.        edificações 
 
-<01>697.432	
-<02>Instalações e equipamento da caldeira 
-(boiler).
-<06>697.432 dividido como 697.32
+<01>697.435 <02>Aparelhos emissores de calor projetados  para aquecimento central a água quente de  baixa pressão.<06>697.435 dividido como 697.35 
 
-<01>697.433	
-<02>Tubulações e conexões (tamanho, 
-distribuição e disposição, isolamento, etc.).
+<01>697.44 <02>Sistemas de aquecimento a água quente e alta pressão. 
 
-<01>697.433.2	
-<02>Circulação por gravidade.
+<01>697.441 <02>Princípios gerais. Cálculo. Economia. Projeto. 
 
-<01>697.433.4	
-<02>Circulação acelerada.
+<01>697.442 <02>Instalações e equipamentos de caldeiras.<06>697.442 dividido como 697.32 
 
-<01>697.434	
-<02>Aquecimento distrital (zonal), por água 
-quente a baixa pressão apenas.
-<09>697.34 Aquecimento distrital (zonal). Distribuição de calor à distância para diversas construções ou 
-	      edificações
+<01>697.443 <02>Tubulação e conexões (tamanho,  distribuição, isolamento, etc.). 
 
-<01>697.435	
-<02>Aparelhos emissores de calor projetados 
-para aquecimento central a água quente de 
-baixa pressão.
-<06>697.435 dividido como 697.35
+<01>697.444 <02>Aquecimento distrital (zonal) por água  quente a alta pressão apenas.        edificações. 
 
-<01>697.44	
-<02>Sistemas de aquecimento a água quente e alta pressão.
+<01>697.445 <02>Aparelhos emissores de calor projetados para aquecimento central a água quente a pressão alta. 
 
-<01>697.441	
-<02>Princípios gerais. Cálculo. Economia. Projeto.
+<01>697.445 <02>dividido como 697.35 
 
-<01>697.442	
-<02>Instalações e equipamentos de caldeiras.
-<06>697.442 dividido como 697.32
+<01>697.47 <02>Métodos de acelerar a circulação de água quente no sistema. 
 
-<01>697.443	
-<02>Tubulação e conexões (tamanho, 
-distribuição, isolamento, etc.).
+<01>697.49 <02>Uso de outros líquidos circulantes. Inclusive Óleo como líquido circulante. 
 
-<01>697.444	
-<02>Aquecimento distrital (zonal) por água 
-quente a alta pressão apenas.
-<09>697.34 Aquecimento distrital (zonal). Distribuição de calor à distância para diversas construções ou 
-	      edificações.
+<01>697.5 <02>Aquecimento central a vapor (por  vapor direto e de escape, exaustão). 
 
-<01>697.445	
-<02>Aparelhos emissores de calor projetados para aquecimento central a água quente a pressão alta.
+<01>697.51 <02>Aquecimento central a vapor direto em geral. Inclusive Princípios. Economia. Projeto . 
 
-<01>697.445 
-<02>dividido como 697.35
+<01>697.511 <02>Princípios gerais. Cálculos. Economia. Projeto. 
 
-<01>697.47	
-<02>Métodos de acelerar a circulação de água
-quente no sistema.
+<01>697.512 <02>Instalações e equipamento de caldeiras.<06>697.512 dividido como 697.32 
 
-<01>697.49	
-<02>Uso de outros líquidos circulantes. Inclusive Óleo como líquido circulante.
+<01>697.513 <02>Tubulações e conexões (dimensões,  disposição e distribuição, isolamento, etc.). 
 
-<01>697.5	
-<02>Aquecimento central a vapor (por 
-vapor direto e de escape, exaustão).
-<09>621.1  Máquinas térmicas em geral. Geração, distribuição e uso do vapor. Máquinas a vapor. Caldeiras
+<01>697.514 <02>Aquecimento distrital (zonal) por vapor  direto apenas.           edificações 
 
-<01>697.51	
-<02>Aquecimento central a vapor direto em geral. Inclusive Princípios. Economia. Projeto .
+<01>697.515 <02>Aparelhos emissores de calor projetados  para sistemas de aquecimento central a  vapor direto. 
 
-<01>697.511	
-<02>Princípios gerais. Cálculos. Economia. Projeto.
+<01>697.52 <02>Sistemas de aquecimento a vapor a vácuo.<06>697.52 dividido como 697.51 
 
-<01>697.512	
-<02>Instalações e equipamento de caldeiras.
-<06>697.512 dividido como 697.32
+<01>697.53 <02>Sistemas de aquecimento a vapor a baixa pressão.<06>697.53 dividido como 697.51 
 
-<01>697.513	
-<02>Tubulações e conexões (dimensões, 
-disposição e distribuição, isolamento, etc.).
+<01>697.54 <02>Sistemas de aquecimento a vapor a alta pressão.<06>697.54 dividido como 697.51 
 
-<01>697.514	
-<02>Aquecimento distrital (zonal) por vapor 
-direto apenas.
-<09>697.34 Aquecimento distrital (zonal). Distribuição de calor à distância para diversas construções ou 
-	         edificações
+<01>697.55 <02>Sistemas de aquecimento central a vapor ou atmosférico.<06>697.55 dividido como 697.51 
 
-<01>697.515	
-<02>Aparelhos emissores de calor projetados 
-para sistemas de aquecimento central a 
-vapor direto.
+<01>697.56 <02>Sistemas de aquecimento central  subatmosférico ou diferencial.<06>697.56 dividido como 697.51 
 
-<01>697.52	
-<02>Sistemas de aquecimento a vapor a vácuo.
-<06>697.52 dividido como 697.51
+<01>697.57 <02>Aquecimento por vapor de escape, de exaustão. 
 
-<01>697.53	
-<02>Sistemas de aquecimento a vapor a baixa pressão.
-<06>697.53 dividido como 697.51
+<01>697.571 <02>Princípios. Cálculo. Economia. Projeto. 
 
-<01>697.54	
-<02>Sistemas de aquecimento a vapor a alta pressão.
-<06>697.54 dividido como 697.51
+<01>697.572 <02>Dispositivos especiais para remoção de ar e da água de condensação. 
 
-<01>697.55	
-<02>Sistemas de aquecimento central a vapor ou atmosférico.
-<06>697.55 dividido como 697.51
+<01>697.573 <02>Tubulação e conexões (tamanhos,  distribuição e disposição, isolamento, etc.). 
 
-<01>697.56	
-<02>Sistemas de aquecimento central 
-subatmosférico ou diferencial.
-<06>697.56 dividido como 697.51
+<01>697.574 <02>Aquecimento distrital ou zonal por vapor de escape. Inclusive Utilizando vapor de usinas de força.         edificações 
 
-<01>697.57	
-<02>Aquecimento por vapor de escape, de exaustão.
-<09>621.186.8 Utilização do vapor de escape
+<01>697.575 <02>Aparelhos emissores de calor, especialmente  projetados para sistemas de aquecimento  central a vapor de escape. 
 
-<01>697.571	
-<02>Princípios. Cálculo. Economia. Projeto.
+<01>697.7 <02>Outros métodos de aquecimento. Inclusive Aquecimento solar. 
 
-<01>697.572	
-<02>Dispositivos especiais para remoção de ar e
-da água de condensação.
+<01>697.8 <02>Chaminés. Fumeiros.        sustentação livre. Grupo de chaminés, etc. 
 
-<01>697.573	
-<02>Tubulação e conexões (tamanhos, 
-distribuição e disposição, isolamento, etc.).
+<01>697.81 <02>Fumeiros (internos). Inclusive Dimensões do fumeiro. Fumeiros de alvenaria. Fumeiros de tubos. 
 
-<01>697.574	
-<02>Aquecimento distrital ou zonal por vapor de escape. Inclusive Utilizando vapor de usinas de força.
-<09>697.34 Aquecimento distrital (zonal). Distribuição de calor à distância para diversas construções ou 
-	       edificações
-<09>697.514 Aquecimento distrital (zonal) por vapor direto apenas
+<01>697.83 <02>Chaminés internas. 
 
-<01>697.575	
-<02>Aparelhos emissores de calor, especialmente 
-projetados para sistemas de aquecimento 
-central a vapor de escape.
+<01>697.84 <02>Chaminés externas. Inclusive Poços de chaminé. Capelos de chaminé. 
 
-<01>697.7	
-<02>Outros métodos de aquecimento. Inclusive Aquecimento solar.
-<09>697.329 Dispositivos de aquecimento solar. Outros aparelhos de transferência e armazenamento de calor
+<01>697.85 <02>Chaminés autônomas. Inclusive Chaminés de fábrica.   
 
-<01>697.8	
-<02>Chaminés. Fumeiros.
-<09>624.971 Torres de sustentação livre, auto-sustentadas. Pilastra, pilões (torres de cabo). Mastros de 
-	      sustentação livre. Grupo de chaminés, etc.
-<09>628.522 Emprego de chaminés altas
-<09>662.922/.923
-<09>692.71 Chaminés. Torres de chaminés. Exaustores
+<01>697.87 <02>Regulagem da passagem de ar nos  fumeiros. 
 
-<01>697.81	
-<02>Fumeiros (internos). Inclusive Dimensões do fumeiro. Fumeiros de alvenaria. Fumeiros de tubos.
+<01>697.88 <02>Remoção de fuligem. Remoção de cinzas. 
 
-<01>697.83	
-<02>Chaminés internas.
+<01>697.9 <02>Ventilação. Ar-condicionado. 
 
-<01>697.84	
-<02>Chaminés externas. Inclusive Poços de chaminé. Capelos de chaminé.
+<01>697.91 <02>Princípios gerais. Instalações, equipamento, etc. 
 
-<01>697.85	
-<02>Chaminés autônomas. Inclusive Chaminés de fábrica.  
-<09>624.042 Cálculo das cargas e esforços, tensões
+<01>697.911 <02>Princípios. Cálculos. Projeto geral. 
 
-<01>697.87	
-<02>Regulagem da passagem de ar nos 
-fumeiros.
+<01>697.912 <02>Instalações e máquinas em geral. 
 
-<01>697.88	
-<02>Remoção de fuligem. Remoção de cinzas.
-<09>Limpeza de chaminé.
+<01>697.92 <02>Ventilação propriamente dita. 
 
-<01>697.9	
-<02>Ventilação. Ar-condicionado.
-<09>628.8 Clima interior. Ar-condicionado. Calefação. Ventilação
+<01>697.921 <02>Introdução e extração do ar. Entradas de ar.  
 
-<01>697.91	
-<02>Princípios gerais. Instalações, equipamento, etc.
+<01>697.921.2 <02>Ventilação natural. Inclusive Por janelas, gelosias, tijolos vazados. 
 
-<01>697.911	
-<02>Princípios. Cálculos. Projeto geral.
+<01>697.921.4 <02>Ventilação mecânica. Inclusive Sistema de exaustão. Sistema  repleto de matéria (em oposição a vácuo). 
 
-<01>697.912	
-<02>Instalações e máquinas em geral.
+<01>697.922 <02>Distribuição de ar fresco. Ductos de ar e  equipamento (projeto e construção). 
 
-<01>697.92	
-<02>Ventilação propriamente dita.
+<01>697.93 <02>Controle de umidade. 
 
-<01>697.921	
-<02>Introdução e extração do ar. Entradas de ar. 
-<09>Saídas de ar.
+<01>697.931 <02>Umidade (influência, medição, controle). 
 
-<01>697.921.2	
-<02>Ventilação natural. Inclusive Por janelas, gelosias, tijolos vazados.
+<01>697.932 <02>Umidificação. Umidificadores. Sistemas de  umidificação direta. 
 
-<01>697.921.4	
-<02>Ventilação mecânica. Inclusive Sistema de exaustão. Sistema 
-repleto de matéria (em oposição a vácuo).
+<01>697.933 <02>Redução do teor de umidade. 
 
-<01>697.922	
-<02>Distribuição de ar fresco. Ductos de ar e 
-equipamento (projeto e construção).
+<01>697.934 <02>Secagem do ar. 
 
-<01>697.93	
-<02>Controle de umidade.
+<01>697.94 <02>Unidades de ar-condicionado em geral. 
 
-<01>697.931	
-<02>Umidade (influência, medição, controle).
+<01>697.941 <02>Purificadores de ar em geral. 
 
-<01>697.932	
-<02>Umidificação. Umidificadores. Sistemas de 
-umidificação direta.
+<01>697.942 <02>Filtros de ar (para remoção de partículas do ar). Filtros de poeira, etc. 
 
-<01>697.933	
-<02>Redução do teor de umidade.
-<09>Desumidificadores.
+<01>697.943 <02>Eliminação de odores. Desodorização do ar. Inclusive Desodorização por carbono absorvente. 
 
-<01>697.934	
-<02>Secagem do ar.
+<01>697.945 <02>Coletores centrífugos. Coletores dinâmicos. 
 
-<01>697.94	
-<02>Unidades de ar-condicionado em geral.
-<09>Limpeza, lavagem e filtração do ar.
-<09>628.511Medidas contra a poeira
+<01>697.946 <02>Precipitação elétrica. Purificadores eletrostáticos de ar. 
 
-<01>697.941	
-<02>Purificadores de ar em geral.
+<01>697.947 <02>Geradores de ozônio. Ozonizadores. 
 
-<01>697.942	
-<02>Filtros de ar (para remoção de partículas do
-ar). Filtros de poeira, etc.
+<01>697.948 <02>Equipamento de raios ultravioleta. 
 
-<01>697.943	
-<02>Eliminação de odores. Desodorização do ar. Inclusive Desodorização por carbono absorvente.
+<01>697.95 <02>Circulação e movimento do ar. 
 
-<01>697.945	
-<02>Coletores centrífugos. Coletores dinâmicos.
+<01>697.952 <02>Circulação natural do ar. Inclusive Por diferenças na temperatura do ar. Pelo vento. 
 
-<01>697.946	
-<02>Precipitação elétrica. Purificadores eletrostáticos de ar.
-<09>621.359.4 Precipitação elétrica (eletroprecipitação) a partir de gases
+<01>697.953 <02>Circulação do ar por meios mecânicos. Ventiladores.<06>697.953:621.634 Ventiladores helicoidais. Ventiladores de fluxo axial  
 
-<01>697.947	
-<02>Geradores de ozônio. Ozonizadores.
+<01>621.5 <02>Energia pneumática, maquinaria e ferramentas pneumáticas. Refrigeração 
 
-<01>697.948	
-<02>Equipamento de raios ultravioleta.
+<01>697.956 <02>Circulação do ar por fontes de calor no ambiente, p. ex. lareiras, estufas. 
 
-<01>697.95	
-<02>Circulação e movimento do ar.
+<01>697.957 <02>Movimento do fluxo de ar. 
 
-<01>697.952	
-<02>Circulação natural do ar. Inclusive Por diferenças na temperatura do ar. Pelo vento.
+<01>697.97 <02>Condicionamento da temperatura. 
 
-<01>697.953	
-<02>Circulação do ar por meios mecânicos. Ventiladores.
-<06>697.953:621.634 Ventiladores helicoidais. Ventiladores de fluxo axial 
+<01>697.971 <02>Resfriamento em geral. 
 
-<01>621.5 
-<02>Energia pneumática, maquinaria e ferramentas pneumáticas. Refrigeração
-<09>621.5 Energia pneumática, maquinaria e ferramentas pneumáticas. Refrigeração
+<01>697.972 <02>Resfriamento por gelo. 
 
-<01>697.956	
-<02>Circulação do ar por fontes de calor no ambiente, p. ex. lareiras, estufas.
+<01>697.973 <02>Resfriamento por evaporação de líquidos. 
 
-<01>697.957	
-<02>Movimento do fluxo de ar.
-<09>628.854 Movimento do ar. Circulação do ar, ventilação
+<01>697.974 <02>Resfriamento por uso de água de poço. 
 
-<01>697.97	
-<02>Condicionamento da temperatura.
-<09>Resfriamento e aquecimento do ar.
+<01>697.975 <02>Resfriamento por refrigeração. 
 
-<01>697.971	
-<02>Resfriamento em geral.
+<01>697.978 <02>Aquecimento do ar introduzido. 
 
-<01>697.972	
-<02>Resfriamento por gelo.
+<01>697.98 <02>Eliminação de fuligem e fumaça (aspectos da construção, das instalações). 
 
-<01>697.973	
-<02>Resfriamento por evaporação de líquidos.
+<01>697.982 <02>Sistemas de exaustão. 
 
-<01>697.974	
-<02>Resfriamento por uso de água de poço.
+<01>697.983 <02>Coletores. 
 
-<01>697.975	
-<02>Resfriamento por refrigeração.
-<09>Especificar por meio de : 621.57...
+<01>697.984 <02>Capelas de coleta. Coifas. 
 
-<01>697.978	
-<02>Aquecimento do ar introduzido.
-<09>697.38 Aquecimento por circulação de ar ou gases quentes (sem contato direto com o ar no espaço a ser aquecido)
+<01>697.986 <02>Desenho, projeto, disposição e construção de ductos e canalizações. 
 
-<01>697.98	
-<02>Eliminação de fuligem e fumaça (aspectos
-da construção, das instalações).
-<09>628.511 Medidas contra a poeira
+<01>698 <02>Ofícios de acabamento e decoração. 
 
-<01>697.982	
-<02>Sistemas de exaustão.
-<09>621.61/.63
+<01>698.1 <02>Ofícios de pintura e decoração. 
 
-<01>697.983	
-<02>Coletores.
+<01>698.12 <02>Pintura de construções. Pintura  decorativa. Pintura à têmpera. Ofício de  pintor de casas. 
 
-<01>697.984	
-<02>Capelas de coleta. Coifas.
+<01>698.16 <02>Oficio de empapelador de paredes. 
 
-<01>697.986	
-<02>Desenho, projeto, disposição e construção de ductos e canalizações.
+<01>698.3 <02>Envidraçamento. Ofício de vidraceiro. 
 
-<01>698 
-<02>Ofícios de acabamento e decoração.
-<09>747 Decoração de interior
+<01>698.7 <02>Ofícios complementares de decoração. Ofícios de cortineiro,  tapeceiro e estofador.<06>698.7:645.1 Acabamento de revestimentos de pisos. Colocação de carpetes. Colocação de linóleos <06>698.7:645.3 Colocação de cortinas, persianas, etc. 
 
-<01>698.1	
-<02>Ofícios de pintura e decoração.
+<01>699.8 <02>Serviços ligados à proteção de construções. Medidas de emergência. Precauções.  
 
-<01>698.12	
-<02>Pintura de construções. Pintura 
-decorativa. Pintura à têmpera. Ofício de 
-pintor de casas.
-<09>667.64 Técnica, processos de revestimento
-<09>691.57 Tintas. Tintas feitas de cal e cola. Vernizes. Corantes. Conservantes
+<01>699.81 <02>Proteção contra incêndios. Medidas contra incêndio nas construções. Instalações e  equipamento contra incêndio. 
 
-<01>698.16	
-<02>Oficio de empapelador de paredes.
-<09>684.75 Cortinas para salas, colgaduras
-<09>691.145 Papéis de parede
+<01>699.812 <02>Construção de edifícios à prova de fogo. 
 
-<01>698.3	
-<02>Envidraçamento. Ofício de vidraceiro.
-<09>666.15/.16
-<09>686.6 Vidraçaria Corte de vidro
-<09>Vidraçaria artística. Janelas decorativas
+<01>699.814 <02>Desenho, projeto de construções para evitar incêndios. Inclusive Portas corta-fogo. Defletores. Saídas de fumaça. 
 
-<01>698.7	
-<02>Ofícios complementares de decoração. Ofícios de cortineiro, 
-tapeceiro e estofador.
-<06>698.7:645.1 Acabamento de revestimentos de pisos. Colocação de carpetes. Colocação de linóleos 
-<06>698.7:645.3 Colocação de cortinas, persianas, etc.
-<09>684.7 Estofagem. Pertences de cama. Cobertas. Cortinas
+<01>699.816 <02>Instalações contra incêndios nas construções. Inclusive Sistemas de extintores embutidos na construção. <04>Especificar por meio de :614.843/.847 
 
-<01>699.8	
-<02>Serviços ligados à proteção de construções. Medidas de emergência. Precauções.
+<01>699.82 <02>Proteção contra umidade. Construção à prova de umidade e água. 
 
+<01>699.822 <02>Procedimentos contra umidade (contra a umidade capilar, umidade do solo). 
 
-<01>699.81	
-<02>Proteção contra incêndios. Medidas contra incêndio nas construções. Instalações e 
-equipamento contra incêndio.
-<09>614.84 Riscos de incêndio. Incêndios. Proteção contra incêndios
+<01>699.826 <02>Estruturas à prova d'água. Inclusive Portas à prova d'água. Janelas à prova d'água. 
 
-<01>699.812	
-<02>Construção de edifícios à prova de fogo.
-<09>Emprego de materiais resistentes ao fogo. Tintas à prova de fogo, revestimentos anticombustíveis.
-<09>667.637.4 Revestimento para fins especiais
+<01>699.828 <02>Secagem de construções. 
 
-<01>699.814	
-<02>Desenho, projeto de construções para evitar incêndios. Inclusive Portas corta-fogo. Defletores. Saídas de fumaça.
+<01>699.83 <02>Proteção contra intempéries, ventos,  tempestades. Construção à prova de  intempéries. 
 
-<01>699.816	
-<02>Instalações contra incêndios nas construções. Inclusive Sistemas de extintores embutidos na construção. 
-<04>Especificar por meio de :614.843/.847
+<01>699.84 <02>Proteção contra vibração e ruído. 
 
-<01>699.82	
-<02>Proteção contra umidade. Construção à prova de umidade e água.
+<01>699.841 <02>Proteção contra efeitos sísmicos, tremores de terra. Construção resistente a terremotos. 
 
-<01>699.822	
-<02>Procedimentos contra umidade (contra a umidade capilar, umidade do solo).
+<01>699.842 <02>Isolamento contra vibrações relativamente leves. 
 
-<01>699.826	
-<02>Estruturas à prova d'água. Inclusive Portas à prova d'água. Janelas à prova d'água.
+<01>699.844 <02>Isolamento contra efeitos acústicos, ruídos. 
 
-<01>699.828	
-<02>Secagem de construções.
+<01>699.85 <02>Construção para defesa civil. 
 
-<01>699.83	
-<02>Proteção contra intempéries, ventos, 
-tempestades. Construção à prova de 
-intempéries.
+<01>699.852 <02>Abrigos subterrâneos de defesa civil. 
 
-<01>699.84	
-<02>Proteção contra vibração e ruído.
+<01>699.853 <02>Abrigos de defesa civil acima do solo. 
 
-<01>699.841	
-<02>Proteção contra efeitos sísmicos, tremores de
-terra. Construção resistente a terremotos.
+<01>699.86 <02>Isolamento térmico de construções. 
 
-<01>699.842	
-<02>Isolamento contra vibrações relativamente leves.
+<01>699.865 <02>Isolamento contra o frio. Construções  resistentes ao frio. 
 
-<01>699.844	
-<02>Isolamento contra efeitos acústicos, ruídos.
-<09>Construção à prova de som. Isolamento e absorção de som.
-<09>628.517.2 Medidas contra ruídos. Controle de ruídos
+<01>699.866 <02>Isolamento contra o calor. Construção resistente  ao calor. 
 
-<01>699.85	
-<02>Construção para defesa civil.
-<09>355.58 organização e treinamento da população civil. Defesa civil
+<01>699.868 <02>Prevenção de danos provocados pela dilatação  térmica. Juntas de dilatação. 
 
-<01>699.852	
-<02>Abrigos subterrâneos de defesa civil.
-<09>643.88 Áreas de proteção em porões. Abrigos em porões
+<01>699.87 <02>Proteção contra diversos efeitos tóxicos,  nocivos e biológicos. 
 
-<01>699.853	
-<02>Abrigos de defesa civil acima do solo.
+<01>699.871 <02>Construção à prova de gás. à prova de fumaça, de escapamentos.<06>699.871:546.296 Construção com proteção contra o gás radônio 
 
-<01>699.86	
-<02>Isolamento térmico de construções.
+<01>699.872 <02>Construção à prova de poeira. Medidas contra o acúmulo de sujeira e poeira. 
 
-<01>699.865	
-<02>Isolamento contra o frio. Construções 
-resistentes ao frio.
+<01>699.874 <02>Construção à prova de apodrecimento. Medidas contra microorganismos. Inclusive Medidas contra fungos, mofos. 
 
-<01>699.866	
-<02>Isolamento contra o calor. Construção resistente 
-ao calor.
-<09>699.812 Construção de edifícios à prova de fogo. Emprego de materiais resistentes ao fogo. Tintas à prova de fogo, revestimentos
+<01>699.876 <02>Proteção contra vegetação, musgos e raízes. 
 
-<01>699.868	
-<02>Prevenção de danos provocados pela dilatação 
-térmica. Juntas de dilatação.
+<01>699.878 <02>Construção à prova de pragas, insetos. 
 
-<01>699.87	
-<02>Proteção contra diversos efeitos tóxicos, 
-nocivos e biológicos.
+<01>699.88 <02>Proteção contra várias influências físicas. 
 
-<01>699.871	
-<02>Construção à prova de gás. à prova de fumaça,
-de escapamentos.
-<06>699.871:546.296 Construção com proteção contra o gás radônio
-<09>62-784.2 Proteção contra a contaminação atmosférica, a poluição atmosférica
-<09>623.459.72 Abrigos à prova de gases
-<09>628.52 Medidas contra fumaças, emanações, cheiros, odores industriais
-<09>628.53 Medidas contra fumaça e fuligem. Medidas para diminuição da fumaça
+<01>699.885 <02>Proteção contra a luz. 
 
-<01>699.872	
-<02>Construção à prova de poeira. Medidas contra o acúmulo de sujeira e poeira.
-<09>62-784.4 Controle da poeira, de partículas transportadas pelo ar
+<01>699.887 <02>Proteção contra efeitos elétricos e radiativos. 
 
-<01>699.874	
-<02>Construção à prova de apodrecimento. Medidas contra microorganismos. Inclusive Medidas contra fungos, mofos.
+<01>699.887.2 <02>Proteção contra raios. 
 
-<01>699.876	
-<02>Proteção contra vegetação, musgos e raízes.
+<01>699.887.3 <02>Proteção contra radiações ionizantes. Blindagem  contra radiação (p. ex. em usina atômica). 
 
-<01>699.878	
-<02>Construção à prova de pragas, insetos.
+<01>699.887.5 <02>Proteção contra radiação elétrica. Inclusive Proteção contra raios. 
 
-<01>699.88	
-<02>Proteção contra várias influências físicas.
-
-<01>699.885	
-<02>Proteção contra a luz.
-
-<01>699.887	
-<02>Proteção contra efeitos elétricos e radiativos.
-
-<01>699.887.2	
-<02>Proteção contra raios.
-
-<01>699.887.3	
-<02>Proteção contra radiações ionizantes. Blindagem 
-contra radiação (p. ex. em usina atômica).
-<09>667.661.2 Equipamento para aplicar o revestimento
-
-<01>699.887.5	
-<02>Proteção contra radiação elétrica. Inclusive Proteção contra raios.
-
-<01>699.888	
-<02>Construção antimagnética. Proteção e resistência ao magnetismo.
+<01>699.888 <02>Construção antimagnética. Proteção e resistência ao magnetismo.
